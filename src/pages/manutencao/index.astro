@@ -1,0 +1,17 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import SiloCta from '../../components/ui/SiloCta.astro';
+const itens = (await getCollection('manutencao', ({ data }) => !data.draft)).map((e) => ({ id: e.id, ...e.data }));
+---
+<BaseLayout title="Manutenção e DIY | Hachiroku" description="Tutoriais de manutenção automotiva passo a passo, com as ferramentas e peças certas. Faça você mesmo com segurança e economize na oficina.">
+  <section class="hero" style="padding-block:var(--space-16)">
+    <p class="kicker" style="color:var(--asphalt-300)">MÃO NA MASSA · FAÇA VOCÊ MESMO</p>
+    <h1>Manutenção</h1>
+    <p class="tagline">Mão na massa, peça certa</p>
+  </section>
+  <section class="silos" aria-label="Tutoriais disponíveis">
+    {itens.map((i) => (<a class="silo-card" href={`/manutencao/${i.id}/`}><h2>{i.title}</h2><p>{i.tempo ?? ''} {i.dificuldade ? `· ${i.dificuldade}` : ''}</p></a>))}
+  </section>
+  <SiloCta />
+</BaseLayout>

@@ -1,0 +1,123 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '../../../../layouts/BaseLayout.astro';
+import Photo from '../../../../components/ui/Photo.astro';
+import Badge from '../../../../components/ui/Badge.astro';
+import { fotoPorModelo } from '../../../../lib/fotos';
+import { modeloSameAs } from '../../../../lib/wikis';
+
+// Gera um pilar (hub) para cada modelo que tem ao menos uma folha de problema.
+export async function getStaticPaths() {
+  const entries = await getCollection('problemas', ({ data }) => !data.draft);
+  const grupos = new Map<string, { marca: string; modelo: string; nomeMarca: string; nomeModelo: string; itens: any[] }>();
+  for (const e of entries) {
+    const parts = e.id.split('/');
+    if (parts.length < 3) continue;
+    const [marca, modelo] = parts;
+    const key = `${marca}/${modelo}`;
+    if (!grupos.has(key)) {
+      grupos.set(key, { marca, modelo, nomeMarca: e.data.entidade.marca, nomeModelo: e.data.entidade.modelo, itens: [] });
+    }
+    grupos.get(key)!.itens.push(e);
+  }
+  return [...grupos.values()].map((g) => ({
+    params: { marca: g.marca, modelo: g.modelo },
+    props: { ...g, itens: g.itens.sort((a, b) => a.data.title.localeCompare(b.data.title)) },
+  }));
+}
+
+const { marca, modelo, nomeMarca, nomeModelo, itens } = Astro.props;
+const site = 'https://hachiroku.com.br';
+const url = `${site}/problemas/${marca}/${modelo}/`;
+const _modeloWikiKey = `${marca}/${modelo}`;
+const _modeloDatePublished = itens.reduce((earliest: string, e: any) => {
+  const d = e.data.pubDate?.toISOString().slice(0, 10) ?? '';
+  return !earliest || d < earliest ? d : earliest;
+}, '');
+
+// Cross-links: ficha técnica e guia de compra do mesmo modelo, se existirem
+const fichas = await getCollection('fichas', ({ data }) => !data.draft);
+const ficha = fichas.find((f) => f.id.split('/').slice(0, 2).join('/') === `${marca}/${modelo}`);
+const guias = await getCollection('guias', ({ data }) => !data.draft);
+const guia = guias.find((g) => g.data.marca && g.data.modelo &&
+  `${g.data.marca}/${g.data.modelo}`.toLowerCase().replace(/\s+/g, '-') === `${marca}/${modelo}`);
+const capa = fotoPorModelo(nomeMarca, nomeModelo);
+
+const jsonld = {
+  '@context': 'https://schema.org',
+  '@graph': [
+    {
+      '@type': 'BreadcrumbList',
+      '@id': `${url}#breadcrumb`,
+      itemListElement: [
+        { '@type': 'ListItem', position: 1, name: 'Problemas', item: `${site}/problemas/` },
+        { '@type': 'ListItem', position: 2, name: `${nomeMarca} ${nomeModelo}`, item: url },
+      ],
+    },
+    {
+      '@type': 'CollectionPage',
+      '@id': `${url}#collection`,
+      name: `Problemas do ${nomeMarca} ${nomeModelo}: diagnóstico por defeito`,
+      description: `Defeitos crônicos e diagnósticos do ${nomeMarca} ${nomeModelo} por sintoma, com causas, custo e prevenção.`,
+      about: {
+        '@type': 'Thing',
+        name: `${nomeMarca} ${nomeModelo}`,
+        ...(modeloSameAs(_modeloWikiKey) ? { sameAs: modeloSameAs(_modeloWikiKey) } : {}),
+      },
+      ..._modeloDatePublished && { datePublished: _modeloDatePublished },
+      inLanguage: 'pt-BR',
+      isPartOf: { '@id': `${site}/#website` },
+      publisher: { '@id': `${site}/#organization` },
+      mainEntityOfPage: { '@type': 'WebPage', '@id': url },
+      hasPart: [{ '@id': `${url}#itemlist` }],
+    },
+    {
+      '@type': 'ItemList',
+      '@id': `${url}#itemlist`,
+      itemListElement: itens.map((e: any, i: number) => ({
+        '@type': 'ListItem', position: i + 1, url: `${site}/problemas/${e.id}/`, name: e.data.title,
+      })),
+    },
+  ],
+};
+---
+<BaseLayout
+  title={`Problemas do ${nomeMarca} ${nomeModelo}: diagnóstico por defeito | Hachiroku`}
+  description={`Defeitos crônicos e diagnósticos do ${nomeMarca} ${nomeModelo} por sintoma, com causas, custo e prevenção. Soluções automotivas de precisão.`}
+  canonical={url}
+  type="article"
+>
+  <script type="application/ld+json" set:html={JSON.stringify(jsonld)} />
+  <article class="prose">
+    <nav class="breadcrumb" aria-label="Você está em">
+      <a href="/problemas/">Problemas</a> · <span>{nomeMarca} {nomeModelo}</span>
+    </nav>
+    <header>
+      <p class="kicker">{nomeMarca} {nomeModelo}</p>
+      <h1 class="article-title">Problemas do {nomeMarca} {nomeModelo}</h1>
+    </header>
+    <p class="lead">Os diagnósticos do {nomeMarca} {nomeModelo} por sintoma, do mais crítico ao mais comum. Cada um com causas, custo e como prevenir.</p>
+
+    <Photo label={`${nomeMarca} ${nomeModelo}`} h={240} src={capa} class="artigo-capa" priority />
+
+    <section aria-label={`Diagnósticos do ${nomeModelo}`}>
+      <div class="defeito-grid">
+        {itens.map((e: any) => (
+          <a class="defeito-card" href={`/problemas/${e.id}/`}>
+            <Badge tone="danger">{e.data.defeito ?? 'Defeito crônico'}</Badge>
+            <h2>{e.data.title}</h2>
+            <p>{e.data.description}</p>
+            <span class="defeito-go" aria-hidden="true">Ver diagnóstico →</span>
+          </a>
+        ))}
+      </div>
+    </section>
+
+    {(ficha || guia) && (
+      <nav class="modelo-xlinks" aria-label="Mais sobre o modelo">
+        {ficha && <a href={`/ficha-tecnica/${ficha.id}/`}>Ficha técnica do {nomeModelo} →</a>}
+        {guia && <a href={`/guia-de-compra/${guia.id}/`}>{nomeModelo} usado vale a pena? →</a>}
+      </nav>
+    )}
+  </article>
+</BaseLayout>

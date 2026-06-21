@@ -1,0 +1,17 @@
+---
+/**
+ * Card — componente único com 5 variações conforme DS §6.
+ * Variantes: silo | spec | chronic | defeito | side
+ */
+interface Props {
+  variant?: 'silo' | 'spec' | 'chronic' | 'defeito' | 'side';
+  href?: string;
+  class?: string;
+}
+const { variant = 'silo', href, class: cls = '' } = Astro.props;
+---
+{href ? (
+  <a href={href} class={`${variant}-card ${cls}`}><slot /></a>
+) : (
+  <article class={`${variant}-card ${cls}`}><slot /></article>
+)}

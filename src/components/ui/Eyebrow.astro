@@ -1,0 +1,22 @@
+---
+/**
+ * Eyebrow / kicker (Astro) — rótulo mono uppercase espaçado, com número de seção opcional.
+ * `as` permite renderizar como heading (h2/h3) para hierarquia semântica correta,
+ * mantendo o mesmo visual de eyebrow.
+ */
+interface Props {
+  number?: string;
+  tone?: 'muted' | 'accent' | 'strong';
+  as?: 'p' | 'h2' | 'h3';
+  tick?: boolean;
+  class?: string;
+}
+const { number, tone = 'muted', as = 'p', tick = true, class: cls = '' } = Astro.props;
+const Tag = as;
+---
+<Tag class={`eyebrow eyebrow-${tone} ${cls}`}>
+  {number
+    ? <span class="eyebrow-num">{number}</span>
+    : (tick && <span class="eyebrow-tick" aria-hidden="true"></span>)}
+  <slot />
+</Tag>

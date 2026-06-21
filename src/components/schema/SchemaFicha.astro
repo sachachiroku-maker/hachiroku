@@ -1,0 +1,90 @@
+---
+/**
+ * Schema de ficha técnica — @graph com BreadcrumbList + Product + Vehicle + FAQPage.
+ * Gerado do frontmatter da collection `fichas` (Template B do plano de schema).
+ */
+import { modeloSameAs } from '../../lib/wikis';
+
+interface Props {
+  data: any;
+  url: string;
+  breadcrumb: { name: string; item?: string }[];
+}
+const { data, url, breadcrumb } = Astro.props;
+const site = 'https://hachiroku.com.br';
+const nome = `${data.marca} ${data.modelo} ${data.ano} ${data.versao}`;
+const _fichaModeloKey = `${data.marca.toLowerCase()}/${data.modelo.toLowerCase().replace(/\s+/g, '-')}`;
+
+const graph: any[] = [
+  {
+    '@type': 'BreadcrumbList',
+    '@id': `${url}#breadcrumb`,
+    itemListElement: breadcrumb.map((b, i) => ({
+      '@type': 'ListItem',
+      position: i + 1,
+      name: b.name,
+      item: b.item ?? (i === breadcrumb.length - 1 ? url : undefined),
+    })),
+  },
+  {
+    '@type': 'Product',
+    '@id': `${url}#product`,
+    name: nome,
+    category: data.carroceria ?? 'Automóvel',
+    brand: { '@type': 'Brand', name: data.marca },
+    description: data.description,
+    author: { '@id': `${site}/#organization` },
+    publisher: { '@id': `${site}/#organization` },
+    datePublished: data.pubDate?.toISOString().slice(0, 10),
+    dateModified: (data.updatedDate ?? data.pubDate)?.toISOString().slice(0, 10),
+    mainEntityOfPage: { '@type': 'WebPage', '@id': url },
+    image: {
+      '@type': 'ImageObject',
+      url: `${site}/img/modelos/${data.marca.toLowerCase()}-${data.modelo.toLowerCase().replace(/\s+/g, '-')}.jpg`,
+      width: 1200,
+      height: 640,
+    },
+    ...(data.potenciaCv || data.cilindrada
+      ? {
+          additionalProperty: [
+            ...(data.cilindrada ? [{ '@type': 'PropertyValue', name: 'Cilindrada', value: data.cilindrada }] : []),
+            ...(data.potenciaCv ? [{ '@type': 'PropertyValue', name: 'Potência', value: data.potenciaCv }] : []),
+          ],
+        }
+      : {}),
+    isRelatedTo: { '@id': `${url}#vehicle` },
+    ...(data.faq?.length ? { hasPart: [{ '@id': `${url}#faq` }] } : {}),
+  },
+  {
+    '@type': 'Vehicle',
+    '@id': `${url}#vehicle`,
+    name: nome,
+    manufacturer: { '@type': 'Organization', name: data.marca },
+    model: data.modelo,
+    modelDate: String(data.ano),
+    vehicleConfiguration: data.versao,
+    bodyType: data.carroceria ?? undefined,
+    fuelType: data.combustivel,
+    ...(data.cilindrada
+      ? { vehicleEngine: { '@type': 'EngineSpecification', engineDisplacement: data.cilindrada } }
+      : {}),
+    ...(modeloSameAs(_fichaModeloKey) ? { sameAs: modeloSameAs(_fichaModeloKey) } : {}),
+  },
+];
+
+if (data.faq?.length) {
+  graph.push({
+    '@type': 'FAQPage',
+    '@id': `${url}#faq`,
+    mainEntity: data.faq.map((f: any, i: number) => ({
+      '@type': 'Question',
+      '@id': `${url}#faq-${i}`,
+      name: f.pergunta,
+      acceptedAnswer: { '@type': 'Answer', text: f.resposta },
+    })),
+  });
+}
+
+const jsonld = { '@context': 'https://schema.org', '@graph': graph };
+---
+<script type="application/ld+json" set:html={JSON.stringify(jsonld)} />

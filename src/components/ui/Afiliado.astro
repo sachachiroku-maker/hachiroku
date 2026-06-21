@@ -1,0 +1,18 @@
+---
+import { linkAfiliado, rotuloPrograma, type Programa } from '../../config/afiliados';
+
+interface Props {
+  produto: string;
+  nota?: string;
+  busca: string;
+  programa?: Programa;
+  cta?: string;
+}
+const { produto, nota, busca, programa = 'amazon', cta = 'Ver peça recomendada' } = Astro.props;
+const href = linkAfiliado(busca, programa);
+---
+<aside class="afiliado">
+  <p class="eyebrow">PEÇA RECOMENDADA · {rotuloPrograma(programa)}</p>
+  <p><strong>{produto}.</strong>{nota ? ` ${nota}` : ''}</p>
+  <a class="cta" href={href} target="_blank" rel="sponsored nofollow noopener">{cta} ↗</a>
+</aside>

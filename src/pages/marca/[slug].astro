@@ -1,0 +1,74 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import Badge from '../../components/ui/Badge.astro';
+import { MARCAS, getMarca } from '../../lib/marcas';
+import { ENTIDADES } from '../../lib/entidades';
+
+export async function getStaticPaths() {
+  return MARCAS.map((m) => ({ params: { slug: m.slug }, props: { marca: m } }));
+}
+const { marca } = Astro.props;
+const site = 'https://hachiroku.com.br';
+const url = `${site}/marca/${marca.slug}/`;
+
+const probs = await getCollection('problemas', ({ data }) => !data.draft);
+const fichas = await getCollection('fichas', ({ data }) => !data.draft);
+
+// modelos da marca — chave normalizada via modelo.toLowerCase() para evitar duplicatas
+// entre fichas (ex: "fox-1-6-mi") e problemas (pasta "fox")
+const mods = new Map();
+for (const p of probs.filter((p) => p.id.split('/')[0] === marca.slug)) {
+  const mm = p.id.split('/').slice(0, 2).join('/');
+  if (!mods.has(mm)) mods.set(mm, { mm, fichaId: null as string | null, nome: `${p.data.entidade.marca} ${p.data.entidade.modelo}`, n: 0 });
+  mods.get(mm)!.n++;
+}
+for (const f of fichas.filter((f) => f.id.split('/')[0] === marca.slug)) {
+  const modeloSlug = f.data.modelo.toLowerCase().replace(/\s+/g, '-').replace(/[^a-z0-9-]/g, '');
+  const mm = `${f.id.split('/')[0]}/${modeloSlug}`;
+  if (!mods.has(mm)) {
+    mods.set(mm, { mm, fichaId: f.id, nome: `${f.data.marca} ${f.data.modelo}`, n: 0 });
+  } else if (!mods.get(mm)!.fichaId) {
+    mods.get(mm)!.fichaId = f.id;
+  }
+}
+const modelos = [...mods.values()].sort((a, b) => a.nome.localeCompare(b.nome));
+const motoresMarca = ENTIDADES.filter((e) => e.modelos.some((mm) => mm.split('/')[0] === marca.slug));
+
+const jsonld = { '@context': 'https://schema.org', '@graph': [
+  { '@type': 'BreadcrumbList', '@id': `${url}#breadcrumb`, itemListElement: [
+    { '@type': 'ListItem', position: 1, name: 'Início', item: `${site}/` },
+    { '@type': 'ListItem', position: 2, name: marca.nome, item: url } ] },
+  { '@type': 'Brand', '@id': `${url}#brand`, name: marca.nome, sameAs: marca.sameAs, description: marca.resumo },
+  { '@type': 'CollectionPage', '@id': `${url}#webpage`, name: `${marca.nome}: defeitos, fichas e guias`,
+    about: { '@id': `${url}#brand` }, inLanguage: 'pt-BR', isPartOf: { '@id': `${site}/#website` },
+    breadcrumb: { '@id': `${url}#breadcrumb` },
+    image: { '@type': 'ImageObject', url: `${site}/img/capas/problemas.jpg`, width: 1200, height: 640 },
+    publisher: { '@id': `${site}/#organization` } },
+  { '@type': 'ItemList', itemListElement: modelos.map((m, i) => ({
+    '@type': 'ListItem', position: i + 1, url: `${site}/problemas/${m.mm}/`, name: m.nome })) },
+] };
+---
+<BaseLayout title={`${marca.nome}: defeitos crônicos, fichas e guias | Hachiroku`} description={marca.resumo} canonical={url} type="website">
+  <script type="application/ld+json" set:html={JSON.stringify(jsonld)} />
+  <article class="prose">
+    <nav class="breadcrumb" aria-label="Você está em"><a href="/">Início</a> · <span>{marca.nome}</span></nav>
+    <header><p class="kicker">MARCA</p><h1 class="article-title">{marca.nome}</h1></header>
+    <p class="lead">{marca.resumo}</p>
+    <h2>Modelos {marca.nome}</h2>
+    <div class="defeito-grid">
+      {modelos.map((m) => (
+        <article class="defeito-card">
+          {m.n > 0 && <Badge tone="danger">{m.n} diagnóstico(s)</Badge>}
+          <h2><a href={m.n > 0 ? `/problemas/${m.mm}/` : (m.fichaId ? `/ficha-tecnica/${m.fichaId}/` : `/problemas/`)}>{m.nome}</a></h2>
+          {m.fichaId && <a class="defeito-go" href={`/ficha-tecnica/${m.fichaId}/`}>Ficha técnica →</a>}
+        </article>
+      ))}
+    </div>
+    {motoresMarca.length > 0 && (
+      <nav class="modelo-xlinks" aria-label="Motores e tecnologias">
+        {motoresMarca.map((e) => <a href={`/${e.tipo}/${e.slug}/`}>{e.nome} →</a>)}
+      </nav>
+    )}
+  </article>
+</BaseLayout>

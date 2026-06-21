@@ -1,0 +1,74 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '../layouts/BaseLayout.astro';
+import Badge from './ui/Badge.astro';
+import type { Entidade } from '../lib/entidades';
+
+const { entidade } = Astro.props as { entidade: Entidade };
+const site = 'https://hachiroku.com.br';
+const base = entidade.tipo === 'motor' ? 'motor' : 'tecnologia';
+const url = `${site}/${base}/${entidade.slug}/`;
+
+const allProb = await getCollection('problemas', ({ data }) => !data.draft);
+const allFichas = await getCollection('fichas', ({ data }) => !data.draft);
+
+const modelos = entidade.modelos
+  .map((mm) => {
+    const probs = allProb.filter((p) => p.id.split('/').slice(0, 2).join('/') === mm);
+    const ficha = allFichas.find((f) => f.id.split('/').slice(0, 2).join('/') === mm);
+    const nome = probs[0] ? `${probs[0].data.entidade.marca} ${probs[0].data.entidade.modelo}` : mm;
+    return { mm, nome, probs, ficha };
+  })
+  .filter((m) => m.probs.length > 0);
+
+const diagnosticos = modelos.flatMap((m) => m.probs);
+const kicker = entidade.tipo === 'motor' ? 'MOTOR' : 'TECNOLOGIA';
+
+const jsonld = {
+  '@context': 'https://schema.org',
+  '@graph': [
+    { '@type': 'BreadcrumbList', itemListElement: [
+      { '@type': 'ListItem', position: 1, name: 'Início', item: `${site}/` },
+      { '@type': 'ListItem', position: 2, name: entidade.nome },
+    ] },
+    { '@type': 'Article', '@id': `${url}#article`, headline: entidade.titulo, inLanguage: 'pt-BR',
+      description: entidade.resumo,
+      datePublished: '2026-01-01', dateModified: new Date().toISOString().slice(0, 10),
+      image: { '@type': 'ImageObject', url: `${site}/img/capas/problemas.jpg`, width: 1200, height: 640 },
+      isPartOf: { '@id': `${site}/#website` }, publisher: { '@id': `${site}/#organization` },
+      author: { '@id': `${site}/#organization` }, mainEntityOfPage: { '@id': url },
+      about: { '@type': 'Thing', name: entidade.nome, ...(entidade.sameAs ? { sameAs: entidade.sameAs } : {}) } },
+    { '@type': 'ItemList', itemListElement: diagnosticos.map((d, i) => ({
+      '@type': 'ListItem', position: i + 1, url: `${site}/problemas/${d.id}/`, name: d.data.title })) },
+  ],
+};
+---
+<BaseLayout title={`${entidade.titulo} | Hachiroku`} description={entidade.resumo} canonical={url} type="article">
+  <script type="application/ld+json" set:html={JSON.stringify(jsonld)} />
+  <article class="prose">
+    <nav class="breadcrumb" aria-label="Você está em"><a href="/">Início</a> · <span>{entidade.nome}</span></nav>
+    <header>
+      <p class="kicker">{kicker}</p>
+      <h1 class="article-title">{entidade.titulo}</h1>
+    </header>
+    <p class="lead">{entidade.resumo}</p>
+
+    <h2>{entidade.tipo === 'motor' ? 'Carros com este motor' : 'Carros com esta tecnologia'}</h2>
+    <div class="defeito-grid">
+      {modelos.map((m) => (
+        <article class="defeito-card">
+          <Badge tone="danger">{m.probs.length} diagnóstico(s)</Badge>
+          <h2><a href={`/problemas/${m.mm}/`}>{m.nome}</a></h2>
+          <ul class="entidade-defeitos">
+            {m.probs.map((p) => <li><a href={`/problemas/${p.id}/`}>{p.data.defeito ?? p.data.title}</a></li>)}
+          </ul>
+          {m.ficha && <a class="defeito-go" href={`/ficha-tecnica/${m.ficha.id}/`}>Ficha técnica →</a>}
+        </article>
+      ))}
+    </div>
+
+    {entidade.sameAs && (
+      <p class="fonte-dados">Sobre a entidade: <a href={entidade.sameAs} target="_blank" rel="noopener nofollow">{entidade.nome} (referência técnica)</a>.</p>
+    )}
+  </article>
+</BaseLayout>

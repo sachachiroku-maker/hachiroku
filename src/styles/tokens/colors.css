@@ -1,0 +1,137 @@
+/* ============================================================
+   HACHIROKU — COLOR SYSTEM
+   "Instrument Cluster": panda-white paper, asphalt ink,
+   tachometer redline, and dashboard-telltale semantics.
+   ============================================================ */
+
+:root {
+  /* ---- Asphalt: warm neutral ramp (paper → instrument black) ---- */
+  --asphalt-0:   #faf8f3; /* panda paper — lightest page surface */
+  --asphalt-50:  #f1eee6;
+  --asphalt-100: #e6e2d8;
+  --asphalt-200: #d5cfc1;
+  --asphalt-300: #b6afa0;
+  --asphalt-400: #8d8678;
+  --asphalt-500: #6a655a;
+  --asphalt-600: #4c483f;
+  --asphalt-700: #33302a;
+  --asphalt-800: #21201b;
+  --asphalt-900: #161510; /* ink — instrument black */
+  --asphalt-950: #0c0c09; /* deepest panel black */
+
+  /* ---- Redline: tachometer red (primary brand) ---- */
+  --redline-50:  #fce9e5;
+  --redline-100: #f9cfc7;
+  --redline-200: #f3a99c;
+  --redline-300: #ee7b69;
+  --redline-400: #ea5840;
+  --redline-500: #e0301e; /* primary */
+  --redline-600: #c0241a; /* pressed / hover-dark */
+  --redline-700: #991c15;
+  --redline-800: #6f1610;
+
+  /* ---- Telltale Amber: caution lamp (warning) ---- */
+  --amber-50:  #fbf1d9;
+  --amber-100: #f7e0ad;
+  --amber-400: #f4b13a;
+  --amber-500: #ee9a12; /* warning */
+  --amber-600: #cc7d07;
+  --amber-700: #9a5d05;
+
+  /* ---- Telltale Green: go lamp (ok / positive) ---- */
+  --green-50:  #e3f2e8;
+  --green-100: #bfe2cb;
+  --green-400: #45ad6c;
+  --green-500: #2e9e5b; /* ok */
+  --green-600: #237a47;
+  --green-700: #195733;
+
+  /* ---- Beam Blue: high-beam indicator (info) ---- */
+  --beam-50:  #e6edfb;
+  --beam-100: #c4d6f5;
+  --beam-300: #74a1ec;
+  --beam-400: #4c87e8;
+  --beam-500: #2d6fe0; /* info */
+  --beam-600: #2256b8;
+  --beam-700: #1a428c;
+
+  --white: #ffffff;
+  --black: #000000;
+
+  /* ============================================================
+     SEMANTIC ALIASES — reference these in components
+     ============================================================ */
+
+  /* Surfaces */
+  --bg-page:      var(--asphalt-0);
+  --bg-surface:   var(--white);
+  --bg-elevated:  var(--white);
+  --bg-sunken:    var(--asphalt-50);
+  --bg-inset:     var(--asphalt-100);
+  --bg-ink:       var(--asphalt-900);   /* dark panels on light page */
+  --bg-ink-deep:  var(--asphalt-950);
+
+  /* Text */
+  --text-strong:  var(--asphalt-900);
+  --text-body:    var(--asphalt-700);
+  --text-muted:   var(--asphalt-500);
+  --text-faint:   var(--asphalt-400);
+  --text-inverse: var(--asphalt-0);
+  --text-on-accent: var(--white);
+
+  /* Borders & lines */
+  --border-hairline: var(--asphalt-200);
+  --border-strong:   var(--asphalt-900);
+  --border-muted:    var(--asphalt-100);
+  --divider:         var(--asphalt-100);
+
+  /* Brand / accent */
+  --accent:          var(--redline-500);
+  --accent-hover:    var(--redline-600);
+  --accent-pressed:  var(--redline-700);
+  --accent-tint:     var(--redline-50);
+  --accent-contrast: var(--white);
+
+  /* Telltale semantics */
+  --telltale-danger:     var(--redline-500);
+  --telltale-danger-bg:  var(--redline-50);
+  --telltale-warning:    var(--amber-500);
+  --telltale-warning-bg: var(--amber-50);
+  --telltale-ok:         var(--green-500);
+  --telltale-ok-bg:      var(--green-50);
+  --telltale-info:       var(--beam-500);
+  --telltale-info-bg:    var(--beam-50);
+
+  /* Focus ring */
+  --ring-color: var(--redline-500);
+}
+
+/* ============================================================
+   DARK — instrument-cluster surfaces (hero, footer, deck, app chrome)
+   ============================================================ */
+[data-theme="dark"] {
+  --bg-page:      var(--asphalt-950);
+  --bg-surface:   var(--asphalt-900);
+  --bg-elevated:  var(--asphalt-800);
+  --bg-sunken:    var(--asphalt-950);
+  --bg-inset:     var(--asphalt-800);
+  --bg-ink:       var(--asphalt-950);
+  --bg-ink-deep:  var(--black);
+
+  --text-strong:  var(--asphalt-0);
+  --text-body:    var(--asphalt-200);
+  --text-muted:   var(--asphalt-400);
+  --text-faint:   var(--asphalt-500);
+  --text-inverse: var(--asphalt-900);
+
+  --border-hairline: var(--asphalt-700);
+  --border-strong:   var(--asphalt-100);
+  --border-muted:    var(--asphalt-800);
+  --divider:         var(--asphalt-800);
+
+  --accent-tint: rgba(224, 48, 30, 0.16);
+  --telltale-danger-bg:  rgba(224, 48, 30, 0.16);
+  --telltale-warning-bg: rgba(238, 154, 18, 0.16);
+  --telltale-ok-bg:      rgba(46, 158, 91, 0.16);
+  --telltale-info-bg:    rgba(45, 111, 224, 0.16);
+}

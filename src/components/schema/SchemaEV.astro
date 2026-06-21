@@ -1,0 +1,77 @@
+---
+/**
+ * Schema de página EV — @graph com BreadcrumbList + Article + Vehicle (Electric) + HowTo? + FAQPage.
+ * Template F do plano de schema.
+ */
+interface Props {
+  data: any;
+  url: string;
+  breadcrumb: { name: string; item?: string }[];
+}
+const { data, url, breadcrumb } = Astro.props;
+const site = 'https://hachiroku.com.br';
+const nome = `${data.entidade.marca} ${data.entidade.modelo}`;
+
+const graph: any[] = [
+  {
+    '@type': 'BreadcrumbList',
+    '@id': `${url}#breadcrumb`,
+    itemListElement: breadcrumb.map((b, i) => ({
+      '@type': 'ListItem',
+      position: i + 1,
+      name: b.name,
+      item: b.item ?? (i === breadcrumb.length - 1 ? url : undefined),
+    })),
+  },
+  {
+    '@type': 'TechArticle',
+    '@id': `${url}#article`,
+    headline: data.title,
+    description: data.description,
+    proficiencyLevel: 'Expert',
+    about: { '@id': `${url}#vehicle` },
+    mentions: data.entidadesEssenciais.map((e: string) => ({ '@type': 'Thing', name: e })),
+    datePublished: data.pubDate.toISOString().slice(0, 10),
+    dateModified: (data.updatedDate ?? data.pubDate).toISOString().slice(0, 10),
+    inLanguage: 'pt-BR',
+    author: { '@id': `${site}/#organization` },
+    publisher: { '@id': `${site}/#organization` },
+    isPartOf: { '@id': `${site}/#website` },
+    mainEntityOfPage: { '@type': 'WebPage', '@id': url },
+    ...(data.imagem ? { image: { '@type': 'ImageObject', url: `${site}${data.imagem}`, width: 1200, height: 640 } } : {}),
+    speakable: { '@type': 'SpeakableSpecification', cssSelector: ['.faq'] },
+    hasPart: [
+      ...(data.passos?.length ? [{ '@id': `${url}#howto` }] : []),
+      ...(data.faq?.length ? [{ '@id': `${url}#faq` }] : []),
+    ],
+  },
+  {
+    '@type': 'Vehicle',
+    '@id': `${url}#vehicle`,
+    name: nome,
+    manufacturer: { '@type': 'Organization', name: data.entidade.marca },
+    model: data.entidade.modelo,
+    fuelType: data.entidade.tipo,
+  },
+];
+
+if (data.passos?.length) {
+  graph.push({
+    '@type': 'HowTo',
+    '@id': `${url}#howto`,
+    name: `Passo a passo: ${data.entidade.modelo}`,
+    isPartOf: { '@id': `${url}#article` },
+    step: data.passos.map((s: any, i: number) => ({ '@type': 'HowToStep', '@id': `${url}#howto-step-${i + 1}`, position: i + 1, name: s.nome, text: s.texto })),
+  });
+}
+if (data.faq?.length) {
+  graph.push({
+    '@type': 'FAQPage',
+    '@id': `${url}#faq`,
+    mainEntity: data.faq.map((f: any, i: number) => ({ '@type': 'Question', '@id': `${url}#faq-${i}`, name: f.pergunta, acceptedAnswer: { '@type': 'Answer', text: f.resposta } })),
+  });
+}
+
+const jsonld = { '@context': 'https://schema.org', '@graph': graph };
+---
+<script type="application/ld+json" set:html={JSON.stringify(jsonld)} />

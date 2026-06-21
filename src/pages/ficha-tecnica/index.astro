@@ -1,0 +1,30 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import SiloCta from '../../components/ui/SiloCta.astro';
+
+const fichas = await getCollection('fichas', ({ data }) => !data.draft);
+const lista = fichas
+  .map((f) => ({ id: f.id, ...f.data }))
+  .sort((a, b) => b.ano - a.ano);
+---
+<BaseLayout
+  title="Ficha Técnica por modelo | Hachiroku"
+  description="Fichas técnicas reais de carros por modelo, ano e versão: motor, consumo, dimensões e o que esperar de cada versão. Sem propaganda, só dado."
+>
+  <section class="hero" style="padding-block:var(--space-16)">
+    <p class="kicker" style="color:var(--asphalt-300)">DADOS REAIS POR MODELO</p>
+    <h1>Ficha Técnica</h1>
+    <p class="tagline">Só o dado, sem propaganda</p>
+  </section>
+
+  <section class="silos" aria-label="Fichas técnicas disponíveis">
+    {lista.map((f) => (
+      <a class="silo-card" href={`/ficha-tecnica/${f.id}/`}>
+        <h2>{f.marca} {f.modelo} {f.versao}</h2>
+        <p>{f.ano} · {f.potenciaCv} · {f.cilindrada}</p>
+      </a>
+    ))}
+  </section>
+  <SiloCta />
+</BaseLayout>

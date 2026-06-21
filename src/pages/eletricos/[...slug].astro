@@ -1,0 +1,43 @@
+---
+import { getCollection, render } from 'astro:content';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import SchemaEV from '../../components/schema/SchemaEV.astro';
+import Afiliado from '../../components/ui/Afiliado.astro';
+import Toc from '../../components/ui/Toc.astro';
+import Photo from '../../components/ui/Photo.astro';
+import { fotoPorId } from '../../lib/fotos';
+
+export async function getStaticPaths() {
+  const entries = await getCollection('eletricos', ({ data }) => !data.draft);
+  return entries.map((entry) => ({ params: { slug: entry.id }, props: { entry } }));
+}
+const { entry } = Astro.props;
+const { data } = entry;
+const { Content, headings } = await render(entry);
+const site = 'https://hachiroku.com.br';
+const url = new URL(`/eletricos/${entry.id}/`, site).href;
+const breadcrumb = [
+  { name: 'Elétricos', item: `${site}/eletricos/` },
+  { name: `${data.entidade.marca} ${data.entidade.modelo}` },
+];
+const fmt = (d) => d.toLocaleDateString('pt-BR');
+---
+<BaseLayout title={`${data.title} | Hachiroku`} description={data.description} canonical={url} type="article" image={fotoPorId(entry.id)}>
+  <SchemaEV data={data} url={url} breadcrumb={breadcrumb} />
+  <article class="prose">
+    <nav class="breadcrumb" aria-label="Você está em"><a href="/eletricos/">Elétricos</a> · <span>{data.entidade.marca} {data.entidade.modelo}</span></nav>
+    <header>
+      <p class="kicker">{data.kicker}</p>
+      <h1 class="article-title">{data.title}</h1>
+      <div class="article-meta"><span>{data.autor.nome}</span><time datetime={(data.updatedDate ?? data.pubDate).toISOString().slice(0,10)}>Atualizado em {fmt(data.updatedDate ?? data.pubDate)}</time></div>
+    </header>
+    <p class="lead">{data.description}</p>
+    <Photo label={`${data.entidade.marca} ${data.entidade.modelo}`} h={260} src={fotoPorId(entry.id, 'eletricos')} class="artigo-capa" priority />
+    <Toc headings={headings} />
+    <Content />
+    {data.afiliados.length > 0 && (<section aria-label="Recomendados">{data.afiliados.map((a) => (<Afiliado produto={a.produto} nota={a.nota} busca={a.busca} programa={a.programa} cta={a.cta} />))}</section>)}
+    {data.faq.length > 0 && (<section aria-label="Perguntas frequentes"><h2>Perguntas frequentes</h2><dl class="faq">{data.faq.map((f) => (<><dt>{f.pergunta}</dt><dd>{f.resposta}</dd></>))}</dl></section>)}
+    {data.disclaimer && <p class="disclaimer" role="note">{data.disclaimer}</p>}
+    {data.relacionados.length > 0 && (<nav class="relacionados" aria-label="Relacionado"><p class="kicker">CONTINUE</p><ul>{data.relacionados.map((r) => (<li><a href={r.url}>{r.titulo}</a></li>))}</ul></nav>)}
+  </article>
+</BaseLayout>

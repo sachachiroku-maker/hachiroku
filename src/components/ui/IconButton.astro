@@ -1,0 +1,67 @@
+---
+/**
+ * IconButton — botão com ícone Lucide inline, zero-JS.
+ * Uso: <IconButton icon="wrench" href="/tools/">Ferramentas</IconButton>
+ */
+import Icon from './Icon.astro';
+
+interface Props {
+  icon: string;
+  href?: string;
+  variant?: 'primary' | 'outline' | 'ghost';
+  size?: 'sm' | 'md';
+  type?: 'button' | 'submit' | 'reset';
+  class?: string;
+}
+const { icon, href, variant = 'outline', size = 'md', type = 'button', class: cls = '' } = Astro.props;
+const iconSize = size === 'sm' ? 16 : 20;
+---
+{href ? (
+  <a href={href} class={`icon-btn icon-btn--${variant} icon-btn--${size} ${cls}`}>
+    <Icon name={icon} size={iconSize} />
+    <slot />
+  </a>
+) : (
+  <button type={type} class={`icon-btn icon-btn--${variant} icon-btn--${size} ${cls}`}>
+    <Icon name={icon} size={iconSize} />
+    <slot />
+  </button>
+)}
+
+<style>
+.icon-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: var(--space-2);
+  font-family: var(--font-sans);
+  font-weight: var(--weight-medium);
+  border-radius: var(--radius-sm);
+  text-decoration: none;
+  cursor: pointer;
+  transition: var(--duration-fast) var(--ease-standard);
+  white-space: nowrap;
+}
+.icon-btn--md { padding: var(--space-2) var(--space-4); font-size: var(--text-sm); }
+.icon-btn--sm { padding: var(--space-1) var(--space-3); font-size: var(--text-xs); }
+
+.icon-btn--primary {
+  background: var(--accent);
+  color: #fff;
+  border: none;
+}
+.icon-btn--primary:hover { background: var(--accent-dark, color-mix(in srgb, var(--accent) 85%, black)); }
+
+.icon-btn--outline {
+  background: transparent;
+  color: var(--text-strong);
+  border: var(--border-hairline-w) solid var(--border-strong);
+}
+.icon-btn--outline:hover { border-color: var(--accent); color: var(--accent); }
+
+.icon-btn--ghost {
+  background: transparent;
+  color: var(--text-muted);
+  border: none;
+}
+.icon-btn--ghost:hover { color: var(--text-strong); background: var(--bg-muted, color-mix(in srgb, var(--bg-surface) 80%, var(--border-hairline))); }
+</style>

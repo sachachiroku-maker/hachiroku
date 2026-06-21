@@ -1,0 +1,24 @@
+{
+  "name": "hachiroku-site",
+  "type": "module",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Hachiroku — O Seu Mecânico Digital. Portal automotivo SEO-first (Astro + HTML5 semântico).",
+  "scripts": {
+    "dev": "astro dev",
+    "start": "astro dev",
+    "build": "astro build && pagefind --site dist",
+    "preview": "astro preview",
+    "astro": "astro",
+    "check": "astro check"
+  },
+  "dependencies": {
+    "@astrojs/rss": "4.0.18",
+    "@astrojs/sitemap": "3.7.3",
+    "astro": "5.18.2"
+  },
+  "devDependencies": {
+    "pagefind": "^1.5.2",
+    "playwright": "^1.61.0"
+  }
+}

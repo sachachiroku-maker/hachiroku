@@ -1,0 +1,14 @@
+{
+  "name": "Hachiroku — O Seu Mecânico Digital",
+  "short_name": "Hachiroku",
+  "description": "Diagnóstico automotivo, manutenção, compra de usados e carros elétricos. Soluções automotivas de precisão.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#161510",
+  "theme_color": "#161510",
+  "lang": "pt-BR",
+  "icons": [
+    { "src": "/logos/hachiroku-badge-86.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "/logos/hachiroku-badge-86-red.png", "sizes": "512x512", "type": "image/png", "purpose": "any" }
+  ]
+}

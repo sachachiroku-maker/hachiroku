@@ -1,0 +1,31 @@
+---
+/**
+ * Bloco de fechamento para páginas índice de silo (preenche o espaço quando há
+ * poucos cards e dá um próximo passo: buscar ou assinar alertas de recall).
+ */
+import Icon from './Icon.astro';
+interface Props { titulo?: string; texto?: string; }
+const {
+  titulo = 'Não encontrou o seu carro?',
+  texto = 'A cobertura cresce toda semana. Busque pelo modelo ou receba alertas de recall e defeito crônico assim que publicarmos.',
+} = Astro.props;
+---
+<section class="silo-cta" data-theme="dark" aria-label="Buscar ou assinar alertas">
+  <div class="wrap silo-cta-inner">
+    <div class="silo-cta-copy">
+      <p class="eyebrow eyebrow-accent">八六 · Hachiroku</p>
+      <h2>{titulo}</h2>
+      <p>{texto}</p>
+    </div>
+    <div class="silo-cta-actions">
+      <form role="search" action="/busca/" method="get" class="silo-cta-search">
+        <span class="hero-search-field">
+          <span class="hs-icon" aria-hidden="true"><Icon name="search" size={18} /></span>
+          <input type="search" name="q" placeholder="Ex.: barulho na partida do Gol" aria-label="Buscar no Hachiroku" />
+        </span>
+        <button type="submit" class="btn btn-primary">Buscar</button>
+      </form>
+      <p class="silo-cta-note">Sem spam. Só recall e defeito que custa caro.</p>
+    </div>
+  </div>
+</section>

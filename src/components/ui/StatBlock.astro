@@ -1,0 +1,24 @@
+---
+/**
+ * Hachiroku StatBlock (Astro) — numeral grande de tacômetro com rótulo mono.
+ * O primitivo de KPI / hero-stat. Convertido do componente React do DS.
+ */
+interface Props {
+  value: string;
+  label: string;
+  delta?: string;
+  deltaTone?: 'ok' | 'danger' | 'warning' | 'neutral';
+  align?: 'left' | 'center';
+  size?: 'sm' | 'md' | 'lg' | 'xl';
+  onDark?: boolean;
+  class?: string;
+}
+const { value, label, delta, deltaTone = 'ok', align = 'left', size = 'lg', onDark = false, class: cls = '' } = Astro.props;
+---
+<div class={`statblock sb-${size} sb-${align} ${onDark ? 'sb-ondark' : ''} ${cls}`}>
+  <div class="sb-value">{value}</div>
+  <div class="sb-meta">
+    <span class="sb-label">{label}</span>
+    {delta && <span class={`sb-delta sb-delta-${deltaTone}`}>{delta}</span>}
+  </div>
+</div>

@@ -1,0 +1,21 @@
+---
+/**
+ * Índice do artigo (TOC) a partir dos headings H2 do markdown.
+ * Astro gera ids automáticos nos headings, então as âncoras #slug funcionam.
+ */
+interface Props {
+  headings: { depth: number; slug: string; text: string }[];
+}
+const { headings } = Astro.props;
+const h2 = (headings ?? []).filter((h) => h.depth === 2);
+---
+{h2.length >= 3 && (
+  <nav class="toc" aria-label="Índice do artigo" data-pagefind-ignore>
+    <p class="toc-title">NESTE DIAGNÓSTICO</p>
+    <ol>
+      {h2.map((h) => (
+        <li><a href={`#${h.slug}`}>{h.text}</a></li>
+      ))}
+    </ol>
+  </nav>
+)}

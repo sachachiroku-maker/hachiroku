@@ -1,0 +1,47 @@
+---
+/**
+ * Photo (Astro) — capa ilustrada on-brand: instrument cluster (tacômetro AE86)
+ * em SVG vetorial, com zona redline e o "86". Substitui placeholder cinza.
+ * Trocar por fotografia automotiva real quando disponível (basta passar `src`).
+ */
+interface Props {
+  label: string;
+  h?: number;
+  dark?: boolean;
+  src?: string;       // se houver foto real, usa a imagem
+  class?: string;
+  priority?: boolean; // LCP candidate — eager + fetchpriority=high
+}
+const { label, h = 240, dark = true, src, class: cls = '', priority = false } = Astro.props;
+
+// Ticks do tacômetro (270°). Os últimos viram redline.
+const ticks = Array.from({ length: 13 }, (_, i) => {
+  const ang = -135 + i * (270 / 12);
+  return { ang, redline: i >= 9 };
+});
+---
+{src ? (
+  <div class={`photo ${dark ? 'photo-dark' : 'photo-light'} ${cls}`} style={`height:${h}px`}>
+    <span class="photo-bar" aria-hidden="true"></span>
+    <span class="photo-chamfer" aria-hidden="true"></span>
+    <img src={src} alt={label} width="1200" height="640" loading={priority ? 'eager' : 'lazy'} fetchpriority={priority ? 'high' : undefined} decoding="async" />
+  </div>
+) : (
+  <div class={`photo photo-gauge ${dark ? 'photo-dark' : 'photo-light'} ${cls}`} style={`height:${h}px`} role="img" aria-label={`Ilustração: ${label}`}>
+    <span class="photo-bar" aria-hidden="true"></span>
+    <span class="photo-chamfer" aria-hidden="true"></span>
+    <svg class="gauge-svg" viewBox="0 0 400 240" preserveAspectRatio="xMidYMid slice" aria-hidden="true">
+      <g transform="translate(300,118)" stroke-linecap="round">
+        <circle r="86" fill="none" stroke="rgba(255,255,255,0.05)" stroke-width="20" />
+        {ticks.map((t) => (
+          <line x1="0" y1="-66" x2="0" y2="-84" stroke-width={t.redline ? 4 : 2.5}
+            stroke={t.redline ? 'var(--redline-500)' : 'rgba(255,255,255,0.35)'} transform={`rotate(${t.ang})`} />
+        ))}
+        <line x1="0" y1="10" x2="0" y2="-60" stroke="var(--redline-500)" stroke-width="3.5" transform="rotate(100)" />
+        <circle r="7" fill="none" stroke="var(--redline-400)" stroke-width="3" />
+        <text y="40" text-anchor="middle" class="gauge-num">八六</text>
+      </g>
+    </svg>
+    <span class="photo-label">{label}</span>
+  </div>
+)}

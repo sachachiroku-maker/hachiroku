@@ -1,0 +1,70 @@
+---
+import { getCollection, render } from 'astro:content';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import SchemaHowTo from '../../components/schema/SchemaHowTo.astro';
+import Afiliado from '../../components/ui/Afiliado.astro';
+import Photo from '../../components/ui/Photo.astro';
+
+export async function getStaticPaths() {
+  const entries = await getCollection('manutencao', ({ data }) => !data.draft);
+  return entries.map((entry) => ({ params: { slug: entry.id }, props: { entry } }));
+}
+const { entry } = Astro.props;
+const { data } = entry;
+const { Content } = await render(entry);
+const site = 'https://hachiroku.com.br';
+const url = new URL(`/manutencao/${entry.id}/`, site).href;
+const breadcrumb = [{ name: 'Manutenção', item: `${site}/manutencao/` }, { name: data.title }];
+const fmt = (d) => d.toLocaleDateString('pt-BR');
+const meta = [
+  data.tempo && { k: 'Tempo', v: data.tempo },
+  data.dificuldade && { k: 'Dificuldade', v: data.dificuldade },
+  data.custoEstimado && { k: 'Custo estimado', v: data.custoEstimado },
+].filter(Boolean);
+---
+<BaseLayout title={`${data.title} | Hachiroku`} description={data.description} canonical={url} type="article">
+  <SchemaHowTo data={data} url={url} breadcrumb={breadcrumb} />
+  <article class="prose">
+    <nav class="breadcrumb" aria-label="Você está em"><a href="/manutencao/">Manutenção</a> · <span>{data.veiculo ?? 'How-to'}</span></nav>
+    <header>
+      <p class="kicker">{data.kicker}</p>
+      <h1 class="article-title">{data.title}</h1>
+      <div class="article-meta"><span>{data.autor.nome}</span><time datetime={(data.updatedDate ?? data.pubDate).toISOString().slice(0,10)}>Atualizado em {fmt(data.updatedDate ?? data.pubDate)}</time></div>
+    </header>
+    <p class="lead">{data.description}</p>
+
+    <Photo label={data.veiculo ?? data.title} h={240} src="/img/capas/manutencao.jpg" class="artigo-capa" priority />
+
+    {meta.length > 0 && (
+      <dl class="howto-meta">
+        {meta.map((m) => (<div><dt>{m.k}</dt><dd>{m.v}</dd></div>))}
+      </dl>
+    )}
+
+    <Content />
+
+    {(data.ferramentas.length > 0 || data.materiais.length > 0) && (
+      <section aria-label="Ferramentas e materiais" class="ferramentas">
+        {data.ferramentas.length > 0 && (<div><h2>Ferramentas</h2><ul>{data.ferramentas.map((t) => <li>{t}</li>)}</ul></div>)}
+        {data.materiais.length > 0 && (<div><h2>Materiais</h2><ul>{data.materiais.map((m) => <li>{m}</li>)}</ul></div>)}
+      </section>
+    )}
+
+    {data.passos.length > 0 && (
+      <section aria-label="Passo a passo">
+        <h2>Passo a passo</h2>
+        <ol class="passos">{data.passos.map((p) => (<li><strong>{p.nome}</strong><span>{p.texto}</span></li>))}</ol>
+      </section>
+    )}
+
+    {data.afiliados.length > 0 && (
+      <section aria-label="Peças e ferramentas recomendadas">
+        {data.afiliados.map((a) => (<Afiliado produto={a.produto} nota={a.nota} busca={a.busca} programa={a.programa} cta={a.cta} />))}
+      </section>
+    )}
+
+    {data.faq.length > 0 && (<section aria-label="Perguntas frequentes"><h2>Perguntas frequentes</h2><dl class="faq">{data.faq.map((f) => (<><dt>{f.pergunta}</dt><dd>{f.resposta}</dd></>))}</dl></section>)}
+    {data.disclaimer && <p class="disclaimer" role="note">{data.disclaimer}</p>}
+    {data.relacionados.length > 0 && (<nav class="relacionados" aria-label="Relacionado"><p class="kicker">CONTINUE</p><ul>{data.relacionados.map((r) => (<li><a href={r.url}>{r.titulo}</a></li>))}</ul></nav>)}
+  </article>
+</BaseLayout>

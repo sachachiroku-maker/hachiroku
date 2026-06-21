@@ -1,0 +1,40 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import Icon from '../components/ui/Icon.astro';
+---
+<BaseLayout
+  title="Página não encontrada (404) | Hachiroku"
+  description="A página que você procura não existe ou foi movida. Volte ao início ou use a busca."
+>
+  <section class="erro-404">
+    <div class="wrap">
+      <p class="erro-cod">404</p>
+      <h1 class="erro-h1">Essa rota deu pane.</h1>
+      <p class="erro-sub">A página que você procura não existe, foi movida ou nunca esteve aqui. Sem drama: a oficina continua aberta.</p>
+      <div class="erro-acoes">
+        <a href="/" class="btn btn-primary"><Icon name="gauge" size={18} /> Voltar ao início</a>
+        <a href="/busca/" class="btn btn-outline"><Icon name="search" size={18} /> Buscar um diagnóstico</a>
+      </div>
+      <nav class="erro-silos" aria-label="Atalhos">
+        <a href="/problemas/">Problemas</a>
+        <a href="/manutencao/">Manutenção</a>
+        <a href="/guia-de-compra/">Guia de compra</a>
+        <a href="/ficha-tecnica/">Ficha técnica</a>
+        <a href="/eletricos/">Elétricos</a>
+      </nav>
+    </div>
+  </section>
+</BaseLayout>
+
+<style>
+  .erro-404 { background: var(--asphalt-950); color: var(--asphalt-0); padding: var(--space-24) 0; text-align: center; flex: 1; display: grid; place-items: center; }
+  .erro-cod { font-family: var(--font-condensed); font-weight: var(--weight-extrabold); font-size: var(--text-7xl); color: var(--accent); line-height: 1; margin: 0; }
+  .erro-h1 { font-family: var(--font-display); font-weight: var(--weight-extrabold); font-size: var(--text-3xl); color: var(--asphalt-0); margin: var(--space-2) 0; }
+  .erro-sub { color: var(--asphalt-300); max-width: 480px; margin: 0 auto var(--space-8); line-height: var(--leading-relaxed); }
+  .erro-acoes { display: flex; gap: var(--space-3); justify-content: center; flex-wrap: wrap; }
+  .erro-404 .btn-outline { background: transparent; border: var(--border-hairline-w) solid var(--asphalt-600); color: var(--asphalt-0); }
+  .erro-404 .btn-outline:hover { border-color: var(--accent); color: var(--accent); }
+  .erro-silos { display: flex; gap: var(--space-4); justify-content: center; flex-wrap: wrap; margin-top: var(--space-10); font-family: var(--font-mono); font-size: var(--text-xs); text-transform: uppercase; letter-spacing: var(--tracking-wide); }
+  .erro-silos a { color: var(--asphalt-400); text-decoration: none; }
+  .erro-silos a:hover { color: var(--accent); }
+</style>

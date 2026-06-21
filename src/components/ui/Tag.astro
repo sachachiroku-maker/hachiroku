@@ -1,0 +1,18 @@
+---
+/**
+ * Hachiroku Tag (Astro, zero-JS) — rótulo de categoria/tema, linkável.
+ * Diferente de Badge (status): Tag é semântica e pode ser clicável.
+ * Uso: <Tag href="/motor/firefly/">Firefly</Tag>  ou  <Tag>Manutenção</Tag>
+ */
+interface Props {
+  href?: string;
+  variant?: 'default' | 'motor' | 'tech' | 'silo';
+  class?: string;
+}
+const { href, variant = 'default', class: cls = '' } = Astro.props;
+---
+{href ? (
+  <a href={href} class={`tag tag--${variant} ${cls}`}><slot /></a>
+) : (
+  <span class={`tag tag--${variant} ${cls}`}><slot /></span>
+)}

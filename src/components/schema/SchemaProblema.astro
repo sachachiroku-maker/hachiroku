@@ -1,0 +1,103 @@
+---
+/**
+ * Schema de página de problema — @graph com BreadcrumbList + Article + HowTo + FAQPage.
+ * Gerado a partir do frontmatter da collection `problemas` (Template A do plano de schema).
+ */
+import { modeloSameAs } from '../../lib/wikis';
+import { fotoPorId } from '../../lib/fotos';
+
+interface Props {
+  data: any;
+  url: string;          // URL canônica absoluta
+  breadcrumb: { name: string; item?: string }[];
+  entryId?: string;     // ID da entry para derivar foto do modelo
+}
+const { data, url, breadcrumb, entryId } = Astro.props;
+const site = 'https://hachiroku.com.br';
+const _marcaModeloKey = `${data.entidade.marca.toLowerCase()}/${data.entidade.modelo.toLowerCase().replace(/\s+/g, '-')}`;
+
+// Imagem editorial: usa foto do modelo (não o badge da marca)
+const _isBadge = (s: string) => s.includes('badge') || s.includes('lockup') || s.includes('logo');
+const _modeloFoto = entryId ? fotoPorId(entryId) : undefined;
+const _articleImage = data.imagem && !_isBadge(data.imagem)
+  ? data.imagem
+  : (_modeloFoto ?? null);
+
+const graph: any[] = [
+  {
+    '@type': 'BreadcrumbList',
+    '@id': `${url}#breadcrumb`,
+    itemListElement: breadcrumb.map((b, i) => ({
+      '@type': 'ListItem',
+      position: i + 1,
+      name: b.name,
+      item: b.item ?? (i === breadcrumb.length - 1 ? url : undefined),
+    })),
+  },
+  {
+    '@type': 'TechArticle',
+    '@id': `${url}#article`,
+    headline: data.h1 ?? data.title,
+    description: data.description,
+    proficiencyLevel: 'Expert',
+    about: {
+      '@type': 'Thing',
+      name: `${data.entidade.marca} ${data.entidade.modelo}`,
+      ...(modeloSameAs(_marcaModeloKey) ? { sameAs: modeloSameAs(_marcaModeloKey) } : {}),
+    },
+    mentions: [
+      { '@type': 'Thing', name: data.defeito },
+      ...(data.entidade.motor ? [{ '@type': 'Thing', name: data.entidade.motor }] : []),
+      ...data.entidadesEssenciais.map((e: string) => ({ '@type': 'Thing', name: e })),
+    ],
+    datePublished: data.pubDate.toISOString().slice(0, 10),
+    dateModified: (data.updatedDate ?? data.pubDate).toISOString().slice(0, 10),
+    inLanguage: 'pt-BR',
+    author: { '@id': `${site}/#organization` },
+    publisher: { '@id': `${site}/#organization` },
+    isPartOf: { '@id': `${site}/#website` },
+    mainEntityOfPage: { '@type': 'WebPage', '@id': url },
+    ...(_articleImage ? { image: { '@type': 'ImageObject', url: `${site}${_articleImage}`, width: 1200, height: 640 } } : {}),
+    speakable: { '@type': 'SpeakableSpecification', cssSelector: ['.resumo-rapido', '.faq'] },
+    hasPart: [
+      ...(data.passos?.length ? [{ '@id': `${url}#howto` }] : []),
+      ...(data.faq?.length ? [{ '@id': `${url}#faq` }] : []),
+    ],
+  },
+];
+
+// HowTo (só se houver passos)
+if (data.passos?.length) {
+  graph.push({
+    '@type': 'HowTo',
+    '@id': `${url}#howto`,
+    name: `Como identificar e lidar com ${data.defeito} no ${data.entidade.modelo}`,
+    inLanguage: 'pt-BR',
+    isPartOf: { '@id': `${url}#article` },
+    step: data.passos.map((s: any, i: number) => ({
+      '@type': 'HowToStep',
+      '@id': `${url}#howto-step-${i + 1}`,
+      position: i + 1,
+      name: s.nome,
+      text: s.texto,
+    })),
+  });
+}
+
+// FAQPage (só se houver faq)
+if (data.faq?.length) {
+  graph.push({
+    '@type': 'FAQPage',
+    '@id': `${url}#faq`,
+    mainEntity: data.faq.map((f: any, i: number) => ({
+      '@type': 'Question',
+      '@id': `${url}#faq-${i}`,
+      name: f.pergunta,
+      acceptedAnswer: { '@type': 'Answer', text: f.resposta },
+    })),
+  });
+}
+
+const jsonld = { '@context': 'https://schema.org', '@graph': graph };
+---
+<script type="application/ld+json" set:html={JSON.stringify(jsonld)} />

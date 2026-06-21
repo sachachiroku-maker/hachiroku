@@ -1,0 +1,37 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import SiloCta from '../../components/ui/SiloCta.astro';
+
+// Modelos com conteúdo (agrupa pelas folhas existentes)
+const entries = await getCollection('problemas', ({ data }) => !data.draft);
+const modelos = new Map<string, { marca: string; modelo: string; slug: string; count: number }>();
+for (const e of entries) {
+  // slug derivado do ID da pasta (não do modelo, que pode ter espaços/maiúsculas)
+  const [marcaSlug, modeloSlug] = e.id.split('/');
+  const key = `${marcaSlug}/${modeloSlug}`;
+  const cur = modelos.get(key);
+  modelos.set(key, { marca: e.data.entidade.marca, modelo: e.data.entidade.modelo, slug: key, count: (cur?.count ?? 0) + 1 });
+}
+const lista = [...modelos.values()];
+---
+<BaseLayout
+  title="Meu carro está com problema: diagnóstico por modelo | Hachiroku"
+  description="Barulho estranho, luz acesa, carro falhando? Diagnóstico direto por modelo: Onix, Polo, HB20, Argo, Creta e mais. Causas reais e custo de reparo."
+>
+  <section class="hero" style="padding-block:var(--space-16)">
+    <p class="kicker" style="color:var(--asphalt-300)">DIAGNÓSTICO POR MODELO</p>
+    <h1>Meu carro está com problema?</h1>
+    <p class="tagline">Escolha o modelo e descubra a causa antes de ir à oficina</p>
+  </section>
+
+  <section class="silos" aria-label="Modelos com diagnóstico">
+    {lista.map((m) => (
+      <a class="silo-card" href={`/problemas/${m.slug}/`}>
+        <h2>{m.marca} {m.modelo}</h2>
+        <p>{m.count} diagnóstico(s) disponível(is)</p>
+      </a>
+    ))}
+  </section>
+  <SiloCta />
+</BaseLayout>

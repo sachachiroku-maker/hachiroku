@@ -1,0 +1,9 @@
+---
+import { motores, getEntidade } from '../../lib/entidades';
+import EntidadeHub from '../../components/EntidadeHub.astro';
+export function getStaticPaths() {
+  return motores().map((e) => ({ params: { slug: e.slug }, props: { entidade: e } }));
+}
+const { entidade } = Astro.props;
+---
+<EntidadeHub entidade={entidade} />

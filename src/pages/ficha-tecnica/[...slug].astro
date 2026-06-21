@@ -1,0 +1,120 @@
+---
+import { getCollection, render } from 'astro:content';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import SchemaFicha from '../../components/schema/SchemaFicha.astro';
+import StatBlock from '../../components/ui/StatBlock.astro';
+import Badge from '../../components/ui/Badge.astro';
+import Eyebrow from '../../components/ui/Eyebrow.astro';
+import Icon from '../../components/ui/Icon.astro';
+import Photo from '../../components/ui/Photo.astro';
+import { fotoPorModelo } from '../../lib/fotos';
+
+export async function getStaticPaths() {
+  const entries = await getCollection('fichas', ({ data }) => !data.draft);
+  return entries.map((entry) => ({ params: { slug: entry.id }, props: { entry } }));
+}
+
+const { entry } = Astro.props;
+const { data } = entry;
+const { Content } = await render(entry);
+
+const site = 'https://hachiroku.com.br';
+const url = new URL(`/ficha-tecnica/${entry.id}/`, site).href;
+const breadcrumb = [
+  { name: 'Ficha Técnica', item: `${site}/ficha-tecnica/` },
+  { name: `${data.marca} ${data.modelo}`, item: `${site}/ficha-tecnica/${entry.id}/` },
+  { name: `${data.ano} ${data.versao}` },
+];
+
+// helper: pega valor de um grupo por rótulo parcial
+const val = (arr: { k: string; v: string }[], needle: string) =>
+  arr.find((x) => x.k.toLowerCase().includes(needle.toLowerCase()))?.v;
+
+// KPIs do topo. Limpa unidades e parênteses ("84 (etanol)" vira "84") para o número ficar limpo.
+const limpa = (s: string) => s.replace(/\s*\([^)]*\)/g, '').replace(/cerca de\s*/i, '').trim();
+const kpis = [
+  data.potenciaCv && { value: limpa(data.potenciaCv.replace(/\s*cv/i, '')), label: 'cv de potência' },
+  val(data.consumo, 'estrada') && { value: limpa((val(data.consumo, 'estrada') || '').replace(/\s*km\/l/i, '')), label: 'km/l na estrada' },
+  val(data.desempenho, '100') && { value: limpa(val(data.desempenho, '100') || ''), label: '0 a 100 km/h' },
+  data.cilindrada && { value: limpa(data.cilindrada.replace(/\s*cm³/i, '')), label: 'cm³' },
+].filter(Boolean) as { value: string; label: string }[];
+
+// botão "Ver problemas" → pilar do modelo
+const modeloProblemas = `/problemas/${data.marca.toLowerCase()}/${data.modelo.toLowerCase().replace(/\s+/g, '-')}/`;
+
+const grupos = [
+  { titulo: 'Motor', itens: data.motor },
+  { titulo: 'Transmissão', itens: data.transmissao },
+  { titulo: 'Desempenho', itens: data.desempenho },
+  { titulo: 'Consumo', itens: data.consumo },
+  { titulo: 'Dimensões e capacidades', itens: data.dimensoes },
+  { titulo: 'Chassi', itens: data.chassi },
+].filter((g) => g.itens.length > 0);
+---
+<BaseLayout title={`${data.title} | Hachiroku`} description={data.description} canonical={url} type="article">
+  <SchemaFicha data={data} url={url} breadcrumb={breadcrumb} />
+
+  <!-- HERO dark da ficha -->
+  <section class="ficha-hero" data-theme="dark">
+    <div class="wrap">
+      <nav class="breadcrumb breadcrumb-dark" aria-label="Você está em">
+        <a href="/ficha-tecnica/">Ficha Técnica</a> · <span>{data.marca} {data.modelo} {data.ano}</span>
+      </nav>
+      <div class="ficha-hero-row">
+        <div>
+          <Eyebrow tone="accent">Ficha técnica · {data.ano} · {data.versao}</Eyebrow>
+          <h1 class="ficha-h1">{data.marca} {data.modelo}</h1>
+          <div class="ficha-badges">
+            {data.carroceria && <Badge tone="accent" variant="solid">{data.carroceria}</Badge>}
+            <Badge tone="neutral" variant="outline">{data.combustivel}</Badge>
+          </div>
+        </div>
+        <a href={modeloProblemas} class="btn btn-primary"><Icon name="wrench" size={16} /> Ver problemas</a>
+      </div>
+    </div>
+  </section>
+
+  <Photo label={`${data.marca} ${data.modelo} ${data.versao}`} h={320} src={fotoPorModelo(data.marca, data.modelo)} class="ficha-foto" priority />
+
+  <article class="wrap section ficha-body">
+    {kpis.length > 0 && (
+      <div class="ficha-kpis">
+        {kpis.map((k) => (<StatBlock value={k.value} label={k.label} size="lg" />))}
+      </div>
+    )}
+
+    <div class="ficha-texto">
+      <Content />
+    </div>
+
+    <div class="ficha-specs-grid">
+      {grupos.map((g) => (
+        <section class="spec-card" aria-label={g.titulo}>
+          <h2>{g.titulo}</h2>
+          <table class="spec-table">
+            <tbody>
+              {g.itens.map((it) => (<tr><th scope="row">{it.k}</th><td class="num">{it.v}</td></tr>))}
+            </tbody>
+          </table>
+        </section>
+      ))}
+    </div>
+
+    <p class="fonte-dados">Fonte dos dados: {data.fonteDados}</p>
+    <p class="fonte-dados">Consumo oficial homologado por versão e ano: consulte a <a href="https://www.gov.br/inmetro/pt-br/assuntos/avaliacao-da-conformidade/programa-brasileiro-de-etiquetagem/tabelas-de-eficiencia-energetica/veiculos-automotivos-pbe-veicular" target="_blank" rel="noopener nofollow">tabela PBE Veicular do Inmetro</a>, a referência oficial do programa de etiquetagem.</p>
+
+    {data.faq.length > 0 && (
+      <section aria-label="Perguntas frequentes">
+        <h2>Perguntas frequentes</h2>
+        <dl class="faq">{data.faq.map((f) => (<><dt>{f.pergunta}</dt><dd>{f.resposta}</dd></>))}</dl>
+      </section>
+    )}
+
+    {data.relacionados.length > 0 && (
+      <nav class="relacionados" aria-label="Conteúdo relacionado">
+        <p class="kicker">CONTINUE A PESQUISA</p>
+        <ul>{data.relacionados.map((r) => (<li><a href={r.url}>{r.titulo}</a></li>))}</ul>
+      </nav>
+    )}
+  </article>
+</BaseLayout>

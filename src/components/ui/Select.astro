@@ -1,0 +1,81 @@
+---
+/**
+ * Select — dropdown estilizado conforme DS tokens.
+ * Uso: <Select name="marca" options={[{value:'fiat',label:'Fiat'}]} />
+ */
+interface Option {
+  value: string;
+  label: string;
+}
+interface Props {
+  name: string;
+  id?: string;
+  options: Option[];
+  value?: string;
+  placeholder?: string;
+  label?: string;
+  required?: boolean;
+  class?: string;
+}
+const { name, id, options, value = '', placeholder, label, required = false, class: cls = '' } = Astro.props;
+const uid = id ?? name;
+---
+{label && <label for={uid} class="ds-label">{label}{required && <span aria-hidden="true"> *</span>}</label>}
+<div class={`ds-select-wrap ${cls}`}>
+  <select id={uid} name={name} required={required} class="ds-select">
+    {placeholder && <option value="" disabled selected={value === ''}>{placeholder}</option>}
+    {options.map((o) => (
+      <option value={o.value} selected={value === o.value}>{o.label}</option>
+    ))}
+  </select>
+  <span class="ds-select-caret" aria-hidden="true">
+    <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+      stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+      <path d="m6 9 6 6 6-6"/>
+    </svg>
+  </span>
+</div>
+
+<style>
+.ds-label {
+  display: block;
+  font-family: var(--font-mono);
+  font-size: var(--text-2xs);
+  text-transform: uppercase;
+  letter-spacing: var(--tracking-wide);
+  color: var(--text-muted);
+  margin-bottom: var(--space-1);
+}
+.ds-select-wrap {
+  position: relative;
+  display: inline-flex;
+  align-items: center;
+  width: 100%;
+}
+.ds-select {
+  appearance: none;
+  width: 100%;
+  padding: var(--space-2) var(--space-8) var(--space-2) var(--space-3);
+  font-family: var(--font-sans);
+  font-size: var(--text-sm);
+  color: var(--text-strong);
+  background: var(--bg-surface);
+  border: var(--border-hairline-w) solid var(--border-hairline);
+  border-radius: var(--radius-sm);
+  transition: border-color var(--duration-fast) var(--ease-standard);
+  cursor: pointer;
+}
+.ds-select:focus {
+  outline: none;
+  border-color: var(--accent);
+  box-shadow: 0 0 0 3px color-mix(in srgb, var(--accent) 20%, transparent);
+}
+.ds-select-caret {
+  position: absolute;
+  right: var(--space-3);
+  color: var(--text-muted);
+  pointer-events: none;
+  display: flex;
+  align-items: center;
+}
+</style>

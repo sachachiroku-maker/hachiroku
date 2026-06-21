@@ -1,0 +1,70 @@
+---
+/**
+ * Input — campo de texto estilizado conforme DS tokens.
+ * Uso: <Input name="busca" placeholder="Ex: Onix ronca no freio…" label="O que você está ouvindo?" />
+ */
+interface Props {
+  type?: 'text' | 'email' | 'search' | 'tel' | 'url' | 'number';
+  name: string;
+  id?: string;
+  placeholder?: string;
+  value?: string;
+  label?: string;
+  hint?: string;
+  required?: boolean;
+  autocomplete?: string;
+  class?: string;
+}
+const {
+  type = 'text', name, id, placeholder, value = '', label, hint,
+  required = false, autocomplete, class: cls = ''
+} = Astro.props;
+const uid = id ?? name;
+---
+{label && <label for={uid} class="ds-label">{label}{required && <span aria-hidden="true"> *</span>}</label>}
+<input
+  type={type}
+  id={uid}
+  name={name}
+  placeholder={placeholder}
+  value={value}
+  required={required}
+  autocomplete={autocomplete}
+  class={`ds-input ${cls}`}
+/>
+{hint && <p class="ds-hint">{hint}</p>}
+
+<style>
+.ds-label {
+  display: block;
+  font-family: var(--font-mono);
+  font-size: var(--text-2xs);
+  text-transform: uppercase;
+  letter-spacing: var(--tracking-wide);
+  color: var(--text-muted);
+  margin-bottom: var(--space-1);
+}
+.ds-input {
+  display: block;
+  width: 100%;
+  padding: var(--space-2) var(--space-3);
+  font-family: var(--font-sans);
+  font-size: var(--text-sm);
+  color: var(--text-strong);
+  background: var(--bg-surface);
+  border: var(--border-hairline-w) solid var(--border-hairline);
+  border-radius: var(--radius-sm);
+  transition: border-color var(--duration-fast) var(--ease-standard);
+}
+.ds-input::placeholder { color: var(--text-muted); }
+.ds-input:focus {
+  outline: none;
+  border-color: var(--accent);
+  box-shadow: 0 0 0 3px color-mix(in srgb, var(--accent) 20%, transparent);
+}
+.ds-hint {
+  font-size: var(--text-xs);
+  color: var(--text-muted);
+  margin: var(--space-1) 0 0;
+}
+</style>

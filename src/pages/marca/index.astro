@@ -1,0 +1,77 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { MARCAS } from '../../lib/marcas';
+import { getCollection } from 'astro:content';
+
+const site = 'https://hachiroku.com.br';
+const url = `${site}/marca/`;
+
+// Conta diagnósticos por marca
+const probs = await getCollection('problemas', ({ data }) => !data.draft);
+const contaPorMarca = new Map<string, number>();
+for (const p of probs) {
+  const slug = p.id.split('/')[0];
+  contaPorMarca.set(slug, (contaPorMarca.get(slug) ?? 0) + 1);
+}
+
+const jsonld = {
+  '@context': 'https://schema.org',
+  '@graph': [
+    {
+      '@type': 'BreadcrumbList',
+      '@id': `${url}#breadcrumb`,
+      itemListElement: [
+        { '@type': 'ListItem', position: 1, name: 'Início', item: `${site}/` },
+        { '@type': 'ListItem', position: 2, name: 'Marcas', item: url },
+      ],
+    },
+    {
+      '@type': 'CollectionPage',
+      '@id': `${url}#webpage`,
+      name: 'Marcas automotivas: defeitos, fichas e guias | Hachiroku',
+      description: 'Todas as marcas cobertas pelo Hachiroku. Escolha a sua e acesse diagnósticos, fichas técnicas e guias de compra.',
+      inLanguage: 'pt-BR',
+      isPartOf: { '@id': `${site}/#website` },
+      publisher: { '@id': `${site}/#organization` },
+    },
+    {
+      '@type': 'ItemList',
+      itemListElement: MARCAS.map((m, i) => ({
+        '@type': 'ListItem',
+        position: i + 1,
+        url: `${site}/marca/${m.slug}/`,
+        name: m.nome,
+      })),
+    },
+  ],
+};
+---
+<BaseLayout
+  title="Marcas automotivas: defeitos, fichas e guias | Hachiroku"
+  description="Todas as marcas cobertas pelo Hachiroku. Escolha a sua e acesse diagnósticos, fichas técnicas e guias de compra por modelo."
+  canonical={url}
+  type="website"
+>
+  <script type="application/ld+json" set:html={JSON.stringify(jsonld)} />
+
+  <section class="hero" style="padding-block:var(--space-16)">
+    <p class="kicker" style="color:var(--asphalt-300)">MARCAS</p>
+    <h1>Escolha a sua marca</h1>
+    <p class="tagline">Diagnósticos, fichas técnicas e guias por fabricante</p>
+  </section>
+
+  <section class="silos" aria-label="Marcas cobertas">
+    {MARCAS.map((m) => {
+      const n = contaPorMarca.get(m.slug) ?? 0;
+      return (
+        <a class="silo-card" href={`/marca/${m.slug}/`}>
+          <h2>{m.nome}</h2>
+          {n > 0
+            ? <p>{n} {n === 1 ? 'diagnóstico' : 'diagnósticos'} disponíveis</p>
+            : <p>Fichas e guias disponíveis</p>
+          }
+        </a>
+      );
+    })}
+  </section>
+</BaseLayout>

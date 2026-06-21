@@ -1,0 +1,9 @@
+# Normaliza line endings para LF no repositório (compatível com deploy Linux)
+* text=auto eol=lf
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.webp binary
+*.woff2 binary
+*.woff binary
+*.ico binary

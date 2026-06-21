@@ -1,0 +1,190 @@
+---
+import { getCollection, render } from 'astro:content';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import SchemaProblema from '../../components/schema/SchemaProblema.astro';
+import Afiliado from '../../components/ui/Afiliado.astro';
+import Toc from '../../components/ui/Toc.astro';
+import Photo from '../../components/ui/Photo.astro';
+import { fotoPorId } from '../../lib/fotos';
+import { entidadesDoModelo } from '../../lib/entidades';
+import { sistemaDoDefeito } from '../../lib/sistemas';
+import { getMarca } from '../../lib/marcas';
+
+export async function getStaticPaths() {
+  const entries = await getCollection('problemas', ({ data }) => !data.draft);
+  return entries.map((entry) => ({
+    params: { slug: entry.id },
+    props: { entry },
+  }));
+}
+
+const { entry } = Astro.props;
+const { data } = entry;
+const { Content, headings } = await render(entry);
+
+// Ficha técnica do mesmo modelo (para a mini-ficha da sidebar), se existir
+const fichas = await getCollection('fichas', ({ data }) => !data.draft);
+const fichasModelo = fichas.filter(
+  (f) => f.data.marca.toLowerCase() === data.entidade.marca.toLowerCase()
+    && f.data.modelo.toLowerCase() === data.entidade.modelo.toLowerCase()
+);
+// Se o artigo é de motor turbo, prefere a ficha turbo; senão a aspirada/comum
+const artigoTurbo = /turbo|banhada/i.test(`${data.entidade.motor ?? ''} ${data.defeito ?? ''}`);
+const fichaModelo =
+  fichasModelo.find((f) => artigoTurbo === /turbo/i.test(f.id)) ?? fichasModelo[0] ?? null;
+const fichaHref = fichaModelo ? `/ficha-tecnica/${fichaModelo.id}/` : '/ficha-tecnica/';
+// Linhas da mini-ficha: usa a ficha se houver; senão, o básico da entidade
+const valF = (arr: any[], n: string) => arr?.find((x: any) => x.k.toLowerCase().includes(n))?.v;
+const miniFicha = fichaModelo
+  ? [
+      ['Motor', fichaModelo.data.entidade?.modelo ? valF(fichaModelo.data.motor, 'config') ?? data.entidade.motor : data.entidade.motor],
+      ['Potência', fichaModelo.data.potenciaCv],
+      ['Câmbio', valF(fichaModelo.data.transmissao, 'câmbio')],
+      ['Consumo', valF(fichaModelo.data.consumo, 'estrada')],
+    ].filter((r) => r[1])
+  : [
+      ['Marca', data.entidade.marca],
+      ['Modelo', data.entidade.modelo],
+      data.entidade.motor ? ['Motor', data.entidade.motor] : null,
+      data.entidade.geracao ? ['Geração', data.entidade.geracao] : null,
+    ].filter(Boolean) as [string, string][];
+
+const site = 'https://hachiroku.com.br';
+const url = new URL(`/problemas/${entry.id}/`, site).href;
+
+// Slug do pilar derivado do ID da pasta (não do modelo, que pode ter espaços/maiúsculas)
+const [marcaSlug, modeloSlug] = entry.id.split('/');
+const pilarHref = `/problemas/${marcaSlug}/${modeloSlug}/`;
+
+const breadcrumb = [
+  { name: 'Problemas', item: `${site}/problemas/` },
+  { name: `${data.entidade.marca} ${data.entidade.modelo}`, item: `${site}${pilarHref}` },
+  { name: data.defeito },
+];
+
+// Interlinking: entidades transversais (motor/tecnologia) deste modelo
+const entidadesRel = entidadesDoModelo(`${marcaSlug}/${modeloSlug}`);
+const sistema = sistemaDoDefeito(data.defeito ?? '', entry.id);
+const marcaHub = getMarca(marcaSlug);
+
+const fmt = (d) => d.toLocaleDateString('pt-BR');
+---
+<BaseLayout title={`${data.h1 ?? data.title} | Hachiroku`} description={data.description} canonical={url} type="article" image={fotoPorId(entry.id)}>
+  <SchemaProblema data={data} url={url} breadcrumb={breadcrumb} entryId={entry.id} />
+
+  <div class="article-layout">
+  <article class="prose" itemscope itemtype="https://schema.org/Article">
+    <nav class="breadcrumb" aria-label="Você está em">
+      <a href="/problemas/">Problemas</a> ·
+      <a href={pilarHref}>{data.entidade.marca} {data.entidade.modelo}</a> ·
+      <span>{data.defeito}</span>
+    </nav>
+
+    <header>
+      <p class="kicker">{data.kicker}</p>
+      <h1 class="article-title" itemprop="headline">{data.h1 ?? data.title}</h1>
+      <div class="article-meta">
+        <span itemprop="author" itemscope itemtype="https://schema.org/Organization">
+          <a href="/equipe/" itemprop="url" style="color:inherit;text-decoration:underline;text-underline-offset:2px"><span itemprop="name">{data.autor.nome}</span></a>{data.autor.credencial ? ` · ${data.autor.credencial}` : ''}
+        </span>
+        <time itemprop="datePublished" datetime={data.pubDate.toISOString().slice(0,10)} style="display:none">{data.pubDate.toISOString().slice(0,10)}</time>
+        <time itemprop="dateModified" datetime={(data.updatedDate ?? data.pubDate).toISOString().slice(0,10)}>
+          Atualizado em {fmt(data.updatedDate ?? data.pubDate)}
+        </time>
+      </div>
+    </header>
+
+    <p class="lead">{data.description}</p>
+
+    {data.pontosChave.length > 0 && (
+      <aside class="resumo-rapido" aria-label="Em resumo">
+        <p class="resumo-titulo">Em resumo</p>
+        <ul>{data.pontosChave.map((p) => (<li>{p}</li>))}</ul>
+      </aside>
+    )}
+
+    <Photo label={`${data.entidade.marca} ${data.entidade.modelo} · ${data.defeito}`} h={260} src={fotoPorId(entry.id)} class="artigo-capa" priority />
+
+    <Toc headings={headings} />
+
+    <Content />
+
+    {data.afiliados.length > 0 && (
+      <section aria-label="Peças recomendadas para este diagnóstico">
+        {data.afiliados.map((a) => (
+          <Afiliado produto={a.produto} nota={a.nota} busca={a.busca} programa={a.programa} cta={a.cta} />
+        ))}
+      </section>
+    )}
+
+    {data.faq.length > 0 && (
+      <section aria-label="Perguntas frequentes">
+        <h2>Perguntas frequentes</h2>
+        <dl class="faq">
+          {data.faq.map((f) => (
+            <>
+              <dt>{f.pergunta}</dt>
+              <dd>{f.resposta}</dd>
+            </>
+          ))}
+        </dl>
+      </section>
+    )}
+
+    {data.disclaimer && (
+      <p class="disclaimer" role="note">{data.disclaimer}</p>
+    )}
+
+    {data.fontes.length > 0 && (
+      <section class="referencias" aria-label="Referências">
+        <p class="kicker">REFERÊNCIAS</p>
+        <ol>
+          {data.fontes.map((f) => (
+            <li><a href={f.url} target="_blank" rel="noopener nofollow">{f.titulo}</a></li>
+          ))}
+        </ol>
+      </section>
+    )}
+
+    {data.relacionados.length > 0 && (
+      <nav class="relacionados" aria-label="Conteúdo relacionado">
+        <p class="kicker">CONTINUE O DIAGNÓSTICO</p>
+        <ul>
+          {data.relacionados.map((r) => (
+            <li><a href={r.url}>{r.titulo}</a></li>
+          ))}
+        </ul>
+      </nav>
+    )}
+  </article>
+
+  <aside class="article-sidebar" aria-label="Informações do modelo">
+    <div class="side-card">
+      <p class="side-title">{data.entidade.marca} {data.entidade.modelo}</p>
+      <table class="side-spec">
+        <tbody>
+          {miniFicha.map((r) => (<tr><th scope="row">{r[0]}</th><td>{r[1]}</td></tr>))}
+        </tbody>
+      </table>
+      <a href={fichaHref} class="btn btn-outline">{fichaModelo ? 'Ver ficha completa' : 'Ver fichas técnicas'}</a>
+    </div>
+
+    <nav class="side-card side-entidades" aria-label="Navegar por tema">
+      <p class="side-title">Entenda a fundo</p>
+      <ul>
+        {sistema && <li><a href={`/sistema/${sistema.slug}/`}>Problemas de {sistema.nome.toLowerCase()} →</a></li>}
+        {entidadesRel.map((e) => (
+          <li><a href={`/${e.tipo}/${e.slug}/`}>{e.nome} →</a></li>
+        ))}
+        {marcaHub && <li><a href={`/marca/${marcaHub.slug}/`}>Todos os {marcaHub.nome} →</a></li>}
+      </ul>
+    </nav>
+
+    <div class="side-card side-news">
+      <p class="side-title">Newsletter de recalls</p>
+      <p>Em breve: alertas de recall e defeito crônico por modelo. Por ora, use a busca ou volte sempre.</p>
+      <a href="/busca/" class="btn btn-primary">Buscar o meu carro</a>
+    </div>
+  </aside>
+  </div>
+</BaseLayout>

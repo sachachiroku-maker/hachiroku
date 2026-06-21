@@ -1,0 +1,60 @@
+---
+/**
+ * Schema global do site — WebSite + Organization + SearchAction.
+ * Declarado UMA vez no BaseLayout; as páginas referenciam via @id.
+ */
+const site = 'https://hachiroku.com.br';
+const graph = {
+  '@context': 'https://schema.org',
+  '@graph': [
+    {
+      '@type': 'Organization',
+      '@id': `${site}/#organization`,
+      name: 'Hachiroku',
+      alternateName: 'Hachiroku — O Seu Mecânico Digital',
+      url: site,
+      slogan: 'O Seu Mecânico Digital',
+      foundingDate: '2026',
+      areaServed: { '@type': 'Country', name: 'Brasil' },
+      description:
+        'Portal automotivo editorial-comercial independente: diagnóstico, manutenção, compra racional de usados e projetos. Soluções automotivas de precisão.',
+      logo: {
+        '@type': 'ImageObject',
+        '@id': `${site}/#logo`,
+        url: `${site}/logos/hachiroku-lockup.png`,
+        width: 300,
+        height: 68,
+      },
+      contactPoint: {
+        '@type': 'ContactPoint',
+        contactType: 'customer service',
+        availableLanguage: 'Portuguese',
+        areaServed: 'BR',
+      },
+      sameAs: [
+        'https://www.instagram.com/hachiroku/',
+        'https://www.youtube.com/@hachiroku',
+      ],
+      knowsAbout: ['Automóveis', 'Manutenção automotiva', 'Compra de veículos usados', 'Mecânica automotiva', 'Carros elétricos', 'Diagnóstico automotivo'],
+    },
+    {
+      '@type': 'WebSite',
+      '@id': `${site}/#website`,
+      url: site,
+      name: 'Hachiroku',
+      description: 'Portal automotivo editorial-comercial independente brasileiro sobre diagnóstico, manutenção e compra de carros.',
+      inLanguage: 'pt-BR',
+      publisher: { '@id': `${site}/#organization` },
+      potentialAction: {
+        '@type': 'SearchAction',
+        target: {
+          '@type': 'EntryPoint',
+          urlTemplate: `${site}/busca/?q={search_term_string}`,
+        },
+        'query-input': 'required name=search_term_string',
+      },
+    },
+  ],
+};
+---
+<script type="application/ld+json" set:html={JSON.stringify(graph)} />

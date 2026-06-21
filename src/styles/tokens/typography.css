@@ -1,0 +1,74 @@
+/* ============================================================
+   HACHIROKU — TYPOGRAPHY
+   Saira (mechanical/motorsport display) + IBM Plex Sans (editorial
+   body) + IBM Plex Mono (specs, codes, data). Engineered & precise.
+   ============================================================ */
+
+:root {
+  /* ---- Families ---- */
+  --font-display:       'Saira', system-ui, sans-serif;            /* headlines */
+  --font-condensed:     'Saira Condensed', 'Saira', sans-serif;    /* big numerals, stats, section nums */
+  --font-semicondensed: 'Saira SemiCondensed', 'Saira', sans-serif;/* tight labels / eyebrows */
+  --font-sans:          'IBM Plex Sans', system-ui, sans-serif;    /* body & UI */
+  --font-mono:          'IBM Plex Mono', ui-monospace, monospace;  /* specs, codes, data, code */
+
+  /* ---- Type scale (px) ---- */
+  --text-2xs:  0.6875rem; /* 11 */
+  --text-xs:   0.75rem;   /* 12 */
+  --text-sm:   0.875rem;  /* 14 */
+  --text-base: 1rem;      /* 16 */
+  --text-md:   1.125rem;  /* 18 */
+  --text-lg:   1.25rem;   /* 20 */
+  --text-xl:   1.5rem;    /* 24 */
+  --text-2xl:  1.875rem;  /* 30 */
+  --text-3xl:  2.375rem;  /* 38 */
+  --text-4xl:  3rem;      /* 48 */
+  --text-5xl:  4rem;      /* 64 */
+  --text-6xl:  5.25rem;   /* 84 */
+  --text-7xl:  7rem;      /* 112 — hero 八六 */
+
+  /* ---- Weights ---- */
+  --weight-regular:   400;
+  --weight-medium:    500;
+  --weight-semibold:  600;
+  --weight-bold:      700;
+  --weight-extrabold: 800;
+
+  /* ---- Line heights ---- */
+  --leading-none:    1;
+  --leading-tight:   1.06;
+  --leading-snug:    1.2;
+  --leading-normal:  1.5;
+  --leading-relaxed: 1.65;
+
+  /* ---- Letter spacing ---- */
+  --tracking-tight:  -0.02em;
+  --tracking-normal: 0;
+  --tracking-wide:   0.04em;
+  --tracking-wider:  0.12em;
+  --tracking-widest: 0.24em; /* spaced-uppercase eyebrows */
+
+  /* ============================================================
+     SEMANTIC ROLE ALIASES
+     ============================================================ */
+  /* Display / headline (Saira) */
+  --type-display-font:    var(--font-display);
+  --type-display-weight:  var(--weight-extrabold);
+  --type-display-leading: var(--leading-tight);
+  --type-display-tracking:var(--tracking-tight);
+
+  /* Eyebrow / kicker — spaced uppercase mono or semicondensed */
+  --type-eyebrow-font:     var(--font-mono);
+  --type-eyebrow-size:     var(--text-xs);
+  --type-eyebrow-weight:   var(--weight-medium);
+  --type-eyebrow-tracking: var(--tracking-widest);
+
+  /* Body (IBM Plex Sans) */
+  --type-body-font:    var(--font-sans);
+  --type-body-size:    var(--text-base);
+  --type-body-leading: var(--leading-relaxed);
+
+  /* Data / spec / code (IBM Plex Mono) */
+  --type-data-font:     var(--font-mono);
+  --type-data-tracking: var(--tracking-normal);
+}

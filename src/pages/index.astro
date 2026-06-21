@@ -1,0 +1,111 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import StatBlock from '../components/ui/StatBlock.astro';
+import Badge from '../components/ui/Badge.astro';
+import Eyebrow from '../components/ui/Eyebrow.astro';
+import Icon from '../components/ui/Icon.astro';
+import Photo from '../components/ui/Photo.astro';
+import { fotoPorId } from '../lib/fotos';
+
+const SILOS = [
+  ['wrench', 'Problemas', '/problemas/', 'Diagnóstico de defeitos crônicos por modelo.'],
+  ['gauge', 'Manutenção', '/manutencao/', 'Passo a passo, intervalos e a peça certa.'],
+  ['shopping-cart', 'Guia de compra', '/guia-de-compra/', 'Vale a pena? O custo real de ter o carro.'],
+  ['file-text', 'Ficha técnica', '/ficha-tecnica/', 'Dados, consumo e versões por modelo e ano.'],
+  ['battery-charging', 'Elétricos', '/eletricos/', 'BYD, GWM e híbridos: autonomia real e recarga.'],
+];
+
+// Defeitos crônicos (UI kit). href quando há conteúdo; senão "em breve" (roadmap 90 dias).
+const CHRONIC: [string, string, string, string, string | null][] = [
+  ['Chevrolet Onix 1.0', 'Correia banhada a óleo, pescador da bomba de óleo, consumo alto', 'Diagnóstico', 'danger', '/problemas/chevrolet/onix/'],
+  ['BYD Dolphin Mini', 'Modo tartaruga, bateria 12V, wallbox, garantia Blade', 'Elétrico', 'info', '/eletricos/byd/dolphin-mini/'],
+  ['VW Gol', 'Tucho a frio do motor EA111, bobinas, corpo de borboleta', 'Diagnóstico', 'warning', '/problemas/volkswagen/gol/'],
+  ['VW Polo TSI', 'Consumo de óleo, EPC, válvula PCV, motor EA211', 'Motor turbo', 'accent', '/problemas/volkswagen/polo-tsi/'],
+  ['Hyundai HB20', 'Embreagem, atuador, trepidação e custo de troca', 'Diagnóstico', 'info', '/problemas/hyundai/hb20/'],
+  ['Fiat Argo', 'Sistema Start-Stop, bateria AGM/EFB, motor de partida', 'Na prática', 'ok', '/problemas/fiat/argo/'],
+  ['Chevrolet Tracker', 'Correia banhada a óleo do motor turbo, intervalo e óleo Dexos', 'Motor turbo', 'accent', '/problemas/chevrolet/tracker/'],
+  ['VW T-Cross', 'Consumo de óleo do motor TSI, válvula PCV, família EA211', 'Motor turbo', 'warning', '/problemas/volkswagen/t-cross/'],
+  ['Hyundai Creta', 'Falha de injeção do 1.0 T-GDI, bicos, bomba de alta, carbonização', 'Motor turbo', 'danger', '/problemas/hyundai/creta/'],
+  ['Renault Kwid', 'Consumo de óleo do 1.0 SCe, anéis, válvula PCV', 'Diagnóstico', 'info', '/problemas/renault/kwid/'],
+  ['Jeep Renegade', 'Corrente de comando do 1.3 T270, sincronismo, sistema MultiAir', 'Motor turbo', 'accent', '/problemas/jeep/renegade/'],
+];
+---
+<BaseLayout
+  title="Hachiroku — O Seu Mecânico Digital"
+  description="Portal automotivo independente: diagnóstico de defeitos crônicos, manutenção, compra racional de usados e projetos. Soluções automotivas de precisão."
+  canonical="https://hachiroku.com.br/"
+>
+  <!-- HERO -->
+  <section class="hero-home" data-theme="dark">
+    <div class="wrap">
+      <Eyebrow tone="accent">O Seu Mecânico Digital</Eyebrow>
+      <h1 class="hero-h1">Resolva, compre e cuide do seu carro com <span class="redline">precisão.</span></h1>
+      <p class="hero-sub">Diagnóstico técnico honesto de defeitos crônicos, manutenção e compra de usados, sem depender de verba de montadora.</p>
+      <form class="hero-search" role="search" action="/busca/" method="get">
+        <span class="hero-search-field">
+          <span class="hs-icon" aria-hidden="true"><Icon name="search" size={18} /></span>
+          <input type="search" name="q" placeholder="Ex.: barulho na roda do Celta" aria-label="Buscar diagnóstico" />
+        </span>
+        <button type="submit" class="btn btn-primary"><Icon name="gauge" size={18} /> Diagnosticar</button>
+      </form>
+      <div class="hero-stats">
+        <StatBlock value="123,9M" label="Veículos no Brasil" size="md" onDark />
+        <StatBlock value="R$ 43bi" label="Mercado de peças 2024" delta="+17,8%" size="md" onDark />
+        <StatBlock value="10a 7m" label="Idade média da frota" size="md" onDark />
+        <StatBlock value="86" label="Padrão de precisão" size="md" onDark />
+      </div>
+    </div>
+  </section>
+
+  <!-- SILOS -->
+  <section class="wrap section">
+    <Eyebrow number="01" as="h2">Por onde começar</Eyebrow>
+    <div class="silo-grid">
+      {SILOS.map(([ic, title, href, desc]) => (
+        <a class="silo-card" href={href}>
+          <span class="silo-ic" aria-hidden="true"><Icon name={ic} size={22} /></span>
+          <span class="silo-title">{title}</span>
+          <p>{desc}</p>
+        </a>
+      ))}
+    </div>
+  </section>
+
+  <!-- DEFEITOS CRÔNICOS -->
+  <section class="wrap section">
+    <div class="section-head">
+      <Eyebrow number="02" as="h2">Defeitos crônicos por modelo</Eyebrow>
+      <a href="/problemas/" class="ver-todos">Ver todos →</a>
+    </div>
+    <div class="chronic-grid">
+      {CHRONIC.map(([model, desc, tag, tone, href]) => {
+        const inner = (
+          <>
+            <Photo label={model} h={130} src={fotoPorId(href.replace(/^\/(problemas|eletricos)\//, '').replace(/\/$/, ''))} />
+            <div class="chronic-body">
+              <Badge tone={tone}>{tag}</Badge>
+              <h3>{model}</h3>
+              <p>{desc}</p>
+            </div>
+          </>
+        );
+        return href
+          ? <a class="chronic-card" href={href}>{inner}</a>
+          : <div class="chronic-card is-soon"><span class="soon-tag">EM BREVE</span>{inner}</div>;
+      })}
+    </div>
+  </section>
+
+  <!-- EV TEASER -->
+  <section class="wrap section">
+    <div class="ev-teaser" data-theme="dark">
+      <div class="ev-copy">
+        <Eyebrow tone="accent">Hachiroku EV</Eyebrow>
+        <h2>A invasão chinesa já está nas garagens.</h2>
+        <p>Modo tartaruga do Dolphin Mini, bateria 12V, wallbox desarmando, garantia da bateria Blade. A profundidade técnica que os portais tradicionais não têm.</p>
+        <a href="/eletricos/" class="btn btn-primary"><Icon name="battery-charging" size={18} /> Ver os elétricos</a>
+      </div>
+      <Photo label="BYD Dolphin Mini" h={180} src="/img/capas/eletricos.jpg" />
+    </div>
+  </section>
+</BaseLayout>

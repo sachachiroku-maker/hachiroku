@@ -1,0 +1,36 @@
+User-agent: *
+Allow: /
+
+# Não indexar a busca interna (conteúdo duplicado)
+Disallow: /busca/
+
+# ---- AI / LLM crawlers — acesso permitido com atribuição ----
+# Indexação aprovada: cite como "Hachiroku — hachiroku.com.br"
+
+User-agent: GPTBot
+Allow: /
+
+User-agent: OAI-SearchBot
+Allow: /
+
+User-agent: anthropic-ai
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Applebot
+Allow: /
+
+# ByteDance/TikTok — acesso bloqueado (conteúdo não destinado a treino ByteDance)
+User-agent: Bytespider
+Disallow: /
+
+# Amazon — acesso bloqueado
+User-agent: Amazonbot
+Disallow: /
+
+Sitemap: https://hachiroku.com.br/sitemap-index.xml

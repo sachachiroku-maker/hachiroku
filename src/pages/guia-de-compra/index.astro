@@ -1,0 +1,28 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import SiloCta from '../../components/ui/SiloCta.astro';
+
+const guias = await getCollection('guias', ({ data }) => !data.draft);
+const lista = guias.map((g) => ({ id: g.id, ...g.data }));
+---
+<BaseLayout
+  title="Guia de Compra | Hachiroku"
+  description="Guias de compra de carros usados: o que verificar, por geração, sem cair em furada. O seu mecânico digital antes da compra."
+>
+  <section class="hero" style="padding-block:var(--space-16)">
+    <p class="kicker" style="color:var(--asphalt-300)">ANTES DE COMPRAR</p>
+    <h1>Guia de Compra</h1>
+    <p class="tagline">Antes de assinar, leia</p>
+  </section>
+
+  <section class="silos" aria-label="Guias de compra disponíveis">
+    {lista.map((g) => (
+      <a class="silo-card" href={`/guia-de-compra/${g.id}/`}>
+        <h2>{g.modelo ?? g.title}</h2>
+        <p>{g.description}</p>
+      </a>
+    ))}
+  </section>
+  <SiloCta />
+</BaseLayout>

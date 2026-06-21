@@ -1,0 +1,13 @@
+---
+/**
+ * Hachiroku Badge (Astro, zero-JS) — token de status/rótulo mono uppercase.
+ * Convertido do componente React do Design System.
+ */
+interface Props {
+  tone?: 'neutral' | 'danger' | 'warning' | 'ok' | 'info' | 'accent';
+  variant?: 'soft' | 'solid' | 'outline';
+  class?: string;
+}
+const { tone = 'neutral', variant = 'soft', class: cls = '' } = Astro.props;
+---
+<span class={`badge badge-${tone} badge-${variant} ${cls}`}><slot /></span>

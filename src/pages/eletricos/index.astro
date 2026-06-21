@@ -1,0 +1,17 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import SiloCta from '../../components/ui/SiloCta.astro';
+const itens = (await getCollection('eletricos', ({ data }) => !data.draft)).map((e) => ({ id: e.id, ...e.data }));
+---
+<BaseLayout title="Carros Elétricos e Híbridos | Hachiroku" description="A vertical de carros elétricos do Hachiroku: autonomia real, bateria, wallbox, garantia e diagnóstico de EVs como BYD, GWM e cia. Profundidade técnica que os portais tradicionais não têm.">
+  <section class="hero" style="padding-block:var(--space-16)">
+    <p class="kicker" style="color:var(--asphalt-300)">CARROS ELÉTRICOS E HÍBRIDOS</p>
+    <h1>Elétricos</h1>
+    <p class="tagline">Autonomia real, sem hype</p>
+  </section>
+  <section class="silos" aria-label="Conteúdo de elétricos">
+    {itens.map((i) => (<a class="silo-card" href={`/eletricos/${i.id}/`}><h2>{i.entidade.marca} {i.entidade.modelo}</h2><p>{i.description}</p></a>))}
+  </section>
+  <SiloCta />
+</BaseLayout>
