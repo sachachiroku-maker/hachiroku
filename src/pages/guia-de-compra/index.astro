@@ -5,11 +5,30 @@ import SiloCta from '../../components/ui/SiloCta.astro';
 
 const guias = await getCollection('guias', ({ data }) => !data.draft);
 const lista = guias.map((g) => ({ id: g.id, ...g.data }));
+
+const site = 'https://hachiroku.com.br';
+const url = `${site}/guia-de-compra/`;
+const jsonld = {
+  '@context': 'https://schema.org',
+  '@graph': [
+    { '@type': 'BreadcrumbList', '@id': `${url}#breadcrumb`, itemListElement: [
+      { '@type': 'ListItem', position: 1, name: 'Início', item: `${site}/` },
+      { '@type': 'ListItem', position: 2, name: 'Guia de Compra', item: url },
+    ] },
+    { '@type': 'CollectionPage', '@id': `${url}#webpage`,
+      name: 'Guia de Compra | Hachiroku',
+      description: 'Guias de compra de carros usados: o que verificar, por geração, sem cair em furada. O seu mecânico digital antes da compra.',
+      inLanguage: 'pt-BR', isPartOf: { '@id': `${site}/#website` },
+      publisher: { '@id': `${site}/#organization` }, breadcrumb: { '@id': `${url}#breadcrumb` } },
+  ],
+};
 ---
 <BaseLayout
   title="Guia de Compra | Hachiroku"
   description="Guias de compra de carros usados: o que verificar, por geração, sem cair em furada. O seu mecânico digital antes da compra."
+  canonical={url}
 >
+  <script type="application/ld+json" set:html={JSON.stringify(jsonld)} />
   <section class="hero" style="padding-block:var(--space-16)">
     <p class="kicker" style="color:var(--asphalt-300)">ANTES DE COMPRAR</p>
     <h1>Guia de Compra</h1>

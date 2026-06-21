@@ -1,0 +1,83 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+
+const site = 'https://hachiroku.com.br';
+const url = `${site}/creditos/`;
+
+const jsonld = {
+  '@context': 'https://schema.org',
+  '@graph': [
+    { '@type': 'BreadcrumbList', '@id': `${url}#breadcrumb`, itemListElement: [
+      { '@type': 'ListItem', position: 1, name: 'Início', item: `${site}/` },
+      { '@type': 'ListItem', position: 2, name: 'Créditos e licenças', item: url },
+    ] },
+    { '@type': 'WebPage', '@id': `${url}#webpage`,
+      name: 'Créditos e licenças de imagens | Hachiroku',
+      description: 'Atribuição de imagens sob licença Creative Commons utilizadas no portal Hachiroku.',
+      inLanguage: 'pt-BR', isPartOf: { '@id': `${site}/#website` },
+      publisher: { '@id': `${site}/#organization` }, breadcrumb: { '@id': `${url}#breadcrumb` } },
+  ],
+};
+
+const imagens = [
+  { modelo: 'Chevrolet Onix', arquivo: '/img/modelos/chevrolet-onix.jpg', autor: 'Chevrolet Argentina / Wikimedia Commons', licenca: 'CC BY 2.0', url: 'https://commons.wikimedia.org/wiki/File:Chevrolet_Onix_LT_2013_(8741108524).jpg' },
+  { modelo: 'BYD Dolphin Mini', arquivo: '/img/modelos/byd-dolphin-mini.jpg', autor: 'OSX / Wikimedia Commons', licenca: 'CC BY-SA 4.0', url: 'https://commons.wikimedia.org/wiki/File:BYD_Seagull_2023_China.jpg' },
+  { modelo: 'Volkswagen Gol', arquivo: '/img/modelos/volkswagen-gol.jpg', autor: 'Márcio José Bastos Silva / Wikimedia Commons', licenca: 'CC BY-SA 3.0', url: 'https://commons.wikimedia.org/wiki/File:Volkswagen_Gol_2013.jpg' },
+  { modelo: 'Volkswagen Polo TSI', arquivo: '/img/modelos/volkswagen-polo-tsi.jpg', autor: 'Alexandre Prevot / Wikimedia Commons', licenca: 'CC BY-SA 2.0', url: 'https://commons.wikimedia.org/wiki/File:VW_Polo_VI_IMG_4345.jpg' },
+  { modelo: 'Hyundai HB20', arquivo: '/img/modelos/hyundai-hb20.jpg', autor: 'Rodrigo Souza / Wikimedia Commons', licenca: 'CC BY-SA 3.0', url: 'https://commons.wikimedia.org/wiki/File:Hyundai_HB20_01.jpg' },
+  { modelo: 'Fiat Argo', arquivo: '/img/modelos/fiat-argo.jpg', autor: 'Toglenn / Wikimedia Commons', licenca: 'CC BY-SA 4.0', url: 'https://commons.wikimedia.org/wiki/File:Fiat_Argo_2017.jpg' },
+  { modelo: 'Chevrolet Tracker', arquivo: '/img/modelos/chevrolet-tracker.jpg', autor: 'Chevrolet Argentina / Wikimedia Commons', licenca: 'CC BY 2.0', url: 'https://commons.wikimedia.org/wiki/File:Chevrolet_Tracker_2020.jpg' },
+  { modelo: 'BYD Song Plus EV', arquivo: '/img/modelos/byd-song-plus.jpg', autor: 'OSX / Wikimedia Commons', licenca: 'CC BY-SA 4.0', url: 'https://commons.wikimedia.org/wiki/File:BYD_Song_Plus_EV_2022.jpg' },
+];
+---
+<BaseLayout
+  title="Créditos e licenças de imagens | Hachiroku"
+  description="Atribuição de imagens sob licença Creative Commons utilizadas no portal Hachiroku — O Seu Mecânico Digital."
+  canonical={url}
+>
+  <script type="application/ld+json" set:html={JSON.stringify(jsonld)} />
+
+  <article class="prose">
+    <nav class="breadcrumb" aria-label="Você está em"><a href="/">Início</a> · <span>Créditos</span></nav>
+
+    <header>
+      <p class="kicker">TRANSPARÊNCIA</p>
+      <h1 class="article-title">Créditos e licenças</h1>
+    </header>
+
+    <p class="lead">O Hachiroku utiliza imagens de terceiros disponíveis sob licenças <strong>Creative Commons</strong>. Abaixo estão as atribuições obrigatórias conforme os termos de cada licença.</p>
+
+    <h2>Imagens de modelos</h2>
+    <p>As fotografias dos veículos provêm do <a href="https://commons.wikimedia.org/" rel="noopener noreferrer" target="_blank">Wikimedia Commons</a> e são utilizadas nos termos de suas respectivas licenças CC.</p>
+
+    <table class="creditos-table">
+      <thead>
+        <tr><th>Modelo</th><th>Autor / Fonte</th><th>Licença</th></tr>
+      </thead>
+      <tbody>
+        {imagens.map((img) => (
+          <tr>
+            <td>{img.modelo}</td>
+            <td><a href={img.url} rel="noopener noreferrer nofollow" target="_blank">{img.autor}</a></td>
+            <td><a href={`https://creativecommons.org/licenses/${img.licenca.toLowerCase().replace('cc ', '').replace(' ', '/')}/`} rel="noopener noreferrer" target="_blank">{img.licenca}</a></td>
+          </tr>
+        ))}
+      </tbody>
+    </table>
+
+    <p style="font-size:var(--text-sm);color:var(--text-muted)">Imagens sem atribuição específica nesta lista são de autoria própria do Hachiroku ou de domínio público. Caso identifique alguma omissão, entre em contato pelo e-mail <a href="mailto:sac.hachiroku@gmail.com">sac.hachiroku@gmail.com</a>.</p>
+
+    <h2>Conteúdo editorial</h2>
+    <p>Todo o conteúdo textual (diagnósticos, guias, fichas técnicas, tutoriais) é produzido pela Equipe Técnica Hachiroku e está protegido por direitos autorais. É permitida a reprodução parcial com atribuição explícita e link para a página original.</p>
+
+    <h2>Dados técnicos</h2>
+    <p>Especificações técnicas são compiladas de fontes públicas (manuais do proprietário, boletins técnicos, DENATRAN/SENATRAN, INMETRO e relatórios de recall do PROCON-SP). O Hachiroku não é afiliado a nenhuma montadora.</p>
+  </article>
+</BaseLayout>
+
+<style>
+.creditos-table { width: 100%; border-collapse: collapse; font-size: var(--text-sm); margin-block: var(--space-6); }
+.creditos-table th, .creditos-table td { padding: var(--space-2) var(--space-3); border: var(--border-hairline-w) solid var(--border-hairline); text-align: left; }
+.creditos-table th { background: var(--bg-sunken); font-family: var(--font-display); font-size: var(--text-xs); letter-spacing: var(--tracking-wide); text-transform: uppercase; color: var(--text-muted); }
+.creditos-table tr:hover td { background: var(--bg-surface); }
+</style>

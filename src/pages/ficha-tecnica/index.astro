@@ -7,11 +7,30 @@ const fichas = await getCollection('fichas', ({ data }) => !data.draft);
 const lista = fichas
   .map((f) => ({ id: f.id, ...f.data }))
   .sort((a, b) => b.ano - a.ano);
+
+const site = 'https://hachiroku.com.br';
+const url = `${site}/ficha-tecnica/`;
+const jsonld = {
+  '@context': 'https://schema.org',
+  '@graph': [
+    { '@type': 'BreadcrumbList', '@id': `${url}#breadcrumb`, itemListElement: [
+      { '@type': 'ListItem', position: 1, name: 'Início', item: `${site}/` },
+      { '@type': 'ListItem', position: 2, name: 'Ficha Técnica', item: url },
+    ] },
+    { '@type': 'CollectionPage', '@id': `${url}#webpage`,
+      name: 'Ficha Técnica por modelo | Hachiroku',
+      description: 'Fichas técnicas reais de carros por modelo, ano e versão: motor, consumo, dimensões e o que esperar de cada versão. Sem propaganda, só dado.',
+      inLanguage: 'pt-BR', isPartOf: { '@id': `${site}/#website` },
+      publisher: { '@id': `${site}/#organization` }, breadcrumb: { '@id': `${url}#breadcrumb` } },
+  ],
+};
 ---
 <BaseLayout
   title="Ficha Técnica por modelo | Hachiroku"
   description="Fichas técnicas reais de carros por modelo, ano e versão: motor, consumo, dimensões e o que esperar de cada versão. Sem propaganda, só dado."
+  canonical={url}
 >
+  <script type="application/ld+json" set:html={JSON.stringify(jsonld)} />
   <section class="hero" style="padding-block:var(--space-16)">
     <p class="kicker" style="color:var(--asphalt-300)">DADOS REAIS POR MODELO</p>
     <h1>Ficha Técnica</h1>

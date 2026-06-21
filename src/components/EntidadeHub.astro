@@ -24,21 +24,30 @@ const modelos = entidade.modelos
 const diagnosticos = modelos.flatMap((m) => m.probs);
 const kicker = entidade.tipo === 'motor' ? 'MOTOR' : 'TECNOLOGIA';
 
+// datePublished = pubDate mais antiga dos diagnósticos vinculados
+const _datas = diagnosticos.map((d) => d.data.pubDate).filter(Boolean) as Date[];
+const _datePublished = _datas.length
+  ? new Date(Math.min(..._datas.map((d) => d.getTime()))).toISOString().slice(0, 10)
+  : '2026-01-01';
+const _dateModified = _datas.length
+  ? new Date(Math.max(..._datas.map((d) => (d.data?.updatedDate ?? d).getTime?.() ?? d.getTime()))).toISOString().slice(0, 10)
+  : _datePublished;
+
 const jsonld = {
   '@context': 'https://schema.org',
   '@graph': [
-    { '@type': 'BreadcrumbList', itemListElement: [
+    { '@type': 'BreadcrumbList', '@id': `${url}#breadcrumb`, itemListElement: [
       { '@type': 'ListItem', position: 1, name: 'Início', item: `${site}/` },
-      { '@type': 'ListItem', position: 2, name: entidade.nome },
+      { '@type': 'ListItem', position: 2, name: entidade.nome, item: url },
     ] },
-    { '@type': 'Article', '@id': `${url}#article`, headline: entidade.titulo, inLanguage: 'pt-BR',
-      description: entidade.resumo,
-      datePublished: '2026-01-01', dateModified: new Date().toISOString().slice(0, 10),
+    { '@type': 'CollectionPage', '@id': `${url}#webpage`, name: entidade.titulo, inLanguage: 'pt-BR',
+      description: entidade.resumo, datePublished: _datePublished, dateModified: _dateModified,
       image: { '@type': 'ImageObject', url: `${site}/img/capas/problemas.jpg`, width: 1200, height: 640 },
       isPartOf: { '@id': `${site}/#website` }, publisher: { '@id': `${site}/#organization` },
-      author: { '@id': `${site}/#organization` }, mainEntityOfPage: { '@id': url },
-      about: { '@type': 'Thing', name: entidade.nome, ...(entidade.sameAs ? { sameAs: entidade.sameAs } : {}) } },
-    { '@type': 'ItemList', itemListElement: diagnosticos.map((d, i) => ({
+      breadcrumb: { '@id': `${url}#breadcrumb` }, mainEntityOfPage: { '@id': url },
+      about: { '@type': 'Thing', name: entidade.nome, ...(entidade.sameAs ? { sameAs: entidade.sameAs } : {}) },
+      hasPart: [{ '@id': `${url}#itemlist` }] },
+    { '@type': 'ItemList', '@id': `${url}#itemlist`, itemListElement: diagnosticos.map((d, i) => ({
       '@type': 'ListItem', position: i + 1, url: `${site}/problemas/${d.id}/`, name: d.data.title })) },
   ],
 };
