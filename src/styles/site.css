@@ -476,10 +476,10 @@ a.tag:hover { background: var(--accent-tint); color: var(--accent); border-color
 .footer-logo { height: 34px; width: auto; display: block; }
 .footer-brand-col p { font-family: var(--font-sans); font-size: var(--text-sm); line-height: var(--leading-relaxed); margin-top: var(--space-4); color: var(--asphalt-400); }
 .footer-cols { display: flex; gap: var(--space-12); }
-.footer-h { font-family: var(--font-mono); font-size: var(--text-2xs); letter-spacing: 0.16em; text-transform: uppercase; color: var(--asphalt-500); margin: 0 0 var(--space-3); }
+.footer-h { font-family: var(--font-mono); font-size: var(--text-2xs); letter-spacing: 0.16em; text-transform: uppercase; color: var(--asphalt-300); margin: 0 0 var(--space-3); }
 .footer-cols a { display: block; color: var(--asphalt-300); text-decoration: none; font-size: var(--text-sm); margin-bottom: var(--space-2); }
 .footer-cols a:hover { color: var(--accent); }
-.footer-copy { font-family: var(--font-mono); font-size: var(--text-2xs); color: var(--asphalt-500); letter-spacing: 0.06em; margin-top: var(--space-6); }
+.footer-copy { font-family: var(--font-mono); font-size: var(--text-2xs); color: var(--asphalt-400); letter-spacing: 0.06em; margin-top: var(--space-6); }
 @media (max-width: 640px) {
   .footer-cols { flex-wrap: wrap; gap: var(--space-6) var(--space-5); }
   .footer-cols > div { flex: 0 0 calc(50% - var(--space-3)); }
@@ -843,3 +843,21 @@ a.chronic-card:hover { box-shadow: var(--shadow-md); transform: translateY(-2px)
   .resumo-rapido { padding: var(--space-4); }
   .faq dt { font-size: var(--text-base); }
 }
+
+/* ============================================================
+   Correções de contraste WCAG AA em superfícies escuras
+   (footer e seções data-theme="dark"). Cores "soft" e accent
+   foram desenhadas para fundo claro; em fundo escuro o texto
+   precisa de tom mais claro para atingir 4.5:1.
+   ============================================================ */
+[data-theme="dark"] .eyebrow-accent,
+[data-theme="dark"] .eyebrow-num,
+[data-theme="dark"] .kicker,
+[data-theme="dark"] .resumo-titulo { color: var(--redline-400); }
+
+[data-theme="dark"] .badge-neutral.badge-soft { color: var(--asphalt-200); }
+[data-theme="dark"] .badge-danger.badge-soft  { color: var(--redline-300); }
+[data-theme="dark"] .badge-warning.badge-soft { color: var(--amber-400); }
+[data-theme="dark"] .badge-ok.badge-soft      { color: var(--green-400); }
+[data-theme="dark"] .badge-info.badge-soft    { color: var(--beam-300); }
+[data-theme="dark"] .badge-accent.badge-soft  { color: var(--redline-300); }

@@ -30,7 +30,7 @@ const jsonld = { '@context': 'https://schema.org', '@graph': [
     { '@type': 'ListItem', position: 3, name: sistema.nome } ] },
   { '@type': 'CollectionPage', '@id': `${url}#webpage`, name: sistema.titulo, description: sistema.resumo,
     inLanguage: 'pt-BR', isPartOf: { '@id': `${site}/#website` }, breadcrumb: { '@id': `${url}#breadcrumb` },
-    image: { '@type': 'ImageObject', url: `${site}/img/capas/problemas.jpg`, width: 1200, height: 640 },
+    image: { '@type': 'ImageObject', url: `${site}/img/capas/problemas.webp`, width: 1200, height: 640 },
     publisher: { '@id': `${site}/#organization` } },
   { '@type': 'ItemList', itemListElement: doSistema.map((d, i) => ({
     '@type': 'ListItem', position: i + 1, url: `${site}/problemas/${d.id}/`, name: d.data.title })) },

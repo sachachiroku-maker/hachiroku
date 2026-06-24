@@ -2,6 +2,9 @@
  * Mapa de foto real por modelo (Wikimedia Commons, licença CC — ver /creditos/).
  * Indexado por "marca/modelo" (os 2 primeiros segmentos do id da collection).
  */
+import fs from 'node:fs';
+import path from 'node:path';
+
 const MODELO: Record<string, string> = {
   'chevrolet/onix': 'onix',
   'volkswagen/gol': 'gol',
@@ -84,15 +87,42 @@ const MODELO: Record<string, string> = {
   'volkswagen/fox': 'fox',
 };
 
+const EXT = '.webp';
+
+/**
+ * Slugs com arquivo real em /public/img/modelos (lido em build-time).
+ * Garante que nunca apontamos para uma imagem inexistente — sem isso, modelos
+ * mapeados mas sem foto gerariam 404 (prejudica LCP e schema ImageObject).
+ */
+const FOTOS_EXISTENTES: Set<string> = (() => {
+  try {
+    const dir = path.resolve('./public/img/modelos');
+    return new Set(
+      fs.readdirSync(dir)
+        .filter((f) => f.endsWith(EXT))
+        .map((f) => f.slice(0, -EXT.length)),
+    );
+  } catch {
+    return new Set<string>();
+  }
+})();
+
+/** Resolve o caminho da foto a partir do slug, caindo para a capa se não existir. */
+function resolverFoto(slug: string | undefined, fallbackCategoria: string): string {
+  return slug && FOTOS_EXISTENTES.has(slug)
+    ? `/img/modelos/${slug}${EXT}`
+    : `/img/capas/${fallbackCategoria}${EXT}`;
+}
+
 /** Foto do modelo a partir do id da collection (ex: "chevrolet/onix/correia-dentada"). */
 export function fotoPorId(id: string, fallbackCategoria = 'problemas'): string {
   const key = id.split('/').slice(0, 2).join('/');
-  return MODELO[key] ? `/img/modelos/${MODELO[key]}.jpg` : `/img/capas/${fallbackCategoria}.jpg`;
+  return resolverFoto(MODELO[key], fallbackCategoria);
 }
 
 /** Foto do modelo a partir de marca + modelo (ex: home, fichas). */
 export function fotoPorModelo(marca: string, modelo: string, fallbackCategoria = 'problemas'): string {
   const key = `${marca}/${modelo}`.toLowerCase().replace(/\s+/g, '-');
   const slug = MODELO[key] ?? Object.entries(MODELO).find(([k]) => key.includes(k.split('/')[1]))?.[1];
-  return slug ? `/img/modelos/${slug}.jpg` : `/img/capas/${fallbackCategoria}.jpg`;
+  return resolverFoto(slug, fallbackCategoria);
 }

@@ -43,7 +43,7 @@ const fmt = (d) => d.toLocaleDateString('pt-BR');
 
     <p class="lead">{data.veredito}</p>
 
-    <Photo label={`${data.marca ?? ''} ${data.modelo ?? 'Guia de compra'}`} h={260} src={data.marca && data.modelo ? fotoPorModelo(data.marca, data.modelo, 'guia') : '/img/capas/guia.jpg'} class="artigo-capa" priority />
+    <Photo label={`${data.marca ?? ''} ${data.modelo ?? 'Guia de compra'}`} h={260} src={data.marca && data.modelo ? fotoPorModelo(data.marca, data.modelo, 'guia') : '/img/capas/guia.webp'} class="artigo-capa" priority />
 
     <Toc headings={headings} />
 

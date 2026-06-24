@@ -12,7 +12,7 @@ autor:
   credencial: ""
 pubDate: 2026-06-20
 updatedDate: 2026-06-20
-imagem: "/img/capas/eletricos.jpg"
+imagem: "/img/capas/eletricos.webp"
 imagemAlt: "Chevrolet Bolt EV branco em estrada aberta, mostrando design compacto do elétrico acessível da GM no Brasil"
 faq:
   - pergunta: "Qual é a autonomia real do Chevrolet Bolt EV no Brasil?"

@@ -60,6 +60,24 @@ export default defineConfig({
         return item;
       },
     }),
+    // Expõe o índice de sitemap também em /sitemap.xml (URL canônica esperada
+    // pelo Search Console e pelo robots.txt). Roda após o @astrojs/sitemap,
+    // quando sitemap-index.xml já foi escrito no diretório de saída.
+    {
+      name: 'hachiroku:sitemap-alias',
+      hooks: {
+        'astro:build:done': ({ dir, logger }) => {
+          const indexFile = new URL('sitemap-index.xml', dir);
+          const aliasFile = new URL('sitemap.xml', dir);
+          if (fs.existsSync(indexFile)) {
+            fs.copyFileSync(indexFile, aliasFile);
+            logger.info('sitemap.xml criado (alias de sitemap-index.xml)');
+          } else {
+            logger.warn('sitemap-index.xml não encontrado — /sitemap.xml não gerado');
+          }
+        },
+      },
+    },
   ],
   build: {
     inlineStylesheets: 'auto',

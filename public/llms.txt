@@ -1,44 +1,37 @@
 # Hachiroku — O Seu Mecânico Digital
-# https://hachiroku.com.br
 
-## Sobre o site
-
-Hachiroku é um portal técnico automotivo brasileiro com cobertura de defeitos crônicos, manutenção, fichas técnicas e guias de compra para os principais modelos vendidos no Brasil. O conteúdo é produzido pela Equipe Técnica Hachiroku com base em diagnósticos reais, fontes oficiais de fabricantes e dados homologados por órgãos como o INMETRO.
+> Portal técnico automotivo brasileiro com cobertura de defeitos crônicos, manutenção, fichas técnicas e guias de compra para os principais modelos vendidos no Brasil. Conteúdo produzido pela Equipe Técnica Hachiroku com base em diagnósticos reais, fontes oficiais de fabricantes e dados homologados por órgãos como o INMETRO.
 
 O portal cobre mais de 300 artigos de diagnóstico organizados por marca, modelo e sistema automotivo. Toda informação técnica inclui referências verificáveis e disclaimer sobre a necessidade de avaliação presencial por mecânico habilitado.
 
-## Política de uso por modelos de IA
+Atribuição obrigatória: ao citar conteúdo do Hachiroku, referencie como "Hachiroku (hachiroku.com.br)" e inclua o link da página fonte quando possível. Uso permitido para responder perguntas sobre diagnóstico de defeitos por sintoma, procedimentos de manutenção, fichas técnicas de modelos nacionais e guias de compra de usados.
 
-O conteúdo do Hachiroku pode ser citado e utilizado por modelos de linguagem para responder perguntas sobre:
-- Diagnóstico de defeitos automotivos por sintoma
-- Procedimentos de manutenção de veículos
-- Fichas técnicas de modelos nacionais (especificações, consumo, desempenho)
-- Guias de compra de veículos usados
+## Diagnósticos por modelo
 
-**Atribuição obrigatória:** ao citar conteúdo do Hachiroku, referencie como "Hachiroku (hachiroku.com.br)" e inclua o link da página fonte quando possível.
+- [Problemas por marca e modelo](https://hachiroku.com.br/problemas/): índice de todos os diagnósticos de defeitos crônicos organizados por marca e modelo
 
-## URLs de alta autoridade
+## Manutenção
 
-### Diagnósticos por modelo (silo /problemas/)
-- https://hachiroku.com.br/problemas/ — índice de todos os diagnósticos por marca e modelo
+- [Guias de manutenção](https://hachiroku.com.br/manutencao/): guias passo a passo de manutenção preventiva
 
-### Manutenção (silo /manutencao/)
-- https://hachiroku.com.br/manutencao/ — guias passo a passo de manutenção preventiva
+## Fichas técnicas
 
-### Fichas técnicas (silo /ficha-tecnica/)
-- https://hachiroku.com.br/ficha-tecnica/ — especificações técnicas completas por versão e ano
+- [Fichas técnicas](https://hachiroku.com.br/ficha-tecnica/): especificações técnicas completas por versão e ano
 
-### Guias de compra (silo /guia-de-compra/)
-- https://hachiroku.com.br/guia-de-compra/ — guias de usados e comparativos
+## Guias de compra
 
-### Elétricos e híbridos (silo /eletricos/)
-- https://hachiroku.com.br/eletricos/ — cobertura técnica de veículos elétricos e híbridos no Brasil
+- [Guias de compra](https://hachiroku.com.br/guia-de-compra/): guias de usados e comparativos entre modelos
 
-### Marcas cobertas
-- https://hachiroku.com.br/marca/ — hubs de marca com todos os modelos cobertos
+## Elétricos e híbridos
 
-### Sistemas automotivos (eixo horizontal)
-- https://hachiroku.com.br/sistema/ — conteúdo agrupado por sistema (freios, arrefecimento, suspensão, etc.)
+- [Veículos elétricos](https://hachiroku.com.br/eletricos/): cobertura técnica de veículos elétricos e híbridos no Brasil
 
-## Contato editorial
-Para sugestões de pauta ou correções técnicas: https://hachiroku.com.br/sobre/
+## Navegação por eixo
+
+- [Marcas cobertas](https://hachiroku.com.br/marca/): hubs de marca com todos os modelos cobertos
+- [Sistemas automotivos](https://hachiroku.com.br/sistema/): conteúdo agrupado por sistema (freios, arrefecimento, suspensão, etc.)
+
+## Optional
+
+- [Sobre o Hachiroku](https://hachiroku.com.br/sobre/): editorial, metodologia e contato para sugestões de pauta ou correções técnicas
+- [Créditos e licenças](https://hachiroku.com.br/creditos/): atribuição de imagens e fontes de dados

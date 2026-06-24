@@ -12,7 +12,7 @@ autor:
   credencial: ""
 pubDate: 2026-06-20
 updatedDate: 2026-06-20
-imagem: "/img/capas/eletricos.jpg"
+imagem: "/img/capas/eletricos.webp"
 imagemAlt: "GWM Ora 03 GT, compacto elétrico de design retrô da GWM no Brasil"
 faq:
   - pergunta: "Qual a autonomia real do GWM Ora 03 GT?"

@@ -4,6 +4,7 @@
  * Gerado do frontmatter da collection `fichas` (Template B do plano de schema).
  */
 import { modeloSameAs } from '../../lib/wikis';
+import { fotoPorModelo } from '../../lib/fotos';
 
 interface Props {
   data: any;
@@ -13,6 +14,7 @@ interface Props {
 const { data, url, breadcrumb } = Astro.props;
 const site = 'https://hachiroku.com.br';
 const nome = `${data.marca} ${data.modelo} ${data.ano} ${data.versao}`;
+const fichaImagem = `${site}${fotoPorModelo(data.marca, data.modelo, 'ficha')}`;
 const _fichaModeloKey = `${data.marca.toLowerCase()}/${data.modelo.toLowerCase().replace(/\s+/g, '-')}`;
 
 const graph: any[] = [
@@ -40,7 +42,7 @@ const graph: any[] = [
     mainEntityOfPage: { '@type': 'WebPage', '@id': url },
     image: {
       '@type': 'ImageObject',
-      url: `${site}/img/modelos/${data.marca.toLowerCase()}-${data.modelo.toLowerCase().replace(/\s+/g, '-')}.jpg`,
+      url: fichaImagem,
       width: 1200,
       height: 640,
     },

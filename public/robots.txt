@@ -33,4 +33,4 @@ Disallow: /
 User-agent: Amazonbot
 Disallow: /
 
-Sitemap: https://hachiroku.com.br/sitemap-index.xml
+Sitemap: https://hachiroku.com.br/sitemap.xml

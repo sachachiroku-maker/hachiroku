@@ -12,7 +12,7 @@ autor:
   credencial: ""
 pubDate: 2026-06-20
 updatedDate: 2026-06-20
-imagem: "/img/capas/eletricos.jpg"
+imagem: "/img/capas/eletricos.webp"
 imagemAlt: "BYD Seal 2025 na cor azul, sedã elétrico de alto desempenho da BYD no Brasil"
 faq:
   - pergunta: "Qual é a autonomia real do BYD Seal no Brasil?"

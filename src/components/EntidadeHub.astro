@@ -42,7 +42,7 @@ const jsonld = {
     ] },
     { '@type': 'CollectionPage', '@id': `${url}#webpage`, name: entidade.titulo, inLanguage: 'pt-BR',
       description: entidade.resumo, datePublished: _datePublished, dateModified: _dateModified,
-      image: { '@type': 'ImageObject', url: `${site}/img/capas/problemas.jpg`, width: 1200, height: 640 },
+      image: { '@type': 'ImageObject', url: `${site}/img/capas/problemas.webp`, width: 1200, height: 640 },
       isPartOf: { '@id': `${site}/#website` }, publisher: { '@id': `${site}/#organization` },
       breadcrumb: { '@id': `${url}#breadcrumb` }, mainEntityOfPage: { '@id': url },
       about: { '@type': 'Thing', name: entidade.nome, ...(entidade.sameAs ? { sameAs: entidade.sameAs } : {}) },

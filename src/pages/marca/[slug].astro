@@ -43,7 +43,7 @@ const jsonld = { '@context': 'https://schema.org', '@graph': [
   { '@type': 'CollectionPage', '@id': `${url}#webpage`, name: `${marca.nome}: defeitos, fichas e guias`,
     about: { '@id': `${url}#brand` }, inLanguage: 'pt-BR', isPartOf: { '@id': `${site}/#website` },
     breadcrumb: { '@id': `${url}#breadcrumb` },
-    image: { '@type': 'ImageObject', url: `${site}/img/capas/problemas.jpg`, width: 1200, height: 640 },
+    image: { '@type': 'ImageObject', url: `${site}/img/capas/problemas.webp`, width: 1200, height: 640 },
     publisher: { '@id': `${site}/#organization` } },
   { '@type': 'ItemList', itemListElement: modelos.map((m, i) => ({
     '@type': 'ListItem', position: i + 1, url: `${site}/problemas/${m.mm}/`, name: m.nome })) },
