@@ -1,5 +1,10 @@
 ---
 import BaseLayout from '../../layouts/BaseLayout.astro';
+import { construirLexico } from '../../lib/busca-lexico';
+
+// Léxico do domínio (marcas, modelos, sistemas, motores + termos automotivos),
+// serializado para o cliente e usado na correção de typos/abreviações.
+const lexico = construirLexico();
 ---
 <BaseLayout
   title="Buscar | Hachiroku"
@@ -12,7 +17,17 @@ import BaseLayout from '../../layouts/BaseLayout.astro';
     <p class="kicker">BUSCA</p>
     <h1 class="article-title">O que você procura?</h1>
     <p class="lead">Diagnósticos, guias de compra, fichas técnicas e tutoriais. Digite o modelo, o defeito ou a peça (ex: "correia Onix", "consumo", "Dolphin Mini").</p>
+
+    <!-- Camada 1+2: aviso de correção de intenção (typo/abreviação) -->
+    <p id="busca-correcao" class="busca-correcao" hidden></p>
+
     <div id="search"></div>
+
+    <!-- Camada 3: estado vazio inteligente (aparece só quando não há resultado) -->
+    <div id="busca-vazio" class="busca-vazio" hidden>
+      <p class="busca-vazio-titulo">Ainda não temos um conteúdo específico para <strong id="busca-vazio-termo"></strong>.</p>
+      <p>Mas talvez ajude explorar os diagnósticos relacionados abaixo, ou navegar por silo. Se for um modelo ou defeito que ainda não cobrimos, ele está na nossa fila editorial.</p>
+    </div>
 
     <div class="busca-sugestoes" data-pagefind-ignore>
       <p class="kicker" style="margin-top:var(--space-10)">PESQUISAS POPULARES</p>
@@ -46,36 +61,156 @@ import BaseLayout from '../../layouts/BaseLayout.astro';
   </section>
 
   <script is:inline defer src="/pagefind/pagefind-ui.js"></script>
-  <script is:inline>
+  <script define:vars={{ LEXICO: lexico.termos, ABREV: lexico.abreviacoes }}>
+    // ===== Correção de intenção: typos + abreviações (camadas 1 e 2) =====
+    function norm(s) {
+      return String(s).toLowerCase().normalize('NFD').replace(/[̀-ͯ]/g, '').replace(/[^a-z0-9]/g, '');
+    }
+    var LEX = LEXICO.map(function (t) { return { canon: t, n: norm(t) }; });
+    var LEX_SET = new Set(LEX.map(function (x) { return x.n; }));
+    var ABREV_N = {};
+    Object.keys(ABREV).forEach(function (k) { ABREV_N[norm(k)] = ABREV[k]; });
+
+    // Distância de edição (Levenshtein) com corte rápido por diferença de tamanho.
+    function lev(a, b) {
+      var m = a.length, n = b.length;
+      if (Math.abs(m - n) > 2) return 99;
+      var prev = [], cur = [], i, j;
+      for (j = 0; j <= n; j++) prev[j] = j;
+      for (i = 1; i <= m; i++) {
+        cur[0] = i;
+        for (j = 1; j <= n; j++) {
+          var cost = a.charCodeAt(i - 1) === b.charCodeAt(j - 1) ? 0 : 1;
+          cur[j] = Math.min(prev[j] + 1, cur[j - 1] + 1, prev[j - 1] + cost);
+        }
+        for (j = 0; j <= n; j++) prev[j] = cur[j];
+      }
+      return prev[n];
+    }
+
+    // Corrige UMA palavra: abreviação > já-conhecida > vizinho mais próximo.
+    function corrigePalavra(w) {
+      var nw = norm(w);
+      if (!nw) return null;
+      if (ABREV_N[nw]) return ABREV_N[nw];   // abreviação primeiro (pega pq, vc, ac, tb…)
+      if (nw.length < 3) return null;         // curta demais para correção fuzzy
+      if (LEX_SET.has(nw)) return null;
+      var melhor = null, dist = 99, limiar = nw.length <= 4 ? 1 : 2;
+      for (var i = 0; i < LEX.length; i++) {
+        var d = lev(nw, LEX[i].n);
+        if (d < dist) { dist = d; melhor = LEX[i].canon; if (d === 1) break; }
+      }
+      return (melhor && dist <= limiar) ? melhor : null;
+    }
+
+    // Corrige a query inteira; preserva o que já está certo.
+    function corrigeQuery(q) {
+      var partes = String(q).split(/\s+/), mudou = false, saida = [];
+      for (var i = 0; i < partes.length; i++) {
+        var w = partes[i];
+        if (!w) continue;
+        var c = corrigePalavra(w);
+        if (c && norm(c) !== norm(w)) { saida.push(c); mudou = true; }
+        else saida.push(w);
+      }
+      return { q: saida.join(' '), mudou: mudou };
+    }
+
+    function escapa(s) {
+      return String(s).replace(/[&<>"]/g, function (c) {
+        return { '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c];
+      });
+    }
+
     window.addEventListener('DOMContentLoaded', function () {
-      if (window.PagefindUI) {
-        new window.PagefindUI({
-          element: '#search',
-          showSubResults: true,
-          showImages: false,
-          translations: {
-            placeholder: 'Buscar no Hachiroku',
-            zero_results: 'Nada encontrado para "[SEARCH_TERM]"',
-            many_results: '[COUNT] resultados para "[SEARCH_TERM]"',
-            one_result: '[COUNT] resultado para "[SEARCH_TERM]"',
-            searching: 'Buscando "[SEARCH_TERM]"...'
+      if (!window.PagefindUI) return;
+
+      new window.PagefindUI({
+        element: '#search',
+        showSubResults: true,
+        showImages: false,
+        // Camada 1+2: corrige o termo ANTES de o Pagefind buscar.
+        processTerm: function (term) {
+          var r = corrigeQuery(term);
+          var el = document.getElementById('busca-correcao');
+          if (el) {
+            if (r.mudou) {
+              el.innerHTML = 'Mostrando resultados para <strong>' + escapa(r.q) + '</strong>' +
+                ' <span class="busca-correcao-orig">— você digitou “' + escapa(term) + '”</span>';
+              el.hidden = false;
+            } else {
+              el.hidden = true;
+            }
+          }
+          return r.q;
+        },
+        translations: {
+          placeholder: 'Buscar no Hachiroku',
+          zero_results: 'Nada encontrado para "[SEARCH_TERM]"',
+          many_results: '[COUNT] resultados para "[SEARCH_TERM]"',
+          one_result: '[COUNT] resultado para "[SEARCH_TERM]"',
+          searching: 'Buscando "[SEARCH_TERM]"...'
+        }
+      });
+
+      // Camada 3: estado vazio inteligente — observa o widget e revela
+      // o painel de recomendações quando a busca não retorna nada.
+      var search = document.getElementById('search');
+      var vazio = document.getElementById('busca-vazio');
+      if (search && vazio) {
+        var obs = new MutationObserver(function () {
+          var msg = search.querySelector('.pagefind-ui__message');
+          var input = search.querySelector('.pagefind-ui__search-input');
+          var zero = msg && /nada encontrado/i.test(msg.textContent || '');
+          if (zero) {
+            var termoEl = document.getElementById('busca-vazio-termo');
+            if (termoEl && input) termoEl.textContent = '“' + input.value.trim() + '”';
+            vazio.hidden = false;
+          } else {
+            vazio.hidden = true;
           }
         });
-        // Pré-popula a busca com o ?q= vindo do header/hero
-        var q = new URLSearchParams(window.location.search).get('q');
-        if (q) {
-          var tries = 0;
-          var iv = setInterval(function () {
-            var inp = document.querySelector('.pagefind-ui__search-input');
-            if (inp) {
-              inp.value = q;
-              inp.dispatchEvent(new Event('input', { bubbles: true }));
-              clearInterval(iv);
-            }
-            if (++tries > 40) clearInterval(iv);
-          }, 50);
-        }
+        obs.observe(search, { childList: true, subtree: true });
+      }
+
+      // Pré-popula a busca com o ?q= vindo do header/hero.
+      var q = new URLSearchParams(window.location.search).get('q');
+      if (q) {
+        var tries = 0;
+        var iv = setInterval(function () {
+          var inp = document.querySelector('.pagefind-ui__search-input');
+          if (inp) {
+            inp.value = q;
+            inp.dispatchEvent(new Event('input', { bubbles: true }));
+            clearInterval(iv);
+          }
+          if (++tries > 40) clearInterval(iv);
+        }, 50);
       }
     });
   </script>
+
+  <style>
+    .busca-correcao {
+      margin: var(--space-3) 0 0;
+      font-size: var(--text-sm);
+      color: var(--text-body);
+      padding: var(--space-2) var(--space-3);
+      background: var(--accent-tint);
+      border-left: 3px solid var(--accent);
+      border-radius: var(--radius-xs);
+    }
+    .busca-correcao strong { color: var(--text-strong); }
+    .busca-correcao-orig { color: var(--text-muted); font-size: var(--text-xs); }
+    .busca-vazio {
+      margin: var(--space-5) 0;
+      padding: var(--space-4) var(--space-5);
+      border: var(--border-hairline-w) solid var(--border-hairline);
+      border-radius: var(--radius-md);
+      background: var(--bg-sunken);
+    }
+    .busca-vazio-titulo { font-family: var(--font-display); font-weight: var(--weight-bold); color: var(--text-strong); margin: 0 0 var(--space-2); }
+    .busca-vazio p { margin: 0; font-size: var(--text-sm); color: var(--text-body); }
+    .busca-vazio p + p { margin-top: var(--space-2); }
+  </style>
 </BaseLayout>
