@@ -46,10 +46,19 @@ const REASONS = {
   200: 'OK — URLs submetidas com sucesso',
   202: 'Aceito — chave ainda em validação',
   400: 'Bad request — formato inválido',
-  403: 'Forbidden — chave inválida (arquivo .txt ausente ou não corresponde)',
+  403: 'Forbidden — chave não aceita (ver detalhe da resposta)',
   422: 'Unprocessable — URLs fora do host ou chave fora do esquema',
   429: 'Too Many Requests — possível spam, aguarde',
 };
+
+/** Extrai errorCode/message do corpo JSON da resposta, quando houver. */
+function detalheResposta(text) {
+  try {
+    const j = JSON.parse(text);
+    if (j.errorCode || j.message) return `${j.errorCode ?? ''}${j.errorCode && j.message ? ': ' : ''}${j.message ?? ''}`.trim();
+  } catch { /* não-JSON */ }
+  return text ? text.slice(0, 160) : '';
+}
 
 const args = process.argv.slice(2).filter((a) => a.startsWith('http'));
 const urls = args.length ? args : urlsFromSitemap();
@@ -69,9 +78,14 @@ for (let i = 0; i < urls.length; i += MAX_PER_REQUEST) {
   try {
     const { status, text } = await submit(lote);
     const reason = REASONS[status] ?? 'Resposta inesperada';
+    const detalhe = detalheResposta(text);
     const sym = status >= 200 && status < 300 ? '✓' : '✗';
-    console.log(`${sym} lote ${i / MAX_PER_REQUEST + 1}: HTTP ${status} — ${reason}${text ? ` | ${text.slice(0, 120)}` : ''}`);
+    console.log(`${sym} lote ${i / MAX_PER_REQUEST + 1}: HTTP ${status} — ${reason}${detalhe ? ` | ${detalhe}` : ''}`);
     if (status >= 200 && status < 300) ok += lote.length; else fail += lote.length;
+    if (detalhe.includes('SiteVerificationNotCompleted')) {
+      console.log('  ↳ A chave foi publicada agora; o IndexNow ainda está verificando o domínio.');
+      console.log('  ↳ Aguarde e rode "npm run indexnow" novamente em alguns minutos/horas.');
+    }
   } catch (e) {
     console.error(`✗ lote ${i / MAX_PER_REQUEST + 1}: erro de rede — ${e.message}`);
     fail += lote.length;
