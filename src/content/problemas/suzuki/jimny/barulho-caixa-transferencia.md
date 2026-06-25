@@ -28,14 +28,14 @@ faq:
   - pergunta: "Com que frequência trocar o fluido da caixa de transferência do Jimny?"
     resposta: "Suzuki recomenda a cada 40.000 km ou 4 anos para uso severo (off-road frequente). Para uso exclusivamente urbano com 4WD raramente usado, 60.000 km. O fluido da caixa de transferência é diferente do fluido da caixa de câmbio — verificar especificação correta no manual."
 passos:
-  - titulo: "Verificar se o barulho ocorre apenas em 4WD"
-    descricao: "Testar em 2WD normal. Barulho apenas em 4H ou 4L = problema na caixa de transferência. Barulho em ambos = problema no câmbio ou diferencial."
-  - titulo: "Verificar se está em asfalto seco ao usar 4WD"
-    descricao: "Rangido em 4WD em asfalto seco é normal — é o torque biding. Desengajar 4WD e verificar se o barulho desaparece."
-  - titulo: "Verificar fluido da caixa de transferência"
-    descricao: "Com carro frio, verificar nível pelo bujão de inspeção da caixa de transferência. Fluido escuro ou com sedimentos = troca necessária."
-  - titulo: "Inspecionar alavanca de seleção de 4WD"
-    descricao: "Verificar se a alavanca de transferência encaixa completamente nas posições (2H, 4H, N, 4L). Encaixe parcial pode causar barulho por engajamento incompleto."
+  - nome: "Verificar se o barulho ocorre apenas em 4WD"
+    texto: "Testar em 2WD normal. Barulho apenas em 4H ou 4L = problema na caixa de transferência. Barulho em ambos = problema no câmbio ou diferencial."
+  - nome: "Verificar se está em asfalto seco ao usar 4WD"
+    texto: "Rangido em 4WD em asfalto seco é normal — é o torque biding. Desengajar 4WD e verificar se o barulho desaparece."
+  - nome: "Verificar fluido da caixa de transferência"
+    texto: "Com carro frio, verificar nível pelo bujão de inspeção da caixa de transferência. Fluido escuro ou com sedimentos = troca necessária."
+  - nome: "Inspecionar alavanca de seleção de 4WD"
+    texto: "Verificar se a alavanca de transferência encaixa completamente nas posições (2H, 4H, N, 4L). Encaixe parcial pode causar barulho por engajamento incompleto."
 autor:
   nome: "Redação Hachiroku"
 pubDate: 2026-06-25

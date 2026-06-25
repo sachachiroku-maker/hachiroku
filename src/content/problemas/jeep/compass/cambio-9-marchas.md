@@ -28,14 +28,14 @@ faq:
   - pergunta: "Qual fluido usar no câmbio de 9 marchas do Compass?"
     resposta: "O 9HP48 usa fluido ZF Lifeguard 9 — específico para este câmbio. Usar ATF convencional (Dexron VI, Mercon V) pode causar danos ao câmbio. O fluido ZF Lifeguard 9 é de troca longa (lifetime segundo a ZF, mas mecânicos recomendam troca a cada 80.000-100.000 km em uso brasileiro)."
 passos:
-  - titulo: "Verificar se há atualização de software disponível"
-    descricao: "Levar à concessionária Jeep com descrição detalhada do solavanco (quando ocorre, em qual velocidade, ao sair do ponto morto ou durante trocas de marcha). Solicitar verificação de TSB e atualização de software do TCU."
-  - titulo: "Fazer reset de adaptação do câmbio"
-    descricao: "Após atualização de software, o técnico deve fazer o reset das adaptações do câmbio (procedimento via scanner Stellantis). Sem o reset, as adaptações antigas interferem com o novo software."
-  - titulo: "Verificar fluido ATF"
-    descricao: "Se o solavanco surgiu progressivamente, verificar o estado e o nível do fluido ZF Lifeguard 9. Fluido degradado ou de especificação incorreta afeta a qualidade das trocas de marcha."
-  - titulo: "Documentar o problema para garantia"
-    descricao: "Solavanco em câmbio dentro do prazo de garantia (5 anos / 100.000 km no Compass) deve ser registrado na concessionária. Registros em papel facilitam o processo de cobertura se o problema persistir."
+  - nome: "Verificar se há atualização de software disponível"
+    texto: "Levar à concessionária Jeep com descrição detalhada do solavanco (quando ocorre, em qual velocidade, ao sair do ponto morto ou durante trocas de marcha). Solicitar verificação de TSB e atualização de software do TCU."
+  - nome: "Fazer reset de adaptação do câmbio"
+    texto: "Após atualização de software, o técnico deve fazer o reset das adaptações do câmbio (procedimento via scanner Stellantis). Sem o reset, as adaptações antigas interferem com o novo software."
+  - nome: "Verificar fluido ATF"
+    texto: "Se o solavanco surgiu progressivamente, verificar o estado e o nível do fluido ZF Lifeguard 9. Fluido degradado ou de especificação incorreta afeta a qualidade das trocas de marcha."
+  - nome: "Documentar o problema para garantia"
+    texto: "Solavanco em câmbio dentro do prazo de garantia (5 anos / 100.000 km no Compass) deve ser registrado na concessionária. Registros em papel facilitam o processo de cobertura se o problema persistir."
 autor:
   nome: "Redação Hachiroku"
 pubDate: 2026-06-25

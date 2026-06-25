@@ -28,14 +28,14 @@ faq:
   - pergunta: "A embreagem do HB20S dura quanto km?"
     resposta: "Em condução suave e uso misto, 80.000-100.000 km. Em uso urbano puro com trânsito intenso (ponto de embreagem frequente) ou com hábito de 'usar a embreagem para segurar em rampa', 40.000-60.000 km. Motoristas novos ou que aprenderam com mau hábito do 'meio ponto' constante desgastam em 30.000-40.000 km."
 passos:
-  - titulo: "Confirmar patinação com teste em terceira marcha"
-    descricao: "3ª marcha, 40 km/h, acelere fundo. RPM sobe desproporcionalmente ao aumento de velocidade = embreagem patinando."
-  - titulo: "Verificar se há contaminação de óleo"
-    descricao: "Embreagem com óleo (vazamento de retentor traseiro do motor) perde coeficiente de atrito. Verificar sinais de vazamento de óleo na tampa do motor e no início da caixa de câmbio."
-  - titulo: "Verificar ajuste do cabo de embreagem (se aplicável)"
-    descricao: "Embreagem com cabo (modelos mais antigos): cabo frouxo pode simular patinação. Modelos com hidráulica não têm ajuste."
-  - titulo: "Orçar kit completo com mecânico de confiança"
-    descricao: "Trocar disco sem trocar plato e rolamento é economia falsa — o plato já desgastou junto com o disco. Kit completo R$ 400-800 + mão de obra R$ 300-600."
+  - nome: "Confirmar patinação com teste em terceira marcha"
+    texto: "3ª marcha, 40 km/h, acelere fundo. RPM sobe desproporcionalmente ao aumento de velocidade = embreagem patinando."
+  - nome: "Verificar se há contaminação de óleo"
+    texto: "Embreagem com óleo (vazamento de retentor traseiro do motor) perde coeficiente de atrito. Verificar sinais de vazamento de óleo na tampa do motor e no início da caixa de câmbio."
+  - nome: "Verificar ajuste do cabo de embreagem (se aplicável)"
+    texto: "Embreagem com cabo (modelos mais antigos): cabo frouxo pode simular patinação. Modelos com hidráulica não têm ajuste."
+  - nome: "Orçar kit completo com mecânico de confiança"
+    texto: "Trocar disco sem trocar plato e rolamento é economia falsa — o plato já desgastou junto com o disco. Kit completo R$ 400-800 + mão de obra R$ 300-600."
 autor:
   nome: "Redação Hachiroku"
 pubDate: 2026-06-25

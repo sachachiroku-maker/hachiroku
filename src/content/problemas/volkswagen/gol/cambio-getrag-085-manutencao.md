@@ -28,14 +28,14 @@ faq:
   - pergunta: "O câmbio do Gol pode ser reconstruído ou é melhor comprar usado?"
     resposta: "Câmbio reconstruído com sincronizadores novos dura mais que câmbio usado de procedência desconhecida — mas custa mais (R$ 1.200-2.500 vs. R$ 600-1.200). Para quem vai manter o carro por mais 80.000-100.000 km, reconstruído vale. Para quem vai vender o carro em breve, câmbio usado em bom estado é mais econômico."
 passos:
-  - titulo: "Verificar quando o óleo do câmbio foi trocado"
-    descricao: "Se nunca foi trocado com mais de 60.000 km, agendar troca com 75W-90 GL-4. Custo: R$ 80-120 (produto + mão de obra)."
-  - titulo: "Testar o engajamento de todas as marchas"
-    descricao: "Com carro aquecido: testar 1ª, 2ª, 3ª, 4ª, 5ª e ré. Marcha que resiste ou 'raspa' com motor aquecido indica sincronizador gasto — troca do câmbio é a solução."
-  - titulo: "Verificar nível de óleo"
-    descricao: "Câmbio com nível baixo (vazamento) opera sem lubrificação adequada — desgaste acelerado. Verificar pelo bujão de inspeção."
-  - titulo: "Avaliar custo-benefício de reconstrução vs. troca"
-    descricao: "Para câmbio com múltiplas marchas difíceis ou barulho significativo: orçar reconstrução vs. câmbio usado. Para câmbio com dificuldade leve em uma marcha: troca de óleo pode resolver ou ao menos postergar o reparo."
+  - nome: "Verificar quando o óleo do câmbio foi trocado"
+    texto: "Se nunca foi trocado com mais de 60.000 km, agendar troca com 75W-90 GL-4. Custo: R$ 80-120 (produto + mão de obra)."
+  - nome: "Testar o engajamento de todas as marchas"
+    texto: "Com carro aquecido: testar 1ª, 2ª, 3ª, 4ª, 5ª e ré. Marcha que resiste ou 'raspa' com motor aquecido indica sincronizador gasto — troca do câmbio é a solução."
+  - nome: "Verificar nível de óleo"
+    texto: "Câmbio com nível baixo (vazamento) opera sem lubrificação adequada — desgaste acelerado. Verificar pelo bujão de inspeção."
+  - nome: "Avaliar custo-benefício de reconstrução vs. troca"
+    texto: "Para câmbio com múltiplas marchas difíceis ou barulho significativo: orçar reconstrução vs. câmbio usado. Para câmbio com dificuldade leve em uma marcha: troca de óleo pode resolver ou ao menos postergar o reparo."
 autor:
   nome: "Redação Hachiroku"
 pubDate: 2026-06-25

@@ -28,14 +28,14 @@ faq:
   - pergunta: "A bateria do Song Plus perde capacidade rapidamente?"
     resposta: "A BYD usa bateria LFP (Lítio Ferro Fosfato) — mais estável quimicamente que NMC, com menor degradação ao longo do tempo. Expectativa: manter 90% da capacidade após 200.000 km / 8 anos. A BYD oferece garantia de 8 anos / 150.000 km para a bateria de tração."
 passos:
-  - titulo: "Calibrar expectativas por tipo de uso"
-    descricao: "Calcular autonomia esperada: NEDC/CLTC × 0,70 (fator Brasil) para uso misto. Para uso exclusivo em rodovia: × 0,65."
-  - titulo: "Ativar modo de condução ECO"
-    descricao: "Modo ECO limita a aceleração e otimiza a recuperação de energia pela frenagem regenerativa. Pode adicionar 10-15% de autonomia real."
-  - titulo: "Gerenciar o uso do ar-condicionado"
-    descricao: "Pré-condicionar o habitáculo (ligar A/C antes de entrar no carro, com o carro ainda carregando) — essa energia vem da rede, não da bateria."
-  - titulo: "Verificar degradação da bateria"
-    descricao: "Aplicativo BYD (para modelos com conectividade) mostra SOH (State of Health) da bateria. Degradação acima de 15% em menos de 5 anos pode ser coberta por garantia."
+  - nome: "Calibrar expectativas por tipo de uso"
+    texto: "Calcular autonomia esperada: NEDC/CLTC × 0,70 (fator Brasil) para uso misto. Para uso exclusivo em rodovia: × 0,65."
+  - nome: "Ativar modo de condução ECO"
+    texto: "Modo ECO limita a aceleração e otimiza a recuperação de energia pela frenagem regenerativa. Pode adicionar 10-15% de autonomia real."
+  - nome: "Gerenciar o uso do ar-condicionado"
+    texto: "Pré-condicionar o habitáculo (ligar A/C antes de entrar no carro, com o carro ainda carregando) — essa energia vem da rede, não da bateria."
+  - nome: "Verificar degradação da bateria"
+    texto: "Aplicativo BYD (para modelos com conectividade) mostra SOH (State of Health) da bateria. Degradação acima de 15% em menos de 5 anos pode ser coberta por garantia."
 autor:
   nome: "Redação Hachiroku"
 pubDate: 2026-06-25

@@ -28,14 +28,14 @@ faq:
   - pergunta: "A correia dentada do T270 pode causar superaquecimento?"
     resposta: "A correia em si não causa superaquecimento. Mas a bomba d'água do T270 é acionada pela correia dentada — se a bomba falha ou se a correia desliza na polia da bomba (por desgaste ou contaminação de óleo), o motor perde o arrefecimento. Verificar o estado da correia e da bomba d'água na revisão dos 60.000 km."
 passos:
-  - titulo: "Verificar nível e cor do fluido de arrefecimento"
-    descricao: "Motor frio. Reservatório deve estar entre MIN e MAX. Fluido verde ou laranja limpo = OK. Fluido leitoso = contaminação de óleo (junta de cabeçote suspeita)."
-  - titulo: "Verificar a tampa do radiador"
-    descricao: "Tampa fraca libera pressão antes do sistema atingir temperatura normal. Teste com manômetro (R$ 30 na ferramenta) ou trocar preventivamente (R$ 25-50 — barato demais para não trocar)."
-  - titulo: "Verificar mangueiras do radiador"
-    descricao: "Inspecionar mangueiras superior e inferior por inchaço, ressecamento ou amolecimento. Mangueiras que colapsam ao apertar estão com a parede interna desgastada."
-  - titulo: "Verificar funcionamento da ventoinha elétrica"
-    descricao: "Com motor aquecido (acima de 90°C), verificar se a ventoinha elétrica do radiador está funcionando. Ventoinha parada causa superaquecimento em tráfego lento."
+  - nome: "Verificar nível e cor do fluido de arrefecimento"
+    texto: "Motor frio. Reservatório deve estar entre MIN e MAX. Fluido verde ou laranja limpo = OK. Fluido leitoso = contaminação de óleo (junta de cabeçote suspeita)."
+  - nome: "Verificar a tampa do radiador"
+    texto: "Tampa fraca libera pressão antes do sistema atingir temperatura normal. Teste com manômetro (R$ 30 na ferramenta) ou trocar preventivamente (R$ 25-50 — barato demais para não trocar)."
+  - nome: "Verificar mangueiras do radiador"
+    texto: "Inspecionar mangueiras superior e inferior por inchaço, ressecamento ou amolecimento. Mangueiras que colapsam ao apertar estão com a parede interna desgastada."
+  - nome: "Verificar funcionamento da ventoinha elétrica"
+    texto: "Com motor aquecido (acima de 90°C), verificar se a ventoinha elétrica do radiador está funcionando. Ventoinha parada causa superaquecimento em tráfego lento."
 autor:
   nome: "Redação Hachiroku"
 pubDate: 2026-06-25

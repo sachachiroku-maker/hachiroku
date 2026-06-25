@@ -28,14 +28,14 @@ faq:
   - pergunta: "Como desativar o freio de emergência elétrico do Corolla Cross em emergência?"
     resposta: "Para soltar o EPB quando travado: pressionar o pedal do freio e pressionar o botão EPB por 2 segundos. Se o sistema não responder normalmente, o manual indica a localização do fusível de emergência — verificar no manual do proprietário do modelo específico."
 passos:
-  - titulo: "Confirmar se é EPB ou Auto Hold"
-    descricao: "EPB (freio de estacionamento) acende luz P laranja no painel. Auto Hold é indicado por símbolo específico. Identificar qual sistema está ativando incorretamente."
-  - titulo: "Verificar atualização de software disponível"
-    descricao: "Levar à concessionária Toyota com descrição precisa do problema (quando acontece, em que situação, inclinação estimada). Verificar se há TSB com atualização de calibração para o modelo."
-  - titulo: "Solicitar recalibração do sensor de inclinação"
-    descricao: "A recalibração do sistema EPB é procedimento em scanner Toyota (Techstream). Corrigir o limiar de ativação do sensor de inclinação resolve a maioria dos casos."
-  - titulo: "Verificar limpeza dos sensores"
-    descricao: "Sensores de inclinação podem ter leitura incorreta por sujeira ou umidade. Verificar e limpar conectores dos sensores ABS/VSC que alimentam o sistema de freio."
+  - nome: "Confirmar se é EPB ou Auto Hold"
+    texto: "EPB (freio de estacionamento) acende luz P laranja no painel. Auto Hold é indicado por símbolo específico. Identificar qual sistema está ativando incorretamente."
+  - nome: "Verificar atualização de software disponível"
+    texto: "Levar à concessionária Toyota com descrição precisa do problema (quando acontece, em que situação, inclinação estimada). Verificar se há TSB com atualização de calibração para o modelo."
+  - nome: "Solicitar recalibração do sensor de inclinação"
+    texto: "A recalibração do sistema EPB é procedimento em scanner Toyota (Techstream). Corrigir o limiar de ativação do sensor de inclinação resolve a maioria dos casos."
+  - nome: "Verificar limpeza dos sensores"
+    texto: "Sensores de inclinação podem ter leitura incorreta por sujeira ou umidade. Verificar e limpar conectores dos sensores ABS/VSC que alimentam o sistema de freio."
 autor:
   nome: "Redação Hachiroku"
 pubDate: 2026-06-25

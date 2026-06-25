@@ -28,14 +28,14 @@ faq:
   - pergunta: "Quanto custa resolver o tranco do câmbio DSG do Virtus?"
     resposta: "Troca do fluido DSG: R$ 350-600 (fluido + mão de obra). Adaptação da embreagem após troca: R$ 100-200 (tempo de scanner). Atualização de software: geralmente gratuita em concessionária se o veículo ainda está na garantia. Total: R$ 450-800 no pior caso."
 passos:
-  - titulo: "Identificar o câmbio (DSG ou automático 6AT)"
-    descricao: "Verificar no manual ou na plaqueta do câmbio. DSG = alavanca com posições P/R/N/D/S e '+/-'. Automático = alavanca convencional com posições P/R/N/D/3/2/L."
-  - titulo: "Verificar se há código de falha no câmbio"
-    descricao: "Scanner OBD2 pode ler códigos do TCM (Transmission Control Module). Código P07XX ou P08XX indica falha de troca de marcha. Atualização de software pode resolver se não há defeito mecânico."
-  - titulo: "Trocar o fluido do câmbio"
-    descricao: "DSG DQ200: fluido G052182A2. AT 6AT: Dexron VI. Nunca usar fluido genérico. Após troca, executar adaptação da embreagem (procedimento no scanner)."
-  - titulo: "Solicitar atualização de software em concessionária"
-    descricao: "Levar à concessionária com veículo na garantia. Informar o sintoma específico (tranco na faixa de X km/h). Verificar se há TSB aplicável."
+  - nome: "Identificar o câmbio (DSG ou automático 6AT)"
+    texto: "Verificar no manual ou na plaqueta do câmbio. DSG = alavanca com posições P/R/N/D/S e '+/-'. Automático = alavanca convencional com posições P/R/N/D/3/2/L."
+  - nome: "Verificar se há código de falha no câmbio"
+    texto: "Scanner OBD2 pode ler códigos do TCM (Transmission Control Module). Código P07XX ou P08XX indica falha de troca de marcha. Atualização de software pode resolver se não há defeito mecânico."
+  - nome: "Trocar o fluido do câmbio"
+    texto: "DSG DQ200: fluido G052182A2. AT 6AT: Dexron VI. Nunca usar fluido genérico. Após troca, executar adaptação da embreagem (procedimento no scanner)."
+  - nome: "Solicitar atualização de software em concessionária"
+    texto: "Levar à concessionária com veículo na garantia. Informar o sintoma específico (tranco na faixa de X km/h). Verificar se há TSB aplicável."
 autor:
   nome: "Redação Hachiroku"
 pubDate: 2026-06-25

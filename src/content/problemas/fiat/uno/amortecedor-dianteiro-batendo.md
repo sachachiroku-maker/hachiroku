@@ -28,14 +28,14 @@ faq:
   - pergunta: "O batente de borracha do amortecedor precisa ser trocado?"
     resposta: "O batente (bump stop) é a borracha dentro do cano do amortecedor que protege de impactos extremos. Batente ressecado ou partido causa batida metálica em solavancos fortes, mesmo com amortecedor em bom estado. O batente deve ser trocado a cada vez que o amortecedor é substituído — o custo é baixo (R$ 20-40 o par) e simplifica o trabalho já que o conjunto está desmontado."
 passos:
-  - titulo: "Confirmar que a batida é no amortecedor"
-    descricao: "Batida ao passar em lombada ou buraco = amortecedor/batente. Rangido ao virar = pivô ou terminal de direção. Batida ao frear = calço do freio ou suporte do disco. Localizar com precisão antes de orçar."
-  - titulo: "Verificar o nível de óleo no amortecedor"
-    descricao: "Carro no ar, verificar se há manchas de óleo ao redor do cano do amortecedor. Vazamento confirma amortecedor gasto."
-  - titulo: "Verificar batentes e coxins dianteiros"
-    descricao: "Com o carro no ar, verificar o estado das borrachas do amortecedor (coxim superior e batente). Borracha deformada, trincada ou fragmentada = trocar junto com o amortecedor."
-  - titulo: "Sempre trocar em par e realinhar"
-    descricao: "Troca de apenas um lado cria comportamento assimétrico na frenagem e na curva. Alinhar a direção após qualquer trabalho de suspensão."
+  - nome: "Confirmar que a batida é no amortecedor"
+    texto: "Batida ao passar em lombada ou buraco = amortecedor/batente. Rangido ao virar = pivô ou terminal de direção. Batida ao frear = calço do freio ou suporte do disco. Localizar com precisão antes de orçar."
+  - nome: "Verificar o nível de óleo no amortecedor"
+    texto: "Carro no ar, verificar se há manchas de óleo ao redor do cano do amortecedor. Vazamento confirma amortecedor gasto."
+  - nome: "Verificar batentes e coxins dianteiros"
+    texto: "Com o carro no ar, verificar o estado das borrachas do amortecedor (coxim superior e batente). Borracha deformada, trincada ou fragmentada = trocar junto com o amortecedor."
+  - nome: "Sempre trocar em par e realinhar"
+    texto: "Troca de apenas um lado cria comportamento assimétrico na frenagem e na curva. Alinhar a direção após qualquer trabalho de suspensão."
 autor:
   nome: "Redação Hachiroku"
 pubDate: 2026-06-25

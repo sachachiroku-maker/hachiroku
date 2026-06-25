@@ -28,14 +28,14 @@ faq:
   - pergunta: "Disponibilidade de peças do Haval H6 no Brasil é boa?"
     resposta: "Em 2026, melhorou significativamente. A GWM instalou centro de distribuição de peças no Brasil, e muitos distribuidores independentes importam peças compatíveis. Nas capitais e cidades médias, a maioria das peças de desgaste (buchas, links, pastilhas) tem disponibilidade em 1-3 dias. Em cidades pequenas, pode levar 1-2 semanas."
 passos:
-  - titulo: "Identificar a localização e característica do barulho"
-    descricao: "Estalo em lombadas = link do estabilizador. Rangido em curvas = pivô ou terminal de direção. Batida em buracos = amortecedor ou batente."
-  - titulo: "Inspecionar links do estabilizador"
-    descricao: "Elevar o carro e inspecionar as hastes que conectam a barra estabilizadora ao amortecedor. Borracha trincada ou folga na junção = trocar."
-  - titulo: "Verificar na garantia se o carro tem menos de 3 anos"
-    descricao: "Desgaste prematuro dos links dentro do prazo de garantia deve ser coberto. Levar à concessionária GWM com registro da queixa."
-  - titulo: "Verificar alinhamento após troca de componentes"
-    descricao: "Qualquer troca de componente de suspensão exige verificação de alinhamento — não troque a bucha sem realinhar."
+  - nome: "Identificar a localização e característica do barulho"
+    texto: "Estalo em lombadas = link do estabilizador. Rangido em curvas = pivô ou terminal de direção. Batida em buracos = amortecedor ou batente."
+  - nome: "Inspecionar links do estabilizador"
+    texto: "Elevar o carro e inspecionar as hastes que conectam a barra estabilizadora ao amortecedor. Borracha trincada ou folga na junção = trocar."
+  - nome: "Verificar na garantia se o carro tem menos de 3 anos"
+    texto: "Desgaste prematuro dos links dentro do prazo de garantia deve ser coberto. Levar à concessionária GWM com registro da queixa."
+  - nome: "Verificar alinhamento após troca de componentes"
+    texto: "Qualquer troca de componente de suspensão exige verificação de alinhamento — não troque a bucha sem realinhar."
 autor:
   nome: "Redação Hachiroku"
 pubDate: 2026-06-25

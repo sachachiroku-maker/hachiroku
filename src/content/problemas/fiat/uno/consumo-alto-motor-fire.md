@@ -28,14 +28,14 @@ faq:
   - pergunta: "Calibrar os pneus realmente faz diferença no consumo do Uno?"
     resposta: "Sim. Pneu com 4 PSI abaixo da pressão ideal aumenta o consumo em 2-3% por pneu — com os 4 pneus low, pode ser 8-12% a mais. Para um carro que faz 12 km/L, isso pode significar 1-1,5 km/L de diferença. A calibração correta para o Uno Fire/Firefly é 30 PSI dianteiro e traseiro (verificar no adesivo na coluna B ou na tampa do tanque)."
 passos:
-  - titulo: "Verificar calibração dos pneus e pré-seleção do combustível"
-    descricao: "Calibrar pneus a frio (30 PSI ou conforme especificação). Verificar se está abastecendo com gasolina ou etanol — etanol consome 25-30% mais."
-  - titulo: "Trocar filtro de ar"
-    descricao: "Filtro de ar entupido reduz o volume de ar no motor — o ECU tenta compensar mas a eficiência cai. Trocar a cada 15.000-20.000 km. Custo: R$ 25-45."
-  - titulo: "Verificar e trocar velas de ignição"
-    descricao: "Velas gastas causam combustão incompleta e aumento de consumo. Verificar estado e folga do eletrodo."
-  - titulo: "Verificar funcionamento do sensor lambda"
-    descricao: "Scanner OBD2 mostra o sinal do sensor lambda em tempo real (oscila entre 0.1V e 0.9V rapidamente = sensor OK). Sinal fixo ou lento = sensor com problema."
+  - nome: "Verificar calibração dos pneus e pré-seleção do combustível"
+    texto: "Calibrar pneus a frio (30 PSI ou conforme especificação). Verificar se está abastecendo com gasolina ou etanol — etanol consome 25-30% mais."
+  - nome: "Trocar filtro de ar"
+    texto: "Filtro de ar entupido reduz o volume de ar no motor — o ECU tenta compensar mas a eficiência cai. Trocar a cada 15.000-20.000 km. Custo: R$ 25-45."
+  - nome: "Verificar e trocar velas de ignição"
+    texto: "Velas gastas causam combustão incompleta e aumento de consumo. Verificar estado e folga do eletrodo."
+  - nome: "Verificar funcionamento do sensor lambda"
+    texto: "Scanner OBD2 mostra o sinal do sensor lambda em tempo real (oscila entre 0.1V e 0.9V rapidamente = sensor OK). Sinal fixo ou lento = sensor com problema."
 autor:
   nome: "Redação Hachiroku"
 pubDate: 2026-06-25

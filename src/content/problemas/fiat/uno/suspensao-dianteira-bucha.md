@@ -28,14 +28,14 @@ faq:
   - pergunta: "Quanto custa trocar as buchas dianteiras do Fiat Uno?"
     resposta: "Bucha da bandeja (jogo completo): R$ 60-120. Prensa para instalação (serviço especializado) + mão de obra: R$ 150-250. Alinhamento após: R$ 80-120. Total: R$ 290-490. Em mecânicas sem prensa, as buchas podem ser batidas manualmente — resultado menos preciso."
 passos:
-  - titulo: "Testar folga nas rodas dianteiras"
-    descricao: "Carro no ar, segurar a roda em 9h e 3h e balançar horizontalmente. Folga perceptível = bucha gasta ou rolamento. Segurar em 12h e 6h e balançar verticalmente. Folga = pivô ou rolamento."
-  - titulo: "Inspecionar visualmente as buchas"
-    descricao: "Com carro no ar, inspecionar as borrachas das buchas da bandeja inferior. Borracha com trincas profundas, fragmentada ou deslocada do metal = trocar imediatamente."
-  - titulo: "Orçar troca das buchas com alinhamento incluído"
-    descricao: "Verificar se a oficina tem prensa para buchas. Bucha instalada sem prensa (na força bruta) pode ficar desalinhada e desgastar prematuramente."
-  - titulo: "Verificar barra estabilizadora e links junto"
-    descricao: "Com a suspensão desmontada para troca das buchas, aproveitar para verificar o estado das buchas da barra estabilizadora e dos links — estão no mesmo acesso. Troca preventiva junto economiza uma segunda desmontagem."
+  - nome: "Testar folga nas rodas dianteiras"
+    texto: "Carro no ar, segurar a roda em 9h e 3h e balançar horizontalmente. Folga perceptível = bucha gasta ou rolamento. Segurar em 12h e 6h e balançar verticalmente. Folga = pivô ou rolamento."
+  - nome: "Inspecionar visualmente as buchas"
+    texto: "Com carro no ar, inspecionar as borrachas das buchas da bandeja inferior. Borracha com trincas profundas, fragmentada ou deslocada do metal = trocar imediatamente."
+  - nome: "Orçar troca das buchas com alinhamento incluído"
+    texto: "Verificar se a oficina tem prensa para buchas. Bucha instalada sem prensa (na força bruta) pode ficar desalinhada e desgastar prematuramente."
+  - nome: "Verificar barra estabilizadora e links junto"
+    texto: "Com a suspensão desmontada para troca das buchas, aproveitar para verificar o estado das buchas da barra estabilizadora e dos links — estão no mesmo acesso. Troca preventiva junto economiza uma segunda desmontagem."
 autor:
   nome: "Redação Hachiroku"
 pubDate: 2026-06-25

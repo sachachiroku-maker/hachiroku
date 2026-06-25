@@ -28,14 +28,14 @@ faq:
   - pergunta: "A válvula EGR da Frontier diesel precisa de limpeza?"
     resposta: "Sim. A válvula EGR (Exhaust Gas Recirculation) recircula parte dos gases de escapamento para reduzir emissões de NOx. Com uso intenso ou óleo diesel de qualidade inferior, a válvula acumula fuligem e começa a travar — causando perda de potência, fumaça preta e ruído irregular. Limpeza recomendada a cada 60.000-80.000 km."
 passos:
-  - titulo: "Caracterizar o ruído"
-    descricao: "Ruído constante independente de RPM? Apenas em aceleração? Pior a frio ou a quente? Em que faixa de RPM? Essas respostas direcionam o diagnóstico antes do scanner."
-  - titulo: "Ler códigos com scanner compatível com Nissan"
-    descricao: "Scanner genérico OBD2 pode não ler todos os dados da Frontier. Usar scanner Nissan-compatível (como Consult ou ADAS) para análise completa dos injetores."
-  - titulo: "Verificar qualidade do diesel"
-    descricao: "Diesel S10 (baixo enxofre) é obrigatório para motores common rail modernos. Diesel S500 ou adulterado pode causar desgaste dos injetores e ruídos. Verificar histórico de abastecimento."
-  - titulo: "Inspecionar turbo por sopro de pressão"
-    descricao: "Barulho de vazamento de ar (sshhh) em aceleração pode ser intercooler com trinca ou mangueiras soltas. Pressurizar o sistema com o motor desligado e verificar vazamentos."
+  - nome: "Caracterizar o ruído"
+    texto: "Ruído constante independente de RPM? Apenas em aceleração? Pior a frio ou a quente? Em que faixa de RPM? Essas respostas direcionam o diagnóstico antes do scanner."
+  - nome: "Ler códigos com scanner compatível com Nissan"
+    texto: "Scanner genérico OBD2 pode não ler todos os dados da Frontier. Usar scanner Nissan-compatível (como Consult ou ADAS) para análise completa dos injetores."
+  - nome: "Verificar qualidade do diesel"
+    texto: "Diesel S10 (baixo enxofre) é obrigatório para motores common rail modernos. Diesel S500 ou adulterado pode causar desgaste dos injetores e ruídos. Verificar histórico de abastecimento."
+  - nome: "Inspecionar turbo por sopro de pressão"
+    texto: "Barulho de vazamento de ar (sshhh) em aceleração pode ser intercooler com trinca ou mangueiras soltas. Pressurizar o sistema com o motor desligado e verificar vazamentos."
 autor:
   nome: "Redação Hachiroku"
 pubDate: 2026-06-25

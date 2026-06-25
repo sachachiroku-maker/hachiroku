@@ -28,14 +28,14 @@ faq:
   - pergunta: "Quando trocar o fluido CVT do HR-V Honda?"
     resposta: "Honda recomenda: 60.000 km em condições normais ou 30.000 km em condições severas (tráfego urbano intenso, temperaturas altas, tração constante). Em uso urbano no Brasil (calor + stop-and-go), o ciclo de 30.000 km é mais adequado."
 passos:
-  - titulo: "Verificar nível e cor do fluido CVT"
-    descricao: "Com motor aquecido, verificar nível e cor. Fluido novo é vermelho translúcido. Fluido escuro ou com sedimentos = troca necessária."
-  - titulo: "Trocar fluido com limpeza do circuito"
-    descricao: "Troca simples (drenagem) substitui 60-70% do fluido. Para barulho existente, considerar troca completa com máquina de fluxo (substitui 95%). Usar apenas HMMF ou Honda DW-1."
-  - titulo: "Monitorar após troca de fluido"
-    descricao: "Barulho deve melhorar em 500-1.000 km após troca de fluido. Se persistir, solicitar inspeção da correia metálica e polias em concessionária Honda."
-  - titulo: "Verificar adaptação do CVT após troca"
-    descricao: "Após troca do fluido, evitar acelerações bruscas por 200-300 km — o CVT readapta a calibração ao fluido novo."
+  - nome: "Verificar nível e cor do fluido CVT"
+    texto: "Com motor aquecido, verificar nível e cor. Fluido novo é vermelho translúcido. Fluido escuro ou com sedimentos = troca necessária."
+  - nome: "Trocar fluido com limpeza do circuito"
+    texto: "Troca simples (drenagem) substitui 60-70% do fluido. Para barulho existente, considerar troca completa com máquina de fluxo (substitui 95%). Usar apenas HMMF ou Honda DW-1."
+  - nome: "Monitorar após troca de fluido"
+    texto: "Barulho deve melhorar em 500-1.000 km após troca de fluido. Se persistir, solicitar inspeção da correia metálica e polias em concessionária Honda."
+  - nome: "Verificar adaptação do CVT após troca"
+    texto: "Após troca do fluido, evitar acelerações bruscas por 200-300 km — o CVT readapta a calibração ao fluido novo."
 autor:
   nome: "Redação Hachiroku"
 pubDate: 2026-06-25

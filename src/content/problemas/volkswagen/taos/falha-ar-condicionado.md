@@ -28,14 +28,14 @@ faq:
   - pergunta: "O A/C do Taos pode desligar automaticamente?"
     resposta: "Sim. O sistema tem proteção por temperatura do motor — se o motor estiver acima de 105°C, o compressor do A/C é desligado para reduzir a carga. Também tem proteção de pressão: se a pressão do refrigerante estiver fora da faixa (muito alta ou muito baixa), o sistema desliga o compressor para protegê-lo."
 passos:
-  - titulo: "Verificar filtro de cabine"
-    descricao: "Primeiro passo. Filtro saturado reduz drasticamente o fluxo de ar. Trocar se tiver mais de 15.000 km ou 12 meses."
-  - titulo: "Verificar temperatura do motor"
-    descricao: "Motor acima da faixa normal (entre 90-100°C) ativa proteção do A/C. Verificar fluido de arrefecimento e termostato."
-  - titulo: "Verificar carga de refrigerante com manômetro"
-    descricao: "Requer equipamento específico para R-1234yf. Pressão baixa confirma vazamento. Verificar em concessionária VW ou oficina com equipamento certificado."
-  - titulo: "Inspecionar condensador"
-    descricao: "Condensador na frente do carro acumula insetos e detritos. Lavagem com água a baixa pressão pode restaurar eficiência."
+  - nome: "Verificar filtro de cabine"
+    texto: "Primeiro passo. Filtro saturado reduz drasticamente o fluxo de ar. Trocar se tiver mais de 15.000 km ou 12 meses."
+  - nome: "Verificar temperatura do motor"
+    texto: "Motor acima da faixa normal (entre 90-100°C) ativa proteção do A/C. Verificar fluido de arrefecimento e termostato."
+  - nome: "Verificar carga de refrigerante com manômetro"
+    texto: "Requer equipamento específico para R-1234yf. Pressão baixa confirma vazamento. Verificar em concessionária VW ou oficina com equipamento certificado."
+  - nome: "Inspecionar condensador"
+    texto: "Condensador na frente do carro acumula insetos e detritos. Lavagem com água a baixa pressão pode restaurar eficiência."
 autor:
   nome: "Redação Hachiroku"
 pubDate: 2026-06-25

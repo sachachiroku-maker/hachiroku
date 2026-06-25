@@ -28,14 +28,14 @@ faq:
   - pergunta: "O Fox com câmbio manual de 5 marchas é confiável?"
     resposta: "O câmbio manual de 5 marchas do Fox (02T VW) tem reputação sólida — é simples, robusto e com ampla disponibilidade de peças. A manutenção principal é a troca do óleo do câmbio a cada 60.000 km (SAE 75W-90 API GL-4). Câmbio sem troca de óleo desenvolve ruído em marcha e dificuldade de engatar."
 passos:
-  - titulo: "Confirmar patinação em terceira marcha"
-    descricao: "3ª marcha, 40 km/h, fundo no acelerador. RPM sobe desproporcionalmente = embreagem patinando."
-  - titulo: "Verificar cheiro de queimado"
-    descricao: "Após manobra em rampa ou aceleração com carga, cheiro de material de atrito queimado confirma embreagem sobreaquecendo."
-  - titulo: "Verificar se há vazamento de óleo no retentores"
-    descricao: "Embreagem contaminada com óleo (retentores do motor ou câmbio vazando) perde coeficiente de atrito rapidamente. Verificar manchas de óleo na região do câmbio."
-  - titulo: "Orçar kit completo + retífica do volante"
-    descricao: "Solicitar retífica do volante do motor junto com a troca da embreagem. Volante com ranhuras causa desgaste prematuro do disco novo."
+  - nome: "Confirmar patinação em terceira marcha"
+    texto: "3ª marcha, 40 km/h, fundo no acelerador. RPM sobe desproporcionalmente = embreagem patinando."
+  - nome: "Verificar cheiro de queimado"
+    texto: "Após manobra em rampa ou aceleração com carga, cheiro de material de atrito queimado confirma embreagem sobreaquecendo."
+  - nome: "Verificar se há vazamento de óleo no retentores"
+    texto: "Embreagem contaminada com óleo (retentores do motor ou câmbio vazando) perde coeficiente de atrito rapidamente. Verificar manchas de óleo na região do câmbio."
+  - nome: "Orçar kit completo + retífica do volante"
+    texto: "Solicitar retífica do volante do motor junto com a troca da embreagem. Volante com ranhuras causa desgaste prematuro do disco novo."
 autor:
   nome: "Redação Hachiroku"
 pubDate: 2026-06-25

@@ -28,14 +28,14 @@ faq:
   - pergunta: "Quanto custa a manutenção do câmbio automático do Onix?"
     resposta: "Troca de fluido ATF (preventiva): R$ 200-350. Reparo de câmbio (solenóide): R$ 500-1.500. Câmbio reconstruído: R$ 3.000-6.000. Câmbio novo (GM): R$ 6.000-10.000. Como no modelo anterior (Onix Plus 1ª geração), manutenção preventiva do fluido é o melhor investimento."
 passos:
-  - titulo: "Verificar nível e cor do fluido ATF"
-    descricao: "Com o motor aquecido e em ponto morto (N), verificar a vareta do câmbio automático (alguns modelos não têm vareta acessível ao usuário — verificar no manual). Fluido vermelho limpo = OK. Fluido marrom escuro ou com cheiro de queimado = troca urgente."
-  - titulo: "Identificar quando o ruído ocorre"
-    descricao: "Ruído só ao engatar D (sair do ponto morto) = normal ou torque converter. Ruído contínuo em movimento = rolamento ou engrenagem. Ruído só ao dar marcha ré = específico do conjunto de ré."
-  - titulo: "Ler códigos de falha"
-    descricao: "Scanner OBD2 com suporte Chevrolet. Código P07XX indica falha na transmissão. Código específico direciona o diagnóstico para o componente correto."
-  - titulo: "Verificar histórico de troca de fluido"
-    descricao: "Se o câmbio nunca teve fluido trocado com mais de 60.000 km, trocar antes de qualquer diagnóstico mais complexo — muitos 'problemas' de câmbio desaparecem com fluido fresco."
+  - nome: "Verificar nível e cor do fluido ATF"
+    texto: "Com o motor aquecido e em ponto morto (N), verificar a vareta do câmbio automático (alguns modelos não têm vareta acessível ao usuário — verificar no manual). Fluido vermelho limpo = OK. Fluido marrom escuro ou com cheiro de queimado = troca urgente."
+  - nome: "Identificar quando o ruído ocorre"
+    texto: "Ruído só ao engatar D (sair do ponto morto) = normal ou torque converter. Ruído contínuo em movimento = rolamento ou engrenagem. Ruído só ao dar marcha ré = específico do conjunto de ré."
+  - nome: "Ler códigos de falha"
+    texto: "Scanner OBD2 com suporte Chevrolet. Código P07XX indica falha na transmissão. Código específico direciona o diagnóstico para o componente correto."
+  - nome: "Verificar histórico de troca de fluido"
+    texto: "Se o câmbio nunca teve fluido trocado com mais de 60.000 km, trocar antes de qualquer diagnóstico mais complexo — muitos 'problemas' de câmbio desaparecem com fluido fresco."
 autor:
   nome: "Redação Hachiroku"
 pubDate: 2026-06-25

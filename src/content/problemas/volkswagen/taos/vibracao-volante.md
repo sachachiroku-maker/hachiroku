@@ -28,14 +28,14 @@ faq:
   - pergunta: "Com quantos km o disco de freio do Taos empenam?"
     resposta: "Não há km fixo — o empeno depende do uso. Frenagens intensas seguidas de parada (o disco quente para de circular, esfria de forma desigual) são a causa principal. Proprietários que usam o Taos em rodovias com frenagens de caminhão relatam empeno entre 30.000-60.000 km."
 passos:
-  - titulo: "Identificar a faixa de velocidade da vibração"
-    descricao: "Vibração em faixa específica (70-90 km/h) = desbalanceamento. Vibração que aumenta progressivamente e piora ao frear = disco empenado."
-  - titulo: "Balancear e alinhar rodas"
-    descricao: "Primeiro passo obrigatório. Balanceamento dinâmico em equipamento de alta precisão. Se vibração persistir após balanceamento, investigar discos."
-  - titulo: "Verificar discos de freio"
-    descricao: "Com scanner, verificar se há oscilação de temperatura (sensores nos discos) ou visualmente medir espessura do disco em 8 pontos com micrômetro. Variação > 0,015mm indica empeno."
-  - titulo: "Testar coxim de motor"
-    descricao: "Com motor ligado em marcha lenta, observar transmissão de vibração ao câmbio de marchas e volante. Vibração constante em marcha lenta = coxim suspeito."
+  - nome: "Identificar a faixa de velocidade da vibração"
+    texto: "Vibração em faixa específica (70-90 km/h) = desbalanceamento. Vibração que aumenta progressivamente e piora ao frear = disco empenado."
+  - nome: "Balancear e alinhar rodas"
+    texto: "Primeiro passo obrigatório. Balanceamento dinâmico em equipamento de alta precisão. Se vibração persistir após balanceamento, investigar discos."
+  - nome: "Verificar discos de freio"
+    texto: "Com scanner, verificar se há oscilação de temperatura (sensores nos discos) ou visualmente medir espessura do disco em 8 pontos com micrômetro. Variação > 0,015mm indica empeno."
+  - nome: "Testar coxim de motor"
+    texto: "Com motor ligado em marcha lenta, observar transmissão de vibração ao câmbio de marchas e volante. Vibração constante em marcha lenta = coxim suspeito."
 autor:
   nome: "Redação Hachiroku"
 pubDate: 2026-06-25

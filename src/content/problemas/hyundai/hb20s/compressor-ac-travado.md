@@ -28,14 +28,14 @@ faq:
   - pergunta: "Por que o compressor do A/C trava?"
     resposta: "As causas mais comuns: (1) falta de fluido lubrificante no circuito de refrigerante — o óleo circula junto com o fluido; sistema com vazamento fica sem lubrificação; (2) sobrecarga por operar com pressão incorreta (fluido demais ou de menos); (3) partícula de contaminação no circuito após falha anterior; (4) embreagem eletromagnética do compressor travando por desgaste."
 passos:
-  - titulo: "Verificar se a correia acessória está intacta"
-    descricao: "Primeiro passo. Se a correia partiu por causa do compressor travado, não ligue o motor antes de trocar a correia e o compressor."
-  - titulo: "Verificar carga de refrigerante"
-    descricao: "Nível baixo de refrigerante = sensor de pressão desliga o compressor antes de travar. Nível OK e compressor não funciona = compressor ou embreagem."
-  - titulo: "Testar embreagem do compressor"
-    descricao: "Com A/C ligado, verificar se o disco da embreagem (parte dianteira do compressor) está girando. Se a polia externa gira mas o disco interno não, a embreagem está com defeito."
-  - titulo: "Verificar histórico de manutenção do A/C"
-    descricao: "Verificar última higienização e carga do A/C. Sistema nunca manutencionado tem maior risco de compressor com desgaste."
+  - nome: "Verificar se a correia acessória está intacta"
+    texto: "Primeiro passo. Se a correia partiu por causa do compressor travado, não ligue o motor antes de trocar a correia e o compressor."
+  - nome: "Verificar carga de refrigerante"
+    texto: "Nível baixo de refrigerante = sensor de pressão desliga o compressor antes de travar. Nível OK e compressor não funciona = compressor ou embreagem."
+  - nome: "Testar embreagem do compressor"
+    texto: "Com A/C ligado, verificar se o disco da embreagem (parte dianteira do compressor) está girando. Se a polia externa gira mas o disco interno não, a embreagem está com defeito."
+  - nome: "Verificar histórico de manutenção do A/C"
+    texto: "Verificar última higienização e carga do A/C. Sistema nunca manutencionado tem maior risco de compressor com desgaste."
 autor:
   nome: "Redação Hachiroku"
 pubDate: 2026-06-25

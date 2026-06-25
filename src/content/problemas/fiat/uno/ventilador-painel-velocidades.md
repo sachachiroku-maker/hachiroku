@@ -28,14 +28,14 @@ faq:
   - pergunta: "Quanto custa trocar o resistor do ventilador do Uno?"
     resposta: "Resistor original Fiat/Magneti Marelli: R$ 30-80. Resistor paralelo de qualidade: R$ 25-50. Mão de obra: R$ 60-100. Total: R$ 90-180. É uma das manutenções mais baratas e rápidas do Uno."
 passos:
-  - titulo: "Verificar o fusível do ventilador"
-    descricao: "Antes de comprar peças, verificar o fusível no painel de fusíveis (geralmente 15A ou 20A). Fusível queimado é R$ 1 de reparo."
-  - titulo: "Testar quais velocidades funcionam"
-    descricao: "Velocidade 4 funciona mas 1, 2 e 3 não = resistor queimado. Nenhuma velocidade funciona = motor do ventilador ou fusível."
-  - titulo: "Localizar e substituir o resistor"
-    descricao: "Resistor fica na caixa de ventilação. Desconectar o conector, remover parafusos, instalar novo resistor. Confirmar que o motor do ventilador gira livremente antes de instalar."
-  - titulo: "Verificar o motor do ventilador"
-    descricao: "Com resistor novo instalado, medir a corrente do ventilador (amperímetro no fusível) nas velocidades 1 e 2. Corrente acima de 12A indica motor com atrito — o motor vai queimar o resistor novo em pouco tempo."
+  - nome: "Verificar o fusível do ventilador"
+    texto: "Antes de comprar peças, verificar o fusível no painel de fusíveis (geralmente 15A ou 20A). Fusível queimado é R$ 1 de reparo."
+  - nome: "Testar quais velocidades funcionam"
+    texto: "Velocidade 4 funciona mas 1, 2 e 3 não = resistor queimado. Nenhuma velocidade funciona = motor do ventilador ou fusível."
+  - nome: "Localizar e substituir o resistor"
+    texto: "Resistor fica na caixa de ventilação. Desconectar o conector, remover parafusos, instalar novo resistor. Confirmar que o motor do ventilador gira livremente antes de instalar."
+  - nome: "Verificar o motor do ventilador"
+    texto: "Com resistor novo instalado, medir a corrente do ventilador (amperímetro no fusível) nas velocidades 1 e 2. Corrente acima de 12A indica motor com atrito — o motor vai queimar o resistor novo em pouco tempo."
 autor:
   nome: "Redação Hachiroku"
 pubDate: 2026-06-25

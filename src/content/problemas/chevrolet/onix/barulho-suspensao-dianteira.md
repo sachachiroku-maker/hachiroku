@@ -28,14 +28,14 @@ faq:
   - pergunta: "Batida seca na frente ao dar partida ou engatar marcha é normal?"
     resposta: "Não. Batida seca ao engatar o câmbio automático pode ser coxim de motor gasto — veja o artigo específico sobre coxim. Batida ao soltar a embreagem no manual é diferente — pode ser batente de câmbio ou coxim."
 passos:
-  - titulo: "Identificar se o barulho é ao passar em ondulações ou ao virar"
-    descricao: "Ao passar em ondulações = bucha do link do estabilizador (mais comum). Ao virar o volante = rolamento de roda ou terminal de direção."
-  - titulo: "Inspecionar visualmente os links do estabilizador"
-    descricao: "Com o carro elevado, verifique os links do estabilizador (peças em forma de haste com ponteiras de borracha). Folga visível ou borracha trincada = trocar."
-  - titulo: "Testar amortecedores com bounce test"
-    descricao: "Pressione a frente do carro para baixo e solte. Se o carro balançar mais de 1-2 vezes antes de estabilizar, o amortecedor está gasto."
-  - titulo: "Verificar rolamento de roda"
-    descricao: "Com o carro no ar, chacoalhe a roda nos planos 3h-9h e 12h-6h. Folga nos planos indica rolamento ou terminal de direção gasto."
+  - nome: "Identificar se o barulho é ao passar em ondulações ou ao virar"
+    texto: "Ao passar em ondulações = bucha do link do estabilizador (mais comum). Ao virar o volante = rolamento de roda ou terminal de direção."
+  - nome: "Inspecionar visualmente os links do estabilizador"
+    texto: "Com o carro elevado, verifique os links do estabilizador (peças em forma de haste com ponteiras de borracha). Folga visível ou borracha trincada = trocar."
+  - nome: "Testar amortecedores com bounce test"
+    texto: "Pressione a frente do carro para baixo e solte. Se o carro balançar mais de 1-2 vezes antes de estabilizar, o amortecedor está gasto."
+  - nome: "Verificar rolamento de roda"
+    texto: "Com o carro no ar, chacoalhe a roda nos planos 3h-9h e 12h-6h. Folga nos planos indica rolamento ou terminal de direção gasto."
 autor:
   nome: "Redação Hachiroku"
 pubDate: 2026-06-25

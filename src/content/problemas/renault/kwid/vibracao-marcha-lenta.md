@@ -28,14 +28,14 @@ faq:
   - pergunta: "Vela de ignição com defeito pode causar vibração no Kwid?"
     resposta: "Sim. Com 3 cilindros, se uma vela falha, o motor perde 33% da sua capacidade de combustão — resulta em vibração muito maior. Velas iridium do SCe duram 60.000 km, mas velas convencionais devem ser trocadas a cada 20.000-30.000 km. Falha de vela em motor 3 cilindros é mais perceptível que em 4 cilindros."
 passos:
-  - titulo: "Verificar se o RPM está estável em marcha lenta"
-    descricao: "Motor aquecido, ar-condicionado desligado: RPM deve ficar entre 750-900 RPM estável. Oscilações frequentes indicam problema de admissão ou sensor de posição do borboleta."
-  - titulo: "Verificar coxins de motor"
-    descricao: "Inspecionar os 3 coxins do SCe. Coxim com trinca ou separação da borracha do metal = gasto. Custo da troca: R$ 300-500 + mão de obra."
-  - titulo: "Verificar e trocar velas se necessário"
-    descricao: "SCe usa 3 velas (um por cilindro). Verificar estado e prazo. Troca: R$ 60-120 (3 velas) + mão de obra simples."
-  - titulo: "Limpar corpo de borboleta"
-    descricao: "Corpo de borboleta sujo causa ralenti irregular. Limpeza com spray específico e pano: R$ 30-60 em produto, ou R$ 80-120 na oficina."
+  - nome: "Verificar se o RPM está estável em marcha lenta"
+    texto: "Motor aquecido, ar-condicionado desligado: RPM deve ficar entre 750-900 RPM estável. Oscilações frequentes indicam problema de admissão ou sensor de posição do borboleta."
+  - nome: "Verificar coxins de motor"
+    texto: "Inspecionar os 3 coxins do SCe. Coxim com trinca ou separação da borracha do metal = gasto. Custo da troca: R$ 300-500 + mão de obra."
+  - nome: "Verificar e trocar velas se necessário"
+    texto: "SCe usa 3 velas (um por cilindro). Verificar estado e prazo. Troca: R$ 60-120 (3 velas) + mão de obra simples."
+  - nome: "Limpar corpo de borboleta"
+    texto: "Corpo de borboleta sujo causa ralenti irregular. Limpeza com spray específico e pano: R$ 30-60 em produto, ou R$ 80-120 na oficina."
 autor:
   nome: "Redação Hachiroku"
 pubDate: 2026-06-25

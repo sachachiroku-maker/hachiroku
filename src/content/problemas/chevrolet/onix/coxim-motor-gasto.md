@@ -27,12 +27,12 @@ faq:
   - pergunta: "Como saber se o coxim de motor está gasto sem ir à oficina?"
     resposta: "Com o carro parado, motor ligado em marcha lenta: se o câmbio, volante e painel vibram visivelmente, e ao acelerar levemente a vibração aumenta antes de diminuir, o coxim é suspeito. Ao engatar D ou R, se houver uma 'batida' perceptível no câmbio ou no painel, o coxim traseiro (torque rod) está gasto."
 passos:
-  - titulo: "Teste de vibração em marcha lenta"
-    descricao: "Motor quente, ponto morto. Observe vibração no volante e câmbio. Leve no D com freio pisado — aumento de vibração confirma suspeita de coxim."
-  - titulo: "Inspecionar coxins visualmente"
-    descricao: "Com carro frio, inspecionar os coxins de borracha no compartimento do motor. Coxim gasto apresenta trincas ou separação entre a borracha e a parte metálica."
-  - titulo: "Teste de aceleração brusca estacionado"
-    descricao: "Motor em ponto morto, acelere e corte o motor abruptamente 2-3 vezes. Movimento excessivo do motor (visível abrindo o capô) indica coxim gasto."
+  - nome: "Teste de vibração em marcha lenta"
+    texto: "Motor quente, ponto morto. Observe vibração no volante e câmbio. Leve no D com freio pisado — aumento de vibração confirma suspeita de coxim."
+  - nome: "Inspecionar coxins visualmente"
+    texto: "Com carro frio, inspecionar os coxins de borracha no compartimento do motor. Coxim gasto apresenta trincas ou separação entre a borracha e a parte metálica."
+  - nome: "Teste de aceleração brusca estacionado"
+    texto: "Motor em ponto morto, acelere e corte o motor abruptamente 2-3 vezes. Movimento excessivo do motor (visível abrindo o capô) indica coxim gasto."
 autor:
   nome: "Redação Hachiroku"
 pubDate: 2026-06-25

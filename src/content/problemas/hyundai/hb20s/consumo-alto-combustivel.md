@@ -28,14 +28,14 @@ faq:
   - pergunta: "Sensor lambda com defeito aumenta o consumo quanto?"
     resposta: "Um sensor lambda deficiente pode aumentar o consumo em 10-25%. O sensor informa à ECU a composição dos gases de escapamento para ajustar a mistura ar/combustível. Com sinal incorreto, a ECU não consegue otimizar a injeção — resultado: mistura rica (mais combustível que necessário)."
 passos:
-  - titulo: "Verificar e calibrar os pneus"
-    descricao: "Verificar pressão dos 4 pneus (mais estepe). Pressão correta para o HB20S: 30-32 PSI dependendo da versão. Verificar na plaqueta na porta do motorista."
-  - titulo: "Trocar filtro de ar se necessário"
-    descricao: "Filtro de ar sujo reduz fluxo de ar — ECU enriquece a mistura. Trocar a cada 20.000 km."
-  - titulo: "Verificar estado das velas"
-    descricao: "HB20S 1.0 aspirado usa velas comuns (trocar a cada 20.000-30.000 km) ou iridium (trocar a cada 60.000 km). Velas fora do prazo causam falha de ignição e consumo excessivo."
-  - titulo: "Ler códigos de falha com scanner OBD2"
-    descricao: "Sensor lambda defeituoso gera código P0135 ou P0141. Scanner OBD2 básico lê esses códigos em menos de 5 minutos."
+  - nome: "Verificar e calibrar os pneus"
+    texto: "Verificar pressão dos 4 pneus (mais estepe). Pressão correta para o HB20S: 30-32 PSI dependendo da versão. Verificar na plaqueta na porta do motorista."
+  - nome: "Trocar filtro de ar se necessário"
+    texto: "Filtro de ar sujo reduz fluxo de ar — ECU enriquece a mistura. Trocar a cada 20.000 km."
+  - nome: "Verificar estado das velas"
+    texto: "HB20S 1.0 aspirado usa velas comuns (trocar a cada 20.000-30.000 km) ou iridium (trocar a cada 60.000 km). Velas fora do prazo causam falha de ignição e consumo excessivo."
+  - nome: "Ler códigos de falha com scanner OBD2"
+    texto: "Sensor lambda defeituoso gera código P0135 ou P0141. Scanner OBD2 básico lê esses códigos em menos de 5 minutos."
 autor:
   nome: "Redação Hachiroku"
 pubDate: 2026-06-25

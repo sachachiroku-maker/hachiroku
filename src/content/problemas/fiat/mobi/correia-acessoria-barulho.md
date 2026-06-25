@@ -28,14 +28,14 @@ faq:
   - pergunta: "Posso só trocar a correia sem trocar o tensor?"
     resposta: "Tecnicamente sim, mas não é recomendado. O tensor e a correia envelhecem juntos. Se a correia está gasta o suficiente para fazer barulho, o tensor provavelmente já perdeu tensão ideal. Trocar só a correia e manter o tensor velho resulta em correia nova com tensão insuficiente — o problema retorna em 10.000-20.000 km."
 passos:
-  - titulo: "Identificar a fonte do barulho"
-    descricao: "Com motor ligado, A/C desligado, ouvir se há barulho. Ligar o A/C — se o barulho aparece ou aumenta com o A/C ligado, é na correia acessória. Se o barulho é constante independente do A/C, pode ser no alternador ou bomba d'água."
-  - titulo: "Inspecionar visualmente a correia"
-    descricao: "Com motor desligado e frio, inspecionar a correia: rachaduras nas costelas, desgaste lateral, brilho excessivo (polida). Qualquer uma dessas condições indica troca."
-  - titulo: "Verificar tensão do tensor"
-    descricao: "O tensor deve ter resistência ao ser pressionado. Tensor sem resistência (mole) indica falha hidráulica ou de mola — trocar junto com a correia."
-  - titulo: "Trocar kit completo"
-    descricao: "Correia poly-V + tensor automático + rolamento esticador. Kit OEM Fiat ou similar de qualidade (Gates, Dayco): R$ 150-280. Mão de obra: R$ 100-150."
+  - nome: "Identificar a fonte do barulho"
+    texto: "Com motor ligado, A/C desligado, ouvir se há barulho. Ligar o A/C — se o barulho aparece ou aumenta com o A/C ligado, é na correia acessória. Se o barulho é constante independente do A/C, pode ser no alternador ou bomba d'água."
+  - nome: "Inspecionar visualmente a correia"
+    texto: "Com motor desligado e frio, inspecionar a correia: rachaduras nas costelas, desgaste lateral, brilho excessivo (polida). Qualquer uma dessas condições indica troca."
+  - nome: "Verificar tensão do tensor"
+    texto: "O tensor deve ter resistência ao ser pressionado. Tensor sem resistência (mole) indica falha hidráulica ou de mola — trocar junto com a correia."
+  - nome: "Trocar kit completo"
+    texto: "Correia poly-V + tensor automático + rolamento esticador. Kit OEM Fiat ou similar de qualidade (Gates, Dayco): R$ 150-280. Mão de obra: R$ 100-150."
 autor:
   nome: "Redação Hachiroku"
 pubDate: 2026-06-25

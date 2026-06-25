@@ -28,14 +28,14 @@ faq:
   - pergunta: "Vale montar suspensão esportiva na Saveiro?"
     resposta: "Para uso off-road ou com carga frequente, amortecedores de calibração mais firme (KYB Excel-G, Bilstein B4) são mais adequados que OEM. Para uso exclusivamente urbano sem carga, o OEM é suficiente. Suspensão esportiva (rebaixada) em Saveiro de trabalho é erro de aplicação — reduz curso do amortecedor e piora a capacidade de carga."
 passos:
-  - titulo: "Identificar o barulho"
-    descricao: "Estalo em ondulações = bucha do link ou bucha da bandeja. Rangido em curvas = pivô. Batida em buracos = amortecedor ou batente."
-  - titulo: "Inspecionar as buchas da bandeja inferior"
-    descricao: "Com carro no elevador, verificar buchas traseiras e dianteiras da bandeja inferior. Bucha gasta apresenta trinca, deformação ou separação da borracha do metal."
-  - titulo: "Testar o pivô de suspensão"
-    descricao: "Chacoalhar a roda dianteira no eixo vertical (12h-6h) com carro elevado. Folga excessiva indica pivô gasto — necessário substituição da bandeja completa ou pivô separado se disponível."
-  - titulo: "Verificar amortecedores com bounce test"
-    descricao: "Pressionar a frente do veículo para baixo e soltar — mais de 2 oscilações indica amortecedor gasto."
+  - nome: "Identificar o barulho"
+    texto: "Estalo em ondulações = bucha do link ou bucha da bandeja. Rangido em curvas = pivô. Batida em buracos = amortecedor ou batente."
+  - nome: "Inspecionar as buchas da bandeja inferior"
+    texto: "Com carro no elevador, verificar buchas traseiras e dianteiras da bandeja inferior. Bucha gasta apresenta trinca, deformação ou separação da borracha do metal."
+  - nome: "Testar o pivô de suspensão"
+    texto: "Chacoalhar a roda dianteira no eixo vertical (12h-6h) com carro elevado. Folga excessiva indica pivô gasto — necessário substituição da bandeja completa ou pivô separado se disponível."
+  - nome: "Verificar amortecedores com bounce test"
+    texto: "Pressionar a frente do veículo para baixo e soltar — mais de 2 oscilações indica amortecedor gasto."
 autor:
   nome: "Redação Hachiroku"
 pubDate: 2026-06-25

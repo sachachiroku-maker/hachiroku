@@ -28,14 +28,14 @@ faq:
   - pergunta: "Quanto custa trocar as velas do Fiat Uno?"
     resposta: "Velas convencionais (jogo de 4 para o Fire ou 3 para o Firefly): R$ 40-80. Velas iridium (maior durabilidade): R$ 80-180 o jogo. Mão de obra: R$ 60-100. Total convencional: R$ 100-180. Total iridium: R$ 140-280. As velas iridium duram o dobro do tempo — custo por km similar."
 passos:
-  - titulo: "Identificar qual motor e sistema de ignição"
-    descricao: "Fire 1.0 (4 cilindros) ou Firefly 1.0 (3 cilindros, Uno 2018+). Verificar se tem cabos de vela ou bobinas individuais."
-  - titulo: "Verificar o estado das velas antigas"
-    descricao: "Ao remover as velas, inspecionar: eletrodo gasto (branco ou preto), folga do eletrodo, resíduos de óleo (vazamento pela vedação). Eletrodo gasto = troca. Sujeira preta = mistura rica (investigar a causa)."
-  - titulo: "Instalar velas com torque correto"
-    descricao: "Torque: 20-25 Nm para o Fire/Firefly (verificar manual). Não apertar demais — rosca no bloco de alumínio pode ser danificada."
-  - titulo: "Verificar cabos de vela (Fire antigo com distribuidor)"
-    descricao: "Cabos ressecados, trincados ou com resistência acima de 10 kOhm por cabo devem ser trocados junto com as velas."
+  - nome: "Identificar qual motor e sistema de ignição"
+    texto: "Fire 1.0 (4 cilindros) ou Firefly 1.0 (3 cilindros, Uno 2018+). Verificar se tem cabos de vela ou bobinas individuais."
+  - nome: "Verificar o estado das velas antigas"
+    texto: "Ao remover as velas, inspecionar: eletrodo gasto (branco ou preto), folga do eletrodo, resíduos de óleo (vazamento pela vedação). Eletrodo gasto = troca. Sujeira preta = mistura rica (investigar a causa)."
+  - nome: "Instalar velas com torque correto"
+    texto: "Torque: 20-25 Nm para o Fire/Firefly (verificar manual). Não apertar demais — rosca no bloco de alumínio pode ser danificada."
+  - nome: "Verificar cabos de vela (Fire antigo com distribuidor)"
+    texto: "Cabos ressecados, trincados ou com resistência acima de 10 kOhm por cabo devem ser trocados junto com as velas."
 autor:
   nome: "Redação Hachiroku"
 pubDate: 2026-06-25

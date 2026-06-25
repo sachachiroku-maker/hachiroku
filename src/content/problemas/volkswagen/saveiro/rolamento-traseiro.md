@@ -28,14 +28,14 @@ faq:
   - pergunta: "Com que frequência trocar o rolamento traseiro da Saveiro em uso com carga?"
     resposta: "Em uso normal (peso leve/moderado), o rolamento dura 80.000-150.000 km. Em uso com carga frequente perto da capacidade máxima (700 kg), o desgaste pode reduzir para 50.000-80.000 km."
 passos:
-  - titulo: "Confirmar lado com barulho pelo teste de transferência de peso"
-    descricao: "Em 60 km/h com volante reto, desviar suavemente à esquerda e à direita. O rolamento gasto será mais barulhento no lado oposto à curva (lado com mais carga)."
-  - titulo: "Confirmar com roda elevada"
-    descricao: "Elevar o carro e girar cada roda traseira à mão. Rolamento gasto apresenta resistência ou rugosidade ao girar, ou som de raspado."
-  - titulo: "Trocar o rolamento e verificar o cubo"
-    descricao: "O rolamento é prensado no cubo de roda. Verificar o estado do cubo (sem marcas de assentamento incorreto). Se o cubo estiver danificado, trocar junto."
-  - titulo: "Verificar ABS após a troca"
-    descricao: "Após trocar o rolamento com sensor ABS integrado, verificar se a luz de ABS no painel apagou. Luz persistente indica sensor com defeito ou instalação incorreta."
+  - nome: "Confirmar lado com barulho pelo teste de transferência de peso"
+    texto: "Em 60 km/h com volante reto, desviar suavemente à esquerda e à direita. O rolamento gasto será mais barulhento no lado oposto à curva (lado com mais carga)."
+  - nome: "Confirmar com roda elevada"
+    texto: "Elevar o carro e girar cada roda traseira à mão. Rolamento gasto apresenta resistência ou rugosidade ao girar, ou som de raspado."
+  - nome: "Trocar o rolamento e verificar o cubo"
+    texto: "O rolamento é prensado no cubo de roda. Verificar o estado do cubo (sem marcas de assentamento incorreto). Se o cubo estiver danificado, trocar junto."
+  - nome: "Verificar ABS após a troca"
+    texto: "Após trocar o rolamento com sensor ABS integrado, verificar se a luz de ABS no painel apagou. Luz persistente indica sensor com defeito ou instalação incorreta."
 autor:
   nome: "Redação Hachiroku"
 pubDate: 2026-06-25

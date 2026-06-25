@@ -28,14 +28,14 @@ faq:
   - pergunta: "Quanto custa reparar o CVT do HB20?"
     resposta: "Troca do fluido (manutenção): R$ 250-450. Troca da correia CVT (desgaste avançado): R$ 1.500-3.000. CVT reconstruído (falha grave): R$ 4.000-8.000. CVT novo ou recondicionado: R$ 6.000-12.000. Por isso a manutenção preventiva (troca de fluido) é tão crítica — R$ 400 a cada 40.000 km evita R$ 6.000+ de reparo."
 passos:
-  - titulo: "Verificar quando foi a última troca do fluido CVT"
-    descricao: "Se o fluido nunca foi trocado com mais de 40.000 km, agendar troca preventiva imediatamente — mesmo sem sintomas."
-  - titulo: "Ler códigos de falha se há solavanco"
-    descricao: "Scanner OBD2 compatível com Hyundai. Código P0700 indica falha na transmissão — complementar com scanner específico Hyundai para leitura completa do TCM."
-  - titulo: "Trocar fluido CVT com produto correto"
-    descricao: "Fluido correto: SK Innovation IVT Fluid ou Hyundai SP-IV M (equivalente). Usar ATF universal causa dano ao CVT do HB20."
-  - titulo: "Verificar se o modo de emergência se repete"
-    descricao: "Após troca de fluido, verificar se o modo de emergência voltou. Persistência após troca de fluido = problema mecânico nas polias ou correia."
+  - nome: "Verificar quando foi a última troca do fluido CVT"
+    texto: "Se o fluido nunca foi trocado com mais de 40.000 km, agendar troca preventiva imediatamente — mesmo sem sintomas."
+  - nome: "Ler códigos de falha se há solavanco"
+    texto: "Scanner OBD2 compatível com Hyundai. Código P0700 indica falha na transmissão — complementar com scanner específico Hyundai para leitura completa do TCM."
+  - nome: "Trocar fluido CVT com produto correto"
+    texto: "Fluido correto: SK Innovation IVT Fluid ou Hyundai SP-IV M (equivalente). Usar ATF universal causa dano ao CVT do HB20."
+  - nome: "Verificar se o modo de emergência se repete"
+    texto: "Após troca de fluido, verificar se o modo de emergência voltou. Persistência após troca de fluido = problema mecânico nas polias ou correia."
 autor:
   nome: "Redação Hachiroku"
 pubDate: 2026-06-25

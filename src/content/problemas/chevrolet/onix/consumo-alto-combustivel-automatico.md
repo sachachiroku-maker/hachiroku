@@ -27,14 +27,14 @@ faq:
   - pergunta: "Usar etanol piora o consumo do Onix Turbo?"
     resposta: "O etanol consome mais volume (cerca de 30% mais por km) mas costuma ser mais barato. Para compensar o custo, o etanol precisa custar menos de 70% do preço da gasolina. O Onix turbo roda bem em etanol, mas o consumo volumétrico maior pode surpreender."
 passos:
-  - titulo: "Verificar filtro de ar"
-    descricao: "Filtro sujo aumenta a resistência ao fluxo de ar — a ECU enriquece a mistura. Trocar a cada 20.000 km."
-  - titulo: "Verificar estado das velas"
-    descricao: "Velas iridium do CSS Prime duram 40.000-60.000 km. Velas desgastadas causam ignição deficiente e aumento de consumo."
-  - titulo: "Verificar sensor MAP e MAF"
-    descricao: "O sensor MAP mede a pressão do coletor. Com desvio, a ECU calcula massa de ar errada. Diagnóstico com scanner."
-  - titulo: "Verificar pressão dos pneus"
-    descricao: "Pneus rodando abaixo da pressão recomendada (30-32 PSI) aumentam o consumo em 3-5%. Verificar mensalmente."
+  - nome: "Verificar filtro de ar"
+    texto: "Filtro sujo aumenta a resistência ao fluxo de ar — a ECU enriquece a mistura. Trocar a cada 20.000 km."
+  - nome: "Verificar estado das velas"
+    texto: "Velas iridium do CSS Prime duram 40.000-60.000 km. Velas desgastadas causam ignição deficiente e aumento de consumo."
+  - nome: "Verificar sensor MAP e MAF"
+    texto: "O sensor MAP mede a pressão do coletor. Com desvio, a ECU calcula massa de ar errada. Diagnóstico com scanner."
+  - nome: "Verificar pressão dos pneus"
+    texto: "Pneus rodando abaixo da pressão recomendada (30-32 PSI) aumentam o consumo em 3-5%. Verificar mensalmente."
 autor:
   nome: "Redação Hachiroku"
 pubDate: 2026-06-25

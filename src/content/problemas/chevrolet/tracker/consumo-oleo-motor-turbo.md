@@ -28,14 +28,14 @@ faq:
   - pergunta: "Como saber se é o turbo ou os anéis de pistão consumindo o óleo?"
     resposta: "Fumaça azul consistente no escapamento = anéis de pistão. Fumaça azul apenas na partida a frio (desaparece após aquecer) = vedação do turbo. Verificar mangueira de retorno do turbo: se úmida de óleo na junção, o turbo está vazando. Diagnóstico definitivo exige desmontagem parcial."
 passos:
-  - titulo: "Registrar consumo de óleo com precisão"
-    descricao: "Anotar o nível exato (com vareta) a cada 2.000 km. Calcular ml consumidos por 1.000 km. Manter registro por pelo menos 10.000 km antes de qualquer conclusão."
-  - titulo: "Verificar vazamentos externos"
-    descricao: "Inspecionar junta do cabeçote, junta do cárter, retentor traseiro do virabrequim e mangueiras do turbo. Qualquer mancha de óleo no assoalho ou no motor é vazamento (não consumo)."
-  - titulo: "Verificar mangueira de retorno do turbo"
-    descricao: "A mangueira que retorna óleo do turbo ao motor deve estar seca externamente. Umidade de óleo nessa junção indica vedação interna do turbo falhando."
-  - titulo: "Verificar a emissão de fumaça"
-    descricao: "Em arranque a frio após carro parado várias horas, observar escapamento. Fumaça azul indica queima de óleo na câmara de combustão."
+  - nome: "Registrar consumo de óleo com precisão"
+    texto: "Anotar o nível exato (com vareta) a cada 2.000 km. Calcular ml consumidos por 1.000 km. Manter registro por pelo menos 10.000 km antes de qualquer conclusão."
+  - nome: "Verificar vazamentos externos"
+    texto: "Inspecionar junta do cabeçote, junta do cárter, retentor traseiro do virabrequim e mangueiras do turbo. Qualquer mancha de óleo no assoalho ou no motor é vazamento (não consumo)."
+  - nome: "Verificar mangueira de retorno do turbo"
+    texto: "A mangueira que retorna óleo do turbo ao motor deve estar seca externamente. Umidade de óleo nessa junção indica vedação interna do turbo falhando."
+  - nome: "Verificar a emissão de fumaça"
+    texto: "Em arranque a frio após carro parado várias horas, observar escapamento. Fumaça azul indica queima de óleo na câmara de combustão."
 autor:
   nome: "Redação Hachiroku"
 pubDate: 2026-06-25
