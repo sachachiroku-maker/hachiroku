@@ -1,5 +1,5 @@
----
-title: "Motor 1.8 E.torQ da Spin com consumo de óleo: diagnóstico completo"
+﻿---
+title: "Motor 1.8 E.torQ da Spin com consumo de óleo"
 description: "O motor 1.8 E.torQ da Chevrolet Spin pode consumir até 1,7 litro de óleo a cada 3.000 km. Entenda a causa, identifique os sintomas, saiba o custo do reparo e como prevenir o problema antes que ele evolua para dano no motor."
 entidade:
   marca: "Chevrolet"
@@ -19,8 +19,7 @@ entidadesEssenciais:
   - "óleo 5W30"
   - "filtro de óleo"
 autor:
-  nome: "Equipe Técnica Hachiroku"
-  credencial: ""
+  nome: "Redação Hachiroku"
 pubDate: 2026-06-20
 updatedDate: 2026-06-20
 disclaimer: "Este conteúdo é informativo e não substitui o diagnóstico de um mecânico qualificado. Consumo de óleo pode ter múltiplas causas. Sempre utilize um profissional para avaliar o estado interno do motor antes de autorizar qualquer serviço."

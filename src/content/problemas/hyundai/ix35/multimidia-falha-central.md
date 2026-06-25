@@ -1,5 +1,5 @@
----
-title: "Central Multimídia do Hyundai iX35 Trava, Reinicia ou Para de Funcionar"
+﻿---
+title: "Central Multimídia do Hyundai iX35 Trava, Reinicia ou Para"
 description: "Tela preta, Bluetooth caindo, câmera de ré sumindo: entenda as causas e como resolver a falha elétrica da central do iX35 2010-2022."
 entidade:
   marca: "Hyundai"
@@ -14,8 +14,7 @@ entidadesEssenciais:
   - "tela preta iX35"
   - "sistema elétrico iX35"
 autor:
-  nome: "Equipe Técnica Hachiroku"
-  credencial: ""
+  nome: "Redação Hachiroku"
 pubDate: 2026-06-20
 updatedDate: 2026-06-20
 disclaimer: "As informações deste artigo têm caráter educativo. Serviços elétricos e de módulos eletrônicos devem ser realizados por profissionais habilitados. O Hachiroku não se responsabiliza por danos decorrentes de procedimentos realizados sem o devido conhecimento técnico."

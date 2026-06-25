@@ -1,5 +1,5 @@
----
-title: "Marcha lenta irregular no VW Gol (motor EA111): o corpo de borboleta sujo explicado"
+﻿---
+title: "Marcha lenta irregular no VW Gol (motor EA111)"
 description: "A marcha lenta irregular no Volkswagen Gol com motor EA111 (aquela oscilação de rotação parado, o carro que quase morre no ponto e às vezes apaga ao tirar o pé do acelerador) quase sempre nasce de borra carbonizada no corpo de borboleta. Veja as causas reais, os sintomas, se é grave, quanto custa resolver, o papel do reaprendizado via scanner e como prevenir, com os outros defeitos crônicos do EA111."
 entidade:
   marca: "Volkswagen"
@@ -16,8 +16,7 @@ entidadesEssenciais:
   - "respiro do cárter"
   - "reaprendizado da borboleta"
 autor:
-  nome: "Equipe Técnica Hachiroku"
-  credencial: ""
+  nome: "Redação Hachiroku"
 pubDate: 2026-06-19
 updatedDate: 2026-06-19
 disclaimer: "Marcha lenta irregular tem várias causas possíveis e o diagnóstico depende de inspeção física e leitura por scanner. Este conteúdo é informativo: a oscilação de rotação pode ter solução barata (limpeza e reaprendizado) ou exigir troca de peça, e só um profissional avaliando o seu carro define qual é o caso. Os valores citados são referência de mercado e variam por região e oficina."

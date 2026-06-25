@@ -1,5 +1,5 @@
----
-title: "Corrente de distribuição do Jeep Commander T270: batida a frio e o que fazer"
+﻿---
+title: "Corrente de distribuição do Jeep Commander T270"
 description: "A corrente de distribuição do motor T270 do Jeep Commander com batida a frio e esticador com folga excessiva é um problema documentado no grupo Stellantis. Veja os sintomas, o intervalo de óleo correto e quando é necessário o reparo."
 entidade:
   marca: "Jeep"
@@ -22,8 +22,7 @@ entidadesEssenciais:
   - "luz check engine"
   - "código P0016"
 autor:
-  nome: "Equipe Técnica Hachiroku"
-  credencial: ""
+  nome: "Redação Hachiroku"
 pubDate: 2026-06-20
 updatedDate: 2026-06-20
 disclaimer: "Problema na corrente de distribuição pode resultar em perda de sincronismo do motor com dano grave ao conjunto. Este conteúdo é informativo. Consulte uma oficina autorizada Jeep para diagnóstico e reparo."

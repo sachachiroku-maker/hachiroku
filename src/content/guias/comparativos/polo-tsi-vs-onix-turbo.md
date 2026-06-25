@@ -1,4 +1,4 @@
----
+﻿---
 title: "Polo TSI vs Onix Turbo: qual comprar em 2025?"
 description: "VW Polo TSI 1.0 x Chevrolet Onix Turbo 1.0: motor, câmbio, consumo, custo de manutenção, segurança, bagageiro e revenda. Comparativo completo para você decidir com a cabeça antes de assinar a proposta."
 marca: "Comparativo"
@@ -6,8 +6,7 @@ modelo: "Polo TSI vs Onix Turbo"
 kicker: "COMPARATIVO · DECISÃO"
 veredito: "Para motoristas que priorizam refinamento e câmbio suave, Polo. Para quem quer economia de manutenção e serviço fácil em qualquer cidade, Onix."
 autor:
-  nome: "Equipe Hachiroku"
-  credencial: "Redação técnica automotiva"
+  nome: "Redação Hachiroku"
 pubDate: 2026-06-21
 updatedDate: 2026-06-21
 disclaimer: "Este comparativo orienta a decisão de compra, mas não substitui um test drive nas duas opções nem, no caso de usados, uma vistoria cautelar e avaliação mecânica presencial. Dados de consumo, potência e preço seguem informações oficiais e de imprensa especializada de 2025-2026 e podem variar conforme versão, ano-modelo e condição de uso."

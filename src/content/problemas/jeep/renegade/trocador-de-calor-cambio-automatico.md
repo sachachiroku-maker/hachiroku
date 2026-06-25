@@ -1,5 +1,5 @@
----
-title: "Trocador de calor do câmbio do Jeep Renegade 1.8 E.torQ: o defeito que mistura água com o óleo do câmbio"
+﻿---
+title: "Trocador de calor do câmbio do Jeep Renegade 1.8 E.torQ"
 description: "O Jeep Renegade 1.8 E.torQ flex automático, fabricado entre 2015 e 2021, acumula relatos de falha no trocador de calor do câmbio Aisin AT6, que deixa o líquido de arrefecimento se misturar ao óleo da transmissão e formar uma emulsão leitosa. Veja os sintomas, as causas ligadas à corrosão e ao aditivo do radiador, qual motor é afetado, como é o diagnóstico, a faixa de custo e como prevenir antes de condenar o câmbio."
 entidade:
   marca: "Jeep"
@@ -16,8 +16,7 @@ entidadesEssenciais:
   - "óleo do câmbio emulsionado"
   - "motor 1.8 E.torQ flex"
 autor:
-  nome: "Equipe Técnica Hachiroku"
-  credencial: ""
+  nome: "Redação Hachiroku"
 pubDate: 2026-06-19
 updatedDate: 2026-06-19
 disclaimer: "Mistura de água com óleo do câmbio só vira diagnóstico fechado com o carro em mãos, inspeção do fluido e, quando necessário, teste de pressão do trocador por um profissional. Este conteúdo orienta o que investigar; quilometragens e custos citados são relatos de mercado e variam por uso, manutenção, região e oficina. O manual e a revisão do seu ano são a palavra final."

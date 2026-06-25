@@ -1,4 +1,4 @@
----
+﻿---
 title: "CVT do Tiggo 8 Pro com solavanco: causa e solução"
 description: "Solavanco e trepidação no CVT do Caoa Chery Tiggo 8 Pro 1.6 TGDI surgem por ponto de calibração desatualizado. Saiba como diagnosticar e resolver sem trocar a transmissão."
 entidade:
@@ -17,8 +17,7 @@ entidadesEssenciais:
   - "solavanco CVT"
   - "trepidação na aceleração"
 autor:
-  nome: "Equipe Hachiroku"
-  credencial: "Redação técnica automotiva"
+  nome: "Redação Hachiroku"
 pubDate: 2026-06-21
 updatedDate: 2026-06-21
 disclaimer: "As informações deste artigo têm caráter informativo e técnico. O diagnóstico e a reprogramação do módulo de controle da transmissão exigem equipamento específico e profissional habilitado. Não tente realizar a atualização de firmware sem o software homologado pela Caoa Chery."

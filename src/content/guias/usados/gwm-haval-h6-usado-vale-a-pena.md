@@ -1,4 +1,4 @@
----
+﻿---
 title: "Haval H6 usado vale a pena? Guia de inspeção"
 description: "GWM Haval H6 Supreme 1.5 usado (2022-2024): veredito, checklist de 12 pontos, defeitos, FAQ e o que verificar no câmbio DCT antes de comprar."
 marca: "GWM"
@@ -7,8 +7,7 @@ motor: "1.5 Turbo"
 kicker: "GUIA DE COMPRA"
 veredito: "Vale, com atenção ao câmbio DCT (verifique se há atualização de software na rede GWM) e ao histórico de revisão. A garantia de 5 anos é o diferencial principal para compradores de seminovos."
 autor:
-  nome: "Equipe Hachiroku"
-  credencial: "Redação técnica automotiva"
+  nome: "Redação Hachiroku"
 pubDate: 2026-06-21
 updatedDate: 2026-06-21
 disclaimer: "Este guia orienta a inspeção, mas não substitui uma vistoria cautelar e uma avaliação mecânica presencial antes da compra."
@@ -75,9 +74,9 @@ faq:
     resposta: "No segmento de SUVs médios 2022 a 2024, o H6 concorre com Jeep Compass, Volkswagen Taos e Hyundai Creta de segunda geração. O H6 se diferencia pela garantia de 5 anos transferível e pela lista de equipamentos. O Compass tem histórico de motor mais longo no Brasil. A escolha depende do exemplar específico: histórico de revisão e condição do câmbio pesam mais do que a marca na decisão final."
 relacionados:
   - titulo: "Checklist completo para vistoria de carro usado"
-    url: "/guias/checklist-vistoria-carro-usado/"
+    url: "/guia-de-compra/checklist-vistoria-carro-usado/"
   - titulo: "Jeep Compass usado vale a pena?"
-    url: "/guias/usados/jeep-compass-usado-vale-a-pena/"
+    url: "/guia-de-compra/usados/jeep-compass-usado-vale-a-pena/"
 draft: false
 ---
 

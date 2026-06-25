@@ -1,4 +1,4 @@
----
+﻿---
 title: "Sandero SCe 1.0: batida de válvula e ruído em aceleração"
 description: "Gasolina adulterada ou de baixa octanagem provoca detonação no Renault Sandero SCe 1.0 12V, causando batida de válvula e ruído metálico ao acelerar. Veja sintomas, causas e o que fazer."
 entidade:
@@ -18,8 +18,7 @@ entidadesEssenciais:
   - "sensor de detonação"
   - "avanço de ignição"
 autor:
-  nome: "Equipe Hachiroku"
-  credencial: "Redação técnica automotiva"
+  nome: "Redação Hachiroku"
 pubDate: 2026-06-21
 updatedDate: 2026-06-21
 disclaimer: "O diagnóstico de detonação e batida de válvula exige inspeção física do motor e, em casos avançados, avaliação do cabeçote. Este conteúdo é informativo: confie o reparo e a avaliação a um profissional qualificado. Nunca use gasolina de origem duvidosa em motores de ciclo Otto."

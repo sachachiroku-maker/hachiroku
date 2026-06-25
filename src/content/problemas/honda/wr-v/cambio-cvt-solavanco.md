@@ -1,5 +1,5 @@
----
-title: "CVT do Honda WR-V com solavanco: fluido HCF-2 e como resolver"
+﻿---
+title: "CVT do Honda WR-V com solavanco"
 description: "O câmbio CVT do Honda WR-V com solavanco no arranque e na saída de semáforo é causado principalmente por fluido HCF-2 degradado ou trocado fora do prazo. Veja os sintomas, o diagnóstico e o procedimento de troca correto."
 entidade:
   marca: "Honda"
@@ -21,8 +21,7 @@ entidadesEssenciais:
   - "transmissão Honda"
   - "desgaste CVT"
 autor:
-  nome: "Equipe Técnica Hachiroku"
-  credencial: ""
+  nome: "Redação Hachiroku"
 pubDate: 2026-06-20
 updatedDate: 2026-06-20
 disclaimer: "Solavanco no câmbio CVT pode indicar desgaste mecânico ou simplesmente fluido degradado. Diagnóstico preciso requer avaliação em oficina especializada. Este conteúdo é informativo."

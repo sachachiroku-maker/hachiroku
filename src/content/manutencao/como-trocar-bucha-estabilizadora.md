@@ -1,4 +1,4 @@
----
+﻿---
 title: "Bucha estabilizadora: quando trocar e como"
 description: "Aprenda a identificar bucha da barra estabilizadora desgastada e veja o passo a passo completo para substituir com segurança em casa."
 pubDate: 2026-06-21
@@ -8,8 +8,7 @@ tempo: "30 a 90 minutos"
 dificuldade: "Intermediário"
 custoEstimado: "R$ 60 a R$ 200 (par + mão de obra)"
 autor:
-  nome: "Equipe Hachiroku"
-  credencial: "Redação técnica automotiva"
+  nome: "Redação Hachiroku"
 
 entidade:
   marca: "Universal"

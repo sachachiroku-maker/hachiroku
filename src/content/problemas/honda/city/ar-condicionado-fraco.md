@@ -1,5 +1,5 @@
----
-title: "Ar-condicionado fraco no Honda City 1.5 e-VTi: filtro entupido e embreagem do compressor"
+﻿---
+title: "Ar-condicionado fraco no Honda City 1.5 e-VTi"
 description: "O AC do Honda City 2021 em diante falha por filtro de cabine entupido e desgaste precoce da embreagem do compressor no trânsito urbano. Veja como diagnosticar e resolver."
 entidade:
   marca: "Honda"
@@ -17,8 +17,7 @@ entidadesEssenciais:
   - "gás refrigerante R134a"
   - "pressão do sistema de AC"
 autor:
-  nome: "Equipe Técnica Hachiroku"
-  credencial: ""
+  nome: "Redação Hachiroku"
 pubDate: 2026-06-20
 updatedDate: 2026-06-20
 disclaimer: "Este conteúdo é informativo e educativo. A recarga de gás refrigerante e o reparo de componentes do sistema de ar-condicionado exigem equipamento homologado e profissional habilitado. Nunca libere gás refrigerante na atmosfera: além de ilegal, é prejudicial ao meio ambiente. Confie qualquer intervenção no sistema de AC a uma oficina especializada."

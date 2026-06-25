@@ -1,11 +1,10 @@
----
+﻿---
 title: "BYD Dolphin Mini: aquecimento da bateria na recarga"
 pubDate: 2026-06-21
 updatedDate: 2026-06-21
 draft: false
 autor:
-  nome: "Equipe Hachiroku"
-  credencial: "Redação técnica automotiva"
+  nome: "Redação Hachiroku"
 entidade:
   marca: "BYD"
   modelo: "Dolphin Mini"
@@ -60,7 +59,7 @@ relacionados:
   - titulo: "BYD Dolphin Mini: autonomia real no dia a dia"
     url: "/problemas/byd/dolphin/autonomia-real"
   - titulo: "Como calibrar a bateria de carro elétrico BYD"
-    url: "/guias/byd/calibrar-bateria-eletrico"
+    url: "/guia-de-compra/byd/calibrar-bateria-eletrico"
 ---
 
 O BYD Dolphin Mini usa uma bateria de litio-ferro-fosfato (LFP) com capacidade de 38,88 kWh. Essa química oferece longa vida util e segurança elevada, mas apresenta uma caracteristica bem conhecida: aquece mais rapidamente do que baterias NMC quando a carga DC é aplicada em estados de carga (SoC) acima de 80 a 90%.

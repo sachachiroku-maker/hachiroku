@@ -1,5 +1,5 @@
----
-title: "Câmbio CVT do Toyota Corolla: a troca de fluido que ninguém faz e o erro que cobra caro"
+﻿---
+title: "Câmbio CVT do Toyota Corolla: a troca de fluido que ninguém"
 description: "O câmbio CVT do Toyota Corolla é durável, mas a confusão sobre a troca do fluido ATF WS é o problema crônico mais documentado: concessionária diz que não troca, manual condiciona, e o dono que ignora paga trepidação, superaquecimento e câmbio inteiro. Veja sintomas, causa real, quando trocar o fluido, custo e como o CVT do 1.8 difere do híbrido."
 entidade:
   marca: "Toyota"
@@ -18,8 +18,7 @@ entidadesEssenciais:
   - "CVT com engrenagem de partida"
   - "transmissão do híbrido (e-CVT)"
 autor:
-  nome: "Equipe Técnica Hachiroku"
-  credencial: ""
+  nome: "Redação Hachiroku"
 pubDate: 2026-06-19
 updatedDate: 2026-06-19
 disclaimer: "A inspeção e a troca do fluido do câmbio CVT pedem nível e temperatura corretos e o fluido exato especificado pela Toyota. Não é um serviço para improviso. Este conteúdo é informativo: confie a execução a um profissional qualificado e use sempre o fluido na especificação do manual do seu ano."

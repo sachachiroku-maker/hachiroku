@@ -1,13 +1,12 @@
----
-title: "Fiat Toro vs Renault Oroch: qual picape compacta comprar em 2025?"
+﻿---
+title: "Fiat Toro vs Renault Oroch: qual picape compacta comprar em"
 description: "Fiat Toro e Renault Oroch brigam pelo mesmo nicho, mas são picapes com DNA diferente. Comparamos motor, carga, consumo, defeitos e custo para decidir qual serve ao seu perfil."
 marca: "Comparativo"
 modelo: "Toro vs Oroch"
 kicker: "GUIA DE COMPRA · DECISÃO"
 veredito: "A Toro diesel é a escolha certa para quem trabalha pesado, enfrenta estrada de chão e quer câmbio automático com tração 4WD. A Oroch 2.0 manual é a conta mais inteligente para quem usa a picape no dia a dia urbano, faz estrada simples e quer fugir de motor turbinado, câmbio complexo e parcela salgada. Se o orçamento apertar em qualquer faixa, a Oroch entrega mais quilômetro por real gasto."
 autor:
-  nome: "Equipe Técnica Hachiroku"
-  credencial: ""
+  nome: "Redação Hachiroku"
 pubDate: 2026-06-20
 updatedDate: 2026-06-20
 disclaimer: "Este comparativo orienta a decisão de compra mas não substitui um test drive em ambos. Preços e especificações referentes a 2025-2026."
@@ -51,11 +50,11 @@ faq:
     resposta: "Para uso urbano e estrada convencional, o 1.3 turbo é suficiente e mais barato. Para carga pesada, fazenda, tração 4WD e longas distâncias com peso, o 2.0 diesel é tecnicamente superior e mais eficiente na prática. O problema é o preço, que sobe para faixas acima de R$ 190 mil. Avalie se o uso justifica a diferença antes de decidir."
 relacionados:
   - titulo: "Fiat Toro 1.3 turbo: consumo de óleo e como identificar o problema"
-    url: "/guias/problemas/toro-1-3-consumo-oleo"
+    url: "/guia-de-compra/problemas/toro-1-3-consumo-oleo"
   - titulo: "Renault Oroch: barulho na suspensão dianteira, causa e solução"
-    url: "/guias/problemas/oroch-barulho-suspensao"
+    url: "/guia-de-compra/problemas/oroch-barulho-suspensao"
   - titulo: "Picape compacta usada: o que verificar antes de comprar"
-    url: "/guias/comprar-usado/picape-compacta-checklist"
+    url: "/guia-de-compra/comprar-usado/picape-compacta-checklist"
 draft: false
 ---
 

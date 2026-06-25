@@ -1,5 +1,5 @@
----
-title: "Vela aquecedora da Toyota Hilux GD-6 com falha: partida difícil no frio e diagnóstico"
+﻿---
+title: "Vela aquecedora da Toyota Hilux GD-6 com falha"
 description: "A vela aquecedora (glow plug) do motor 2.8 GD-6 da Toyota Hilux pode falhar, dificultando a partida a frio com barulho e soluço no motor. Entenda os sintomas, como diagnosticar e o custo de troca."
 entidade:
   marca: "Toyota"
@@ -19,8 +19,7 @@ entidadesEssenciais:
   - "fumaça branca na partida"
   - "ciclo de pré-aquecimento"
 autor:
-  nome: "Equipe Técnica Hachiroku"
-  credencial: ""
+  nome: "Redação Hachiroku"
 pubDate: 2026-06-20
 updatedDate: 2026-06-20
 disclaimer: "Este conteúdo é informativo e diagnóstico. A troca de velas aquecedoras em motores diesel exige cuidado especial: velas presas pela corrosão podem quebrar dentro da câmara de combustão. Em motores com alta quilometragem, a remoção deve ser feita por mecânico experiente com o motor morno, nunca frio ou quente."

@@ -1,13 +1,12 @@
----
-title: "S10 vs Ranger 2023: Qual Picape de Trabalho Pesado Vale Mais?"
+﻿---
+title: "S10 vs Ranger 2023: Qual Picape de Trabalho Pesado Vale"
 description: "Chevrolet S10 e Ford Ranger frente a frente. Motor, tração, tecnologia, manutenção e custo-benefício para quem trabalha no campo e na cidade."
 marca: "Comparativo"
 modelo: "S10 vs Ranger"
 kicker: "GUIA DE COMPRA · DECISÃO"
 veredito: "S10 para quem prioriza custo de manutenção e suporte no interior. Ranger para quem quer mais tecnologia e potência com orçamento equivalente."
 autor:
-  nome: "Equipe Técnica Hachiroku"
-  credencial: ""
+  nome: "Redação Hachiroku"
 pubDate: 2026-06-20
 updatedDate: 2026-06-20
 disclaimer: "Preços e especificações referentes a 2025-2026."
@@ -52,11 +51,11 @@ faq:
     resposta: "A comparação mais justa é S10 LTZ 4x4 2.8 contra Ranger Limited 2.0 bi-turbo. As duas entram na mesma faixa de preço e atendem o mesmo perfil de comprador que quer trabalho pesado sem abrir mão de conforto."
 relacionados:
   - titulo: "Melhor Scanner OBD2 para Picapes Diesel: Guia 2025"
-    url: "/guias/scanner-obd2-picapes-diesel"
+    url: "/guia-de-compra/scanner-obd2-picapes-diesel"
   - titulo: "Chevrolet S10 2.8 Turbo: Revisão Completa e Custos"
-    url: "/guias/s10-2-8-turbo-revisao-custos"
+    url: "/guia-de-compra/s10-2-8-turbo-revisao-custos"
   - titulo: "Ford Ranger EcoBlue: Manutenção e Intervalos Oficiais"
-    url: "/guias/ranger-ecoblue-manutencao"
+    url: "/guia-de-compra/ranger-ecoblue-manutencao"
 draft: false
 ---
 

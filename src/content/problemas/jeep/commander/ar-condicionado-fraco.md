@@ -1,5 +1,5 @@
----
-title: "Jeep Commander: ar-condicionado fraco com 7 passageiros — diagnóstico completo"
+﻿---
+title: "Jeep Commander: ar-condicionado fraco com 7 passageiros —"
 description: "Ar-condicionado do Jeep Commander fraco na parte traseira? Veja causas, diagnóstico passo a passo e como resolver nos motores 1.3 T270 e 2.0 diesel. (156 chars)"
 entidade:
   marca: "Jeep"
@@ -11,8 +11,7 @@ kicker: "DEFEITO CRÔNICO"
 intencao: "Diagnóstico"
 entidadesEssenciais: ["Jeep Commander", "ar-condicionado traseiro", "válvula de expansão traseira"]
 autor:
-  nome: "Equipe Técnica Hachiroku"
-  credencial: ""
+  nome: "Redação Hachiroku"
 pubDate: 2026-06-20
 updatedDate: 2026-06-20
 disclaimer: "Este conteúdo é informativo. Sempre consulte um profissional habilitado antes de realizar reparos no sistema de ar-condicionado do seu veículo."

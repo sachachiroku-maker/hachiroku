@@ -1,4 +1,4 @@
----
+﻿---
 title: "Corolla Cross usado vale a pena? Guia completo"
 description: "Corolla Cross GR Sport 2.0 usado vale a pena? Confira checklist, pontos críticos da correia, bateria HEV e o que exigir antes de comprar."
 marca: "Toyota"
@@ -6,8 +6,7 @@ modelo: "Corolla Cross"
 kicker: "GUIA DE COMPRA"
 veredito: "Vale, especialmente nas versões XRX e GR Sport. Verifique histórico de revisão na Toyota, corrente de distribuição (inspecionar após 100 mil km) e bateria do sistema híbrido se for a versão HEV."
 autor:
-  nome: "Equipe Hachiroku"
-  credencial: "Redação técnica automotiva"
+  nome: "Redação Hachiroku"
 pubDate: 2026-06-21
 updatedDate: 2026-06-21
 disclaimer: "Este guia orienta a inspeção, mas não substitui uma vistoria cautelar e uma avaliação mecânica presencial antes da compra."
@@ -72,11 +71,11 @@ faq:
     resposta: "As revisões de rotina (óleo sintético, filtro de ar, filtro de cabine) ficam entre R$ 600 e R$ 1.100 na rede Toyota, dependendo do intervalo. Pastilhas dianteiras custam entre R$ 250 e R$ 450 o jogo em peças originais. O custo extra do GR Sport em relação ao XR se limita aos itens estéticos: os componentes mecânicos são os mesmos. Evite atrasar a troca do fluido do CVT, que deve ser feita a cada 40.000 a 60.000 km."
 relacionados:
   - titulo: "Toyota Hilux usada vale a pena? Guia completo de compra"
-    url: "/guias/usados/hilux-usada-vale-a-pena"
+    url: "/guia-de-compra/usados/hilux-usada-vale-a-pena"
   - titulo: "Jeep Compass usado vale a pena? O que verificar antes de comprar"
-    url: "/guias/usados/compass-usado-vale-a-pena"
+    url: "/guia-de-compra/usados/compass-usado-vale-a-pena"
   - titulo: "Honda HR-V usado vale a pena? Guia de compra por versão"
-    url: "/guias/usados/honda-hrv-usado-vale-a-pena"
+    url: "/guia-de-compra/usados/honda-hrv-usado-vale-a-pena"
 draft: false
 ---
 

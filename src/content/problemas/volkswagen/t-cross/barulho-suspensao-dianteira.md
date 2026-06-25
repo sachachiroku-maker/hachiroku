@@ -1,5 +1,5 @@
----
-title: "Barulho na suspensão dianteira do Volkswagen T-Cross: do recall das bieletas ao desgaste que faz o carro estalar"
+﻿---
+title: "Barulho na suspensão dianteira do Volkswagen T-Cross"
 description: "Seu Volkswagen T-Cross está com barulho na suspensão dianteira, estalo ao passar em buraco ou ranger ao esterçar? O modelo teve recall por afrouxamento das porcas dos amortecedores, e o ruído também aparece por bieletas, coxins, pivôs e buchas gastas. Veja os sintomas, as causas reais, como diagnosticar, o custo e como prevenir."
 entidade:
   marca: "Volkswagen"
@@ -16,8 +16,7 @@ entidadesEssenciais:
   - "coxim do amortecedor"
   - "recall"
 autor:
-  nome: "Equipe Técnica Hachiroku"
-  credencial: ""
+  nome: "Redação Hachiroku"
 pubDate: 2026-06-19
 updatedDate: 2026-06-19
 disclaimer: "Barulho de suspensão só vira diagnóstico com o carro suspenso, peça por peça, balançando a roda e checando folga. Este conteúdo orienta o que investigar; a confirmação depende de um profissional com o carro em mãos. Se o seu T-Cross é do ano envolvido no recall, consulte a Volkswagen pelo chassi antes de qualquer reparo pago."

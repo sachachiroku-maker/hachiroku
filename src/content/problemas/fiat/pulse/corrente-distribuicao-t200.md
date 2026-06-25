@@ -1,5 +1,5 @@
----
-title: "Corrente de distribuição do Fiat Pulse T200: barulho, desgaste e o que fazer"
+﻿---
+title: "Corrente de distribuição do Fiat Pulse T200"
 description: "O motor 1.0 turbo T200 do Fiat Pulse usa corrente de distribuição com tensionador hidráulico. Barulho metálico a frio, luz de injeção acesa e consumo alto de óleo podem indicar desgaste prematuro da corrente. Veja sintomas, causas, custo de reparo e como prevenir."
 entidade:
   marca: "Fiat"
@@ -18,8 +18,7 @@ entidadesEssenciais:
   - "consumo de óleo"
   - "intervalo de troca de óleo"
 autor:
-  nome: "Equipe Técnica Hachiroku"
-  credencial: ""
+  nome: "Redação Hachiroku"
 pubDate: 2026-06-20
 updatedDate: 2026-06-20
 disclaimer: "A corrente de distribuição integra o sistema de sincronismo do motor turbo. Este conteúdo é informativo: qualquer diagnóstico de barulho metálico ou código de sincronismo deve ser avaliado por um profissional qualificado. Não postergue a investigação, pois falha da corrente pode causar dano grave ao motor."

@@ -1,4 +1,4 @@
----
+﻿---
 title: "Ficha técnica BYD Song Plus EV Premium | Hachiroku"
 description: "Ficha técnica completa do BYD Song Plus EV Premium 2024: motor elétrico de 204 cv, bateria BYD Blade LFP de 87,3 kWh, autonomia estimada de 370 km no Brasil e recarga DC de 80 kW. Dados verificados com custos reais de propriedade e pontos de atenção para o comprador brasileiro."
 marca: "BYD"
@@ -18,8 +18,7 @@ entidade:
   motor: "Motor elétrico síncrono de ímã permanente"
 
 autor:
-  nome: "Equipe Hachiroku"
-  credencial: "Redação técnica automotiva"
+  nome: "Redação Hachiroku"
 
 motor:
   - { k: "Tipo", v: "Motor elétrico síncrono de ímã permanente" }

@@ -1,5 +1,5 @@
----
-title: "Ficha técnica do Jeep Commander Longitude 1.3 T270 Turbo Flex 2023"
+﻿---
+title: "Ficha técnica do Jeep Commander Longitude 1.3 T270 Turbo"
 description: "Ficha técnica completa do Jeep Commander Longitude 1.3 T270 Turbo Flex 2023: motor 1.3 GSE de 185 cv, câmbio automático ZF de 9 marchas e 7 lugares. Dados verificados com pontos de atenção do SUV de 7 lugares da Jeep no Brasil."
 marca: "Jeep"
 modelo: "Commander"

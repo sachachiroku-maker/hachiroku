@@ -1,5 +1,5 @@
----
-title: "Válvula EGR entupida no S10 2.8 Duramax: diagnóstico e solução"
+﻿---
+title: "Válvula EGR entupida no S10 2.8 Duramax"
 description: "Entenda por que a EGR do S10 diesel entope, quais são os sinais, como limpar e quanto custa resolver sem cair em gambiarras ilegais."
 entidade:
   marca: "Chevrolet"
@@ -14,8 +14,7 @@ entidadesEssenciais:
   - "Chevrolet S10 Duramax 2.8"
   - "P0400 P0401 P0409"
 autor:
-  nome: "Equipe Técnica Hachiroku"
-  credencial: ""
+  nome: "Redação Hachiroku"
 pubDate: 2026-06-20
 updatedDate: 2026-06-20
 disclaimer: "As informações técnicas e faixas de preço apresentadas neste artigo são de caráter orientativo. Consulte sempre um mecânico qualificado para diagnóstico definitivo. Preços em R$ referentes ao mercado brasileiro em 2025-2026 e sujeitos a variações regionais."

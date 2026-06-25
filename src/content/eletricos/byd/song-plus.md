@@ -1,5 +1,5 @@
----
-title: "BYD Song Plus DM-i: autonomia real (elétrica e combinada), bateria Blade e os pontos de atenção de quem já tem"
+﻿---
+title: "BYD Song Plus DM-i: autonomia real e pontos de atenção"
 description: "Diagnóstico honesto do SUV híbrido plug-in da BYD: a autonomia elétrica de catálogo contra a de rua, a bateria Blade ampliada, consumo real em modo híbrido, tempo de recarga, garantia e as reclamações reais de donos no Brasil."
 entidade:
   marca: "BYD"
@@ -16,8 +16,7 @@ entidadesEssenciais:
   - "wallbox"
   - "garantia da bateria"
 autor:
-  nome: "Equipe Técnica Hachiroku"
-  credencial: ""
+  nome: "Redação Hachiroku"
 pubDate: 2026-06-19
 updatedDate: 2026-06-19
 disclaimer: "Os números de autonomia e consumo variam conforme uso, clima, relevo, velocidade, carga e uso do ar-condicionado: o valor de catálogo (PBEV/INMETRO ou NEDC) é teto de laboratório, não promessa de rua. Atenção: ciclos de medição diferentes (PBEV brasileiro e NEDC chinês) geram números muito distintos para o mesmo carro. Recarga em alta tensão (wallbox) exige instalação por eletricista qualificado. Condições de garantia variam por ano-modelo, chassi e finalidade de uso: confirme sempre por escrito antes de comprar."

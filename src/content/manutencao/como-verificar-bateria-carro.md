@@ -1,4 +1,4 @@
----
+﻿---
 title: "Como testar bateria do carro em casa"
 description: "Aprenda a verificar e testar a bateria do seu carro em casa com multímetro ou testador. Passo a passo simples, rápido e sem custo."
 pubDate: 2026-06-21
@@ -9,8 +9,7 @@ dificuldade: "Fácil"
 custoEstimado: "R$ 0 (multímetro) a R$ 50 (testador de bateria)"
 
 autor:
-  nome: "Equipe Hachiroku"
-  credencial: "Redação técnica automotiva"
+  nome: "Redação Hachiroku"
 
 passos:
   - nome: "Desligue o carro e localize a bateria"

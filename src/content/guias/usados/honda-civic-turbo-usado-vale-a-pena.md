@@ -1,4 +1,4 @@
----
+﻿---
 title: "Civic 1.5 Turbo usado vale a pena? Guia 2025"
 description: "Civic 1.5 Turbo CVT 2022-2024 usado tem motor revisado e porta-malas de 519 L, mas exige inspeção no turbo e no fluido CVT. Veja o checklist completo antes de comprar."
 marca: "Honda"
@@ -6,8 +6,7 @@ modelo: "Civic"
 kicker: "GUIA DE COMPRA"
 veredito: "Vale muito, especialmente até 80 mil km e com histórico completo de revisão Honda. Inspecione bomba d'água do turbo e condicionadores de câmbio CVT antes de assinar."
 autor:
-  nome: "Equipe Hachiroku"
-  credencial: "Redação técnica automotiva"
+  nome: "Redação Hachiroku"
 pubDate: 2026-06-21
 updatedDate: 2026-06-21
 disclaimer: "Este guia orienta a inspeção, mas não substitui uma vistoria cautelar e uma avaliação mecânica presencial antes da compra."

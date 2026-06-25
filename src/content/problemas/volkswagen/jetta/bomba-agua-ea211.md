@@ -1,5 +1,5 @@
----
-title: "Bomba d'água Jetta 1.4 TSI: falha prematura no EA211 | Hachiroku"
+﻿---
+title: "Bomba d'água Jetta 1.4 TSI: falha prematura no EA211 |"
 description: "A bomba d'água plástica do motor EA211 falha entre 80 e 120 mil km e causa superaquecimento no Jetta 1.4 TSI. Saiba identificar os sintomas, fazer o diagnóstico e resolver com segurança."
 entidade:
   marca: "Volkswagen"
@@ -18,8 +18,7 @@ entidadesEssenciais:
   - "código P2181"
   - "Volkswagen Jetta 1.4 TSI"
 autor:
-  nome: "Equipe Hachiroku"
-  credencial: "Redação técnica automotiva"
+  nome: "Redação Hachiroku"
 pubDate: 2026-06-21
 updatedDate: 2026-06-21
 disclaimer: "Este conteúdo é informativo. Superaquecimento do motor representa risco real de dano severo. Nunca continue rodando com a luz de temperatura acesa. Consulte sempre um mecânico qualificado para diagnóstico e reparo. Os preços são estimativas para o mercado brasileiro em 2025-2026 e podem variar por região e oficina."

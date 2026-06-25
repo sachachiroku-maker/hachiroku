@@ -1,13 +1,12 @@
----
-title: "Toyota Hilux vs Ford Ranger: qual picape líder comprar em 2025?"
+﻿---
+title: "Toyota Hilux vs Ford Ranger: qual picape líder comprar em"
 description: "Hilux e Ranger disputam o topo das picapes médias no Brasil. Comparamos motor, tecnologia, revenda, defeitos e preço para você decidir com dados reais."
 marca: "Comparativo"
 modelo: "Hilux vs Ranger"
 kicker: "GUIA DE COMPRA · DECISÃO"
 veredito: "A Hilux é a escolha certa para quem prioriza revenda imbatível, durabilidade comprovada, rede de assistência capilar e valor residual protegido ao longo do tempo. A Ranger nova é a melhor opção para quem quer mais tecnologia, interior superior e desempenho mais refinado na nova geração 2023-2025. Se revenda e robustez pesam mais na decisão, Hilux. Se tecnologia, conforto e motorização moderna falam mais alto, Ranger."
 autor:
-  nome: "Equipe Técnica Hachiroku"
-  credencial: ""
+  nome: "Redação Hachiroku"
 pubDate: 2026-06-20
 updatedDate: 2026-06-20
 disclaimer: "Preços e especificações referentes a 2025-2026."
@@ -52,11 +51,11 @@ faq:
     resposta: "Sim, de forma significativa. A Ranger T6.2 (2023 em diante) tem plataforma nova, interior completamente redesenhado com tela central maior, novo motor 2.0 bi-turbo de 170 ou 210 cv, suspensão traseira multilink nas versões top (substituindo o eixo rígido), maior porta-malas e melhor isolamento acústico. É um salto real de geração. Quem conhecia a Ranger anterior encontrará um carro consideravelmente mais moderno."
 relacionados:
   - titulo: "Toyota Hilux: os defeitos mais comuns e como evitá-los"
-    url: "/guias/problemas/hilux-defeitos-comuns"
+    url: "/guia-de-compra/problemas/hilux-defeitos-comuns"
   - titulo: "Ford Ranger 2023: avaliação completa da nova geração"
-    url: "/guias/avaliacao/ranger-2023-nova-geracao"
+    url: "/guia-de-compra/avaliacao/ranger-2023-nova-geracao"
   - titulo: "Picape usada: o que verificar antes de comprar"
-    url: "/guias/comprar-usado/picape-media-checklist"
+    url: "/guia-de-compra/comprar-usado/picape-media-checklist"
 draft: false
 ---
 

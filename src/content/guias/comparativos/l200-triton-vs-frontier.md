@@ -1,13 +1,12 @@
----
-title: "L200 Triton vs Frontier: Qual Picape Média Diesel Vale Mais em 2025?"
+﻿---
+title: "L200 Triton vs Frontier: Qual Picape Média Diesel Vale Mais"
 description: "Duelo asiático entre L200 Triton Sport e Nissan Frontier. Comparamos motor, tração 4x4, custo de revisão e conforto para você decidir certo."
 marca: "Comparativo"
 modelo: "L200 Triton vs Frontier"
 kicker: "GUIA DE COMPRA · DECISÃO"
 veredito: "L200 Triton vence em custo-benefício e capacidade off-road; Frontier vence em conforto de cabine e tecnologia de série."
 autor:
-  nome: "Equipe Técnica Hachiroku"
-  credencial: ""
+  nome: "Redação Hachiroku"
 pubDate: 2026-06-20
 updatedDate: 2026-06-20
 disclaimer: "Preços e especificações referentes a 2025-2026."
@@ -52,11 +51,11 @@ faq:
     resposta: "Historicamente o L200 Triton mantém valor de revenda competitivo por ter maior base de compradores e custo de manutenção menor. A Frontier Nova Geração ainda está consolidando histórico no mercado de usados desde o lançamento em 2022."
 relacionados:
   - titulo: "Toyota Hilux vs L200 Triton: Qual Picape Resiste Mais?"
-    url: "/guias/comparativos/hilux-vs-l200-triton"
+    url: "/guia-de-compra/comparativos/hilux-vs-l200-triton"
   - titulo: "Nissan Frontier: Guia Completo de Revisão e Manutenção"
-    url: "/guias/manutencao/nissan-frontier-revisao"
+    url: "/guia-de-compra/manutencao/nissan-frontier-revisao"
   - titulo: "Melhor Picape Diesel Média de 2025: Ranking Completo"
-    url: "/guias/ranking/picapes-diesel-media-2025"
+    url: "/guia-de-compra/ranking/picapes-diesel-media-2025"
 draft: false
 ---
 

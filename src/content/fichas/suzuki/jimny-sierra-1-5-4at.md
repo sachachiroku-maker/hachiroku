@@ -1,4 +1,4 @@
----
+﻿---
 title: "Ficha técnica Suzuki Jimny Sierra 4AT 2023"
 description: "Jimny Sierra 4AT: motor K15B 1.5 aspirado, 102 cv, câmbio automático 4 marchas, 4WD AllGrip Pro e capacidade off-road real de série."
 marca: "Suzuki"
@@ -66,8 +66,7 @@ fonteDados: "Suzuki Brasil ficha técnica oficial 2023"
 pubDate: 2026-06-21
 updatedDate: 2026-06-21
 autor:
-  nome: "Equipe Hachiroku"
-  credencial: "Redação técnica automotiva"
+  nome: "Redação Hachiroku"
 faq:
   - pergunta: "O Suzuki Jimny Sierra é bom para off-road pesado?"
     resposta: "Sim. O Jimny Sierra tem chassi escada de aço (ladder frame), eixos rigidos dianteiro e traseiro, caixa de transferencia de 2 velocidades com reduzida (relacao 2,916:1), vao livre de 210 mm e angulos de entrada, rampa e saida de 37, 49 e 49 graus. E capaz de vencer trilhas de alta dificuldade onde SUVs de monocasco nao entram. A profundidade de vau certificada e de 600 mm. O tamanho compacto e um trunfo: passa por trilhos estreitos que picapes e SUVs maiores nao conseguem."
@@ -81,8 +80,8 @@ faq:
     resposta: "Sao categorias distintas. O Troller T4 tem motor 2.0 EcoBoost turbo de 240 cv, entre-eixos maior e capacidade para 5 ocupantes com mais espaco. O Jimny Sierra tem motor 1.5 aspirado de 102 cv, e menor, mais leve (1.135 kg vs aproximadamente 1.900 kg no T4) e mais agil em trilhos estreitos. O Troller vence em conforto, velocidade e capacidade de carga. O Jimny vence em custo, consumo, agilidade em trilhas fechadas e faculdade de recuperacao quando encalha. Para trilha pura sem necessidade de espaco interno, o Jimny e mais capaz por kg. Para aventura com familia e conforto, o Troller leva vantagem."
 relacionados:
   - { titulo: "Problemas do Suzuki Jimny", url: "/problemas/suzuki/jimny/" }
-  - { titulo: "Ficha técnica Jeep Renegade", url: "/fichas/jeep/renegade/" }
-  - { titulo: "Ficha técnica Renault Duster", url: "/fichas/renault/duster/" }
+  - { titulo: "Ficha técnica Jeep Renegade", url: "/ficha-tecnica/jeep/renegade/" }
+  - { titulo: "Ficha técnica Renault Duster", url: "/ficha-tecnica/renault/duster/" }
 draft: false
 ---
 

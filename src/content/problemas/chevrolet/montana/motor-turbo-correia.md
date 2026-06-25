@@ -1,4 +1,4 @@
----
+﻿---
 title: "Motor 1.2 Turbo Montana correia dentada | Hachiroku"
 description: "A correia dentada banhada a óleo do motor 1.2 CSS Prime Turbo da Chevrolet Montana é o maior ponto de atenção do modelo. Saiba identificar os sintomas, qual óleo usar e quando agir antes de perder o motor."
 entidade:
@@ -18,8 +18,7 @@ entidadesEssenciais:
   - "bomba de vácuo"
   - "tensionador"
 autor:
-  nome: "Equipe Hachiroku"
-  credencial: "Redação técnica automotiva"
+  nome: "Redação Hachiroku"
 pubDate: 2026-06-20
 updatedDate: 2026-06-20
 disclaimer: "Este conteúdo é informativo. A troca da correia banhada a óleo deve ser feita por mecânico com experiência no motor 1.2 CSS Prime Turbo. Siga rigorosamente as recomendações da Chevrolet Brasil quanto ao óleo e ao intervalo."

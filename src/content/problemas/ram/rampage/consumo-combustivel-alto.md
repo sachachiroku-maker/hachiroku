@@ -1,11 +1,10 @@
----
+﻿---
 title: "Ram Rampage 1.3 T270: Consumo Alto de Combustível"
 pubDate: 2026-06-21
 updatedDate: 2026-06-21
 draft: false
 autor:
-  nome: "Equipe Hachiroku"
-  credencial: "Redação técnica automotiva"
+  nome: "Redação Hachiroku"
 
 entidade:
   marca: "Ram"
@@ -88,9 +87,9 @@ relacionados:
   - titulo: "Ram Rampage: Superaquecimento do Motor"
     url: "/problemas/ram/rampage/superaquecimento-motor"
   - titulo: "Como Economizar Combustível em Picapes"
-    url: "/guias/como-economizar-combustivel-picapes"
+    url: "/guia-de-compra/como-economizar-combustivel-picapes"
   - titulo: "Ram Rampage 1.3 T270 Flex: Ficha Técnica Completa"
-    url: "/fichas/ram/rampage/1-3-t270-flex"
+    url: "/ficha-tecnica/ram/rampage/1-3-t270-flex"
 ---
 
 A **Ram Rampage 1.3 T270 Flex** é uma picape compacta com motor biturbo de alto desempenho, capaz de gerar 272 cv e 270 Nm de torque. Essa combinação entrega tração e capacidade de reboque acima da média do segmento, mas também eleva o consumo de combustível quando o motor é exigido no limite.

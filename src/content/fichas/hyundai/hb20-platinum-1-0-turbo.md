@@ -1,4 +1,4 @@
----
+﻿---
 title: "Ficha técnica HB20 Platinum 1.0 Turbo 2023"
 description: "Ficha técnica completa do Hyundai HB20 Platinum Plus 1.0 T-GDi 2023: 120 cv, câmbio IVT, consumo 12,1 km/l cidade e 15,2 km/l estrada (etanol). Dados verificados."
 marca: "Hyundai"
@@ -18,8 +18,7 @@ entidade:
   motor: "Motor 1.0 T-GDi turbo"
 
 autor:
-  nome: "Equipe Hachiroku"
-  credencial: "Redação técnica automotiva"
+  nome: "Redação Hachiroku"
 
 motor:
   - { k: "Configuração", v: "1.0 Kappa T-GDi (Turbo Gasoline Direct Injection), 3 cilindros em linha, 12 válvulas, DOHC" }
@@ -112,8 +111,8 @@ faq:
     resposta: "O INMETRO PBEV 2023 registrou consumo de 12,1 km/l na cidade e 15,2 km/l na estrada com etanol para o HB20 Platinum Plus 1.0 T-GDi com câmbio IVT. Na prática, donos relatam valores entre 10,5 km/l e 12,5 km/l na cidade dependendo do perfil de condução e do tráfego. Na estrada, o consumo real tende a ficar próximo ou acima do valor do INMETRO em condições de velocidade constante entre 90 km/h e 110 km/h. O modo Eco e a condução suave fazem diferença real: evitar acelerações bruscas e usar o motor na faixa entre 1.500 rpm e 3.000 rpm maximiza a eficiência do IVT."
 
 relacionados:
-  - { titulo: "Ficha técnica do Hyundai HB20S Platinum 1.0 Turbo 2024 (sedã)", url: "/fichas/hyundai/hb20s-platinum-1-0-turbo/" }
-  - { titulo: "Câmbio CVT: como funciona e quando trocar o fluido", url: "/guia/cambio-cvt-como-funciona/" }
+  - { titulo: "Ficha técnica do Hyundai HB20S Platinum 1.0 Turbo 2024 (sedã)", url: "/ficha-tecnica/hyundai/hb20s-platinum-1-0-turbo/" }
+  - { titulo: "Câmbio CVT: como funciona e quando trocar o fluido", url: "/guia-de-compra/cambio-cvt-como-funciona/" }
 
 draft: false
 ---

@@ -1,4 +1,4 @@
----
+﻿---
 title: "CVT Xtronic do Kicks superaquece: causas e solução"
 description: "O câmbio CVT Xtronic do Nissan Kicks 1.6 entra em modo de proteção e perde potência em subidas e uso intenso. Veja causas, sintomas e como agir antes do reparo caro."
 entidade:
@@ -19,8 +19,7 @@ entidadesEssenciais:
   - "temperatura do fluido do CVT"
   - "polias e correia de aço do CVT"
 autor:
-  nome: "Equipe Hachiroku"
-  credencial: "Redação técnica automotiva"
+  nome: "Redação Hachiroku"
 pubDate: 2026-06-21
 updatedDate: 2026-06-21
 disclaimer: "O diagnóstico de superaquecimento do CVT exige leitura de temperatura via scanner específico e inspeção do circuito de resfriamento. Este conteúdo é informativo: confie o diagnóstico e o reparo a um profissional especializado em transmissões CVT e use sempre o fluido na especificação exata do manual do seu ano."

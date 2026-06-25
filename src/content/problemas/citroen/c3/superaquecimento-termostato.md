@@ -1,5 +1,5 @@
----
-title: "Superaquecimento por termostato no Citroën C3 1.6 VTi | Hachiroku"
+﻿---
+title: "Superaquecimento por termostato no Citroën C3 1.6 VTi |"
 description: "O Citroën C3 1.6 VTi superaquece quando o termostato trava fechado: o arrefecimento para de circular e o motor chega ao limite em menos de 20 minutos. Veja como identificar, confirmar o diagnóstico e resolver."
 entidade:
   marca: "Citroën"
@@ -17,8 +17,7 @@ entidadesEssenciais:
   - "mangueira superior do radiador"
   - "temperatura do motor"
 autor:
-  nome: "Equipe Hachiroku"
-  credencial: "Redação técnica automotiva"
+  nome: "Redação Hachiroku"
 pubDate: 2026-06-21
 updatedDate: 2026-06-21
 disclaimer: "Este conteúdo é informativo. Ao identificar qualquer sinal de superaquecimento, desligue o motor imediatamente e aguarde o resfriamento completo antes de qualquer intervenção. Nunca abra o radiador ou o reservatório de arrefecimento com o motor quente: o fluido pressurizado pode causar queimaduras graves."

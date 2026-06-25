@@ -1,5 +1,5 @@
----
-title: "Sensor lambda do Cronos: o que causa a luz de injeção e consumo alto"
+﻿---
+title: "Sensor lambda do Cronos: o que causa a luz de injeção e"
 description: "Sensor lambda com defeito no Fiat Cronos acende a luz de injeção e aumenta o consumo. Entenda a diferença entre sonda upstream e downstream, os códigos OBD2 P0130 a P0167 e o que checar antes de trocar a peça."
 entidade:
   marca: "Fiat"
@@ -22,8 +22,7 @@ entidadesEssenciais:
   - "downstream"
   - "Firefly 1.3"
 autor:
-  nome: "Equipe Técnica Hachiroku"
-  credencial: ""
+  nome: "Redação Hachiroku"
 pubDate: 2026-06-20
 updatedDate: 2026-06-20
 disclaimer: "Este conteúdo é informativo. A troca do sensor lambda envolve trabalho no sistema de escape e leitura de códigos OBD2. Procure um profissional para confirmar o diagnóstico antes de substituir peças."

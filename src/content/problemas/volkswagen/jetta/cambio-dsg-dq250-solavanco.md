@@ -1,5 +1,5 @@
----
-title: "Câmbio DSG DQ250 do Jetta com solavanco: fluido, custo de flush e diagnóstico"
+﻿---
+title: "Câmbio DSG DQ250 do Jetta com solavanco"
 description: "O câmbio DSG DQ250 molhado do Volkswagen Jetta pode apresentar solavancos e engajamento irregular quando o fluido G 052 182 não é trocado a cada 40 a 60 mil km. Entenda a diferença técnica entre DQ250 e DQ200, o custo do flush e quando o solavanco indica dano real."
 entidade:
   marca: "Volkswagen"
@@ -19,8 +19,7 @@ entidadesEssenciais:
   - "flush de câmbio"
   - "adaptação DSG"
 autor:
-  nome: "Equipe Técnica Hachiroku"
-  credencial: ""
+  nome: "Redação Hachiroku"
 pubDate: 2026-06-20
 updatedDate: 2026-06-20
 disclaimer: "Este conteúdo é informativo. O diagnóstico de solavancos em câmbio DSG pode ter múltiplas causas. Consulte sempre um profissional especializado em câmbio automático para avaliar o estado do DSG antes de autorizar qualquer serviço. Câmbio desmontado indevidamente pode perder calibração."

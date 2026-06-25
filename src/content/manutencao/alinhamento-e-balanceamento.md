@@ -1,5 +1,5 @@
----
-title: "Alinhamento e Balanceamento: O Que É, Quando Fazer e Quanto Custa"
+﻿---
+title: "Alinhamento e Balanceamento: O Que É, Quando Fazer e Quanto"
 description: "Guia completo sobre alinhamento e balanceamento: diferença entre os dois, sinais de alerta, frequência correta e quanto você vai pagar em 2026."
 kicker: "MÃO NA MASSA"
 veiculo: "universal"
@@ -29,8 +29,7 @@ passos:
   - nome: "Registrar e programar o próximo serviço"
     texto: "Anote a data e a quilometragem do dia no manual de manutenção ou em um aplicativo de gestão do carro. O próximo alinhamento deve ser feito em até 10.000 km ou 12 meses, o que vier primeiro. Se você tiver batido em um buraco grande ou subido em um meio-fio nesse intervalo, faça antes. Guarde o comprovante impresso para histórico e para exigir garantia se o problema voltar."
 autor:
-  nome: "Equipe Técnica Hachiroku"
-  credencial: ""
+  nome: "Redação Hachiroku"
 pubDate: 2026-06-20
 updatedDate: 2026-06-20
 disclaimer: "As faixas de preço indicadas neste guia são referências médias para o Brasil em 2026 e podem variar conforme região, tipo de veículo e estabelecimento. Sempre solicite orçamento antes de autorizar o serviço. Procedimentos em suspensão e direção devem ser avaliados por profissional habilitado."

@@ -1,5 +1,5 @@
----
-title: "Motor 1.0 três cilindros do Renault Sandero: vibração, consumo de óleo e o coxim que entrega o problema"
+﻿---
+title: "Motor 1.0 três cilindros do Renault Sandero"
 description: "O motor 1.0 SCe de 3 cilindros do Renault Sandero vibra mais que um 4 cilindros por natureza, mas trepidação forte na marcha lenta costuma apontar coxim gasto, e há relatos de consumo de óleo e de tampa de válvulas que vaza sobre a bobina. Entenda o que é característica do 3 cilindros, o que é defeito, os sintomas e como inspecionar antes de comprar."
 entidade:
   marca: "Renault"
@@ -18,8 +18,7 @@ entidadesEssenciais:
   - "tampa de válvulas vazando na bobina"
   - "corrente de comando"
 autor:
-  nome: "Equipe Técnica Hachiroku"
-  credencial: ""
+  nome: "Redação Hachiroku"
 pubDate: 2026-06-19
 updatedDate: 2026-06-19
 disclaimer: "Diagnóstico de vibração, troca de coxim e investigação de consumo de óleo exigem inspeção física do motor e, em alguns casos, scanner. Este conteúdo é informativo: confie a avaliação e o reparo a um profissional qualificado e use sempre óleo e peças na especificação do manual do seu ano."

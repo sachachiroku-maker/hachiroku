@@ -1,4 +1,4 @@
----
+﻿---
 title: "HB20S Platinum 1.0 Turbo: ficha técnica 2024 | Hachiroku"
 description: "Ficha técnica completa do Hyundai HB20S Platinum 1.0 Turbo 2024: motor Kappa 1.0 turbo de 120 cv, câmbio automático IVT (CVT), porta-malas de 475 litros, consumo de 12,5 km/l na cidade e todos os dados verificados. Para quem faz sentido e o que conferir antes de comprar."
 marca: "Hyundai"
@@ -18,8 +18,7 @@ entidade:
   motor: "Motor 1.0 turbo"
 
 autor:
-  nome: "Equipe Hachiroku"
-  credencial: "Redação técnica automotiva"
+  nome: "Redação Hachiroku"
 
 motor:
   - { k: "Configuração", v: "1.0 Kappa Turbo GDi, 3 cilindros em linha, 12 válvulas, DOHC" }
@@ -100,8 +99,8 @@ faq:
     resposta: "O motor Kappa 1.0 turbo não tem histórico de falhas estruturais graves no mercado brasileiro até 2024. Os relatos mais comuns em fóruns de donos envolvem consumo de óleo acima do esperado em unidades com revisões atrasadas e resposta travada do câmbio IVT quando o fluido está degradado. Os dois pontos se resolvem com manutenção em dia: óleo sintético trocado a cada 10.000 km e fluido CVT substituído entre 60.000 km e 80.000 km."
 
 relacionados:
-  - { titulo: "Ficha técnica do Hyundai HB20 2023 Comfort 1.0 (hatch aspirado)", url: "/fichas/hyundai/hb20/" }
-  - { titulo: "Câmbio CVT: como funciona e quando trocar o fluido", url: "/guia/cambio-cvt-como-funciona/" }
+  - { titulo: "Ficha técnica do Hyundai HB20 2023 Comfort 1.0 (hatch aspirado)", url: "/ficha-tecnica/hyundai/hb20/" }
+  - { titulo: "Câmbio CVT: como funciona e quando trocar o fluido", url: "/guia-de-compra/cambio-cvt-como-funciona/" }
 
 draft: false
 ---

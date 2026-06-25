@@ -1,4 +1,4 @@
----
+﻿---
 title: "Como calibrar pneu: pressão certa e quando fazer"
 description: "Aprenda a calibrar os pneus do seu carro com a pressão certa: onde encontrar o valor indicado pela fábrica, quando calibrar e como evitar os erros mais comuns que prejudicam segurança e consumo."
 kicker: "HOW-TO · MÃO NA MASSA"
@@ -16,8 +16,7 @@ pontosChave:
 pubDate: 2026-06-21
 updatedDate: 2026-06-21
 autor:
-  nome: "Equipe Hachiroku"
-  credencial: "Redação técnica automotiva"
+  nome: "Redação Hachiroku"
 afiliados:
   - produto: "Calibrador digital portátil"
     nota: "Para calibrar em casa a qualquer hora"

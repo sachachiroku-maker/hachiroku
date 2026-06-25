@@ -1,13 +1,12 @@
----
-title: "Renault Captur vs Jeep Renegade: SUV Compacto Estiloso, Quem Ganhou?"
+﻿---
+title: "Renault Captur vs Jeep Renegade"
 description: "Captur 1.3 TCe 170 cv vs Renegade 1.3 T270 185 cv: comparamos desempenho, consumo, espaço e custo-benefício para você decidir sem erro."
 marca: "Comparativo"
 modelo: "Captur vs Renegade"
 kicker: "GUIA DE COMPRA · DECISÃO"
 veredito: "Renegade vence em potência e versatilidade off-road; Captur vence em sofisticação urbana e consumo."
 autor:
-  nome: "Equipe Técnica Hachiroku"
-  credencial: ""
+  nome: "Redação Hachiroku"
 pubDate: 2026-06-20
 updatedDate: 2026-06-20
 disclaimer: "Preços e especificações referentes a 2025-2026."
@@ -52,11 +51,11 @@ faq:
     resposta: "O Renegade tem vantagem pela garantia de 5 anos, que pode ainda cobrir veículos 2022-2023 no mercado de seminovos. Use um scanner OBD2 antes de fechar qualquer negócio nos dois modelos."
 relacionados:
   - titulo: "Jeep Compass vs Toyota RAV4: qual SUV médio comprar em 2025?"
-    url: "/guias/comparativos/compass-vs-rav4"
+    url: "/guia-de-compra/comparativos/compass-vs-rav4"
   - titulo: "Renault Captur 2025: revisão completa e custos reais"
-    url: "/guias/renault-captur-2025"
+    url: "/guia-de-compra/renault-captur-2025"
   - titulo: "Jeep Renegade 2025: ficha técnica e opiniões do dono"
-    url: "/guias/jeep-renegade-2025"
+    url: "/guia-de-compra/jeep-renegade-2025"
 draft: false
 ---
 

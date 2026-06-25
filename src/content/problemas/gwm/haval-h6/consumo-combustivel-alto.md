@@ -1,4 +1,4 @@
----
+﻿---
 title: "Consumo alto Haval H6 HEV: causa e como diagnosticar"
 description: "Haval H6 HEV 1.5 turbo consumindo acima do prometido? O problema real é o motor a combustão rodando sem suporte elétrico suficiente. Entenda as causas, os números de fábrica e o que fazer antes de ir à concessionária."
 entidade:
@@ -18,8 +18,7 @@ entidadesEssenciais:
   - "bicos injetores"
   - "filtro de ar"
 autor:
-  nome: "Equipe Hachiroku"
-  credencial: "Redação técnica automotiva"
+  nome: "Redação Hachiroku"
 pubDate: 2026-06-21
 updatedDate: 2026-06-21
 disclaimer: "Diagnóstico de consumo em híbridos exige leitura dos parâmetros do motor e do sistema de gestão de bateria com scanner compatível. Este conteúdo orienta o que investigar; a confirmação deve ser feita por um profissional com o carro em mãos."

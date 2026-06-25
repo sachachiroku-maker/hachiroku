@@ -1,5 +1,5 @@
----
-title: "Diferencial traseiro da Toyota Hilux com barulho: óleo, TBO e custo de reparo"
+﻿---
+title: "Diferencial traseiro da Toyota Hilux com barulho"
 description: "Barulho no diferencial traseiro da Toyota Hilux é um dos problemas mais relatados pelos proprietários e está diretamente ligado ao intervalo de troca do óleo de diferencial. Entenda os sintomas, o TBO correto e o custo de reparo."
 entidade:
   marca: "Toyota"
@@ -19,8 +19,7 @@ entidadesEssenciais:
   - "GL-5 SAE 75W90"
   - "barulho em curva"
 autor:
-  nome: "Equipe Técnica Hachiroku"
-  credencial: ""
+  nome: "Redação Hachiroku"
 pubDate: 2026-06-20
 updatedDate: 2026-06-20
 disclaimer: "Este conteúdo é informativo e diagnóstico. Diferencial com barulho persistente não deve ser ignorado: desgaste de engrenagens pode progredir para falha catastrófica com perda de tração traseira. Procure diagnóstico em oficina especializada em mecânica de tração."

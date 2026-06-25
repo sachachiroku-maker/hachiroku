@@ -1,5 +1,5 @@
----
-title: "Como Checar e Trocar a Correia Auxiliar (Serpentina): Passo a Passo"
+﻿---
+title: "Como Checar e Trocar a Correia Auxiliar (Serpentina)"
 description: "Aprenda a verificar e trocar a correia auxiliar do seu carro com segurança. Guia completo com ferramentas, custos e sinais de desgaste. (150 chars)"
 kicker: "MÃO NA MASSA"
 veiculo: "universal"
@@ -31,8 +31,7 @@ passos:
   - nome: "Teste o funcionamento com o motor ligado"
     texto: "Ligue o motor e observe por dois a três minutos. A correia deve girar sem vibrar, sem ranger e sem desviar das polias. Ative o ar-condicionado para testar a carga total. Faça um teste de rua curto e volte para verificar se a posição da correia se manteve estável."
 autor:
-  nome: "Equipe Técnica Hachiroku"
-  credencial: ""
+  nome: "Redação Hachiroku"
 pubDate: 2026-06-20
 updatedDate: 2026-06-20
 disclaimer: "Este guia tem finalidade educativa. Procedimentos mecânicos envolvem riscos se executados de forma incorreta. Em caso de dúvida, procure um mecânico qualificado. O Hachiroku não se responsabiliza por danos decorrentes da aplicação incorreta das instruções."

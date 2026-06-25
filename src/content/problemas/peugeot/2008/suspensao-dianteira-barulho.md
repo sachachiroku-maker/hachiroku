@@ -1,5 +1,5 @@
----
-title: "Barulho na Suspensão Dianteira do Peugeot 2008: Causas, Diagnóstico e Custo de Reparo"
+﻿---
+title: "Barulho na Suspensão Dianteira do Peugeot 2008"
 description: "Estalos, clocs e plofts na suspensão dianteira do Peugeot 2008 2ª geração? Veja as causas, como diagnosticar em casa e quanto custa resolver cada componente."
 entidade:
   marca: "Peugeot"
@@ -16,8 +16,7 @@ entidadesEssenciais:
   - "Bucha da bandeja inferior"
   - "Terminal de direção"
 autor:
-  nome: "Equipe Técnica Hachiroku"
-  credencial: ""
+  nome: "Redação Hachiroku"
 pubDate: 2026-06-20
 updatedDate: 2026-06-20
 disclaimer: "Este artigo tem caráter informativo. Intervenções na suspensão envolvem segurança ativa do veículo e devem ser executadas por profissional habilitado. Valores de peças e mão de obra são estimativas médias para o Brasil e podem variar por região e fornecedor."

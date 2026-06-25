@@ -1,4 +1,4 @@
----
+﻿---
 title: "T-Cross vs Tracker: qual SUV compacto 2025?"
 description: "VW T-Cross 1.0 TSI e Chevrolet Tracker 1.2 Turbo lado a lado: motor, câmbio, consumo, custo de revisão e valor de revenda para você decidir sem arrependimento."
 marca: "Comparativo"
@@ -6,8 +6,7 @@ modelo: "T-Cross vs Tracker"
 kicker: "COMPARATIVO DE DECISÃO"
 veredito: "T-Cross para quem valoriza dirigibilidade europeia, câmbio Aisin suave e valor de revenda. Tracker para quem quer potência maior, custo de revisão menor e câmbio automático de torque-converter."
 autor:
-  nome: "Equipe Hachiroku"
-  credencial: "Redação técnica automotiva"
+  nome: "Redação Hachiroku"
 pubDate: 2026-06-21
 updatedDate: 2026-06-21
 disclaimer: "Este comparativo orienta a decisão de compra, mas não substitui um test drive nos dois veículos e, em caso de usados, uma vistoria cautelar com avaliação mecânica presencial. Dados de consumo são oficiais (Inmetro); experiência real varia conforme uso, manutenção e condutor."
@@ -57,9 +56,9 @@ faq:
     resposta: "Vale, e é o melhor investimento antes de assinar. No Tracker 1.2, o profissional verifica o histórico de troca de óleo do motor turbo e testa a coluna de direção elétrica. No T-Cross mais antigo (pré-2022), ele testa o comportamento do câmbio DSG em tráfego lento e lê os códigos de falha armazenados. Em versões pós-2022 com câmbio Aisin, o foco vai para a integridade do motor TSI e para possíveis falhas eletrônicas nos módulos. Ambos os modelos têm pontos específicos que um test drive casual não revela."
 relacionados:
   - titulo: "Tracker vs T-Cross: qual SUV compacto comprar?"
-    url: "/guias/comparativos/tracker-vs-t-cross/"
+    url: "/guia-de-compra/comparativos/tracker-vs-t-cross/"
   - titulo: "Creta vs T-Cross: comparativo completo"
-    url: "/guias/comparativos/creta-vs-t-cross/"
+    url: "/guia-de-compra/comparativos/creta-vs-t-cross/"
 fontes:
   - titulo: "Inmetro - Programa Brasileiro de Etiquetagem Veicular"
     url: "https://www.inmetro.gov.br/consumidor/pbe/veiculos_leves.asp"

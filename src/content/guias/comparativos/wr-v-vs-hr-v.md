@@ -1,4 +1,4 @@
----
+﻿---
 title: "WR-V vs HR-V: qual Honda SUV vale mais?"
 description: "WR-V 1.5 Touring ou HR-V 1.5 Turbo EX? Comparamos motor, espaço, custo e equipamentos para você decidir com segurança entre os dois Honda."
 marca: "Comparativo"
@@ -6,8 +6,7 @@ modelo: "WR-V vs HR-V"
 kicker: "GUIA DE COMPRA · DECISÃO"
 veredito: "WR-V para quem quer custo menor e praticidade urbana. HR-V Turbo para quem precisa de mais potência, espaço interno e status de SUV maior dentro da mesma marca."
 autor:
-  nome: "Equipe Hachiroku"
-  credencial: "Redação técnica automotiva"
+  nome: "Redação Hachiroku"
 pubDate: 2026-06-21
 updatedDate: 2026-06-21
 disclaimer: "Preços e especificações referentes a 2025-2026."
@@ -79,11 +78,11 @@ faq:
     resposta: "O HR-V tem histórico de revenda mais consolidado no Brasil. O WR-V na configuração atual é mais recente, e seu valor de revenda ainda não tem série histórica longa. Em termos de marca e percepção de mercado, o HR-V tende a reter valor com mais previsibilidade no curto prazo."
 relacionados:
   - titulo: "Honda HR-V vs Volkswagen T-Cross: qual SUV compacto vale mais?"
-    url: "/guias/comparativos/hr-v-vs-t-cross"
+    url: "/guia-de-compra/comparativos/hr-v-vs-t-cross"
   - titulo: "Nissan Kicks vs Hyundai Creta: comparativo completo"
-    url: "/guias/comparativos/kicks-vs-creta"
+    url: "/guia-de-compra/comparativos/kicks-vs-creta"
   - titulo: "Toyota Corolla Cross vs Honda HR-V"
-    url: "/guias/comparativos/corolla-cross-vs-hr-v"
+    url: "/guia-de-compra/comparativos/corolla-cross-vs-hr-v"
 draft: false
 ---
 

@@ -1,5 +1,5 @@
----
-title: "Bomba d'água do VW Polo 1.0 TSI: falha prematura entre 80 e 120 mil km"
+﻿---
+title: "Bomba d'água do VW Polo 1.0 TSI"
 description: "A bomba d'água plástica do VW Polo 1.0 TSI (EA211) falha entre 80 e 120 mil km e causa superaquecimento repentino. Conheça os sintomas, as causas, o custo do reparo e como agir antes de fundir o motor."
 entidade:
   marca: "Volkswagen"
@@ -17,8 +17,7 @@ entidadesEssenciais:
   - "válvulas termostáticas integradas"
   - "cabeçote de alumínio"
 autor:
-  nome: "Equipe Hachiroku"
-  credencial: "Redação técnica automotiva"
+  nome: "Redação Hachiroku"
 pubDate: 2026-06-21
 updatedDate: 2026-06-21
 disclaimer: "A troca da bomba d'água do motor EA211 envolve o sistema de arrefecimento sob pressão e exige sangria correta do ar do circuito. Rodar com o motor superaquecido pode causar danos graves e irreversíveis. Este conteúdo é informativo: confie a execução a um profissional qualificado e use sempre o líquido de arrefecimento na especificação exata do manual do seu ano."

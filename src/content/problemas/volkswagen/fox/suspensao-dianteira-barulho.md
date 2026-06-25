@@ -1,5 +1,5 @@
----
-title: "Barulho na Suspensão Dianteira do VW Fox 1.6 MI: Causas e Como Diagnosticar"
+﻿---
+title: "Barulho na Suspensão Dianteira do VW Fox 1.6 MI"
 description: "Estalo, folga ou batida na suspensão dianteira do VW Fox 1.6 MI? Saiba identificar bieleta, coxim, bucha e pivô com este guia técnico completo. (155 chars)"
 entidade:
   marca: "Volkswagen"
@@ -11,8 +11,7 @@ kicker: "DEFEITO CRÔNICO"
 intencao: "Diagnóstico"
 entidadesEssenciais: ["VW Fox", "suspensão McPherson", "bieleta da barra estabilizadora"]
 autor:
-  nome: "Equipe Técnica Hachiroku"
-  credencial: ""
+  nome: "Redação Hachiroku"
 pubDate: 2026-06-20
 updatedDate: 2026-06-20
 disclaimer: "As informações deste artigo têm caráter educativo. Sempre consulte um mecânico habilitado para diagnóstico e reparo. Custos são estimativas de mercado e podem variar por região e fornecedor."

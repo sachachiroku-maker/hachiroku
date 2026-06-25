@@ -1,5 +1,5 @@
----
-title: "Ficha técnica do Volkswagen Taos Comfortline 1.4 TSI 2023 (automático)"
+﻿---
+title: "Ficha técnica do Volkswagen Taos Comfortline 1.4 TSI 2023"
 description: "Ficha técnica completa do VW Taos Comfortline 1.4 TSI 2023: motor 1.4 turbo EA211 de 150 cv, torque de 25,5 kgfm, câmbio automático de 6 marchas AQ250, 498 litros de porta-malas e suspensão traseira multibraço. Dados verificados e pontos de atenção do SUV compacto da VW."
 marca: "Volkswagen"
 modelo: "Taos"

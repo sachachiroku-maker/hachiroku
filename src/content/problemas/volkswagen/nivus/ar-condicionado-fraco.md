@@ -1,5 +1,5 @@
----
-title: "Volkswagen Nivus com Ar-Condicionado Fraco: Diagnóstico Completo do 1.0 TSI"
+﻿---
+title: "Volkswagen Nivus com Ar-Condicionado Fraco"
 description: "Ar-condicionado fraco no Nivus 1.0 TSI tem causas específicas do teto coupê. Saiba diagnosticar gás, compressor, filtro e condensador passo a passo."
 entidade:
   marca: "Volkswagen"
@@ -11,8 +11,7 @@ kicker: "DEFEITO CRÔNICO"
 intencao: "Diagnóstico"
 entidadesEssenciais: ["Volkswagen Nivus", "ar-condicionado fraco", "1.0 TSI"]
 autor:
-  nome: "Equipe Técnica Hachiroku"
-  credencial: ""
+  nome: "Redação Hachiroku"
 pubDate: 2026-06-20
 updatedDate: 2026-06-20
 disclaimer: "As informações deste artigo têm caráter educativo. Serviços em sistemas de ar-condicionado envolvem fluido refrigerante sob pressão. Consulte um técnico certificado para diagnóstico e reparo."

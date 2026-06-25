@@ -1,5 +1,5 @@
----
-title: "Câmbio automático com trancos no Chevrolet Tracker turbo: sintomas, causas, a troca de óleo que a GM esconde e quanto custa"
+﻿---
+title: "Câmbio automático com trancos no Chevrolet Tracker turbo"
 description: "O câmbio automático de 6 marchas do Chevrolet Tracker turbo dá trancos, demora para engatar e patina, sobretudo a quente. A causa quase sempre é o fluido vencido num câmbio que a GM trata como selado. Veja sintomas, causas, diagnóstico, custo e como prevenir antes da fatura grande."
 entidade:
   marca: "Chevrolet"
@@ -16,8 +16,7 @@ entidadesEssenciais:
   - "câmbio GF6"
   - "troca de óleo do câmbio"
 autor:
-  nome: "Equipe Técnica Hachiroku"
-  credencial: ""
+  nome: "Redação Hachiroku"
 pubDate: 2026-06-19
 updatedDate: 2026-06-19
 disclaimer: "O diagnóstico e a manutenção do câmbio automático do Tracker exigem scanner, ferramenta específica e fluido na especificação exata da GM. Não é serviço de garagem para iniciantes. Este conteúdo é informativo: confie a inspeção e o reparo a um profissional qualificado e, se o carro estiver na garantia, registre tudo na rede autorizada."

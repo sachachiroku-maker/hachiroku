@@ -1,11 +1,10 @@
----
+﻿---
 title: "Câmbio DCT do Haval H6 dá solavanco na aceleração"
 pubDate: 2026-06-21
 updatedDate: 2026-06-21
 draft: false
 autor:
-  nome: "Equipe Hachiroku"
-  credencial: "Redação técnica automotiva"
+  nome: "Redação Hachiroku"
 
 entidade:
   marca: "GWM"

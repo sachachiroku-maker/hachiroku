@@ -1,5 +1,5 @@
----
-title: "Barulho Metálico a Frio no Motor 1.6 HR16DE do Nissan Versa: Normal ou Defeito?"
+﻿---
+title: "Barulho Metálico a Frio no Motor 1.6 HR16DE do Nissan Versa"
 description: "Nissan Versa 2013-2020 faz barulho metálico nos primeiros segundos após o arranque? Entenda o que é normal no HR16DE e quando é hora de agir. (155 chars)"
 entidade:
   marca: "Nissan"
@@ -16,8 +16,7 @@ entidadesEssenciais:
   - "Óleo 5W30"
   - "Nissan Versa 2ª geração"
 autor:
-  nome: "Equipe Técnica Hachiroku"
-  credencial: ""
+  nome: "Redação Hachiroku"
 pubDate: 2026-06-20
 updatedDate: 2026-06-20
 disclaimer: "As informações deste artigo têm caráter educativo. Diagnósticos definitivos devem ser feitos por mecânico qualificado com o veículo em mãos."

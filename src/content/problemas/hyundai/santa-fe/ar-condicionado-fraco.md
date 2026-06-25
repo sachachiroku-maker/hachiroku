@@ -1,5 +1,5 @@
----
-title: "Ar-condicionado fraco no Hyundai Santa Fe 3.5 V6: diagnóstico completo"
+﻿---
+title: "Ar-condicionado fraco no Hyundai Santa Fe 3.5 V6"
 description: "Santa Fe 3.5 V6 com A/C fraco? Veja as causas do ar frio insuficiente, como diagnosticar e o que trocar. Guia técnico completo para 7 lugares."
 entidade:
   marca: "Hyundai"
@@ -11,8 +11,7 @@ kicker: "DEFEITO CRÔNICO"
 intencao: "Diagnóstico"
 entidadesEssenciais: ["Hyundai Santa Fe", "ar-condicionado automotivo", "compressor de A/C", "condensador automotivo", "R134a"]
 autor:
-  nome: "Equipe Técnica Hachiroku"
-  credencial: ""
+  nome: "Redação Hachiroku"
 pubDate: 2026-06-20
 updatedDate: 2026-06-20
 disclaimer: "As informações deste artigo têm caráter educativo. Serviços de ar-condicionado automotivo envolvem gás refrigerante sob pressão e requerem equipamento homologado. Sempre consulte um profissional habilitado."

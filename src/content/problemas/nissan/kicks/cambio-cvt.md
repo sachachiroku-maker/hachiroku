@@ -1,5 +1,5 @@
----
-title: "Câmbio CVT do Nissan Kicks: sintomas, manutenção e o erro que custa caro"
+﻿---
+title: "Câmbio CVT do Nissan Kicks: sintomas, manutenção e o erro"
 description: "O câmbio CVT do Nissan Kicks 1.6 é o problema crônico mais relatado do SUV: trepidação, patinação, perda de força e até quebra do conjunto, às vezes com pouca quilometragem. Veja os sintomas, por que a troca do fluido do CVT no intervalo certo é decisiva, quanto custa o reparo e o que verificar antes de comprar um Kicks usado."
 entidade:
   marca: "Nissan"
@@ -18,8 +18,7 @@ entidadesEssenciais:
   - "modo de segurança (limp mode)"
   - "intervalo de troca do fluido"
 autor:
-  nome: "Equipe Técnica Hachiroku"
-  credencial: ""
+  nome: "Redação Hachiroku"
 pubDate: 2026-06-19
 updatedDate: 2026-06-19
 disclaimer: "O diagnóstico e o reparo do câmbio CVT exigem scanner específico, ferramentas e leitura de temperatura do fluido do câmbio. Não é um serviço de garagem para iniciantes. Este conteúdo é informativo: confie a execução a um profissional qualificado em transmissões CVT e use sempre o fluido na especificação exata do manual do seu ano."

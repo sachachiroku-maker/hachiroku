@@ -1,13 +1,12 @@
----
-title: "Onix ou HB20? O comparativo honesto dos dois hatches mais vendidos do Brasil"
+﻿---
+title: "Onix ou HB20? O comparativo honesto dos dois hatches mais"
 description: "Chevrolet Onix x Hyundai HB20: motor, consumo, espaço, os defeitos crônicos de cada um (a correia do Onix, a embreagem do HB20), custo de manutenção e revenda. Veja qual faz sentido para o seu perfil antes de assinar a proposta."
 marca: "Comparativo"
 modelo: "Onix vs HB20"
 kicker: "GUIA DE COMPRA · DECISÃO"
 veredito: "Não existe um vencedor único: existe o carro certo para o seu perfil. Se a prioridade é economia de combustível, motor com mais fôlego e revenda fácil em qualquer cidade, o Onix leva vantagem, desde que você cuide do óleo religiosamente por causa da correia banhada a óleo. Se a prioridade é garantia longa (5 anos), revisão mais barata, melhor acabamento e isolamento acústico, o HB20 é a escolha mais confortável, com a ressalva de ficar de olho no atuador de embreagem nas versões manuais. Em resumo: Onix para quem roda muito e quer custo de combustível baixo; HB20 para quem quer tranquilidade de garantia e rodar mais silencioso."
 autor:
-  nome: "Equipe Técnica Hachiroku"
-  credencial: ""
+  nome: "Redação Hachiroku"
 pubDate: 2026-06-19
 updatedDate: 2026-06-19
 disclaimer: "Este comparativo orienta a decisão de compra, mas não substitui um test drive nas duas opções nem, no caso de usados, uma vistoria cautelar e avaliação mecânica presencial. Números de consumo e potência seguem dados oficiais e de imprensa especializada de 2025-2026 e podem variar conforme versão, ano e condição de uso."

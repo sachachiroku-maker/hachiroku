@@ -1,5 +1,5 @@
----
-title: "Como Trocar as Velas de Ignição: Guia Completo para Iridium, Platina e Cobre"
+﻿---
+title: "Como Trocar as Velas de Ignição"
 description: "Aprenda a trocar velas de ignição iridium, platina e cobre com torque correto, gap ideal e sem erros. Guia passo a passo para qualquer motor."
 kicker: "MÃO NA MASSA"
 veiculo: "universal"
@@ -33,8 +33,7 @@ passos:
   - nome: "Reinstale as bobinas e limpe os terminais"
     texto: "Aplique uma fina camada de graxa dielétrica no interior do capuchon da bobina ou no terminal do cabo de vela. Isso protege o contato elétrico contra umidade e facilita a remoção futura. Reencaixe a bobina, recoloque o parafuso de fixação e reconecte o conector elétrico até ouvir o clique de travamento. Repita para todos os cilindros. Ligue o motor e verifique se há tranco, vibração ou luz de falha no painel."
 autor:
-  nome: "Equipe Técnica Hachiroku"
-  credencial: ""
+  nome: "Redação Hachiroku"
 pubDate: 2026-06-20
 updatedDate: 2026-06-20
 disclaimer: "As especificações de torque e gap variam conforme o motor. Consulte sempre o manual do proprietário ou a tabela do fabricante das velas antes de iniciar o serviço. Este guia tem finalidade educativa e não substitui a avaliação de um mecânico habilitado."

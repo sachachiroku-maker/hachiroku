@@ -1,11 +1,10 @@
----
+﻿---
 title: "Sensor Blind Spot Corolla Cross XRX: alarme falso"
 pubDate: 2026-06-21
 updatedDate: 2026-06-21
 draft: false
 autor:
-  nome: "Equipe Hachiroku"
-  credencial: "Redação técnica automotiva"
+  nome: "Redação Hachiroku"
 entidade:
   marca: "Toyota"
   modelo: "Corolla Cross XRX 2.0"
@@ -63,7 +62,7 @@ relacionados:
   - titulo: "Freio automático de emergência com acionamento indevido no Corolla Cross"
     url: "/problemas/toyota/corolla-cross/freio-emergencia-acionamento-indevido"
   - titulo: "Toyota Safety Sense: como funciona e limitações do sistema"
-    url: "/guias/toyota/toyota-safety-sense-como-funciona"
+    url: "/guia-de-compra/toyota/toyota-safety-sense-como-funciona"
 ---
 
 O **sensor de monitoramento de ponto cego** (BSM, do inglês Blind Spot Monitor) do Toyota Corolla Cross XRX 2.0 com Toyota Safety Sense apresenta um problema recorrente relatado por proprietários: o alarme dispara sem nenhum veículo ao lado ou fica permanentemente ativado, com o ícone laranja piscando no espelho lateral mesmo em vias desertas.

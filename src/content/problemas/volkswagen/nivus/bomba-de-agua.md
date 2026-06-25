@@ -1,5 +1,5 @@
----
-title: "Bomba d'água do VW Nivus 1.0 TSI: o vazamento que some o líquido e ferve o motor"
+﻿---
+title: "Bomba d'água do VW Nivus 1.0 TSI"
 description: "A bomba d'água do VW Nivus 1.0 TSI (motor EA211) é um módulo plástico com termostatos integrados. A carcaça pode trincar e vazar, sumindo o líquido de arrefecimento e levando o motor de alumínio ao superaquecimento. Veja os sintomas, o ruído de água borbulhando no painel, o reparo, o custo e como prevenir."
 entidade:
   marca: "Volkswagen"
@@ -18,8 +18,7 @@ entidadesEssenciais:
   - "superaquecimento do motor"
   - "correia poly-V"
 autor:
-  nome: "Equipe Técnica Hachiroku"
-  credencial: ""
+  nome: "Redação Hachiroku"
 pubDate: 2026-06-19
 updatedDate: 2026-06-19
 disclaimer: "O reparo da bomba d'água do motor EA211 envolve o sistema de arrefecimento sob pressão e exige sangria correta do ar do circuito. Rodar com o motor superaquecido pode causar danos graves e irreversíveis. Este conteúdo é informativo: confie a execução a um profissional qualificado e use sempre o líquido de arrefecimento na especificação exata do manual do seu ano."

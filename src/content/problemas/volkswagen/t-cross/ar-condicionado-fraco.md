@@ -1,5 +1,5 @@
----
-title: "T-Cross com Ar-Condicionado Fraco: Diagnóstico Completo do 1.0 e 1.4 TSI"
+﻿---
+title: "T-Cross com Ar-Condicionado Fraco"
 description: "T-Cross com A/C fraco? O 1.0 TSI vibra e resseca O-rings de gás. Saiba como diagnosticar e resolver antes de perder o gás por completo. (155 chars)"
 entidade:
   marca: "Volkswagen"
@@ -11,8 +11,7 @@ kicker: "DEFEITO CRÔNICO"
 intencao: "Diagnóstico"
 entidadesEssenciais: ["Volkswagen T-Cross", "ar-condicionado automotivo", "O-ring de mangueira de gás refrigerante"]
 autor:
-  nome: "Equipe Técnica Hachiroku"
-  credencial: ""
+  nome: "Redação Hachiroku"
 pubDate: 2026-06-20
 updatedDate: 2026-06-20
 disclaimer: "Este artigo tem finalidade informativa. A recarga de gás refrigerante e a substituição de componentes do sistema de A/C devem ser realizadas por profissional certificado com equipamento homologado. A manipulação incorreta de gás refrigerante é ilegal e perigosa."

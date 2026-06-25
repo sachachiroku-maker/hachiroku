@@ -1,4 +1,4 @@
----
+﻿---
 title: "Correia dentada do Onix turbo: quando trocar e o risco real"
 description: "A correia dentada do Chevrolet Onix 1.0 turbo é banhada a óleo e dura 240 mil km, mas o óleo fora da especificação Dexos pode esfarelá-la antes dos 50 mil. Veja quando trocar, sintomas, custo, a garantia GM de 240 mil km e por que o Onix de 1ª geração (correia seca) não tem esse problema."
 entidade:
@@ -18,8 +18,7 @@ entidadesEssenciais:
   - "240 mil km"
   - "intervalo de troca"
 autor:
-  nome: "Equipe Técnica Hachiroku"
-  credencial: ""
+  nome: "Redação Hachiroku"
 pubDate: 2026-06-18
 updatedDate: 2026-06-18
 disclaimer: "A troca da correia banhada a óleo do Onix é um procedimento complexo, com o motor parcialmente aberto. Não é um serviço de garagem para iniciantes. Este conteúdo é informativo: confie a execução a um profissional qualificado e use sempre o óleo na especificação exata do manual do seu ano."

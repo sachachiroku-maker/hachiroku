@@ -1,4 +1,4 @@
----
+﻿---
 title: "Volkswagen Taos usado: vale a pena comprar em 2026?"
 description: "Guia técnico completo do VW Taos usado: pontos de inspeção, defeitos conhecidos do DSG e do motor 1.4 TSI, e o que verificar antes de comprar."
 marca: "Volkswagen"
@@ -6,8 +6,7 @@ modelo: "Taos"
 kicker: "GUIA DE COMPRA"
 veredito: "Vale a pena com ressalvas: acabamento premium e espaço interno são trunfos reais, mas o DSG e o motor 1.4 TSI exigem histórico de manutenção rigoroso. Compra segura depende de laudo cautelar e leitura do OBD2."
 autor:
-  nome: "Equipe Técnica Hachiroku"
-  credencial: ""
+  nome: "Redação Hachiroku"
 pubDate: 2026-06-20
 updatedDate: 2026-06-20
 disclaimer: "Este guia orienta a inspeção, mas não substitui uma vistoria cautelar e uma avaliação mecânica presencial antes da compra."
@@ -58,11 +57,11 @@ faq:
     resposta: "Depende da prioridade. O Taos entrega acabamento interno superior e dinâmica mais refinada. O Compass tem mais espaço de carga e opções de motor (incluindo turbodiesel em versões mais antigas). Ambos exigem inspeção criteriosa, mas o DSG do Taos pede mais atenção que o câmbio do Compass."
 relacionados:
   - titulo: "Volkswagen Polo usado: vale a pena?"
-    url: "/guias/usados/polo-usado-vale-a-pena"
+    url: "/guia-de-compra/usados/polo-usado-vale-a-pena"
   - titulo: "Jeep Compass usado: vale a pena?"
-    url: "/guias/usados/compass-usado-vale-a-pena"
+    url: "/guia-de-compra/usados/compass-usado-vale-a-pena"
   - titulo: "Jeep Renegade usado: vale a pena?"
-    url: "/guias/usados/argo-usado-vale-a-pena"
+    url: "/guia-de-compra/usados/argo-usado-vale-a-pena"
 draft: false
 ---
 

@@ -1,5 +1,5 @@
----
-title: "Corrente de comando do Jeep Compass T270: o sincronismo que sai cedo e como evitar"
+﻿---
+title: "Corrente de comando do Jeep Compass T270"
 description: "A corrente de comando do motor 1.3 turbo flex T270 do Jeep Compass depende da pressão de óleo no esticador hidráulico, e há relatos de motor fora de ponto perto dos 60 mil km. Veja sintomas, qual Compass usa esse motor, diagnóstico, custo e como prevenir."
 entidade:
   marca: "Jeep"
@@ -18,8 +18,7 @@ entidadesEssenciais:
   - "pressão de óleo"
   - "motor fora de ponto"
 autor:
-  nome: "Equipe Técnica Hachiroku"
-  credencial: ""
+  nome: "Redação Hachiroku"
 pubDate: 2026-06-19
 updatedDate: 2026-06-19
 disclaimer: "A troca da corrente de comando do T270 e o ajuste do sincronismo são serviços que exigem ferramenta de travamento e leitura por osciloscópio. Não é serviço de garagem para iniciantes. Este conteúdo é informativo: confie a execução a um profissional qualificado e siga sempre o intervalo de óleo do manual do seu ano."

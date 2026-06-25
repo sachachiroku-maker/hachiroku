@@ -1,5 +1,5 @@
----
-title: "Nissan Frontier 2022+ com Ar-Condicionado Fraco: Diagnóstico Completo do YD25DDTi"
+﻿---
+title: "Nissan Frontier 2022+ com Ar-Condicionado Fraco"
 description: "Frontier nova geração com AC fraco? Saiba identificar condensador entupido, compressor variável com defeito e válvula de expansão com falha no diesel 2.5T."
 entidade:
   marca: "Nissan"
@@ -11,8 +11,7 @@ kicker: "DEFEITO CRÔNICO"
 intencao: "Diagnóstico"
 entidadesEssenciais: ["Nissan Frontier 2022", "ar-condicionado fraco diesel", "YD25DDTi AC falha"]
 autor:
-  nome: "Equipe Técnica Hachiroku"
-  credencial: ""
+  nome: "Redação Hachiroku"
 pubDate: 2026-06-20
 updatedDate: 2026-06-20
 disclaimer: "Este artigo tem finalidade educativa e informativa. O diagnóstico definitivo deve ser realizado por profissional habilitado com equipamentos adequados. A Equipe Hachiroku não se responsabiliza por intervenções realizadas sem supervisão técnica."

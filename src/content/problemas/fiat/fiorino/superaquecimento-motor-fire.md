@@ -1,5 +1,5 @@
----
-title: "Fiat Fiorino: Superaquecimento do Motor Fire 1.4 — Causas, Diagnóstico e Custo de Reparo"
+﻿---
+title: "Fiat Fiorino: Superaquecimento do Motor Fire 1.4 — Causas"
 description: "Motor Fire 1.4 do Fiorino superaquecendo? Termostato, bomba d'água, radiador entupido: descubra a causa certa e evite destruir a junta do cabeçote."
 entidade:
   marca: "Fiat"
@@ -16,8 +16,7 @@ entidadesEssenciais:
   - "Radiador de alumínio"
   - "Junta de cabeçote"
 autor:
-  nome: "Equipe Técnica Hachiroku"
-  credencial: ""
+  nome: "Redação Hachiroku"
 pubDate: 2026-06-20
 updatedDate: 2026-06-20
 disclaimer: "As faixas de preço indicadas são estimativas de mercado para 2025-2026 e podem variar conforme a região, o fornecedor e a mão de obra local. Consulte um mecânico de confiança para diagnóstico preciso antes de substituir peças."

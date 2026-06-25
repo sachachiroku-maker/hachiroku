@@ -1,4 +1,4 @@
----
+﻿---
 title: "Corrente de distribuição THP do Peugeot 2008 | Hachiroku"
 description: "O motor 1.6 THP 165 cv do Peugeot 2008 tem histórico documentado de estiramento prematuro da corrente de distribuição. Entenda os sintomas, as causas mecânicas e o que fazer antes que o motor sofra dano irreversível."
 entidade:
@@ -17,8 +17,7 @@ entidadesEssenciais:
   - "fase de comando"
   - "peugeot 2008"
 autor:
-  nome: "Equipe Hachiroku"
-  credencial: "Redação técnica automotiva"
+  nome: "Redação Hachiroku"
 pubDate: 2026-06-20
 updatedDate: 2026-06-20
 disclaimer: "Este conteúdo é informativo e diagnóstico. Qualquer ruído ou código de fase no motor 1.6 THP exige avaliação imediata por oficina especializada. Continuar dirigindo com corrente estirada pode resultar em dano total ao motor."

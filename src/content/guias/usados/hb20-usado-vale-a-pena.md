@@ -1,13 +1,12 @@
----
-title: "HB20 usado vale a pena? O que verificar antes de comprar (por geração)"
+﻿---
+title: "HB20 usado vale a pena? O que verificar antes de comprar"
 description: "O Hyundai HB20 usado tem fama de bem-acabado e de motor durável, mas o que inspecionar muda entre a 1ª e a 2ª geração. Veja o checklist completo, os defeitos crônicos de cada fase, as faixas de ano que valem a pena e o que dá para negociar."
 marca: "Hyundai"
 modelo: "HB20"
 kicker: "GUIA DE COMPRA"
 veredito: "Sim, o HB20 usado costuma valer a pena: é um popular bem-acabado, com motor de corrente de comando que dispensa a troca de correia dentada e tem boa revenda. Mas a inspeção certa muda conforme a geração. Na 1ª geração (2012 a 2019) o foco é o cilindro atuador da embreagem, o engate da marcha à ré e vazamentos de óleo. Na 2ª geração (2019 em diante) o ponto de atenção migra para o câmbio automático das versões turbo dos primeiros anos. Comprar sem checar isso é o caminho mais curto para uma conta de oficina."
 autor:
-  nome: "Equipe Técnica Hachiroku"
-  credencial: ""
+  nome: "Redação Hachiroku"
 pubDate: 2026-06-19
 updatedDate: 2026-06-19
 disclaimer: "Este guia orienta a inspeção, mas não substitui uma vistoria cautelar e uma avaliação mecânica presencial antes da compra. Em carro usado, sempre vale levar um profissional de confiança."

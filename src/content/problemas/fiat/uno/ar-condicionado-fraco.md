@@ -1,5 +1,5 @@
----
-title: "Fiat Uno Ar-Condicionado Fraco: Causas, Diagnóstico e Solução (Motor Fire 1.0/1.4)"
+﻿---
+title: "Fiat Uno Ar-Condicionado Fraco"
 description: "Ar-condicionado fraco no Fiat Uno Fire 1.0 e 1.4? Saiba as causas reais, como diagnosticar em casa e o que trocar antes de ir à oficina. (156 chars)"
 entidade:
   marca: "Fiat"
@@ -11,8 +11,7 @@ kicker: "DEFEITO CRÔNICO"
 intencao: "Diagnóstico"
 entidadesEssenciais: ["Fiat Uno", "compressor de ar-condicionado", "gás R134a", "filtro de cabine", "condensador", "válvula de expansão"]
 autor:
-  nome: "Equipe Técnica Hachiroku"
-  credencial: ""
+  nome: "Redação Hachiroku"
 pubDate: 2026-06-20
 updatedDate: 2026-06-20
 disclaimer: "As informações deste artigo têm caráter educativo. Procedimentos envolvendo gás refrigerante devem ser realizados por profissional certificado pelo IBAMA."

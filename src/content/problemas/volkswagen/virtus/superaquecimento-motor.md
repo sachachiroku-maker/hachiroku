@@ -1,5 +1,5 @@
----
-title: "Superaquecimento do motor Virtus 1.0 TSI: causa, sintomas e solução"
+﻿---
+title: "Superaquecimento do motor Virtus 1.0 TSI"
 description: "O Volkswagen Virtus 1.0 TSI pode superaquecer por falha da bomba d'água de plástico do motor EA211. Saiba quais são os sintomas, por que a peça falha, como diagnosticar e quais itens substituir para resolver o problema de forma definitiva."
 entidade:
   marca: "Volkswagen"
@@ -17,8 +17,7 @@ entidadesEssenciais:
   - "temperatura do motor Virtus"
   - "superaquecimento turbo TSI"
 autor:
-  nome: "Equipe Hachiroku"
-  credencial: "Redação técnica automotiva"
+  nome: "Redação Hachiroku"
 pubDate: 2026-06-21
 updatedDate: 2026-06-21
 disclaimer: "As informações deste artigo são de caráter técnico e educativo. O diagnóstico definitivo de superaquecimento exige avaliação presencial por profissional habilitado. Nunca continue dirigindo com o motor superaquecido."

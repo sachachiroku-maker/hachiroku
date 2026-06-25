@@ -1,4 +1,4 @@
----
+﻿---
 title: "Jeep Compass usado vale a pena? O que checar"
 description: "Guia de compra do Jeep Compass usado: checklist completo com os pontos críticos a inspecionar na corrente T270, câmbio automático e eletrônica antes de fechar negócio."
 kicker: "GUIA DE COMPRA · DECISÃO"
@@ -6,8 +6,7 @@ veredito: "Vale, com ressalvas: inspecione a corrente de distribuição T270 (ga
 pubDate: 2026-06-21
 updatedDate: 2026-06-21
 autor:
-  nome: "Equipe Hachiroku"
-  credencial: "Redação técnica automotiva"
+  nome: "Redação Hachiroku"
 checklist:
   - item: "Corrente de distribuição T270"
     detalhe: "pergunte se já foi trocada. No motor 2.0 Flex (gasolina), o kit falha entre 60 mil e 90 mil km. Custo de reparo: R$ 1.800 a R$ 3.200 em mão de obra + peças."

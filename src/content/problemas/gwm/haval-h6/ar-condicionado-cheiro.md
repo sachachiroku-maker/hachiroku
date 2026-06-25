@@ -1,4 +1,4 @@
----
+﻿---
 title: "Cheiro no Ar-Condicionado do GWM Haval H6 Supreme"
 description: "Ar-condicionado do Haval H6 Supreme cheira mal ao ligar? Saiba por que o evaporador dual-zone acumula fungo e como eliminar o odor de vez."
 entidade:
@@ -14,8 +14,7 @@ entidadesEssenciais:
   - "fungo no evaporador"
   - "filtro de cabine"
 autor:
-  nome: "Equipe Hachiroku"
-  credencial: "Redação técnica automotiva"
+  nome: "Redação Hachiroku"
 pubDate: 2026-06-21
 updatedDate: 2026-06-21
 disclaimer: "As informações deste artigo têm caráter educativo. Consulte uma concessionária GWM autorizada ou mecânico especializado antes de qualquer intervenção no sistema de climatização."

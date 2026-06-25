@@ -1,4 +1,4 @@
----
+﻿---
 title: "Como trocar filtro de combustível: passo a passo"
 description: "Aprenda como trocar o filtro de combustível do seu carro em casa com segurança. Passo a passo completo, ferramentas e dicas para economizar."
 pubDate: 2026-06-21
@@ -8,8 +8,7 @@ tempo: "30 a 60 minutos"
 dificuldade: "Intermediário"
 custoEstimado: "R$ 40 a R$ 180 (filtro + mão de obra)"
 autor:
-  nome: "Equipe Hachiroku"
-  credencial: "Redação técnica automotiva"
+  nome: "Redação Hachiroku"
 entidade:
   marca: "Universal"
   modelo: "Todos os modelos"

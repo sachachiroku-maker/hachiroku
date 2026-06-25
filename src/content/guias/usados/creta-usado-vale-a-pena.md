@@ -1,13 +1,12 @@
----
-title: "Hyundai Creta usado vale a pena? O que verificar antes de comprar (por geração)"
+﻿---
+title: "Hyundai Creta usado vale a pena? O que verificar antes de"
 description: "Creta usado vale a pena, mas a inspeção muda muito entre a 1ª e a 2ª geração. Confira os defeitos crônicos, o checklist completo e quando evitar."
 marca: "Hyundai"
 modelo: "Creta"
 kicker: "GUIA DE COMPRA"
 veredito: "O Creta usado vale a pena quando bem escolhido. A 1ª geração 1.6 automático (2016 a 2021) conservada é o ponto de entrada mais seguro: motor simples, câmbio direto e sem os riscos do DCT. A 2ª geração 1.0 turbo é mais moderna, mas pede monitoramento constante de óleo. O ponto de atenção número um em ambas as gerações é o câmbio: o DCT da versão Sport da 1ª geração tem histórico de problemas sérios e deve ser evitado sem laudo técnico."
 autor:
-  nome: "Equipe Técnica Hachiroku"
-  credencial: ""
+  nome: "Redação Hachiroku"
 pubDate: 2026-06-20
 updatedDate: 2026-06-20
 disclaimer: "Este guia orienta a inspeção, mas não substitui uma vistoria cautelar e uma avaliação mecânica presencial antes da compra."
@@ -64,7 +63,7 @@ relacionados:
   - titulo: "Ficha técnica do Hyundai Creta"
     url: "/ficha-tecnica/hyundai/creta/"
   - titulo: "HB20 usado vale a pena?"
-    url: "/guias/usados/hb20-usado-vale-a-pena/"
+    url: "/guia-de-compra/usados/hb20-usado-vale-a-pena/"
 draft: false
 ---
 

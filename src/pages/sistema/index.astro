@@ -1,0 +1,80 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { SISTEMAS } from '../../lib/sistemas';
+
+const site = 'https://hachiroku.com.br';
+const url  = `${site}/sistema/`;
+
+const jsonld = {
+  '@context': 'https://schema.org',
+  '@graph': [
+    {
+      '@type': 'BreadcrumbList',
+      '@id': `${url}#breadcrumb`,
+      itemListElement: [
+        { '@type': 'ListItem', position: 1, name: 'Início',    item: `${site}/` },
+        { '@type': 'ListItem', position: 2, name: 'Sistemas',  item: url },
+      ],
+    },
+    {
+      '@type': 'CollectionPage',
+      '@id': `${url}#webpage`,
+      name: 'Sistemas Mecânicos | Hachiroku',
+      description: 'Diagnósticos organizados por sistema mecânico: motor, câmbio, suspensão, freios, elétrica, arrefecimento e ar-condicionado.',
+      inLanguage: 'pt-BR',
+      isPartOf: { '@id': `${site}/#website` },
+      breadcrumb: { '@id': `${url}#breadcrumb` },
+      publisher: { '@id': `${site}/#organization` },
+    },
+    {
+      '@type': 'ItemList',
+      itemListElement: SISTEMAS.map((s, i) => ({
+        '@type': 'ListItem',
+        position: i + 1,
+        name: s.titulo,
+        url: `${url}${s.slug}/`,
+      })),
+    },
+  ],
+};
+---
+<BaseLayout
+  title="Sistemas Mecânicos | Hachiroku"
+  description="Diagnósticos organizados por sistema mecânico: motor, câmbio, suspensão, freios, elétrica, arrefecimento e ar-condicionado."
+  canonical={url}
+  type="website"
+>
+  <script type="application/ld+json" set:html={JSON.stringify(jsonld)} />
+
+  <section class="hero" style="padding-block:var(--space-16)">
+    <p class="kicker" style="color:var(--asphalt-300)">DIAGNÓSTICO POR SISTEMA</p>
+    <h1>Sistemas Mecânicos</h1>
+    <p class="tagline">Encontre o problema pelo sistema, não pela marca</p>
+  </section>
+
+  <nav class="breadcrumb" aria-label="Você está em">
+    <a href="/">Início</a> · <span>Sistemas</span>
+  </nav>
+
+  <section class="silos" aria-label="Sistemas disponíveis">
+    {SISTEMAS.map((s) => (
+      <a class="silo-card" href={`/sistema/${s.slug}/`}>
+        <h2>{s.nome}</h2>
+        <p>{s.resumo}</p>
+      </a>
+    ))}
+  </section>
+
+  <section class="prose" style="margin-top:var(--space-16)">
+    <h2>Como usar os diagnósticos por sistema</h2>
+    <p>
+      Se você ouviu um barulho mas não sabe de qual parte do carro vem, encontre o
+      sistema mais provável na lista acima. Cada página agrupa todos os diagnósticos
+      disponíveis no portal para aquele sistema, organizados por modelo.
+    </p>
+    <p>
+      Precisa buscar por marca ou modelo diretamente?
+      <a href="/problemas/">Ver todos os diagnósticos →</a>
+    </p>
+  </section>
+</BaseLayout>

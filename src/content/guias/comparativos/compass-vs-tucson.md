@@ -1,13 +1,12 @@
----
-title: "Jeep Compass vs Hyundai Tucson: qual SUV médio premium vale mais em 2025?"
+﻿---
+title: "Jeep Compass vs Hyundai Tucson"
 description: "Compass ou Tucson? Compare motor, câmbio, interior, defeitos e custo-benefício para decidir o melhor SUV médio de 2025. (158 chars)"
 marca: "Comparativo"
 modelo: "Jeep Compass vs Hyundai Tucson"
 kicker: "GUIA DE COMPRA · DECISÃO"
 veredito: "Tucson vence em interior e tecnologia; Compass vence em rede de assistência e preço de entrada. Escolha depende do quanto você valoriza sofisticação versus praticidade no dia a dia."
 autor:
-  nome: "Equipe Técnica Hachiroku"
-  credencial: ""
+  nome: "Redação Hachiroku"
 pubDate: 2026-06-20
 updatedDate: 2026-06-20
 disclaimer: "Preços e especificações referentes a 2025-2026."
@@ -52,11 +51,11 @@ faq:
     resposta: "Tucson tem interior mais espaçoso e acabamento mais premium, o que favorece conforto no uso familiar. Compass tem porta-malas ligeiramente maior nas versões mais comuns e rede de assistência mais acessível em cidades do interior. Para famílias em capitais, Tucson leva vantagem de conforto. Para quem mora em cidades médias, Compass oferece mais segurança na manutenção."
 relacionados:
   - titulo: "Renegade vs Compass: qual Jeep comprar com até R$150 mil?"
-    url: "/guias/comparativos/renegade-vs-compass"
+    url: "/guia-de-compra/comparativos/renegade-vs-compass"
   - titulo: "Tracker vs Creta: duelo dos SUVs compactos mais vendidos"
-    url: "/guias/comparativos/tracker-vs-creta"
+    url: "/guia-de-compra/comparativos/tracker-vs-creta"
   - titulo: "Creta vs T-Cross: qual SUV compacto tem melhor custo-benefício?"
-    url: "/guias/comparativos/creta-vs-t-cross"
+    url: "/guia-de-compra/comparativos/creta-vs-t-cross"
 draft: false
 ---
 

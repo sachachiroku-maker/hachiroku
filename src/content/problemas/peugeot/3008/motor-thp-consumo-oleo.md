@@ -1,4 +1,4 @@
----
+﻿---
 title: "Consumo de Óleo no Peugeot 3008 1.6 THP 165 cv"
 description: "Peugeot 3008 1.6 THP consome óleo excessivamente por desgaste nos anéis de pistão e retentores de válvula. Entenda as causas, como diagnosticar e quando revisar o motor."
 entidade:
@@ -14,8 +14,7 @@ entidadesEssenciais:
   - "óleo 5W30 PSA B71 2290"
   - "motor 1.6 THP Prince"
 autor:
-  nome: "Equipe Hachiroku"
-  credencial: "Redação técnica automotiva"
+  nome: "Redação Hachiroku"
 pubDate: 2026-06-21
 updatedDate: 2026-06-21
 disclaimer: "As informações deste artigo têm caráter educativo e de diagnóstico. Qualquer intervenção no motor deve ser realizada por profissional habilitado. Consulte sempre um mecânico de confiança antes de tomar decisões de reparo."

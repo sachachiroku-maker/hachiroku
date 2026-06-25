@@ -1,5 +1,5 @@
----
-title: "Solavancos no Câmbio 7DCT do GWM Haval H6: Diagnóstico e Solução"
+﻿---
+title: "Solavancos no Câmbio 7DCT do GWM Haval H6"
 description: "Haval H6 dá solavancos e trancos nas trocas de marcha? Entenda por que o câmbio 7DCT seco se comporta assim e como resolver de vez."
 entidade:
   marca: "GWM"
@@ -14,8 +14,7 @@ entidadesEssenciais:
   - "embreagem seca dupla"
   - "TCM (Transmission Control Module)"
 autor:
-  nome: "Equipe Técnica Hachiroku"
-  credencial: ""
+  nome: "Redação Hachiroku"
 pubDate: 2026-06-20
 updatedDate: 2026-06-20
 disclaimer: "As informações deste artigo têm caráter educativo. Sempre consulte uma concessionária autorizada GWM ou mecânico especializado antes de qualquer intervenção no câmbio do seu veículo."

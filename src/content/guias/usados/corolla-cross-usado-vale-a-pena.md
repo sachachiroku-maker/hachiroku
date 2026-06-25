@@ -1,13 +1,12 @@
----
-title: "Toyota Corolla Cross usado vale a pena? Guia completo por versão (Hybrid e Flex)"
+﻿---
+title: "Toyota Corolla Cross usado vale a pena? Guia completo por"
 description: "Corolla Cross usado vale a pena, mas versão Hybrid e Flex pedem inspeções distintas. Confira defeitos, checklist de compra e quando evitar o CVT."
 marca: "Toyota"
 modelo: "Corolla Cross"
 kicker: "GUIA DE COMPRA"
 veredito: "O Corolla Cross usado vale a pena para quem busca confiabilidade Toyota em carroceria SUV. A versão Hybrid é a mais eficiente do segmento (até 20 km/l), mas o compressor de A/C elétrico e o CVT do sistema híbrido elevam o custo de reparo se algo falhar. A versão Flex 2.0 CVT é mais barata de manter e tem peças mais acessíveis, mas entrega menos eficiência. Em ambas, o ponto crítico é o estado do câmbio CVT e o histórico de revisões na concessionária Toyota."
 autor:
-  nome: "Equipe Técnica Hachiroku"
-  credencial: ""
+  nome: "Redação Hachiroku"
 pubDate: 2026-06-20
 updatedDate: 2026-06-20
 disclaimer: "Este guia orienta a inspeção, mas não substitui uma vistoria cautelar e uma avaliação mecânica presencial antes da compra."
@@ -58,9 +57,9 @@ faq:
     resposta: "As revisões de rotina (óleo, filtro de ar, filtro de cabine e fluidos) ficam na faixa de R$ 600 a R$ 1.200 por revisão na rede Toyota, dependendo do intervalo. O freio regenerativo reduz o consumo de pastilhas, o que equilibra parte do custo extra. O risco está nas peças do sistema de alta tensão: compressor de A/C elétrico (R$ 4.000 a R$ 8.000), bateria de propulsão (R$ 8.000 a R$ 15.000 ou mais). Por isso, um exemplar com histórico completo e sem falhas no painel é muito mais importante no Hybrid do que em qualquer versão convencional."
 relacionados:
   - titulo: "Toyota Hilux usada vale a pena? Guia completo de compra"
-    url: "/guias/usados/hilux-usada-vale-a-pena"
+    url: "/guia-de-compra/usados/hilux-usada-vale-a-pena"
   - titulo: "Jeep Compass usado vale a pena? O que verificar antes de comprar"
-    url: "/guias/usados/compass-usado-vale-a-pena"
+    url: "/guia-de-compra/usados/compass-usado-vale-a-pena"
 draft: false
 ---
 

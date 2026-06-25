@@ -1,4 +1,4 @@
----
+﻿---
 title: "Pescador entupido no Onix turbo: luz de óleo e o que fazer"
 description: "No Onix 1.0 e 1.2 turbo, quando a correia banhada a óleo se desfaz, os fragmentos entopem o pescador da bomba de óleo e cortam a lubrificação do motor. Veja os sintomas da luz de óleo, o risco real, o intervalo de troca certo (Dexos 1 Gen 3) e como prevenir."
 entidade:
@@ -18,8 +18,7 @@ entidadesEssenciais:
   - "fragmentos da correia"
   - "motor CSS Prime"
 autor:
-  nome: "Equipe Técnica Hachiroku"
-  credencial: ""
+  nome: "Redação Hachiroku"
 pubDate: 2026-06-18
 updatedDate: 2026-06-18
 disclaimer: "Luz de óleo acesa é alerta crítico. Se ela acender, desligue o motor o quanto antes e não tente rodar até a oficina por conta própria: poucos quilômetros sem lubrificação podem fundir o motor. Este conteúdo é informativo e não substitui o diagnóstico de um mecânico."

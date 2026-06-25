@@ -1,5 +1,5 @@
----
-title: "Checklist para vistoria de carro usado: o que verificar antes de assinar"
+﻿---
+title: "Checklist para vistoria de carro usado"
 description: "Um guia completo com checklist visual para inspecionar documentação, funilaria, motor, elétrica, suspensão e freios antes de comprar um carro usado. Evite as armadilhas mais comuns."
 kicker: "GUIA DE COMPRA · DECISÃO"
 veredito: "Fazer a vistoria antes de assinar qualquer documento não é desconfiança, é procedimento básico. Carro usado esconde problemas que só aparecem com a inspeção certa: documentação com débitos ocultos, batidas escondidas embaixo de massa e óleo com cheiro de queimado que o vendedor esqueceu de mencionar. O checklist abaixo cobre os pontos que mais causam arrependimento pós-compra."
@@ -59,8 +59,7 @@ checklist:
     detalhe: "Em linha reta e piso plano, solte levemente o volante. O carro deve seguir reto. Desvio constante indica alinhamento, pneu ou suspensão."
     critico: false
 autor:
-  nome: "Equipe Técnica Hachiroku"
-  credencial: ""
+  nome: "Redação Hachiroku"
 pubDate: 2026-06-20
 updatedDate: 2026-06-20
 disclaimer: "Este checklist é um guia de inspeção pessoal e não substitui uma vistoria cautelar feita por empresa credenciada nem uma avaliação mecânica presencial por um profissional de confiança. Para carros acima de R$ 30 mil, o custo de um laudo cautelar é sempre compensado."
@@ -82,11 +81,11 @@ afiliados:
     programa: "amazon"
 relacionados:
   - titulo: "Onix usado vale a pena? O que verificar antes de comprar"
-    url: "/guias/usados/onix-usado-vale-a-pena/"
+    url: "/guia-de-compra/usados/onix-usado-vale-a-pena/"
   - titulo: "Como verificar o óleo do motor: nível, cor e quando trocar"
     url: "/manutencao/como-verificar-oleo-do-motor/"
   - titulo: "Consertar ou trocar: quando vale a pena manter o carro"
-    url: "/guias/consertar-ou-trocar-vale-a-pena/"
+    url: "/guia-de-compra/consertar-ou-trocar-vale-a-pena/"
 draft: false
 ---
 

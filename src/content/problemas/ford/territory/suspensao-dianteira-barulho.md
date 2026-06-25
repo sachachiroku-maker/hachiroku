@@ -1,4 +1,4 @@
----
+﻿---
 title: "Barulho na suspensão Ford Territory 1.5 EcoBoost"
 description: "Barulho e estrondo na suspensão dianteira do Ford Territory 1.5 EcoBoost. Bieleta estabilizadora e amortecedor com desgaste precoce: sintomas, causas e o que fazer."
 entidade:
@@ -15,8 +15,7 @@ entidadesEssenciais:
   - "Bieleta estabilizadora"
   - "Amortecedor dianteiro"
 autor:
-  nome: "Equipe Hachiroku"
-  credencial: "Redação técnica automotiva"
+  nome: "Redação Hachiroku"
 pubDate: 2026-06-21
 updatedDate: 2026-06-21
 disclaimer: "As informações deste artigo têm caráter educativo e não substituem o diagnóstico de um profissional qualificado. Sempre consulte um mecânico habilitado antes de realizar qualquer reparo na suspensão do veículo."

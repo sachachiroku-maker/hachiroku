@@ -1,4 +1,4 @@
----
+﻿---
 title: "Ficha técnica Ram Rampage Rebel 1.3 T270 2024"
 description: "Ficha técnica completa da Ram Rampage Rebel 1.3 T270 CVT 2024: motor, desempenho, consumo, dimensões e equipamentos."
 collection: fichas
@@ -12,8 +12,7 @@ updatedDate: 2026-06-21
 draft: false
 fonteDados: "Ram Brasil ficha técnica 2024"
 autor:
-  nome: "Equipe Hachiroku"
-  credencial: "Redação técnica automotiva"
+  nome: "Redação Hachiroku"
 
 motor:
   - k: "Tipo"

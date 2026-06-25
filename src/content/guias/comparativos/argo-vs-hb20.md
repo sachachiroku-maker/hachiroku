@@ -1,13 +1,12 @@
----
-title: "Fiat Argo vs Hyundai HB20: Qual Popular Moderno Dura Mais em 2025?"
+﻿---
+title: "Fiat Argo vs Hyundai HB20: Qual Popular Moderno Dura Mais"
 description: "Comparativo completo entre Fiat Argo e Hyundai HB20: motor, câmbio, confiabilidade, custo e veredito definitivo para quem vai comprar em 2025."
 marca: "Comparativo"
 modelo: "Argo vs HB20"
 kicker: "GUIA DE COMPRA · DECISÃO"
 veredito: "O Argo leva vantagem em eficiência e custo de manutenção; o HB20 turbo entrega mais desempenho e garantia mais longa. A escolha certa depende do seu uso."
 autor:
-  nome: "Equipe Técnica Hachiroku"
-  credencial: ""
+  nome: "Redação Hachiroku"
 pubDate: 2026-06-20
 updatedDate: 2026-06-20
 disclaimer: "Preços e especificações referentes a 2025-2026."
@@ -52,9 +51,9 @@ faq:
     resposta: "Use um scanner OBD2 em ambos antes de fechar negócio. No Argo, verifique o câmbio automático em versões pré-2021 (câmbio GSR com histórico de problemas). No HB20 automático, teste trancos em manobras lentas e peça histórico de software do câmbio."
 relacionados:
   - titulo: "Onix vs HB20: Qual Popular Vence no Custo-Benefício?"
-    url: "/guias/comparativos/onix-vs-hb20"
+    url: "/guia-de-compra/comparativos/onix-vs-hb20"
   - titulo: "Polo vs Virtus: Qual Volkswagen Popular Escolher?"
-    url: "/guias/comparativos/polo-vs-virtus"
+    url: "/guia-de-compra/comparativos/polo-vs-virtus"
 draft: false
 ---
 

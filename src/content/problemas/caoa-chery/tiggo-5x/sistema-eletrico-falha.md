@@ -1,4 +1,4 @@
----
+﻿---
 title: "Tiggo 5X Pro: falha no módulo Caoa Smart+ e barramento CAN"
 description: "O módulo central do Tiggo 5X Pro 1.5 TGDI pode reiniciar a tela Caoa Smart+ por interferência no barramento CAN. Saiba como identificar, diagnosticar e resolver."
 entidade:
@@ -16,8 +16,7 @@ entidadesEssenciais:
   - "reinicialização espontânea"
   - "falha de comunicação CAN"
 autor:
-  nome: "Equipe Hachiroku"
-  credencial: "Redação técnica automotiva"
+  nome: "Redação Hachiroku"
 pubDate: 2026-06-21
 updatedDate: 2026-06-21
 disclaimer: "As informações deste artigo têm caráter técnico e educativo. Intervenções no barramento CAN e na central eletrônica devem ser realizadas por técnico habilitado com scanner automotivo compatível. Não desconecte módulos com o veículo ligado."

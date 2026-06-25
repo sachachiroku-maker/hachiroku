@@ -1,5 +1,5 @@
----
-title: "Eletrônica do Kicks: multimídia que trava e sensor de estacionamento que falha"
+﻿---
+title: "Eletrônica do Kicks: multimídia que trava e sensor de"
 description: "Nissan Kicks com multimídia travando, Nissan Connect reiniciando sozinho e sensores de estacionamento com falso positivo. Entenda as causas, como atualizar o software e quando o módulo precisa ser trocado."
 entidade:
   marca: "Nissan"
@@ -21,8 +21,7 @@ entidadesEssenciais:
   - "canister"
   - "scanner OBD2"
 autor:
-  nome: "Equipe Técnica Hachiroku"
-  credencial: ""
+  nome: "Redação Hachiroku"
 pubDate: 2026-06-20
 updatedDate: 2026-06-20
 disclaimer: "Atualizações de software e resets de módulo no Nissan Kicks devem ser feitos por concessionária ou oficina autorizada para evitar perda de configuração do veículo. Este conteúdo é informativo."

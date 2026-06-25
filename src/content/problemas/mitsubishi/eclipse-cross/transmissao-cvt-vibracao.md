@@ -1,4 +1,4 @@
----
+﻿---
 title: "CVT Eclipse Cross 1.5 Turbo Vibra e Patina em Subidas"
 description: "O câmbio CVT do Mitsubishi Eclipse Cross 1.5 MIVEC Turbo vibra e patina em subidas e acelerações plenas por superaquecimento do variador. Veja causas e solução."
 entidade:
@@ -10,8 +10,7 @@ kicker: "DEFEITO DOCUMENTADO"
 intencao: "Diagnóstico"
 entidadesEssenciais: ["câmbio CVT", "variador CVT", "fluido Diamond ATF SP-III", "superaquecimento do câmbio", "patinação CVT", "modo de proteção"]
 autor:
-  nome: "Equipe Hachiroku"
-  credencial: "Redação técnica automotiva"
+  nome: "Redação Hachiroku"
 pubDate: 2026-06-21
 updatedDate: 2026-06-21
 disclaimer: "As informações deste artigo têm caráter educativo e diagnóstico. Custos indicados são estimativas de mercado e podem variar conforme região e estabelecimento. Consulte um especialista em transmissões antes de executar qualquer reparo."

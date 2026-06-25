@@ -1,4 +1,4 @@
----
+﻿---
 title: "Como trocar pastilhas de freio: passo a passo"
 description: "Troque pastilhas de freio em casa com segurança: ferramentas, 6 passos detalhados, tipos de pastilha e quando chamar um profissional."
 kicker: "HOW-TO · MANUTENÇÃO"
@@ -46,8 +46,7 @@ afiliados:
     programa: amazon
     cta: "Ver graxa"
 autor:
-  nome: "Equipe Hachiroku"
-  credencial: "Redação técnica automotiva"
+  nome: "Redação Hachiroku"
 pubDate: 2026-06-21
 updatedDate: 2026-06-21
 draft: false

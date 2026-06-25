@@ -1,13 +1,12 @@
----
-title: "VW Polo usado vale a pena? O que verificar no Polo TSI antes de comprar"
+﻿---
+title: "VW Polo usado vale a pena? O que verificar no Polo TSI"
 description: "O Volkswagen Polo da geração atual (2018 em diante, plataforma MQB) é um dos hatches mais desejados do mercado de usados. Mas cada motor pede uma inspeção diferente: 1.0 MPI, 200 TSI ou 1.4 TSI. Veja o checklist completo, os defeitos crônicos a checar e o que dá para negociar."
 marca: "Volkswagen"
 modelo: "Polo TSI"
 kicker: "GUIA DE COMPRA"
 veredito: "Sim, o Polo usado costuma valer a pena: dirigibilidade acima da média da categoria, motores turbo eficientes e cabine bem feita. Mas a inspeção certa depende do motor. No 1.0 MPI aspirado o foco é o desgaste normal e a manutenção em dia. Nos turbo (200 TSI, 170 TSI e o 1.4 TSI do GTS) o ponto número um é o histórico de óleo e a saúde da injeção direta. Comprar um TSI sem checar nível de óleo, luz EPC e carbonização é o caminho mais rápido para uma fatura cara."
 autor:
-  nome: "Equipe Técnica Hachiroku"
-  credencial: ""
+  nome: "Redação Hachiroku"
 pubDate: 2026-06-19
 updatedDate: 2026-06-19
 disclaimer: "Este guia orienta a inspeção, mas não substitui uma vistoria cautelar e uma avaliação mecânica presencial antes da compra. Em carro usado, sempre vale levar um profissional de confiança e passar um scanner."

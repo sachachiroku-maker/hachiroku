@@ -1,5 +1,5 @@
----
-title: "Câmbio Easy'R do Renault Sandero: trancos, embreagem que gasta cedo e por que a Renault o aposentou"
+﻿---
+title: "Câmbio Easy'R do Renault Sandero"
 description: "O câmbio automatizado Easy'R do Renault Sandero 1.6 dá trancos nas trocas e tem fama de gastar a embreagem antes da hora, às vezes com menos da metade da quilometragem esperada. Entenda como ele funciona, os sintomas de desgaste, por que a Renault o descontinuou e a diferença para o CVT X-Tronic que veio depois."
 entidade:
   marca: "Renault"
@@ -18,8 +18,7 @@ entidadesEssenciais:
   - "CVT X-Tronic"
   - "desgaste precoce da embreagem"
 autor:
-  nome: "Equipe Técnica Hachiroku"
-  credencial: ""
+  nome: "Redação Hachiroku"
 pubDate: 2026-06-19
 updatedDate: 2026-06-19
 disclaimer: "Diagnóstico e troca de embreagem ou de atuadores do câmbio Easy'R são serviços de oficina especializada, com necessidade de calibração eletrônica após o reparo. Este conteúdo é informativo: confie a inspeção e o conserto a um profissional qualificado em câmbio automatizado Renault e use sempre peças e fluido na especificação do manual do seu ano."

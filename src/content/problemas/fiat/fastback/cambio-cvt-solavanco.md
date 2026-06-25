@@ -1,5 +1,5 @@
----
-title: "Solavanco no Câmbio CVT do Fiat Fastback: Causa, Solução e Custo"
+﻿---
+title: "Solavanco no Câmbio CVT do Fiat Fastback"
 description: "Fiat Fastback dá solavanco ao sair do stop ou em ultrapassagens? Entenda a causa no CVT T-Tronic AISIN, como resetar a adaptação e quando trocar o fluido."
 entidade:
   marca: "Fiat"
@@ -14,8 +14,7 @@ entidadesEssenciais:
   - "TCU (transmission control unit)"
   - "fluido CVT T-Tronic Fiat"
 autor:
-  nome: "Equipe Técnica Hachiroku"
-  credencial: ""
+  nome: "Redação Hachiroku"
 pubDate: 2026-06-20
 updatedDate: 2026-06-20
 disclaimer: "As informações deste artigo têm caráter orientativo. Diagnósticos definitivos e intervenções no câmbio devem ser realizados por profissional habilitado com equipamento de leitura adequado."

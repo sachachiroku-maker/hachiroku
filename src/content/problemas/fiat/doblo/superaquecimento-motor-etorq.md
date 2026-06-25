@@ -1,5 +1,5 @@
----
-title: "Fiat Doblo 1.8 E.torQ: Superaquecimento e Falha no Sistema de Arrefecimento"
+﻿---
+title: "Fiat Doblo 1.8 E.torQ: Superaquecimento e Falha no Sistema"
 description: "Diagnóstico completo do superaquecimento no Fiat Doblo 1.8 E.torQ: termostato, bomba d'água, radiador e junta do cabeçote. Causas, custos e como evitar."
 entidade:
   marca: "Fiat"
@@ -11,8 +11,7 @@ kicker: "DEFEITO CRÔNICO"
 intencao: "Diagnóstico"
 entidadesEssenciais: ["Fiat Doblo", "Motor E.torQ 1.8", "Sistema de Arrefecimento"]
 autor:
-  nome: "Equipe Técnica Hachiroku"
-  credencial: ""
+  nome: "Redação Hachiroku"
 pubDate: 2026-06-20
 updatedDate: 2026-06-20
 disclaimer: "As informações deste artigo têm caráter educativo e diagnóstico. Consulte sempre um mecânico habilitado antes de realizar qualquer intervenção no veículo."

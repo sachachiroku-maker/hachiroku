@@ -1,5 +1,5 @@
----
-title: "Câmbio automático do Peugeot 208 sola: AT6 e o solavanco em tráfego urbano"
+﻿---
+title: "Câmbio automático do Peugeot 208 sola"
 description: "O câmbio automático AT6 do Peugeot 208 apresenta solavancos documentados em tráfego de parada e arrancada. Saiba por que acontece, o que a Peugeot reconheceu e quando o reparo é necessário."
 entidade:
   marca: "Peugeot"
@@ -17,8 +17,7 @@ entidadesEssenciais:
   - "atualização de software"
   - "solavanco em baixa velocidade"
 autor:
-  nome: "Equipe Técnica Hachiroku"
-  credencial: ""
+  nome: "Redação Hachiroku"
 pubDate: 2026-06-20
 updatedDate: 2026-06-20
 disclaimer: "Este conteúdo é informativo. Solavancos que pioram abruptamente ou aparecem acompanhados de luz de avaria no painel devem ser avaliados por técnico autorizado Peugeot com acesso ao scanner Diagbox."

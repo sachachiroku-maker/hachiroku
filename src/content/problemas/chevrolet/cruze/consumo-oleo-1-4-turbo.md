@@ -1,5 +1,5 @@
----
-title: "Consumo de Óleo no Motor 1.4 Turbo do Chevrolet Cruze LTZ (2017 em diante)"
+﻿---
+title: "Consumo de Óleo no Motor 1.4 Turbo do Chevrolet Cruze LTZ"
 description: "Motor 1.4 turbo Ecotec do Cruze consome até 1L de óleo por 1.000 km. Entenda a causa, como diagnosticar e quanto custa resolver. (156 chars)"
 entidade:
   marca: "Chevrolet"
@@ -14,8 +14,7 @@ entidadesEssenciais:
   - "Motor Ecotec 1.4 turbo"
   - "Anéis de pistão de baixo atrito"
 autor:
-  nome: "Equipe Técnica Hachiroku"
-  credencial: ""
+  nome: "Redação Hachiroku"
 pubDate: 2026-06-20
 updatedDate: 2026-06-20
 disclaimer: "As informações técnicas deste artigo são baseadas em documentação de fabricante, relatos de proprietários e experiência de oficinas especializadas. Valores de reparo são estimativas para o Brasil em 2025-2026 e podem variar por região e oficina. Sempre consulte um mecânico qualificado antes de qualquer intervenção."

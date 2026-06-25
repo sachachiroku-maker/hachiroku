@@ -1,5 +1,5 @@
----
-title: "Câmbio CVT do Honda City: ruído, fluido e o erro que destrói a transmissão"
+﻿---
+title: "Câmbio CVT do Honda City: ruído, fluido e o erro que"
 description: "O câmbio CVT do Honda City é uma transmissão suave e econômica, mas sensível à manutenção: ruído na transmissão, trancos e até falha catastrófica aparecem nos relatos, principalmente em carros com fluido vencido. Veja os sintomas, os anos mais citados, por que a troca do fluido do CVT é inegociável, o custo de reparo e como comprar um City de CVT sem cair na fatura grande."
 entidade:
   marca: "Honda"
@@ -18,8 +18,7 @@ entidadesEssenciais:
   - "troca do fluido do CVT"
   - "falha catastrófica do câmbio"
 autor:
-  nome: "Equipe Técnica Hachiroku"
-  credencial: ""
+  nome: "Redação Hachiroku"
 pubDate: 2026-06-19
 updatedDate: 2026-06-19
 disclaimer: "A inspeção e o reparo do câmbio CVT exigem fluido específico, ferramentas e procedimento próprios. Este conteúdo é informativo: confie a troca do fluido e qualquer reparo da transmissão a um profissional qualificado e use sempre o fluido na especificação exata do manual do seu ano. Fluido errado ou nível incorreto está entre as causas de dano ao CVT."

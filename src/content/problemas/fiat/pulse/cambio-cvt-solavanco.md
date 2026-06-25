@@ -1,5 +1,5 @@
----
-title: "Solavanco no Câmbio CVT do Fiat Pulse: Causa, Solução e Custo"
+﻿---
+title: "Solavanco no Câmbio CVT do Fiat Pulse"
 description: "Fiat Pulse dá solavanco na arrancada ou tranco entre 20-40 km/h? Entenda a causa no CVT Jatco, quando o update de software resolve e o que fazer se persistir."
 entidade:
   marca: "Fiat"
@@ -14,8 +14,7 @@ entidadesEssenciais:
   - "TCM (transmission control module)"
   - "fluido Jatco NS-3"
 autor:
-  nome: "Equipe Técnica Hachiroku"
-  credencial: ""
+  nome: "Redação Hachiroku"
 pubDate: 2026-06-20
 updatedDate: 2026-06-20
 disclaimer: "As informações deste artigo têm caráter orientativo. Diagnósticos definitivos e intervenções no câmbio devem ser realizados por profissional habilitado com equipamento de leitura adequado."

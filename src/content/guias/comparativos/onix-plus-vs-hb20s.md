@@ -1,12 +1,11 @@
----
+﻿---
 collection: guias
 title: "Onix Plus vs HB20S: qual sedan compacto?"
 description: "Chevrolet Onix Plus 1.0 Turbo Premium ou Hyundai HB20S Platinum Plus 1.0 Turbo? Compare ficha técnica, equipamentos e custo-benefício."
 pubDate: 2026-06-21
 updatedDate: 2026-06-21
 autor:
-  nome: "Equipe Hachiroku"
-  credencial: "Redação técnica automotiva"
+  nome: "Redação Hachiroku"
 veredito: "Onix Plus para maior presença e CVT mais rápido. HB20S para 5 anos de garantia, visual moderno e custo de revisão menor."
 checklist:
   - item: "Motor 1.0 Turbo"

@@ -1,5 +1,5 @@
----
-title: "Renault Kwid consumindo óleo: quando o motor 1.0 SCe passa do normal"
+﻿---
+title: "Renault Kwid consumindo óleo: quando o motor 1.0 SCe passa"
 description: "Renault Kwid baixando óleo? O motor 1.0 SCe de 3 cilindros aparece em vários relatos de consumo excessivo, com laudos de concessionária acima do limite do manual. Veja o que é consumo aceitável, os sintomas que denunciam defeito, as causas mecânicas, o custo e como prevenir antes de fundir o motor."
 entidade:
   marca: "Renault"
@@ -16,8 +16,7 @@ entidadesEssenciais:
   - "válvula PCV"
   - "pesagem de óleo"
 autor:
-  nome: "Equipe Técnica Hachiroku"
-  credencial: ""
+  nome: "Redação Hachiroku"
 pubDate: 2026-06-19
 updatedDate: 2026-06-19
 disclaimer: "Consumo de óleo só vira diagnóstico com medição correta (nível na vareta, intervalos e quilometragem) e, quando preciso, com a pesagem de óleo feita pela concessionária. Este conteúdo orienta o que investigar; a confirmação depende de um profissional com o carro em mãos e do manual do seu ano. Procedimentos dentro da garantia devem passar pela rede autorizada Renault."

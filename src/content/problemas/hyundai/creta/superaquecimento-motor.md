@@ -1,4 +1,4 @@
----
+﻿---
 title: "Superaquecimento no Creta 1.0 T-GDi: termostato e radiador"
 description: "Motor do Hyundai Creta 1.0 T-GDi chega ao limite de temperatura no trânsito congestionado. Termostato emperrado ou radiador obstruído são as causas mais prováveis. Veja como diagnosticar e resolver."
 entidade:
@@ -15,8 +15,7 @@ entidadesEssenciais:
   - "temperatura do motor"
   - "superaquecimento"
 autor:
-  nome: "Equipe Hachiroku"
-  credencial: "Redação técnica automotiva"
+  nome: "Redação Hachiroku"
 pubDate: 2026-06-21
 updatedDate: 2026-06-21
 disclaimer: "Conteúdo informativo de diagnóstico. Superaquecimento pode causar danos graves ao motor e não deve ser ignorado. Confirme o ano-modelo exato do seu carro, verifique condições de garantia e eventuais campanhas diretamente em uma concessionária Hyundai antes de qualquer decisão."

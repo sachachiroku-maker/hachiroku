@@ -1,5 +1,5 @@
----
-title: "Solavancos no câmbio 7DCT do Hyundai Tucson NX4: causas e solução"
+﻿---
+title: "Solavancos no câmbio 7DCT do Hyundai Tucson NX4"
 description: "Tucson 1.6 T-GDI dá trancos nas trocas de marcha? Entenda por que o 7DCT de dupla embreagem seca faz isso e o que você pode exigir da concessionária."
 entidade:
   marca: "Hyundai"
@@ -14,8 +14,7 @@ entidadesEssenciais:
   - "câmbio 7DCT dupla embreagem seca"
   - "atualização TCM Hyundai"
 autor:
-  nome: "Equipe Técnica Hachiroku"
-  credencial: ""
+  nome: "Redação Hachiroku"
 pubDate: 2026-06-20
 updatedDate: 2026-06-20
 disclaimer: "As informações deste artigo têm caráter educativo. Diagnósticos definitivos e reparos devem ser realizados por profissional habilitado. Preços citados são estimativas de mercado para 2025-2026 e podem variar por região."

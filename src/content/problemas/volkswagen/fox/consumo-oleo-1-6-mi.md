@@ -1,5 +1,5 @@
----
-title: "VW Fox 1.6 MI: Consumo de Óleo no Motor EA111 (Guia de Diagnóstico)"
+﻿---
+title: "VW Fox 1.6 MI: Consumo de Óleo no Motor EA111 (Guia de"
 description: "Motor EA111 do Fox 1.6 consome óleo no etanol? Veja causas, sintomas e o que fazer antes de gastar R$5.000 na retífica. (154 chars)"
 entidade:
   marca: "Volkswagen"
@@ -11,8 +11,7 @@ kicker: "DEFEITO CRÔNICO"
 intencao: "Diagnóstico"
 entidadesEssenciais: ["VW Fox", "motor EA111 1.6", "consumo de óleo"]
 autor:
-  nome: "Equipe Técnica Hachiroku"
-  credencial: ""
+  nome: "Redação Hachiroku"
 pubDate: 2026-06-20
 updatedDate: 2026-06-20
 disclaimer: "As informações deste artigo têm caráter educativo e não substituem a avaliação de um mecânico habilitado. Custos e diagnósticos podem variar conforme a região e o estado do veículo."

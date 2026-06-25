@@ -1,0 +1,120 @@
+---
+import { getCollection, render } from 'astro:content';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+
+export async function getStaticPaths() {
+  const items = await getCollection('revisao', ({ data }) => !data.draft);
+  return items.map((entry) => ({ params: { slug: entry.id }, props: { entry } }));
+}
+const { entry } = Astro.props;
+const { Content } = await render(entry);
+const { title, description, kicker, marca, modelo, tabelaRevisao, custoEstimado, autor, pubDate, updatedDate, faq, relacionados } = entry.data;
+
+const site = 'https://hachiroku.com.br';
+const url  = `${site}/revisao/${entry.id}/`;
+
+const custoMatch = custoEstimado?.match(/(\d[\d.,]*)\s*[-–]\s*(\d[\d.,]*)/);
+const custoMin = custoMatch ? parseFloat(custoMatch[1].replace(',', '.')) : null;
+const custoMax = custoMatch ? parseFloat(custoMatch[2].replace(',', '.')) : null;
+
+const jsonld: Record<string, unknown>[] = [
+  {
+    '@type': 'BreadcrumbList',
+    '@id': `${url}#breadcrumb`,
+    itemListElement: [
+      { '@type': 'ListItem', position: 1, name: 'Início',  item: `${site}/` },
+      { '@type': 'ListItem', position: 2, name: 'Revisão', item: `${site}/revisao/` },
+      { '@type': 'ListItem', position: 3, name: title, item: url },
+    ],
+  },
+  {
+    '@type': 'HowTo',
+    '@id': `${url}#howto`,
+    name: title,
+    description,
+    inLanguage: 'pt-BR',
+    ...(custoEstimado && { estimatedCost: {
+      '@type': 'MonetaryAmount',
+      currency: 'BRL',
+      ...(custoMin !== null ? { minValue: custoMin, maxValue: custoMax ?? custoMin } : { value: custoEstimado }),
+    }}),
+    step: tabelaRevisao.map((t, i) => ({
+      '@type': 'HowToStep',
+      position: i + 1,
+      name: `Revisão aos ${t.km}`,
+      text: t.itens.join('; '),
+      itemListElement: t.itens.map((item) => ({ '@type': 'HowToDirection', text: item })),
+    })),
+    author: {
+      '@type': 'Person',
+      name: autor.nome,
+      ...(autor.credencial && { jobTitle: autor.credencial }),
+      ...(autor.sameAs     && { sameAs: autor.sameAs }),
+    },
+    publisher: { '@id': `${site}/#organization` },
+    datePublished: pubDate.toISOString(),
+    dateModified: (updatedDate ?? pubDate).toISOString(),
+  },
+];
+
+if (faq.length > 0) {
+  jsonld.push({
+    '@type': 'FAQPage',
+    '@id': `${url}#faq`,
+    mainEntity: faq.map((f) => ({
+      '@type': 'Question',
+      name: f.pergunta,
+      acceptedAnswer: { '@type': 'Answer', text: f.resposta },
+    })),
+  });
+}
+---
+<BaseLayout {title} {description} canonical={url}>
+  <script type="application/ld+json" set:html={JSON.stringify({ '@context': 'https://schema.org', '@graph': jsonld })} />
+  <article class="prose">
+    <nav class="breadcrumb" aria-label="Você está em">
+      <a href="/">Início</a> · <a href="/revisao/">Revisão</a> · <span>{marca} {modelo}</span>
+    </nav>
+    <header>
+      <p class="kicker">{kicker}</p>
+      <h1 class="article-title">{title}</h1>
+      <p class="lead"><strong>{description}</strong></p>
+    </header>
+
+    {tabelaRevisao.length > 0 && (
+      <section aria-label="Tabela de revisão">
+        <h2>Tabela de revisão — {marca} {modelo}</h2>
+        {tabelaRevisao.map((t) => (
+          <details>
+            <summary><strong>{t.km}</strong></summary>
+            <ul>
+              {t.itens.map((item) => <li>{item}</li>)}
+            </ul>
+          </details>
+        ))}
+      </section>
+    )}
+
+    <Content />
+
+    {faq.length > 0 && (
+      <section aria-label="Perguntas frequentes">
+        <h2>Perguntas frequentes</h2>
+        {faq.map((f) => (
+          <div class="faq-item">
+            <h3>{f.pergunta}</h3>
+            <p>{f.resposta}</p>
+          </div>
+        ))}
+      </section>
+    )}
+    {relacionados.length > 0 && (
+      <nav aria-label="Leia também">
+        <h2>Leia também</h2>
+        <ul>
+          {relacionados.map((r) => <li><a href={r.url}>{r.titulo}</a></li>)}
+        </ul>
+      </nav>
+    )}
+  </article>
+</BaseLayout>

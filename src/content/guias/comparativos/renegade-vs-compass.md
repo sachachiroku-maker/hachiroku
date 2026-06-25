@@ -1,4 +1,4 @@
----
+﻿---
 title: "Renegade vs Compass: qual Jeep vale mais?"
 description: "Renegade e Compass usam o mesmo motor 1.3 turbo T270, mas servem perfis opostos. Compare tamanho, custo, espaço e revenda e escolha com a cabeça."
 marca: "Comparativo"
@@ -6,8 +6,7 @@ modelo: "Renegade vs Compass"
 kicker: "COMPARATIVO DE DECISÃO"
 veredito: "Renegade para quem quer custo menor e desempenho urbano. Compass para família maior, mais conforto e reputação de mercado."
 autor:
-  nome: "Equipe Hachiroku"
-  credencial: "Redação técnica automotiva"
+  nome: "Redação Hachiroku"
 pubDate: 2026-06-21
 updatedDate: 2026-06-21
 disclaimer: "Este comparativo orienta a decisão de compra, mas não substitui um test drive nos dois modelos e, no caso de usados, uma vistoria cautelar com avaliação mecânica presencial. Preços, versões e condições de revenda variam por região e por momento de mercado."

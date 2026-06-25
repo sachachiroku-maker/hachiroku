@@ -1,5 +1,5 @@
----
-title: "Ar-condicionado da Hilux não gela: compressor e carga de R-134a"
+﻿---
+title: "Ar-condicionado da Hilux não gela"
 description: "Ar-condicionado da Toyota Hilux 2.8 diesel que não gela bem é causado por queda de eficiência do compressor e perda de carga de gás R-134a. Saiba identificar os sintomas, diagnosticar e resolver o problema antes que ele se agrave."
 entidade:
   marca: "Toyota"
@@ -18,8 +18,7 @@ entidadesEssenciais:
   - "embreagem do compressor"
   - "evaporador"
 autor:
-  nome: "Equipe Hachiroku"
-  credencial: "Redação técnica automotiva"
+  nome: "Redação Hachiroku"
 pubDate: 2026-06-21
 updatedDate: 2026-06-21
 disclaimer: "Este conteúdo é informativo e diagnóstico. A recarga de gás R-134a e a avaliação do compressor devem ser realizadas por profissional habilitado com equipamento certificado. Sistemas de ar-condicionado operam sob pressão elevada: manuseio sem treinamento pode causar ferimentos graves."

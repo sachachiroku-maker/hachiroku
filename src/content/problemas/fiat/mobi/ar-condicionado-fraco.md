@@ -1,4 +1,4 @@
----
+﻿---
 title: "Ar-condicionado do Mobi fraco ou quente: o que verificar"
 description: "O ar-condicionado do Fiat Mobi Firefly 1.0 que resfria mal ou para de gelar quase sempre tem causa no gas R134a baixo ou no filtro de cabine entupido. Veja como diferenciar AC fraco de AC que parou e o que verificar antes de trocar pecas."
 entidade:
@@ -19,8 +19,7 @@ entidadesEssenciais:
   - "evaporador"
   - "AC fraco"
 autor:
-  nome: "Equipe Técnica Hachiroku"
-  credencial: ""
+  nome: "Redação Hachiroku"
 pubDate: 2026-06-20
 updatedDate: 2026-06-20
 disclaimer: "O manuseio do gas refrigerante R134a requer equipamento especifico e certificacao ambiental. Nunca tente recarregar o gas sozinho sem diagnosticar o vazamento antes. Este conteudo e informativo; o servico de carga e manutencao do sistema de AC deve ser executado em oficina especializada."

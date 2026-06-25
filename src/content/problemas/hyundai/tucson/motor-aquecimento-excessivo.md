@@ -1,4 +1,4 @@
----
+﻿---
 title: "Hyundai Tucson 1.6 T-GDi: Motor Aquece no Trânsito Parado"
 description: "Tucson 1.6 T-GDi DCT com temperatura subindo ao amarelo em congestionamento. Causas, diagnóstico e solução passo a passo."
 entidade:
@@ -10,8 +10,7 @@ kicker: "ALERTA DE TEMPERATURA"
 intencao: "Diagnóstico"
 entidadesEssenciais: ["Radiador", "Bomba d'água", "Termostato", "Reservatório de expansão", "Ventoinha elétrica"]
 autor:
-  nome: "Equipe Hachiroku"
-  credencial: "Redação técnica automotiva"
+  nome: "Redação Hachiroku"
 pubDate: 2026-06-21
 updatedDate: 2026-06-21
 disclaimer: "Este artigo é informativo. Problemas no sistema de arrefecimento podem evoluir para danos graves ao motor. Interrompa o uso do veículo se a temperatura atingir a zona vermelha e consulte uma oficina especializada imediatamente."

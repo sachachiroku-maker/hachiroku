@@ -1,5 +1,5 @@
----
-title: "Consumo de óleo no motor EA211 do Jetta: causas, diagnóstico e custo"
+﻿---
+title: "Consumo de óleo no motor EA211 do Jetta"
 description: "O motor EA211 1.4 TSI do Volkswagen Jetta pode apresentar consumo de óleo acima do esperado, especialmente a partir dos 40 mil km. Entenda por que o Jetta sedã é mais exigente do que o Polo com o mesmo motor, como diagnosticar e quanto custa o reparo."
 entidade:
   marca: "Volkswagen"
@@ -21,8 +21,7 @@ entidadesEssenciais:
   - "Dexos"
   - "anel raspador"
 autor:
-  nome: "Equipe Técnica Hachiroku"
-  credencial: ""
+  nome: "Redação Hachiroku"
 pubDate: 2026-06-20
 updatedDate: 2026-06-20
 disclaimer: "Este conteúdo é informativo. O consumo de óleo no motor EA211 tem múltiplas causas possíveis. Consulte sempre um profissional qualificado para diagnóstico preciso antes de autorizar qualquer serviço. Os valores de custo são estimativas e variam por região e fornecedor."

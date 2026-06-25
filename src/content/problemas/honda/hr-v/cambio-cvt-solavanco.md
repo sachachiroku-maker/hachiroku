@@ -1,5 +1,5 @@
----
-title: "Honda HR-V: vibração e solavancos no câmbio CVT (motor 1.5 VTEC)"
+﻿---
+title: "Honda HR-V: vibração e solavancos no câmbio CVT (motor 1.5"
 description: "CVT do HR-V 2ª geração soluça ao sair do semáforo? Entenda as causas, como diagnosticar e quando trocar o fluido NS-3. (152 chars)"
 entidade:
   marca: "Honda"
@@ -11,8 +11,7 @@ kicker: "DEFEITO CRÔNICO"
 intencao: "Diagnóstico"
 entidadesEssenciais: ["câmbio CVT", "fluido NS-3", "correia Jatco"]
 autor:
-  nome: "Equipe Técnica Hachiroku"
-  credencial: ""
+  nome: "Redação Hachiroku"
 pubDate: 2026-06-20
 updatedDate: 2026-06-20
 disclaimer: "Este conteúdo é informativo. Sempre consulte um profissional habilitado antes de realizar qualquer intervenção no veículo."

@@ -1,5 +1,5 @@
----
-title: "Motor 1.5 do Honda WR-V com consumo de óleo: causas e o que fazer"
+﻿---
+title: "Motor 1.5 do Honda WR-V com consumo de óleo"
 description: "Motor 1.5 DI i-VTEC do Honda WR-V com consumo de óleo acima do normal é um problema compartilhado com o Civic 1.5 turbo. Veja as causas, como identificar o nível correto, e quando é necessário ir à concessionária."
 entidade:
   marca: "Honda"
@@ -22,8 +22,7 @@ entidadesEssenciais:
   - "troca de óleo"
   - "blowby"
 autor:
-  nome: "Equipe Técnica Hachiroku"
-  credencial: ""
+  nome: "Redação Hachiroku"
 pubDate: 2026-06-20
 updatedDate: 2026-06-20
 disclaimer: "Consumo de óleo excessivo pode indicar desgaste interno do motor. Este conteúdo é informativo. Para diagnóstico preciso, consulte uma oficina autorizada Honda."

@@ -1,5 +1,5 @@
----
-title: "Trocador de calor do câmbio AT6 do Fiat Cronos: o defeito silencioso que mistura água no óleo do câmbio"
+﻿---
+title: "Trocador de calor do câmbio AT6 do Fiat Cronos"
 description: "O câmbio automático AT6 (Aisin TF-72SC) do Fiat Cronos 1.8 E.torQ tem um ponto crônico: a falha do trocador de calor deixa o líquido de arrefecimento contaminar o fluido da transmissão, que fica leitoso. É um defeito silencioso que pode aparecer com pouca quilometragem e levar a um reparo que passa de R$ 20 mil. Veja sintomas, a causa, a prevenção aos 60 mil km e por que a inspeção é obrigatória no usado."
 entidade:
   marca: "Fiat"
@@ -18,8 +18,7 @@ entidadesEssenciais:
   - "motor 1.8 E.torQ"
   - "troca preventiva aos 60 mil km"
 autor:
-  nome: "Equipe Técnica Hachiroku"
-  credencial: ""
+  nome: "Redação Hachiroku"
 pubDate: 2026-06-19
 updatedDate: 2026-06-19
 disclaimer: "O diagnóstico do trocador de calor e a manutenção do câmbio AT6 exigem profissional especializado em transmissões automáticas. Este conteúdo é informativo: a inspeção do fluido, a verificação do trocador e a troca preventiva devem ser feitas por uma oficina qualificada, com o fluido na especificação exata do manual do seu ano."

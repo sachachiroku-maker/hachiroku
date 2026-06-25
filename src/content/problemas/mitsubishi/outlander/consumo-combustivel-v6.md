@@ -1,5 +1,5 @@
----
-title: "Consumo Alto no Mitsubishi Outlander 3.0 V6 Flex: Causas e Como Resolver"
+﻿---
+title: "Consumo Alto no Mitsubishi Outlander 3.0 V6 Flex"
 description: "Outlander 3.0 V6 flex abaixo de 6 km/l na cidade? Saiba as 5 causas do consumo excessivo e o que fazer para normalizar antes de levar à oficina. (153 chars)"
 entidade:
   marca: "Mitsubishi"
@@ -11,8 +11,7 @@ kicker: "DEFEITO CRÔNICO"
 intencao: "Diagnóstico"
 entidadesEssenciais: ["Mitsubishi Outlander", "motor V6 3.0 MIVEC flex", "câmbio CVT"]
 autor:
-  nome: "Equipe Técnica Hachiroku"
-  credencial: ""
+  nome: "Redação Hachiroku"
 pubDate: 2026-06-20
 updatedDate: 2026-06-20
 disclaimer: "As informações deste artigo têm caráter educativo. Consulte sempre um mecânico habilitado para diagnósticos definitivos e reparos no seu veículo."

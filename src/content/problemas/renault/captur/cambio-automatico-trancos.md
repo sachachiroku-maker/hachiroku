@@ -1,5 +1,5 @@
----
-title: "Câmbio CVT do Captur com trancos: causa, diagnóstico e o que fazer"
+﻿---
+title: "Câmbio CVT do Captur com trancos"
 description: "O câmbio CVT X-Tronic do Renault Captur 1.3 TCe pode apresentar trancos, solavancos e até travamentos em unidades com manutenção atrasada ou com defeito no trocador de calor. Saiba quais são os sintomas reais, as causas documentadas, o custo de reparo e como prevenir."
 entidade:
   marca: "Renault"
@@ -17,8 +17,7 @@ entidadesEssenciais:
   - "travamento de câmbio"
   - "perda de tração Captur"
 autor:
-  nome: "Equipe Técnica Hachiroku"
-  credencial: ""
+  nome: "Redação Hachiroku"
 pubDate: 2026-06-20
 updatedDate: 2026-06-20
 disclaimer: "As informações deste artigo são de caráter informativo e técnico. Trancos persistentes, perda de tração ou travamento do câmbio são situações de segurança que exigem avaliação imediata por profissional qualificado. Não dirija o veículo com perda total de tração sem diagnóstico."

@@ -1,5 +1,5 @@
----
-title: "Hyundai Santa Fe 3.5 V6: consumo de combustível muito elevado na cidade"
+﻿---
+title: "Hyundai Santa Fe 3.5 V6: consumo de combustível muito"
 description: "Santa Fe 3.5 V6 rodando 4,5 a 6 km/l na cidade? Descubra as causas reais e o que corrigir antes de culpar o motor."
 entidade:
   marca: "Hyundai"
@@ -14,8 +14,7 @@ entidadesEssenciais:
   - "Motor Lambda II V6 3.5 MPI flex"
   - "consumo excessivo combustível SUV"
 autor:
-  nome: "Equipe Técnica Hachiroku"
-  credencial: ""
+  nome: "Redação Hachiroku"
 pubDate: 2026-06-20
 updatedDate: 2026-06-20
 disclaimer: "As informações deste artigo têm caráter educativo. Sempre consulte um técnico habilitado antes de realizar qualquer intervenção no veículo."

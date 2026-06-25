@@ -1,5 +1,5 @@
----
-title: "CVT do Toyota Yaris com comportamento anormal: solavanco, elástico e diagnóstico"
+﻿---
+title: "CVT do Toyota Yaris com comportamento anormal"
 description: "O câmbio CVT do Toyota Yaris XLS apresenta solavancos ao sair do repouso e sensação de motor elástico em aceleração intensa. Nem todo comportamento é defeito: saiba o que é normal no CVT, quando o fluido resolve e quando o problema é mecânico."
 entidade:
   marca: "Toyota"
@@ -18,8 +18,7 @@ entidadesEssenciais:
   - "embreagem de arranque CVT"
   - "flush de câmbio"
 autor:
-  nome: "Equipe Técnica Hachiroku"
-  credencial: ""
+  nome: "Redação Hachiroku"
 pubDate: 2026-06-20
 updatedDate: 2026-06-20
 disclaimer: "A troca do fluido CVT é um procedimento técnico que exige o fluido correto na especificação Toyota CVTF FE. Usar fluido incorreto pode danificar o câmbio de forma irreversível. Confie o serviço a um profissional com experiência em transmissões CVT."

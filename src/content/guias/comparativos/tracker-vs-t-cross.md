@@ -1,4 +1,4 @@
----
+﻿---
 title: "Tracker vs T-Cross: qual SUV compacto comprar?"
 description: "Chevrolet Tracker 1.0 turbo e VW T-Cross 1.0 TSI disputam o mesmo comprador no segmento de SUVs compactos. Comparamos motor, câmbio, consumo, espaço, custo de manutenção e defeitos para ajudar você a escolher sem arrependimento."
 marca: "Comparativo"
@@ -6,8 +6,7 @@ modelo: "Tracker vs T-Cross"
 kicker: "COMPARATIVO DE DECISÃO"
 veredito: "Para quem quer rede de serviços ampla e câmbio suave, T-Cross. Para melhor custo-benefício equipado e garantia Chevrolet, Tracker."
 autor:
-  nome: "Equipe Hachiroku"
-  credencial: "Redação técnica automotiva"
+  nome: "Redação Hachiroku"
 pubDate: 2026-06-21
 updatedDate: 2026-06-21
 disclaimer: "Este comparativo orienta a decisão de compra, mas não substitui um test drive nos dois carros e, no caso de usados, uma vistoria cautelar com avaliação mecânica presencial. Dados de consumo são oficiais (Inmetro); experiência real varia conforme uso, manutenção e condutor."
@@ -51,9 +50,9 @@ faq:
     resposta: "Vale, e é o melhor dinheiro gasto na compra. No Tracker, o profissional verifica o histórico de óleo da correia banhada e testa a coluna de direção elétrica. No T-Cross, ele testa o câmbio DSG em diferentes situações de tráfego e lê os códigos de erro da central eletrônica. Ambos os carros têm pontos específicos que um test drive casual não revela, e uma falha nesses sistemas pode custar caro fora da garantia."
 relacionados:
   - titulo: "Tracker vs Renegade: qual SUV comprar?"
-    url: "/guias/comparativos/tracker-vs-renegade/"
+    url: "/guia-de-compra/comparativos/tracker-vs-renegade/"
   - titulo: "Kicks vs Tracker: comparativo completo"
-    url: "/guias/comparativos/kicks-vs-tracker/"
+    url: "/guia-de-compra/comparativos/kicks-vs-tracker/"
 fontes:
   - titulo: "Inmetro - Programa Brasileiro de Etiquetagem Veicular"
     url: "https://www.inmetro.gov.br/consumidor/pbe/veiculos_leves.asp"

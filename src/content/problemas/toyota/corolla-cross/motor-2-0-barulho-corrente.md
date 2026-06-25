@@ -1,5 +1,5 @@
----
-title: "Barulho metálico a frio no Corolla Cross 2.0: corrente de distribuição ou problema sério?"
+﻿---
+title: "Barulho metálico a frio no Corolla Cross 2.0"
 description: "Entenda por que o Corolla Cross 2.0 faz barulho metálico ao arrancar a frio, quando é normal e quando exige revisão urgente. Guia técnico completo."
 entidade:
   marca: "Toyota"
@@ -16,8 +16,7 @@ entidadesEssenciais:
   - "Tensionador hidráulico"
   - "Óleo 0W20"
 autor:
-  nome: "Equipe Técnica Hachiroku"
-  credencial: ""
+  nome: "Redação Hachiroku"
 pubDate: 2026-06-20
 updatedDate: 2026-06-20
 disclaimer: "As informações deste artigo têm caráter educativo. Sintomas idênticos podem ter causas distintas. Consulte um mecânico habilitado para diagnóstico preciso no seu veículo."

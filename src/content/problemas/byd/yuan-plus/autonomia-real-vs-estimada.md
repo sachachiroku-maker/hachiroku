@@ -1,5 +1,5 @@
----
-title: "Autonomia real do BYD Yuan Plus no Brasil: CLTC vs uso diário com ar-condicionado"
+﻿---
+title: "Autonomia real do BYD Yuan Plus no Brasil"
 description: "A autonomia real do BYD Yuan Plus no Brasil fica entre 240 e 280 km em uso urbano com ar-condicionado, muito abaixo dos 510 km do ciclo CLTC chinês. Entenda a diferença entre os ciclos de medição e como planejar o uso real do elétrico no calor brasileiro."
 entidade:
   marca: "BYD"
@@ -21,8 +21,7 @@ entidadesEssenciais:
   - "range de veículo elétrico"
   - "economia de bateria"
 autor:
-  nome: "Equipe Técnica Hachiroku"
-  credencial: ""
+  nome: "Redação Hachiroku"
 pubDate: 2026-06-20
 updatedDate: 2026-06-20
 disclaimer: "Autonomia de veículos elétricos varia com condições de uso, temperatura e hábitos de condução. Os valores apresentados são estimativas baseadas em dados disponíveis. Para planejamento de viagens longas, sempre use apps de rota com dados de consumo real."

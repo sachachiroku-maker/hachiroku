@@ -1,13 +1,12 @@
----
-title: "VW Polo vs VW Virtus 2025: Hatch ou Sedan, Qual a Melhor Escolha?"
+﻿---
+title: "VW Polo vs VW Virtus 2025: Hatch ou Sedan, Qual a Melhor"
 description: "Polo e Virtus usam a mesma mecânica 1.0 TSI. A decisão é estilo de vida: cidade densa ou família com bagagem? Veja o comparativo técnico completo."
 marca: "Comparativo"
 modelo: "Polo vs Virtus"
 kicker: "GUIA DE COMPRA · DECISÃO"
 veredito: "Para quem mora em cidade com estacionamento difícil e prioriza agilidade urbana, o Polo é a escolha certa. Para famílias que viajam com bagagem ou precisam de porta-malas generoso, o Virtus entrega mais por um custo ligeiramente superior."
 autor:
-  nome: "Equipe Técnica Hachiroku"
-  credencial: ""
+  nome: "Redação Hachiroku"
 pubDate: 2026-06-20
 updatedDate: 2026-06-20
 disclaimer: "Este comparativo orienta a decisão de compra mas não substitui um test drive em ambos. Preços e especificações referentes a 2025-2026."
@@ -54,11 +53,11 @@ faq:
     resposta: "Depende do uso. Se você tem família, carrega bagagem frequentemente ou viaja bastante, os R$2.000 a R$5.000 a mais pelo Virtus fazem sentido. Para uso urbano solo ou em casal, o Polo entrega tudo que precisa por menos."
 relacionados:
   - titulo: "VW Polo 2025: Vale a Pena Comprar?"
-    url: "/guias/vale-a-pena/polo-2025"
+    url: "/guia-de-compra/vale-a-pena/polo-2025"
   - titulo: "VW Virtus 2025: Vale a Pena Comprar?"
-    url: "/guias/vale-a-pena/virtus-2025"
+    url: "/guia-de-compra/vale-a-pena/virtus-2025"
   - titulo: "Motor 1.0 TSI: Problemas, Revisão e Quanto Dura"
-    url: "/guias/motores/1-0-tsi-problemas"
+    url: "/guia-de-compra/motores/1-0-tsi-problemas"
 draft: false
 ---
 

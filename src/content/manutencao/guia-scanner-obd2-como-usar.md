@@ -1,5 +1,5 @@
----
-title: "Scanner OBD2: Guia Completo de Como Usar, o Que Comprar e o Que os Códigos Significam"
+﻿---
+title: "Scanner OBD2: Guia Completo de Como Usar, o Que Comprar e o"
 description: "Aprenda a usar o scanner OBD2, entenda os códigos de falha e veja os 5 melhores aparelhos bluetooth para Android e iOS de R$50 a R$300."
 kicker: "MÃO NA MASSA"
 veiculo: "universal"
@@ -27,8 +27,7 @@ passos:
   - nome: "Apague os códigos (somente após corrigir a falha)"
     texto: "Nunca apague os códigos sem antes corrigir o problema. Após o reparo, vá em Apagar Códigos ou Clear DTCs no app. O scanner enviará o comando de reset para as centrais. A luz de avaria (Check Engine) apagará. Se o problema não foi corrigido de fato, o código retornará após alguns ciclos de direção. Desligue a ignição, remova o scanner e faça um test drive para confirmar."
 autor:
-  nome: "Equipe Técnica Hachiroku"
-  credencial: ""
+  nome: "Redação Hachiroku"
 pubDate: 2026-06-20
 updatedDate: 2026-06-20
 disclaimer: "As informações deste guia têm caráter educativo. Falhas graves no sistema de emissões, airbag ou freios devem ser diagnosticadas e corrigidas por um mecânico habilitado. Apagar códigos sem corrigir a falha pode mascarar problemas sérios de segurança."

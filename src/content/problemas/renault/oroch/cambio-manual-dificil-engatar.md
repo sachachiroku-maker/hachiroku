@@ -1,4 +1,4 @@
----
+﻿---
 title: "Renault Oroch com câmbio manual duro e difícil de engatar"
 description: "Câmbio do Oroch duro, engates travados ou relação sumindo? Veja as causas do sincronizador ao cabo e como resolver na prática. (157 chars)"
 entidade:
@@ -16,8 +16,7 @@ entidadesEssenciais:
   - "cabo de câmbio"
   - "óleo GL-4 75W90"
 autor:
-  nome: "Equipe Técnica Hachiroku"
-  credencial: ""
+  nome: "Redação Hachiroku"
 pubDate: 2026-06-20
 updatedDate: 2026-06-20
 disclaimer: "Este artigo tem finalidade educativa e não substitui avaliação presencial de mecânico qualificado. Condições de uso, quilometragem e histórico de manutenção alteram o diagnóstico."

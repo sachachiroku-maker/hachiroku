@@ -1,5 +1,5 @@
----
-title: "Suspensão Dianteira Peugeot 208: Barulho e Batida | Hachiroku"
+﻿---
+title: "Suspensão Dianteira Peugeot 208"
 description: "Barulho e batida na suspensão dianteira do Peugeot 208 (2019+) indicam desgaste em amortecedores McPherson, bieleta estabilizadora ou rolamento de suporte. Saiba identificar e resolver."
 entidade:
   marca: "Peugeot"
@@ -71,8 +71,7 @@ relacionados:
     url: "/ficha-tecnica/peugeot/208"
 
 autor:
-  nome: "Equipe Hachiroku"
-  credencial: "Redação técnica automotiva"
+  nome: "Redação Hachiroku"
 ---
 
 <aside class="telltale danger" role="note"><span aria-hidden="true">🔴</span><p><strong>Atenção.</strong> Barulho contínuo na suspensão dianteira em velocidade indica risco real de perda de controle. Não postergue a inspeção.</p></aside>

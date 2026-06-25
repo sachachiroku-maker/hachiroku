@@ -1,5 +1,5 @@
----
-title: "Como Trocar o Óleo do Câmbio Automático: Guia Completo com Intervalos por Modelo"
+﻿---
+title: "Como Trocar o Óleo do Câmbio Automático"
 description: "Aprenda quando e como trocar o fluido ATF do câmbio automático no Onix, HB20 e Argo AT. Intervalos, sintomas de degradação e o que nunca fazer em casa."
 kicker: "HOW-TO · MÃO NA MASSA"
 veiculo: "Carros com câmbio automático de torque converter (Onix, HB20, Argo AT, Tracker)"

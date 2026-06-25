@@ -1,4 +1,4 @@
----
+﻿---
 title: "Ficha técnica VW Fox 1.6 MSI Highline 2018 | Hachiroku"
 description: "Ficha técnica completa do VW Fox Highline 1.6 MSI 2018, último ano antes da descontinuação: motor EA111, 110 cv no etanol, câmbio manual de 5 marchas, consumo de 14,8 km/l na estrada e porta-malas de 285 litros. Dados reais CarrosnaWeb e INMETRO."
 marca: "Volkswagen"
@@ -18,8 +18,7 @@ entidade:
   motor: "Motor 1.6 MSI EA111 flex aspirado"
 
 autor:
-  nome: "Equipe Hachiroku"
-  credencial: "Redação técnica automotiva"
+  nome: "Redação Hachiroku"
 
 motor:
   - { k: "Família", v: "EA111 (2ª geração Fox, compartilhado com Gol e Saveiro)" }
@@ -137,9 +136,9 @@ fontes:
 
 relacionados:
   - titulo: "Ficha técnica do Volkswagen Gol"
-    url: "/fichas/volkswagen/gol/"
+    url: "/ficha-tecnica/volkswagen/gol/"
   - titulo: "Ficha técnica do Volkswagen Saveiro Cross 1.6 MSI"
-    url: "/fichas/volkswagen/saveiro-cross-1-6-msi/"
+    url: "/ficha-tecnica/volkswagen/saveiro-cross-1-6-msi/"
 
 draft: false
 ---

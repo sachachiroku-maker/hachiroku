@@ -1,5 +1,5 @@
----
-title: "Diferencial traseiro da Nissan Frontier com desgaste: diagnóstico, causas e custo de reparo"
+﻿---
+title: "Diferencial traseiro da Nissan Frontier com desgaste"
 description: "O diferencial traseiro da Nissan Frontier pode apresentar desgaste com ruído, especialmente após uso off-road intenso ou manutenção incorreta do óleo. Entenda os sintomas, como diagnosticar e o custo de reparo."
 entidade:
   marca: "Nissan"
@@ -19,8 +19,7 @@ entidadesEssenciais:
   - "uso off-road"
   - "GL-5 SAE 80W-90"
 autor:
-  nome: "Equipe Técnica Hachiroku"
-  credencial: ""
+  nome: "Redação Hachiroku"
 pubDate: 2026-06-20
 updatedDate: 2026-06-20
 disclaimer: "Este conteúdo é informativo e diagnóstico. O reparo de diferencial traseiro exige mecânico especializado em transmissões. A regulagem de folgas e pré-carga dos rolamentos do diferencial é um procedimento técnico que afeta diretamente a durabilidade da peça."

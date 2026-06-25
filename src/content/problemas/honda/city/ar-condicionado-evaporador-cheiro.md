@@ -1,5 +1,5 @@
----
-title: "Ar-condicionado do Honda City com cheiro de mofo: evaporador, drenagem e solução"
+﻿---
+title: "Ar-condicionado do Honda City com cheiro de mofo"
 description: "O sistema de ar-condicionado do Honda City pode desenvolver cheiro de mofo ou fungo no evaporador. Entenda a causa, a diferença entre os modos AUTO e ECON, como higienizar e o custo de resolução definitiva."
 entidade:
   marca: "Honda"
@@ -20,8 +20,7 @@ entidadesEssenciais:
   - "higienização evaporador"
   - "drenagem de condensado"
 autor:
-  nome: "Equipe Técnica Hachiroku"
-  credencial: ""
+  nome: "Redação Hachiroku"
 pubDate: 2026-06-20
 updatedDate: 2026-06-20
 disclaimer: "Este conteúdo é informativo e diagnóstico. O cheiro de mofo no ar-condicionado indica presença de fungos e bactérias no sistema que podem afetar a qualidade do ar interno do veículo. A higienização completa do evaporador com produto específico e por profissional é o procedimento correto. Não use produtos abrasivos ou que possam danificar o evaporador de alumínio."

@@ -1,4 +1,4 @@
----
+﻿---
 title: "Volvo C40 Recharge: consumo real e custo no Brasil"
 description: "Entenda a autonomia real do Volvo C40 Recharge no Brasil: cerca de 350 km em uso urbano, abaixo dos 438 km WLTP. Veja o custo por km elétrico vs gasolina e como maximizar a eficiência no calor tropical."
 kicker: "VERTICAL EV · ALTA DEMANDA"
@@ -9,8 +9,7 @@ entidade:
 pubDate: 2026-06-21
 updatedDate: 2026-06-21
 autor:
-  nome: "Equipe Hachiroku"
-  credencial: "Redação técnica automotiva"
+  nome: "Redação Hachiroku"
 pontosChave:
   - "Sintoma: autonomia declarada de 438 km (WLTP) cai para cerca de 350 km em uso urbano e rodoviário real no Brasil, especialmente com ar-condicionado ligado."
   - "Causa: condições climáticas quentes, uso intenso de climatização e variações de relevo consomem entre 18% e 25% a mais de energia do que os ciclos laboratoriais europeus."

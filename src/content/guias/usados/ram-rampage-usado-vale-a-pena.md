@@ -1,4 +1,4 @@
----
+﻿---
 title: "Ram Rampage usado vale a pena? Guia 2025"
 description: "Guia completo para comprar Ram Rampage 1.3 T270 CVT usada: motor biturbo, CVT, chassi e o que inspecionar antes de fechar negócio."
 marca: "Ram"
@@ -6,8 +6,7 @@ modelo: "Rampage"
 kicker: "GUIA DE COMPRA"
 veredito: "Vale em exemplares com até 40 mil km. Verifique CVT (troca de fluido), motor T270 biturbo (historico de revisão) e estado do chassi (picape usada para trabalho). Garantia Ram cobre 3 anos."
 autor:
-  nome: "Equipe Hachiroku"
-  credencial: "Redação técnica automotiva"
+  nome: "Redação Hachiroku"
 pubDate: 2026-06-21
 updatedDate: 2026-06-21
 disclaimer: "Este guia orienta a inspeção, mas não substitui uma vistoria cautelar e uma avaliação mecânica presencial antes da compra."
@@ -79,11 +78,11 @@ faq:
     resposta: "A Rampage é uma picape de uso misto, mais adequada para trabalho leve e uso urbano do que para cargas pesadas constantes. Para uso intenso em fazenda, reboque frequente acima de uma tonelada ou trilha off-road severa, picapes com motor diesel e tração 4x4 real, como Hilux ou Ranger, são mais indicadas. A Rampage se destaca no equilíbrio entre praticidade de picape e conforto de SUV urbano."
 relacionados:
   - titulo: "Fiat Strada usada: vale a pena?"
-    url: "/guias/usados/strada-usada-vale-a-pena"
+    url: "/guia-de-compra/usados/strada-usada-vale-a-pena"
   - titulo: "Toyota Hilux usada: vale a pena?"
-    url: "/guias/usados/hilux-usada-vale-a-pena"
+    url: "/guia-de-compra/usados/hilux-usada-vale-a-pena"
   - titulo: "Ford Ranger usada: vale a pena?"
-    url: "/guias/usados/ranger-usada-vale-a-pena"
+    url: "/guia-de-compra/usados/ranger-usada-vale-a-pena"
 draft: false
 ---
 

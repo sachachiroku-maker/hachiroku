@@ -1,5 +1,5 @@
----
-title: "Ficha técnica do Volkswagen Virtus Highline 1.0 TSI 2023 (automático)"
+﻿---
+title: "Ficha técnica do Volkswagen Virtus Highline 1.0 TSI 2023"
 description: "Ficha técnica completa do VW Virtus Highline 1.0 TSI 2023: motor 1.0 turbo de 3 cilindros e 116 cv, torque de 20,4 kgfm, câmbio automático Aisin AQ250 de 6 marchas, 521 litros de porta-malas e consumo de até 14,4 km/l na estrada. Dados verificados, consumo Inmetro e pontos de atenção."
 marca: "Volkswagen"
 modelo: "Virtus"

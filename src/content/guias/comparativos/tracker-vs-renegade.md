@@ -1,13 +1,12 @@
----
-title: "Chevrolet Tracker vs Jeep Renegade: SUV compacto com eficiência ou personalidade?"
+﻿---
+title: "Chevrolet Tracker vs Jeep Renegade"
 description: "Tracker ou Renegade? Comparativo técnico completo com motor, consumo, defeitos crônicos, custo e veredicto claro para quem está decidindo em 2025-2026."
 marca: "Comparativo"
 modelo: "Tracker vs Renegade"
 kicker: "GUIA DE COMPRA · DECISÃO"
 veredito: "Tracker é a escolha certa para quem prioriza custo de propriedade baixo e uso urbano diário. Renegade é para quem quer personalidade, mais potência e não descarta uma trilha de fim de semana."
 autor:
-  nome: "Equipe Técnica Hachiroku"
-  credencial: ""
+  nome: "Redação Hachiroku"
 pubDate: 2026-06-20
 updatedDate: 2026-06-20
 disclaimer: "Este comparativo orienta a decisão de compra mas não substitui um test drive em ambos. Preços e especificações referentes a 2025-2026."
@@ -57,9 +56,9 @@ faq:
     resposta: "Os dois exigem cuidado. No Tracker, verifique solavancos do câmbio e histórico das atualizações de software do motor 1.0T. No Renegade, teste o ar-condicionado em funcionamento real e verifique se o câmbio de 9 marchas foi atualizado. Um scanner OBD2 ajuda a checar falhas registradas antes da compra."
 relacionados:
   - titulo: "Chevrolet Tracker vs Hyundai Creta: qual SUV compacto vale mais o dinheiro?"
-    url: "/guias/comparativos/tracker-vs-creta"
+    url: "/guia-de-compra/comparativos/tracker-vs-creta"
   - titulo: "Jeep Renegade vs Jeep Compass: qual Jeep faz mais sentido no Brasil?"
-    url: "/guias/comparativos/renegade-vs-compass"
+    url: "/guia-de-compra/comparativos/renegade-vs-compass"
 draft: false
 ---
 

@@ -1,13 +1,12 @@
----
-title: "Nissan Kicks vs Chevrolet Tracker: qual SUV compacto comprar em 2025?"
+﻿---
+title: "Nissan Kicks vs Chevrolet Tracker"
 description: "Kicks e-Power tem propulsão elétrica e brilha na cidade. Tracker turbo tem câmbio convencional e rede GM em todo país. Comparamos tudo para você decidir."
 marca: "Comparativo"
 modelo: "Kicks vs Tracker"
 kicker: "GUIA DE COMPRA · DECISÃO"
 veredito: "Para quem vive no trânsito de cidade grande, o Nissan Kicks e-Power entrega condução mais fluida, frenagem regenerativa e eficiência difícil de bater no urbano. Para quem divide o uso entre cidade e estrada longa, ou mora onde a rede de assistência é escassa, o Chevrolet Tracker 1.0 turbo vence pela simplicidade mecânica, peça barata e presença da GM em quase todo o país."
 autor:
-  nome: "Equipe Técnica Hachiroku"
-  credencial: ""
+  nome: "Redação Hachiroku"
 pubDate: 2026-06-20
 updatedDate: 2026-06-20
 disclaimer: "Preços e especificações referentes a 2025-2026."

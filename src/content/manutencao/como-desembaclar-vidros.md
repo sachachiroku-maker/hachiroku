@@ -1,5 +1,5 @@
----
-title: "Como Desembaçar Vidros com Eficiência: Truques e Erros Comuns"
+﻿---
+title: "Como Desembaçar Vidros com Eficiência"
 description: "Aprenda a desembaçar vidros do carro com eficiência usando AC e técnicas corretas. Evite os erros que pioram a visibilidade e aumentam o risco de acidente."
 kicker: "MÃO NA MASSA"
 veiculo: "universal"
@@ -27,8 +27,7 @@ passos:
   - nome: "Aplique repelente de umidade"
     texto: "Produtos como Rain-X aplicados na face interna do vidro criam uma barreira que dificulta a formação de vapor condensado. Aplique conforme as instruções do fabricante e reaplique a cada 30 dias em períodos chuvosos."
 autor:
-  nome: "Equipe Técnica Hachiroku"
-  credencial: ""
+  nome: "Redação Hachiroku"
 pubDate: 2026-06-20
 updatedDate: 2026-06-20
 disclaimer: "As técnicas descritas neste guia têm caráter educativo. Em caso de dúvida sobre o sistema de ar-condicionado ou aquecimento do seu veículo, consulte um mecânico habilitado. Nunca realize manobras de manutenção com o veículo em movimento."

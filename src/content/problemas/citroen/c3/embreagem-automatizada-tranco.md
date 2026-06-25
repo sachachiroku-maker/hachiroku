@@ -1,5 +1,5 @@
----
-title: "Câmbio EGS6 do Citroën C3 trancos: por que acontece e como minimizar"
+﻿---
+title: "Câmbio EGS6 do Citroën C3 trancos"
 description: "O câmbio automatizado EGS6 do Citroën C3 apresenta trancos documentados em tráfego de baixa velocidade. Entenda a origem técnica, a diferença entre comportamento normal e defeito, e as soluções disponíveis."
 entidade:
   marca: "Citroën"
@@ -18,8 +18,7 @@ entidadesEssenciais:
   - "ponto de engate da embreagem"
   - "desgaste do disco de embreagem"
 autor:
-  nome: "Equipe Técnica Hachiroku"
-  credencial: ""
+  nome: "Redação Hachiroku"
 pubDate: 2026-06-20
 updatedDate: 2026-06-20
 disclaimer: "Este conteúdo é informativo e diagnóstico. O EGS6 do C3 tem comportamento inerentemente diferente de um automático convencional. Trancos que surgem de forma brusca e nova em veículo que antes funcionava suavemente, acompanhados de luz de avaria, exigem diagnóstico profissional antes de continuar rodando."

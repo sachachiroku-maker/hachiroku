@@ -1,5 +1,5 @@
----
-title: "HB20S: Câmbio Manual Duro e Difícil de Engatar — Diagnóstico Completo"
+﻿---
+title: "HB20S: Câmbio Manual Duro e Difícil de Engatar —"
 description: "Câmbio duro no HB20S? Veja as causas reais: sincronizador desgastado, cabo desregulado e óleo GL-4 vencido. Diagnóstico passo a passo. (156 chars)"
 entidade:
   marca: "Hyundai"
@@ -11,8 +11,7 @@ kicker: "DEFEITO CRÔNICO"
 intencao: "Diagnóstico"
 entidadesEssenciais: ["sincronizador de câmbio", "cabo de câmbio", "óleo GL-4"]
 autor:
-  nome: "Equipe Técnica Hachiroku"
-  credencial: ""
+  nome: "Redação Hachiroku"
 pubDate: 2026-06-20
 updatedDate: 2026-06-20
 disclaimer: "As informações deste artigo têm caráter educativo e orientativo. Sempre consulte um mecânico habilitado antes de realizar qualquer intervenção no veículo."

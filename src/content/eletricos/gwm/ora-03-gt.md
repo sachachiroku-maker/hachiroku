@@ -1,5 +1,5 @@
----
-title: "GWM Ora 03 GT: autonomia real, bateria LFP e o design que virou assunto no Brasil"
+﻿---
+title: "GWM Ora 03 GT: autonomia real, bateria LFP e o design que"
 description: "Tudo sobre o GWM Ora 03 GT: autonomia real de 320 a 380 km, bateria LFP 63,1 kWh, carga DC 88 kW e pontos fracos honestos antes de comprar."
 entidade:
   marca: "GWM"
@@ -8,8 +8,7 @@ entidade:
 kicker: "CARRO ELÉTRICO"
 entidadesEssenciais: ["GWM Ora", "bateria LFP", "elétrico compacto"]
 autor:
-  nome: "Equipe Técnica Hachiroku"
-  credencial: ""
+  nome: "Redação Hachiroku"
 pubDate: 2026-06-20
 updatedDate: 2026-06-20
 imagem: "/img/capas/eletricos.webp"

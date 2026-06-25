@@ -1,4 +1,4 @@
----
+﻿---
 title: "Fiat Argo Firefly CVT gasta mais gasolina | Hachiroku"
 description: "Fiat Argo Drive 1.3 Firefly com CVT consumindo mais gasolina do que o informado pela Fiat? Veja as causas reais, o que o câmbio influencia e como investigar."
 entidade:
@@ -16,8 +16,7 @@ entidadesEssenciais:
   - "gasolina"
   - "computador de bordo"
 autor:
-  nome: "Equipe Hachiroku"
-  credencial: "Redação técnica automotiva"
+  nome: "Redação Hachiroku"
 pubDate: 2026-06-21
 updatedDate: 2026-06-21
 disclaimer: "Os valores de consumo da Fiat são medidos em condições controladas e padronizadas pelo Proconve/Inmetro, que raramente refletem o uso real na rua. Este conteúdo orienta o que investigar; a confirmação do defeito depende de um profissional com o carro em mãos. Condições de uso, altitude, qualidade de combustível e estilo de condução influenciam o consumo de forma significativa."

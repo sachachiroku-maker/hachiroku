@@ -1,5 +1,5 @@
----
-title: "Freios do Toyota SW4 com desgaste acelerado: pastilhas, discos e custo de reposição"
+﻿---
+title: "Freios do Toyota SW4 com desgaste acelerado"
 description: "Os freios do Toyota SW4 sofrem desgaste mais rápido que a média por conta do peso elevado do SUV e do uso off-road. Entenda o intervalo real de troca, os sintomas de desgaste e o custo de manutenção dos freios do SW4."
 entidade:
   marca: "Toyota"
@@ -20,8 +20,7 @@ entidadesEssenciais:
   - "intervalo de freios"
   - "freio a disco"
 autor:
-  nome: "Equipe Técnica Hachiroku"
-  credencial: ""
+  nome: "Redação Hachiroku"
 pubDate: 2026-06-20
 updatedDate: 2026-06-20
 disclaimer: "Este conteúdo é informativo e diagnóstico. Freios são itens de segurança crítica. Se houver redução perceptível na eficiência de frenagem, barulho metálico ou pedal com comportamento anormal, leve o veículo a uma oficina imediatamente. Não postergue a manutenção de freios."

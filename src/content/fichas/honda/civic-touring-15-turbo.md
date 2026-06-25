@@ -1,4 +1,4 @@
----
+﻿---
 title: "Ficha técnica Honda Civic Touring 1.5 Turbo 2024"
 description: "Ficha técnica do Honda Civic Touring 1.5 Turbo CVT 2024: motor L15B7 175 cv, 24,5 kgfm, câmbio CVT, 4.660 mm, 459 L de porta-malas. Dados Honda Brasil."
 marca: "Honda"
@@ -52,8 +52,7 @@ pubDate: 2026-06-21
 updatedDate: 2026-06-21
 
 autor:
-  nome: "Equipe Hachiroku"
-  credencial: "Redação técnica automotiva"
+  nome: "Redação Hachiroku"
 
 faq:
   - pergunta: "O Honda Civic Touring 2024 tem Honda Sensing?"
@@ -82,7 +81,7 @@ afiliados:
     cta: "Ver preço na Amazon"
 
 relacionados:
-  - { titulo: "Ficha técnica Honda Civic Touring 1.5 Turbo 2023", url: "/fichas/honda/civic-touring-1-5-turbo/" }
+  - { titulo: "Ficha técnica Honda Civic Touring 1.5 Turbo 2023", url: "/ficha-tecnica/honda/civic-touring-1-5-turbo/" }
   - { titulo: "Consumo de óleo no motor 1.5 turbo do Civic", url: "/problemas/honda/civic/consumo-de-oleo-turbo/" }
   - { titulo: "CVT do Civic com solavanco", url: "/problemas/honda/civic/cambio-cvt-solavanco/" }
 draft: false

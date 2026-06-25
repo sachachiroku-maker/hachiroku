@@ -1,4 +1,4 @@
----
+﻿---
 title: "Freio traseiro com barulho no Duster Iconic 1.3 TCe"
 description: "Duster Iconic 1.3 TCe 150 apresenta barulho estranheiro nos freios traseiros a disco em desacelerações suaves: causa é corrosão nas pastilhas e discos por longo período parado. Veja como identificar, tratar e evitar o problema."
 entidade:
@@ -17,8 +17,7 @@ entidadesEssenciais:
   - "desaceleração suave"
   - "Duster Iconic 1.3 TCe 150"
 autor:
-  nome: "Equipe Hachiroku"
-  credencial: "Redação técnica automotiva"
+  nome: "Redação Hachiroku"
 pubDate: 2026-06-21
 updatedDate: 2026-06-21
 disclaimer: "Este conteúdo é informativo. A avaliação do estado real das pastilhas, discos e pinças exige inspeção visual com o carro suspenso. Confie o diagnóstico e o serviço a um profissional habilitado. Troque pastilhas e discos sempre aos pares no mesmo eixo."

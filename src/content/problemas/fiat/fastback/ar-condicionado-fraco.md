@@ -1,4 +1,4 @@
----
+﻿---
 title: "Ar-Condicionado Fraco no Fastback: Bancos Traseiros"
 description: "Fastback Impetus 1.3 T270 CVT resfria mal os bancos traseiros? Entenda como a geometria cupê bloqueia o fluxo de ar e as soluções disponíveis."
 entidade:
@@ -14,8 +14,7 @@ entidadesEssenciais:
   - "teto inclinado fastback cupê"
   - "saídas de ar laterais traseiras"
 autor:
-  nome: "Equipe Hachiroku"
-  credencial: "Redação técnica automotiva"
+  nome: "Redação Hachiroku"
 pubDate: 2026-06-21
 updatedDate: 2026-06-21
 disclaimer: "As informações deste artigo têm caráter orientativo. Diagnósticos definitivos sobre o sistema de ar-condicionado devem ser realizados por profissional habilitado com equipamento adequado."

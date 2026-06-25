@@ -1,5 +1,5 @@
----
-title: "Consumo de óleo do Jeep Renegade 1.8 E.torQ: o defeito que faz a vareta baixar entre as trocas"
+﻿---
+title: "Consumo de óleo do Jeep Renegade 1.8 E.torQ"
 description: "O motor 1.8 E.torQ flex do Jeep Renegade acumula relatos de consumo de óleo acima do normal, com a vareta baixando antes da próxima troca. Veja os sintomas, as causas ligadas a anéis de pistão, retentores e sistema PCV, qual motor é afetado, como é o diagnóstico, a faixa de custo e como prevenir antes que falte óleo e o motor sofra."
 entidade:
   marca: "Jeep"
@@ -16,8 +16,7 @@ entidadesEssenciais:
   - "sistema PCV"
   - "retentores de válvula"
 autor:
-  nome: "Equipe Técnica Hachiroku"
-  credencial: ""
+  nome: "Redação Hachiroku"
 pubDate: 2026-06-19
 updatedDate: 2026-06-19
 disclaimer: "Consumo de óleo acima do normal só vira diagnóstico fechado com o carro em mãos, medição controlada do consumo e inspeção feita por um profissional. Este conteúdo orienta o que investigar; quilometragens, intervalos e custos citados são relatos de mercado e variam por uso, manutenção, região e oficina. O manual e a revisão do seu ano são a palavra final."

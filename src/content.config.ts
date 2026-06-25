@@ -208,4 +208,48 @@ const eletricos = defineCollection({
     }),
 });
 
-export const collections = { problemas, fichas, guias, manutencao, eletricos };
+// SILO 6 — /tecnico/[slug]/ (TechArticle — motor, bomba, sistemas aprofundados)
+const tecnico = defineCollection({
+  loader: glob({ pattern: '**/*.md', base: './src/content/tecnico' }),
+  schema: () =>
+    z.object({
+      title: z.string(),
+      description: z.string(),
+      kicker: z.string().default('TÉCNICO · APROFUNDADO'),
+      categoria: z.enum(['motor', 'transmissao', 'eletrica', 'combustivel', 'suspensao', 'outro']).default('motor'),
+      entidadesEssenciais: z.array(z.string()).default([]),
+      autor: z.object({ nome: z.string(), credencial: z.string().optional(), sameAs: z.string().url().optional() }),
+      pubDate: z.coerce.date(),
+      updatedDate: z.coerce.date().optional(),
+      faq: z.array(faqItem).default([]),
+      relacionados: z.array(link).default([]),
+      draft: z.boolean().default(false),
+    }),
+});
+
+// SILO 7 — /revisao/[slug]/ (HowTo — revisão programada por modelo)
+const revisao = defineCollection({
+  loader: glob({ pattern: '**/*.md', base: './src/content/revisao' }),
+  schema: () =>
+    z.object({
+      title: z.string(),
+      description: z.string(),
+      kicker: z.string().default('REVISÃO · TABELA KM'),
+      marca: z.string(),
+      modelo: z.string(),
+      motor: z.string().optional(),
+      tabelaRevisao: z.array(z.object({
+        km: z.string(),
+        itens: z.array(z.string()),
+      })).default([]),
+      custoEstimado: z.string().optional(),
+      autor: z.object({ nome: z.string(), credencial: z.string().optional(), sameAs: z.string().url().optional() }),
+      pubDate: z.coerce.date(),
+      updatedDate: z.coerce.date().optional(),
+      faq: z.array(faqItem).default([]),
+      relacionados: z.array(link).default([]),
+      draft: z.boolean().default(false),
+    }),
+});
+
+export const collections = { problemas, fichas, guias, manutencao, eletricos, tecnico, revisao };

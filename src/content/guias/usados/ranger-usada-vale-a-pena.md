@@ -1,4 +1,4 @@
----
+﻿---
 title: "Ford Ranger usada: vale a pena comprar? Guia técnico 2026"
 description: "Guia técnico completo para comprar uma Ford Ranger usada: diferenças entre gerações, pontos de inspeção, defeitos conhecidos e qual versão escolher."
 marca: "Ford"
@@ -6,8 +6,7 @@ modelo: "Ranger"
 kicker: "GUIA DE COMPRA"
 veredito: "Ranger 2.2 TDCi usada é o melhor custo-benefício da categoria: motor simples, durável e com altíssima revenda. Ranger 2023+ entrega mais tecnologia, mas exige budget mais alto."
 autor:
-  nome: "Equipe Técnica Hachiroku"
-  credencial: ""
+  nome: "Redação Hachiroku"
 pubDate: 2026-06-20
 updatedDate: 2026-06-20
 disclaimer: "Este guia orienta a inspeção, mas não substitui uma vistoria cautelar e uma avaliação mecânica presencial antes da compra."
@@ -58,9 +57,9 @@ faq:
     resposta: "Sim, é um dos pontos fortes da Ranger. O trem de força 4x4 real com reduzida e bloqueio de diferencial é robusto. O cuidado extra é com a limpeza do intercooler e do filtro de ar em ambientes com muita poeira fina, que são os principais vilões do motor diesel em uso rural."
 relacionados:
   - titulo: "Toyota Hilux usada: vale a pena?"
-    url: "/guias/usados/hilux-usada-vale-a-pena"
+    url: "/guia-de-compra/usados/hilux-usada-vale-a-pena"
   - titulo: "Fiat Strada usada: vale a pena?"
-    url: "/guias/usados/strada-usada-vale-a-pena"
+    url: "/guia-de-compra/usados/strada-usada-vale-a-pena"
 draft: false
 ---
 

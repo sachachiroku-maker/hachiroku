@@ -1,5 +1,5 @@
----
-title: "Câmbio Dualogic no Fiat Palio: trancos, demora na troca, atuador e recalibração"
+﻿---
+title: "Câmbio Dualogic no Fiat Palio: trancos, demora na troca"
 description: "Fiat Palio com câmbio Dualogic dando trancos, demorando para trocar de marcha ou caindo em neutro? O Dualogic é um câmbio automatizado de embreagem única, e a maioria das falhas vem do atuador, da embreagem desgastada ou da central perdendo a referência. Veja como funciona, os sintomas, as causas reais, a recalibração, os custos e como prevenir."
 entidade:
   marca: "Fiat"
@@ -16,8 +16,7 @@ entidadesEssenciais:
   - "recalibração"
   - "trancos"
 autor:
-  nome: "Equipe Técnica Hachiroku"
-  credencial: ""
+  nome: "Redação Hachiroku"
 pubDate: 2026-06-19
 updatedDate: 2026-06-19
 disclaimer: "Conteúdo informativo. Câmbio é item de segurança: confirme o diagnóstico com um profissional."

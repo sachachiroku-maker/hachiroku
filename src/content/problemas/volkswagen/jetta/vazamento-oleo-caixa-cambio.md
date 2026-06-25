@@ -1,4 +1,4 @@
----
+﻿---
 title: "Vazamento de óleo no câmbio DSG do Jetta 1.4 TSI | Hachiroku"
 description: "O Volkswagen Jetta 1.4 TSI com câmbio DSG de 7 marchas pode apresentar vazamento de óleo pelo selo de vedação entre a caixa de câmbio e o motor. Entenda os sintomas, a causa técnica, o risco de dano ao mecatrônico e o custo do reparo."
 entidade:
@@ -18,8 +18,7 @@ entidadesEssenciais:
   - "vedação de transmissão VW"
   - "vazamento de óleo câmbio automático"
 autor:
-  nome: "Equipe Hachiroku"
-  credencial: "Redação técnica automotiva"
+  nome: "Redação Hachiroku"
 pubDate: 2026-06-20
 updatedDate: 2026-06-20
 disclaimer: "Este conteúdo é de caráter informativo e técnico. O diagnóstico e o reparo de vazamentos no câmbio DSG exigem avaliação presencial por profissional especializado em transmissão automática. Nunca autorize serviços em câmbio DSG sem diagnóstico com scanner VW ou VCDS."

@@ -1,4 +1,4 @@
----
+﻿---
 title: "Frontier automática: solavanco 1ª para 2ª marcha"
 description: "Solavanco na troca de 1ª para 2ª marcha na Frontier automática pode ser ATF Matic D degradado ou TCM desatualizado. Diagnóstico e solução passo a passo."
 entidade:
@@ -18,8 +18,7 @@ entidadesEssenciais:
   - "fluido de câmbio automático"
   - "calibração TCM"
 autor:
-  nome: "Equipe Hachiroku"
-  credencial: "Redação técnica automotiva"
+  nome: "Redação Hachiroku"
 pubDate: 2026-06-21
 updatedDate: 2026-06-21
 disclaimer: "Este conteúdo é informativo e diagnóstico. A troca de fluido ATF em câmbios automáticos de 7 velocidades exige procedimento específico com equipamento de troca dinâmica. A atualização de software do TCM deve ser realizada por concessionária Nissan ou oficina com acesso ao sistema Consult III Plus. Nunca use fluido ATF genérico em substituição ao Nissan Matic D."

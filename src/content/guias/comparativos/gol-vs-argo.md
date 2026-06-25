@@ -1,13 +1,12 @@
----
-title: "Volkswagen Gol vs Fiat Argo 2024: qual popular moderno escolher em 2026?"
+﻿---
+title: "Volkswagen Gol vs Fiat Argo 2024"
 description: "Motor, preço, câmbio automático e custo de manutenção: comparativo técnico completo entre Gol e Argo para decidir com segurança."
 marca: "Comparativo"
 modelo: "Gol vs Argo"
 kicker: "GUIA DE COMPRA · DECISÃO"
 veredito: "Argo ganha em equipamentos, versão automática e design. Gol vence em preço de entrada e custo de peças. A escolha depende do orçamento e do uso."
 autor:
-  nome: "Equipe Técnica Hachiroku"
-  credencial: ""
+  nome: "Redação Hachiroku"
 pubDate: 2026-06-20
 updatedDate: 2026-06-20
 disclaimer: "Preços e especificações referentes a 2025-2026."
@@ -52,11 +51,11 @@ faq:
     resposta: "Para uso urbano com até 2 adultos e bagagem leve, o 1.0 Firefly entrega. Para estrada, família de 4 pessoas ou quem quer câmbio automático, o 1.3 justifica o custo extra. A diferença de preço entre as versões costuma ficar entre R$ 8.000 e R$ 12.000."
 relacionados:
   - titulo: "Onix vs HB20: qual hatch popular tem o melhor custo-benefício?"
-    url: "/guias/comparativos/onix-vs-hb20"
+    url: "/guia-de-compra/comparativos/onix-vs-hb20"
   - titulo: "Polo vs Virtus: o VW compacto certo para cada perfil"
-    url: "/guias/comparativos/polo-vs-virtus"
+    url: "/guia-de-compra/comparativos/polo-vs-virtus"
   - titulo: "Argo vs HB20: qual compacto moderno leva?"
-    url: "/guias/comparativos/argo-vs-hb20"
+    url: "/guia-de-compra/comparativos/argo-vs-hb20"
 draft: false
 ---
 

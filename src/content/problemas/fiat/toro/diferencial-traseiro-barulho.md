@@ -1,5 +1,5 @@
----
-title: "Barulho no diferencial da Toro 4x4: o sinal que não pode ignorar"
+﻿---
+title: "Barulho no diferencial da Toro 4x4"
 description: "Barulho no diferencial traseiro da Fiat Toro 4x4 em curvas ou aceleração indica lubrificante vencido ou rolamento com desgaste. Entenda quando afeta versões Freedom e diesel e o que o reparo envolve."
 entidade:
   marca: "Fiat"
@@ -21,8 +21,7 @@ entidadesEssenciais:
   - "eixo traseiro"
   - "troca de óleo do diferencial"
 autor:
-  nome: "Equipe Técnica Hachiroku"
-  credencial: ""
+  nome: "Redação Hachiroku"
 pubDate: 2026-06-20
 updatedDate: 2026-06-20
 disclaimer: "Barulho no diferencial traseiro da Toro não deve ser ignorado. O diferencial é uma peça estrutural da transmissão; falha sem diagnóstico pode causar perda de controle do veículo. Procure diagnóstico profissional imediatamente."

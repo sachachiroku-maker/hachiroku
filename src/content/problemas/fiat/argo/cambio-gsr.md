@@ -1,5 +1,5 @@
----
-title: "Câmbio GSR do Fiat Argo: trancos, marcha-neutra e o custo do robô"
+﻿---
+title: "Câmbio GSR do Fiat Argo: trancos, marcha-neutra e o custo"
 description: "O câmbio automatizado GSR do Fiat Argo é a maior dor de cabeça do modelo: trancos nas trocas, indecisão na redução e, no caso mais grave, o risco de cair sozinho em neutro perdendo força. Veja os sintomas, o recall do sensor de seleção de marchas de 2025, como funciona o atuador, o que checar no diagnóstico, quanto custa o conserto do robô e como dirigir para prolongar a vida do câmbio."
 entidade:
   marca: "Fiat"
@@ -16,8 +16,7 @@ entidadesEssenciais:
   - "trancos na troca de marcha"
   - "recall Fiat 2025"
 autor:
-  nome: "Equipe Técnica Hachiroku"
-  credencial: ""
+  nome: "Redação Hachiroku"
 pubDate: 2026-06-19
 updatedDate: 2026-06-19
 disclaimer: "O diagnóstico do câmbio GSR exige scanner para ler os códigos de falha (DTC) e, em muitos casos, teste do atuador e do sensor de seleção de marchas no veículo. Este conteúdo é informativo: confirme a causa com um profissional acostumado com câmbio automatizado Fiat ou na concessionária antes de aprovar a troca de peças caras como o robô do câmbio. Verifique também se o seu Argo está incluído no recall do sensor pelo chassi, no site da Fiat ou pelo 0800."

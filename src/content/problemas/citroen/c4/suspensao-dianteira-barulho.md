@@ -1,5 +1,5 @@
----
-title: "Citroën C4 2ª Geração: barulho na suspensão dianteira (1.6 THP)"
+﻿---
+title: "Citroën C4 2ª Geração: barulho na suspensão dianteira (1.6"
 description: "Barulho na suspensão dianteira do Citroën C4 EMP2? Entenda causas, como diagnosticar bieletas, coxim e buchas da bandeja em casa e o custo do reparo."
 entidade:
   marca: "Citroën"
@@ -16,8 +16,7 @@ entidadesEssenciais:
   - "Bucha da bandeja inferior"
   - "Amortecedor dianteiro"
 autor:
-  nome: "Equipe Técnica Hachiroku"
-  credencial: ""
+  nome: "Redação Hachiroku"
 pubDate: 2026-06-20
 updatedDate: 2026-06-20
 disclaimer: "As informações deste artigo têm caráter educativo e diagnóstico. Sempre consulte um mecânico qualificado antes de realizar qualquer intervenção no veículo."

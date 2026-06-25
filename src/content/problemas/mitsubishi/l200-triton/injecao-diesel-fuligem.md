@@ -1,4 +1,4 @@
----
+﻿---
 title: "Fumaça preta no L200 Triton: DPF ou injetor?"
 description: "Fumaça preta e fuligem no escapamento do L200 Triton 2.4 diesel indicam DPF saturado ou injetor com vazamento. Veja como diagnosticar e resolver."
 entidade:
@@ -10,8 +10,7 @@ kicker: "DEFEITO CRÔNICO"
 intencao: "Diagnóstico"
 entidadesEssenciais: ["fumaça preta", "DPF", "injetor diesel", "4N15", "common rail", "excesso de fuligem"]
 autor:
-  nome: "Equipe Hachiroku"
-  credencial: "Redação técnica automotiva"
+  nome: "Redação Hachiroku"
 pubDate: 2026-06-21
 updatedDate: 2026-06-21
 disclaimer: "As informações deste artigo têm caráter educativo. Sempre consulte um profissional habilitado antes de realizar qualquer intervenção no sistema de injeção ou pós-tratamento de gases do seu veículo."

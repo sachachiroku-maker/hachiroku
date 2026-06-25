@@ -1,5 +1,5 @@
----
-title: "Peugeot 2008 EAT8: solavancos no câmbio automático — causas e como resolver"
+﻿---
+title: "Peugeot 2008 EAT8: solavancos no câmbio automático — causas"
 description: "Câmbio EAT8 do Peugeot 2008 dá trancos nas trocas 1ª→2ª e hesita ao arrancar? Veja as causas reais, custos e o que fazer antes de ir à concessionária."
 entidade:
   marca: "Peugeot"
@@ -16,8 +16,7 @@ entidadesEssenciais:
   - "TCM (Transmission Control Module)"
   - "Stellantis Brasil"
 autor:
-  nome: "Equipe Técnica Hachiroku"
-  credencial: ""
+  nome: "Redação Hachiroku"
 pubDate: 2026-06-20
 updatedDate: 2026-06-20
 disclaimer: "As informações deste artigo têm caráter educativo. Sempre consulte um profissional habilitado antes de realizar qualquer intervenção no veículo."

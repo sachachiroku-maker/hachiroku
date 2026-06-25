@@ -1,4 +1,4 @@
----
+﻿---
 title: "Superaquecimento Motor Taos 1.4 TSI | Hachiroku"
 description: "Superaquecimento no Volkswagen Taos 1.4 TSI EA211 causado por falha da bomba d'água termostática elétrica. Saiba identificar, diagnosticar e resolver."
 slug: "volkswagen/taos/superaquecimento-motor"
@@ -14,8 +14,7 @@ pontosChave:
   - "Causa: falha da bomba d'água termostática elétrica (EA211), que deixa de circular o fluido de arrefecimento de forma adequada."
   - "Ação: substituir a bomba d'água e verificar todo o sistema de arrefecimento antes de retornar o veículo à estrada."
 autor:
-  nome: "Equipe Hachiroku"
-  credencial: "Redação técnica automotiva"
+  nome: "Redação Hachiroku"
 fontes:
   - titulo: "Recall e boletins técnicos VW EA211 — NHTSA"
     url: "https://www.nhtsa.gov/vehicle/2022/VOLKSWAGEN/TAOS/SUV/AWD"

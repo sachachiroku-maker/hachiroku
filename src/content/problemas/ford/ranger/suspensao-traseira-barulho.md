@@ -1,5 +1,5 @@
----
-title: "Barulho na suspensão traseira da Ranger NextGen: bucha do eixo"
+﻿---
+title: "Barulho na suspensão traseira da Ranger NextGen"
 description: "A Ford Ranger NextGen (2023+) apresenta barulho e batida na suspensão traseira causados pelo desgaste precoce da bucha do eixo rígido traseiro. Entenda o sintoma, a causa técnica e os passos para diagnóstico e substituição."
 entidade:
   marca: "Ford"
@@ -17,8 +17,7 @@ entidadesEssenciais:
   - "mola de lâminas traseira"
   - "barulho de batida traseira"
 autor:
-  nome: "Equipe Hachiroku"
-  credencial: "Redação técnica automotiva"
+  nome: "Redação Hachiroku"
 pubDate: 2026-06-21
 updatedDate: 2026-06-21
 disclaimer: "Este conteúdo é informativo e diagnóstico. Barulhos e folgas na suspensão traseira comprometem a segurança e a dirigibilidade. Leve o veículo a uma oficina especializada para diagnóstico presencial antes de qualquer intervenção."

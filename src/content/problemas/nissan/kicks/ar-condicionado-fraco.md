@@ -1,5 +1,5 @@
----
-title: "Nissan Kicks com Ar-Condicionado Fraco: Diagnóstico Completo (1.6 Flex e e-Power)"
+﻿---
+title: "Nissan Kicks com Ar-Condicionado Fraco"
 description: "Kicks com ar-condicionado fraco ou que para de funcionar? Saiba as causas no 1.6 Flex e no e-Power, código P0565 e como resolver. (154 chars)"
 entidade:
   marca: "Nissan"
@@ -11,8 +11,7 @@ kicker: "DEFEITO CRÔNICO"
 intencao: "Diagnóstico"
 entidadesEssenciais: ["Compressor de A/C", "Sistema e-Power", "Código P0565"]
 autor:
-  nome: "Equipe Técnica Hachiroku"
-  credencial: ""
+  nome: "Redação Hachiroku"
 pubDate: 2026-06-20
 updatedDate: 2026-06-20
 disclaimer: "As informações deste artigo têm caráter educativo. Procedimentos elétricos e de ar-condicionado em veículos híbridos envolvem tensões elevadas. Consulte sempre um técnico habilitado."

@@ -1,5 +1,5 @@
----
-title: "Como verificar o óleo do motor: nível, cor e o que cada um indica"
+﻿---
+title: "Como verificar o óleo do motor"
 description: "Verificar o óleo do motor leva dois minutos e pode evitar um conserto de milhares de reais. Veja o passo a passo completo: quando fazer, como ler a vareta corretamente e o que a cor do óleo revela sobre o seu motor."
 kicker: "HOW-TO · MÃO NA MASSA"
 veiculo: "Todos os modelos"
@@ -24,8 +24,7 @@ passos:
   - nome: "Complete se o nível estiver abaixo do mínimo"
     texto: "Abra a tampa de abastecimento de óleo no topo do motor (geralmente tem o símbolo de uma lâmpada). Adicione o óleo na especificação correta para o seu veículo em pequenas quantidades, aguardando um minuto entre adições. Não despeje tudo de uma vez: é fácil passar do máximo. Repita a leitura da vareta até que o nível fique próximo do máximo sem ultrapassar."
 autor:
-  nome: "Equipe Técnica Hachiroku"
-  credencial: ""
+  nome: "Redação Hachiroku"
 pubDate: 2026-06-20
 updatedDate: 2026-06-20
 disclaimer: "Este guia cobre o procedimento padrão de verificação de óleo. Alguns veículos modernos usam medidor eletrônico de óleo no painel e não têm vareta convencional. Consulte o manual do seu veículo para confirmar o método correto de verificação e a especificação de óleo recomendada pelo fabricante."
@@ -51,7 +50,7 @@ relacionados:
   - titulo: "Luzes do painel do carro: o que cada uma significa"
     url: "/manutencao/luzes-do-painel-o-que-significam/"
   - titulo: "Consertar ou trocar: quando vale a pena manter o carro"
-    url: "/guias/consertar-ou-trocar-vale-a-pena/"
+    url: "/guia-de-compra/consertar-ou-trocar-vale-a-pena/"
 draft: false
 ---
 

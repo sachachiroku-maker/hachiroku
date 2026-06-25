@@ -1,5 +1,5 @@
----
-title: "Câmbio DCT do Haval H6 com solavanco: causa e solução | Hachiroku"
+﻿---
+title: "Câmbio DCT do Haval H6 com solavanco"
 description: "O câmbio DCT de 7 marchas do GWM Haval H6 1.5 turbo HEV dá solavancos na troca de 1ª para 2ª em velocidade baixa. Saiba por que acontece, quais são as causas documentadas e como resolver. Diagnóstico técnico completo."
 entidade:
   marca: "GWM"
@@ -16,8 +16,7 @@ entidadesEssenciais:
   - "solavanco câmbio SUV híbrido"
   - "adaptação de embreagem"
 autor:
-  nome: "Equipe Hachiroku"
-  credencial: "Redação técnica automotiva"
+  nome: "Redação Hachiroku"
 pubDate: 2026-06-20
 updatedDate: 2026-06-20
 disclaimer: "As informações deste artigo são de caráter técnico e informativo. O diagnóstico definitivo de falha no câmbio DCT exige avaliação por profissional habilitado com scanner compatível com a plataforma GWM. Não realize ajustes no câmbio sem o equipamento correto."

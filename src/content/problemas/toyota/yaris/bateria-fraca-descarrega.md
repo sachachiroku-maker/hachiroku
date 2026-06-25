@@ -1,5 +1,5 @@
----
-title: "Bateria do Toyota Yaris descarregando: Stop-Start, parasita elétrico e alternador"
+﻿---
+title: "Bateria do Toyota Yaris descarregando"
 description: "A bateria do Toyota Yaris descarrega por três causas principais: desgaste acelerado pelo sistema Stop-Start, parasita elétrico em standby e falha no alternador. Saiba identificar cada uma, os custos e se a bateria ainda está na garantia."
 entidade:
   marca: "Toyota"
@@ -18,8 +18,7 @@ entidadesEssenciais:
   - "corrente de standby"
   - "bateria AGM"
 autor:
-  nome: "Equipe Técnica Hachiroku"
-  credencial: ""
+  nome: "Redação Hachiroku"
 pubDate: 2026-06-20
 updatedDate: 2026-06-20
 disclaimer: "Diagnóstico de parasita elétrico e teste de alternador exigem equipamento específico (multímetro e testador de bateria com carga). Este conteúdo é informativo. Para conclusão do diagnóstico, consulte um eletricista automotivo."

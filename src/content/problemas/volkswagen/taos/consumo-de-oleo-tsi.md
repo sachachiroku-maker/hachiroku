@@ -1,5 +1,5 @@
----
-title: "Motor 1.4 TSI do Taos consome óleo: causa, sintomas e diagnóstico"
+﻿---
+title: "Motor 1.4 TSI do Taos consome óleo"
 description: "O motor 1.4 TSI EA211 do Volkswagen Taos pode apresentar consumo de óleo acima do esperado, especialmente em unidades com histórico de óleo fora da especificação. Saiba os sintomas, a causa do acúmulo de carbono nas válvulas e como manter o motor saudável além dos 100.000 km."
 entidade:
   marca: "Volkswagen"
@@ -17,8 +17,7 @@ entidadesEssenciais:
   - "óleo VW 504.00 / 507.00"
   - "limpeza de válvulas walnut blasting"
 autor:
-  nome: "Equipe Técnica Hachiroku"
-  credencial: ""
+  nome: "Redação Hachiroku"
 pubDate: 2026-06-20
 updatedDate: 2026-06-20
 disclaimer: "As informações deste artigo são de caráter técnico e educativo. O diagnóstico definitivo de consumo de óleo e acúmulo de carbono exige avaliação presencial por profissional qualificado. A limpeza de válvulas é um procedimento que requer desmontagem parcial do motor."

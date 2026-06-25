@@ -1,5 +1,5 @@
----
-title: "Barulho na suspensão dianteira do Renault Kwid: o estalo seco que volta sempre"
+﻿---
+title: "Barulho na suspensão dianteira do Renault Kwid"
 description: "Renault Kwid com barulho na suspensão dianteira? O estalo seco ao passar em lombadas e buracos aparece em muitos relatos de donos, quase sempre ligado à bucha da bandeja desgastada. Veja os sintomas, as causas mecânicas, como diagnosticar, a faixa de custo e como prevenir antes de comprometer a dirigibilidade."
 entidade:
   marca: "Renault"
@@ -16,8 +16,7 @@ entidadesEssenciais:
   - "barulho seco em lombada"
   - "amortecedor dianteiro"
 autor:
-  nome: "Equipe Técnica Hachiroku"
-  credencial: ""
+  nome: "Redação Hachiroku"
 pubDate: 2026-06-19
 updatedDate: 2026-06-19
 disclaimer: "Barulho de suspensão só vira diagnóstico com o carro no elevador e a roda inspecionada, conferindo folga em buchas, bandeja, pivô, bieleta e amortecedor. Este conteúdo orienta o que investigar; a confirmação depende de um profissional com o carro em mãos e do manual do seu ano. Procedimentos dentro da garantia devem passar pela rede autorizada Renault."

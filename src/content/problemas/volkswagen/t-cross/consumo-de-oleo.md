@@ -1,5 +1,5 @@
----
-title: "Volkswagen T-Cross consumindo óleo: o que é normal e o que é defeito no motor TSI"
+﻿---
+title: "Volkswagen T-Cross consumindo óleo"
 description: "Seu Volkswagen T-Cross 1.0 ou 1.4 TSI está consumindo óleo? O motor da família EA211 tem uma faixa de consumo que a própria VW considera normal, mas anéis, válvula PCV e turbo podem transformar isso em problema sério. Veja o que é consumo aceitável, os sintomas de defeito, as causas reais, como medir, o custo e como prevenir."
 entidade:
   marca: "Volkswagen"
@@ -16,8 +16,7 @@ entidadesEssenciais:
   - "anéis"
   - "EA211"
 autor:
-  nome: "Equipe Técnica Hachiroku"
-  credencial: ""
+  nome: "Redação Hachiroku"
 pubDate: 2026-06-19
 updatedDate: 2026-06-19
 disclaimer: "Consumo de óleo só vira diagnóstico com medição correta (nível na vareta, intervalo e km rodados) e leitura no scanner. Este conteúdo orienta o que investigar; a confirmação depende de um profissional com o carro em mãos e do manual do seu ano e versão."

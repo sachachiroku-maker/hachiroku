@@ -1,11 +1,10 @@
----
+﻿---
 title: "Ar-condicionado Fraco no Kwid | Hachiroku"
 pubDate: 2026-06-21
 updatedDate: 2026-06-21
 draft: false
 autor:
-  nome: "Equipe Hachiroku"
-  credencial: "Redação técnica automotiva"
+  nome: "Redação Hachiroku"
 
 entidade:
   marca: "Renault"

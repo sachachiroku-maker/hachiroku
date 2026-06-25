@@ -1,13 +1,12 @@
----
-title: "Fiat Argo usado vale a pena? O que verificar antes de comprar (por motor)"
+﻿---
+title: "Fiat Argo usado vale a pena? O que verificar antes de"
 description: "O Fiat Argo usado é um dos hatches mais racionais do Brasil, mas o que você inspeciona muda conforme o motor: Firefly 1.0, Firefly 1.3 ou E.torQ 1.8 do HGT. Veja o checklist completo, os defeitos crônicos de cada versão e como negociar."
 marca: "Fiat"
 modelo: "Argo"
 kicker: "GUIA DE COMPRA"
 veredito: "Sim, o Fiat Argo usado costuma valer a pena: é econômico, tem peça acessível, bom espaço interno e revenda razoável. Os motores Firefly 1.0 e 1.3 usam corrente de distribuição, então você não tem a dor de cabeça da correia banhada a óleo de alguns concorrentes. O foco da inspeção é outro: ruído de detonação por calibração agressiva, sistema Start-Stop e bateria, e, nas versões automatizadas, o câmbio GSR. No 1.8 do HGT o ponto é o câmbio automático Aisin e o consumo. Saber qual motor está na sua frente é o que separa um bom negócio de uma fatura cara."
 autor:
-  nome: "Equipe Técnica Hachiroku"
-  credencial: ""
+  nome: "Redação Hachiroku"
 pubDate: 2026-06-19
 updatedDate: 2026-06-19
 disclaimer: "Este guia orienta a inspeção, mas não substitui uma vistoria cautelar e uma avaliação mecânica presencial antes da compra. Em carro usado, sempre vale levar um profissional de confiança."

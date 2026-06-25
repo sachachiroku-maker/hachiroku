@@ -1,5 +1,5 @@
----
-title: "Porta deslizante da Spin com problema de trava: causas, custo e diagnóstico"
+﻿---
+title: "Porta deslizante da Spin com problema de trava"
 description: "A porta deslizante da Chevrolet Spin pode travar, não fechar completamente ou abrir de forma intermitente. Saiba as causas, o custo do reparo, como diagnosticar em casa e o que verificar antes de comprar uma Spin usada."
 entidade:
   marca: "Chevrolet"
@@ -18,8 +18,7 @@ entidadesEssenciais:
   - "cano de borracha do trilho"
   - "sensor de porta aberta"
 autor:
-  nome: "Equipe Técnica Hachiroku"
-  credencial: ""
+  nome: "Redação Hachiroku"
 pubDate: 2026-06-20
 updatedDate: 2026-06-20
 disclaimer: "Este conteúdo é informativo. A regulagem e o reparo da porta deslizante devem ser realizados por profissional qualificado. O mau funcionamento da trava da porta em movimento representa risco de segurança para os ocupantes."

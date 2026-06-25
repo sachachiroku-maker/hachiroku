@@ -1,5 +1,5 @@
----
-title: "Vibração e Tremor do Motor 3 Cilindros 1.0 TSI no VW Nivus: Normal ou Defeito?"
+﻿---
+title: "Vibração e Tremor do Motor 3 Cilindros 1.0 TSI no VW Nivus"
 description: "Motor 3 cilindros do Nivus vibra na marcha lenta? Saiba o que é normal, quais causas indicam defeito e quanto custa resolver. Dados técnicos 2025-2026."
 entidade:
   marca: "Volkswagen"
@@ -16,8 +16,7 @@ entidadesEssenciais:
   - "Velas de iridium"
   - "Código P0300"
 autor:
-  nome: "Equipe Técnica Hachiroku"
-  credencial: ""
+  nome: "Redação Hachiroku"
 pubDate: 2026-06-20
 updatedDate: 2026-06-20
 disclaimer: "Este artigo tem finalidade informativa. Diagnósticos precisos exigem inspeção presencial por mecânico habilitado. Custos estimados refletem média do mercado brasileiro em 2025-2026 e podem variar por região."

@@ -1,5 +1,5 @@
----
-title: "Motor 1.6 THP do Peugeot 2008 consome óleo: causas, diagnóstico e solução"
+﻿---
+title: "Motor 1.6 THP do Peugeot 2008 consome óleo"
 description: "O motor 1.6 THP PureTech do Peugeot 2008 tem histórico documentado de consumo excessivo de óleo. Entenda as causas, como identificar o problema no seu carro e o que esperar do reparo."
 entidade:
   marca: "Peugeot"
@@ -18,8 +18,7 @@ entidadesEssenciais:
   - "catalisador contaminado"
   - "vela de ignição encharcada"
 autor:
-  nome: "Equipe Técnica Hachiroku"
-  credencial: ""
+  nome: "Redação Hachiroku"
 pubDate: 2026-06-20
 updatedDate: 2026-06-20
 disclaimer: "Este conteúdo é informativo e diagnóstico. Consumo de óleo acima de 0,5 litro por 1.000 km exige avaliação profissional. Continuar rodando com nível de óleo abaixo do mínimo pode causar dano irreversível ao motor."

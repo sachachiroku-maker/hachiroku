@@ -1,5 +1,5 @@
----
-title: "Recall do servofreio no Hyundai Creta 2024/2025: por que o pedal de freio fica duro e exige mais força"
+﻿---
+title: "Recall do servofreio no Hyundai Creta 2024/2025"
 description: "O Hyundai Creta 1.0 turbo fabricado em 2024 entrou em recall oficial por uma falha no servofreio: o deslocamento do diafragma reduz o vácuo da assistência de frenagem e deixa o pedal duro, exigindo mais força do motorista e aumentando a distância para parar. Veja como o servofreio funciona, os sintomas que ligam o alerta, como confirmar se o seu chassi está na campanha, o que a Hyundai troca de graça e o que fazer enquanto o reparo não acontece."
 entidade:
   marca: "Hyundai"
@@ -16,8 +16,7 @@ entidadesEssenciais:
   - "pedal de freio duro"
   - "recall"
 autor:
-  nome: "Equipe Técnica Hachiroku"
-  credencial: ""
+  nome: "Redação Hachiroku"
 pubDate: 2026-06-19
 updatedDate: 2026-06-19
 disclaimer: "Conteúdo informativo de diagnóstico. Este texto trata de uma campanha de recall oficial ligada ao sistema de freios, item de segurança crítica. O reparo do recall é gratuito e deve ser feito na rede autorizada Hyundai. Não tente substituir o servofreio por conta própria. Confirme se o seu chassi está na campanha e agende o atendimento diretamente com a Hyundai antes de continuar rodando com sintoma de pedal duro."

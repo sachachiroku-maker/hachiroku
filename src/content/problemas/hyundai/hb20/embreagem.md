@@ -1,5 +1,5 @@
----
-title: "Embreagem do Hyundai HB20: trepidação, ponto alto e o que olhar antes de trocar"
+﻿---
+title: "Embreagem do Hyundai HB20: trepidação, ponto alto e o que"
 description: "A embreagem do Hyundai HB20 manual costuma dar sinais antes de morrer: trepidação na arrancada, ponto de engate subindo e patinação em subida. Veja os sintomas, as causas (incluindo o retentor do virabrequim que contamina o disco), a vida útil real, o custo do kit com platô e disco e como dirigir para a embreagem durar mais."
 entidade:
   marca: "Hyundai"
@@ -16,8 +16,7 @@ entidadesEssenciais:
   - "atuador"
   - "trepidação"
 autor:
-  nome: "Equipe Técnica Hachiroku"
-  credencial: ""
+  nome: "Redação Hachiroku"
 pubDate: 2026-06-18
 updatedDate: 2026-06-18
 disclaimer: "A troca da embreagem exige remover o câmbio do HB20 e não é serviço de garagem para iniciantes. Este conteúdo é informativo: o diagnóstico final e a execução devem ficar com um profissional qualificado. A embreagem é item de desgaste e, no Brasil, costuma ter garantia legal de apenas 90 dias; confirme as condições com a Hyundai e com sua oficina antes de qualquer reparo."

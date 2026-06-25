@@ -1,5 +1,5 @@
----
-title: "Como Limpar o Corpo de Borboleta (TBI): Quando Fazer e Passo a Passo"
+﻿---
+title: "Como Limpar o Corpo de Borboleta (TBI)"
 description: "Aprenda a limpar o corpo de borboleta do seu carro em casa. Resolva marcha lenta irregular, motor engasgando e consumo alto com spray TBI e 60 min."
 kicker: "MÃO NA MASSA"
 veiculo: "universal"
@@ -31,8 +31,7 @@ passos:
   - nome: "Remonte e adapte a marcha lenta"
     texto: "Reconecte o duto de ar e aperte bem a abraçadeira. Ligue o motor e deixe-o estabilizar por 5 minutos. Em alguns modelos, a ECU precisará de um ciclo de aprendizado: mantenha o motor em marcha lenta por 10 minutos sem tocar no acelerador. Se a marcha lenta ainda oscilar após isso, é necessário fazer o reset da TPS (sensor de posição da borboleta) pelo scanner OBD2."
 autor:
-  nome: "Equipe Técnica Hachiroku"
-  credencial: ""
+  nome: "Redação Hachiroku"
 pubDate: 2026-06-20
 updatedDate: 2026-06-20
 disclaimer: "Este guia é informativo. Veículos com sistemas Drive By Wire (DBW) exigem cuidados adicionais descritos no texto. Em caso de dúvida, consulte um mecânico habilitado. O Hachiroku não se responsabiliza por danos decorrentes de procedimentos realizados de forma incorreta."

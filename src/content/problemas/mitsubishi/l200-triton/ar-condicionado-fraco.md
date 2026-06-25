@@ -1,5 +1,5 @@
----
-title: "Ar-condicionado Fraco no Mitsubishi L200 Triton Sport 2.4 Diesel: Causas e Diagnóstico"
+﻿---
+title: "Ar-condicionado Fraco no Mitsubishi L200 Triton Sport 2.4"
 description: "AC fraco no L200 Triton Sport 2.4 MIVEC diesel: condensador entupido, válvula travada, gás baixo ou compressor gasto. Diagnóstico completo com custos 2026."
 entidade:
   marca: "Mitsubishi"
@@ -11,8 +11,7 @@ kicker: "DEFEITO CRÔNICO"
 intencao: "Diagnóstico"
 entidadesEssenciais: ["Mitsubishi L200 Triton Sport", "ar-condicionado automotivo", "compressor de AC"]
 autor:
-  nome: "Equipe Técnica Hachiroku"
-  credencial: ""
+  nome: "Redação Hachiroku"
 pubDate: 2026-06-20
 updatedDate: 2026-06-20
 disclaimer: "As faixas de custo indicadas são estimativas baseadas em preços praticados no mercado brasileiro em 2026 e podem variar conforme região, fornecedor e mão de obra local. Consulte sempre um técnico habilitado antes de autorizar qualquer serviço."

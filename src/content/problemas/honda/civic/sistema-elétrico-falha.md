@@ -1,5 +1,5 @@
----
-title: "Honda Sensing com falha: câmera trava e alerta espúrio | Hachiroku"
+﻿---
+title: "Honda Sensing com falha: câmera trava e alerta espúrio |"
 description: "O Honda Sensing do Civic 11ª geração pode travar a câmera dianteira e disparar alertas de colisão sem obstáculo. Entenda a causa, como diagnosticar e o que fazer antes de levar à concessionária."
 entidade:
   marca: "Honda"
@@ -18,8 +18,7 @@ entidadesEssenciais:
   - "Civic G11"
   - "módulo ADAS Honda"
 autor:
-  nome: "Equipe Hachiroku"
-  credencial: "Redação técnica automotiva"
+  nome: "Redação Hachiroku"
 pubDate: 2026-06-21
 updatedDate: 2026-06-21
 disclaimer: "As informações deste artigo são de caráter informativo e técnico. Falhas no sistema Honda Sensing envolvem segurança ativa. Qualquer intervenção no módulo da câmera ou na calibração do sistema exige equipamento especializado e profissional habilitado. Não remova ou ajuste a câmera dianteira sem realizar a calibração estática e dinâmica obrigatória."

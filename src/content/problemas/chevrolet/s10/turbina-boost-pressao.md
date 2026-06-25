@@ -1,5 +1,5 @@
----
-title: "Turbina da S10 2.8 Duramax com queda de boost: VGT, limpeza e custo de reparo"
+﻿---
+title: "Turbina da S10 2.8 Duramax com queda de boost"
 description: "A turbina de geometria variável (VGT) da Chevrolet S10 2.8 Duramax perde pressão de boost com acúmulo de carbono no atuador das palhetas. Entenda os sintomas, o diagnóstico e quanto custa resolver."
 entidade:
   marca: "Chevrolet"
@@ -19,8 +19,7 @@ entidadesEssenciais:
   - "limpeza de turbina"
   - "motor Duramax 2.8 CTDI"
 autor:
-  nome: "Equipe Técnica Hachiroku"
-  credencial: ""
+  nome: "Redação Hachiroku"
 pubDate: 2026-06-20
 updatedDate: 2026-06-20
 disclaimer: "Este conteúdo é informativo e diagnóstico. A desmontagem da turbina para limpeza ou rebuild deve ser feita por especialista em turbinas diesel. A tentativa de limpeza sem remoção correta e sem torquímetro pode causar dano permanente à turbina."

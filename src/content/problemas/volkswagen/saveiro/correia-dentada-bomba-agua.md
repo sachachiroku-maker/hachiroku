@@ -1,5 +1,5 @@
----
-title: "Correia Dentada e Bomba de Água no Saveiro 1.6 MSI: Diagnóstico e Solução"
+﻿---
+title: "Correia Dentada e Bomba de Água no Saveiro 1.6 MSI"
 description: "Falha da correia dentada e bomba de água com impelidor plástico no Saveiro 1.6 MSI G7. Sintomas, intervalos reais e custo da troca preventiva completa."
 entidade:
   marca: "Volkswagen"
@@ -14,8 +14,7 @@ entidadesEssenciais:
   - "bomba de água impelidor plástico Saveiro"
   - "superaquecimento motor Saveiro G7"
 autor:
-  nome: "Equipe Técnica Hachiroku"
-  credencial: ""
+  nome: "Redação Hachiroku"
 pubDate: 2026-06-20
 updatedDate: 2026-06-20
 disclaimer: "As informações deste artigo têm caráter educativo e diagnóstico. Sempre consulte um mecânico qualificado antes de realizar qualquer intervenção no veículo."

@@ -1,4 +1,4 @@
----
+﻿---
 title: "Corrente de distribuição C4 1.6 THP: estiramento | Hachiroku"
 description: "A corrente de distribuição do Citroën C4 1.6 THP estica precocemente e gera barulho metálico a frio. Veja causas, sintomas, diagnóstico e o que fazer antes de o motor bater válvula."
 entidade:
@@ -18,8 +18,7 @@ entidadesEssenciais:
   - "pressão de óleo EP6"
   - "motor fora de ponto"
 autor:
-  nome: "Equipe Hachiroku"
-  credencial: "Redação técnica automotiva"
+  nome: "Redação Hachiroku"
 pubDate: 2026-06-20
 updatedDate: 2026-06-20
 disclaimer: "Este conteúdo é informativo e diagnóstico. A troca da corrente de distribuição do EP6 exige ferramentas de travamento de motor e conhecimento de sincronismo. Não é serviço de garagem improvisado. Confie a execução a um profissional qualificado em motores PSA e siga sempre a especificação de óleo do manual."

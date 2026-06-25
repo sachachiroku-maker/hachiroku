@@ -1,5 +1,5 @@
----
-title: "Ficha técnica do Jeep Compass 2023 Sport 1.3 T270 (turbo flex)"
+﻿---
+title: "Ficha técnica do Jeep Compass 2023 Sport 1.3 T270 (turbo"
 description: "Ficha técnica completa do Jeep Compass 2023 Sport 1.3 T270: motor 1.3 turbo de 4 cilindros e 180 cv, câmbio automático de 6 marchas, 410 litros de porta-malas e injeção direta. Dados, consumo e o que esperar da versão de entrada turbo."
 marca: "Jeep"
 modelo: "Compass"

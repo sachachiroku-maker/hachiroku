@@ -1,5 +1,5 @@
----
-title: "Ficha técnica do Mitsubishi L200 Triton Sport 2.4 MIVEC Diesel 2022"
+﻿---
+title: "Ficha técnica do Mitsubishi L200 Triton Sport 2.4 MIVEC"
 description: "Ficha técnica completa da L200 Triton Sport 2022: motor 2.4 MIVEC diesel 190 cv, tração 4WD Super Select, câmbio automático 6 marchas."
 marca: "Mitsubishi"
 modelo: "L200 Triton Sport"

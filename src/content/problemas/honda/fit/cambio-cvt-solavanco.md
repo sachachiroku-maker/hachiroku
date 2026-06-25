@@ -1,5 +1,5 @@
----
-title: "CVT do Honda Fit com solavanco: fluido HCF-2, flush e diagnóstico completo"
+﻿---
+title: "CVT do Honda Fit com solavanco"
 description: "O câmbio CVT do Honda Fit apresenta solavancos ao sair do repouso e ruído em baixa velocidade. A causa mais comum é o fluido Honda HCF-2 degradado. Saiba o intervalo correto de troca, o custo do flush, o que o fluido genérico causa e quando o problema já é mecânico."
 entidade:
   marca: "Honda"
@@ -18,8 +18,7 @@ entidadesEssenciais:
   - "flush de câmbio"
   - "sensor de velocidade do câmbio"
 autor:
-  nome: "Equipe Técnica Hachiroku"
-  credencial: ""
+  nome: "Redação Hachiroku"
 pubDate: 2026-06-20
 updatedDate: 2026-06-20
 disclaimer: "A troca do fluido CVT com fluido incorreto ou em procedimento equivocado pode causar danos irreversíveis ao câmbio. Confie o serviço a um profissional com experiência em transmissões CVT Honda. Este conteúdo é informativo."

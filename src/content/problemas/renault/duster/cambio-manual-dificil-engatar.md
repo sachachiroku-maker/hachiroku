@@ -1,5 +1,5 @@
----
-title: "Renault Duster: Câmbio Manual Dificultoso e Engates Duros (1.6 16V e 2.0)"
+﻿---
+title: "Renault Duster: Câmbio Manual Dificultoso e Engates Duros"
 description: "Câmbio manual do Duster endurece e entra com dificuldade? Veja causas, diagnóstico passo a passo e como resolver o problema definitivamente."
 entidade:
   marca: "Renault"
@@ -11,8 +11,7 @@ kicker: "DEFEITO CRÔNICO"
 intencao: "Diagnóstico"
 entidadesEssenciais: ["Renault Duster", "câmbio manual", "sincronizador"]
 autor:
-  nome: "Equipe Técnica Hachiroku"
-  credencial: ""
+  nome: "Redação Hachiroku"
 pubDate: 2026-06-20
 updatedDate: 2026-06-20
 disclaimer: "As informações deste artigo são de caráter técnico-educativo. Serviços em transmissão exigem conhecimento especializado. Consulte um mecânico habilitado antes de qualquer intervenção."

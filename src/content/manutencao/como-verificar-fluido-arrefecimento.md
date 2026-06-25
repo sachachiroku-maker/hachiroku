@@ -1,4 +1,4 @@
----
+﻿---
 title: "Fluido de arrefecimento: como verificar e repor"
 kicker: "HOW-TO · MÃO NA MASSA"
 description: "Fluido de arrefecimento baixo causa superaquecimento e danos ao motor. Saiba como verificar o nível, identificar o tipo correto e repor em 5 passos simples."
@@ -16,8 +16,7 @@ pontosChave:
   - "Causa: nível de fluido abaixo do mínimo no reservatório de expansão, vazamento ou aditivo degradado."
   - "Ação: verificar o reservatório com o motor frio, repor o tipo correto de aditivo diluído em água destilada."
 autor:
-  nome: "Equipe Hachiroku"
-  credencial: "Redação técnica automotiva"
+  nome: "Redação Hachiroku"
 afiliados:
   - produto: "Aditivo arrefecimento concentrado"
     nota: "Fórmula concentrada que rende até 4 litros quando diluída. Compatível com a maioria dos motores a gasolina, etanol e flex."

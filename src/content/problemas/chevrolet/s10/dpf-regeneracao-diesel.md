@@ -1,5 +1,5 @@
----
-title: "DPF da Chevrolet S10 2.8 diesel entupindo em uso urbano: como prevenir e resolver"
+﻿---
+title: "DPF da Chevrolet S10 2.8 diesel entupindo em uso urbano"
 description: "O filtro de partículas diesel (DPF) da Chevrolet S10 2.8 Duramax entope em uso urbano exclusivo. Entenda o ciclo de regeneração, os sinais de alerta e o custo de reparo quando o filtro chega ao limite."
 entidade:
   marca: "Chevrolet"
@@ -19,8 +19,7 @@ entidadesEssenciais:
   - "EGR"
   - "uso urbano"
 autor:
-  nome: "Equipe Técnica Hachiroku"
-  credencial: ""
+  nome: "Redação Hachiroku"
 pubDate: 2026-06-20
 updatedDate: 2026-06-20
 disclaimer: "Este conteúdo é informativo e diagnóstico. Remover o DPF para uso em via pública é ilegal no Brasil (Resolução CONAMA 18/1986 e PROCONVE). A regeneração forçada deve ser feita por profissional com scanner GM autorizado. Ignore alertas do DPF por conta e risco de dano ao motor."

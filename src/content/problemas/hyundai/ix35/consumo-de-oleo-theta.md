@@ -1,5 +1,5 @@
----
-title: "Motor Theta II do Hyundai ix35 consome óleo: o defeito que gerou recalls internacionais"
+﻿---
+title: "Motor Theta II do Hyundai ix35 consome óleo"
 description: "O motor Theta II 2.0 do Hyundai ix35 tem histórico documentado de consumo excessivo de óleo, com recalls massivos nos EUA e processos judiciais. No Brasil o recall formal não ocorreu na mesma escala, mas o problema é amplamente relatado nos fóruns. Saiba os sintomas, o intervalo correto de checagem e o que esperar de um ix35 usado."
 entidade:
   marca: "Hyundai"
@@ -18,8 +18,7 @@ entidadesEssenciais:
   - "recall Hyundai"
   - "retífica de motor"
 autor:
-  nome: "Equipe Técnica Hachiroku"
-  credencial: ""
+  nome: "Redação Hachiroku"
 pubDate: 2026-06-20
 updatedDate: 2026-06-20
 disclaimer: "Consumo excessivo de óleo pode levar à perda de pressão de lubrificação e danos graves ao motor se não detectado a tempo. Monitore o nível de óleo regularmente e procure um profissional diante de qualquer sinal de consumo fora do normal. Este conteúdo é informativo."

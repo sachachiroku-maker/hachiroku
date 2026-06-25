@@ -1,5 +1,5 @@
 ﻿---
-title: "Motor 1.6 T-GDi do Hyundai Tucson com consumo de óleo: diagnóstico completo"
+title: "Motor 1.6 T-GDi do Hyundai Tucson com consumo de óleo"
 description: "O motor 1.6 T-GDi turbo do Hyundai Tucson NX4 pode apresentar consumo de óleo acima do esperado. Saiba as causas documentadas, como medir, qual óleo usar e quando acionar os 5 anos de garantia Hyundai. Diagnóstico técnico verificado."
 entidade:
   marca: "Hyundai"
@@ -17,8 +17,7 @@ entidadesEssenciais:
   - "garantia Hyundai 5 anos"
   - "sistema PCV"
 autor:
-  nome: "Equipe Técnica Hachiroku"
-  credencial: ""
+  nome: "Redação Hachiroku"
 pubDate: 2026-06-20
 updatedDate: 2026-06-20
 disclaimer: "As informações deste artigo são de caráter técnico e educativo. O diagnóstico definitivo de consumo excessivo de óleo exige avaliação presencial por profissional habilitado. Não substitua peças sem diagnóstico confirmado."

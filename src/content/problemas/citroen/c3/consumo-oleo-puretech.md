@@ -1,5 +1,5 @@
----
-title: "Consumo de óleo C3 1.2 PureTech: causas e solução | Hachiroku"
+﻿---
+title: "Consumo de óleo C3 1.2 PureTech"
 description: "O motor 1.2 PureTech 3 cilindros do Citroën C3 tem consumo de óleo documentado em toda a família. Entenda a causa técnica, como confirmar o defeito no seu carro e o que esperar do reparo."
 entidade:
   marca: "Citroën"
@@ -19,8 +19,7 @@ entidadesEssenciais:
   - "correia dentada banhada a óleo"
   - "Diagbox (scanner PSA/Stellantis)"
 autor:
-  nome: "Equipe Hachiroku"
-  credencial: "Redação técnica automotiva"
+  nome: "Redação Hachiroku"
 pubDate: 2026-06-20
 updatedDate: 2026-06-20
 disclaimer: "Este conteúdo é informativo e diagnóstico. Consumo de óleo acima de 0,5 litro por 1.000 km exige avaliação profissional. Continuar rodando com nível abaixo do mínimo pode causar dano irreversível ao motor, especialmente nos 3 cilindros de pequena cilindrada do PureTech."

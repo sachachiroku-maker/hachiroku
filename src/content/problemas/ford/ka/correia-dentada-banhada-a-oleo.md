@@ -1,5 +1,5 @@
----
-title: "Correia dentada banhada a óleo no Ford Ka: o defeito que funde o motor 3 cilindros por dentro"
+﻿---
+title: "Correia dentada banhada a óleo no Ford Ka"
 description: "A correia dentada banhada a óleo do Ford Ka 1.0 e 1.5 Ti-VCT é o defeito crônico que mais funde motores 3 cilindros no Brasil. A correia trabalha imersa no óleo do motor, se degrada com o tempo e seus fragmentos entopem o pescador da bomba de óleo, cortando a lubrificação e levando o motor à perda total. Veja os sintomas, por que isso acontece, como diagnosticar, quanto custa e como a troca preventiva e o óleo certo evitam o pior."
 entidade:
   marca: "Ford"
@@ -16,8 +16,7 @@ entidadesEssenciais:
   - "motor Ti-VCT 3 cilindros"
   - "troca preventiva"
 autor:
-  nome: "Equipe Técnica Hachiroku"
-  credencial: ""
+  nome: "Redação Hachiroku"
 pubDate: 2026-06-19
 updatedDate: 2026-06-19
 disclaimer: "Conteúdo informativo de diagnóstico. A substituição da correia dentada banhada a óleo e o reparo de motor exigem ferramenta de sincronismo, peças dentro da especificação e profissional qualificado. Confirme sempre o intervalo de troca e a especificação de óleo do seu carro pelo manual do proprietário e por uma oficina de confiança antes de qualquer decisão."

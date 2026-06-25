@@ -1,4 +1,4 @@
----
+﻿---
 title: "Como limpar injetores: aditivo ou ultrassom?"
 description: "Aprenda a limpar os bicos injetores com aditivo em casa ou ultrassom na oficina: quando usar cada método, custos e passo a passo completo."
 kicker: "MÃO NA MASSA"
@@ -18,8 +18,7 @@ passos:
   - nome: "Verifique o resultado e defina a periodicidade"
     texto: "Após o aditivo, observe nos próximos 500 km se os sintomas sumiram. Se o engasgamento leve desapareceu, o aditivo resolveu. Se os sintomas persistem, o nível de depósito exige o ultrassom. Após o serviço de ultrassom, o intervalo recomendado para a próxima limpeza varia de 30.000 a 40.000 km. Para o aditivo preventivo, o uso a cada 10.000 km é suficiente para manter os injetores limpos e evitar o acúmulo."
 autor:
-  nome: "Equipe Hachiroku"
-  credencial: "Redação técnica automotiva"
+  nome: "Redação Hachiroku"
 pubDate: 2026-06-21
 updatedDate: 2026-06-21
 disclaimer: "Este guia tem caráter educativo. A remoção de injetores envolve trabalho no sistema de combustível sob pressão e deve ser realizada por profissional habilitado. O uso de aditivos é seguro para o usuário comum quando seguida a dosagem da embalagem. O Hachiroku não se responsabiliza por danos causados pela aplicação incorreta das instruções."

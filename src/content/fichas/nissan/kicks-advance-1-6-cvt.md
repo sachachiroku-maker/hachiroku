@@ -1,4 +1,4 @@
----
+﻿---
 title: "Ficha técnica Nissan Kicks Advance 1.6 CVT 2023"
 description: "Ficha técnica do Nissan Kicks Advance 1.6 CVT 2023: motor HR16DE de 114 cv, câmbio CVT Xtronic, porta-malas de 432 L e consumo INMETRO certificado."
 marca: "Nissan"
@@ -55,8 +55,7 @@ pubDate: 2026-06-21
 updatedDate: 2026-06-21
 
 autor:
-  nome: "Equipe Hachiroku"
-  credencial: "Redação técnica automotiva"
+  nome: "Redação Hachiroku"
 
 afiliados:
   - produto: "Fluido CVT NS-3 Nissan (1 litro)"

@@ -1,5 +1,5 @@
----
-title: "VW Taos 1.4 TSI: Falha da Bomba de Água Elétrica e Superaquecimento"
+﻿---
+title: "VW Taos 1.4 TSI: Falha da Bomba de Água Elétrica e"
 description: "Bomba de água elétrica do Taos 1.4 TSI falha e causa superaquecimento. Veja sintomas, códigos P0217, P0128, P2181 e quanto custa o reparo em 2025."
 entidade:
   marca: "Volkswagen"
@@ -14,8 +14,7 @@ entidadesEssenciais:
   - "superaquecimento 1.4 TSI EA211"
   - "código P0217 Taos"
 autor:
-  nome: "Equipe Técnica Hachiroku"
-  credencial: ""
+  nome: "Redação Hachiroku"
 pubDate: 2026-06-20
 updatedDate: 2026-06-20
 disclaimer: "As informações deste artigo têm caráter educativo. Sempre consulte um mecânico qualificado para diagnóstico e reparo do seu veículo. Custos podem variar conforme região e oficina."

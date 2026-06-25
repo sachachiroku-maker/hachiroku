@@ -1,5 +1,5 @@
----
-title: "Consumo alto no Ford Territory 1.5 EcoBoost: causas e solução"
+﻿---
+title: "Consumo alto no Ford Territory 1.5 EcoBoost"
 description: "Ford Territory 1.5 EcoBoost consome acima de 10 km/l na cidade. Saiba as causas reais, câmbio Sport, pneus e bicos injetores, e o que fazer para resolver."
 entidade:
   marca: "Ford"
@@ -13,8 +13,7 @@ entidadesEssenciais:
   - "Motor EcoBoost 1.5 turbo"
   - "Câmbio automático 7 marchas"
 autor:
-  nome: "Equipe Hachiroku"
-  credencial: "Redação técnica automotiva"
+  nome: "Redação Hachiroku"
 pubDate: 2026-06-21
 updatedDate: 2026-06-21
 disclaimer: "As informações deste artigo têm caráter educativo e não substituem o diagnóstico de um profissional qualificado. Consumos reais variam conforme condições de uso, tráfego, temperatura e estado de manutenção do veículo."

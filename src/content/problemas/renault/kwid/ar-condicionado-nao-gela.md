@@ -1,5 +1,5 @@
----
-title: "Ar-condicionado do Kwid que nao gela: gas, compressor e o que verificar"
+﻿---
+title: "Ar-condicionado do Kwid que nao gela"
 description: "O ar-condicionado do Renault Kwid que para de gelar quase sempre tem causa no gas R134a baixo ou no compressor com problema. Veja como identificar qual e o seu caso, os sintomas de cada falha e o que verificar antes de gastar."
 entidade:
   marca: "Renault"
@@ -19,8 +19,7 @@ entidadesEssenciais:
   - "filtro secador"
   - "motor SCe 1.0"
 autor:
-  nome: "Equipe Técnica Hachiroku"
-  credencial: ""
+  nome: "Redação Hachiroku"
 pubDate: 2026-06-20
 updatedDate: 2026-06-20
 disclaimer: "O manuseio do gas refrigerante R134a requer equipamento especifico e certificacao ambiental. Nunca tente recarregar o sistema sozinho com kits de emergencia sem diagnosticar o vazamento antes: recarregar um sistema com vazamento e dinheiro jogado fora e pode danificar o compressor. Este conteudo e informativo; o servico deve ser executado em oficina com equipamento de AC."

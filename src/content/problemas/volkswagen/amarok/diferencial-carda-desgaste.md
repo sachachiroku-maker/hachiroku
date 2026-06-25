@@ -1,5 +1,5 @@
----
-title: "Diferencial e cardã da Amarok V6 4Motion: desgaste nas juntas homocinéticas e o que monitorar"
+﻿---
+title: "Diferencial e cardã da Amarok V6 4Motion"
 description: "O eixo cardã e as juntas homocinéticas da Volkswagen Amarok V6 4Motion apresentam desgaste precoce documentado, especialmente em veículos usados fora de estrada sem manutenção adequada do óleo de diferencial. Veja os sintomas, o intervalo de troca do óleo e o custo do reparo."
 entidade:
   marca: "Volkswagen"
@@ -22,8 +22,7 @@ entidadesEssenciais:
   - "tração 4Motion"
   - "desgaste precoce"
 autor:
-  nome: "Equipe Técnica Hachiroku"
-  credencial: ""
+  nome: "Redação Hachiroku"
 pubDate: 2026-06-20
 updatedDate: 2026-06-20
 disclaimer: "Desgaste no cardã e no diferencial podem afetar a dirigibilidade e a segurança do veículo. Consulte uma oficina especializada para diagnóstico e reparo. Este conteúdo é informativo."

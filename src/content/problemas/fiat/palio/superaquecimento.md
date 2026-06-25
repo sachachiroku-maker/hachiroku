@@ -1,5 +1,5 @@
----
-title: "Fiat Palio superaquecendo: causas, junta de cabeçote e o que fazer"
+﻿---
+title: "Fiat Palio superaquecendo: causas, junta de cabeçote e o"
 description: "Fiat Palio com motor Fire superaquecendo? O ponteiro na zona vermelha quase sempre vem de ventoinha, válvula termostática, sensor de temperatura ou bomba d'água. Veja as causas reais, os sinais de junta de cabeçote queimada, o que fazer na hora (parar o motor) e o custo do reparo."
 entidade:
   marca: "Fiat"
@@ -16,8 +16,7 @@ entidadesEssenciais:
   - "válvula termostática"
   - "bomba d'água"
 autor:
-  nome: "Equipe Técnica Hachiroku"
-  credencial: ""
+  nome: "Redação Hachiroku"
 pubDate: 2026-06-18
 updatedDate: 2026-06-18
 disclaimer: "Superaquecimento é uma falha de segurança e de motor. Seguir rodando com o ponteiro na zona vermelha empena o cabeçote, queima a junta e pode fundir o motor. Este conteúdo orienta o que investigar; a confirmação e o reparo devem ser feitos por um profissional com o carro em mãos."

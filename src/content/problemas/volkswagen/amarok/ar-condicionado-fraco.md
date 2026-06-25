@@ -1,4 +1,4 @@
----
+﻿---
 title: "Ar-condicionado fraco na Amarok V6: condensador e compressor"
 description: "Ar-condicionado da Volkswagen Amarok V6 3.0 TDI com refrigeração fraca tem duas causas principais: condensador entupido por insetos e sujeira acumulada na frente do radiador, e desgaste do compressor de AC. Veja como identificar, limpar e resolver."
 entidade:
@@ -20,8 +20,7 @@ entidadesEssenciais:
   - "motor V6 3.0 TDI"
   - "picape diesel"
 autor:
-  nome: "Equipe Hachiroku"
-  credencial: "Redação técnica automotiva"
+  nome: "Redação Hachiroku"
 pubDate: 2026-06-21
 updatedDate: 2026-06-21
 disclaimer: "Intervenções no sistema de ar-condicionado envolvem gás refrigerante sob pressão. Serviços de recarga e troca do compressor devem ser realizados por profissional certificado com equipamento homologado. Este conteúdo é informativo."

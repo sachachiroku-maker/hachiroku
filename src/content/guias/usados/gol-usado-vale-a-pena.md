@@ -1,4 +1,4 @@
----
+﻿---
 title: "VW Gol usado vale a pena? O que verificar antes de comprar"
 description: "O VW Gol usado é barato, simples e tem peça em qualquer esquina, mas cada geração tem suas manias. Veja o que inspecionar por geração e motor, dos vícios do EA111 (tucho, bobina, corpo de borboleta) à infiltração no porta-malas, com checklist completo."
 marca: "Volkswagen"
@@ -6,8 +6,7 @@ modelo: "Gol"
 kicker: "GUIA DE COMPRA"
 veredito: "Sim, o Gol usado costuma valer a pena para quem quer rodar barato: peça é baratíssima, qualquer mecânico mexe e a depreciação já aconteceu. O segredo está no motor. Nas versões com EA111 (boa parte do G5 e G6 1.0), o foco é o histórico de óleo, o ruído de tucho a frio e os vícios elétricos. Nas versões com EA211 (1.6 do G6 em diante e o 1.0 mais recente), o motor é mais tranquilo, mas exige óleo em dia. Comprar sem identificar qual motor está embaixo do capô é o erro número um."
 autor:
-  nome: "Equipe Técnica Hachiroku"
-  credencial: ""
+  nome: "Redação Hachiroku"
 pubDate: 2026-06-18
 updatedDate: 2026-06-18
 disclaimer: "Este guia orienta a inspeção, mas não substitui uma vistoria cautelar e uma avaliação mecânica presencial antes da compra. Em carro usado, sempre vale levar um profissional de confiança."

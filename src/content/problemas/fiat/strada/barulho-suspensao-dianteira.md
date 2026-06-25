@@ -1,5 +1,5 @@
----
-title: "Barulho na suspensão dianteira da Fiat Strada: o defeito que aparece cedo e como diagnosticar"
+﻿---
+title: "Barulho na suspensão dianteira da Fiat Strada"
 description: "O ruído na suspensão dianteira da Fiat Strada é a reclamação mais recorrente entre os donos, e costuma surgir com pouca quilometragem, muitas vezes do lado direito. Veja os sintomas, as causas mais prováveis (coxim do amortecedor, buchas da barra estabilizadora, batentes), o diagnóstico, o custo e como prevenir."
 entidade:
   marca: "Fiat"
@@ -18,8 +18,7 @@ entidadesEssenciais:
   - "garantia de fábrica"
   - "baixa quilometragem"
 autor:
-  nome: "Equipe Técnica Hachiroku"
-  credencial: ""
+  nome: "Redação Hachiroku"
 pubDate: 2026-06-19
 updatedDate: 2026-06-19
 disclaimer: "A inspeção da suspensão exige carro suspenso e teste em estrada para localizar a origem do ruído. Este conteúdo é informativo: a identificação da peça responsável e a troca devem ser feitas por um profissional qualificado, e se o carro estiver na garantia o primeiro caminho é a concessionária."

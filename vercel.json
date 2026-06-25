@@ -5,6 +5,15 @@
   "outputDirectory": "dist",
   "trailingSlash": true,
   "cleanUrls": false,
+  "redirects": [
+    { "source": "/guias/:path*",     "destination": "/guia-de-compra/:path*", "permanent": true },
+    { "source": "/fichas/:path*",    "destination": "/ficha-tecnica/:path*",  "permanent": true },
+    { "source": "/guia/:path*",      "destination": "/guia-de-compra/:path*", "permanent": true },
+    { "source": "/motores/:path*",   "destination": "/motor/:path*",          "permanent": true },
+    { "source": "/modelos/:path*",   "destination": "/marca/",                "permanent": true },
+    { "source": "/mecanica/:path*",  "destination": "/problemas/:path*",      "permanent": false },
+    { "source": "/diagnostico/:path*", "destination": "/manutencao/:path*",   "permanent": false }
+  ],
   "headers": [
     {
       "source": "/_astro/(.*)",

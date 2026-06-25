@@ -1,5 +1,5 @@
----
-title: "Barulho nos freios do Argo: rangido, po de pastilha e quando trocar"
+﻿---
+title: "Barulho nos freios do Argo: rangido, po de pastilha e"
 description: "O rangido ao frear devagar e o po cinza no aro sao os dois principais avisos de que as pastilhas do Fiat Argo estao chegando ao fim ou sao de qualidade ruim. Veja o que cada barulho significa, como inspecionar e quando a troca e urgente."
 entidade:
   marca: "Fiat"
@@ -18,8 +18,7 @@ entidadesEssenciais:
   - "sensor de desgaste"
   - "motor Firefly"
 autor:
-  nome: "Equipe Técnica Hachiroku"
-  credencial: ""
+  nome: "Redação Hachiroku"
 pubDate: 2026-06-20
 updatedDate: 2026-06-20
 disclaimer: "Freios sao sistema de seguranca ativa. Este conteudo e informativo e orienta o diagnostico, mas a avaliacao e a troca das pecas devem ser feitas por profissional qualificado. Nunca adie a inspecao se o barulho persistir apos os primeiros metros de rodagem ou se vier acompanhado de vibracao no pedal."

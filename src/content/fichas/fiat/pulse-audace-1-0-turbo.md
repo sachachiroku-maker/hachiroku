@@ -1,4 +1,4 @@
----
+﻿---
 title: "Ficha técnica Fiat Pulse Audace T200 CVT 2024"
 description: "Ficha técnica completa do Fiat Pulse Audace 1.0 T200 CVT 2024: motor, potência, consumo, dimensões e comparativos."
 marca: "Fiat"
@@ -9,8 +9,7 @@ carroceria: "SUV compacto"
 pubDate: 2026-06-21
 updatedDate: 2026-06-21
 autor:
-  nome: "Equipe Hachiroku"
-  credencial: "Redação técnica automotiva"
+  nome: "Redação Hachiroku"
 fonteDados: "Fiat Brasil ficha técnica 2024"
 
 motor:

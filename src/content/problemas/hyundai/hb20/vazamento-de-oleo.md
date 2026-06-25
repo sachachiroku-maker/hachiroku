@@ -1,5 +1,5 @@
----
-title: "Vazamento de óleo no Hyundai HB20: onde vaza, como achar a origem e quanto custa"
+﻿---
+title: "Vazamento de óleo no Hyundai HB20"
 description: "O vazamento de óleo no Hyundai HB20 costuma vir de poucos pontos conhecidos: junta da tampa de válvulas (clássico no 1.0 três cilindros, que enche o poço das velas), retentor do virabrequim dianteiro ou traseiro, junta do cárter e bujão. Veja como identificar a origem, separar o que é grave do que é só sujeira, e a faixa de custo de cada reparo."
 entidade: { marca: "Hyundai", modelo: "HB20", motor: "1.0 / 1.6", geracao: "—" }
 defeito: "vazamento de óleo"

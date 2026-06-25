@@ -1,13 +1,12 @@
----
-title: "Toyota Corolla vs Honda Civic: qual o melhor sedan médio do Brasil em 2026?"
+﻿---
+title: "Toyota Corolla vs Honda Civic: qual o melhor sedan médio do"
 description: "Corolla 2.0 aspirado ou Civic 1.5 Turbo? Comparamos motor, porta-malas, consumo, manutenção e custo para você decidir sem erro. (156 chars)"
 marca: "Comparativo"
 modelo: "Toyota Corolla vs Honda Civic"
 kicker: "GUIA DE COMPRA · DECISÃO"
 veredito: "Corolla para quem quer simplicidade mecânica, menor custo de manutenção e confiabilidade comprovada. Civic para quem precisa de porta-malas gigante, mais fôlego em estrada e pacote de segurança completo."
 autor:
-  nome: "Equipe Técnica Hachiroku"
-  credencial: ""
+  nome: "Redação Hachiroku"
 pubDate: 2026-06-20
 updatedDate: 2026-06-20
 disclaimer: "Este comparativo orienta a decisão de compra mas não substitui um test drive em ambos. Preços e especificações referentes a 2025-2026."
@@ -61,7 +60,7 @@ relacionados:
   - titulo: "Honda Civic 2025: guia completo da 11ª geração"
     url: "/modelos/honda/civic"
   - titulo: "Melhores sedans médios para comprar em 2026"
-    url: "/guias/melhores-sedans-medios"
+    url: "/guia-de-compra/melhores-sedans-medios"
 draft: false
 ---
 

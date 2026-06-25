@@ -1,4 +1,4 @@
----
+﻿---
 title: "Honda WR-V 1.5 Flex: consumo alto de combustível"
 description: "Honda WR-V 1.5 Flex com consumo acima de 10 km/l no ciclo urbano com gasolina. Motor aspirado sem turbo exige mais rotações em trânsito parado. Veja causas e o que fazer."
 entidade:
@@ -22,8 +22,7 @@ entidadesEssenciais:
   - "velas de ignição"
   - "pressão dos pneus"
 autor:
-  nome: "Equipe Hachiroku"
-  credencial: "Redação técnica automotiva"
+  nome: "Redação Hachiroku"
 pubDate: 2026-06-21
 updatedDate: 2026-06-21
 disclaimer: "O consumo de combustível varia conforme o estilo de condução, condições de tráfego e estado de manutenção do veículo. Este conteúdo é informativo. Para diagnóstico de consumo atípico, consulte uma oficina autorizada Honda."

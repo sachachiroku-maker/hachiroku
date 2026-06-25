@@ -1,5 +1,5 @@
----
-title: "Hyundai Tucson 2022+: Ar-Condicionado Fraco e Temperatura Errada no Automático"
+﻿---
+title: "Hyundai Tucson 2022+: Ar-Condicionado Fraco e Temperatura"
 description: "Tucson 1.6 T-GDI e 2.5 3ª geração com A/C fraco ou temperatura errada no automático. Veja causas, diagnóstico e solução passo a passo."
 entidade:
   marca: "Hyundai"
@@ -11,8 +11,7 @@ kicker: "DEFEITO CRÔNICO"
 intencao: "Diagnóstico"
 entidadesEssenciais: ["Compressor VECC", "Sensor de temperatura de cabine", "Filtro de cabine com carvão ativado"]
 autor:
-  nome: "Equipe Técnica Hachiroku"
-  credencial: ""
+  nome: "Redação Hachiroku"
 pubDate: 2026-06-20
 updatedDate: 2026-06-20
 disclaimer: "Este artigo é informativo. Intervenções no sistema de ar-condicionado automotivo exigem equipamento específico e profissional habilitado. Sempre consulte uma oficina autorizada ou especializada."

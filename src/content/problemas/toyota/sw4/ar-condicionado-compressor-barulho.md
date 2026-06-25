@@ -1,4 +1,4 @@
----
+﻿---
 title: "Barulho no compressor do A/C da SW4 2.8 | Hachiroku"
 description: "Barulho ao engatar o compressor do ar-condicionado da Toyota SW4 2.8 diesel indica rolamento desgastado ou rele de acionamento com defeito. Veja sintomas, diagnostico e custo de reparo."
 entidade:
@@ -19,8 +19,7 @@ entidadesEssenciais:
   - "ar-condicionado Toyota SW4"
   - "compressor Denso"
 autor:
-  nome: "Equipe Hachiroku"
-  credencial: "Redação técnica automotiva"
+  nome: "Redação Hachiroku"
 pubDate: 2026-06-21
 updatedDate: 2026-06-21
 disclaimer: "Este conteúdo é informativo e de diagnóstico. A substituição do compressor de ar-condicionado envolve descarga e recarga do fluido refrigerante (R-134a ou R-1234yf), procedimento que exige equipamento certificado e profissional habilitado. Não abra o sistema de A/C sem o equipamento adequado."

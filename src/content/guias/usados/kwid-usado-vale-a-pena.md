@@ -1,13 +1,12 @@
----
-title: "Renault Kwid usado vale a pena? O que verificar antes de comprar"
+﻿---
+title: "Renault Kwid usado vale a pena? O que verificar antes de"
 description: "Kwid usado pode ser uma compra inteligente para uso urbano e plano. Mas o AMT pede atenção especial, a suspensão de lâminas cobra buchas e o motor tem limite claro."
 marca: "Renault"
 modelo: "Kwid"
 kicker: "GUIA DE COMPRA"
 veredito: "O Kwid usado vale a pena para quem usa o carro exclusivamente em cidade plana e quer custo de manutenção baixo. Não é indicado para rotas com subidas frequentes ou autopistas. O ponto de atenção número um é o câmbio AMT: acima de 60-70 mil km sem histórico de embreagem, o risco de fatura sobe bastante."
 autor:
-  nome: "Equipe Técnica Hachiroku"
-  credencial: ""
+  nome: "Redação Hachiroku"
 pubDate: 2026-06-20
 updatedDate: 2026-06-20
 disclaimer: "Este guia orienta a inspeção, mas não substitui uma vistoria cautelar e uma avaliação mecânica presencial antes da compra."

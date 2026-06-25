@@ -1,4 +1,4 @@
----
+﻿---
 title: "Luz de injeção acesa no Onix: causas e o que fazer"
 description: "Luz de injeção acesa no Chevrolet Onix, com engasgo ou marcha lenta irregular? As causas comuns são combustível ruim, velas, bobina, sonda lambda ou corpo de borboleta. Entenda fixa vs piscando, leia o código de erro com scanner OBD2 e saiba quando é seguro dirigir."
 entidade:
@@ -21,8 +21,7 @@ entidadesEssenciais:
   - "falha de combustão"
   - "combustível adulterado"
 autor:
-  nome: "Equipe Técnica Hachiroku"
-  credencial: ""
+  nome: "Redação Hachiroku"
 pubDate: 2026-06-18
 updatedDate: 2026-06-18
 disclaimer: "Luz de injeção piscando indica falha de combustão que pode danificar o catalisador. Se a luz pisca, reduza a velocidade e procure um profissional. Este conteúdo é informativo e não substitui o diagnóstico com scanner."

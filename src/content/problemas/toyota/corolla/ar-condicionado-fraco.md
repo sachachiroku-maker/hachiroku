@@ -1,5 +1,5 @@
----
-title: "Toyota Corolla 2.0 M20A: Ar-condicionado Fraco e que Demora para Gelar"
+﻿---
+title: "Toyota Corolla 2.0 M20A: Ar-condicionado Fraco e que Demora"
 description: "Corolla 12ª geração com A/C fraco: entenda as causas do sensor NTC da cabine, filtro de carbono entupido e compressor variável elétrico. (156 chars)"
 entidade:
   marca: "Toyota"
@@ -11,8 +11,7 @@ kicker: "DEFEITO CRÔNICO"
 intencao: "Diagnóstico"
 entidadesEssenciais: ["sensor NTC de temperatura de cabine", "filtro de ar com carvão ativado", "compressor de ar-condicionado elétrico variável"]
 autor:
-  nome: "Equipe Técnica Hachiroku"
-  credencial: ""
+  nome: "Redação Hachiroku"
 pubDate: 2026-06-20
 updatedDate: 2026-06-20
 disclaimer: "As informações deste artigo têm caráter educativo. A substituição de componentes do sistema de ar-condicionado deve ser realizada por profissional habilitado, pois envolve gás refrigerante regulamentado."

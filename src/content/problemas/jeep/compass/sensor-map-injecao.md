@@ -1,5 +1,5 @@
----
-title: "Sensor MAP do Compass: o que causa a luz check engine e perda de potência"
+﻿---
+title: "Sensor MAP do Compass: o que causa a luz check engine e"
 description: "Sensor MAP com defeito no Jeep Compass 1.3 T270 gera luz check engine, marcha lenta irregular e perda de potência. Veja os códigos P0106 a P0109, como limpar o sensor e quando trocar."
 entidade:
   marca: "Jeep"
@@ -23,8 +23,7 @@ entidadesEssenciais:
   - "P0109"
   - "scanner OBD2"
 autor:
-  nome: "Equipe Técnica Hachiroku"
-  credencial: ""
+  nome: "Redação Hachiroku"
 pubDate: 2026-06-20
 updatedDate: 2026-06-20
 disclaimer: "Sensor MAP defeituoso no motor turbo pode mascarar problemas de pressão do turbo ou vazamento de admissão. Sempre leia o código OBD2 antes de substituir qualquer peça. Este conteúdo é informativo."

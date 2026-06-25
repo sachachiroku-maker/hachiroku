@@ -1,5 +1,5 @@
----
-title: "Peugeot 3008 Barulho na Suspensão Dianteira: Diagnóstico Completo (2ª Geração)"
+﻿---
+title: "Peugeot 3008 Barulho na Suspensão Dianteira"
 description: "Barulho na suspensão dianteira do Peugeot 3008 2ª geração 1.6 THP? Identifique a causa entre bieleta, batente, bucha ou terminal e saiba o que trocar."
 entidade:
   marca: "Peugeot"
@@ -14,8 +14,7 @@ entidadesEssenciais:
   - "Bieleta do estabilizador dianteiro"
   - "Batente e coxim de amortecedor"
 autor:
-  nome: "Equipe Técnica Hachiroku"
-  credencial: ""
+  nome: "Redação Hachiroku"
 pubDate: 2026-06-20
 updatedDate: 2026-06-20
 disclaimer: "Este artigo tem fins informativos. Sempre consulte um mecânico habilitado antes de realizar qualquer intervenção no veículo. Custos estimados refletem médias de mercado e podem variar por região e oficina."

@@ -1,5 +1,5 @@
----
-title: "BYD Song Plus DM-i: Bateria de 12V Descarrega — Diagnóstico Completo"
+﻿---
+title: "BYD Song Plus DM-i: Bateria de 12V Descarrega — Diagnóstico"
 description: "Bateria de 12V do BYD Song Plus DM-i descarrega? Entenda por que isso acontece em híbridos plug-in e como diagnosticar com multímetro. (156 chars)"
 entidade:
   marca: "BYD"
@@ -11,8 +11,7 @@ kicker: "DEFEITO CRÔNICO"
 intencao: "Diagnóstico"
 entidadesEssenciais: ["BYD Song Plus DM-i", "bateria 12V auxiliar", "sistema híbrido plug-in"]
 autor:
-  nome: "Equipe Técnica Hachiroku"
-  credencial: ""
+  nome: "Redação Hachiroku"
 pubDate: 2026-06-20
 updatedDate: 2026-06-20
 disclaimer: "Este artigo é educativo. Sempre consulte um técnico especializado em veículos eletrificados antes de intervir no sistema elétrico do seu veículo."

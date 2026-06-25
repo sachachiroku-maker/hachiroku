@@ -1,5 +1,5 @@
----
-title: "Chevrolet Montana Premier 1.2 Turbo 2023: ficha técnica completa"
+﻿---
+title: "Chevrolet Montana Premier 1.2 Turbo 2023"
 description: "Ficha técnica da Chevrolet Montana Premier 1.2 Turbo 4x4 2023: motor 1.2 CSS Prime de 133 cv, câmbio automático de 6 marchas e tração 4x4 com reduzida. A picape compacta mais tecnológica da GM no Brasil."
 marca: "Chevrolet"
 modelo: "Montana"

@@ -1,13 +1,12 @@
----
-title: "HB20 vs Mobi 2024: qual popular de entrada vale mais a pena comprar?"
+﻿---
+title: "HB20 vs Mobi 2024: qual popular de entrada vale mais a pena"
 description: "Comparativo técnico entre Hyundai HB20 e Fiat Mobi 2024: segurança, desempenho, custo e veredicto claro para quem busca o melhor popular."
 marca: "Comparativo"
 modelo: "HB20 vs Mobi"
 kicker: "GUIA DE COMPRA · DECISÃO"
 veredito: "HB20 para quem prioriza segurança e desempenho; Mobi para quem quer praticidade urbana no menor orçamento possível."
 autor:
-  nome: "Equipe Técnica Hachiroku"
-  credencial: ""
+  nome: "Redação Hachiroku"
 pubDate: 2026-06-20
 updatedDate: 2026-06-20
 disclaimer: "Preços e especificações referentes a 2025-2026."
@@ -52,11 +51,11 @@ faq:
     resposta: "O Mobi tem vantagem pela carroceria menor, raio de giro reduzido e menor potência, o que facilita o aprendizado nas manobras. O HB20 também é acessível, mas é levemente maior e tem mais potência, o que pode intimidar iniciantes."
 relacionados:
   - titulo: "Melhor popular até R$ 80 mil em 2025"
-    url: "/guias/comparativos/melhores-populares-2025"
+    url: "/guia-de-compra/comparativos/melhores-populares-2025"
   - titulo: "HB20 1.0 Turbo: vale a pena?"
-    url: "/guias/hyundai/hb20-turbo-vale-a-pena"
+    url: "/guia-de-compra/hyundai/hb20-turbo-vale-a-pena"
   - titulo: "Fiat Mobi: pontos fortes e fracos"
-    url: "/guias/fiat/fiat-mobi-pontos-fortes-fracos"
+    url: "/guia-de-compra/fiat/fiat-mobi-pontos-fortes-fracos"
 draft: false
 ---
 

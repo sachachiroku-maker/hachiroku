@@ -1,5 +1,5 @@
----
-title: "Barulho na Suspensão Dianteira do Fiat Mobi: Causas e Como Resolver"
+﻿---
+title: "Barulho na Suspensão Dianteira do Fiat Mobi"
 description: "Traque, cloc ou ploft na dianteira do Fiat Mobi? Saiba identificar bieleta, coxim, pivô ou bucha desgastados e quanto custa resolver em 2025-2026."
 entidade:
   marca: "Fiat"
@@ -16,8 +16,7 @@ entidadesEssenciais:
   - "coxim do amortecedor"
   - "pivô da bandeja"
 autor:
-  nome: "Equipe Técnica Hachiroku"
-  credencial: ""
+  nome: "Redação Hachiroku"
 pubDate: 2026-06-20
 updatedDate: 2026-06-20
 disclaimer: "As informações deste artigo têm caráter orientativo. Diagnóstico definitivo e substituição de peças de segurança devem ser realizados por profissional habilitado."

@@ -1,5 +1,5 @@
----
-title: "Ar-condicionado fraco no VW Saveiro 1.6 MSI: por que não gela e como resolver"
+﻿---
+title: "Ar-condicionado fraco no VW Saveiro 1.6 MSI"
 description: "Saveiro G7 com AC fraco ou que não gela no calor? Conheça as 5 causas mais comuns e os custos reais de cada reparo para a picape 1.6 MSI flex."
 entidade:
   marca: "Volkswagen"
@@ -11,8 +11,7 @@ kicker: "DEFEITO CRÔNICO"
 intencao: "Diagnóstico"
 entidadesEssenciais: ["Volkswagen Saveiro G7", "ar-condicionado automotivo", "condensador entupido"]
 autor:
-  nome: "Equipe Técnica Hachiroku"
-  credencial: ""
+  nome: "Redação Hachiroku"
 pubDate: 2026-06-20
 updatedDate: 2026-06-20
 disclaimer: "As faixas de custo informadas são estimativas baseadas em preços de mercado e podem variar por região, oficina e data de consulta. Sempre solicite orçamento presencial antes de autorizar qualquer serviço."

@@ -1,5 +1,5 @@
----
-title: "Como trocar as velas de ignição: guia prático para carros populares"
+﻿---
+title: "Como trocar as velas de ignição"
 description: "Guia honesto de como trocar as velas de ignição em carros flex populares: quando trocar, como escolher a vela certa pelo grau térmico, o torque correto e os erros que destroem o motor."
 kicker: "HOW-TO · MÃO NA MASSA"
 veiculo: "Carros flex populares"

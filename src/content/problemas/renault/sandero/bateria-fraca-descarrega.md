@@ -1,5 +1,5 @@
----
-title: "Bateria do Sandero que descarrega: alternador, parasita elétrico e o que checar"
+﻿---
+title: "Bateria do Sandero que descarrega"
 description: "Bateria do Renault Sandero que descarrega rápido pode ser alternador com defeito, bateria velha ou parasita elétrico. Veja como diagnosticar cada causa e quando trocar vs recarregar."
 entidade:
   marca: "Renault"
@@ -20,8 +20,7 @@ entidadesEssenciais:
   - "módulo elétrico"
   - "descarga da bateria"
 autor:
-  nome: "Equipe Técnica Hachiroku"
-  credencial: ""
+  nome: "Redação Hachiroku"
 pubDate: 2026-06-20
 updatedDate: 2026-06-20
 disclaimer: "Diagnóstico de parasita elétrico envolve manipulação de fusíveis com o motor desligado. Nunca desconecte a bateria com o motor ligado. Este conteúdo é informativo e não substitui diagnóstico profissional."

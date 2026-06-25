@@ -1,5 +1,5 @@
----
-title: "Bomba de alta pressão do Honda City 1.5: a falha que tira a potência na estrada"
+﻿---
+title: "Bomba de alta pressão do Honda City 1.5"
 description: "A bomba de combustível de alta pressão do Honda City 1.5 de injeção direta (geração 2022 em diante) é a queixa mais séria do modelo: gera perda repentina de potência, luz de falha no motor e modo de segurança, muitas vezes com poucos quilômetros. Veja os sintomas, o código DTC P0087, a Dica Técnica 010/22 da Honda, o que fazer e por que o City antigo de injeção indireta não tem esse problema."
 entidade:
   marca: "Honda"
@@ -18,8 +18,7 @@ entidadesEssenciais:
   - "modo de segurança (limp mode)"
   - "perda de potência"
 autor:
-  nome: "Equipe Técnica Hachiroku"
-  credencial: ""
+  nome: "Redação Hachiroku"
 pubDate: 2026-06-19
 updatedDate: 2026-06-19
 disclaimer: "O diagnóstico e a troca da bomba de combustível de alta pressão envolvem o sistema de injeção direta sob alta pressão e exigem equipamento de leitura de códigos e procedimento específico. Este conteúdo é informativo: confie a inspeção e o reparo a um profissional qualificado, de preferência com acesso às dicas técnicas da Honda, e não tente improvisar no sistema de combustível."

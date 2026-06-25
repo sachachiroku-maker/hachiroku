@@ -1,11 +1,10 @@
----
+﻿---
 title: "Rampage 1.3 T270: solavanco ao engatar marcha"
 pubDate: 2026-06-21
 updatedDate: 2026-06-21
 draft: false
 autor:
-  nome: "Equipe Hachiroku"
-  credencial: "Redação técnica automotiva"
+  nome: "Redação Hachiroku"
 
 entidade:
   marca: "RAM"
@@ -70,11 +69,11 @@ afiliados:
 
 relacionados:
   - titulo: "Rampage 1.3 T270: ficha técnica completa"
-    url: "/fichas/ram/rampage/1-3-t270"
+    url: "/ficha-tecnica/ram/rampage/1-3-t270"
   - titulo: "Como trocar o ATF do câmbio automático em casa"
-    url: "/guias/cambio-automatico/troca-atf"
+    url: "/guia-de-compra/cambio-automatico/troca-atf"
   - titulo: "Erros OBD mais comuns em pickups modernas"
-    url: "/guias/obd/erros-pickup"
+    url: "/guia-de-compra/obd/erros-pickup"
 ---
 
 ## Rampage 1.3 T270: solavanco ao engatar D ou R com motor frio

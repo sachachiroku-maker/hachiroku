@@ -1,5 +1,5 @@
----
-title: "Bomba de óleo do Fiat Pulse T200: o recall silencioso que muita gente não sabe que existe"
+﻿---
+title: "Bomba de óleo do Fiat Pulse T200"
 description: "O Fiat Pulse 1.0 turbo T200 teve uma falha na bomba de óleo tratada por uma campanha de garantia que a marca não chamou de recall. A Fiat autorizou a troca da peça nas concessionárias sem aviso público. Veja sintomas, causa, lote afetado, custo e como confirmar se o seu carro foi corrigido."
 entidade:
   marca: "Fiat"
@@ -18,8 +18,7 @@ entidadesEssenciais:
   - "consumo de óleo"
   - "atualização de software"
 autor:
-  nome: "Equipe Técnica Hachiroku"
-  credencial: ""
+  nome: "Redação Hachiroku"
 pubDate: 2026-06-19
 updatedDate: 2026-06-19
 disclaimer: "A verificação da bomba de óleo envolve o sistema de lubrificação do motor turbo, peça crítica para a vida do propulsor. Este conteúdo é informativo: confirme a situação do seu chassi diretamente em uma concessionária Fiat e confie qualquer reparo a um profissional qualificado. Não rode com luz de óleo acesa."

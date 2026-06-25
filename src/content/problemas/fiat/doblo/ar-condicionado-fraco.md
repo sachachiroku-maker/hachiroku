@@ -1,5 +1,5 @@
----
-title: "Ar-condicionado Fraco no Fiat Doblo Essence 1.8: Causas e Como Resolver"
+﻿---
+title: "Ar-condicionado Fraco no Fiat Doblo Essence 1.8"
 description: "AC fraco no Fiat Doblo Essence 1.8 com 7 pessoas a bordo? Conheça as 5 causas mais comuns e como resolver cada uma delas. (156 chars)"
 entidade:
   marca: "Fiat"
@@ -11,8 +11,7 @@ kicker: "DEFEITO CRÔNICO"
 intencao: "Diagnóstico"
 entidadesEssenciais: ["Fiat Doblo Essence 1.8", "compressor de ar-condicionado", "filtro de cabine"]
 autor:
-  nome: "Equipe Técnica Hachiroku"
-  credencial: ""
+  nome: "Redação Hachiroku"
 pubDate: 2026-06-20
 updatedDate: 2026-06-20
 disclaimer: "As informações deste artigo têm caráter educativo. Intervenções no sistema de ar-condicionado automotivo envolvem gás refrigerante sob pressão e devem ser realizadas por profissional habilitado."

@@ -1,5 +1,5 @@
----
-title: "Filtro de Combustível Entupido na Toyota Hilux 2.8 GD | Hachiroku"
+﻿---
+title: "Filtro de Combustível Entupido na Toyota Hilux 2.8 GD |"
 description: "Hilux 2.8 GD diesel com falta de potência ou dificuldade de partida? O filtro de combustível entupido por diesel adulterado é a causa mais comum. Veja como diagnosticar e resolver."
 entidade:
   marca: "Toyota"
@@ -17,8 +17,7 @@ entidadesEssenciais:
   - "injetores common rail"
   - "filtro separador de água"
 autor:
-  nome: "Equipe Hachiroku"
-  credencial: "Redação técnica automotiva"
+  nome: "Redação Hachiroku"
 pubDate: 2026-06-20
 updatedDate: 2026-06-20
 disclaimer: "As informações deste artigo têm caráter educativo. Serviços no sistema de injeção diesel de alta pressão devem ser realizados por profissional qualificado com equipamento adequado."

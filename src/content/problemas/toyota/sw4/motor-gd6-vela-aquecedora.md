@@ -1,5 +1,5 @@
----
-title: "Vela aquecedora do Toyota SW4 GD-6 com falha: partida a frio no SUV diesel familiar"
+﻿---
+title: "Vela aquecedora do Toyota SW4 GD-6 com falha"
 description: "A vela aquecedora do motor 2.8 GD-6 do Toyota SW4 pode falhar, comprometendo a partida a frio do SUV de 7 lugares. Entenda os sintomas específicos no contexto do SW4, o diagnóstico e o custo de reparo."
 entidade:
   marca: "Toyota"
@@ -19,8 +19,7 @@ entidadesEssenciais:
   - "fumaça branca diesel"
   - "uso familiar SUV"
 autor:
-  nome: "Equipe Técnica Hachiroku"
-  credencial: ""
+  nome: "Redação Hachiroku"
 pubDate: 2026-06-20
 updatedDate: 2026-06-20
 disclaimer: "Este conteúdo é informativo e diagnóstico. A troca de velas aquecedoras em motores diesel exige cuidado especial: velas presas pela corrosão podem quebrar dentro da câmara de combustão. Em motores com alta quilometragem, a remoção deve ser feita por mecânico experiente com o motor morno, nunca frio ou quente."

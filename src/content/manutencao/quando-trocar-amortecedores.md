@@ -1,4 +1,4 @@
----
+﻿---
 title: "Amortecedor: quando trocar e como checar"
 description: "Saiba os sinais de amortecedor gasto, como testar em casa e quanto custa a troca por eixo em 2026. Guia prático Hachiroku."
 collection: "manutencao"
@@ -8,8 +8,7 @@ tempo: "1 a 2 horas por eixo (oficina)"
 dificuldade: "Intermediário"
 custoEstimado: "R$ 350 a R$ 900 por eixo (par + mão de obra)"
 autor:
-  nome: "Equipe Hachiroku"
-  credencial: "Redação técnica automotiva"
+  nome: "Redação Hachiroku"
 afiliados:
   - produto: "Kit amortecedor dianteiro Monroe Axios"
     busca: "kit amortecedor dianteiro monroe"

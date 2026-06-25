@@ -1,5 +1,5 @@
----
-title: "Carregamento AC lento do BYD Yuan Plus: 7,2 kW, wallbox e quanto tempo demora"
+﻿---
+title: "Carregamento AC lento do BYD Yuan Plus"
 description: "O carregamento AC do BYD Yuan Plus é limitado a 7,2 kW, o que significa 8 horas para uma carga completa com wallbox. Entenda como funciona o carregador interno, a diferença entre tomada doméstica, wallbox e DC rápido, e como planejar a recarga no Brasil."
 entidade:
   marca: "BYD"
@@ -22,8 +22,7 @@ entidadesEssenciais:
   - "BYD Link"
   - "rede de recarga"
 autor:
-  nome: "Equipe Técnica Hachiroku"
-  credencial: ""
+  nome: "Redação Hachiroku"
 pubDate: 2026-06-20
 updatedDate: 2026-06-20
 disclaimer: "Tempos de recarga são estimativas baseadas em especificações técnicas; a recarga real varia com o estado da bateria, a temperatura e a infraestrutura elétrica disponível. Consulte um eletricista habilitado antes de instalar wallbox residencial."

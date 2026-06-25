@@ -1,4 +1,4 @@
----
+﻿---
 title: "Filtro DPF entupindo no L200 Triton 2.4 diesel"
 description: "O DPF do L200 Triton 2.4 MIVEC entupe prematuramente em uso urbano porque a regeneração nunca se completa. Veja sintomas, como forçar a regeneração passiva e quando trocar o filtro."
 entidade:
@@ -10,8 +10,7 @@ kicker: "DEFEITO CRÔNICO"
 intencao: "Diagnóstico"
 entidadesEssenciais: ["DPF", "filtro de partículas diesel", "regeneração passiva", "4N15", "BR6"]
 autor:
-  nome: "Equipe Hachiroku"
-  credencial: "Redação técnica automotiva"
+  nome: "Redação Hachiroku"
 pubDate: 2026-06-21
 updatedDate: 2026-06-21
 disclaimer: "As informações deste artigo têm caráter educativo. Sempre consulte um profissional habilitado antes de realizar qualquer intervenção no sistema de pós-tratamento de gases do seu veículo."

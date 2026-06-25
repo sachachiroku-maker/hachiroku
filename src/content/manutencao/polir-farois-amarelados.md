@@ -1,5 +1,5 @@
----
-title: "Como polir faróis amarelados: recuperação completa da lente de policarbonato"
+﻿---
+title: "Como polir faróis amarelados: recuperação completa da lente"
 description: "Guia passo a passo para polir faróis amarelados em casa: disco orbital, kit de restauração ou pasta de dente. Recupere até 70% de iluminação perdida."
 kicker: "MÃO NA MASSA"
 veiculo: "universal"
@@ -23,8 +23,7 @@ passos:
   - nome: "Mantenha a proteção para durar mais"
     texto: "Aplique uma camada de cera automotiva com proteção UV sobre o farol a cada três meses para prolongar o resultado. Se o carro fica muito exposto ao sol, considere aplicar uma película PPF (Paint Protection Film) transparente sobre o farol: a proteção dura anos e elimina a necessidade de repetir o polimento. Guardar o carro na sombra ou em garagem coberta também faz diferença real no tempo de duração do policarbonato."
 autor:
-  nome: "Equipe Técnica Hachiroku"
-  credencial: ""
+  nome: "Redação Hachiroku"
 pubDate: 2026-06-20
 updatedDate: 2026-06-20
 disclaimer: "O polimento de faróis é um procedimento abrasivo. Faróis com trincas, rachaduras ou danos internos não devem ser polidos: o procedimento não vai resolver esses problemas e pode comprometer a vedação da lente. Em caso de dúvida, leve o veículo a um profissional antes de iniciar qualquer abrasão."

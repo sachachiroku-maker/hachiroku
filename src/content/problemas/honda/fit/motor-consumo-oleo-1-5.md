@@ -1,5 +1,5 @@
----
-title: "Consumo de óleo no motor 1.5 do Honda Fit: causa, diagnóstico e o que fazer"
+﻿---
+title: "Consumo de óleo no motor 1.5 do Honda Fit"
 description: "O motor 1.5 i-VTEC flex do Honda Fit (2014-2022) pode consumir até 0,8L de óleo por 1.000 km. Entenda a causa nos anéis de pistão, como medir o consumo e o que exigir da Honda."
 entidade:
   marca: "Honda"
@@ -18,8 +18,7 @@ entidadesEssenciais:
   - "consumo de óleo motor"
   - "fumaça azul no escape"
 autor:
-  nome: "Equipe Técnica Hachiroku"
-  credencial: ""
+  nome: "Redação Hachiroku"
 pubDate: 2026-06-20
 updatedDate: 2026-06-20
 disclaimer: "Este artigo é informativo. Consumo de óleo acima do especificado exige avaliação presencial por mecânico qualificado. Nunca adicione aditivos selantes de motor sem orientação técnica."

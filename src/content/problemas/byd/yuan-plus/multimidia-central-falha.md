@@ -1,5 +1,5 @@
----
-title: "Central multimídia do BYD Yuan Plus: travamentos, reinicializações e falhas no sistema"
+﻿---
+title: "Central multimídia do BYD Yuan Plus"
 description: "Tela reiniciando, Bluetooth caindo, CarPlay com lag: entenda as falhas da central BYD Intelligent Central Control e como resolver cada uma."
 entidade:
   marca: "BYD"
@@ -11,8 +11,7 @@ kicker: "DEFEITO CRÔNICO"
 intencao: "Diagnóstico"
 entidadesEssenciais: ["BYD Yuan Plus", "BYD Intelligent Central Control", "sistema Android 10 automotivo"]
 autor:
-  nome: "Equipe Técnica Hachiroku"
-  credencial: ""
+  nome: "Redação Hachiroku"
 pubDate: 2026-06-20
 updatedDate: 2026-06-20
 disclaimer: "Este conteúdo é informativo e baseia-se em relatos de proprietários e análises técnicas independentes. Sempre consulte uma autorizada BYD para diagnóstico oficial e reparos cobertos pela garantia."

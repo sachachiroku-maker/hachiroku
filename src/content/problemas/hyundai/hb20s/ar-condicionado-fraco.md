@@ -1,5 +1,5 @@
----
-title: "Hyundai HB20S com Ar-Condicionado Fraco: Diagnóstico Completo"
+﻿---
+title: "Hyundai HB20S com Ar-Condicionado Fraco"
 description: "HB20S sedan com AC fraco? Saiba como diagnosticar filtro de cabine, gás R134a, compressor e condensador em 5 passos práticos. (155 chars)"
 entidade:
   marca: "Hyundai"
@@ -14,8 +14,7 @@ entidadesEssenciais:
   - "Filtro de cabine HB20S"
   - "Gás refrigerante R134a"
 autor:
-  nome: "Equipe Técnica Hachiroku"
-  credencial: ""
+  nome: "Redação Hachiroku"
 pubDate: 2026-06-20
 updatedDate: 2026-06-20
 disclaimer: "As informações deste artigo são de caráter educativo. Serviços em sistema de ar-condicionado automotivo envolvem gás sob pressão e devem ser realizados por profissional habilitado com equipamento homologado."

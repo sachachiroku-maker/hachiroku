@@ -1,5 +1,5 @@
----
-title: "Trocador de calor do câmbio da Fiat Toro: o defeito que mistura água com o óleo e destrói a transmissão"
+﻿---
+title: "Trocador de calor do câmbio da Fiat Toro"
 description: "O trocador de calor do câmbio automático Aisin da Fiat Toro corrói por dentro, deixa a água do radiador entrar no óleo da transmissão e destrói os discos de embreagem. Veja os sintomas, por que acontece, o custo de R$ 20 mil a R$ 60 mil e como prevenir antes que o estrago chegue ao câmbio."
 entidade:
   marca: "Fiat"
@@ -18,8 +18,7 @@ entidadesEssenciais:
   - "alerta de temperatura alta da transmissão"
   - "fluido do câmbio"
 autor:
-  nome: "Equipe Técnica Hachiroku"
-  credencial: ""
+  nome: "Redação Hachiroku"
 pubDate: 2026-06-19
 updatedDate: 2026-06-19
 disclaimer: "A inspeção e a troca do trocador de calor e do óleo do câmbio automático da Toro exigem ferramenta e conhecimento específicos. Diagnóstico de contaminação cruzada (água no óleo, óleo na água) não é serviço de garagem para iniciantes. Este conteúdo é informativo: confie a execução a um profissional qualificado e siga sempre a especificação de fluido do manual do seu ano."

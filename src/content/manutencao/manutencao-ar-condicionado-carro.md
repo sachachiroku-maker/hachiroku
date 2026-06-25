@@ -1,5 +1,5 @@
----
-title: "Manutenção do Ar-Condicionado do Carro: Higienização, Recarga e Preventiva"
+﻿---
+title: "Manutenção do Ar-Condicionado do Carro"
 description: "Saiba como cuidar do ar-condicionado do carro: quando trocar filtro de cabine, higienizar evaporador e recarregar o gás. Guia completo com custos e sintomas."
 kicker: "MÃO NA MASSA"
 veiculo: "universal"
@@ -30,8 +30,7 @@ passos:
   - nome: "Avaliar necessidade de recarga de gás"
     texto: "A recarga de gás não é um procedimento feito em casa: exige equipamento específico e técnico habilitado. Leve o carro a uma oficina de refrigeração automotiva. O profissional vai medir a pressão do sistema, identificar vazamentos e completar a carga com gás R-134a ou R-1234yf, conforme o modelo do veículo."
 autor:
-  nome: "Equipe Técnica Hachiroku"
-  credencial: ""
+  nome: "Redação Hachiroku"
 pubDate: 2026-06-20
 updatedDate: 2026-06-20
 disclaimer: "Este guia tem finalidade educativa. Procedimentos como recarga de gás refrigerante devem ser realizados por técnicos habilitados em oficinas especializadas. O Hachiroku não se responsabiliza por danos decorrentes de execução incorreta dos procedimentos descritos."

@@ -1,5 +1,5 @@
----
-title: "BYD Song Plus DM-i: consumo de combustível acima do esperado no modo híbrido"
+﻿---
+title: "BYD Song Plus DM-i: consumo de combustível acima do"
 description: "Entenda por que o BYD Song Plus DM-i bebe mais gasolina do que o anunciado e como corrigir o problema sem gastar com mecânico. (157 chars)"
 entidade:
   marca: "BYD"
@@ -11,8 +11,7 @@ kicker: "DEFEITO CRÔNICO"
 intencao: "Diagnóstico"
 entidadesEssenciais: ["BYD Song Plus DM-i", "consumo de combustível híbrido", "modo HEV sem carga"]
 autor:
-  nome: "Equipe Técnica Hachiroku"
-  credencial: ""
+  nome: "Redação Hachiroku"
 pubDate: 2026-06-20
 updatedDate: 2026-06-20
 disclaimer: "Este artigo tem finalidade informativa e educativa. Diagnósticos definitivos e reparos devem ser realizados por profissionais habilitados. O Hachiroku não se responsabiliza por decisões tomadas com base exclusiva neste conteúdo."

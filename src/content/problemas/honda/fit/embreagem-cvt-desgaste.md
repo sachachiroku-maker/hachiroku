@@ -1,5 +1,5 @@
----
-title: "Embreagem do CVT do Honda Fit com desgaste: sintomas, diagnóstico e diferença entre fluido e reparo mecânico"
+﻿---
+title: "Embreagem do CVT do Honda Fit com desgaste"
 description: "A embreagem de partida do câmbio CVT do Honda Fit se desgasta com uso intenso e fluido irregular. Os sintomas são patinamento, solavanco severo e perda de resposta. Saiba distinguir quando o fluido ainda resolve e quando o câmbio já precisa de abertura mecânica."
 entidade:
   marca: "Honda"
@@ -18,8 +18,7 @@ entidadesEssenciais:
   - "abertura de câmbio CVT"
   - "relação de transmissão"
 autor:
-  nome: "Equipe Técnica Hachiroku"
-  credencial: ""
+  nome: "Redação Hachiroku"
 pubDate: 2026-06-20
 updatedDate: 2026-06-20
 disclaimer: "Reparo mecânico do câmbio CVT é um serviço de alta especialização. Não tente abrir um câmbio CVT sem equipamento e experiência específica. Este conteúdo é informativo e diagnóstico."

@@ -1,13 +1,12 @@
----
-title: "Jeep Compass usado vale a pena? O que checar no câmbio 9AT e no turbo 1.3 antes de comprar"
+﻿---
+title: "Jeep Compass usado vale a pena? O que checar no câmbio 9AT"
 description: "Guia técnico do Jeep Compass usado: defeitos crônicos do câmbio 9AT, consumo de óleo no 1.3 turbo, checklist de inspeção e quando vale ou não a compra."
 marca: "Jeep"
 modelo: "Compass"
 kicker: "GUIA DE COMPRA"
 veredito: "O Compass usado vale para quem quer um SUV médio com boa capacidade off-road e espaço interno acima da média, mas exige inspeção técnica rigorosa antes da compra. O ponto de atenção número um da 1ª geração é o câmbio automático de 9 marchas ZF, que tem histórico documentado de solavancos e reparo caro. Na 2ª geração, o risco migra para o consumo de óleo do motor 1.3 turbo em alguns lotes. Sem histórico de revisões na rede Jeep, é melhor passar para o próximo."
 autor:
-  nome: "Equipe Técnica Hachiroku"
-  credencial: ""
+  nome: "Redação Hachiroku"
 pubDate: 2026-06-20
 updatedDate: 2026-06-20
 disclaimer: "Este guia orienta a inspeção, mas não substitui uma vistoria cautelar e uma avaliação mecânica presencial antes da compra."

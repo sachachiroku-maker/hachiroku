@@ -1,13 +1,12 @@
----
-title: "Toyota Hilux usada vale a pena? Guia por geração e o que verificar antes de comprar"
+﻿---
+title: "Toyota Hilux usada vale a pena? Guia por geração e o que"
 description: "Hilux usada tem boa durabilidade e revenda alta, mas exige inspeção criteriosa: turbo, suspensão e procedência de fazenda definem se o negócio é bom ou uma enrascada."
 marca: "Toyota"
 modelo: "Hilux"
 kicker: "GUIA DE COMPRA"
 veredito: "A Hilux usada é uma das melhores picapes em termos de durabilidade e valor de revenda, mas não existe Hilux barata sem motivo. O risco número um é o exemplar de fazenda com abuso de carga e manutenção negligenciada: turbo desgastado, suspensão comprometida e histórico de óleo inexistente. Compre apenas com laudo mecânico presencial e vistoria cautelar."
 autor:
-  nome: "Equipe Técnica Hachiroku"
-  credencial: ""
+  nome: "Redação Hachiroku"
 pubDate: 2026-06-20
 updatedDate: 2026-06-20
 disclaimer: "Este guia orienta a inspeção, mas não substitui uma vistoria cautelar e uma avaliação mecânica presencial antes da compra."
@@ -60,11 +59,11 @@ faq:
     resposta: "O DPF (Diesel Particulate Filter) é o filtro de partículas presente nos modelos diesel mais recentes da 8ª geração. Ele precisa de ciclos de regeneração, que acontecem automaticamente em rodagem de estrada. Hilux usada em ciclo urbano constante sem rodar em estrada pode ter o DPF entupido. O sinal de alerta é a luz de aviso no painel e perda de potência. Limpeza ou troca do DPF é um reparo significativo."
 relacionados:
   - titulo: "Ranger usada vale a pena? O que checar antes de comprar"
-    url: "/guias/usados/ranger-usada-vale-a-pena"
+    url: "/guia-de-compra/usados/ranger-usada-vale-a-pena"
   - titulo: "S10 usada vale a pena? Guia por geração"
-    url: "/guias/usados/s10-usada-vale-a-pena"
+    url: "/guia-de-compra/usados/s10-usada-vale-a-pena"
   - titulo: "Como fazer vistoria cautelar: o que é e por que é obrigatório"
-    url: "/guias/como-fazer-vistoria-cautelar"
+    url: "/guia-de-compra/como-fazer-vistoria-cautelar"
 draft: false
 ---
 

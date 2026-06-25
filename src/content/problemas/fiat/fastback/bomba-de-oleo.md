@@ -1,5 +1,5 @@
----
-title: "Bomba de óleo do Fiat Fastback turbo (T200 e T270): o defeito que pode fundir o motor"
+﻿---
+title: "Bomba de óleo do Fiat Fastback turbo (T200 e T270)"
 description: "A bomba de óleo dos motores turbo T200 (1.0) e T270 (1.3) do Fiat Fastback teve casos de desgaste prematuro que derrubam a pressão de lubrificação. A Stellantis emitiu comunicado técnico para troca preventiva por faixa de chassi. Veja sintomas, causa, risco ao motor, qual óleo usar e o que verificar antes de comprar."
 entidade:
   marca: "Fiat"
@@ -18,8 +18,7 @@ entidadesEssenciais:
   - "comunicado técnico Stellantis"
   - "campanha silenciosa"
 autor:
-  nome: "Equipe Técnica Hachiroku"
-  credencial: ""
+  nome: "Redação Hachiroku"
 pubDate: 2026-06-19
 updatedDate: 2026-06-19
 disclaimer: "A inspeção e a troca da bomba de óleo do motor turbo do Fastback são procedimentos que exigem o motor parcialmente aberto e ferramental específico. Não é um serviço de garagem para iniciantes. Este conteúdo é informativo: confie a execução a um profissional qualificado e use sempre o óleo na especificação exata do manual do seu ano."

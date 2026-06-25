@@ -1,5 +1,5 @@
----
-title: "Como Trocar o Filtro de Combustível: Quando é Necessário e Passo a Passo"
+﻿---
+title: "Como Trocar o Filtro de Combustível"
 description: "Aprenda quando e como trocar o filtro de combustível do carro: sintomas de entupimento, intervalo correto e procedimento seguro passo a passo."
 kicker: "MÃO NA MASSA"
 veiculo: "universal"
@@ -32,8 +32,7 @@ passos:
   - nome: "Pressurize o sistema e teste"
     texto: "Reconecte o fusível da bomba e o terminal negativo da bateria. Gire a chave na posição 'ligado' (sem dar partida) por três a quatro segundos para pressurizar a linha. Repita esse ciclo duas vezes. Depois dê a partida e observe se há vazamentos nas conexões. Se o motor ligar sem tropeços, a troca foi bem-sucedida."
 autor:
-  nome: "Equipe Técnica Hachiroku"
-  credencial: ""
+  nome: "Redação Hachiroku"
 pubDate: 2026-06-20
 updatedDate: 2026-06-20
 disclaimer: "Este guia tem caráter educativo. Trabalhar com o sistema de combustível envolve risco de incêndio. Se houver qualquer dúvida sobre o procedimento ou o tipo de filtro do seu veículo, consulte um mecânico habilitado. O Hachiroku não se responsabiliza por danos causados pela aplicação incorreta das instruções."

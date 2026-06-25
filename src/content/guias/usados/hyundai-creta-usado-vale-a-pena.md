@@ -1,4 +1,4 @@
----
+﻿---
 title: "Creta usado vale a pena? Guia de inspeção"
 description: "Hyundai Creta 1.0 T-GDi (2022-2024) usado: checklist de inspeção, pontos críticos do câmbio IVT e motor turbo, faq e veredito para compra segura."
 collection: "guias"
@@ -7,8 +7,7 @@ modelo: "Creta"
 kicker: "GUIA DE COMPRA"
 veredito: "Vale, com atenção ao câmbio IVT (verifique se tem atualização de software) e ao histórico de revisões Hyundai. A garantia de 5 anos é vantagem concreta para compradores de seminovos."
 autor:
-  nome: "Equipe Hachiroku"
-  credencial: "Redação técnica automotiva"
+  nome: "Redação Hachiroku"
 pubDate: 2026-06-21
 updatedDate: 2026-06-21
 disclaimer: "Este guia orienta a inspeção, mas não substitui uma vistoria cautelar e uma avaliação mecânica presencial antes da compra."
@@ -74,7 +73,7 @@ relacionados:
   - titulo: "Ficha técnica do Hyundai Creta"
     url: "/ficha-tecnica/hyundai/creta/"
   - titulo: "Creta vs T-Cross: qual comprar?"
-    url: "/guias/comparativos/creta-vs-t-cross/"
+    url: "/guia-de-compra/comparativos/creta-vs-t-cross/"
 draft: false
 ---
 

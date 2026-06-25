@@ -1,5 +1,5 @@
----
-title: "Câmbio Aisin do VW Polo TSI dando trancos: causas, software e o que fazer"
+﻿---
+title: "Câmbio Aisin do VW Polo TSI dando trancos"
 description: "Volkswagen Polo TSI com câmbio automático dando tranco entre a 1ª e a 2ª marcha? O câmbio Aisin de 6 marchas das versões turbo é um Tiptronic robusto, mas tem trocas bruscas conhecidas que muitas vezes se resolvem com atualização de software. Veja os sintomas, as causas reais, o papel do corpo de válvulas e do óleo, o custo e como prevenir."
 entidade:
   marca: "Volkswagen"
@@ -16,8 +16,7 @@ entidadesEssenciais:
   - "atualização de software"
   - "corpo de válvulas"
 autor:
-  nome: "Equipe Técnica Hachiroku"
-  credencial: ""
+  nome: "Redação Hachiroku"
 pubDate: 2026-06-19
 updatedDate: 2026-06-19
 disclaimer: "Tranco no câmbio só vira diagnóstico com o carro em mãos: teste de rodagem, leitura no scanner e verificação do nível e estado do óleo da transmissão. Este conteúdo orienta o que investigar; a confirmação e a indicação de atualização de software dependem de um profissional e do que a Volkswagen liberou para o seu ano e versão."

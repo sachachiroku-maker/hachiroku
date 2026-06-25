@@ -1,4 +1,4 @@
----
+﻿---
 title: "Correia dentada: quando trocar e sinais de alerta"
 description: "Saiba quando trocar a correia dentada, os sinais de desgaste e por que ignorar o intervalo pode destruir o motor. Guia completo com custos e FAQ."
 kicker: "MANUTENÇÃO CRÍTICA"
@@ -32,8 +32,7 @@ faq:
     pergunta: "Posso continuar rodando se a correia estiver próxima do intervalo?"
     resposta: "Não. A correia dentada não avisa antes de quebrar e não existe forma de prever o momento exato do rompimento. Cada quilômetro rodado além do intervalo recomendado é um risco real de destruir o motor. O custo de um motor travado por correia rompida começa em R$ 5.000 e pode tornar o veículo inviável economicamente. Adie qualquer outra manutenção, mas não adie a correia dentada."
 autor:
-  nome: "Equipe Hachiroku"
-  credencial: "Redação técnica automotiva"
+  nome: "Redação Hachiroku"
 pubDate: 2026-06-21
 updatedDate: 2026-06-21
 disclaimer: "Este guia tem finalidade educativa. A troca da correia dentada é um serviço de alta complexidade que deve ser realizado por profissional qualificado. O Hachiroku não se responsabiliza por danos decorrentes de execução incorreta do procedimento."

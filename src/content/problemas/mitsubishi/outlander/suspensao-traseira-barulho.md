@@ -1,5 +1,5 @@
----
-title: "Barulho e Rangido na Suspensão Traseira do Mitsubishi Outlander 3.0 V6: Diagnóstico Completo"
+﻿---
+title: "Barulho e Rangido na Suspensão Traseira do Mitsubishi"
 description: "Outlander fazendo coaxo, traque ou rangido atrás? Veja as 5 causas mais comuns, custos de reparo e como diagnosticar cada uma delas."
 entidade:
   marca: "Mitsubishi"
@@ -11,8 +11,7 @@ kicker: "DEFEITO CRÔNICO"
 intencao: "Diagnóstico"
 entidadesEssenciais: ["suspensão multi-link traseira", "buchas do braço de controle", "diferencial traseiro JTEND"]
 autor:
-  nome: "Equipe Técnica Hachiroku"
-  credencial: ""
+  nome: "Redação Hachiroku"
 pubDate: 2026-06-20
 updatedDate: 2026-06-20
 disclaimer: "As informações deste artigo têm caráter educativo e diagnóstico. Custos indicados são estimativas de mercado e podem variar conforme a região e o estabelecimento. Sempre consulte um mecânico especializado antes de executar qualquer reparo."

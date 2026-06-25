@@ -1,5 +1,5 @@
----
-title: "Como Verificar e Calibrar os Pneus: Pressão Correta por Modelo e Temperatura"
+﻿---
+title: "Como Verificar e Calibrar os Pneus"
 description: "Aprenda a calibrar os pneus do jeito certo: onde consultar a pressão ideal, quando aferir e como evitar desgaste irregular e consumo extra de combustível."
 kicker: "MÃO NA MASSA"
 veiculo: "universal"
@@ -27,8 +27,7 @@ passos:
   - nome: "Anote a data e inclua no roteiro de manutenção"
     texto: "A calibragem deve ser verificada pelo menos uma vez por mês e sempre antes de viagens longas. Use o caderno de manutenção ou um aplicativo para registrar a data e os valores encontrados. Com o tempo, você vai perceber se algum pneu perde pressão mais rápido que os outros, o que pode indicar vazamento ou problema na válvula."
 autor:
-  nome: "Equipe Técnica Hachiroku"
-  credencial: ""
+  nome: "Redação Hachiroku"
 pubDate: 2026-06-20
 updatedDate: 2026-06-20
 disclaimer: "As pressões indicadas neste guia são referências gerais. Consulte sempre a etiqueta do seu veículo ou o manual do proprietário para os valores exatos do seu modelo. Em caso de dúvida, procure um profissional."

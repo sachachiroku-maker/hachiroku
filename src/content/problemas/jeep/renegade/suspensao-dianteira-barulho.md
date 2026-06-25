@@ -1,5 +1,5 @@
----
-title: "Barulho na suspensão dianteira do Jeep Renegade 1.3 T270: causas, diagnóstico e custo"
+﻿---
+title: "Barulho na suspensão dianteira do Jeep Renegade 1.3 T270"
 description: "Rangido ou estralo na suspensão dianteira do Jeep Renegade é problema crônico. Entenda as causas, como diagnosticar bieleta e coxim, e o que custa resolver."
 entidade:
   marca: "Jeep"
@@ -16,8 +16,7 @@ entidadesEssenciais:
   - "plataforma Small Wide FCA"
   - "barulho em temperatura alta"
 autor:
-  nome: "Equipe Técnica Hachiroku"
-  credencial: ""
+  nome: "Redação Hachiroku"
 pubDate: 2026-06-20
 updatedDate: 2026-06-20
 disclaimer: "Barulho em suspensão só tem diagnóstico fechado com o carro em mãos, inspeção em rampa e teste dinâmico por mecânico qualificado. Quilometragens e custos citados refletem relatos de mercado no Brasil; valores variam por região, peça utilizada (original, linha leve ou remanufaturada) e mão de obra da oficina. O manual do proprietário e a revisão do seu ano são a palavra final."

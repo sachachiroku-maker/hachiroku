@@ -1,4 +1,4 @@
----
+﻿---
 title: "CVT do Argo Drive 1.3: solavanco e patinação | Hachiroku"
 description: "O câmbio CVT do Fiat Argo Drive 1.3 Firefly pode apresentar solavanco e patinação nas arrancadas por desgaste da correia metálica ou software desatualizado. Saiba como diagnosticar e o que fazer."
 entidade:
@@ -17,8 +17,7 @@ entidadesEssenciais:
   - "atualização de software TCU"
   - "motor Firefly 1.3"
 autor:
-  nome: "Equipe Hachiroku"
-  credencial: "Redação técnica automotiva"
+  nome: "Redação Hachiroku"
 pubDate: 2026-06-21
 updatedDate: 2026-06-21
 disclaimer: "Este conteúdo é informativo e de diagnóstico. O câmbio CVT do Argo Drive exige fluido homologado pela Fiat e diagnóstico com scanner específico antes de qualquer intervenção mecânica. Não use fluido CVT genérico. Em caso de sintomas ativos, procure concessionária Fiat ou oficina especializada."

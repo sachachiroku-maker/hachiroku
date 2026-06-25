@@ -1,4 +1,4 @@
----
+﻿---
 title: "Ficha técnica Corolla Cross XRX GR Sport 2.0"
 description: "Ficha técnica completa do Toyota Corolla Cross XRX GR Sport 2.0 2024: motor 2.0 Dynamic Force 177 cv, câmbio CVT Direct Shift, consumo 11,5 km/l cidade e 14,0 km/l estrada (gasolina), pneus 225/45 R18 e porta-malas de 440 litros. Dados verificados."
 marca: "Toyota"
@@ -83,8 +83,7 @@ fonteDados: "Toyota Brasil ficha técnica oficial 2024"
 pubDate: 2026-06-21
 updatedDate: 2026-06-21
 autor:
-  nome: "Equipe Hachiroku"
-  credencial: "Redação técnica automotiva"
+  nome: "Redação Hachiroku"
 draft: false
 ---
 

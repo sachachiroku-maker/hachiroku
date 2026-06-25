@@ -1,4 +1,4 @@
----
+﻿---
 title: "Como trocar filtro de ar: passo a passo sem mecânico"
 titleSuffix: "| Hachiroku"
 kicker: "HOW-TO · MÃO NA MASSA"
@@ -18,8 +18,7 @@ pontosChave:
   - "Causa: filtro saturado de poeira bloqueia o fluxo de ar e empobrece a mistura ar-combustível."
   - "Ação: troque o filtro a cada 15.000 km ou 1 ano, o que chegar primeiro, conforme o manual."
 autor:
-  nome: "Equipe Hachiroku"
-  credencial: "Redação técnica automotiva"
+  nome: "Redação Hachiroku"
 afiliados:
   - produto: "Filtro de ar Onix/Tracker 1.0 turbo"
     nota: "Original Chevrolet recomendado para motores 1.0 turbo flex da família GSE. Encaixe perfeito, sem adaptação."

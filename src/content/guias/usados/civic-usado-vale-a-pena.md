@@ -1,13 +1,12 @@
----
-title: "Honda Civic usado vale a pena? Guia completo por geração (10ª e 11ª)"
+﻿---
+title: "Honda Civic usado vale a pena? Guia completo por geração"
 description: "Civic usado tem boa dirigibilidade e porta-malas imenso, mas o 1.5T da 10ª geração tem consumo de óleo reconhecido pela Honda. Saiba o que inspecionar antes de comprar."
 marca: "Honda"
 modelo: "Civic"
 kicker: "GUIA DE COMPRA"
 veredito: "O Civic usado vale muito a pena para quem quer refinamento, espaço e reputação de durabilidade, mas exige inspeção cirúrgica. A 10ª geração (2017-2021) tem um problema sério: o motor 1.5T consome óleo de forma acima do normal, e a Honda emitiu boletim técnico reconhecendo a falha. A 11ª geração (2022 em diante) corrigiu a maioria dos pontos críticos e ainda entregou um porta-malas de 519 litros que supera sedans alemães bem mais caros. Compre com histórico de manutenção em mãos e um scanner OBD2 no bolso."
 autor:
-  nome: "Equipe Técnica Hachiroku"
-  credencial: ""
+  nome: "Redação Hachiroku"
 pubDate: 2026-06-20
 updatedDate: 2026-06-20
 disclaimer: "Este guia orienta a inspeção, mas não substitui uma vistoria cautelar e uma avaliação mecânica presencial antes da compra."

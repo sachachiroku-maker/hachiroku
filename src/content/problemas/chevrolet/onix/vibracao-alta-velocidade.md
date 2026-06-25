@@ -1,5 +1,5 @@
----
-title: "Chevrolet Onix Vibra no Volante em Alta Velocidade: Causa e Diagnóstico"
+﻿---
+title: "Chevrolet Onix Vibra no Volante em Alta Velocidade"
 description: "Onix 1.0 turbo ou aspirado vibrando entre 80 e 120 km/h? Descubra se é balanceamento, rolamento ou amortecedor e como resolver de vez."
 entidade:
   marca: "Chevrolet"
@@ -11,8 +11,7 @@ kicker: "DEFEITO CRÔNICO"
 intencao: "Diagnóstico"
 entidadesEssenciais: ["balanceamento de pneus", "rolamento de roda", "amortecedor dianteiro"]
 autor:
-  nome: "Equipe Técnica Hachiroku"
-  credencial: ""
+  nome: "Redação Hachiroku"
 pubDate: 2026-06-20
 updatedDate: 2026-06-20
 disclaimer: "As informações deste artigo têm finalidade educativa. Sempre consulte um mecânico qualificado antes de realizar reparos no seu veículo."

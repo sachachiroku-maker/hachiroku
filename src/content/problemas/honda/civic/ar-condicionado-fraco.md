@@ -1,4 +1,4 @@
----
+﻿---
 title: "Ar-condicionado fraco no Civic: traseira não gela"
 description: "O Honda Civic 11ª geração pode ter refrigeração fraca nos bancos traseiros por limitação do compressor ou obstrução no sistema. Saiba como diagnosticar e resolver."
 entidade:
@@ -17,8 +17,7 @@ entidadesEssenciais:
   - "expansão termostática CVT"
   - "pressão baixa ar-condicionado"
 autor:
-  nome: "Equipe Hachiroku"
-  credencial: "Redação técnica automotiva"
+  nome: "Redação Hachiroku"
 pubDate: 2026-06-21
 updatedDate: 2026-06-21
 disclaimer: "As informações deste artigo são de caráter informativo e técnico. O diagnóstico de falhas no sistema de ar-condicionado exige avaliação por profissional habilitado com manômetro de alta e baixa pressão e scanner compatível com a plataforma Honda. Nunca adicione gás refrigerante sem verificar a causa da perda."

@@ -1,11 +1,10 @@
----
+﻿---
 title: "CVT WR-V: patinação e solavanco no câmbio"
 pubDate: 2026-06-21
 updatedDate: 2026-06-21
 draft: false
 autor:
-  nome: "Equipe Hachiroku"
-  credencial: "Redação técnica automotiva"
+  nome: "Redação Hachiroku"
 
 entidade:
   marca: "Honda"

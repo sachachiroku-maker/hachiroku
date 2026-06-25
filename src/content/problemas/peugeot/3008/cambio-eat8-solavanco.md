@@ -1,4 +1,4 @@
----
+﻿---
 title: "Câmbio EAT8 Peugeot 3008: solavanco na troca 1-2"
 description: "O câmbio EAT8 do Peugeot 3008 1.6 THP apresenta solavanco e hesitação na troca da 1ª para a 2ª marcha. Entenda se a causa é software desatualizado ou fluido degradado e quais passos para resolver."
 entidade:
@@ -18,8 +18,7 @@ entidadesEssenciais:
   - "solavanco 1ª para 2ª marcha"
   - "hesitação na aceleração inicial"
 autor:
-  nome: "Equipe Hachiroku"
-  credencial: "Redação técnica automotiva"
+  nome: "Redação Hachiroku"
 pubDate: 2026-06-21
 updatedDate: 2026-06-21
 disclaimer: "Este conteúdo é informativo. Solavancos que pioram rapidamente ou aparecem acompanhados de luz de avaria no painel devem ser avaliados por técnico com acesso ao scanner Diagbox (ferramenta oficial Stellantis/PSA)."

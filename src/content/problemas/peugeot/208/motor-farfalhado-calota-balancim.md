@@ -1,5 +1,5 @@
----
-title: "Motor do Peugeot 208 faz farfalhado: tampa de balancins e o que causa o ruído"
+﻿---
+title: "Motor do Peugeot 208 faz farfalhado"
 description: "Farfalhado metálico no motor 1.6 do Peugeot 208 tem origem documentada na calota de balancins (tampa do cabeçote). Saiba identificar o sintoma, as causas e o custo do reparo antes que vire problema maior."
 entidade:
   marca: "Peugeot"
@@ -18,8 +18,7 @@ entidadesEssenciais:
   - "pressão de óleo"
   - "vedação do cabeçote"
 autor:
-  nome: "Equipe Técnica Hachiroku"
-  credencial: ""
+  nome: "Redação Hachiroku"
 pubDate: 2026-06-20
 updatedDate: 2026-06-20
 disclaimer: "Este conteúdo é informativo e diagnóstico. Ruídos metálicos persistentes no motor exigem avaliação por mecânico qualificado antes de continuar rodando. Ignorar farfalhado no cabeçote pode resultar em danos permanentes às válvulas ou ao árbol de cames."

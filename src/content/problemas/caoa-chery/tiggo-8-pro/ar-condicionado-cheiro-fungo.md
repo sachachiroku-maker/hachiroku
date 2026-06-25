@@ -1,4 +1,4 @@
----
+﻿---
 title: "Ar-condicionado Tiggo 8 Pro com cheiro de fungo"
 description: "O ar-condicionado do Caoa Chery Tiggo 8 Pro produz cheiro de fungo ao ligar: causa é o evaporador do sistema dual-zone contaminado. Saiba como diagnosticar, higienizar e prevenir."
 entidade:
@@ -18,8 +18,7 @@ entidadesEssenciais:
   - "spray bactericida para evaporador"
   - "ar-condicionado automotivo 7 lugares"
 autor:
-  nome: "Equipe Hachiroku"
-  credencial: "Redação técnica automotiva"
+  nome: "Redação Hachiroku"
 pubDate: 2026-06-21
 updatedDate: 2026-06-21
 disclaimer: "Este conteúdo é informativo. Proprietários com alergias, rinite ou asma devem considerar higienização do ar-condicionado preventivamente, independentemente de perceber odor. Em casos de mau cheiro persistente após higienização, procure um serviço especializado em ar-condicionado automotivo para inspeção do sistema dual-zone."

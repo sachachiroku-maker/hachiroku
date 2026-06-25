@@ -1,4 +1,4 @@
----
+﻿---
 title: "Fluido de freio: como verificar e quando trocar"
 description: "Fluido de freio degradado é uma das causas mais silenciosas de falha no sistema de frenagem: o líquido absorve umidade com o tempo, perde ponto de..."
 type: how-to
@@ -8,8 +8,7 @@ tempo: "10 a 15 min (verificação) / 45 min (troca)"
 dificuldade: "Fácil (verificação) / Intermediário (troca)"
 custoEstimado: "R$ 25 a R$ 60 (fluido DOT 4)"
 autor:
-  nome: "Equipe Hachiroku"
-  credencial: "Redação técnica automotiva"
+  nome: "Redação Hachiroku"
 pontosChave:
   - "Sintoma: reservatório com nível abaixo do mínimo ou fluido escuro e turvo."
   - "Causa: absorção de umidade ao longo do tempo reduz o ponto de ebulição e compromete a frenagem."

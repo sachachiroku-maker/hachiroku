@@ -1,5 +1,5 @@
----
-title: "Motor 1.0 TSI do Virtus consome óleo: causa, sintomas e o que fazer"
+﻿---
+title: "Motor 1.0 TSI do Virtus consome óleo"
 description: "O motor 1.0 TSI EA211 do Volkswagen Virtus pode consumir óleo acima do normal entre as revisões. Saiba por que isso acontece, quais são os sintomas, como verificar, quando o consumo é considerado dentro do limite e o que fazer quando não é. Dados verificados e diagnóstico técnico."
 entidade:
   marca: "Volkswagen"
@@ -17,8 +17,7 @@ entidadesEssenciais:
   - "vedação de haste de válvula"
   - "consumo de óleo turbo"
 autor:
-  nome: "Equipe Técnica Hachiroku"
-  credencial: ""
+  nome: "Redação Hachiroku"
 pubDate: 2026-06-20
 updatedDate: 2026-06-20
 disclaimer: "As informações deste artigo são de caráter técnico e educativo. O diagnóstico definitivo de consumo excessivo de óleo exige avaliação presencial por profissional habilitado. Não substitua peças sem diagnóstico confirmado."

@@ -1,4 +1,4 @@
----
+﻿---
 title: "Ar-condicionado Frontier 2.5 que não gela"
 entidade:
   marca: "Nissan"
@@ -37,8 +37,7 @@ relacionados:
   - titulo: "Ruído no motor Frontier 2.5 em aceleração"
     url: "/problemas/nissan/frontier/ruido-motor-aceleracao"
 autor:
-  nome: "Equipe Hachiroku"
-  credencial: "Redação técnica automotiva"
+  nome: "Redação Hachiroku"
 faq:
   - pergunta: "Por que o ar-condicionado da Frontier 2.5 não gela no calor?"
     resposta: "O principal motivo é a perda de carga de gás refrigerante R134a por microvazamentos nas mangueiras, conexões ou no compressor. Com menos gás no circuito, o sistema perde capacidade de trocar calor e passa a soprar ar morno. O problema se agrava em temperaturas acima de 30 °C porque a demanda de resfriamento aumenta enquanto a pressão do circuito já está abaixo do ideal."

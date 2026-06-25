@@ -1,13 +1,12 @@
----
-title: "Tracker vs Creta: qual SUV compacto turbo comprar (e para quem cada um serve)"
+﻿---
+title: "Tracker vs Creta: qual SUV compacto turbo comprar (e para"
 description: "Chevrolet Tracker e Hyundai Creta disputam o mesmo comprador, mas têm personalidades opostas embaixo da lataria. Comparamos os motores 1.0 turbo, consumo, espaço, os defeitos crônicos de cada um e mostramos para qual perfil cada SUV faz mais sentido."
 marca: "Comparativo"
 modelo: "Tracker vs Creta"
 kicker: "COMPARATIVO DE DECISÃO"
 veredito: "Não existe vencedor absoluto, existe o carro certo para o seu perfil. O Chevrolet Tracker é a escolha de quem prioriza custo de manutenção baixo, peça barata e rede de assistência em qualquer cidade, aceitando conviver com a correia banhada a óleo e a fragilidade da coluna de direção elétrica. O Hyundai Creta serve melhor a quem quer mais espaço interno, porta-malas maior e acabamento percebido superior, desde que entre na conta o histórico de recall de freio do 1.0 turbo e as queixas de injeção. Em resumo: Tracker para a cabeça racional e o bolso no curto prazo; Creta para o conforto e a família que viaja."
 autor:
-  nome: "Equipe Técnica Hachiroku"
-  credencial: ""
+  nome: "Redação Hachiroku"
 pubDate: 2026-06-19
 updatedDate: 2026-06-19
 disclaimer: "Este comparativo orienta a decisão de compra, mas não substitui um test drive demorado nos dois carros e, no caso de usados, uma vistoria cautelar com avaliação mecânica presencial. Defeitos crônicos variam conforme ano, versão e manutenção feita pelo dono anterior."

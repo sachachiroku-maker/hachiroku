@@ -1,5 +1,5 @@
----
-title: "Ar-condicionado do Citroën C3 com cheiro de mofo: causa e solução definitiva"
+﻿---
+title: "Ar-condicionado do Citroën C3 com cheiro de mofo"
 description: "O ar-condicionado do Citroën C3 produz cheiro de fungo ou mofo ao ligar: a causa está no evaporador com drenagem deficiente. Veja como identificar, higienizar e evitar o retorno do problema."
 entidade:
   marca: "Citroën"
@@ -17,8 +17,7 @@ entidadesEssenciais:
   - "higienização do ar-condicionado"
   - "spray bactericida para evaporador"
 autor:
-  nome: "Equipe Técnica Hachiroku"
-  credencial: ""
+  nome: "Redação Hachiroku"
 pubDate: 2026-06-20
 updatedDate: 2026-06-20
 disclaimer: "Este conteúdo é informativo. Proprietários com alergia ou asma devem considerar higienização do ar-condicionado periodicamente, independentemente de perceber cheiro. Odor persistente mesmo após limpeza pode indicar obstrução do sistema de drenagem, que exige intervenção profissional."

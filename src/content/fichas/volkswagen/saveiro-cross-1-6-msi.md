@@ -1,5 +1,5 @@
----
-title: "Ficha técnica do VW Saveiro Cross Cabine Estendida 1.6 MSI 2022"
+﻿---
+title: "Ficha técnica do VW Saveiro Cross Cabine Estendida 1.6 MSI"
 description: "VW Saveiro Cross 1.6 MSI Flex: 110 cv, câmbio manual 5 marchas, tração traseira e 720 kg de carga. A picape leve premium mais vendida do Brasil."
 marca: "Volkswagen"
 modelo: "Saveiro"

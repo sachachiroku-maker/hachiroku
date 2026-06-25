@@ -1,5 +1,5 @@
----
-title: "Fiat Cronos: Barulho na Suspensão Dianteira (Motor 1.3 Firefly)"
+﻿---
+title: "Fiat Cronos: Barulho na Suspensão Dianteira (Motor 1.3"
 description: "Identifique a causa do barulho na suspensão dianteira do Fiat Cronos 1.3 Firefly: bieleta, coxim, bucha ou terminal. Diagnóstico passo a passo."
 entidade:
   marca: "Fiat"
@@ -11,8 +11,7 @@ kicker: "DEFEITO CRÔNICO"
 intencao: "Diagnóstico"
 entidadesEssenciais: ["bieleta estabilizadora", "coxim amortecedor", "bucha de bandeja"]
 autor:
-  nome: "Equipe Técnica Hachiroku"
-  credencial: ""
+  nome: "Redação Hachiroku"
 pubDate: 2026-06-20
 updatedDate: 2026-06-20
 disclaimer: "Este conteúdo tem finalidade informativa e educacional. O diagnóstico definitivo e a substituição de peças devem ser realizados por profissional habilitado. O autor e o site não se responsabilizam por danos decorrentes do uso das informações aqui apresentadas."

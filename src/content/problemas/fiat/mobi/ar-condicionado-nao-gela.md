@@ -1,11 +1,10 @@
----
+﻿---
 title: "Ar-condicionado não gela no Fiat Mobi Drive 1.0"
 description: "Fiat Mobi Drive 1.0 com ar-condicionado que não gela? Veja causas, diagnóstico e como resolver o problema de compressor fraco e falta de gás refrigerante."
 pubDate: 2026-06-21
 updatedDate: 2026-06-21
 autor:
-  nome: "Equipe Hachiroku"
-  credencial: "Redação técnica automotiva"
+  nome: "Redação Hachiroku"
 entidade:
   marca: "Fiat"
   modelo: "Mobi Drive"

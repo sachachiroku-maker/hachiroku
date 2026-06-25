@@ -1,13 +1,12 @@
----
-title: "Honda HR-V vs Volkswagen T-Cross: qual SUV compacto vale mais o seu dinheiro em 2025?"
+﻿---
+title: "Honda HR-V vs Volkswagen T-Cross"
 description: "HR-V ou T-Cross? Comparamos motor, porta-malas, dirigibilidade e preço para você decidir com segurança. Veredicto técnico completo."
 marca: "Comparativo"
 modelo: "HR-V vs T-Cross"
 kicker: "GUIA DE COMPRA · DECISÃO"
 veredito: "T-Cross é melhor custo-benefício no geral; HR-V vence em espaço e acabamento."
 autor:
-  nome: "Equipe Técnica Hachiroku"
-  credencial: ""
+  nome: "Redação Hachiroku"
 pubDate: 2026-06-20
 updatedDate: 2026-06-20
 disclaimer: "Preços e especificações referentes a 2025-2026."
@@ -52,11 +51,11 @@ faq:
     resposta: "Depende do uso. Se você prioriza porta-malas grande, acabamento superior e motor com histórico longo, sim. Se quer mais dinamismo por menos dinheiro, o T-Cross 1.4 TSI entrega mais performance pelo mesmo preço ou menos."
 relacionados:
   - titulo: "Toyota Corolla Cross vs Honda HR-V: qual SUV compacto tem mais a oferecer?"
-    url: "/guias/comparativos/corolla-cross-vs-hr-v"
+    url: "/guia-de-compra/comparativos/corolla-cross-vs-hr-v"
   - titulo: "Jeep Renegade vs Volkswagen T-Cross: batalha de SUVs acessíveis"
-    url: "/guias/comparativos/renegade-vs-t-cross"
+    url: "/guia-de-compra/comparativos/renegade-vs-t-cross"
   - titulo: "Quanto custa manter um SUV compacto? Revisão, peças e seguro"
-    url: "/guias/custos/ctt-suv-compacto"
+    url: "/guia-de-compra/custos/ctt-suv-compacto"
 draft: false
 ---
 

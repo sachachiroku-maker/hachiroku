@@ -1,11 +1,10 @@
----
+﻿---
 collection: guias
 title: "Kicks vs Creta: qual SUV compacto comprar?"
 description: "Compare Nissan Kicks 1.6 CVT e Hyundai Creta 1.0 Turbo em potência, porta-malas, custo e equipamentos para escolher o melhor SUV compacto."
 pubDate: 2026-06-21
 autor:
-  nome: "Equipe Hachiroku"
-  credencial: "Redação técnica automotiva"
+  nome: "Redação Hachiroku"
 veredito: "Creta para quem quer mais potência, equipamentos premium e garantia de 5 anos. Kicks para quem prefere porta-malas maior, custo de manutenção mais acessível e câmbio mais suave."
 afiliados:
   - produto: "Scanner OBD2 compatível com Nissan e Hyundai"

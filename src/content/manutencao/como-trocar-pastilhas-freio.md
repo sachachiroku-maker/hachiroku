@@ -1,5 +1,5 @@
----
-title: "Como Trocar as Pastilhas de Freio Dianteiras em Carros Populares"
+﻿---
+title: "Como Trocar as Pastilhas de Freio Dianteiras em Carros"
 description: "Guia passo a passo para trocar pastilhas de freio dianteiras em casa: ferramentas, cuidados com pistão e disco, custos reais e erros a evitar."
 kicker: "HOW-TO · MÃO NA MASSA"
 veiculo: "Carros populares com freios a disco dianteiros"

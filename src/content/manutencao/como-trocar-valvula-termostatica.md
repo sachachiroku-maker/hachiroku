@@ -1,4 +1,4 @@
----
+﻿---
 title: "Como trocar o termostato do motor: guia prático"
 description: "Aprenda como trocar o termostato do motor em 5 passos, com ferramentas simples, em até 60 minutos. Evite superaquecimento e economize na oficina."
 tempo: "30 a 60 minutos"
@@ -8,8 +8,7 @@ pubDate: 2026-06-21
 updatedDate: 2026-06-21
 draft: false
 autor:
-  nome: "Equipe Hachiroku"
-  credencial: "Redação técnica automotiva"
+  nome: "Redação Hachiroku"
 passos:
   - nome: "Deixe o motor esfriar completamente"
     texto: "Nunca abra o sistema de arrefecimento com o motor quente. Aguarde no mínimo 2 horas após desligar o carro. O fluido pressurizado pode causar queimaduras graves. Estacione em superfície plana e aplique o freio de mão."

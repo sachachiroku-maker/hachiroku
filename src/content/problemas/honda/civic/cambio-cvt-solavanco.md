@@ -1,5 +1,5 @@
----
-title: "CVT do Civic com solavanco: causa, diagnóstico e o fluido ATF-DW1"
+﻿---
+title: "CVT do Civic com solavanco: causa, diagnóstico e o fluido"
 description: "O câmbio CVT do Honda Civic Touring pode apresentar solavancos no arranque e comportamento errático em temperatura fria. Saiba por que o CVT do Civic reage dessa forma, qual é o fluido ATF-DW1, qual o intervalo correto de troca e quando o problema vai além da manutenção."
 entidade:
   marca: "Honda"
@@ -17,8 +17,7 @@ entidadesEssenciais:
   - "superaquecimento do CVT"
   - "código P0740"
 autor:
-  nome: "Equipe Técnica Hachiroku"
-  credencial: ""
+  nome: "Redação Hachiroku"
 pubDate: 2026-06-20
 updatedDate: 2026-06-20
 disclaimer: "As informações deste artigo são de caráter informativo e técnico. O diagnóstico de problemas no câmbio CVT exige avaliação por profissional habilitado com scanner compatível com a plataforma Honda. A troca de fluido fora do prazo não substitui o diagnóstico quando há sintomas ativos."

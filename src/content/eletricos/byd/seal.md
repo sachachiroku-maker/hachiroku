@@ -1,5 +1,5 @@
----
-title: "BYD Seal: o sedã elétrico da BYD no Brasil — análise completa"
+﻿---
+title: "BYD Seal: o sedã elétrico da BYD no Brasil — análise"
 description: "BYD Seal: sedã elétrico com 313 cv ou 530 cv AWD, bateria LFP 82,56 kWh e autonomia real de até 480 km. Análise técnica completa para o mercado brasileiro."
 entidade:
   marca: "BYD"
@@ -8,8 +8,7 @@ entidade:
 kicker: "CARRO ELÉTRICO"
 entidadesEssenciais: ["BYD Seal", "bateria LFP", "sedã elétrico"]
 autor:
-  nome: "Equipe Técnica Hachiroku"
-  credencial: ""
+  nome: "Redação Hachiroku"
 pubDate: 2026-06-20
 updatedDate: 2026-06-20
 imagem: "/img/capas/eletricos.webp"

@@ -1,5 +1,5 @@
----
-title: "Câmbio de 10 marchas da Ranger NextGen sola: diagnóstico e solução por software"
+﻿---
+title: "Câmbio de 10 marchas da Ranger NextGen sola"
 description: "O câmbio automático SelectShift de 10 marchas da Ford Ranger NextGen apresenta solavancos nas trocas baixas em uso urbano. Entenda a causa técnica, o histórico do problema e a atualização de software que a Ford disponibilizou."
 entidade:
   marca: "Ford"
@@ -17,8 +17,7 @@ entidadesEssenciais:
   - "fluido de câmbio Mercon ULV"
   - "scanner Ford IDS/FDRS"
 autor:
-  nome: "Equipe Técnica Hachiroku"
-  credencial: ""
+  nome: "Redação Hachiroku"
 pubDate: 2026-06-20
 updatedDate: 2026-06-20
 disclaimer: "Este conteúdo é informativo e diagnóstico. Solavancos que evoluem para golpes mecânicos ou aparecem acompanhados de luz de avaria no painel exigem diagnóstico com scanner Ford IDS/FDRS antes de qualquer uso continuado."

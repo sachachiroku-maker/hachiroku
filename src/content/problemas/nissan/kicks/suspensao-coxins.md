@@ -1,5 +1,5 @@
----
-title: "Suspensão e coxins do Nissan Kicks: barulhos, desgaste e o que verificar"
+﻿---
+title: "Suspensão e coxins do Nissan Kicks"
 description: "A suspensão traseira e os coxins do Nissan Kicks 1.6 estão entre as queixas mais comuns dos donos: barulho na suspensão de trás, trepidação no volante, desgaste prematuro de peças e coxins do motor e do câmbio cansados. Veja os sintomas, as causas, o que inspecionar e como evitar a fatura grande no SUV usado."
 entidade:
   marca: "Nissan"
@@ -18,8 +18,7 @@ entidadesEssenciais:
   - "bieletas e buchas da suspensão"
   - "desgaste prematuro"
 autor:
-  nome: "Equipe Técnica Hachiroku"
-  credencial: ""
+  nome: "Redação Hachiroku"
 pubDate: 2026-06-19
 updatedDate: 2026-06-19
 disclaimer: "A inspeção de suspensão e coxins exige elevador, ferramentas e checagem de folgas com o carro suspenso. Este conteúdo é informativo: confie o diagnóstico e a troca de peças a um profissional qualificado e use peças na especificação correta. Barulhos de suspensão podem ter mais de uma origem; só a inspeção física confirma a causa."

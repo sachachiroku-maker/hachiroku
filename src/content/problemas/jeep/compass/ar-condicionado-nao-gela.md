@@ -1,5 +1,5 @@
----
-title: "Ar-condicionado fraco ou que não gela no Jeep Compass: causas e custos"
+﻿---
+title: "Ar-condicionado fraco ou que não gela no Jeep Compass"
 description: "AC fraco, demora para gelar ou não liga no Jeep Compass 2017 em diante. Veja as 5 causas documentadas, custos reais em R$ e como diagnosticar cada uma."
 entidade:
   marca: "Jeep"
@@ -21,8 +21,7 @@ entidadesEssenciais:
   - "Reclame Aqui Compass"
   - "FCA Stellantis recall"
 autor:
-  nome: "Equipe Técnica Hachiroku"
-  credencial: ""
+  nome: "Redação Hachiroku"
 pubDate: 2026-06-20
 updatedDate: 2026-06-20
 disclaimer: "As faixas de preço apresentadas são estimativas baseadas em referências do mercado brasileiro de 2025-2026 e podem variar conforme a região, oficina e procedência da peça. Consulte sempre um técnico especializado antes de qualquer intervenção no sistema de ar-condicionado."

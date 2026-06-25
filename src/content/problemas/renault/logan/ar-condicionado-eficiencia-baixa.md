@@ -1,4 +1,4 @@
----
+﻿---
 title: "AC do Logan 1.0 turbo perde eficiência | Hachiroku"
 description: "O ar-condicionado do Renault Logan 1.0 turbo Energy perde eficiência a plena carga porque o compressor consome parte da potência limitada do motor. Saiba identificar o que é comportamento normal, o que é defeito e quando agir."
 entidade:
@@ -19,8 +19,7 @@ entidadesEssenciais:
   - "embreagem do compressor"
   - "sensor de pressão"
 autor:
-  nome: "Equipe Hachiroku"
-  credencial: "Redação técnica automotiva"
+  nome: "Redação Hachiroku"
 pubDate: 2026-06-20
 updatedDate: 2026-06-20
 disclaimer: "O manuseio do gás refrigerante R134a requer equipamento específico e certificação ambiental. Nunca tente recarregar o sistema sozinho sem diagnosticar o ponto de vazamento antes. Este conteúdo é informativo; o serviço deve ser executado em oficina especializada em sistemas de AC."

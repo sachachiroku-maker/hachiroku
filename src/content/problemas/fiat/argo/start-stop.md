@@ -1,5 +1,5 @@
----
-title: "Start-Stop do Fiat Argo: por que não desliga, a bateria certa e o custo"
+﻿---
+title: "Start-Stop do Fiat Argo: por que não desliga, a bateria"
 description: "O Start-Stop do Fiat Argo (motor Firefly) parou de atuar? Quase sempre é a bateria AGM ou EFB perdendo carga, não defeito do motor. Veja como o sistema funciona, por que ele às vezes não desliga (bateria fraca, temperatura, ar-condicionado), qual bateria especial usar, o risco para o motor de partida e quanto custa resolver."
 entidade:
   marca: "Fiat"
@@ -15,8 +15,7 @@ entidadesEssenciais:
   - "bateria AGM/EFB"
   - "motor de partida"
 autor:
-  nome: "Equipe Técnica Hachiroku"
-  credencial: ""
+  nome: "Redação Hachiroku"
 pubDate: 2026-06-18
 updatedDate: 2026-06-18
 disclaimer: "Diagnóstico de bateria e do sistema Start-Stop exige aparelho de teste de carga e, em muitos casos, scanner para verificar o sensor de bateria. Este conteúdo é informativo: confirme o tipo de bateria (AGM ou EFB) e a calibração do sistema com um profissional ou na concessionária antes de trocar peças. Use sempre a especificação exata do manual do seu ano."

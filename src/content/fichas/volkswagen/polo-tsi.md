@@ -1,5 +1,5 @@
----
-title: "Ficha técnica do Volkswagen Polo Highline 1.0 TSI 2023 (turbo)"
+﻿---
+title: "Ficha técnica do Volkswagen Polo Highline 1.0 TSI 2023"
 description: "Ficha técnica do Volkswagen Polo Highline 1.0 TSI 2023: motor 1.0 EA211 turbo de 3 cilindros e injeção direta, câmbio automático de 6 marchas, 300 litros de porta-malas e bom desempenho urbano. Dados de motor, consumo e o que esperar da versão turbo."
 marca: "Volkswagen"
 modelo: "Polo TSI"

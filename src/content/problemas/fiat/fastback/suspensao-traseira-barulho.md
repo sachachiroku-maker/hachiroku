@@ -1,5 +1,5 @@
----
-title: "Suspensão traseira do Fiat Fastback com barulho: diagnóstico de bucha, rolamento e mola"
+﻿---
+title: "Suspensão traseira do Fiat Fastback com barulho"
 description: "A suspensão traseira do Fiat Fastback pode apresentar barulhos e folgas, com relatos documentados de buchas, rolamentos e molas com desgaste precoce. Entenda os sintomas, as causas e o custo de reparo."
 entidade:
   marca: "Fiat"
@@ -19,8 +19,7 @@ entidadesEssenciais:
   - "multilink traseiro"
   - "amortecedor"
 autor:
-  nome: "Equipe Técnica Hachiroku"
-  credencial: ""
+  nome: "Redação Hachiroku"
 pubDate: 2026-06-20
 updatedDate: 2026-06-20
 disclaimer: "Este conteúdo é informativo e diagnóstico. Componentes de suspensão com folga podem comprometer a estabilidade e o controle direcional do veículo. Se houver barulho acompanhado de comportamento instável na direção, desvio de trajetória ou vibração excessiva, leve o veículo à oficina imediatamente. Não dirija com suspeita de suspensão danificada sem diagnóstico."

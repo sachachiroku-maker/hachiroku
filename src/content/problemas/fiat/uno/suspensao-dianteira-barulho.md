@@ -1,5 +1,5 @@
----
-title: "Fiat Uno com Barulho na Suspensão Dianteira: Bieletas, Coxins e Buchas McPherson"
+﻿---
+title: "Fiat Uno com Barulho na Suspensão Dianteira"
 description: "Fiat Uno 2010+ fazendo barulho na frente? Veja como diagnosticar bieleta, coxim e bucha da suspensão McPherson e o que trocar primeiro."
 entidade:
   marca: "Fiat"
@@ -11,8 +11,7 @@ kicker: "DEFEITO CRÔNICO"
 intencao: "Diagnóstico"
 entidadesEssenciais: ["bieleta de barra estabilizadora", "coxim de amortecedor", "bucha de bandeja"]
 autor:
-  nome: "Equipe Técnica Hachiroku"
-  credencial: ""
+  nome: "Redação Hachiroku"
 pubDate: 2026-06-20
 updatedDate: 2026-06-20
 disclaimer: "As informações deste artigo têm caráter educativo. Sempre consulte um mecânico habilitado antes de realizar qualquer reparo no seu veículo."

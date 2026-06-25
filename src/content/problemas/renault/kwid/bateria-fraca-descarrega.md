@@ -1,4 +1,4 @@
----
+﻿---
 title: "Kwid com Bateria Fraca que Descarrega: Diagnóstico Completo"
 description: "Bateria do Kwid descarrega do nada? Entenda a causa do parasita elétrico, como medir e quando trocar. Guia técnico com multímetro passo a passo."
 entidade:
@@ -11,8 +11,7 @@ kicker: "DEFEITO CRÔNICO"
 intencao: "Diagnóstico"
 entidadesEssenciais: ["bateria automotiva", "parasita elétrico", "alternador Kwid"]
 autor:
-  nome: "Equipe Técnica Hachiroku"
-  credencial: ""
+  nome: "Redação Hachiroku"
 pubDate: 2026-06-20
 updatedDate: 2026-06-20
 disclaimer: "As informações deste artigo têm caráter educativo. Intervenções no sistema elétrico envolvem risco de curto-circuito e danos ao veículo. Consulte um eletricista automotivo credenciado antes de realizar qualquer procedimento."

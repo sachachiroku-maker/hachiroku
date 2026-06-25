@@ -1,4 +1,4 @@
----
+﻿---
 title: "Ar-condicionado fraco na Hilux SRX: bancos traseiros"
 description: "Ar-condicionado da Toyota Hilux SRX 2.8 diesel com distribuição de ar desequilibrada entre cabine e bancada traseira. Causas, diagnóstico e solução."
 entidade:
@@ -20,8 +20,7 @@ entidadesEssenciais:
   - "gás R-134a"
   - "compressor de ar-condicionado"
 autor:
-  nome: "Equipe Hachiroku"
-  credencial: "Redação técnica automotiva"
+  nome: "Redação Hachiroku"
 pubDate: 2026-06-21
 updatedDate: 2026-06-21
 disclaimer: "Este conteúdo é informativo e diagnóstico. Intervenções nos dutos internos de climatização exigem remoção de painel e revestimento interno. Serviços no circuito de refrigeração devem ser realizados por profissional habilitado com equipamento certificado."

@@ -1,5 +1,5 @@
----
-title: "Wallbox em casa: requisitos elétricos, custo e por que ele desarma o disjuntor"
+﻿---
+title: "Wallbox em casa: requisitos elétricos, custo e por que ele"
 description: "Guia técnico do carregador de parede para carro elétrico: o que é, requisitos elétricos (potência, disjuntor, DR, aterramento), tomada comum vs wallbox, custo aproximado e por que o wallbox desarma o disjuntor. Conteúdo informativo, instalação por eletricista qualificado."
 entidade:
   marca: "Geral"
@@ -15,8 +15,7 @@ entidadesEssenciais:
   - "potência kW"
   - "recarga AC"
 autor:
-  nome: "Equipe Técnica Hachiroku"
-  credencial: ""
+  nome: "Redação Hachiroku"
 pubDate: 2026-06-18
 updatedDate: 2026-06-18
 disclaimer: "Instalação elétrica de alta corrente exige eletricista qualificado e projeto conforme a norma. Este conteúdo é informativo e não substitui o profissional."

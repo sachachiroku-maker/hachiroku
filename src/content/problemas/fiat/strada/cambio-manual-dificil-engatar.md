@@ -1,5 +1,5 @@
----
-title: "Câmbio Manual Difícil de Engatar no Fiat Strada (2020 em diante)"
+﻿---
+title: "Câmbio Manual Difícil de Engatar no Fiat Strada (2020 em"
 description: "Câmbio do Fiat Strada travando ou duro para engatar? Conheça as 5 causas mais comuns e o que fazer antes de gastar com retífica."
 entidade:
   marca: "Fiat"
@@ -18,8 +18,7 @@ entidadesEssenciais:
   - "sincronizador câmbio"
   - "óleo 75W80 GL-4"
 autor:
-  nome: "Equipe Técnica Hachiroku"
-  credencial: ""
+  nome: "Redação Hachiroku"
 pubDate: 2026-06-20
 updatedDate: 2026-06-20
 disclaimer: "As informações deste artigo têm caráter educativo. Diagnósticos definitivos e reparos devem ser realizados por profissional habilitado. Preços citados são estimativas de mercado para o Brasil em 2025-2026 e podem variar por região."

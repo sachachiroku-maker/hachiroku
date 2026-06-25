@@ -1,5 +1,5 @@
----
-title: "Calibragem de pneus: como fazer certo, onde achar a pressão e por que isso importa"
+﻿---
+title: "Calibragem de pneus: como fazer certo, onde achar a pressão"
 description: "Guia prático de calibragem de pneus: onde achar a pressão correta na etiqueta da porta, por que calibrar a frio, o impacto no consumo e na segurança, e cada quanto tempo verificar. Válido para qualquer carro."
 kicker: "HOW-TO · 5 MINUTOS"
 veiculo: "Qualquer carro"
@@ -21,8 +21,7 @@ passos:
   - nome: "Não esqueça o estepe e recoloque as tampinhas"
     texto: "Calibre também o estepe, que costuma pedir a pressão de carga máxima indicada na etiqueta. Um estepe murcho não serve de nada na hora do aperto. Recoloque todas as tampinhas das válvulas: elas protegem contra poeira e umidade."
 autor:
-  nome: "Equipe Técnica Hachiroku"
-  credencial: ""
+  nome: "Redação Hachiroku"
 pubDate: 2026-06-18
 updatedDate: 2026-06-18
 disclaimer: "Use sempre a pressão indicada na etiqueta do seu veículo, nunca um número genérico. Os valores e práticas aqui descritos não substituem o manual do proprietário nem a avaliação de um profissional diante de desgaste irregular ou avaria no pneu."

@@ -1,5 +1,5 @@
----
-title: "CVT do Honda City com solavanco: fluido HCF-2, diagnóstico e custo de reparo"
+﻿---
+title: "CVT do Honda City com solavanco"
 description: "O câmbio CVT do Honda City pode apresentar solavanco em manobras lentas ou retomadas de velocidade. Entenda a relação com o fluido HCF-2, o intervalo correto de troca e como diagnosticar o problema."
 entidade:
   marca: "Honda"
@@ -19,8 +19,7 @@ entidadesEssenciais:
   - "HR-V CVT"
   - "WR-V CVT"
 autor:
-  nome: "Equipe Técnica Hachiroku"
-  credencial: ""
+  nome: "Redação Hachiroku"
 pubDate: 2026-06-20
 updatedDate: 2026-06-20
 disclaimer: "Este conteúdo é informativo e diagnóstico. Solavanco no câmbio CVT pode indicar fluido degradado, desgaste de correias variáveis ou problemas na bomba de pressão. Use exclusivamente o fluido Honda HCF-2 especificado pela Honda para o CVT do City. Fluidos não aprovados pela Honda podem causar dano irreversível ao câmbio CVT."

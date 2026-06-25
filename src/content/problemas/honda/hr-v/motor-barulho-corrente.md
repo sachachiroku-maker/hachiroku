@@ -1,4 +1,4 @@
----
+﻿---
 title: "Barulho no motor HR-V 1.8: tensionador de corrente"
 description: "Barulho de tique-tique ou corrente a frio no Honda HR-V 1.8 i-VTEC indica tensionador de corrente ou óleo fora do intervalo. Veja como identificar a origem do ruído e o que o diagnóstico confirma."
 entidade:
@@ -20,8 +20,7 @@ entidadesEssenciais:
   - "lubrificação do motor"
   - "desgaste do tensionador"
 autor:
-  nome: "Equipe Técnica Hachiroku"
-  credencial: ""
+  nome: "Redação Hachiroku"
 pubDate: 2026-06-20
 updatedDate: 2026-06-20
 disclaimer: "Ruído de corrente de distribuição persistente exige diagnóstico em oficina especializada. Não ignore barulhos de motor que aparecem na partida a frio: tensionador defeituoso pode levar à falha da corrente. Este conteúdo é informativo."

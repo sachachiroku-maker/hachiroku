@@ -1,4 +1,4 @@
----
+﻿---
 title: "Consumo de óleo no Peugeot 208 1.2 PureTech | Hachiroku"
 description: "O motor 1.2 PureTech 3 cilindros turbo do Peugeot 208 tem consumo excessivo de óleo documentado em fóruns e órgãos de defesa do consumidor. Saiba identificar os sintomas, as causas e como agir antes do dano se tornar irreversível."
 entidade:
@@ -19,8 +19,7 @@ entidadesEssenciais:
   - "pressão de óleo"
   - "lubrificante PSA B71 2290"
 autor:
-  nome: "Equipe Hachiroku"
-  credencial: "Redação técnica automotiva"
+  nome: "Redação Hachiroku"
 pubDate: 2026-06-20
 updatedDate: 2026-06-20
 disclaimer: "Este conteúdo é informativo e diagnóstico. Consumo de óleo acima de 0,5 litro por 1.000 km exige avaliação por mecânico qualificado. Continuar rodando com nível abaixo do mínimo pode causar dano irreversível ao motor."
@@ -76,7 +75,7 @@ fontes:
   - { titulo: "Relatos de consumo de óleo no 1.2 PureTech (PeugeotClub.com.br)", url: "https://www.peugeotclub.com.br/forum/" }
   - { titulo: "Reclamações sobre motor PureTech — consumo de óleo (Reclame Aqui / PROCON)", url: "https://www.reclameaqui.com.br/empresa/peugeot/" }
 relacionados:
-  - { titulo: "Ficha técnica completa do Peugeot 208", url: "/fichas/peugeot/208/" }
+  - { titulo: "Ficha técnica completa do Peugeot 208", url: "/ficha-tecnica/peugeot/208/" }
   - { titulo: "Hub do motor 1.2 PureTech 3 cilindros", url: "/motores/peugeot/1-2-puretech/" }
 draft: false
 ---

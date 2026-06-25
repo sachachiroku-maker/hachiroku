@@ -1,5 +1,5 @@
----
-title: "Citroën C4 1.6 THP: consumo excessivo de óleo no motor Prince EP6"
+﻿---
+title: "Citroën C4 1.6 THP: consumo excessivo de óleo no motor"
 description: "Motor Prince EP6 do Citroën C4 consome óleo? Entenda causas, sintomas e o custo do reparo dos selos de haste e retentores do turbo."
 entidade:
   marca: "Citroën"
@@ -16,8 +16,7 @@ entidadesEssenciais:
   - "Turbocompressor THP"
   - "PSA B71 2290"
 autor:
-  nome: "Equipe Técnica Hachiroku"
-  credencial: ""
+  nome: "Redação Hachiroku"
 pubDate: 2026-06-20
 updatedDate: 2026-06-20
 disclaimer: "As informações deste artigo têm caráter educativo e diagnóstico. Sempre consulte um mecânico qualificado antes de realizar qualquer intervenção no veículo."

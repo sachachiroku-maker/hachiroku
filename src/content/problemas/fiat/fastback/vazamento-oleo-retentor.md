@@ -1,5 +1,5 @@
----
-title: "Vazamento de óleo pelo retentor traseiro do virabrequim no Fiat Fastback turbo"
+﻿---
+title: "Vazamento de óleo pelo retentor traseiro do virabrequim no"
 description: "Fiat Fastback turbo fabricado entre abril e julho de 2024 pode vazar óleo pelo retentor traseiro do virabrequim, por desalinhamento de uma prensa na fábrica. Afeta motores T200 (1.0) e T270 (1.3) e também Pulse, Strada, Toro e modelos Jeep. Veja sintomas, causa, se há recall, riscos e o que verificar antes de comprar."
 entidade:
   marca: "Fiat"
@@ -18,8 +18,7 @@ entidadesEssenciais:
   - "fabricação abril a julho de 2024"
   - "reparo sem custo"
 autor:
-  nome: "Equipe Técnica Hachiroku"
-  credencial: ""
+  nome: "Redação Hachiroku"
 pubDate: 2026-06-19
 updatedDate: 2026-06-19
 disclaimer: "A troca do retentor traseiro do virabrequim exige a separação do câmbio do motor e mão de obra especializada. Não é um serviço de garagem para iniciantes. Este conteúdo é informativo: confie a execução a um profissional qualificado e verifique a elegibilidade do seu chassi diretamente na concessionária Fiat."

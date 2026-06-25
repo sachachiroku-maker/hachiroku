@@ -1,4 +1,4 @@
----
+﻿---
 title: "Corrente de comando Jeep Renegade 1.3 T270: sincronismo"
 description: "Jeep Renegade com o motor 1.3 turbo T270 vem acumulando relatos de folga na corrente de comando e perda de sincronismo, em alguns casos com menos de 70 mil km. Veja os sintomas, as causas ligadas ao tensionador hidráulico e ao óleo, qual motor é afetado, como é o diagnóstico, a faixa de custo e como prevenir antes que vire motor aberto."
 entidade:
@@ -16,8 +16,7 @@ entidadesEssenciais:
   - "sincronismo do motor"
   - "sistema MultiAir"
 autor:
-  nome: "Equipe Técnica Hachiroku"
-  credencial: ""
+  nome: "Redação Hachiroku"
 pubDate: 2026-06-19
 updatedDate: 2026-06-19
 disclaimer: "Folga de corrente e perda de sincronismo só viram diagnóstico fechado com o carro em mãos, leitura de scanner e, quando necessário, medição do ponto do motor por um profissional. Este conteúdo orienta o que investigar; quilometragens e custos citados são relatos de mercado e variam por uso, manutenção, região e oficina. O manual e a revisão do seu ano são a palavra final."

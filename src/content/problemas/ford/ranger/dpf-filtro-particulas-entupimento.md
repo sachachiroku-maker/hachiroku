@@ -1,5 +1,5 @@
----
-title: "DPF da Ford Ranger NextGen entupindo em uso urbano: como evitar e resolver"
+﻿---
+title: "DPF da Ford Ranger NextGen entupindo em uso urbano"
 description: "O filtro de partículas diesel (DPF) da Ford Ranger NextGen 2.0 Bi-Turbo entope em uso predominantemente urbano. Entenda por que acontece, como a regeneração funciona e o custo do reparo quando o filtro chega ao limite."
 entidade:
   marca: "Ford"
@@ -18,8 +18,7 @@ entidadesEssenciais:
   - "ciclo de uso urbano"
   - "luz de avaria DPF"
 autor:
-  nome: "Equipe Técnica Hachiroku"
-  credencial: ""
+  nome: "Redação Hachiroku"
 pubDate: 2026-06-20
 updatedDate: 2026-06-20
 disclaimer: "Este conteúdo é informativo e diagnóstico. Ignorar a luz de avaria do DPF ou tentar remover o filtro para uso em via pública é ilegal no Brasil (Resolução CONAMA 18/1986 e PROCONVE). Proceda a limpeza ou regeneração forçada por profissional autorizado Ford."

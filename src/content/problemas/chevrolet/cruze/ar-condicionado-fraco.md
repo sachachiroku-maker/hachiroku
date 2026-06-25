@@ -1,5 +1,5 @@
----
-title: "Chevrolet Cruze com Ar-Condicionado Fraco: Diagnóstico Completo"
+﻿---
+title: "Chevrolet Cruze com Ar-Condicionado Fraco"
 description: "Cruze 1.4 e 1.0 turbo com AC fraco ou quente? Veja causas, diagnóstico e custos: filtro de cabine, gás R134a, condensador e servo-motor Dual Zone."
 entidade:
   marca: "Chevrolet"
@@ -11,8 +11,7 @@ kicker: "DEFEITO CRÔNICO"
 intencao: "Diagnóstico"
 entidadesEssenciais: ["compressor de ar-condicionado", "condensador", "filtro de cabine", "gás R134a", "servo-motor Dual Zone"]
 autor:
-  nome: "Equipe Técnica Hachiroku"
-  credencial: ""
+  nome: "Redação Hachiroku"
 pubDate: 2026-06-20
 updatedDate: 2026-06-20
 disclaimer: "Este artigo tem caráter informativo. Serviços de ar-condicionado automotivo com fluido refrigerante devem ser realizados por profissional certificado e com equipamento homologado pelo IBAMA."

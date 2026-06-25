@@ -1,13 +1,12 @@
----
-title: "Renault Captur Usado Vale a Pena? Guia Completo de Compra 2026"
+﻿---
+title: "Renault Captur Usado Vale a Pena? Guia Completo de Compra"
 description: "Renault Captur usado tem motor confiável, mas o câmbio CVT exige atenção. Saiba o que inspecionar antes de comprar e quais anos evitar."
 marca: "Renault"
 modelo: "Captur"
 kicker: "GUIA DE COMPRA"
 veredito: "Vale a pena se o câmbio CVT tiver histórico de troca de fluido e a suspensão dianteira estiver em dia. Prefira unidades da 2ª geração (2022+) com revisões documentadas."
 autor:
-  nome: "Equipe Técnica Hachiroku"
-  credencial: ""
+  nome: "Redação Hachiroku"
 pubDate: 2026-06-20
 updatedDate: 2026-06-20
 disclaimer: "Este guia orienta a inspeção, mas não substitui uma vistoria cautelar e uma avaliação mecânica presencial antes da compra."
@@ -58,11 +57,11 @@ faq:
     resposta: "Para a 1ª geração, prefira unidades com até 80.000 km e histórico de revisões em dia. Para a 2ª geração, a faixa até 50.000 km oferece mais tranquilidade. Acima disso, exija laudo de mecânico independente antes de fechar negócio."
 relacionados:
   - titulo: "Jeep Compass Usado Vale a Pena?"
-    url: "/guias/usados/compass-usado-vale-a-pena"
+    url: "/guia-de-compra/usados/compass-usado-vale-a-pena"
   - titulo: "Hyundai Creta Usado Vale a Pena?"
-    url: "/guias/usados/creta-usado-vale-a-pena"
+    url: "/guia-de-compra/usados/creta-usado-vale-a-pena"
   - titulo: "Volkswagen T-Cross Usado Vale a Pena?"
-    url: "/guias/usados/t-cross-usado-vale-a-pena"
+    url: "/guia-de-compra/usados/t-cross-usado-vale-a-pena"
 draft: false
 ---
 

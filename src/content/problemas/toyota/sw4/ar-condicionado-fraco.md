@@ -1,5 +1,5 @@
----
-title: "Ar-condicionado Fraco no Toyota SW4: Causas, Diagnóstico e Custos"
+﻿---
+title: "Ar-condicionado Fraco no Toyota SW4"
 description: "AC fraco ou que não gela no Toyota SW4 2016 em diante: 6 causas reais, como diagnosticar cada uma e quanto custa resolver. Guia técnico completo."
 entidade:
   marca: "Toyota"
@@ -11,8 +11,7 @@ kicker: "DEFEITO CRÔNICO"
 intencao: "Diagnóstico"
 entidadesEssenciais: ["Toyota SW4", "ar-condicionado automotivo", "compressor Denso"]
 autor:
-  nome: "Equipe Técnica Hachiroku"
-  credencial: ""
+  nome: "Redação Hachiroku"
 pubDate: 2026-06-20
 updatedDate: 2026-06-20
 disclaimer: "As faixas de custo indicadas neste artigo são estimativas de mercado para o Brasil em 2026 e podem variar conforme região, fornecedor e condição do veículo. Sempre solicite orçamento de uma oficina especializada antes de executar qualquer serviço."

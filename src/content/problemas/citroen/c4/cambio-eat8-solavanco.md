@@ -1,4 +1,4 @@
----
+﻿---
 title: "Câmbio EAT8 com Solavanco no Citroën C4"
 description: "Solavanco e tranco no câmbio automático EAT8 do Citroën C4 1.6 THP indicam calibração desatualizada ou fluido degradado. Saiba como diagnosticar e resolver."
 entidade:
@@ -9,8 +9,7 @@ defeito: "Solavanco e tranco no câmbio automático EAT8 do Citroën C4 1.6 THP 
 pubDate: 2026-06-21
 updatedDate: 2026-06-21
 autor:
-  nome: "Equipe Hachiroku"
-  credencial: "Redação técnica automotiva"
+  nome: "Redação Hachiroku"
 pontosChave:
   - "Sintoma: solavanco, tranco ou hesitação nas trocas de marcha, especialmente das 1ª para 2ª e em baixa velocidade."
   - "Causa: calibração (software TCU) desatualizada ou fluido do câmbio EAT8 degradado fora do intervalo de troca."

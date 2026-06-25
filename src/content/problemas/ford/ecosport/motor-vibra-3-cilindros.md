@@ -1,5 +1,5 @@
----
-title: "Motor do EcoSport 1.5 Dragon vibra: o que é normal e o que é problema"
+﻿---
+title: "Motor do EcoSport 1.5 Dragon vibra"
 description: "O motor 1.5 Dragon de 3 cilindros do Ford EcoSport vibra por características de projeto, mas há casos onde a vibração sinaliza problema real: polia tensionadora defeituosa, software do módulo desatualizado e coxins desgastados. Saiba distinguir e quando agir."
 entidade:
   marca: "Ford"
@@ -18,8 +18,7 @@ entidadesEssenciais:
   - "correia de sincronismo"
   - "balanceador de massa"
 autor:
-  nome: "Equipe Técnica Hachiroku"
-  credencial: ""
+  nome: "Redação Hachiroku"
 pubDate: 2026-06-20
 updatedDate: 2026-06-20
 disclaimer: "Este conteúdo é informativo e diagnóstico. Vibrações que aumentam progressivamente, luz de injeção acesa ou perda de potência exigem avaliação por profissional qualificado antes de continuar usando o veículo."

@@ -1,4 +1,4 @@
----
+﻿---
 title: "Cheiro de Fungo no Ar-Condicionado do GWM Haval H6"
 description: "Ar-condicionado do Haval H6 cheira a mofo ao ligar? Evaporador contaminado por fungos é a causa. Veja como limpar, quando trocar o filtro cabine e quais produtos usar."
 entidade:
@@ -15,8 +15,7 @@ entidadesEssenciais:
   - "ar-condicionado"
   - "higienizador de evaporador"
 autor:
-  nome: "Equipe Hachiroku"
-  credencial: "Redação técnica automotiva"
+  nome: "Redação Hachiroku"
 pubDate: 2026-06-21
 updatedDate: 2026-06-21
 disclaimer: "As informações deste artigo têm caráter educativo. Sempre consulte uma oficina autorizada GWM ou especializada em ar-condicionado automotivo antes de qualquer intervenção no sistema de climatização do seu veículo."

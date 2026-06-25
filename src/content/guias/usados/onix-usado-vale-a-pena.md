@@ -1,13 +1,12 @@
----
-title: "Onix usado vale a pena? O que verificar antes de comprar (por geração)"
+﻿---
+title: "Onix usado vale a pena? O que verificar antes de comprar"
 description: "O Chevrolet Onix usado é um dos melhores negócios entre os populares, mas o que você precisa inspecionar muda totalmente entre a 1ª e a 2ª geração. Veja o checklist completo, os defeitos crônicos de cada fase e como não cair em furada."
 marca: "Chevrolet"
 modelo: "Onix"
 kicker: "GUIA DE COMPRA"
 veredito: "Sim, o Onix usado costuma valer a pena: é econômico, tem peça barata e boa revenda. Mas a inspeção certa muda conforme a geração. Na 1ª geração (até 2019) o foco é a correia seca e itens elétricos. Na 2ª geração (2020 em diante) o ponto número um é o histórico de óleo, por causa da correia banhada a óleo. Comprar sem checar isso é o caminho mais rápido para uma fatura de motor."
 autor:
-  nome: "Equipe Técnica Hachiroku"
-  credencial: ""
+  nome: "Redação Hachiroku"
 pubDate: 2026-06-18
 updatedDate: 2026-06-18
 disclaimer: "Este guia orienta a inspeção, mas não substitui uma vistoria cautelar e uma avaliação mecânica presencial antes da compra. Em carro usado, sempre vale levar um profissional de confiança."

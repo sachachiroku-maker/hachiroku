@@ -1,4 +1,4 @@
----
+﻿---
 title: "Fluido de arrefecimento: como verificar e repor | Hachiroku"
 description: "Aprenda a verificar e repor o fluido de arrefecimento em 5 passos simples. Evite superaquecimento, danos ao motor e saiba qual aditivo usar no seu carro."
 pubDate: 2026-06-20
@@ -16,8 +16,7 @@ entidade:
   modelo: "Todos os modelos"
   motor: "Motor a combustão (gasolina, etanol, flex, diesel)"
 autor:
-  nome: "Equipe Hachiroku"
-  credencial: "Redação técnica automotiva"
+  nome: "Redação Hachiroku"
 afiliados:
   - produto: "Aditivo para radiador concentrado"
     nota: "Dilua em água destilada na proporção indicada pelo fabricante"

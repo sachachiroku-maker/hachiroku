@@ -1,5 +1,5 @@
----
-title: "Jeep Wrangler Superaquecendo: Causas, Sintomas e Como Resolver (1.3T e 2.0T)"
+﻿---
+title: "Jeep Wrangler Superaquecendo: Causas, Sintomas e Como"
 description: "Jeep Wrangler superaquecendo? Entenda as causas do problema no motor 1.3T e 2.0T: radiador entupido, termostato, EGR e correia auxiliar. Diagnóstico completo."
 entidade:
   marca: "Jeep"
@@ -11,8 +11,7 @@ kicker: "DEFEITO CRÔNICO"
 intencao: "Diagnóstico"
 entidadesEssenciais: ["Jeep Wrangler", "superaquecimento", "motor 1.3T", "motor 2.0T", "radiador", "termostato", "EGR"]
 autor:
-  nome: "Equipe Técnica Hachiroku"
-  credencial: ""
+  nome: "Redação Hachiroku"
 pubDate: 2026-06-20
 updatedDate: 2026-06-20
 disclaimer: "As informações deste artigo têm caráter educativo e de diagnóstico preliminar. Sempre consulte um mecânico habilitado antes de realizar intervenções no sistema de arrefecimento. O Hachiroku não se responsabiliza por danos decorrentes de reparos realizados sem qualificação técnica."
@@ -54,7 +53,7 @@ relacionados:
   - titulo: "Jeep Wrangler: bateria de 12V descarregando — causas e diagnóstico"
     url: "/problemas/jeep/wrangler/bateria-12v-descarrega"
   - titulo: "Como fazer manutenção preventiva do sistema de arrefecimento"
-    url: "/guias/arrefecimento-manutencao-preventiva"
+    url: "/guia-de-compra/arrefecimento-manutencao-preventiva"
 pontosChave:
   - "Sintoma: temperatura do motor acima de 100 graus, luz de alerta no painel e perda de potência em subidas ou trilhas"
   - "Causa: radiador entupido por lama, termostato defeituoso, EGR obstruido ou correia auxiliar desgastada"

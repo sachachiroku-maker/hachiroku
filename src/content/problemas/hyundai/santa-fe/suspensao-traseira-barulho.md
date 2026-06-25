@@ -1,5 +1,5 @@
----
-title: "Barulho e Folga na Suspensão Traseira do Hyundai Santa Fe: Diagnóstico Completo"
+﻿---
+title: "Barulho e Folga na Suspensão Traseira do Hyundai Santa Fe"
 description: "Rangido, coaxo ou batida na suspensão traseira do Santa Fe TM? Guia técnico completo com causas, diagnóstico e custos de reparo para o multi-link."
 entidade:
   marca: "Hyundai"
@@ -14,8 +14,7 @@ entidadesEssenciais:
   - "suspensão multi-link traseira"
   - "buchas de borracha braço de controle"
 autor:
-  nome: "Equipe Técnica Hachiroku"
-  credencial: ""
+  nome: "Redação Hachiroku"
 pubDate: 2026-06-20
 updatedDate: 2026-06-20
 disclaimer: "As informações deste artigo têm caráter orientativo. Diagnósticos definitivos e reparos devem ser realizados por profissional habilitado. Custos estimados referem-se ao mercado brasileiro em 2026 e podem variar por região e fornecedor."

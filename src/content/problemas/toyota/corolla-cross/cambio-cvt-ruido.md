@@ -1,5 +1,5 @@
 ﻿---
-title: "CVT do Toyota Corolla Cross com ruído e elástico: causa, diagnóstico e solução"
+title: "CVT do Toyota Corolla Cross com ruído e elástico"
 description: "O câmbio CVT do Toyota Corolla Cross pode apresentar ruído de tração e sensação elástica em acelerações fortes. Saiba o que é normal, o que é defeito, qual fluido usar e quando acionar a garantia. Diagnóstico técnico verificado."
 entidade:
   marca: "Toyota"
@@ -17,8 +17,7 @@ entidadesEssenciais:
   - "módulo de controle de transmissão TCM"
   - "Toyota Safety Sense"
 autor:
-  nome: "Equipe Técnica Hachiroku"
-  credencial: ""
+  nome: "Redação Hachiroku"
 pubDate: 2026-06-20
 updatedDate: 2026-06-20
 disclaimer: "As informações deste artigo são de caráter técnico e educativo. O diagnóstico definitivo de falha no câmbio CVT exige avaliação presencial por técnico especializado. Não realize intervenções no câmbio sem diagnóstico confirmado por profissional habilitado."

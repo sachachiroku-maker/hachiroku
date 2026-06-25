@@ -1,5 +1,5 @@
----
-title: "Como Verificar e Substituir a Bateria do Carro: Guia Completo"
+﻿---
+title: "Como Verificar e Substituir a Bateria do Carro"
 description: "Aprenda a testar a bateria com multímetro, identificar os sinais de falha e trocar a bateria com segurança em até 30 minutos. Guia prático para todos os carros 12V."
 kicker: "HOW-TO · MÃO NA MASSA"
 veiculo: "Todos os carros com bateria de 12V convencional"

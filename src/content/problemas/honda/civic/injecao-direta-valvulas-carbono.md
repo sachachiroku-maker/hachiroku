@@ -1,5 +1,5 @@
----
-title: "Carbonização das Válvulas de Admissão no Honda Civic 1.5 Turbo"
+﻿---
+title: "Carbonização das Válvulas de Admissão no Honda Civic 1.5"
 description: "Civic 1.5 Turbo hesita a frio ou perdeu potência? O depósito de carbono nas válvulas de admissão é o culpado. Causas, diagnóstico e custo de limpeza no Brasil."
 entidade:
   marca: "Honda"
@@ -16,8 +16,7 @@ entidadesEssenciais:
   - "walnut blasting"
   - "blow-by"
 autor:
-  nome: "Equipe Técnica Hachiroku"
-  credencial: ""
+  nome: "Redação Hachiroku"
 pubDate: 2026-06-20
 updatedDate: 2026-06-20
 disclaimer: "As informações deste artigo têm caráter educativo. Diagnósticos e reparos devem ser realizados por profissionais qualificados. Preços mencionados são estimativas de mercado para o Brasil em 2025-2026 e podem variar por região e oficina."

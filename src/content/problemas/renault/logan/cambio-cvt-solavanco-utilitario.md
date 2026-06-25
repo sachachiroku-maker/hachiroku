@@ -1,5 +1,5 @@
----
-title: "CVT do Logan no uso comercial: desgaste, fluido e custo de revisão"
+﻿---
+title: "CVT do Logan no uso comercial: desgaste, fluido e custo de"
 description: "O câmbio CVT Jatco X-Tronic do Renault Logan sofre desgaste acelerado quando usado em táxi, aplicativo ou entrega urbana. Entenda a diferença de impacto entre uso particular e comercial, o fluido correto, os sintomas de desgaste e o custo da revisão do CVT."
 entidade:
   marca: "Renault"
@@ -20,8 +20,7 @@ entidadesEssenciais:
   - "uso comercial táxi"
   - "flush CVT"
 autor:
-  nome: "Equipe Técnica Hachiroku"
-  credencial: ""
+  nome: "Redação Hachiroku"
 pubDate: 2026-06-20
 updatedDate: 2026-06-20
 disclaimer: "Este conteúdo é informativo. O diagnóstico de desgaste no CVT deve ser realizado por profissional especializado em transmissões automáticas. Um CVT com desgaste avançado pode apresentar falha repentina de tração. Não posterge o diagnóstico se os sintomas descritos aparecerem."

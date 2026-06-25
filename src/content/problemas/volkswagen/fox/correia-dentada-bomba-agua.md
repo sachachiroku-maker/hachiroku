@@ -1,5 +1,5 @@
----
-title: "VW Fox 1.6 MI: bomba d'água com impelidor plástico destrói motor pela correia dentada"
+﻿---
+title: "VW Fox 1.6 MI: bomba d'água com impelidor plástico destrói"
 description: "Entenda por que o impelidor plástico da bomba d'água do Fox 1.6 EA111 falha sem aviso e como evitar junta queimada com a troca preventiva certa."
 entidade:
   marca: "Volkswagen"
@@ -11,8 +11,7 @@ kicker: "DEFEITO CRÔNICO"
 intencao: "Diagnóstico"
 entidadesEssenciais: ["correia dentada", "bomba de água", "impelidor plástico", "junta do cabeçote", "motor EA111"]
 autor:
-  nome: "Equipe Técnica Hachiroku"
-  credencial: ""
+  nome: "Redação Hachiroku"
 pubDate: 2026-06-20
 updatedDate: 2026-06-20
 disclaimer: "As informações deste artigo têm caráter educativo e diagnóstico. Sempre consulte um mecânico habilitado antes de realizar qualquer intervenção no veículo."

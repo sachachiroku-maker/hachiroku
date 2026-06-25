@@ -1,4 +1,4 @@
----
+﻿---
 title: "Ficha técnica Eclipse Cross 1.5 Turbo CVT 2024"
 description: "Ficha técnica completa do Mitsubishi Eclipse Cross 1.5 MIVEC Turbo CVT 2024: motor, consumo, dimensões e desempenho."
 collection: fichas
@@ -6,8 +6,7 @@ draft: false
 pubDate: 2026-06-21
 updatedDate: 2026-06-21
 autor:
-  nome: "Equipe Hachiroku"
-  credencial: "Redação técnica automotiva"
+  nome: "Redação Hachiroku"
 marca: "Mitsubishi"
 modelo: "Eclipse Cross"
 versao: "1.5 MIVEC Turbo CVT"

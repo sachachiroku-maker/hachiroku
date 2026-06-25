@@ -1,5 +1,5 @@
----
-title: "Fiat Argo consumindo óleo: qual motor mais bebe, Firefly ou E.torQ"
+﻿---
+title: "Fiat Argo consumindo óleo: qual motor mais bebe, Firefly ou"
 description: "Fiat Argo com consumo de óleo? O motor 1.8 E.torQ (versão HGT) carrega a fama de baixar o nível entre as trocas, mas o Firefly também consome óleo por projeto. Veja o que é normal, o que é defeito, qual motor é mais afetado, como medir na vareta, as causas reais e o custo de cada reparo."
 entidade:
   marca: "Fiat"
@@ -16,8 +16,7 @@ entidadesEssenciais:
   - "anéis"
   - "vareta"
 autor:
-  nome: "Equipe Técnica Hachiroku"
-  credencial: ""
+  nome: "Redação Hachiroku"
 pubDate: 2026-06-18
 updatedDate: 2026-06-18
 disclaimer: "Consumo de óleo só vira diagnóstico com medição correta (nível na vareta, intervalo e km rodados) e leitura no scanner. Este conteúdo orienta o que investigar; a confirmação depende de um profissional com o carro em mãos e do manual do seu ano. Faixas de consumo e especificação de óleo variam por motor e ano, então o manual do seu Argo é a palavra final."

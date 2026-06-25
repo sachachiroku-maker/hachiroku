@@ -1,4 +1,4 @@
----
+﻿---
 title: "CVT do Honda WR-V patinando sob carga | Hachiroku"
 description: "O câmbio CVT do Honda WR-V patina em subidas e ultrapassagens porque a correia metálica perde aderência nas polias quando o fluido HCF-2 está degradado. Veja os sintomas exatos, a causa técnica e como resolver antes do dano mecânico."
 entidade:
@@ -21,8 +21,7 @@ entidadesEssenciais:
   - "transmissão Honda WR-V"
   - "deslizamento sob carga"
 autor:
-  nome: "Equipe Hachiroku"
-  credencial: "Redação técnica automotiva"
+  nome: "Redação Hachiroku"
 pubDate: 2026-06-20
 updatedDate: 2026-06-20
 disclaimer: "O diagnóstico de patinação em câmbio CVT exige avaliação com scanner compatível com a Honda e profissional com experiência em transmissões CVT. Sintomas semelhantes podem ter causas distintas. Este conteúdo é informativo. Confie a inspeção e o reparo a um profissional qualificado e use sempre o fluido HCF-2 original Honda."

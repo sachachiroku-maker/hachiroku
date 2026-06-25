@@ -1,5 +1,5 @@
----
-title: "Câmbio de 9 marchas do Jeep Commander com solavanco: trocador de calor e ATF+4"
+﻿---
+title: "Câmbio de 9 marchas do Jeep Commander com solavanco"
 description: "O câmbio ZF de 9 marchas do Jeep Commander com solavanco, trancos e falha total pode ser causado pelo trocador de calor interno que contamina o fluido com glicol. Veja como identificar, o risco real e o que fazer antes que o câmbio seja destruído."
 entidade:
   marca: "Jeep"
@@ -21,8 +21,7 @@ entidadesEssenciais:
   - "embreagem do câmbio"
   - "9 marchas Commander"
 autor:
-  nome: "Equipe Técnica Hachiroku"
-  credencial: ""
+  nome: "Redação Hachiroku"
 pubDate: 2026-06-20
 updatedDate: 2026-06-20
 disclaimer: "Câmbio ZF contaminado por glicol requer reparo especializado. A substituição ou reconstrução do câmbio é um procedimento de alto custo. Este conteúdo é informativo. Consulte uma oficina especializada em transmissões ZF."

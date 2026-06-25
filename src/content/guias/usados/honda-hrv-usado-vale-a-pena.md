@@ -1,4 +1,4 @@
----
+﻿---
 title: "Honda HR-V usado vale a pena? Guia de inspeção"
 description: "Honda HR-V 2ª geração 1.5 turbo vale a pena no mercado de usados, mas exige atenção ao histórico de troca de óleo e à correia banhada a óleo. Veja o checklist completo de inspeção."
 marca: "Honda"
@@ -6,8 +6,7 @@ modelo: "HR-V"
 kicker: "GUIA DE COMPRA · DECISÃO"
 veredito: "Vale, mas cheque histórico de troca de óleo do motor turbo e a correia banhada a óleo."
 autor:
-  nome: "Equipe Hachiroku"
-  credencial: "Redação técnica automotiva"
+  nome: "Redação Hachiroku"
 pubDate: 2026-06-21
 updatedDate: 2026-06-21
 disclaimer: "Este guia orienta a inspeção, mas não substitui uma vistoria cautelar e uma avaliação mecânica presencial antes da compra."

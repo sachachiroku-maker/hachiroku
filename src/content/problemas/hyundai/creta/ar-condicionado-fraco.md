@@ -1,5 +1,5 @@
----
-title: "Hyundai Creta 2ª Geração: Ar-Condicionado Fraco ou Quente — Diagnóstico Completo"
+﻿---
+title: "Hyundai Creta 2ª Geração: Ar-Condicionado Fraco ou Quente —"
 description: "Ar-condicionado fraco no Hyundai Creta 2ª geração (1.0 T-GDI e 2.0): causas, diagnóstico passo a passo e soluções confirmadas. (153 chars)"
 entidade:
   marca: "Hyundai"
@@ -14,8 +14,7 @@ entidadesEssenciais:
   - "compressor de ar-condicionado"
   - "filtro de cabine de carvão ativado"
 autor:
-  nome: "Equipe Técnica Hachiroku"
-  credencial: ""
+  nome: "Redação Hachiroku"
 pubDate: 2026-06-20
 updatedDate: 2026-06-20
 disclaimer: "Este artigo tem finalidade informativa e educativa. O diagnóstico definitivo e a execução dos reparos devem ser realizados por profissional habilitado. O Hachiroku não se responsabiliza por danos decorrentes de intervenções realizadas sem a devida qualificação técnica."

@@ -1,4 +1,4 @@
----
+﻿---
 title: "Como Trocar os Amortecedores: Guia Completo para Iniciantes"
 description: "Aprenda como trocar amortecedores com segurança: sinais de desgaste, ferramentas necessárias, marcas recomendadas e passo a passo ilustrado."
 kicker: "MÃO NA MASSA"
@@ -36,8 +36,7 @@ passos:
   - nome: "Monte a roda, baixe o carro e realize o teste"
     texto: "Recoloque a roda e aperte os parafusos em cruz no torque correto (geralmente 90 a 110 Nm). Baixe o veículo, retire os cavaletes e dê uma volta curta em baixa velocidade. Preste atenção a ruídos, vibrações ou sensação de instabilidade. Após a troca, leve o carro para alinhar e balancear o eixo trabalhado."
 autor:
-  nome: "Equipe Técnica Hachiroku"
-  credencial: ""
+  nome: "Redação Hachiroku"
 pubDate: 2026-06-20
 updatedDate: 2026-06-20
 disclaimer: "Este guia tem finalidade educativa. A troca de amortecedores envolve riscos se executada sem as ferramentas corretas, especialmente o compressor de mola. Se você não tem experiência com suspensão, leve o veículo a uma oficina de confiança. O Hachiroku não se responsabiliza por danos causados por execução inadequada do procedimento."

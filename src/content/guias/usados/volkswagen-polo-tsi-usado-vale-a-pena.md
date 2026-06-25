@@ -1,4 +1,4 @@
----
+﻿---
 title: "Polo TSI usado vale a pena? Guia de inspeção"
 description: "Polo TSI 1.0 EA211 com câmbio Aisin (2018-2023) vale a pena, mas exige inspeção da bomba d'água plástica, histórico de fluido do câmbio e consumo de óleo do bloco. Veja o checklist completo antes de comprar."
 marca: "Volkswagen"
@@ -10,8 +10,7 @@ pontosChave:
   - "Causa: bomba d'água de corpo plástico do EA211 apresenta ruptura do impelidor interno sem aviso externo de vazamento."
   - "Ação: exija comprovante de troca da bomba d'água ou negocie a substituição preventiva antes de fechar negócio."
 autor:
-  nome: "Equipe Hachiroku"
-  credencial: "Redação técnica automotiva"
+  nome: "Redação Hachiroku"
 pubDate: 2026-06-21
 updatedDate: 2026-06-21
 disclaimer: "Este guia orienta a inspeção, mas não substitui uma vistoria cautelar e uma avaliação mecânica presencial antes da compra."
@@ -82,7 +81,7 @@ fontes:
     url: "https://www.aisin.com/en/product/automotive/driveline_chassis/at/"
 relacionados:
   - titulo: "VW Polo usado vale a pena? Guia completo por motor"
-    url: "/guias/usados/polo-usado-vale-a-pena/"
+    url: "/guia-de-compra/usados/polo-usado-vale-a-pena/"
   - titulo: "Motor 1.0 TSI: o que é, defeitos comuns e como inspecionar"
     url: "/mecanica/motores/1-0-tsi-ea211-problemas/"
 draft: false

@@ -1,5 +1,5 @@
----
-title: "Ar-condicionado fraco no Ford EcoSport: causas, diagnóstico e quanto custa resolver"
+﻿---
+title: "Ar-condicionado fraco no Ford EcoSport"
 description: "EcoSport não gela bem? Veja as 6 causas mais comuns do AC fraco, como diagnosticar cada uma e os preços praticados no Brasil em 2025-2026."
 entidade:
   marca: "Ford"
@@ -18,8 +18,7 @@ entidadesEssenciais:
   - "Relé do compressor"
   - "Condensador"
 autor:
-  nome: "Equipe Técnica Hachiroku"
-  credencial: ""
+  nome: "Redação Hachiroku"
 pubDate: 2026-06-20
 updatedDate: 2026-06-20
 disclaimer: "As informações deste artigo são de caráter orientativo. Preços citados são médias coletadas no mercado brasileiro em 2025-2026 e podem variar por região. Consulte sempre um profissional habilitado para diagnóstico definitivo."

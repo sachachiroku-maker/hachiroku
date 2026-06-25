@@ -1,5 +1,5 @@
----
-title: "CVT Xtronic do Nissan Versa com solavanco: fluido NS-3, flush e custo de reparo"
+﻿---
+title: "CVT Xtronic do Nissan Versa com solavanco"
 description: "O câmbio CVT Xtronic do Nissan Versa apresenta solavanco, patinação e ruído com o fluido NS-3 degradado. Entenda por que acontece, qual o intervalo correto e quanto custa o flush antes de uma falha grave."
 entidade:
   marca: "Nissan"
@@ -19,8 +19,7 @@ entidadesEssenciais:
   - "patinação de câmbio"
   - "flush de CVT"
 autor:
-  nome: "Equipe Técnica Hachiroku"
-  credencial: ""
+  nome: "Redação Hachiroku"
 pubDate: 2026-06-20
 updatedDate: 2026-06-20
 disclaimer: "Este conteúdo é informativo e diagnóstico. O fluido CVT NS-3 é específico Nissan e NÃO pode ser substituído por fluido CVT genérico. O uso de fluido errado é causa direta de falha catastrófica do câmbio. Procure serviço especializado ou concessionária Nissan para o flush."

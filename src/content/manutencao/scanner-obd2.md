@@ -1,5 +1,5 @@
----
-title: "Scanner OBD2: como usar para diagnosticar seu carro e entender os códigos de erro"
+﻿---
+title: "Scanner OBD2: como usar para diagnosticar seu carro e"
 description: "Aprenda a conectar um scanner OBD2, ler os códigos de falha do seu carro e entender o que cada um significa. Guia prático, honesto e sem mito, válido para qualquer carro com OBD2."
 kicker: "HOW-TO · DIAGNÓSTICO"
 veiculo: "Qualquer carro com OBD2"
@@ -24,8 +24,7 @@ passos:
   - nome: "Interprete antes de apagar"
     texto: "Pesquise o que cada código significa e investigue a causa antes de qualquer coisa. Só apague o código depois de entender ou consertar o problema. Apagar primeiro só faz você perder a informação que ajudaria no diagnóstico."
 autor:
-  nome: "Equipe Técnica Hachiroku"
-  credencial: ""
+  nome: "Redação Hachiroku"
 pubDate: 2026-06-18
 updatedDate: 2026-06-18
 disclaimer: "O scanner aponta o circuito afetado, mas o diagnóstico final exige interpretação. Apagar o código sem corrigir a causa não resolve o problema."

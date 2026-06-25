@@ -1,5 +1,5 @@
----
-title: "Vazamento de óleo no Fiat Cronos: a válvula anti-chama e o respiro que sujam o motor"
+﻿---
+title: "Vazamento de óleo no Fiat Cronos"
 description: "O vazamento de óleo é a queixa mais comum dos donos de Fiat Cronos com motor Firefly, e quase sempre nasce no sistema de respiro: válvula anti-chama (anti-flama) e labirinto entupidos por borra fazem o óleo escapar pelas juntas e o nível cair na vareta. Veja os sintomas, a causa real, como prevenir com o óleo certo e por que ignorar o respiro pode levar ao consumo anormal de óleo."
 entidade:
   marca: "Fiat"
@@ -18,8 +18,7 @@ entidadesEssenciais:
   - "óleo na especificação Fiat"
   - "labirinto do respiro"
 autor:
-  nome: "Equipe Técnica Hachiroku"
-  credencial: ""
+  nome: "Redação Hachiroku"
 pubDate: 2026-06-19
 updatedDate: 2026-06-19
 disclaimer: "A limpeza do sistema de respiro e a troca da válvula anti-chama exigem acesso a partes do motor e podem variar conforme a versão do Firefly do seu Cronos. Este conteúdo é informativo: confie o diagnóstico e a execução a um profissional qualificado e use sempre o óleo na especificação exata do manual do seu ano."

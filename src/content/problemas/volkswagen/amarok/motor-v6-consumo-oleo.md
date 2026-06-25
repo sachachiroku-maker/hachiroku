@@ -1,5 +1,5 @@
----
-title: "Motor V6 TDI da Amarok com consumo de óleo: EA898 e o que monitorar"
+﻿---
+title: "Motor V6 TDI da Amarok com consumo de óleo"
 description: "O motor V6 3.0 TDI da família EA898 da Volkswagen Amarok com consumo de óleo acima do normal é um problema documentado em vários exemplares acima de 50.000 km. Veja as causas, como monitorar e o que a VW considera aceitável."
 entidade:
   marca: "Volkswagen"
@@ -22,8 +22,7 @@ entidadesEssenciais:
   - "nível de óleo"
   - "5W30 VW"
 autor:
-  nome: "Equipe Técnica Hachiroku"
-  credencial: ""
+  nome: "Redação Hachiroku"
 pubDate: 2026-06-20
 updatedDate: 2026-06-20
 disclaimer: "Consumo de óleo em motor diesel turbo pode indicar desgaste interno grave. Consulte uma oficina autorizada Volkswagen para diagnóstico. Este conteúdo é informativo."

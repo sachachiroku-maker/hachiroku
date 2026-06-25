@@ -1,4 +1,4 @@
----
+﻿---
 title: "Polo vs HB20: qual hatch turbo vale mais?"
 description: "VW Polo 1.0 TSI Highline x Hyundai HB20 Platinum 1.0 Turbo: motor, câmbio, garantia, consumo, custo de revisão e revenda. Comparativo completo para decidir sem arrependimento."
 marca: "Comparativo"
@@ -6,8 +6,7 @@ modelo: "Polo vs HB20"
 kicker: "COMPARATIVO · DECISÃO"
 veredito: "Polo para quem valoriza marca europeia, câmbio Aisin suave e valor de revenda mais alto. HB20 para quem quer mais equipamentos de série, 5 anos de garantia e custo por km menor."
 autor:
-  nome: "Equipe Hachiroku"
-  credencial: "Redação técnica automotiva"
+  nome: "Redação Hachiroku"
 pubDate: 2026-06-21
 updatedDate: 2026-06-21
 disclaimer: "Este comparativo orienta a decisão de compra, mas não substitui um test drive nas duas opções nem, no caso de usados, uma vistoria cautelar e avaliação mecânica presencial. Dados de consumo, potência e preço seguem informações oficiais e de imprensa especializada de 2025-2026 e podem variar conforme versão, ano-modelo e condição de uso."

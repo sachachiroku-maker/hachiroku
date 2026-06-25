@@ -1,5 +1,5 @@
----
-title: "Barulho na Suspensão Dianteira do Toyota Yaris: Causas e Como Diagnosticar"
+﻿---
+title: "Barulho na Suspensão Dianteira do Toyota Yaris"
 description: "Batidas e estalos na suspensão dianteira do Yaris 2018+ têm causas conhecidas. Veja como diagnosticar bieleta e coxim e quanto custa o reparo."
 entidade:
   marca: "Toyota"
@@ -11,8 +11,7 @@ kicker: "DEFEITO CRÔNICO"
 intencao: "Diagnóstico"
 entidadesEssenciais: ["suspensão McPherson", "bieleta da barra estabilizadora", "coxim do amortecedor"]
 autor:
-  nome: "Equipe Técnica Hachiroku"
-  credencial: ""
+  nome: "Redação Hachiroku"
 pubDate: 2026-06-20
 updatedDate: 2026-06-20
 disclaimer: "As informações deste artigo têm caráter educativo e de orientação. Sempre consulte um mecânico habilitado para diagnóstico e reparo do seu veículo."

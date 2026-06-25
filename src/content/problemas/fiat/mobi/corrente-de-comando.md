@@ -1,5 +1,5 @@
----
-title: "Corrente de comando do Fiat Mobi: o barulho a frio que pode dobrar válvula"
+﻿---
+title: "Corrente de comando do Fiat Mobi"
 description: "A corrente de comando do Fiat Mobi com motor Firefly 1.0 é banhada a óleo e projetada para durar a vida do motor, mas o óleo errado ou a revisão atrasada desgastam a corrente e o tensionador antes da hora. Veja os sintomas, o barulho a frio, o risco de pular dente, o custo de reparo e como prevenir."
 entidade:
   marca: "Fiat"
@@ -18,8 +18,7 @@ entidadesEssenciais:
   - "pular dente da corrente"
   - "óleo na especificação"
 autor:
-  nome: "Equipe Técnica Hachiroku"
-  credencial: ""
+  nome: "Redação Hachiroku"
 pubDate: 2026-06-19
 updatedDate: 2026-06-19
 disclaimer: "A troca da corrente de comando do Firefly exige abrir parte do motor e respeitar o ponto de sincronismo. Não é serviço de garagem para iniciantes. Este conteúdo é informativo: confie a execução a um profissional qualificado e use sempre o óleo na especificação exata do manual do seu ano."

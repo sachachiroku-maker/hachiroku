@@ -1,5 +1,5 @@
----
-title: "Corrente de timing 4N15 L200 Triton Sport: barulho a frio | Hachiroku"
+﻿---
+title: "Corrente de timing 4N15 L200 Triton Sport"
 description: "O motor 2.4 MIVEC 4N15 da Mitsubishi L200 Triton Sport apresenta desgaste precoce da corrente de timing, com barulho metálico na partida a frio. Saiba por que acontece, quais os sintomas, o risco de dano de válvulas e como prevenir antes da conta de motor aberto."
 entidade:
   marca: "Mitsubishi"
@@ -18,8 +18,7 @@ entidadesEssenciais:
   - "sistema MIVEC"
   - "troca de óleo diesel"
 autor:
-  nome: "Equipe Hachiroku"
-  credencial: "Redação técnica automotiva"
+  nome: "Redação Hachiroku"
 pubDate: 2026-06-20
 updatedDate: 2026-06-20
 disclaimer: "Este conteúdo é informativo e diagnóstico. A troca da corrente de timing do 4N15 exige ferramentas de travamento do motor e respeito rigoroso ao ponto de sincronismo. Não é serviço de garagem para iniciantes. Confie a execução a um profissional qualificado e use sempre o óleo na especificação exata do manual."

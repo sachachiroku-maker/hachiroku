@@ -1,5 +1,5 @@
----
-title: "Evaporador do ar-condicionado do Nissan Versa com cheiro e vazamento: diagnóstico e custo"
+﻿---
+title: "Evaporador do ar-condicionado do Nissan Versa com cheiro e"
 description: "O evaporador do ar-condicionado do Nissan Versa acumula fungos e pode apresentar vazamento de fluido refrigerante após 3 a 5 anos. Entenda como identificar o problema, as opções de limpeza e o custo de troca do evaporador."
 entidade:
   marca: "Nissan"
@@ -19,8 +19,7 @@ entidadesEssenciais:
   - "dreno de condensado"
   - "filtro de cabine"
 autor:
-  nome: "Equipe Técnica Hachiroku"
-  credencial: ""
+  nome: "Redação Hachiroku"
 pubDate: 2026-06-20
 updatedDate: 2026-06-20
 disclaimer: "Este conteúdo é informativo. Manipulação de fluido refrigerante (R-134a ou R-1234yf) é regulamentada no Brasil e deve ser feita por profissional certificado com equipamento de recuperação e reciclagem. Liberar fluido refrigerante na atmosfera é crime ambiental."

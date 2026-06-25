@@ -1,5 +1,5 @@
----
-title: "Multimídia SYNC 4 Territory travando e reiniciando | Hachiroku"
+﻿---
+title: "Multimídia SYNC 4 Territory travando e reiniciando |"
 description: "Central multimídia SYNC 4 do Ford Territory 1.5 EcoBoost travando, reiniciando sozinha e perdendo conexão Bluetooth e CarPlay. Causas, passos de diagnóstico e solução."
 entidade:
   marca: "Ford"
@@ -11,8 +11,7 @@ kicker: "PROBLEMA COMUM · MULTIMÍDIA"
 intencao: "Diagnóstico"
 entidadesEssenciais: ["Ford Territory", "SYNC 4", "Bluetooth", "CarPlay", "central multimídia"]
 autor:
-  nome: "Equipe Hachiroku"
-  credencial: "Redação técnica automotiva"
+  nome: "Redação Hachiroku"
 pubDate: 2026-06-21
 updatedDate: 2026-06-21
 disclaimer: "As informações deste artigo têm caráter educativo. Sempre consulte um profissional habilitado antes de realizar qualquer intervenção no veículo."

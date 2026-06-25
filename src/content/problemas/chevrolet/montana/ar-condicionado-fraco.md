@@ -1,5 +1,5 @@
----
-title: "Ar-condicionado fraco na Chevrolet Montana 2023: causas e como resolver"
+﻿---
+title: "Ar-condicionado fraco na Chevrolet Montana 2023"
 description: "Montana nova não gela? Veja as 5 causas documentadas do AC fraco na picape 1.2 turbo e o que fazer antes de ir à concessionária. (152 chars)"
 entidade:
   marca: "Chevrolet"
@@ -17,8 +17,7 @@ entidadesEssenciais:
   - "gás R134a"
   - "relé do compressor"
 autor:
-  nome: "Equipe Técnica Hachiroku"
-  credencial: ""
+  nome: "Redação Hachiroku"
 pubDate: 2026-06-20
 updatedDate: 2026-06-20
 disclaimer: "As informações deste artigo são de caráter educativo. Serviços elétricos e de refrigeração automotiva devem ser realizados por profissionais habilitados. Preços citados são referências de mercado para 2025-2026 e podem variar por região."

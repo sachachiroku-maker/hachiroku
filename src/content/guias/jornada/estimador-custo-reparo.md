@@ -1,10 +1,9 @@
----
-title: "Estimador de Custo de Reparo: Quanto Vai Custar Consertar Seu Carro?"
+﻿---
+title: "Estimador de Custo de Reparo: Quanto Vai Custar Consertar"
 description: "Guia completo com tabela de preços médios por tipo de reparo automotivo no Brasil 2025/2026, fatores que influenciam o valor e como não ser enganado no orçamento."
 pubDate: 2026-06-20
 autor:
-  nome: "Equipe Hachiroku"
-  credencial: "Redação técnica automotiva — O Seu Mecânico Digital"
+  nome: "Redação Hachiroku"
 veredito: "Conhecer a faixa de preço do reparo antes de chegar à oficina é a sua principal defesa contra cobranças abusivas. Use este guia como referência, peça ao menos três orçamentos e nunca autorize serviço sem diagnóstico escrito."
 checklist:
   - item: "Pesquise o preço da peça antes de ir à oficina"

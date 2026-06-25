@@ -1,5 +1,5 @@
----
-title: "HB20S: Barulho e Estalo na Suspensão Dianteira (Bieletas e Buchas)"
+﻿---
+title: "HB20S: Barulho e Estalo na Suspensão Dianteira (Bieletas e"
 description: "HB20S fazendo barulho na suspensão dianteira? Diagnóstico completo de bieletas, buchas e coxins com preços e passo a passo para resolver."
 entidade:
   marca: "Hyundai"
@@ -11,8 +11,7 @@ kicker: "DEFEITO CRÔNICO"
 intencao: "Diagnóstico"
 entidadesEssenciais: ["bieleta de estabilizador", "bucha da bandeja", "coxim do amortecedor"]
 autor:
-  nome: "Equipe Técnica Hachiroku"
-  credencial: ""
+  nome: "Redação Hachiroku"
 pubDate: 2026-06-20
 updatedDate: 2026-06-20
 disclaimer: "As informações deste artigo são de caráter educativo. Sempre consulte um mecânico qualificado antes de realizar qualquer intervenção no veículo. Preços são estimativas de mercado e podem variar por região."

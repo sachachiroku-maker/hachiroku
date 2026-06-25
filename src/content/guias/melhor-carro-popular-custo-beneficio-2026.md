@@ -1,5 +1,5 @@
----
-title: "Melhor carro popular com custo-benefício em 2026: qual escolher pelo seu perfil"
+﻿---
+title: "Melhor carro popular com custo-benefício em 2026"
 description: "Onix, HB20, Argo, Polo e Gol lado a lado pelos critérios que realmente importam: custo de revisão, confiabilidade, peça disponível e seguro. Qual vale mais para o seu uso."
 kicker: "GUIA DE COMPRA · DECISÃO"
 veredito: "Não existe um único melhor carro popular para todo mundo. O Onix aspirado lidera em custo de manutenção e disponibilidade de peça. O HB20 tem a melhor reputação de confiabilidade entre os compactos. O Argo tem a melhor relação entre espaço e custo. O Polo entrega mais tecnologia, mas com custo de revisão mais alto. Para motorista de app, Onix e HB20 lideram na conta do custo por quilômetro."
@@ -17,8 +17,7 @@ checklist:
     detalhe: "O programa de avaliação de segurança do INMETRO testa colisão frontal, lateral e proteção de pedestres. Modelos com 5 estrelas têm estrutura mais segura."
     critico: false
 autor:
-  nome: "Equipe Técnica Hachiroku"
-  credencial: ""
+  nome: "Redação Hachiroku"
 pubDate: 2026-06-20
 updatedDate: 2026-06-20
 disclaimer: "Os valores e posições de modelos podem variar conforme a data de leitura, reajustes de tabela e mudanças de linha. Consulte sempre a tabela FIPE e o site do fabricante para informações atualizadas de preço e especificação antes de comprar."
@@ -40,11 +39,11 @@ afiliados:
     programa: "amazon"
 relacionados:
   - titulo: "Onix usado vale a pena? O que verificar antes de comprar"
-    url: "/guias/usados/onix-usado-vale-a-pena/"
+    url: "/guia-de-compra/usados/onix-usado-vale-a-pena/"
   - titulo: "Consertar ou trocar: quando vale a pena manter o carro"
-    url: "/guias/consertar-ou-trocar-vale-a-pena/"
+    url: "/guia-de-compra/consertar-ou-trocar-vale-a-pena/"
   - titulo: "Checklist para vistoria de carro usado"
-    url: "/guias/checklist-vistoria-carro-usado/"
+    url: "/guia-de-compra/checklist-vistoria-carro-usado/"
 draft: false
 ---
 

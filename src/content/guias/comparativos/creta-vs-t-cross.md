@@ -1,13 +1,12 @@
----
-title: "Hyundai Creta vs VW T-Cross: qual SUV compacto vale mais o seu dinheiro em 2025?"
+﻿---
+title: "Hyundai Creta vs VW T-Cross: qual SUV compacto vale mais o"
 description: "Comparamos Hyundai Creta e VW T-Cross em motor, consumo, espaço, conforto, manutenção e custo. Veja qual SUV faz mais sentido para o seu perfil."
 marca: "Comparativo"
 modelo: "Creta vs T-Cross"
 kicker: "GUIA DE COMPRA · DECISÃO"
 veredito: "Creta é a escolha certa para quem quer mais espaço, garantia de 5 anos e um motor 2.0 simples de manter. T-Cross ganha para quem prioriza dirigibilidade, design e a agilidade do 1.4 TSI de 150 cv."
 autor:
-  nome: "Equipe Técnica Hachiroku"
-  credencial: ""
+  nome: "Redação Hachiroku"
 pubDate: 2026-06-20
 updatedDate: 2026-06-20
 disclaimer: "Este comparativo orienta a decisão de compra mas não substitui um test drive em ambos. Preços e especificações referentes a 2025-2026."
@@ -57,9 +56,9 @@ faq:
     resposta: "Os dois sustentam bem o valor. O T-Cross tem leve vantagem histórica pela força da marca VW no mercado de usados. O Creta 2.0 também revende bem, mas os 1.0T costumam ter descontos maiores por conta das ressalvas de consumo de óleo."
 relacionados:
   - titulo: "Tracker vs Creta: qual SUV da GM briga de igual com a Hyundai?"
-    url: "/guias/comparativos/tracker-vs-creta"
+    url: "/guia-de-compra/comparativos/tracker-vs-creta"
   - titulo: "Jeep Renegade vs VW T-Cross: SUV americano ou alemão?"
-    url: "/guias/comparativos/renegade-vs-compass"
+    url: "/guia-de-compra/comparativos/renegade-vs-compass"
 draft: false
 ---
 

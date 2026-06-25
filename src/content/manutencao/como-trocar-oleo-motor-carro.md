@@ -1,4 +1,4 @@
----
+﻿---
 title: "Como trocar o óleo do carro: passo a passo"
 description: "Trocar o óleo do carro em casa é uma das manutenções mais acessíveis para quem quer economizar e conhecer melhor o próprio veículo. O óleo do motor se..."
 pubDate: 2026-06-21
@@ -19,8 +19,7 @@ pontosChave:
   - "Causa: degradação do óleo pelo calor, combustão e tempo de uso."
   - "Ação: trocar óleo e filtro dentro do intervalo indicado pelo fabricante."
 autor:
-  nome: "Equipe Hachiroku"
-  credencial: "Redação técnica automotiva"
+  nome: "Redação Hachiroku"
 afiliados:
   - produto: "Kit troca óleo universal"
     busca: "kit troca oleo motor carro"

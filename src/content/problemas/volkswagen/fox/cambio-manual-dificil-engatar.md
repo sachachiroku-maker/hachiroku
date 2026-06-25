@@ -1,5 +1,5 @@
----
-title: "Volkswagen Fox com Dificuldade de Engatar Marcha: Diagnóstico Completo do Câmbio Manual"
+﻿---
+title: "Volkswagen Fox com Dificuldade de Engatar Marcha"
 description: "Fox com câmbio duro ou marcha travada? Conheça as causas reais no Getrag 085, do cabo oxidado ao sincronizador desgastado, e como resolver."
 entidade:
   marca: "Volkswagen"
@@ -11,8 +11,7 @@ kicker: "DEFEITO CRÔNICO"
 intencao: "Diagnóstico"
 entidadesEssenciais: ["Câmbio Getrag 085", "Sincronizador", "Cabo de câmbio"]
 autor:
-  nome: "Equipe Técnica Hachiroku"
-  credencial: ""
+  nome: "Redação Hachiroku"
 pubDate: 2026-06-20
 updatedDate: 2026-06-20
 disclaimer: "As informações deste artigo têm caráter educativo. Intervenções no câmbio exigem ferramental específico e devem ser realizadas por profissional habilitado. Custos estimados refletem o mercado nacional em junho de 2026 e podem variar por região."

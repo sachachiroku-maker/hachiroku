@@ -1,5 +1,5 @@
----
-title: "BYD Song Plus: DiLink 4 Trava e Reinicia? Diagnóstico Completo"
+﻿---
+title: "BYD Song Plus: DiLink 4 Trava e Reinicia? Diagnóstico"
 description: "Tela do DiLink 4.0 do BYD Song Plus reinicia sozinha, perde configurações ou trava na rotação. Veja causas, soluções e quando ir à autorizada."
 entidade:
   marca: "BYD"
@@ -11,8 +11,7 @@ kicker: "DEFEITO CRÔNICO"
 intencao: "Diagnóstico"
 entidadesEssenciais: ["BYD DiLink 4.0", "tela rotativa 12,8\"", "Android automotivo"]
 autor:
-  nome: "Equipe Técnica Hachiroku"
-  credencial: ""
+  nome: "Redação Hachiroku"
 pubDate: 2026-06-20
 updatedDate: 2026-06-20
 disclaimer: "As informações deste artigo têm caráter educativo e orientativo. Intervenções no sistema elétrico e na tela do veículo devem ser realizadas por profissionais habilitados ou pela rede autorizada BYD. O Hachiroku não se responsabiliza por danos decorrentes de procedimentos executados sem supervisão técnica."

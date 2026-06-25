@@ -1,5 +1,5 @@
 ﻿---
-title: "Sensor TPM do VW Tiguan Allspace com alertas falsos: diagnóstico e solução"
+title: "Sensor TPM do VW Tiguan Allspace com alertas falsos"
 description: "O sistema TPMS do Volkswagen Tiguan Allspace pode emitir alertas de pressão de pneu mesmo com calibração correta. Saiba como fazer o reaprendizado correto, identificar sensor com defeito e o custo de substituição. Diagnóstico técnico verificado."
 entidade:
   marca: "Volkswagen"
@@ -17,8 +17,7 @@ entidadesEssenciais:
   - "sensor piezoelétrico de roda"
   - "alerta de painel"
 autor:
-  nome: "Equipe Técnica Hachiroku"
-  credencial: ""
+  nome: "Redação Hachiroku"
 pubDate: 2026-06-20
 updatedDate: 2026-06-20
 disclaimer: "As informações deste artigo são de caráter técnico e educativo. Nunca ignore um alerta de pressão de pneu sem confirmar fisicamente a pressão em todos os pneus. O alerta pode ser falso ou pode indicar deflação real. Confirme sempre com manômetro antes de concluir que é um falso positivo."

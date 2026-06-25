@@ -1,5 +1,5 @@
----
-title: "Bomba de Água com Impelidor Plástico no VW Virtus 1.6 MSI e 1.0 MPI: Causa, Sintomas e Solução"
+﻿---
+title: "Bomba de Água com Impelidor Plástico no VW Virtus"
 description: "Impelidor plástico da bomba de água do Virtus racha ou solta do eixo e provoca superaquecimento súbito. Veja diagnóstico, custos e a solução definitiva com impelidor metálico."
 entidade:
   marca: "Volkswagen"
@@ -16,8 +16,7 @@ entidadesEssenciais:
   - "correia dentada 1.6 MSI"
   - "superaquecimento motor"
 autor:
-  nome: "Equipe Técnica Hachiroku"
-  credencial: ""
+  nome: "Redação Hachiroku"
 pubDate: 2026-06-20
 updatedDate: 2026-06-20
 disclaimer: "As informações deste artigo têm caráter educativo. Serviços em sistema de arrefecimento envolvem risco de queimadura e dano ao motor se executados incorretamente. Consulte um mecânico qualificado."

@@ -1,5 +1,5 @@
----
-title: "Luzes do painel do carro: o que cada uma significa e o que fazer"
+﻿---
+title: "Luzes do painel do carro: o que cada uma significa e o que"
 description: "Quando uma luz acende no painel, ela tem uma cor e uma razão. Entenda o código de cores (vermelho, laranja, amarelo, verde e azul), o que cada símbolo indica e se você pode continuar dirigindo."
 kicker: "HOW-TO · PAINEL E ALERTAS"
 veiculo: "Todos os modelos"
@@ -20,8 +20,7 @@ passos:
   - nome: "Consulte o manual ou use um scanner"
     texto: "Se a luz apagou sozinha mas você ficou na dúvida, um scanner OBD2 lê os códigos de erro armazenados na central eletrônica. Muitas oficinas fazem essa leitura gratuitamente. O manual do proprietário tem a lista completa dos símbolos do seu modelo específico."
 autor:
-  nome: "Equipe Técnica Hachiroku"
-  credencial: ""
+  nome: "Redação Hachiroku"
 pubDate: 2026-06-20
 updatedDate: 2026-06-20
 disclaimer: "Este guia é informativo e cobre os significados mais comuns. Cada fabricante pode usar variações de símbolo e cor. Consulte sempre o manual do proprietário do seu veículo para interpretações específicas. Diante de qualquer dúvida com luzes vermelhas, pare o carro em segurança antes de agir."

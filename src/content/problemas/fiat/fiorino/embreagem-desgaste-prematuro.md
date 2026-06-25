@@ -1,5 +1,5 @@
----
-title: "Embreagem da Fiorino com desgaste prematuro: intervalo, custo e como evitar"
+﻿---
+title: "Embreagem da Fiorino com desgaste prematuro"
 description: "A embreagem da Fiat Fiorino Endurance pode se desgastar antes dos 80 mil km em uso comercial urbano intenso. Saiba quando trocar disco, platô e rolamento, quanto custa o kit completo e como o estilo de uso afeta diretamente a durabilidade da embreagem."
 entidade:
   marca: "Fiat"
@@ -19,8 +19,7 @@ entidadesEssenciais:
   - "desgaste de forração"
   - "embreagem queimada"
 autor:
-  nome: "Equipe Técnica Hachiroku"
-  credencial: ""
+  nome: "Redação Hachiroku"
 pubDate: 2026-06-20
 updatedDate: 2026-06-20
 disclaimer: "Este conteúdo é informativo. A troca de embreagem deve ser executada por profissional qualificado. Não ignore sinais de embreagem patinando, pois a condução com embreagem desgastada pode danificar o flywheel e a caixa de câmbio, elevando o custo total do reparo."

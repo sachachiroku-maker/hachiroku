@@ -1,5 +1,5 @@
----
-title: "Cheiro de Fungo no Ar-Condicionado do VW Nivus: Causa e Como Resolver"
+﻿---
+title: "Cheiro de Fungo no Ar-Condicionado do VW Nivus"
 description: "Cheiro de mofo no ar-condicionado do VW Nivus 1.0 TSI? Veja as causas, como higienizar o evaporador e quando trocar o filtro de cabine. Guia técnico completo."
 entidade:
   marca: "Volkswagen"
@@ -14,8 +14,7 @@ entidadesEssenciais:
   - "filtro de cabine"
   - "higienização bactericida"
 autor:
-  nome: "Equipe Técnica Hachiroku"
-  credencial: ""
+  nome: "Redação Hachiroku"
 pubDate: 2026-06-20
 updatedDate: 2026-06-20
 disclaimer: "As informações deste artigo são de caráter técnico-educativo. Preços estimados podem variar conforme região e fornecedor. Consulte sempre um profissional habilitado antes de realizar qualquer intervenção no seu veículo."

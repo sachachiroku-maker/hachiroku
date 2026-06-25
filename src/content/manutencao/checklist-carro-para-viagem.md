@@ -1,5 +1,5 @@
----
-title: "Como Preparar o Carro para uma Viagem Longa: Checklist Completo"
+﻿---
+title: "Como Preparar o Carro para uma Viagem Longa"
 description: "Checklist completo para preparar o carro antes de uma viagem longa: pneus, óleo, freios, lâmpadas, AC e o que levar na mala de emergência."
 kicker: "MÃO NA MASSA"
 veiculo: "universal"
@@ -30,8 +30,7 @@ passos:
   - nome: "Verifique documentos, combustível e previsão do tempo"
     texto: "Confirme que CNH, CRLV e comprovante de seguro estão no carro. Abasteça o tanque antes de sair e planeje os pontos de parada para combustível na rota. Consulte a previsão do tempo para o trajeto completo: chuva intensa, neblina ou temperatura extrema exigem cuidados extras com velocidade e visibilidade."
 autor:
-  nome: "Equipe Técnica Hachiroku"
-  credencial: ""
+  nome: "Redação Hachiroku"
 pubDate: 2026-06-20
 updatedDate: 2026-06-20
 disclaimer: "As recomendações deste guia são de caráter informativo e educacional. Problemas mecânicos identificados durante a inspeção devem ser avaliados por um mecânico habilitado antes da viagem. O Hachiroku não se responsabiliza por danos decorrentes de manutenções realizadas sem o auxílio de profissional qualificado."

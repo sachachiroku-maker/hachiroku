@@ -1,4 +1,4 @@
----
+﻿---
 title: "Virtus 1.0 TSI: check engine P0136/P0141 sensor lambda"
 description: "Volkswagen Virtus 1.0 TSI Highline acende check engine com P0136 ou P0141: sensor lambda pós-catalisador com falha precoce no EA211. Causas, diagnóstico e solução."
 entidade:
@@ -17,8 +17,7 @@ entidadesEssenciais:
   - "sonda lambda VW"
   - "OBD2 Virtus"
 autor:
-  nome: "Equipe Hachiroku"
-  credencial: "Redação técnica automotiva"
+  nome: "Redação Hachiroku"
 pubDate: 2026-06-21
 updatedDate: 2026-06-21
 disclaimer: "As informações deste artigo são de caráter técnico e educativo. O diagnóstico definitivo exige leitura dos códigos com scanner OBD2 e avaliação presencial por profissional habilitado. Não substitua peças sem diagnóstico confirmado."

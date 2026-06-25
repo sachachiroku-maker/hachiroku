@@ -1,5 +1,5 @@
----
-title: "Volkswagen Jetta Comfortline 1.4 TSI 2023: ficha técnica completa"
+﻿---
+title: "Volkswagen Jetta Comfortline 1.4 TSI 2023"
 description: "Ficha técnica completa do Volkswagen Jetta Comfortline 1.4 TSI 2023: motor EA211 de 150 cv, câmbio DSG DQ250 de 6 marchas molhado, 0 a 100 km/h em 8,2 s e consumo de 12,0 km/l na estrada. Dados verificados e o que cuidar no motor TSI e no câmbio DSG."
 marca: "Volkswagen"
 modelo: "Jetta"

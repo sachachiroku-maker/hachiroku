@@ -1,4 +1,4 @@
----
+﻿---
 title: "Como higienizar o AC do carro: passo a passo"
 description: "Aprenda como higienizar o ar-condicionado do carro em casa com produtos acessíveis e elimine odores, fungos e bactérias do sistema."
 tipo: how-to
@@ -8,8 +8,7 @@ custoEstimado: "R$ 25 a R$ 80 (produtos)"
 pubDate: 2026-06-21
 updatedDate: 2026-06-21
 autor:
-  nome: "Equipe Hachiroku"
-  credencial: "Redação técnica automotiva"
+  nome: "Redação Hachiroku"
 afiliados:
   - produto: "Higienizador de ar-condicionado automotivo spray"
     busca: "higienizador ar condicionado carro spray"

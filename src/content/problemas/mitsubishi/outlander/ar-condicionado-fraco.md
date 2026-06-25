@@ -1,5 +1,5 @@
----
-title: "Ar-condicionado Fraco no Mitsubishi Outlander 2.0 e 3.0 V6: Diagnóstico Completo"
+﻿---
+title: "Ar-condicionado Fraco no Mitsubishi Outlander 2.0 e 3.0 V6"
 description: "AC fraco no Outlander 2.0 CVT e 3.0 V6: condensador entupido, compressor sobrecarregado, gás baixo ou filtro de cabine saturado. Diagnóstico com custos 2026."
 entidade:
   marca: "Mitsubishi"
@@ -11,8 +11,7 @@ kicker: "DEFEITO CRÔNICO"
 intencao: "Diagnóstico"
 entidadesEssenciais: ["Mitsubishi Outlander", "ar-condicionado automotivo", "compressor de AC"]
 autor:
-  nome: "Equipe Técnica Hachiroku"
-  credencial: ""
+  nome: "Redação Hachiroku"
 pubDate: 2026-06-20
 updatedDate: 2026-06-20
 disclaimer: "As faixas de custo indicadas são estimativas baseadas em preços praticados no mercado brasileiro em 2026 e podem variar conforme região, fornecedor e mão de obra local. Consulte sempre um técnico habilitado antes de autorizar qualquer serviço."

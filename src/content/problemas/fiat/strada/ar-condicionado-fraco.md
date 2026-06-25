@@ -1,5 +1,5 @@
----
-title: "Ar-condicionado fraco na Fiat Strada 1.3: diagnóstico | Hachiroku"
+﻿---
+title: "Ar-condicionado fraco na Fiat Strada 1.3"
 description: "O ar-condicionado da Fiat Strada Firefly 1.3 que resfria mal quase sempre tem causa no compressor com problema de vedação ou no gás R-134a baixo por microvazamento. Veja como diagnosticar, o que verificar primeiro e quanto custa resolver."
 entidade:
   marca: "Fiat"
@@ -19,8 +19,7 @@ entidadesEssenciais:
   - "condensador"
   - "evaporador"
 autor:
-  nome: "Equipe Hachiroku"
-  credencial: "Redação técnica automotiva"
+  nome: "Redação Hachiroku"
 pubDate: 2026-06-20
 updatedDate: 2026-06-20
 disclaimer: "O manuseio do gás refrigerante R-134a requer equipamento específico e certificação ambiental. Nunca tente recarregar o gás sem diagnosticar o vazamento antes. Este conteúdo é informativo. O serviço de carga e manutenção do sistema de AC deve ser executado em oficina especializada."

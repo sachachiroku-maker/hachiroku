@@ -1,4 +1,4 @@
----
+﻿---
 title: "Renegade vs Pulse: mesma plataforma, escolha diferente"
 description: "Renegade Sport ou Pulse Impetus? Os dois têm o 1.3 T270, mas entregam experiências diferentes. Comparativo técnico completo com veredicto claro."
 marca: "Comparativo"
@@ -6,8 +6,7 @@ modelo: "Renegade vs Pulse"
 kicker: "GUIA DE COMPRA · DECISÃO"
 veredito: "Renegade para quem quer marca premium americana, maior off-road e melhor valor de revenda. Pulse Impetus para quem quer interior maior, design mais moderno e o mesmo motor por menos."
 autor:
-  nome: "Equipe Hachiroku"
-  credencial: "Redação técnica automotiva"
+  nome: "Redação Hachiroku"
 pubDate: 2026-06-21
 updatedDate: 2026-06-21
 disclaimer: "Este comparativo orienta a decisão de compra mas não substitui um test drive em ambos. Preços e especificações referentes a 2025-2026."
@@ -74,9 +73,9 @@ faq:
     resposta: "O motor e o câmbio são idênticos, então o custo de revisão da mecânica é similar. A diferença aparece em peças de carroceria e eletrônicos, onde o Renegade pode sair mais caro por ter mais componentes importados. Para quem quer o menor custo de propriedade possível, o Pulse tem ligeira vantagem."
 relacionados:
   - titulo: "Chevrolet Tracker vs Jeep Renegade: qual SUV compacto faz mais sentido?"
-    url: "/guias/comparativos/tracker-vs-renegade"
+    url: "/guia-de-compra/comparativos/tracker-vs-renegade"
   - titulo: "Fiat Pulse usado: vale a pena comprar?"
-    url: "/guias/usados/fiat-pulse-usado-vale-a-pena"
+    url: "/guia-de-compra/usados/fiat-pulse-usado-vale-a-pena"
 draft: false
 ---
 

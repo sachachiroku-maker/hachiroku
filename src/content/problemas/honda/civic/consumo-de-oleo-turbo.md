@@ -1,5 +1,5 @@
----
-title: "Motor 1.5 turbo do Civic consome óleo: diagnóstico, causa e o que fazer"
+﻿---
+title: "Motor 1.5 turbo do Civic consome óleo"
 description: "O motor 1.5 VTEC turbo L15B7 do Honda Civic Touring pode apresentar consumo de óleo acima do esperado. Entenda por que esse motor é mais sensível ao óleo do que motores aspirados, quais são os sintomas, como medir o consumo corretamente e quais intervenções são recomendadas."
 entidade:
   marca: "Honda"
@@ -17,8 +17,7 @@ entidadesEssenciais:
   - "sistema PCV"
   - "diluição de óleo por combustível"
 autor:
-  nome: "Equipe Técnica Hachiroku"
-  credencial: ""
+  nome: "Redação Hachiroku"
 pubDate: 2026-06-20
 updatedDate: 2026-06-20
 disclaimer: "As informações deste artigo são de caráter técnico e educativo. O diagnóstico definitivo de consumo de óleo exige avaliação presencial por profissional qualificado. Não substitua peças sem diagnóstico confirmado."

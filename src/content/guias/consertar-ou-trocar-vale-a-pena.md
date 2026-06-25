@@ -1,4 +1,4 @@
----
+﻿---
 title: "Consertar ou trocar o carro: como decidir sem errar"
 description: "A regra dos 50% é o ponto de partida, mas a decisão entre consertar e trocar envolve mais do que um cálculo simples. Veja o modelo mental completo para não tomar a decisão errada."
 kicker: "GUIA DE DECISÃO · CUSTO-BENEFÍCIO"
@@ -20,8 +20,7 @@ checklist:
     detalhe: "Troca envolve: valor de entrada, financiamento (juros), IPVA do ano seguinte, seguro do novo modelo e custo de transferência. Some tudo antes de comparar."
     critico: false
 autor:
-  nome: "Equipe Técnica Hachiroku"
-  credencial: ""
+  nome: "Redação Hachiroku"
 pubDate: 2026-06-20
 updatedDate: 2026-06-20
 disclaimer: "Este guia apresenta critérios práticos de decisão, não assessoria financeira personalizada. Valores de mercado, custo de conserto e condições de financiamento variam. Consulte um mecânico de confiança para avaliar o estado real do veículo antes de tomar qualquer decisão."
@@ -43,9 +42,9 @@ afiliados:
     programa: "amazon"
 relacionados:
   - titulo: "Checklist para vistoria de carro usado"
-    url: "/guias/checklist-vistoria-carro-usado/"
+    url: "/guia-de-compra/checklist-vistoria-carro-usado/"
   - titulo: "Melhor carro popular com custo-benefício em 2026"
-    url: "/guias/melhor-carro-popular-custo-beneficio-2026/"
+    url: "/guia-de-compra/melhor-carro-popular-custo-beneficio-2026/"
   - titulo: "Luzes do painel do carro: o que cada uma significa"
     url: "/manutencao/luzes-do-painel-o-que-significam/"
 draft: false

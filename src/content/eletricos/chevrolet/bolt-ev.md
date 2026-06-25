@@ -1,5 +1,5 @@
----
-title: "Chevrolet Bolt EV: o elétrico acessível da GM no Brasil com 430 km de autonomia"
+﻿---
+title: "Chevrolet Bolt EV: o elétrico acessível da GM no Brasil com"
 description: "Análise completa do Chevrolet Bolt EV no Brasil: motor 204 cv, bateria 65 kWh, autonomia real de até 430 km e rede GM nacional. Vale a pena em 2026?"
 entidade:
   marca: "Chevrolet"
@@ -8,8 +8,7 @@ entidade:
 kicker: "CARRO ELÉTRICO"
 entidadesEssenciais: ["Chevrolet Bolt", "elétrico GM", "bateria NMC"]
 autor:
-  nome: "Equipe Técnica Hachiroku"
-  credencial: ""
+  nome: "Redação Hachiroku"
 pubDate: 2026-06-20
 updatedDate: 2026-06-20
 imagem: "/img/capas/eletricos.webp"
@@ -31,7 +30,7 @@ relacionados:
   - titulo: "Hyundai Ioniq 5: tecnologia 800V e recarga ultrarrápida no Brasil"
     url: "/eletricos/hyundai/ioniq-5"
   - titulo: "Quanto custa carregar um carro elétrico no Brasil em 2026?"
-    url: "/guias/custo-recarga-eletrico-brasil"
+    url: "/guia-de-compra/custo-recarga-eletrico-brasil"
 draft: false
 ---
 

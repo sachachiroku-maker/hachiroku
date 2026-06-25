@@ -1,5 +1,5 @@
----
-title: "Troca de óleo do Onix turbo: a especificação certa que protege a correia"
+﻿---
+title: "Troca de óleo do Onix turbo: a especificação certa que"
 description: "No Onix turbo de 2ª geração a correia dentada é banhada no óleo do motor. Veja o óleo certo (5W30 Dexos 1 Gen 3), capacidade, intervalo e o passo a passo seguro."
 kicker: "HOW-TO · MÃO NA MASSA"
 veiculo: "Chevrolet Onix turbo (2ª geração)"
@@ -32,8 +32,7 @@ passos:
   - nome: "Verifique o nível, rode e confira vazamentos"
     texto: "Dê partida e deixe o motor em marcha lenta por cerca de 1 minuto, observando a luz de pressão de óleo apagar. Desligue, aguarde 2 a 3 minutos para o óleo descer e confira a vareta: o nível deve ficar entre as marcas de mínimo e máximo. Inspecione o bujão e o filtro: não pode haver gota escorrendo. Complete se faltar."
 autor:
-  nome: "Equipe Técnica Hachiroku"
-  credencial: ""
+  nome: "Redação Hachiroku"
 pubDate: 2026-06-18
 updatedDate: 2026-06-18
 disclaimer: "Conteúdo informativo. No Onix turbo a correia dentada é banhada no óleo do motor: óleo fora da especificação Dexos 1 Gen 3 degrada a correia e pode destruir o motor. Valores de capacidade, torque e referência de filtro variam por ano e versão. Confirme tudo no manual do proprietário do seu carro. Em dúvida, procure a rede autorizada para preservar a garantia."

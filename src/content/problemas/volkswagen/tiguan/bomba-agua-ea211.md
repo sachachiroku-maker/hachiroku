@@ -1,5 +1,5 @@
----
-title: "Bomba de Água do Tiguan Allspace 1.4 TSI: Falha Elétrica e Risco de Superaquecimento"
+﻿---
+title: "Bomba de Água do Tiguan Allspace 1.4 TSI"
 description: "Bomba de água elétrica do Tiguan Allspace 1.4 TSI falha sem avisar e causa superaquecimento rápido. Veja sintomas, códigos de falha e quanto custa resolver."
 entidade:
   marca: "Volkswagen"
@@ -14,8 +14,7 @@ entidadesEssenciais:
   - "Motor 1.4 TSI EVO"
   - "Termostato VW EA211"
 autor:
-  nome: "Equipe Técnica Hachiroku"
-  credencial: ""
+  nome: "Redação Hachiroku"
 pubDate: 2026-06-20
 updatedDate: 2026-06-20
 disclaimer: "As informações técnicas e faixas de preço são referências para 2025-2026 no mercado brasileiro. Custos reais variam por região, fornecedor e condição do veículo. Consulte um profissional habilitado antes de qualquer intervenção no sistema de arrefecimento."

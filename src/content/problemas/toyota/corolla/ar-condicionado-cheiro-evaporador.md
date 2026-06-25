@@ -1,5 +1,5 @@
----
-title: "Cheiro de Mofo no Ar-Condicionado do Corolla (2014 em diante)"
+﻿---
+title: "Cheiro de Mofo no Ar-Condicionado do Corolla (2014 em"
 description: "Cheiro de mofo no AC do Toyota Corolla 2014 em diante: causas reais, como higienizar o evaporador e o que fazer para o cheiro não voltar."
 entidade:
   marca: "Toyota"
@@ -14,8 +14,7 @@ entidadesEssenciais:
   - "filtro de cabine"
   - "spray bactericida para AC"
 autor:
-  nome: "Equipe Técnica Hachiroku"
-  credencial: ""
+  nome: "Redação Hachiroku"
 pubDate: 2026-06-20
 updatedDate: 2026-06-20
 disclaimer: "As informações deste artigo têm caráter educativo. Preços citados são referências de mercado em 2025-2026 e podem variar por região e estabelecimento. Consulte sempre um profissional habilitado para diagnóstico e serviço no seu veículo."

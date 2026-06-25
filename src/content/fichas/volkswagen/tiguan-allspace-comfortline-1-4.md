@@ -1,5 +1,5 @@
 ﻿---
-title: "Volkswagen Tiguan Allspace Comfortline 1.4 TSI 2022: ficha técnica completa"
+title: "Volkswagen Tiguan Allspace Comfortline 1.4 TSI 2022"
 description: "Ficha técnica completa do VW Tiguan Allspace Comfortline 1.4 TSI 2022: motor 1.4 turbo de 150 cv, câmbio DSG de 6 marchas, 7 lugares, consumo de 13,2 km/l na estrada com gasolina e todos os dados verificados. Pontos de atenção para compra."
 marca: "Volkswagen"
 modelo: "Tiguan Allspace"

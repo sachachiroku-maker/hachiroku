@@ -1,12 +1,11 @@
----
+﻿---
 title: "Fiat Pulse usado vale a pena? Checklist 2025"
 description: "Guia de compra do Fiat Pulse 1.0 T200 CVT usado (2022-2024): checklist completo, pontos de atenção no câmbio e veredito honesto."
 collection: "guias"
 pubDate: 2026-06-21
 updatedDate: 2026-06-21
 autor:
-  nome: "Equipe Hachiroku"
-  credencial: "Redação técnica automotiva"
+  nome: "Redação Hachiroku"
 veredito: "Vale para quem quer SUV compacto a preço de hatch. Atenção ao CVT em exemplares acima de 60 mil km e ao câmbio aquecendo em trânsito intenso. T200 é mais confiável que o T270 nesse contexto."
 afiliados:
   - produto: "Scanner automotivo OBD2 Bluetooth"

@@ -1,5 +1,5 @@
----
-title: "Corrente de Comando do Toyota Corolla: esticamento, barulho e risco real"
+﻿---
+title: "Corrente de Comando do Toyota Corolla"
 description: "A corrente de comando do Toyota Corolla 1.8 e 2.0 estica com o tempo, e o principal gatilho é intervalo de troca de óleo estourado ou uso de óleo fora da especificação. Barulho metálico a frio, luz do motor acesa e consumo de óleo acima do normal são os sinais. Veja causas, custo de reparo e como evitar a conta grande."
 entidade:
   marca: "Toyota"
@@ -18,8 +18,7 @@ entidadesEssenciais:
   - "troca de óleo"
   - "especificação de óleo Toyota"
 autor:
-  nome: "Equipe Técnica Hachiroku"
-  credencial: ""
+  nome: "Redação Hachiroku"
 pubDate: 2026-06-20
 updatedDate: 2026-06-20
 disclaimer: "O diagnóstico e a troca da corrente de comando exigem desmontagem parcial do motor e ferramentas específicas. Este conteúdo é informativo: confie a execução a um profissional qualificado. Nunca continue rodando com barulho metálico a frio sem investigar a causa."

@@ -1,12 +1,11 @@
----
+﻿---
 title: "T-Cross vs Creta: qual SUV compacto vale mais?"
 description: "Comparativo T-Cross vs Creta: motor, câmbio, consumo, custo de manutenção e veredito final. Qual SUV compacto 1.0 turbo comprar em 2025?"
 kicker: "COMPARATIVO · DECISÃO"
 pubDate: 2026-06-21
 updatedDate: 2026-06-21
 autor:
-  nome: "Equipe Hachiroku"
-  credencial: "Redação técnica automotiva"
+  nome: "Redação Hachiroku"
 veredito: "Para quem quer marca europeia com câmbio suave e revisão na rede VW, T-Cross. Para quem prefere equipamentos de série, teto solar e custo por km menor, Creta."
 checklist:
   - item: "Motor 1.0 turbo"

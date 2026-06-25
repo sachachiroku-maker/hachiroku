@@ -1,4 +1,4 @@
----
+﻿---
 title: "Ar-condicionado fraco no Jimny Sierra K15B"
 description: "O ar-condicionado do Suzuki Jimny Sierra K15B rende pouco no calor tropical porque o compressor original tem capacidade limitada. Veja sintomas, causas, diagnóstico e o que fazer antes de ir à oficina."
 entidade:
@@ -15,8 +15,7 @@ entidadesEssenciais:
   - "evaporador"
   - "controle de temperatura"
 autor:
-  nome: "Equipe Hachiroku"
-  credencial: "Redação técnica automotiva"
+  nome: "Redação Hachiroku"
 pubDate: 2026-06-21
 updatedDate: 2026-06-21
 disclaimer: "Conteúdo informativo de diagnóstico. Reparos no sistema de ar-condicionado envolvem gás refrigerante sob pressão e exigem profissional qualificado. Confirme o ano-modelo do seu veículo e verifique condições de garantia diretamente em uma concessionária Suzuki antes de qualquer decisão."

@@ -1,5 +1,5 @@
----
-title: "VW Polo TSI consumindo óleo: o que é normal e o que é defeito no EA211"
+﻿---
+title: "VW Polo TSI consumindo óleo: o que é normal e o que é"
 description: "Volkswagen Polo TSI com consumo de óleo? O motor 1.0 TSI EA211 tem uma faixa de consumo que a própria VW considera normal, mas anéis, válvula PCV e turbo podem transformar isso em problema sério. Veja o que é consumo aceitável, os sintomas de defeito, as causas reais, o custo e como prevenir."
 entidade:
   marca: "Volkswagen"
@@ -16,8 +16,7 @@ entidadesEssenciais:
   - "turbo"
   - "luz EPC"
 autor:
-  nome: "Equipe Técnica Hachiroku"
-  credencial: ""
+  nome: "Redação Hachiroku"
 pubDate: 2026-06-18
 updatedDate: 2026-06-18
 disclaimer: "Consumo de óleo só vira diagnóstico com medição correta (nível na vareta, intervalos e km) e leitura no scanner. Este conteúdo orienta o que investigar; a confirmação depende de um profissional com o carro em mãos e do manual do seu ano."

@@ -1,4 +1,4 @@
----
+﻿---
 title: "DPF entupido na Hilux 2.8 diesel: regeneração incompleta"
 description: "Filtro de partículas diesel (DPF) da Toyota Hilux 1GD-FTV entope em uso urbano. Saiba identificar sintomas, forçar a regeneração e evitar o entupimento."
 entidade:
@@ -18,8 +18,7 @@ entidadesEssenciais:
   - "pós-injeção de combustível"
   - "luz de advertência DPF"
 autor:
-  nome: "Equipe Hachiroku"
-  credencial: "Redação técnica automotiva"
+  nome: "Redação Hachiroku"
 pubDate: 2026-06-21
 updatedDate: 2026-06-21
 draft: false

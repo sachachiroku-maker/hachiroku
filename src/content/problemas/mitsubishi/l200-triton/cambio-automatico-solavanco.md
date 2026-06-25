@@ -1,5 +1,5 @@
----
-title: "L200 Triton: Câmbio Automático com Solavancos e Falha no Engate de Marcha"
+﻿---
+title: "L200 Triton: Câmbio Automático com Solavancos e Falha no"
 description: "Câmbio AISIN de 6 marchas da L200 Triton dando solavancos e travamentos? Veja causas, diagnóstico e custos de reparo com ATF e solenoide."
 entidade:
   marca: "Mitsubishi"
@@ -11,8 +11,7 @@ kicker: "DEFEITO CRÔNICO"
 intencao: "Diagnóstico"
 entidadesEssenciais: ["câmbio automático AISIN", "Super Select II 4WD", "fluido ATF Mitsubishi"]
 autor:
-  nome: "Equipe Técnica Hachiroku"
-  credencial: ""
+  nome: "Redação Hachiroku"
 pubDate: 2026-06-20
 updatedDate: 2026-06-20
 disclaimer: "As informações deste artigo têm caráter educativo. Consulte sempre um mecânico especializado em Mitsubishi antes de realizar qualquer intervenção no câmbio ou na transmissão."

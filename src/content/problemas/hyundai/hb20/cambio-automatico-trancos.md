@@ -1,5 +1,5 @@
----
-title: "Câmbio automático do Hyundai HB20: trancos nas trocas, o módulo TCU e o que fazer"
+﻿---
+title: "Câmbio automático do Hyundai HB20"
 description: "O câmbio automático do Hyundai HB20 (A6GF1) virou assunto recorrente por dar trancos e solavancos nas trocas, principalmente da primeira para a segunda marcha, com ar-condicionado ligado e em baixa velocidade. Veja os sintomas, as causas (atualização de software do TCU, óleo do câmbio e a campanha de recall do módulo da bomba elétrica), como diagnosticar, o que costuma resolver e quanto custa."
 entidade:
   marca: "Hyundai"
@@ -16,8 +16,7 @@ entidadesEssenciais:
   - "óleo do câmbio"
   - "trancos nas trocas"
 autor:
-  nome: "Equipe Técnica Hachiroku"
-  credencial: ""
+  nome: "Redação Hachiroku"
 pubDate: 2026-06-19
 updatedDate: 2026-06-19
 disclaimer: "Este conteúdo é informativo e não substitui o diagnóstico presencial. Trancos no câmbio automático têm mais de uma causa possível, e qualquer intervenção (atualização de software, troca de óleo do câmbio ou reparo do módulo) deve ser feita por profissional qualificado, de preferência em rede autorizada Hyundai, para não perder garantia. Verifique se o seu HB20 está incluído em alguma campanha de recall ou de atualização junto à Hyundai e ao site do Ministério da Justiça antes de pagar por qualquer reparo."

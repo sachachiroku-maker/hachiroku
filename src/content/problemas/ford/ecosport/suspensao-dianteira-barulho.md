@@ -1,5 +1,5 @@
----
-title: "Barulho na suspensão dianteira do Ford EcoSport: diagnóstico completo"
+﻿---
+title: "Barulho na suspensão dianteira do Ford EcoSport"
 description: "O barulho na suspensão dianteira do Ford EcoSport tem três fontes principais: bucha de bandeja desgastada, rolamento de cubo da roda e amortecedor com topo ruidoso. Saiba identificar cada um pelos sintomas, os custos envolvidos e o que inspeccionar antes de comprar um EcoSport usado."
 entidade:
   marca: "Ford"
@@ -18,8 +18,7 @@ entidadesEssenciais:
   - "barra estabilizadora"
   - "buchas de barra estabilizadora"
 autor:
-  nome: "Equipe Técnica Hachiroku"
-  credencial: ""
+  nome: "Redação Hachiroku"
 pubDate: 2026-06-20
 updatedDate: 2026-06-20
 disclaimer: "Barulhos na suspensão podem indicar falhas que comprometem o controle direcional do veículo. Sempre avalie com um profissional antes de concluir o diagnóstico por conta própria. Este conteúdo é informativo."

@@ -1,4 +1,4 @@
----
+﻿---
 title: "Fiat Strada Usada: Vale a Pena? Guia Completo por Geração"
 description: "Tudo sobre a Fiat Strada usada: gerações, defeitos crônicos, o que checar na embreagem e suspensão e quando o negócio vale ou não vale."
 marca: "Fiat"
@@ -6,8 +6,7 @@ modelo: "Strada"
 kicker: "GUIA DE COMPRA"
 veredito: "A Strada usada é um dos melhores custo-benefício do segmento de picapes leves, especialmente para quem usa como ferramenta de trabalho. Vale a pena se a manutenção foi feita em dia e o histórico de carga for compatível com o estado atual da embreagem e da suspensão traseira. O ponto de atenção número um é o desgaste acelerado de embreagem, silent blocks e pneus em exemplares que carregaram peso próximo ao limite toda a vida."
 autor:
-  nome: "Equipe Técnica Hachiroku"
-  credencial: ""
+  nome: "Redação Hachiroku"
 pubDate: 2026-06-20
 updatedDate: 2026-06-20
 disclaimer: "Este guia orienta a inspeção, mas não substitui uma vistoria cautelar e uma avaliação mecânica presencial antes da compra."
@@ -60,11 +59,11 @@ faq:
     resposta: "Sim, sempre. A vistoria cautelar revela recuperação de batida que não aparece na inspeção visual simples, verifica o número do chassi e confere o histórico do veículo nos sistemas oficiais. O custo gira em torno de R$ 150 a R$ 300 e pode evitar um prejuízo muito maior."
 relacionados:
   - titulo: "Fiat Argo Usado: Vale a Pena? Guia por Geração"
-    url: "/guias/usados/argo-usado-vale-a-pena"
+    url: "/guia-de-compra/usados/argo-usado-vale-a-pena"
   - titulo: "Volkswagen Gol Usado: Guia de Compra Completo"
-    url: "/guias/usados/gol-usado-vale-a-pena"
+    url: "/guia-de-compra/usados/gol-usado-vale-a-pena"
   - titulo: "Hyundai HB20 Usado: Vale a Pena?"
-    url: "/guias/usados/hb20-usado-vale-a-pena"
+    url: "/guia-de-compra/usados/hb20-usado-vale-a-pena"
 draft: false
 ---
 

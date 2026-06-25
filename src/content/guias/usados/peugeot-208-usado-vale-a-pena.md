@@ -1,4 +1,4 @@
----
+﻿---
 title: "Peugeot 208 usado vale a pena? O que inspecionar"
 description: "O Peugeot 208 usado (2019-2023) tem dois motores muito diferentes: o 1.6 aspirado simples de manter e o 1.2 PureTech turbo de 3 cilindros, que exige cuidado com consumo de oleo e corrente de distribuicao. Veja o checklist completo e o que checar antes de fechar negocio."
 marca: "Peugeot"
@@ -6,8 +6,7 @@ modelo: "208"
 kicker: "GUIA DE COMPRA · DECISÃO"
 veredito: "Vale com inspeção prévia: checar consumo de óleo do PureTech e corrente de distribuição antes de fechar negócio."
 autor:
-  nome: "Equipe Hachiroku"
-  credencial: "Redação técnica automotiva"
+  nome: "Redação Hachiroku"
 pubDate: 2026-06-21
 updatedDate: 2026-06-21
 disclaimer: "Este guia orienta a inspeção, mas não substitui uma vistoria cautelar e uma avaliação mecânica presencial antes da compra. Em carro usado, sempre vale levar um profissional de confiança e passar um scanner."

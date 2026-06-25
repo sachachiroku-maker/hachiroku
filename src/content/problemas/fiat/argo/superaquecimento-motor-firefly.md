@@ -1,5 +1,5 @@
----
-title: "Superaquecimento do Motor Firefly no Fiat Argo: causas, diagnóstico e custo"
+﻿---
+title: "Superaquecimento do Motor Firefly no Fiat Argo"
 description: "Motor Firefly do Fiat Argo superaquecendo? Termostato travado, bomba d'água com impelidor plástico partido e radiador entupido são as causas mais comuns. Veja como diagnosticar e o custo das peças."
 entidade:
   marca: "Fiat"
@@ -16,8 +16,7 @@ entidadesEssenciais:
   - "radiador"
   - "fluido OAT"
 autor:
-  nome: "Equipe Técnica Hachiroku"
-  credencial: ""
+  nome: "Redação Hachiroku"
 pubDate: 2026-06-20
 updatedDate: 2026-06-20
 disclaimer: "Superaquecimento é uma emergência mecânica. Não dirija com o ponteiro de temperatura na zona vermelha: desligue o motor, aguarde esfriar e leve o carro ao reboque. Este conteúdo é informativo e não substitui diagnóstico presencial de profissional qualificado. Custos citados são estimativas baseadas em relatos de proprietários e podem variar por região e ano."

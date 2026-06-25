@@ -1,5 +1,5 @@
----
-title: "Ficha técnica do Fiat Fastback 2025 Turbo 200 (1.0 turbo T200)"
+﻿---
+title: "Ficha técnica do Fiat Fastback 2025 Turbo 200 (1.0 turbo"
 description: "Ficha técnica completa do Fiat Fastback 2025 Turbo 200: motor 1.0 turbo flex de 3 cilindros e até 130 cv, câmbio automático CVT, 516 litros de porta-malas e o motor T270 1.3 de 185 cv nas versões de topo. Dados, consumo e o que esperar do SUV cupê da Fiat."
 marca: "Fiat"
 modelo: "Fastback"

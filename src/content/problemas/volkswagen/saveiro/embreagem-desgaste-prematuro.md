@@ -1,5 +1,5 @@
----
-title: "Embreagem Desgastada Antes do Tempo na Saveiro 1.6 MSI: Diagnóstico Completo"
+﻿---
+title: "Embreagem Desgastada Antes do Tempo na Saveiro 1.6 MSI"
 description: "Saveiro G7 1.6 MSI com embreagem patinando entre 40-80 mil km? Veja causas, sintomas e custo do kit completo para quem usa a picape para trabalho."
 entidade:
   marca: "Volkswagen"
@@ -14,8 +14,7 @@ entidadesEssenciais:
   - "kit embreagem Saveiro 1.6 MSI"
   - "patinação de embreagem picape"
 autor:
-  nome: "Equipe Técnica Hachiroku"
-  credencial: ""
+  nome: "Redação Hachiroku"
 pubDate: 2026-06-20
 updatedDate: 2026-06-20
 disclaimer: "Este artigo tem finalidade informativa e educativa. O diagnóstico definitivo e a substituição de componentes devem ser realizados por mecânico habilitado. O Hachiroku não se responsabiliza por danos decorrentes de reparos realizados sem a devida qualificação técnica."

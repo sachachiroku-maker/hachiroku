@@ -1,10 +1,9 @@
----
+﻿---
 title: "Posso Continuar Dirigindo com Esse Problema?"
 description: "Sistema de semáforo para os defeitos mais comuns do carro: saiba quando parar imediatamente, quando ter cautela e quando pode seguir viagem sem preocupação."
 pubDate: 2026-06-20
 autor:
-  nome: "Equipe Hachiroku"
-  credencial: "Redação técnica automotiva — O Seu Mecânico Digital"
+  nome: "Redação Hachiroku"
 veredito: "A maioria dos problemas mecânicos tem solução simples quando identificados cedo. Aprenda a ler os sinais do seu carro antes que um pequeno defeito vire uma conta grande — ou pior, um acidente."
 checklist:
   - item: "Luz do motor acesa (Check Engine)"

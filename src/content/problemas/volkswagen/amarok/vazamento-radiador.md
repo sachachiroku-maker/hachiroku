@@ -1,5 +1,5 @@
----
-title: "Vazamento no radiador da Amarok V6: causa e solução | Hachiroku"
+﻿---
+title: "Vazamento no radiador da Amarok V6"
 description: "A Volkswagen Amarok V6 3.0 TDI diesel tem histórico de microrachaduras no radiador original com o tempo, causando vazamento de líquido de arrefecimento e risco de superaquecimento do motor. Saiba identificar os sintomas, entender a causa e agir antes de danos graves."
 entidade:
   marca: "Volkswagen"
@@ -18,8 +18,7 @@ entidadesEssenciais:
   - "tampa do reservatório de arrefecimento"
   - "tanque plástico do radiador"
 autor:
-  nome: "Equipe Hachiroku"
-  credencial: "Redação técnica automotiva"
+  nome: "Redação Hachiroku"
 pubDate: 2026-06-20
 updatedDate: 2026-06-20
 disclaimer: "Este conteúdo é informativo e diagnóstico. Operar a Amarok V6 com o motor superaquecendo pode causar danos irreversíveis ao bloco e ao cabeçote. Na dúvida, pare o veículo, desligue o motor e procure assistência técnica especializada antes de qualquer tentativa de diagnóstico com o motor quente."

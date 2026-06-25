@@ -1,5 +1,5 @@
----
-title: "Ar-condicionado fraco no Jeep Wrangler 4xe: por que o calor vence o sistema"
+﻿---
+title: "Ar-condicionado fraco no Jeep Wrangler 4xe"
 description: "Wrangler 4xe com AC fraco no verão? Teto removível, habitáculo grande e condensador exposto formam a combinação perfeita contra o frio. Veja o diagnóstico completo."
 entidade:
   marca: "Jeep"
@@ -21,8 +21,7 @@ entidadesEssenciais:
   - "correia compressor Wrangler"
   - "Stellantis Brasil"
 autor:
-  nome: "Equipe Técnica Hachiroku"
-  credencial: ""
+  nome: "Redação Hachiroku"
 pubDate: 2026-06-20
 updatedDate: 2026-06-20
 disclaimer: "As informações sobre custos de mão de obra e peças são estimativas baseadas em valores praticados no mercado brasileiro em 2025-2026 e podem variar por região e oficina. Este conteúdo é informativo. Consulte sempre uma oficina especializada em sistemas de ar-condicionado automotivo para diagnóstico preciso."

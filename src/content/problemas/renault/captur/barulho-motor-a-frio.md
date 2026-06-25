@@ -1,5 +1,5 @@
----
-title: "Motor do Captur faz barulho a frio: causa, diagnóstico e quando se preocupar"
+﻿---
+title: "Motor do Captur faz barulho a frio"
 description: "O motor 1.3 TCe do Renault Captur pode fazer barulho metálico ou tique-tique nos primeiros minutos após o arranque. Saiba o que causa esse som, a diferença entre o barulho normal de aquecimento e o sinal de problema real nos injetores, na turbina ou no sistema de distribuição."
 entidade:
   marca: "Renault"
@@ -17,8 +17,7 @@ entidadesEssenciais:
   - "barulho a frio motor turbo"
   - "tique-tique motor"
 autor:
-  nome: "Equipe Técnica Hachiroku"
-  credencial: ""
+  nome: "Redação Hachiroku"
 pubDate: 2026-06-20
 updatedDate: 2026-06-20
 disclaimer: "As informações deste artigo são de caráter informativo e técnico. O diagnóstico definitivo de barulho no motor exige avaliação presencial por profissional qualificado. Não ignore barulhos metálicos persistentes ou que pioram com o uso, pois podem indicar falha em componentes críticos."

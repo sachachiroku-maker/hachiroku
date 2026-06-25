@@ -1,5 +1,5 @@
----
-title: "Correia banhada a óleo da Montana 1.2 Turbo: intervalo crítico e o que acontece se atrasar"
+﻿---
+title: "Correia banhada a óleo da Montana 1.2 Turbo"
 description: "O motor 1.2 CSS Prime Turbo da Chevrolet Montana usa correia dentada banhada a óleo, igual ao Onix e Tracker. O intervalo de troca é de 100.000 km e o óleo correto é obrigatório. Entenda por que atrasar pode custar o motor."
 entidade:
   marca: "Chevrolet"
@@ -19,8 +19,7 @@ entidadesEssenciais:
   - "bomba de vácuo"
   - "motor de interferência"
 autor:
-  nome: "Equipe Técnica Hachiroku"
-  credencial: ""
+  nome: "Redação Hachiroku"
 pubDate: 2026-06-20
 updatedDate: 2026-06-20
 disclaimer: "Este conteúdo é informativo. A troca da correia banhada a óleo deve ser feita por mecânico com experiência no motor 1.2 CSS Prime. O não cumprimento do intervalo pode resultar em perda total do motor. Siga as recomendações da Chevrolet Brasil."
