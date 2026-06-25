@@ -60,6 +60,16 @@ const getAriaCurrent = (href: string) => {
         } catch (e) {}
       })();
     </script>
+
+    <!-- Google tag (gtag.js) — GA4 -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-QM1MYBRVD7" is:inline></script>
+    <script is:inline>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'G-QM1MYBRVD7');
+    </script>
+
     <title>{title}</title>
     <meta name="description" content={metaDesc} />
     <link rel="canonical" href={canonicalURL} />
