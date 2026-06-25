@@ -1,130 +1,88 @@
 ﻿---
-title: "Ficha técnica Ram Rampage Rebel 1.3 T270 2024"
-description: "Ficha técnica completa da Ram Rampage Rebel 1.3 T270 CVT 2024: motor, desempenho, consumo, dimensões e equipamentos."
-collection: fichas
-marca: "Ram"
+title: "Ficha Técnica RAM Rampage Rebel 1.3 T270: especificações completas"
+description: "Ficha técnica completa da RAM Rampage Rebel 1.3 T270: motor Hurricane 185 cv, câmbio automático 9 marchas, capacidade de carga e dimensões. Dados oficiais RAM Brasil 2024."
+marca: "RAM"
 modelo: "Rampage"
-versao: "Rebel 1.3 T270 CVT"
+versao: "Rebel 1.3 T270 Flex"
 ano: 2024
+geracao: "1ª geração (2023–atual)"
 carroceria: "Picape compacta"
-pubDate: 2026-06-21
-updatedDate: 2026-06-21
-draft: false
-fonteDados: "Ram Brasil ficha técnica 2024"
-autor:
-  nome: "Redação Hachiroku"
-
+kicker: "FICHA TÉCNICA · DADOS REAIS"
 motor:
   - k: "Tipo"
-    v: "1.3 biturbo a gasolina/etanol (Flex)"
-  - k: "Potência máxima"
-    v: "185 cv a 5.500 rpm"
-  - k: "Torque máximo"
-    v: "27,5 kgf.m a 2.000 rpm"
-  - k: "Cilindrada"
-    v: "1.332 cm³"
-  - k: "Número de cilindros"
-    v: "4 cilindros em linha"
-  - k: "Alimentação"
-    v: "Injeção direta com duplo turbocompressor"
-  - k: "Combustível"
-    v: "Gasolina/Etanol (Flex)"
-
+    v: "4 cilindros em linha, 1.3 L Hurricane Turbo, Flex"
+  - k: "Potência (gasolina)"
+    v: "185 cv (136 kW) @ 5.500 rpm"
+  - k: "Potência (etanol)"
+    v: "193 cv (142 kW) @ 5.500 rpm"
+  - k: "Torque"
+    v: "27,5 kgfm (270 Nm) @ 2.000–4.500 rpm"
 transmissao:
   - k: "Tipo"
-    v: "CVT (Variador Contínuo)"
+    v: "Automático 9 marchas (ZF 9HP48)"
   - k: "Tração"
-    v: "4x2 (dianteira)"
-  - k: "Marchas"
-    v: "Variação contínua sem marchas fixas"
-  - k: "Modo manual"
-    v: "Sim, via paddle shifters no volante"
-
+    v: "Traseira (4x2)"
 desempenho:
   - k: "0 a 100 km/h"
-    v: "Aproximadamente 8,5 segundos"
+    v: "~9,0 s"
   - k: "Velocidade máxima"
-    v: "Não divulgada oficialmente"
-  - k: "Capacidade de reboque"
-    v: "Até 900 kg (com engate homologado)"
-
+    v: "~180 km/h"
 consumo:
-  - k: "Cidade (gasolina)"
-    v: "10,5 km/l (INMETRO estimado)"
-  - k: "Estrada (gasolina)"
-    v: "13,2 km/l (INMETRO estimado)"
-  - k: "Cidade (etanol)"
-    v: "7,4 km/l (INMETRO estimado)"
-  - k: "Estrada (etanol)"
-    v: "9,2 km/l (INMETRO estimado)"
-  - k: "Tanque de combustível"
-    v: "55 litros"
-
+  - k: "Consumo urbano (gasolina)"
+    v: "9,3 km/l"
+  - k: "Consumo estrada (gasolina)"
+    v: "11,8 km/l"
+  - k: "Combustível"
+    v: "Flex (gasolina/etanol)"
 dimensoes:
-  - k: "Comprimento total"
-    v: "5.000 mm"
+  - k: "Comprimento"
+    v: "5.015 mm"
   - k: "Largura"
-    v: "1.900 mm (sem retrovisores)"
+    v: "1.947 mm"
   - k: "Altura"
-    v: "1.740 mm"
+    v: "1.690 mm"
   - k: "Entre-eixos"
-    v: "3.045 mm"
-  - k: "Caçamba: comprimento"
-    v: "Aproximadamente 1.080 mm"
-  - k: "Peso bruto"
-    v: "1.580 kg"
-  - k: "Capacidade de carga"
-    v: "650 kg"
+    v: "3.024 mm"
+  - k: "Comprimento da caçamba"
+    v: "1.267 mm"
+chassi:
+  - k: "Suspensão dianteira"
+    v: "Duplo braço com barra estabilizadora"
+  - k: "Suspensão traseira"
+    v: "Eixo rígido com mola multifolha"
+  - k: "Freios dianteiros"
+    v: "Disco ventilado"
+  - k: "Freios traseiros"
+    v: "Disco sólido"
   - k: "Pneus"
-    v: "225/55 R18"
-  - k: "Rodas"
-    v: "Alumínio 18 polegadas"
-
+    v: "245/65 R17 (Rebel)"
+potenciaCv: "185 cv (gasolina) / 193 cv (etanol)"
+cilindrada: "1.332 cc"
+combustivel: "Flex (gasolina/etanol)"
+fonteDados: "RAM Brasil e Stellantis Brasil — catálogo técnico e especificações oficiais 2024"
+autor:
+  nome: "Redação Hachiroku"
+pubDate: 2026-06-25
+updatedDate: 2026-06-25
 faq:
-  - pergunta: "Qual a diferença entre o motor T270 e o T200 da Rampage?"
-    resposta: "O T270 é o motor 1.3 biturbo com 185 cv e 27,5 kgf.m de torque, enquanto o T200 é o 2.0 turbo diesel com 200 cv e 45,9 kgf.m. O T270 roda a gasolina e etanol (Flex), é mais leve e tem menor custo de manutenção. O T200 diesel oferece torque bem superior, ideal para quem reboca cargas pesadas com frequência ou trafega muito em estrada."
-  - pergunta: "A transmissão CVT da Rampage Rebel é confiável?"
-    resposta: "Sim. A CVT da Rampage Rebel é a mesma plataforma utilizada em outros modelos do Grupo Stellantis. Ela é projetada para uso urbano e misto, suportando o torque de 27,5 kgf.m do motor T270. O sistema conta com paddle shifters para simular trocas manuais, tornando a condução mais dinâmica quando desejado. A manutenção do fluido da CVT deve ser feita conforme o intervalo indicado no manual."
-  - pergunta: "Qual é a capacidade de reboque da Ram Rampage Rebel 1.3 T270?"
-    resposta: "Com engate homologado, a Rampage Rebel T270 suporta até 900 kg de reboque. Para cargas maiores, como trailers e barcos acima dessa faixa, a versão T200 diesel é a escolha mais adequada, com capacidade de até 1.500 kg."
-  - pergunta: "Quais são os principais concorrentes da Ram Rampage Rebel T270?"
-    resposta: "Os concorrentes diretos na categoria de picapes compactas são a Fiat Toro Ultra, a Volkswagen Saveiro Cabine Dupla e, em posicionamento mais próximo do luxo, a Chevrolet Montana. A Rampage se diferencia pelo estilo robusto inspirado nas Ram maiores, pela caçamba maior e pelos itens de série na versão Rebel, como teto solar e central multimídia com tela grande."
-  - pergunta: "Qual é a garantia da Ram Rampage 2024 no Brasil?"
-    resposta: "A Ram Rampage 2024 tem garantia de fábrica de 3 anos ou 100.000 km, o que ocorrer primeiro. A garantia inclui defeitos de fabricação em peças e componentes. Revisões realizadas na rede autorizada Ram são necessárias para manter a garantia ativa."
-
-afiliados:
-  - produto: "Tapete automotivo Ram Rampage"
-    busca: "tapete automotivo Ram Rampage"
-    programa: amazon
-    cta: "Ver tapetes compatíveis"
-  - produto: "Capota marítima Ram Rampage"
-    busca: "capota marítima Ram Rampage caçamba"
-    programa: amazon
-    cta: "Ver capotas para Rampage"
-  - produto: "Engate reboque Ram Rampage"
-    busca: "engate reboque Ram Rampage"
-    programa: amazon
-    cta: "Ver engates homologados"
-  - produto: "Câmera de ré sem fio"
-    busca: "câmera de ré sem fio universal"
-    programa: amazon
-    cta: "Ver câmeras de ré"
+  - pergunta: "A RAM Rampage aguenta quanto de carga?"
+    resposta: "A Rampage Rebel 1.3 T270 tem capacidade de carga de 600 a 900 kg dependendo da versão. O reboque máximo é de 1.000 kg nas versões flex. Para cargas pesadas, as picapes diesel de tonelada são mais indicadas. A Rampage se destaca pela praticidade urbana e custo de propriedade menor."
+  - pergunta: "O motor 1.3 T270 da RAM Rampage é o mesmo do Jeep Renegade?"
+    resposta: "Sim. O motor Hurricane 1.3 T270 (1.332 cc, 4 cilindros turbo) é compartilhado pela plataforma Small Wide da Stellantis, equipando também Jeep Renegade, Jeep Compass e Fiat Toro nas versões mais potentes. A calibração é específica para cada modelo."
+  - pergunta: "A RAM Rampage Rebel tem tração 4x4?"
+    resposta: "A versão Rebel 1.3 T270 é apenas tração traseira (4x2). Existe a versão R/T com motor 2.0 diesel e tração 4x4 integral. Para uso off-road moderado, a Rebel conta com suspensão elevada e pneus All Terrain, mas não tem reduzida."
+relacionados:
+  - titulo: "Ficha técnica Fiat Toro"
+    url: "/ficha-tecnica/fiat/toro/"
+  - titulo: "Problemas comuns motor 1.3 Hurricane"
+    url: "/problemas/fiat/toro/"
+draft: false
 ---
 
-A **Ram Rampage Rebel 1.3 T270 CVT 2024** é a versão topo de linha do motor a combustão Flex da picape compacta da Ram no Brasil. Com o motor 1.3 biturbo de 185 cv e transmissão CVT, ela combina desempenho urbano ágil, consumo razoável e visual agressivo inspirado nas Ram maiores.
+A RAM Rampage é uma picape compacta com motor 1.3 Hurricane turbo flex de 185 cv e câmbio automático ZF de 9 marchas, posicionada entre os hatches médios e as picapes tradicionais de uma tonelada.
 
-## Destaques da versão Rebel T270
+## Motor Hurricane 1.3 T270
 
-A versão Rebel é a de maior apelo visual e equipamentos da linha T270. Entre os itens de série estão teto solar panorâmico, central multimídia com tela de 10,1 polegadas compatível com Apple CarPlay e Android Auto, câmera de ré, sensores de estacionamento dianteiros e traseiros, bancos em couro, ar-condicionado digital de duas zonas e rodas de alumínio 18 polegadas.
+O Hurricane 1.3 entrega 185 cv com gasolina e 193 cv com etanol, com 270 Nm de torque disponíveis a partir de 2.000 rpm. O câmbio ZF 9HP48 de 9 marchas permite acelerações suaves no cotidiano urbano e boa retomada em rodovias.
 
-O acabamento Rebel inclui detalhes visuais exclusivos no exterior: grade frontal com acabamento escurecido, para-choques robusto, step traseiro na caçamba e adesivos laterais com grafismo próprio da versão.
-
-## Motor T270: potência e consumo
-
-O T270 é um 1.3 litros com quatro cilindros, dois turbocompressores em série (biturbo) e injeção direta. Roda tanto a gasolina quanto a etanol, sendo uma alternativa econômica em relação ao diesel. Com 185 cv e 27,5 kgf.m de torque disponível já a 2.000 rpm, o motor oferece resposta pronta no trânsito urbano.
-
-A transmissão CVT não possui marchas fixas: ela varia a relação de forma contínua para manter o motor na faixa de melhor eficiência. Os paddle shifters permitem simular trocas manuais quando o motorista deseja mais controle em ultrapassagens ou descidas.
-
-## Capacidade de carga e uso prático
-
-Com 650 kg de capacidade na caçamba e espaço interno generoso para a categoria, a Rampage Rebel T270 atende usos mistos, desde a cidade até viagens com carga leve. O reboque de até 900 kg com engate homologado permite puxar pequenos trailers, jet skis e motos.
+O motor é flex — diferencial importante no Brasil em relação a picapes diesel, com manutenção mais acessível e independência em postos de combustível.
