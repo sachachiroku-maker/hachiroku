@@ -52,7 +52,7 @@ const jsonld = {
   ],
 };
 ---
-<BaseLayout title={`${entidade.titulo} | Hachiroku`} description={entidade.resumo} canonical={url} type="article">
+<BaseLayout title={`${entidade.titulo} | Hachiroku`} description={entidade.resumo} canonical={url} type="article" pubDate={new Date(_datePublished)} updatedDate={new Date(_dateModified)} author="Redação Hachiroku">
   <script type="application/ld+json" set:html={JSON.stringify(jsonld)} />
   <article class="prose">
     <nav class="breadcrumb" aria-label="Você está em"><a href="/">Início</a> · <span>{entidade.nome}</span></nav>

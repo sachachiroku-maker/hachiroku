@@ -24,7 +24,7 @@ const breadcrumb = [
 ];
 const fmt = (d) => d.toLocaleDateString('pt-BR');
 ---
-<BaseLayout title={`${data.seoTitle ?? data.title} | Hachiroku`} description={data.description} canonical={url} type="article" image={fotoPorId(entry.id)}>
+<BaseLayout title={`${data.seoTitle ?? data.title} | Hachiroku`} description={data.description} canonical={url} type="article" image={fotoPorId(entry.id)} pubDate={data.pubDate} updatedDate={data.updatedDate} author={data.autor.nome}>
   <SchemaGuia data={data} url={url} breadcrumb={breadcrumb} />
 
   <article class="prose">

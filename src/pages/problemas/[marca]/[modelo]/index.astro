@@ -88,6 +88,8 @@ const jsonld = {
   description={`Defeitos crônicos e diagnósticos do ${nomeMarca} ${nomeModelo} por sintoma, com causas, custo e prevenção. Soluções automotivas de precisão.`}
   canonical={url}
   type="article"
+  pubDate={_modeloDatePublished ? new Date(_modeloDatePublished) : undefined}
+  author="Redação Hachiroku"
 >
   <script type="application/ld+json" set:html={JSON.stringify(jsonld)} />
   <article class="prose">

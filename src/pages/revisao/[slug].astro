@@ -69,7 +69,7 @@ if (faq.length > 0) {
   });
 }
 ---
-<BaseLayout {title} {description} canonical={url}>
+<BaseLayout {title} {description} canonical={url} type="article" pubDate={pubDate} updatedDate={updatedDate} author={autor.nome}>
   <script type="application/ld+json" set:html={JSON.stringify({ '@context': 'https://schema.org', '@graph': jsonld })} />
   <article class="prose">
     <nav class="breadcrumb" aria-label="Você está em">
