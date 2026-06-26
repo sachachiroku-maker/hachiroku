@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Como limpar bicos injetores: químico vs ultrassônico (e"
 description: "Como limpar bicos injetores custa entre R$ 30 e R$ 250 dependendo do método. Entenda química vs ultrassônica, sintomas e periodicidade certa."
 kicker: "HOW-TO · INJEÇÃO ELETRÔNICA"
@@ -59,7 +59,7 @@ relacionados:
 draft: false
 ---
 
-# Como limpar bicos injetores: químico vs ultrassônico (e quando cada um vale)
+## Como limpar bicos injetores: químico vs ultrassônico (e quando cada um vale)
 
 <strong>Injetor sujo é responsável por até 18% de aumento no consumo de combustível e aparece entre as cinco principais causas de falha de ignição em carros flex brasileiros, segundo dados coletados por redes de oficinas em 2025. O problema é que a maioria dos motoristas não sabe distinguir quando um frasco de aditivo de R$ 30 resolve e quando a única saída é desmontar e lavar em ultrassom por R$ 200. Este guia corta essa confusão de uma vez.</strong>
 

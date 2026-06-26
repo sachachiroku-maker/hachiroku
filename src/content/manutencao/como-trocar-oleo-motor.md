@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Como trocar óleo do motor você mesmo"
 description: "Como trocar óleo do motor você mesmo em menos de 45 minutos. Ferramentas, passo a passo, quantidade certa por motor e quando não vale a pena fazer sozinho."
 kicker: "HOW-TO · MÃO NA MASSA"
@@ -76,7 +76,7 @@ relacionados:
 draft: false
 ---
 
-# Como trocar óleo do motor você mesmo: guia completo passo a passo
+## Como trocar óleo do motor você mesmo: guia completo passo a passo
 
 <strong>Trocar o óleo do motor você mesmo custa entre R$ 80 e R$ 220 e leva menos de 1 hora. Oficinas cobram de R$ 60 a R$ 150 só pela mão de obra. Com as ferramentas certas e o procedimento correto, qualquer motorista consegue fazer em casa com segurança. Este guia mostra cada etapa, as ferramentas indispensáveis, a quantidade certa de óleo por tipo de motor e os casos em que vale mais a pena pagar uma oficina.</strong>
 

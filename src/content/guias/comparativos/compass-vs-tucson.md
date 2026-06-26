@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Jeep Compass vs Hyundai Tucson"
 description: "Compass ou Tucson? Compare motor, câmbio, interior, defeitos e custo-benefício para decidir o melhor SUV médio de 2025. (158 chars)"
 marca: "Comparativo"
@@ -59,7 +59,7 @@ relacionados:
 draft: false
 ---
 
-# Jeep Compass vs Hyundai Tucson: qual SUV médio premium vale mais em 2025?
+## Jeep Compass vs Hyundai Tucson: qual SUV médio premium vale mais em 2025?
 
 Dois SUVs médios, duas filosofias diferentes e um comprador que precisa de uma resposta clara.
 

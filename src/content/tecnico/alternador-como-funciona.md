@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Alternador como funciona: guia completo do sistema de carga"
 description: "Entenda como o alternador converte energia mecânica em elétrica, qual a tensão ideal de funcionamento, como testar com multímetro e quando substituir."
 kicker: "TÉCNICO · APROFUNDADO"
@@ -37,7 +37,7 @@ relacionados:
 draft: false
 ---
 
-# Alternador como funciona: guia completo do sistema de carga elétrica do carro
+## Alternador como funciona: guia completo do sistema de carga elétrica do carro
 
 <strong>O alternador é responsável por gerar até 100% da energia elétrica consumida pelo veículo com o motor ligado, e um defeito nele descarrega a bateria em menos de 30 minutos em condições normais de uso. Neste guia, você vai entender o princípio de funcionamento, os componentes internos, como testar com multímetro em casa e quando o componente precisa ser substituído.</strong>
 

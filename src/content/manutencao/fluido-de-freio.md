@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Fluido de freio carro: DOT 3, DOT 4 e DOT 5.1 — qual usar e"
 description: "Fluido de freio carro: saiba a diferença entre DOT 3, DOT 4 e DOT 5.1, por que o fluido absorve umidade e quando trocar para não perder a frenagem."
 kicker: "SEGURANÇA · FREIOS"
@@ -65,7 +65,7 @@ relacionados:
 draft: false
 ---
 
-# Fluido de freio carro: DOT 3, DOT 4 e DOT 5.1 - qual usar e quando trocar
+## Fluido de freio carro: DOT 3, DOT 4 e DOT 5.1 - qual usar e quando trocar
 
 <strong>O fluido de freio carro é o único item de segurança ativa que a maioria dos motoristas brasileiros ignora por completo: pesquisas do setor automotivo indicam que mais de 60% dos veículos em circulação no Brasil rodam com fluido fora do prazo de validade. Um fluido degradado pode reduzir em até 30% a eficiência do sistema de frenagem - diferença que, a 80 km/h, representa vários metros extras de distância de parada.</strong>
 

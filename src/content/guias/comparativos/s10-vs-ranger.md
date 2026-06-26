@@ -1,4 +1,4 @@
-﻿---
+---
 title: "S10 vs Ranger 2023: Qual Picape de Trabalho Pesado Vale"
 description: "Chevrolet S10 e Ford Ranger frente a frente. Motor, tração, tecnologia, manutenção e custo-benefício para quem trabalha no campo e na cidade."
 marca: "Comparativo"
@@ -59,7 +59,7 @@ relacionados:
 draft: false
 ---
 
-# S10 vs Ranger 2023: Qual Picape de Trabalho Pesado Vale Mais?
+## S10 vs Ranger 2023: Qual Picape de Trabalho Pesado Vale Mais?
 
 Chevrolet S10 e Ford Ranger são as duas picapes mais vendidas para trabalho pesado no Brasil. Quando o comprador chega nessa decisão, o orçamento costuma ser parecido, o uso também, e a dúvida fica travada entre a tradição da GM e a tecnologia da Ford.
 

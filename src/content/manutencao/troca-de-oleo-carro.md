@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Troca de óleo carro: guia completo do zero para quem nunca"
 description: "Troca de óleo carro: entenda qual óleo comprar, a viscosidade certa (5W-30, 5W-40, 0W-20), onde trocar e quanto custa. Erros que destroem o motor revelados."
 kicker: "MANUTENÇÃO · GUIA LEIGO"
@@ -64,7 +64,7 @@ relacionados:
 draft: false
 ---
 
-# Troca de óleo carro: guia completo do zero para quem nunca trocou na vida
+## Troca de óleo carro: guia completo do zero para quem nunca trocou na vida
 
 <strong>Mais de 60% dos motoristas brasileiros não sabe qual tipo de óleo o próprio carro usa. Essa ignorância custa caro: um motor gripado por falta de manutenção pode gerar contas de R$ 8.000 a R$ 25.000 em retífica. A troca de óleo carro é a manutenção mais simples e mais ignorada do automóvel, e este guia vai te mostrar exatamente o que você precisa saber para nunca errar de novo.</strong>
 

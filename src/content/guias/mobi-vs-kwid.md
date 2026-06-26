@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Fiat Mobi vs Renault Kwid: Qual é o Melhor Carro de Entrada"
 description: "Fiat Mobi vs Renault Kwid: comparamos motor, consumo, manutenção, segurança e preço. Descubra qual custa menos para manter em 2026."
 kicker: "GUIA DE COMPRA · DECISÃO"
@@ -69,7 +69,7 @@ relacionados:
 draft: false
 ---
 
-# Fiat Mobi vs Renault Kwid: Qual é o Melhor Carro de Entrada em 2026?
+## Fiat Mobi vs Renault Kwid: Qual é o Melhor Carro de Entrada em 2026?
 
 <strong>Fiat Mobi e Renault Kwid disputam o título de carro mais barato do Brasil há quase uma década. Em 2026, os dois custam entre R$ 72.000 e R$ 89.000 zero quilômetro — mas o custo real não está na etiqueta da concessionária. Está nas revisões, nas peças e nos defeitos que aparecem depois dos 50.000 km. Este guia compara motor, consumo, espaço, segurança e histórico de problemas para te dizer qual dos dois vai pesar menos no seu bolso a longo prazo.</strong>
 

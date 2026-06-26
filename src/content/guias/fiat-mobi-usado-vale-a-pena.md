@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Fiat Mobi Usado Vale a Pena? Guia Completo 2026"
 description: "Fiat Mobi usado vale a pena? Motor FireFly 1.0 flex, manutenção barata e peças fáceis. Veja problemas conhecidos, comparativo com Kwid e veredito final."
 kicker: "GUIA DE COMPRA · DECISÃO"
@@ -65,7 +65,7 @@ relacionados:
 draft: false
 ---
 
-# Fiat Mobi Usado Vale a Pena? Motor FireFly, Defeitos e Comparativo com o Kwid
+## Fiat Mobi Usado Vale a Pena? Motor FireFly, Defeitos e Comparativo com o Kwid
 
 <strong>O Fiat Mobi usado vale a pena para quem busca o menor custo de propriedade entre os populares brasileiros. Com motor FireFly 1.0 flex, revisões abaixo de R$ 700 e peças disponíveis em quase toda oficina do país, ele é uma escolha sólida para uso urbano. Os pontos de atenção são três: ar-condicionado com desempenho limitado em dias quentes, ruído da corrente de comando em motores com manutenção negligenciada e estalos na suspensão dianteira acima de 60.000 km. Comprando com inspeção prévia e histórico limpo, o Mobi entrega confiabilidade acima da média do segmento.</strong>
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Fiat Cronos vs Volkswagen Virtus"
 description: "Fiat Cronos vs Volkswagen Virtus: comparamos motor, consumo, porta-malas (500L x 521L), manutenção e revenda. Veja qual sedã vale mais no Brasil em 2026."
 kicker: "GUIA DE COMPRA · COMPARATIVO"
@@ -68,7 +68,7 @@ relacionados:
 draft: false
 ---
 
-# Fiat Cronos vs Volkswagen Virtus: Qual o Melhor Sedã Compacto em 2026?
+## Fiat Cronos vs Volkswagen Virtus: Qual o Melhor Sedã Compacto em 2026?
 
 O segmento de sedãs compactos movimenta mais de 180 mil unidades por ano no Brasil, e a disputa entre o Fiat Cronos e o Volkswagen Virtus concentra a maior fatia desse mercado. São dois projetos construídos para o comprador brasileiro que quer mais porta-malas que um hatch, prestígio de sedã e conta de manutenção controlada. Mas as semelhanças param por aí.
 

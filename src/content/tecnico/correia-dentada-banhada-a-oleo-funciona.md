@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Correia Dentada Banhada a Óleo"
 description: "Entenda como funciona a correia dentada banhada a óleo (wet belt) do Ford Ka EcoBoost Dragon e VW EA211, intervalo de troca obrigatório, riscos e custo de manutenção preventiva."
 kicker: "TÉCNICO · APROFUNDADO"
@@ -34,7 +34,7 @@ relacionados:
 draft: false
 ---
 
-# Correia Dentada Banhada a Óleo: Como Funciona, Quando Trocar e Por Que Ignorar Pode Destruir o Motor
+## Correia Dentada Banhada a Óleo: Como Funciona, Quando Trocar e Por Que Ignorar Pode Destruir o Motor
 
 <strong>A correia dentada banhada a óleo, chamada de wet belt no jargão técnico, já equipou mais de 1 milhão de veículos no Brasil nos últimos anos. Presente no Ford Ka com motor EcoBoost Dragon e em modelos Volkswagen com o bloco EA211, ela tem intervalo de troca obrigatório de 150.000 km ou 10 anos, e não emite nenhum aviso antes de arrebentar.</strong>
 

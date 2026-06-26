@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Como Recarregar Carro Elétrico no Brasil em 2026"
 description: "Aprenda como recarregar carro elétrico no Brasil em 2026: tipos de tomada AC Tipo 2, DC CCS2 e CHAdeMO, wallbox em casa, rede de postos e custo por kWh."
 entidade:
@@ -42,7 +42,7 @@ relacionados:
 draft: false
 ---
 
-# Como Recarregar Carro Elétrico no Brasil em 2026: Tipos de Tomada, Rede de Postos e Custo Real
+## Como Recarregar Carro Elétrico no Brasil em 2026: Tipos de Tomada, Rede de Postos e Custo Real
 
 <strong>O Brasil ultrapassou 200 mil veículos elétricos e híbridos plug-in em circulação em 2025, segundo a ABVE, e a rede de recarga cresceu mais de 60% no mesmo período. Saber como recarregar carro elétrico no Brasil deixou de ser uma dúvida de nicho e virou necessidade prática para quem já comprou ou está prestes a comprar um EV. Este guia explica os tipos de conector disponíveis no país, os custos de instalar wallbox em casa, os principais postos de recarga por rede, o tempo de carregamento por tipo de conector e o custo em R$ por kWh na tomada residencial e nos eletropostos.</strong>
 

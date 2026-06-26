@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Motor 1.0 turbo: durabilidade real, pontos de falha e"
 description: "EA211 TSI, FireFly Turbo, T270 1.3 e GDI da Hyundai/Kia: vida útil real, pontos de falha conhecidos, custos de revisão e a verdade sobre o mito do motor pequeno turbo ser frágil."
 kicker: "TÉCNICO · APROFUNDADO"
@@ -38,7 +38,7 @@ relacionados:
 draft: false
 ---
 
-# Motor 1.0 turbo: durabilidade real, pontos de falha e quanto dura com manutenção em dia
+## Motor 1.0 turbo: durabilidade real, pontos de falha e quanto dura com manutenção em dia
 
 <strong>Mais de 60% dos hatchbacks e sedans vendidos no Brasil em 2025 saíram de fábrica com motor 1.0 turbo. EA211 TSI, FireFly Turbo, T270 1.3 e GDI Hyundai/Kia dominam o mercado, mas ainda carregam o estigma de "motores frágeis". A realidade, comprovada em bancadas e laudos de revisão, é bem diferente: com manutenção em dia, esses motores cruzam 200.000 km sem retífica.</strong>
 

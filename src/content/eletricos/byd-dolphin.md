@@ -1,4 +1,4 @@
-﻿---
+---
 title: "BYD Dolphin autonomia real no Brasil"
 description: "BYD Dolphin autonomia real testada em SP: consumo em km/kWh, custo de recarga em casa vs CCS2, problemas relatados por donos e comparação com Chevrolet Bolt EV."
 entidade:
@@ -37,7 +37,7 @@ relacionados:
 draft: false
 ---
 
-# BYD Dolphin autonomia real no Brasil: 300 km em São Paulo no mundo real
+## BYD Dolphin autonomia real no Brasil: 300 km em São Paulo no mundo real
 
 <strong>O BYD Dolphin entregou entre 290 km e 330 km de autonomia real em testes urbanos realizados em São Paulo, ficando 20% a 25% abaixo da autonomia declarada de 400 km (ciclo NEDC). Com motor de 150 cv, bateria de 44,9 kWh e suporte a carregamento CCS2 de até 60 kW, o Dolphin é um dos compactos elétricos mais vendidos do Brasil em 2025. Neste artigo você encontra consumo real em km/kWh, cálculo do custo de recarga em casa e em posto público, problemas relatados por donos brasileiros e comparação direta com o Chevrolet Bolt EV.</strong>
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Higienização do Ar-Condicionado Automotivo"
 description: "Higienização do ar-condicionado automotivo custa entre R$ 80 e R$ 200 em oficina. Veja diferença para manutenção, como fazer em casa e quando agir."
 kicker: "HOW-TO · MÃO NA MASSA"
@@ -68,7 +68,7 @@ relacionados:
 draft: false
 ---
 
-# Higienização do Ar-Condicionado Automotivo: Guia Completo com Custo e Passo a Passo
+## Higienização do Ar-Condicionado Automotivo: Guia Completo com Custo e Passo a Passo
 
 <strong>Mais de 60% dos veículos com mais de dois anos de uso apresentam fungos e bactérias no evaporador do ar-condicionado, segundo dados de laboratórios de microbiologia automotiva. O resultado prático é o cheiro característico de mofo que aparece nos primeiros segundos após ligar o sistema. A boa notícia: a higienização completa custa entre R$ 80 e R$ 200 em oficina, leva menos de uma hora e resolve o problema em 90% dos casos.</strong>
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Volkswagen Virtus Usado Vale a Pena? Guia Completo 2026"
 description: "Volkswagen Virtus usado vale a pena? Motor TSI 1.0 com média de 14 km/l, mas consome óleo. Veja problemas reais, custo de manutenção e comparação com Cronos e Onix Plus."
 kicker: "GUIA DE COMPRA · DECISÃO"
@@ -69,7 +69,7 @@ relacionados:
 draft: false
 ---
 
-# Volkswagen Virtus Usado Vale a Pena? Motor TSI, Câmbio e os Problemas que Ninguém Conta
+## Volkswagen Virtus Usado Vale a Pena? Motor TSI, Câmbio e os Problemas que Ninguém Conta
 
 O Virtus é o sedã compacto mais vendido do Brasil desde 2019, com mais de 380.000 unidades emplacadas até 2025. No mercado de usados, os preços da versão automática variam entre R$ 79.000 e R$ 115.000 dependendo do ano e quilometragem. Mas antes de assinar o contrato, você precisa saber que o motor EA211 TSI 1.0 turbo e o câmbio Aisin escondem três problemas crônicos que podem transformar uma boa compra em dor de cabeça.
 

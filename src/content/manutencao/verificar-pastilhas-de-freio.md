@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Como verificar pastilhas de freio sem desmontagem"
 description: "Como verificar pastilhas de freio em 3 testes simples: inspeção visual pela roda, teste de rangido e vibração. Espessura mínima de 3mm. Saiba quando ir à oficina."
 kicker: "HOW-TO · MÃO NA MASSA"
@@ -70,7 +70,7 @@ relacionados:
 draft: false
 ---
 
-# Como verificar pastilhas de freio sem desmontagem: guia completo de inspeção
+## Como verificar pastilhas de freio sem desmontagem: guia completo de inspeção
 
 <strong>Pastilhas de freio com menos de 3mm de espessura no material de fricção aumentam a distância de frenagem em até 40% e colocam vidas em risco. A boa notícia é que você consegue inspecionar as quatro rodas em menos de 15 minutos, sem tirar um parafuso, usando apenas uma lanterna. Este guia cobre três métodos de inspeção, os sinais que exigem visita urgente à oficina e como diferenciar pastilha desgastada de disco empenado.</strong>
 

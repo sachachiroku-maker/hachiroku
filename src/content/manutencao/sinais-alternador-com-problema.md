@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Sinais alternador com problema"
 description: "Sinais alternador com problema incluem bateria que morre em menos de 3 anos e faróis piscando. Aprenda o teste de tensão que revela o diagnóstico em 2 minutos."
 kicker: "DIAGNÓSTICO · MÃO NA MASSA"
@@ -55,7 +55,7 @@ relacionados:
 draft: false
 ---
 
-# Sinais alternador com problema: 5 sintomas que todo motorista precisa reconhecer
+## Sinais alternador com problema: 5 sintomas que todo motorista precisa reconhecer
 
 <strong>Cerca de 40% das panes elétricas em rodovias têm origem no alternador ou no sistema de carga, segundo dados do setor de assistência veicular. O problema é que a maioria dos motoristas só descobre a falha quando o carro para no meio da estrada, porque os sinais que aparecem antes disso são sutis e fáceis de ignorar. Este guia mostra os 5 sintomas de alternador com problema que surgem dias ou semanas antes da pane total, mais o teste de tensão que você pode fazer em casa com um multímetro de R$ 40.</strong>
 

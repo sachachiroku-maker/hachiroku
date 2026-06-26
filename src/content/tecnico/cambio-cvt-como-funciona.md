@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Câmbio CVT: como funciona, falhas comuns e custo de revisão"
 description: "Entenda como funciona o câmbio CVT, a diferença entre CVT metálico e de corrente, o rubber band effect, comparação com o automático convencional, fluido específico e quais carros usam CVT no Brasil."
 kicker: "TÉCNICO · APROFUNDADO"
@@ -37,7 +37,7 @@ relacionados:
 draft: false
 ---
 
-# Câmbio CVT: como funciona, os pontos de falha e quanto custa manter
+## Câmbio CVT: como funciona, os pontos de falha e quanto custa manter
 
 <strong>O câmbio CVT (Continuously Variable Transmission) opera com polias de diâmetro variável ligadas por uma correia ou corrente metálica, eliminando os degraus fixos de marcha e permitindo ao motor trabalhar sempre na faixa de rotação mais eficiente. Mais de 40% dos carros automáticos vendidos no Brasil em 2025 já saem de fábrica com algum tipo de CVT ou transmissão continuamente variável, segundo dados de montadoras compilados por pesquisas do setor automotivo brasileiro. Apesar da popularidade crescente, o CVT ainda gera dúvidas sobre manutenção, fluido correto e aquele incômodo elástico nas acelerações.</strong>
 

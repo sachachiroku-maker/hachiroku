@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Verificar nível de óleo do motor"
 description: "Verificar nível de óleo do motor leva menos de 5 minutos e evita avarias que custam R$ 3.000 ou mais. Veja onde fica a vareta, o que as cores significam e qual óleo comprar."
 kicker: "HOW-TO · MÃO NA MASSA"
@@ -66,7 +66,7 @@ relacionados:
 draft: false
 ---
 
-# Verificar nível de óleo do motor: guia visual passo a passo para quem nunca abriu o capô
+## Verificar nível de óleo do motor: guia visual passo a passo para quem nunca abriu o capô
 
 <strong>Mais de 40% dos motoristas brasileiros nunca verificaram o nível de óleo do próprio carro. Uma verificação de 5 minutos, feita uma vez por mês, é suficiente para evitar avarias que custam entre R$ 3.000 e R$ 15.000 na retífica ou na troca do motor.</strong>
 

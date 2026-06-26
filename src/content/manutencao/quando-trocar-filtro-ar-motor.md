@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Quando trocar filtro de ar motor"
 description: "Quando trocar filtro de ar motor: intervalo de 15.000 a 20.000 km, inspeção visual em 30 segundos e consequências de até 10% de perda de potência."
 kicker: "HOW-TO · MAO NA MASSA"
@@ -62,7 +62,7 @@ relacionados:
 draft: false
 ---
 
-# Quando trocar filtro de ar motor: guia completo com intervalo, inspeção e marcas
+## Quando trocar filtro de ar motor: guia completo com intervalo, inspeção e marcas
 
 <strong>Trocar o filtro de ar do motor a cada 15.000 km custa, em média, R$ 40. Nao trocar pode custar ate R$ 800 em combustivel desperdicado por ano, alem de uma perda silenciosa de 10% na potencia do seu carro. O problema e que a maioria dos motoristas so descobre que o filtro estava sujo quando ja causou dano ao bolso.</strong>
 

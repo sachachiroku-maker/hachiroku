@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Mitsubishi Eclipse Cross Usado: Vale a Pena Comprar em 2026?"
 description: "Mitsubishi Eclipse Cross usado vale a pena? Motor MIVEC turbo 1.5, AWD e acabamento premium — mas CVT com vibração e manutenção salgada pedem atenção."
 kicker: "GUIA DE COMPRA · DECISÃO"
@@ -69,7 +69,7 @@ relacionados:
 draft: false
 ---
 
-# Mitsubishi Eclipse Cross Usado: Vale a Pena Comprar em 2026?
+## Mitsubishi Eclipse Cross Usado: Vale a Pena Comprar em 2026?
 
 <strong>O Eclipse Cross usado custa entre R$ 110.000 e R$ 155.000 em 2026 e entrega design arrojado, tração AWD de verdade e acabamento acima da média do segmento. O problema está no câmbio CVT com histórico de vibração após 50.000 km sem manutenção, no consumo que fica entre 8 e 10 km/l na cidade e num custo de manutenção que supera o Jeep Compass e o Hyundai Tucson. Se o histórico de revisões estiver em dia e o câmbio passar na prova de aceleração brusca, é um bom negócio. Se o CVT apresentar qualquer soluço, negocie com desconto ou passe para o próximo.</strong>
 

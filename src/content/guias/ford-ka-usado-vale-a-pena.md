@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Ford Ka Usado Vale a Pena em 2026? Motor 1.0 e 1.5"
 description: "Ford Ka usado vale a pena em 2026? Analisamos motor 1.0 e 1.5, correia dentada banhada em óleo, câmbio PowerShift e custo real de manutenção. Saiba antes de comprar."
 kicker: "GUIA DE COMPRA · DECISÃO"
@@ -74,7 +74,7 @@ relacionados:
 draft: false
 ---
 
-# Ford Ka Usado Vale a Pena em 2026? Motor 1.0 e 1.5 Analisados
+## Ford Ka Usado Vale a Pena em 2026? Motor 1.0 e 1.5 Analisados
 
 <strong>O Ford Ka usado é um dos compactos mais baratos do mercado em 2026, com unidades a partir de R$ 32 mil, mas esconde dois defeitos crônicos que podem transformar a economia inicial em prejuízo: a correia dentada banhada em óleo, capaz de romper sem nenhum aviso e destruir o motor, e o câmbio PowerShift que falha com frequência nas versões automatizadas. Nos modelos 1.0 Sigma manuais com histórico de manutenção comprovado, o Ka continua sendo uma compra razoável para quem quer mobilidade urbana barata. Nas versões automáticas, o risco financeiro raramente compensa.</strong>
 

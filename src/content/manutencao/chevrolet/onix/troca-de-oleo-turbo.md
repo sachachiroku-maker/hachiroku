@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Troca de óleo Onix Turbo: especificação 0W-20, intervalo e"
 description: "Troca de óleo Onix Turbo exige 0W-20 Full Sintético e 4,2 litros exatos. Veja intervalos, filtros e preços em SP, BH e todo o Brasil."
 kicker: "HOW-TO · MÃO NA MASSA"
@@ -74,7 +74,7 @@ relacionados:
 draft: false
 ---
 
-# Troca de óleo Onix Turbo: especificação 0W-20, intervalo e custos em 2026
+## Troca de óleo Onix Turbo: especificação 0W-20, intervalo e custos em 2026
 
 <strong>A troca de óleo do Onix Turbo exige 0W-20 Full Sintético, 4,2 litros exatos e filtro trocado a cada 10.000 km. Usar 5W-30 ou qualquer outro grau nesse motor não é apenas um erro: é a causa numero um de danos prematuros ao CSS Prime, motor que move mais de 60% dos Onix emplacados no Brasil desde 2020.</strong>
 

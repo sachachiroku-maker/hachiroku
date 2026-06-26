@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Revisão Hyundai HB20: tabela completa por km, custos e"
 description: "Tabela de revisão do Hyundai HB20 (2019-2026) com intervalos de 10k a 80k km, itens por quilometragem, custo médio na concessionária Caoa Hyundai versus oficina independente, e alertas sobre câmbio CVT, superaquecimento e embreagem automática."
 kicker: "REVISÃO · TABELA KM"
@@ -59,7 +59,7 @@ relacionados:
 draft: false
 ---
 
-# Revisão Hyundai HB20: tabela completa por km, custos e alertas (2019-2026)
+## Revisão Hyundai HB20: tabela completa por km, custos e alertas (2019-2026)
 
 <strong>A revisão do Hyundai HB20 custa entre R$ 380 e R$ 620 na rede Caoa Hyundai e entre R$ 200 e R$ 380 em oficinas independentes credenciadas, dependendo do intervalo e da versão (turbo ou aspirado). Com mais de 1,5 milhão de unidades vendidas no Brasil desde o lançamento, o HB20 é um dos hatches mais populares do país e tem manual de manutenção bem documentado pela Hyundai.</strong>
 

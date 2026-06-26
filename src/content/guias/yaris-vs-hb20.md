@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Yaris vs HB20: Qual Comprar em 2026? Comparação Técnica"
 description: "Yaris vs HB20: compare motor, consumo real, custo de manutenção e confiabilidade dos dois sedans mais vendidos do Brasil em 2026. Veredito definitivo."
 kicker: "GUIA DE COMPRA · DECISÃO"
@@ -63,7 +63,7 @@ relacionados:
 draft: false
 ---
 
-# Yaris vs HB20: Qual Comprar em 2026? Comparação Técnica Completa
+## Yaris vs HB20: Qual Comprar em 2026? Comparação Técnica Completa
 
 Em 2026, Toyota Yaris e Hyundai HB20 disputam o mesmo bolso: juntos, os dois modelos acumulam mais de 2,4 milhões de unidades emplacadas no Brasil desde seus lançamentos, e continuam entre os cinco sedans e hatches mais buscados nas principais plataformas de usados do país. A escolha entre eles separa compradores há anos, e as dúvidas são sempre as mesmas: qual aguenta mais? Qual custa menos para manter? Qual perde menos valor? Este guia responde tudo com dados de mecânicos e índices reais de mercado.
 

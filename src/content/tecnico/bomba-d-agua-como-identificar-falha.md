@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Bomba d'água falhando: sinais, vida útil e custo de troca"
 description: "Saiba identificar os 5 sinais de bomba d'água falhando, a vida útil média de 100.000 a 160.000 km, a diferença entre bomba mecânica e elétrica e quanto custa a troca no Brasil."
 kicker: "TÉCNICO · APROFUNDADO"
@@ -36,7 +36,7 @@ relacionados:
 draft: false
 ---
 
-# Bomba d'água falhando: 5 sinais, vida útil e quanto custa a troca
+## Bomba d'água falhando: 5 sinais, vida útil e quanto custa a troca
 
 <strong>A bomba d'água é responsável por circular o líquido de arrefecimento pelo motor, e quando ela falha o motor pode superar 120 °C em menos de 10 minutos de rodagem. Identificar os sinais de bomba d'água falhando cedo evita desde uma simples parada na beira da estrada até a destruição completa do motor por superaquecimento. Neste guia você vai ver quais são esses sinais, qual a vida útil real do componente, a diferença entre bomba mecânica e elétrica e o custo de troca para os principais modelos vendidos no Brasil.</strong>
 

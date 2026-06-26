@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Custo manutenção carro elétrico vs flex"
 description: "Custo de manutenção de carro elétrico vs flex no Brasil calculado em reais por km para quem roda 1500 km/mês. Bateria, pastilhas, óleo e correia: o que você vai pagar de verdade."
 entidade:
@@ -40,7 +40,7 @@ relacionados:
 draft: false
 ---
 
-# Custo manutenção carro elétrico vs flex: comparação real em R$/km para quem roda 1500 km/mês
+## Custo manutenção carro elétrico vs flex: comparação real em R$/km para quem roda 1500 km/mês
 
 <strong>Quem roda 1500 km por mês gasta, em média, entre R$ 0,08 e R$ 0,14 por km em manutenção com um carro elétrico, contra R$ 0,18 a R$ 0,28 por km com um flex popular. A diferença parece pequena no papel, mas ao longo de 5 anos representa uma economia de R$ 6.000 a R$ 12.000, desde que a bateria de alta tensão permaneça dentro da garantia do fabricante. Quando ela sai da garantia, o jogo muda completamente.</strong>
 

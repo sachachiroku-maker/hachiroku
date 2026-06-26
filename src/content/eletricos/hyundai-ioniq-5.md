@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Hyundai Ioniq 5 Brasil: autonomia, recarga 800V e custo real"
 description: "Hyundai Ioniq 5 no Brasil: autonomia WLTP vs real, recarga 800V (10-80% em 18 min), custo de manutenção sem óleo e comparação com BYD Seal. Guia completo 2025."
 entidade:
@@ -37,7 +37,7 @@ relacionados:
 draft: false
 ---
 
-# Hyundai Ioniq 5 Brasil: autonomia real, recarga 800V e tudo que o vendedor não te conta
+## Hyundai Ioniq 5 Brasil: autonomia real, recarga 800V e tudo que o vendedor não te conta
 
 <strong>O Hyundai Ioniq 5 foi o elétrico premium mais vendido no Brasil em 2025, com mais de 3.200 unidades emplacadas no ano. A arquitetura 800V permite recarga de 10% a 80% em aproximadamente 18 minutos, a autonomia WLTP chega a 481 km e o custo de manutenção cai até 60% em relação a um sedã de combustão equivalente. Este artigo cobre cada um desses pontos com os números reais, os problemas relatados e a comparação direta com o BYD Seal.</strong>
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Renault Duster Usado Vale a Pena? Guia Completo 2026"
 description: "Renault Duster usado vale a pena em 2026? Comparamos gerações, motor TCe 1.3 turbo e 1.6 NA, defeitos crônicos e custo de manutenção antes de você comprar."
 kicker: "GUIA DE COMPRA · DECISÃO"
@@ -66,7 +66,7 @@ relacionados:
 draft: false
 ---
 
-# Renault Duster Usado Vale a Pena? Guia Completo 2026
+## Renault Duster Usado Vale a Pena? Guia Completo 2026
 
 O Renault Duster é o SUV compacto mais vendido na faixa de R$ 60.000 a R$ 90.000 no mercado de usados brasileiro, com mais de 420.000 unidades emplacadas desde 2012, segundo dados da Fenabrave. Mas vale a pena comprar um Duster usado em 2026? A resposta depende de qual motor, qual geração e o que está no histórico do veículo.
 

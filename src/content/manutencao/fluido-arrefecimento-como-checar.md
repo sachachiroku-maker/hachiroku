@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Como Checar o Fluido de Arrefecimento do Radiador em 5"
 description: "Como checar fluido de arrefecimento: veja nível, cor e intervalo de troca (40.000 km). Ignorar esse check causa superaquecimento e junta de cabeçote estourada."
 kicker: "HOW-TO · MÃO NA MASSA"
@@ -65,7 +65,7 @@ relacionados:
 draft: false
 ---
 
-# Como Checar o Fluido de Arrefecimento do Radiador em 5 Minutos
+## Como Checar o Fluido de Arrefecimento do Radiador em 5 Minutos
 
 <strong>Checar o fluido de arrefecimento leva menos de 5 minutos e evita o conserto mais caro da mecânica automotiva: uma junta de cabeçote estourada, cujo reparo custa entre R$ 2.500 e R$ 6.000 em média. A maioria dos motoristas nunca abre o capô para essa inspeção. O resultado aparece nas estatísticas: superaquecimento é uma das três principais causas de motor destruído no Brasil.</strong>
 

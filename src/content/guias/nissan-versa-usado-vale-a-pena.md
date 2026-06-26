@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Nissan Versa Usado Vale a Pena? Motor 1.0 e 1.6 + CVT em"
 description: "Nissan Versa usado vale a pena? Porta-malas de 510 litros, CVT com solavanco e evaporador com cheiro. Veja problemas reais antes de comprar."
 kicker: "GUIA DE COMPRA · DECISÃO"
@@ -71,7 +71,7 @@ relacionados:
 draft: false
 ---
 
-# Nissan Versa Usado Vale a Pena? Motor 1.0 e 1.6 + CVT em 2026
+## Nissan Versa Usado Vale a Pena? Motor 1.0 e 1.6 + CVT em 2026
 
 <strong>O Nissan Versa usado vale a pena para quem quer o maior porta-malas da categoria (510 litros), acabamento acima da média e consumo competitivo. O problema está no câmbio CVT com histórico de solavanco e no evaporador do ar-condicionado que acumula fungo. Versões com câmbio manual e motor 1.6 Flex, fabricadas a partir de 2020 e com manutenção documentada, são as mais seguras. Fuja de exemplares com CVT sem histórico de troca de fluido.</strong>
 

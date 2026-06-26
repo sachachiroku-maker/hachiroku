@@ -53,7 +53,7 @@ const graph: any[] = [
     datePublished: data.pubDate.toISOString().slice(0, 10),
     dateModified: (data.updatedDate ?? data.pubDate).toISOString().slice(0, 10),
     inLanguage: 'pt-BR',
-    author: { '@id': `${site}/#organization` },
+    author: data.autor ? { '@type': 'Person', name: data.autor.nome, ...(data.autor.credencial ? { jobTitle: data.autor.credencial } : {}), ...(data.autor.sameAs ? { sameAs: data.autor.sameAs } : {}) } : { '@id': `${site}/#organization` },
     publisher: { '@id': `${site}/#organization` },
     isPartOf: { '@id': `${site}/#website` },
     mainEntityOfPage: { '@type': 'WebPage', '@id': url },

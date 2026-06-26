@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Honda HR-V vs Volkswagen T-Cross"
 description: "HR-V ou T-Cross? Comparamos motor, porta-malas, dirigibilidade e preço para você decidir com segurança. Veredicto técnico completo."
 marca: "Comparativo"
@@ -59,7 +59,7 @@ relacionados:
 draft: false
 ---
 
-# Honda HR-V vs Volkswagen T-Cross: qual SUV compacto vale mais o seu dinheiro em 2025?
+## Honda HR-V vs Volkswagen T-Cross: qual SUV compacto vale mais o seu dinheiro em 2025?
 
 O segmento de SUVs compactos é o mais disputado do Brasil. Entre os líderes de busca e de emplacamentos, dois nomes aparecem com frequência: o **Honda HR-V** e o **Volkswagen T-Cross**.
 

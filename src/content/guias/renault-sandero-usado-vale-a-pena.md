@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Renault Sandero Usado Vale a Pena? Guia Completo 2026"
 description: "Renault Sandero usado vale a pena em 2026? Motor SCe 1.0, problemas crônicos, custo médio e para quem indicamos. Leia antes de comprar."
 kicker: "GUIA DE COMPRA · DECISÃO"
@@ -66,7 +66,7 @@ relacionados:
 draft: false
 ---
 
-# Renault Sandero Usado Vale a Pena? Motor, Problemas e Veredito 2026
+## Renault Sandero Usado Vale a Pena? Motor, Problemas e Veredito 2026
 
 <strong>O Renault Sandero aparece hoje em plataformas de usados entre R$ 45.000 e R$ 80.000, dependendo do ano, versão e quilometragem. É um dos hatchbacks com maior espaço interno da categoria, câmbio manual reconhecidamente durável e custo de entrada competitivo. Mas há problemas sérios que eliminam parte das versões disponíveis no mercado: o motor SCe 1.0 tem histórico documentado de batida de válvula, o câmbio robotizado Easy R apresenta falhas frequentes no atuador, e a carroceria de unidades pós-2019 envelhece mais rápido do que o esperado para a faixa de preço. Este guia separa as versões que valem a compra das que devem ser evitadas.</strong>
 

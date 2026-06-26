@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Toyota Yaris Usado Vale a Pena Comprar em 2026?"
 description: "Toyota Yaris usado vale a pena? Guia completo com problemas do CVT, custo de manutenção, comparação com Honda Fit e VW Polo. Faixa de preço 2026 e checklist de compra."
 kicker: "GUIA DE COMPRA · DECISÃO"
@@ -66,7 +66,7 @@ relacionados:
 draft: false
 ---
 
-# Toyota Yaris Usado Vale a Pena Comprar em 2026?
+## Toyota Yaris Usado Vale a Pena Comprar em 2026?
 
 <strong>O Toyota Yaris usado é um dos compactos mais procurados no Brasil em 2026, com mais de 180 mil unidades vendidas desde sua chegada ao país em 2018. Confiabilidade Toyota, custo de manutenção abaixo da média do segmento e design que ainda não envelheceu fazem do Yaris uma escolha forte no mercado de usados. O ponto de atenção que nenhum vendedor vai te contar: o câmbio CVT exige manutenção rigorosa do fluido e apresenta comportamento anômalo quando esse histórico não existe. Este guia mostra exatamente o que verificar antes de assinar o contrato.</strong>
 

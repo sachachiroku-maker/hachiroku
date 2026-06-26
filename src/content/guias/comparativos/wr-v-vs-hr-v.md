@@ -1,4 +1,4 @@
-﻿---
+---
 title: "WR-V vs HR-V: qual Honda SUV vale mais?"
 description: "WR-V 1.5 Touring ou HR-V 1.5 Turbo EX? Comparamos motor, espaço, custo e equipamentos para você decidir com segurança entre os dois Honda."
 marca: "Comparativo"
@@ -86,7 +86,7 @@ relacionados:
 draft: false
 ---
 
-# WR-V vs HR-V: qual Honda SUV vale mais?
+## WR-V vs HR-V: qual Honda SUV vale mais?
 
 Dois SUVs, a mesma marca, filosofias diferentes. O **Honda WR-V 1.5 Touring** aposta em agilidade urbana, custo acessível e praticidade do dia a dia. O **Honda HR-V 1.5 Turbo EX** entrega mais potência, mais espaço e um posicionamento de SUV de médio porte dentro do portfólio Honda.
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Nissan Kicks Usado: Vale a Pena Comprar em 2026?"
 description: "Nissan Kicks usado vale a pena em 2026? Motor 1.6 flex, CVT e geração 2017-2023 analisados: defeitos crônicos, custo de manutenção e o que verificar."
 kicker: "GUIA DE COMPRA · DECISÃO"
@@ -66,7 +66,7 @@ relacionados:
 draft: false
 ---
 
-# Nissan Kicks Usado Vale a Pena Comprar em 2026?
+## Nissan Kicks Usado Vale a Pena Comprar em 2026?
 
 <strong>O Nissan Kicks usado é uma das escolhas mais procuradas no segmento de SUVs compactos no Brasil, com mais de 180.000 unidades vendidas entre 2017 e 2023. O motor 1.6 flex entrega consumo médio de 12,5 km/l na cidade e até 15,8 km/l na estrada, o que o coloca entre os mais eficientes da categoria. O problema está no câmbio CVT: quando mal conservado, a troca completa custa até R$ 14.000. Este guia mostra exatamente o que verificar antes de assinar o contrato.</strong>
 

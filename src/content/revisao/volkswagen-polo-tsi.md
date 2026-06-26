@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Revisão Volkswagen Polo TSI: Tabela Completa por Km"
 description: "Tabela completa de revisão do Volkswagen Polo TSI com intervalos por km, custos em concessionária vs oficina independente e alertas específicos do motor EA211 1.0 TSI 128cv."
 kicker: "REVISÃO · TABELA KM"
@@ -68,7 +68,7 @@ relacionados:
 draft: false
 ---
 
-# Revisão Volkswagen Polo TSI: Tabela Completa por Km e Custos Reais (2018-2026)
+## Revisão Volkswagen Polo TSI: Tabela Completa por Km e Custos Reais (2018-2026)
 
 <strong>O Volkswagen Polo TSI é um dos sedãs compactos mais vendidos do Brasil desde 2018, e manter o motor EA211 1.0 TSI 128cv em bom estado exige atenção a intervalos específicos que diferem dos carros a aspiração. Com a correia dentada prevista para os 150.000 km e o câmbio Aisin AQ250 pedindo fluido novo aos 80.000 km, ignorar a tabela de revisão pode transformar uma manutenção de R$ 500 num conserto de R$ 8.000.</strong>
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Como Verificar Nível de Óleo do Motor"
 description: "Como verificar nível de óleo do motor em 5 minutos: temperatura correta, como ler a vareta, identificar cores e quando adicionar óleo. Evite falhas no motor."
 kicker: "HOW-TO · MÃO NA MASSA"
@@ -60,7 +60,7 @@ relacionados:
 draft: false
 ---
 
-# Como Verificar Nível de Óleo do Motor: Guia Passo a Passo Completo
+## Como Verificar Nível de Óleo do Motor: Guia Passo a Passo Completo
 
 <strong>Motores que operam com nível de óleo abaixo do mínimo por apenas 20 minutos podem sofrer danos irreversíveis nos mancais e bronzinas, gerando reparos que custam entre R$ 3.000 e R$ 15.000. Saber como verificar o nível de óleo do motor corretamente leva menos de 10 minutos e é a verificação preventiva mais barata que existe na manutenção automotiva.</strong>
 
