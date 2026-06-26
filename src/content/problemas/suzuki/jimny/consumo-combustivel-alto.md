@@ -78,7 +78,7 @@ relacionados:
   - titulo: "Jimny Sierra: barulho na caixa de transferência em 4L"
     url: "/problemas/suzuki/jimny/barulho-caixa-transferencia/"
   - titulo: "Jimny Sierra usado: o que verificar antes de comprar"
-    url: "/ficha-tecnica/suzuki/jimny-sierra-1-5-4at///"
+    url: "/ficha-tecnica/suzuki/jimny-sierra-1-5-4at/"
 draft: false
 ---
 

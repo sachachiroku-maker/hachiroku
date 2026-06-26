@@ -59,9 +59,9 @@ relacionados:
   - titulo: "Como Trocar o Óleo do Motor: Guia Completo"
     url: "/manutencao/como-trocar-oleo-motor-carro/"
   - titulo: "Sinais de Superaquecimento do Motor: O Que Fazer"
-    url: "/tecnico/motor-superaquecendo-causas-e-solucoes//"
+    url: "/tecnico/motor-superaquecendo-causas-e-solucoes/"
   - titulo: "Junta de Cabeçote: Sintomas, Causas e Custo de Reparo"
-    url: "/manutencao/junta-cabecote-sintomas-custo//"
+    url: "/manutencao/junta-cabecote-sintomas-custo/"
 draft: false
 ---
 

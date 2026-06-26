@@ -64,7 +64,7 @@ faq:
 relacionados:
   - { titulo: "Corrente de distribuição do Fastback T270 com ruído: diagnóstico", url: "/problemas/fiat/fastback/corrente-distribuicao-t270/" }
   - { titulo: "Suspensão traseira do Fastback com barulho: causas e custo", url: "/problemas/fiat/fastback/suspensao-traseira-barulho/" }
-  - { titulo: "Ficha técnica do Fiat Pulse Abarth 1.3 Turbo", url: "/ficha-tecnica/fiat/pulse-audace-1-0-turbo//" }
+  - { titulo: "Ficha técnica do Fiat Pulse Abarth 1.3 Turbo", url: "/ficha-tecnica/fiat/pulse-audace-1-0-turbo/" }
 draft: false
 ---
 

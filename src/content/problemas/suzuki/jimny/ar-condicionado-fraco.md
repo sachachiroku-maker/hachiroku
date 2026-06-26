@@ -69,7 +69,7 @@ fontes:
     url: "https://www.itatiaia.com.br/auto/ar-condicionado-do-carro-nao-gela-saiba-como-identificar-falta-de-gas-no-sistema/"
 relacionados:
   - titulo: "Ficha técnica do Suzuki Jimny Sierra"
-    url: "/ficha-tecnica/suzuki/jimny-sierra-1-5-4at//"
+    url: "/ficha-tecnica/suzuki/jimny-sierra-1-5-4at/"
   - titulo: "Problemas no Suzuki Jimny Sierra"
     url: "/problemas/suzuki/jimny/"
 draft: false

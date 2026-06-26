@@ -42,7 +42,7 @@ afiliados:
     programa: "amazon"
 relacionados:
   - titulo: "BYD Dolphin Mini: o elétrico de entrada"
-    url: "/eletricos/byd-dolphin//"
+    url: "/eletricos/byd-dolphin/"
 draft: false
 ---
 

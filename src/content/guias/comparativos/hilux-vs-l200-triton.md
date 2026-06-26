@@ -37,7 +37,7 @@ relacionados:
   - titulo: "Ficha técnica Toyota Hilux"
     url: "/ficha-tecnica/toyota/hilux-srx-2-8-diesel/"
   - titulo: "Ficha técnica L200 Triton Sport"
-    url: "/ficha-tecnica/mitsubishi/l200-triton-sport-2-4-diesel//"
+    url: "/ficha-tecnica/mitsubishi/l200-triton-sport-2-4-diesel/"
   - titulo: "Problemas L200 Triton: corrente de timing"
     url: "/problemas/mitsubishi/l200-triton/corrente-timing-4n15/"
 draft: false

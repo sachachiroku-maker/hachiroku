@@ -53,9 +53,9 @@ relacionados:
   - titulo: "Como trocar óleo do motor: passo a passo completo"
     url: "/manutencao/como-trocar-oleo-motor-carro/"
   - titulo: "Balanceamento e alinhamento: quando fazer e quanto custa"
-    url: "/manutencao/alinhamento-e-balanceamento//"
+    url: "/manutencao/alinhamento-e-balanceamento/"
   - titulo: "Revisão de freios: sinais de desgaste e custo de troca"
-    url: "/manutencao/revisao-freios-completa//"
+    url: "/manutencao/revisao-freios-completa/"
 draft: false
 ---
 

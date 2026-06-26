@@ -56,13 +56,13 @@ relacionados:
   - titulo: "Checklist Completo: Vistoria de Carro Usado"
     url: "/guia-de-compra/checklist-vistoria-carro-usado/"
   - titulo: "Creta Usado: Vale a Pena Comprar?"
-    url: "/guia-de-compra/usados/creta-usado-vale-a-pena//"
+    url: "/guia-de-compra/usados/creta-usado-vale-a-pena/"
   - titulo: "Tracker vs Creta: Qual Comprar Usado?"
-    url: "/guia-de-compra/comparativos/tracker-vs-creta//"
+    url: "/guia-de-compra/comparativos/tracker-vs-creta/"
   - titulo: "Consertar ou Trocar: Vale a Pena?"
     url: "/guia-de-compra/consertar-ou-trocar-vale-a-pena/"
   - titulo: "Estimador de Custo de Reparo"
-    url: "/guia-de-compra/jornada/estimador-custo-reparo//"
+    url: "/guia-de-compra/jornada/estimador-custo-reparo/"
 draft: false
 ---
 

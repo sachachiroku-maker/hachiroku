@@ -56,15 +56,15 @@ afiliados:
     cta: "Ver produto recomendado"
 relacionados:
   - titulo: "Polo Usado: Vale a Pena Comprar em 2026?"
-    url: "/guia-de-compra/usados/polo-usado-vale-a-pena//"
+    url: "/guia-de-compra/usados/polo-usado-vale-a-pena/"
   - titulo: "Polo TSI vs Onix Turbo: Qual Comprar?"
-    url: "/guia-de-compra/comparativos/polo-tsi-vs-onix-turbo//"
+    url: "/guia-de-compra/comparativos/polo-tsi-vs-onix-turbo/"
   - titulo: "Checklist Completo para Vistoria de Carro Usado"
     url: "/guia-de-compra/checklist-vistoria-carro-usado/"
   - titulo: "Melhor Carro Popular Custo-Benefício 2026"
     url: "/guia-de-compra/melhor-carro-popular-custo-beneficio-2026/"
   - titulo: "Onix Usado: Vale a Pena Comprar em 2026?"
-    url: "/guia-de-compra/usados/onix-usado-vale-a-pena//"
+    url: "/guia-de-compra/usados/onix-usado-vale-a-pena/"
 draft: false
 ---
 

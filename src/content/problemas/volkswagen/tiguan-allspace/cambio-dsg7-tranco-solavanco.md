@@ -47,7 +47,7 @@ relacionados:
   - titulo: "Câmbio DSG: como funciona"
     url: "/tecnico/cambio-cvt-como-funciona/"
   - titulo: "Ficha técnica VW Taos"
-    url: "/ficha-tecnica/volkswagen/taos-comfortline-1-4-tsi//"
+    url: "/ficha-tecnica/volkswagen/taos-comfortline-1-4-tsi/"
 draft: false
 ---
 

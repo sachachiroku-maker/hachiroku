@@ -49,9 +49,9 @@ afiliados:
     cta: "Ver produto recomendado"
 relacionados:
   - titulo: "Creta Usado: Vale a Pena Comprar em 2026?"
-    url: "/guia-de-compra/usados/creta-usado-vale-a-pena//"
+    url: "/guia-de-compra/usados/creta-usado-vale-a-pena/"
   - titulo: "Tracker vs Creta: Qual SUV Escolher?"
-    url: "/guia-de-compra/comparativos/tracker-vs-creta//"
+    url: "/guia-de-compra/comparativos/tracker-vs-creta/"
   - titulo: "Checklist de Vistoria para Carro Usado"
     url: "/guia-de-compra/checklist-vistoria-carro-usado/"
   - titulo: "Melhor Carro Popular Custo-Benefício 2026"

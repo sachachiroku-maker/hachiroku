@@ -52,15 +52,15 @@ afiliados:
     cta: "Ver produto recomendado"
 relacionados:
   - titulo: "Argo Usado: Vale a Pena Comprar em 2026?"
-    url: "/guia-de-compra/usados/argo-usado-vale-a-pena//"
+    url: "/guia-de-compra/usados/argo-usado-vale-a-pena/"
   - titulo: "Onix vs HB20: Qual Popular Comprar?"
-    url: "/guia-de-compra/comparativos/onix-vs-hb20//"
+    url: "/guia-de-compra/comparativos/onix-vs-hb20/"
   - titulo: "Melhor Carro Popular Custo-Benefício 2026"
     url: "/guia-de-compra/melhor-carro-popular-custo-beneficio-2026/"
   - titulo: "Checklist Vistoria Carro Usado"
     url: "/guia-de-compra/checklist-vistoria-carro-usado/"
   - titulo: "Polo Usado: Vale a Pena?"
-    url: "/guia-de-compra/usados/polo-usado-vale-a-pena//"
+    url: "/guia-de-compra/usados/polo-usado-vale-a-pena/"
 draft: false
 ---
 

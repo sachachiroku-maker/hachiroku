@@ -51,15 +51,15 @@ afiliados:
     cta: "Ver produto recomendado"
 relacionados:
   - titulo: "HB20 Usado: Vale a Pena Comprar em 2026?"
-    url: "/guia-de-compra/usados/hb20-usado-vale-a-pena//"
+    url: "/guia-de-compra/usados/hb20-usado-vale-a-pena/"
   - titulo: "Onix vs HB20: Qual o Melhor Popular em 2026?"
-    url: "/guia-de-compra/comparativos/onix-vs-hb20//"
+    url: "/guia-de-compra/comparativos/onix-vs-hb20/"
   - titulo: "Melhor Carro Popular Custo-Benefício 2026"
     url: "/guia-de-compra/melhor-carro-popular-custo-beneficio-2026/"
   - titulo: "Checklist de Vistoria: Carro Usado"
     url: "/guia-de-compra/checklist-vistoria-carro-usado/"
   - titulo: "Estimador de Custo de Reparo"
-    url: "/guia-de-compra/jornada/estimador-custo-reparo//"
+    url: "/guia-de-compra/jornada/estimador-custo-reparo/"
 draft: false
 ---
 

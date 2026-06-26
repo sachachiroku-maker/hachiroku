@@ -87,10 +87,10 @@ faq:
     resposta: "A versão Exclusive está acima da Advance na hierarquia do Kicks 2023. As principais adições da Exclusive em relação à Advance são: teto solar panorâmico, banco do motorista com regulagem elétrica de altura, acabamento interno com couro sintético, sistema de som premium e rodas de liga leve com design exclusivo. A Advance já entrega itens como multimídia com Apple CarPlay e Android Auto, câmera de ré, controle de estabilidade, seis airbags e ar-condicionado. Para uso diário, a Advance cobre as necessidades da maioria dos compradores sem o acréscimo de preço da Exclusive."
 
 relacionados:
-  - { titulo: "Ficha técnica do Nissan Versa Advance 1.6 CVT 2023", url: "/ficha-tecnica/nissan/versa-advance-1-6//" }
+  - { titulo: "Ficha técnica do Nissan Versa Advance 1.6 CVT 2023", url: "/ficha-tecnica/nissan/versa-advance-1-6/" }
   - { titulo: "Ficha técnica do Hyundai Creta GLS 1.6 2023", url: "/ficha-tecnica/hyundai/creta/" }
-  - { titulo: "CVT Xtronic da Nissan: problemas comuns e custo de manutenção", url: "/problemas/nissan/kicks//" }
-  - { titulo: "Nissan Frontier XE 2.5 Diesel: ficha técnica", url: "/ficha-tecnica/nissan/frontier-xe-2-5-diesel//" }
+  - { titulo: "CVT Xtronic da Nissan: problemas comuns e custo de manutenção", url: "/problemas/nissan/kicks/" }
+  - { titulo: "Nissan Frontier XE 2.5 Diesel: ficha técnica", url: "/ficha-tecnica/nissan/frontier-xe-2-5-diesel/" }
 
 draft: false
 ---

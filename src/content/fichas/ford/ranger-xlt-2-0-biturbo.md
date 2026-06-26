@@ -62,7 +62,7 @@ faq:
 relacionados:
   - { titulo: "DPF da Ranger NextGen entupindo em uso urbano", url: "/problemas/ford/ranger/dpf-filtro-particulas-entupimento/" }
   - { titulo: "Câmbio de 10 marchas da Ranger NextGen com solavanco", url: "/problemas/ford/ranger/cambio-10-marchas-solavanco/" }
-  - { titulo: "Ficha técnica do Ford EcoSport Titanium 1.5", url: "/ficha-tecnica/ford/ecosport-titanium-1-5//" }
+  - { titulo: "Ficha técnica do Ford EcoSport Titanium 1.5", url: "/ficha-tecnica/ford/ecosport-titanium-1-5/" }
 draft: false
 ---
 

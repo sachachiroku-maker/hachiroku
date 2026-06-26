@@ -83,7 +83,7 @@ relacionados:
   - titulo: "VW Polo usado vale a pena? Guia completo por motor"
     url: "/guia-de-compra/usados/polo-usado-vale-a-pena/"
   - titulo: "Motor 1.0 TSI: o que é, defeitos comuns e como inspecionar"
-    url: "/motor/ea211-tsi//"
+    url: "/motor/ea211-tsi/"
 draft: false
 ---
 

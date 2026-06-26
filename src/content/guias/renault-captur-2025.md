@@ -45,7 +45,7 @@ relacionados:
   - titulo: "Câmbio CVT: como funciona"
     url: "/tecnico/cambio-cvt-como-funciona/"
   - titulo: "Comparativo: Captur vs. Kicks"
-    url: "/guia-de-compra/comparativos/captur-vs-renegade//"
+    url: "/guia-de-compra/comparativos/captur-vs-renegade/"
 draft: false
 ---
 

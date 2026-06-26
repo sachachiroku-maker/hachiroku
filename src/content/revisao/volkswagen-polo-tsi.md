@@ -64,7 +64,7 @@ relacionados:
   - titulo: "Correia dentada: quando trocar e quanto custa"
     url: "/manutencao/correia-dentada-quando-trocar/"
   - titulo: "Câmbio automático: sinais de problema e manutenção"
-    url: "/manutencao/troca-oleo-cambio-automatico//"
+    url: "/manutencao/troca-oleo-cambio-automatico/"
 draft: false
 ---
 

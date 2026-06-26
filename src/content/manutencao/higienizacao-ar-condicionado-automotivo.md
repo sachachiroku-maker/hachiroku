@@ -60,11 +60,11 @@ afiliados:
     cta: "Ver produto"
 relacionados:
   - titulo: "Como verificar se o ar-condicionado do carro precisa de recarga de gás"
-    url: "/manutencao/manutencao-ar-condicionado-carro//"
+    url: "/manutencao/manutencao-ar-condicionado-carro/"
   - titulo: "Troca do filtro de cabine: quando fazer e qual o custo"
     url: "/manutencao/troca-filtro-cabine-carro/"
   - titulo: "Cheiro de queimado no carro: causas e o que fazer"
-    url: "/manutencao//"
+    url: "/manutencao/"
 draft: false
 ---
 

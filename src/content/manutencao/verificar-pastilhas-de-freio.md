@@ -60,13 +60,13 @@ afiliados:
     cta: "Ver produto"
 relacionados:
   - titulo: "Como trocar pastilhas de freio: passo a passo completo"
-    url: "/manutencao/como-substituir-pastilhas-freio//"
+    url: "/manutencao/como-substituir-pastilhas-freio/"
   - titulo: "Barulho ao frear: o que pode ser e como identificar"
-    url: "/manutencao/barulhos-no-freio//"
+    url: "/manutencao/barulhos-no-freio/"
   - titulo: "Disco de freio empenado: sintomas, causas e solução"
     url: "/manutencao/disco-de-freio-empenado/"
   - titulo: "Revisão de freios: tudo que é verificado na oficina"
-    url: "/manutencao/revisao-freios-completa//"
+    url: "/manutencao/revisao-freios-completa/"
 draft: false
 ---
 

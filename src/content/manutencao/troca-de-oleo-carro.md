@@ -60,7 +60,7 @@ relacionados:
   - titulo: "Como identificar vazamento de óleo no carro"
     url: "/manutencao/como-trocar-oleo-motor-carro/"
   - titulo: "Filtro de óleo: quando trocar e como escolher o certo"
-    url: "/manutencao/filtro-oleo-quando-trocar//"
+    url: "/manutencao/filtro-oleo-quando-trocar/"
 draft: false
 ---
 

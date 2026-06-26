@@ -62,7 +62,7 @@ relacionados:
   - titulo: "Quanto tempo dura o óleo do motor: quilometragem real por tipo"
     url: "/manutencao/quanto-tempo-dura-oleo-motor/"
   - titulo: "Filtro de óleo: quando trocar, qual comprar e quanto custa"
-    url: "/manutencao/filtro-oleo-quando-trocar//"
+    url: "/manutencao/filtro-oleo-quando-trocar/"
 draft: false
 ---
 

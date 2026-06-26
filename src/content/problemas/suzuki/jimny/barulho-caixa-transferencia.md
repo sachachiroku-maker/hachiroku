@@ -42,7 +42,7 @@ pubDate: 2026-06-25
 updatedDate: 2026-06-25
 relacionados:
   - titulo: "Ficha técnica Suzuki Jimny Sierra"
-    url: "/ficha-tecnica/suzuki/jimny-sierra-1-5-4at//"
+    url: "/ficha-tecnica/suzuki/jimny-sierra-1-5-4at/"
   - titulo: "Revisão preventiva: tabela por km"
     url: "/manutencao/manutencao-preventiva-tabela-quilometragem/"
 draft: false

@@ -62,7 +62,7 @@ faq:
 relacionados:
   - { titulo: "Vela aquecedora do SW4 GD-6 com falha: partida a frio no SUV diesel", url: "/problemas/toyota/sw4/motor-gd6-vela-aquecedora/" }
   - { titulo: "Freios do SW4 com desgaste acelerado: diagnóstico e custo", url: "/problemas/toyota/sw4/freios-desgaste-acelerado/" }
-  - { titulo: "Ficha técnica da Toyota Hilux SRX 2.8 Diesel 2023", url: "/ficha-tecnica/toyota/hilux-srx-2-8-diesel//" }
+  - { titulo: "Ficha técnica da Toyota Hilux SRX 2.8 Diesel 2023", url: "/ficha-tecnica/toyota/hilux-srx-2-8-diesel/" }
 draft: false
 ---
 

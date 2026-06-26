@@ -63,11 +63,11 @@ relacionados:
   - titulo: "Melhor carro popular custo-benefício em 2026"
     url: "/guia-de-compra/melhor-carro-popular-custo-beneficio-2026/"
   - titulo: "Fiat Cronos usado vale a pena?"
-    url: "/guia-de-compra/usados/argo-usado-vale-a-pena//"
+    url: "/guia-de-compra/usados/argo-usado-vale-a-pena/"
   - titulo: "Problemas comuns por modelo"
     url: "/problemas/"
   - titulo: "Estimador de custo de reparo"
-    url: "/guia-de-compra/jornada/estimador-custo-reparo//"
+    url: "/guia-de-compra/jornada/estimador-custo-reparo/"
 draft: false
 ---
 

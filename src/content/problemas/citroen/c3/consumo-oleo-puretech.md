@@ -73,7 +73,7 @@ relacionados:
   - titulo: "Todos os problemas conhecidos do Citroën C3"
     url: "/problemas/citroen/c3/"
   - titulo: "Ficha técnica do Citroën C3 1.2 PureTech"
-    url: "/ficha-tecnica/citroen/c3-shine-1-6//"
+    url: "/ficha-tecnica/citroen/c3-shine-1-6/"
 pontosChave:
   - "Sintoma: nível de óleo caindo entre trocas, fumaça azulada na descarga e velas oleosas nos 3 cilindros do PureTech"
   - "Causa: anéis de segmento com folga excessiva, retentores de haste de válvula desgastados ou válvula PCV entupida, agravados pela vibração inerente ao motor de 3 cilindros"

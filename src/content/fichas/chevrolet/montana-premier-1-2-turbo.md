@@ -65,7 +65,7 @@ faq:
 relacionados:
   - { titulo: "Correia banhada a óleo da Montana 1.2 Turbo: intervalo crítico e riscos", url: "/problemas/chevrolet/montana/correia-banhada-oleo-1-2-turbo/" }
   - { titulo: "Tração 4x4 da Montana com falha no engate: diagnóstico", url: "/problemas/chevrolet/montana/tracao-4x4-falha-transferencia/" }
-  - { titulo: "Ficha técnica da Chevrolet S10 LTZ 2.8 Diesel", url: "/ficha-tecnica/chevrolet/s10-ltz-2-8-diesel//" }
+  - { titulo: "Ficha técnica da Chevrolet S10 LTZ 2.8 Diesel", url: "/ficha-tecnica/chevrolet/s10-ltz-2-8-diesel/" }
 draft: false
 ---
 

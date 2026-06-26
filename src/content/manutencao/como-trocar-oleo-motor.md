@@ -68,11 +68,11 @@ afiliados:
     cta: "Ver produto"
 relacionados:
   - titulo: "Intervalo de troca de óleo: quantos km você pode rodar de verdade?"
-    url: "/manutencao/intervalo-troca-oleo-motor//"
+    url: "/manutencao/intervalo-troca-oleo-motor/"
   - titulo: "Óleo sintético vale a pena? Comparativo completo com mineral e semissintético"
     url: "/manutencao/oleo-sintetico-vale-a-pena/"
   - titulo: "Como ler a vareta de óleo do motor: o que cada marca significa"
-    url: "/manutencao/como-verificar-nivel-oleo-motor//"
+    url: "/manutencao/como-verificar-nivel-oleo-motor/"
 draft: false
 ---
 

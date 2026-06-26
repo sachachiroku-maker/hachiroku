@@ -33,7 +33,7 @@ relacionados:
   - titulo: "Mapa de postos de recarga CCS2 no Brasil"
     url: "/eletricos/postos-de-recarga-ccs2-brasil/"
   - titulo: "Chevrolet Bolt EV 2024: avaliação completa"
-    url: "/eletricos/chevrolet/bolt-ev//"
+    url: "/eletricos/chevrolet/bolt-ev/"
 draft: false
 ---
 

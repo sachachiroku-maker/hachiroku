@@ -55,7 +55,7 @@ relacionados:
   - titulo: "Filtro de combustível: quando trocar e sinais de entupimento"
     url: "/manutencao/como-trocar-filtro-combustivel/"
   - titulo: "Carro consumindo mais gasolina: 7 causas e como resolver"
-    url: "/manutencao//"
+    url: "/manutencao/"
 draft: false
 ---
 

@@ -100,7 +100,7 @@ faq:
 
 relacionados:
   - { titulo: "Ficha técnica do Hyundai HB20 2023 Comfort 1.0 (hatch aspirado)", url: "/ficha-tecnica/hyundai/hb20/" }
-  - { titulo: "Câmbio CVT: como funciona e quando trocar o fluido", url: "/tecnico/cambio-cvt-como-funciona//" }
+  - { titulo: "Câmbio CVT: como funciona e quando trocar o fluido", url: "/tecnico/cambio-cvt-como-funciona/" }
 
 draft: false
 ---

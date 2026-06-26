@@ -79,7 +79,7 @@ relacionados:
   - titulo: "Correia dentada banhada a óleo no Onix turbo: quando trocar e o óleo obrigatório"
     url: "/problemas/chevrolet/onix/correia-dentada/"
   - titulo: "Motor 1.2 CSS Prime Turbo: tudo o que você precisa saber"
-    url: "/motor/css-prime-turbo//"
+    url: "/motor/css-prime-turbo/"
 draft: false
 ---
 

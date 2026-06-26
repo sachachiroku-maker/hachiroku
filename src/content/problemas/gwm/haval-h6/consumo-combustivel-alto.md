@@ -68,7 +68,7 @@ afiliados:
     cta: "Ver filtro"
 relacionados:
   - titulo: "Haval H6 HEV: o que verificar antes de comprar usado"
-    url: "/guia-de-compra/usados/gwm-haval-h6-usado-vale-a-pena//"
+    url: "/guia-de-compra/usados/gwm-haval-h6-usado-vale-a-pena/"
   - titulo: "GWM Haval H6: problemas mais comuns relatados por donos"
     url: "/problemas/gwm/haval-h6/"
 pontosChave:

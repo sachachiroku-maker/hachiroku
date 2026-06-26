@@ -56,13 +56,13 @@ relacionados:
   - titulo: "Checklist completo para vistoria de carro usado"
     url: "/guia-de-compra/checklist-vistoria-carro-usado/"
   - titulo: "Onix Usado Vale a Pena em 2026?"
-    url: "/guia-de-compra/usados/onix-usado-vale-a-pena//"
+    url: "/guia-de-compra/usados/onix-usado-vale-a-pena/"
   - titulo: "Argo Usado Vale a Pena em 2026?"
-    url: "/guia-de-compra/usados/argo-usado-vale-a-pena//"
+    url: "/guia-de-compra/usados/argo-usado-vale-a-pena/"
   - titulo: "Melhor Carro Popular Custo-Benefício 2026"
     url: "/guia-de-compra/melhor-carro-popular-custo-beneficio-2026/"
   - titulo: "Estimador de Custo de Reparo"
-    url: "/guia-de-compra/jornada/estimador-custo-reparo//"
+    url: "/guia-de-compra/jornada/estimador-custo-reparo/"
 draft: false
 ---
 

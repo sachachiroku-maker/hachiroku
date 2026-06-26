@@ -42,7 +42,7 @@ pubDate: 2026-06-25
 updatedDate: 2026-06-25
 relacionados:
   - titulo: "Ficha técnica Toyota Corolla Cross"
-    url: "/ficha-tecnica/toyota/corolla-cross-xrx-2-0//"
+    url: "/ficha-tecnica/toyota/corolla-cross-xrx-2-0/"
   - titulo: "Corolla Cross vs. HR-V"
     url: "/guia-de-compra/comparativos/corolla-cross-vs-hr-v/"
   - titulo: "Revisão de freios completa"

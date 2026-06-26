@@ -64,7 +64,7 @@ fontes:
     url: "https://www.webmotors.com.br/carros/peugeot/208"
 relacionados:
   - titulo: "Problemas do Peugeot 208 PureTech"
-    url: "/problemas/peugeot/208//"
+    url: "/problemas/peugeot/208/"
   - titulo: "Ficha técnica do Peugeot 208"
     url: "/ficha-tecnica/peugeot/208-allure-1-6/"
 draft: false

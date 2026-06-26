@@ -47,11 +47,11 @@ afiliados:
     cta: "Ver produto"
 relacionados:
   - titulo: "Como saber se a bateria do carro está fraca: sintomas e teste"
-    url: "/manutencao/como-verificar-bateria-carro//"
+    url: "/manutencao/como-verificar-bateria-carro/"
   - titulo: "Luz de bateria acendeu no painel: o que fazer agora"
-    url: "/manutencao/sinais-alternador-com-problema//"
+    url: "/manutencao/sinais-alternador-com-problema/"
   - titulo: "Quanto custa trocar o alternador do carro"
-    url: "/manutencao/alternador-falhando-sinais//"
+    url: "/manutencao/alternador-falhando-sinais/"
 draft: false
 ---
 
