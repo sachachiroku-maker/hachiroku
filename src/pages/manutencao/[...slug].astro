@@ -22,7 +22,7 @@ const meta = [
   data.custoEstimado && { k: 'Custo estimado', v: data.custoEstimado },
 ].filter(Boolean);
 ---
-<BaseLayout title={`${data.title} | Hachiroku`} description={data.description} canonical={url} type="article">
+<BaseLayout title={`${data.seoTitle ?? data.title} | Hachiroku`} description={data.description} canonical={url} type="article">
   <SchemaHowTo data={data} url={url} breadcrumb={breadcrumb} />
   <article class="prose">
     <nav class="breadcrumb" aria-label="Você está em"><a href="/manutencao/">Manutenção</a> · <span>{data.veiculo ?? 'How-to'}</span></nav>

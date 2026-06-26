@@ -55,12 +55,13 @@ const jsonld = { '@context': 'https://schema.org', '@graph': [
     <nav class="breadcrumb" aria-label="Você está em"><a href="/">Início</a> · <span>{marca.nome}</span></nav>
     <header><p class="kicker">MARCA</p><h1 class="article-title">{marca.nome}</h1></header>
     <p class="lead">{marca.resumo}</p>
-    <h2>Modelos {marca.nome}</h2>
+    <h2>Modelos disponíveis</h2>
     <div class="defeito-grid">
       {modelos.map((m) => (
         <article class="defeito-card">
           {m.n > 0 && <Badge tone="danger">{m.n} diagnóstico(s)</Badge>}
-          <h2><a href={m.n > 0 ? `/problemas/${m.mm}/` : (m.fichaId ? `/ficha-tecnica/${m.fichaId}/` : `/problemas/`)}>{m.nome}</a></h2>
+          <h2>{m.nome.startsWith(marca.nome + ' ') ? m.nome.slice(marca.nome.length + 1) : m.nome}</h2>
+          <a href={m.n > 0 ? `/problemas/${m.mm}/` : (m.fichaId ? `/ficha-tecnica/${m.fichaId}/` : `/problemas/`)} class="defeito-go">{m.nome} →</a>
           {m.fichaId && <a class="defeito-go" href={`/ficha-tecnica/${m.fichaId}/`}>Ficha técnica →</a>}
         </article>
       ))}

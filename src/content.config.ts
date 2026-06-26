@@ -39,6 +39,7 @@ const problemas = defineCollection({
     z.object({
       // --- Entity Lock-in (camada 1) ---
       title: z.string(),                       // H1
+      seoTitle: z.string().optional(),
       h1: z.string().optional(),               // override do H1 se diferir do title
       description: z.string(),                  // meta description + resumo citável
       entidade: z.object({                     // entidade principal nomeada
@@ -91,6 +92,7 @@ const fichas = defineCollection({
   schema: () =>
     z.object({
       title: z.string(),
+      seoTitle: z.string().optional(),
       description: z.string(),
       marca: z.string(),
       modelo: z.string(),
@@ -133,6 +135,7 @@ const guias = defineCollection({
   schema: () =>
     z.object({
       title: z.string(),
+      seoTitle: z.string().optional(),
       description: z.string(),
       marca: z.string().optional(),
       modelo: z.string().optional(),
@@ -164,6 +167,7 @@ const manutencao = defineCollection({
   schema: () =>
     z.object({
       title: z.string(),
+      seoTitle: z.string().optional(),
       description: z.string(),
       kicker: z.string().default('HOW-TO · MÃO NA MASSA'),
       veiculo: z.string().optional(),
@@ -190,6 +194,7 @@ const eletricos = defineCollection({
   schema: () =>
     z.object({
       title: z.string(),
+      seoTitle: z.string().optional(),
       description: z.string(),
       entidade: z.object({ marca: z.string(), modelo: z.string(), tipo: z.string().default('Elétrico') }),
       kicker: z.string().default('VERTICAL EV · ALTA DEMANDA'),
@@ -215,6 +220,7 @@ const tecnico = defineCollection({
   schema: () =>
     z.object({
       title: z.string(),
+      seoTitle: z.string().optional(),
       description: z.string(),
       kicker: z.string().default('TÉCNICO · APROFUNDADO'),
       categoria: z.enum(['motor', 'transmissao', 'eletrica', 'combustivel', 'suspensao', 'outro']).default('motor'),
@@ -234,6 +240,7 @@ const revisao = defineCollection({
   schema: () =>
     z.object({
       title: z.string(),
+      seoTitle: z.string().optional(),
       description: z.string(),
       kicker: z.string().default('REVISÃO · TABELA KM'),
       marca: z.string(),

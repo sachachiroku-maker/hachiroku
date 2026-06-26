@@ -22,7 +22,7 @@ const breadcrumb = [
 ];
 const fmt = (d) => d.toLocaleDateString('pt-BR');
 ---
-<BaseLayout title={`${data.title} | Hachiroku`} description={data.description} canonical={url} type="article" image={fotoPorId(entry.id)}>
+<BaseLayout title={`${data.seoTitle ?? data.title} | Hachiroku`} description={data.description} canonical={url} type="article" image={fotoPorId(entry.id)}>
   <SchemaEV data={data} url={url} breadcrumb={breadcrumb} />
   <article class="prose">
     <nav class="breadcrumb" aria-label="Você está em"><a href="/eletricos/">Elétricos</a> · <span>{data.entidade.marca} {data.entidade.modelo}</span></nav>

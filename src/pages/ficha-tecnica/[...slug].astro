@@ -57,7 +57,7 @@ const grupos = [
   { titulo: 'Chassi', itens: data.chassi },
 ].filter((g) => g.itens.length > 0);
 ---
-<BaseLayout title={`${data.title} | Hachiroku`} description={data.description} canonical={url} type="article">
+<BaseLayout title={`${data.seoTitle ?? data.title} | Hachiroku`} description={data.description} canonical={url} type="article">
   <SchemaFicha data={data} url={url} breadcrumb={breadcrumb} />
 
   <!-- HERO dark da ficha -->
