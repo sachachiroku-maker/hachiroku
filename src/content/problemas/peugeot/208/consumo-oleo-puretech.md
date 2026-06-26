@@ -75,7 +75,7 @@ fontes:
   - { titulo: "Relatos de consumo de óleo no 1.2 PureTech (PeugeotClub.com.br)", url: "https://www.peugeotclub.com.br/forum/" }
   - { titulo: "Reclamações sobre motor PureTech — consumo de óleo (Reclame Aqui / PROCON)", url: "https://www.reclameaqui.com.br/empresa/peugeot/" }
 relacionados:
-  - { titulo: "Ficha técnica completa do Peugeot 208", url: "/ficha-tecnica/peugeot/208/" }
+  - { titulo: "Ficha técnica completa do Peugeot 208", url: "/ficha-tecnica/peugeot/208-allure-1-6/" }
   - { titulo: "Hub do motor 1.2 PureTech 3 cilindros", url: "/motor/puretech-thp//" }
 draft: false
 ---

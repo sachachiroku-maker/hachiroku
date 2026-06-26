@@ -72,7 +72,7 @@ relacionados:
   - titulo: "DPF da L200 Triton Sport: entupimento e regeneração"
     url: "/problemas/mitsubishi/l200-triton/filtro-particulas-dpf/"
   - titulo: "Ficha técnica da Mitsubishi L200 Triton Sport"
-    url: "/ficha-tecnica/mitsubishi/l200-triton-sport-2-4-diesel/-sport-2-4-diesel/"
+    url: "/ficha-tecnica/mitsubishi/l200-triton-sport-2-4-diesel//"
 pontosChave:
   - "Sintoma: barulho metálico ritmado ou chocalho nos primeiros segundos da partida a frio, que tende a sumir quando o motor aquece e a pressão de óleo sobe, característico de corrente folgada ou tensionador hidráulico fraco no motor 2.4 MIVEC 4N15."
   - "Causa: o tensionador hidráulico da corrente depende da pressão do óleo do motor; óleo fora de especificação, troca atrasada ou diluição por combustível diesel reduzem essa pressão, deixam a corrente folgar e aceleram o desgaste do conjunto."
@@ -176,7 +176,7 @@ Se você avalia uma L200 Triton Sport de segunda mão com motor 2.4 MIVEC 4N15, 
 
 Peça o histórico completo de trocas de óleo. Confirme que o intervalo foi respeitado, o produto foi o correto e o nível foi mantido. Na dúvida, leve o veículo a um profissional para leitura no scanner e inspeção do motor. Uma Triton barata com histórico de óleo duvidoso pode trazer um kit de corrente ou, no pior cenário, um motor aberto logo na sequência.
 
-Veja os demais alertas e diagnósticos da Mitsubishi L200 Triton Sport em [todos os problemas por modelo](/problemas/), e consulte a [ficha técnica da L200 Triton Sport](/ficha-tecnica/mitsubishi/l200-triton-sport-2-4-diesel/-sport-2-4-diesel/) para os dados completos do motor 4N15.
+Veja os demais alertas e diagnósticos da Mitsubishi L200 Triton Sport em [todos os problemas por modelo](/problemas/), e consulte a [ficha técnica da L200 Triton Sport](/ficha-tecnica/mitsubishi/l200-triton-sport-2-4-diesel//) para os dados completos do motor 4N15.
 
 ## Resumo do diagnóstico
 

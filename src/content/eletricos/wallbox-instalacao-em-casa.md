@@ -50,7 +50,7 @@ afiliados:
     programa: "amazon"
 relacionados:
   - titulo: "BYD Dolphin Mini: autonomia real, bateria e garantia"
-    url: "/eletricos/byd-dolphin/-mini/"
+    url: "/eletricos/byd-dolphin//"
 draft: false
 ---
 

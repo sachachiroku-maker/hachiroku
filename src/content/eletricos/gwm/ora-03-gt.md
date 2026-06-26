@@ -26,7 +26,7 @@ faq:
     resposta: "O Ora 03 GT é um compacto de porte subcompacto. O espaço para motorista e passageiro dianteiro é confortável para a maioria dos motoristas. O banco traseiro, porém, é justo para adultos altos em viagens longas. O porta-malas é funcional para uso urbano, mas sem exageros. Se a prioridade for espaço interno, o modelo fica atrás de concorrentes maiores."
 relacionados:
   - titulo: "BYD Dolphin Mini: autonomia real, bateria e modo tartaruga"
-    url: "/eletricos/byd-dolphin/-mini/"
+    url: "/eletricos/byd-dolphin//"
 draft: false
 ---
 

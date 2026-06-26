@@ -57,7 +57,7 @@ fontes:
     url: "https://www.electrive.com/2024/03/15/bms-lfp-charging-throttle-explained/"
 relacionados:
   - titulo: "BYD Dolphin Mini: autonomia real no dia a dia"
-    url: "/problemas/byd/dolphin/autonomia-real-abaixo-estimada/-abaixo-estimada/"
+    url: "/problemas/byd/dolphin/autonomia-real-abaixo-estimada//"
   - titulo: "Como calibrar a bateria de carro elétrico BYD"
     url: "/eletricos/"
 ---

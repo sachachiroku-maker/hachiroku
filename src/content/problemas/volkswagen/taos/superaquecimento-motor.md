@@ -24,7 +24,7 @@ relacionados:
   - titulo: "Problemas no Volkswagen T-Cross 1.4 TSI"
     url: "/problemas/volkswagen/t-cross/"
   - titulo: "Ficha técnica: Volkswagen Taos 1.4 TSI"
-    url: "/ficha-tecnica/volkswagen/taos-comfortline-1-4-tsi/-comfortline-1-4-tsi/"
+    url: "/ficha-tecnica/volkswagen/taos-comfortline-1-4-tsi//"
 afiliados:
   - produto: "Bomba d'água Taos 1.4 TSI"
     nota: "Reposição direta para o motor EA211. Verificar compatibilidade com o ano do veículo antes da compra."

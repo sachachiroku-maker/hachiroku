@@ -90,7 +90,7 @@ relacionados:
   - { titulo: "Ficha técnica do Nissan Versa Advance 1.6 CVT 2023", url: "/ficha-tecnica/nissan/versa-advance-1-6//" }
   - { titulo: "Ficha técnica do Hyundai Creta GLS 1.6 2023", url: "/ficha-tecnica/hyundai/creta/" }
   - { titulo: "CVT Xtronic da Nissan: problemas comuns e custo de manutenção", url: "/problemas/nissan/kicks//" }
-  - { titulo: "Nissan Frontier XE 2.5 Diesel: ficha técnica", url: "/ficha-tecnica/nissan/frontier-xe-2-5-diesel/-xe-2-5-diesel/" }
+  - { titulo: "Nissan Frontier XE 2.5 Diesel: ficha técnica", url: "/ficha-tecnica/nissan/frontier-xe-2-5-diesel//" }
 
 draft: false
 ---

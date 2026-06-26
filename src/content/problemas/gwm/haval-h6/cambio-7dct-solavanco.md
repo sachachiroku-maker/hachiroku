@@ -56,7 +56,7 @@ relacionados:
   - titulo: "Todos os problemas relatados no GWM Haval H6"
     url: "/problemas/gwm/haval-h6/"
   - titulo: "Ficha técnica completa: GWM Haval H6 Supreme 1.5"
-    url: "/ficha-tecnica/gwm/haval-h6-supreme-1-5/-supreme-1-5/"
+    url: "/ficha-tecnica/gwm/haval-h6-supreme-1-5//"
 pontosChave:
   - "Sintoma: solavancos e trancos nas trocas de 1ª para 2ª e de 2ª para 3ª, especialmente a frio"
   - "Causa: embreagem seca do 7DCT sensível à temperatura e ao ponto de engate em baixa velocidade"

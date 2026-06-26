@@ -56,7 +56,7 @@ relacionados:
   - titulo: "Todos os problemas documentados do VW Taos"
     url: "/problemas/volkswagen/taos/"
   - titulo: "Ficha técnica do VW Taos Comfortline 1.4 TSI"
-    url: "/ficha-tecnica/volkswagen/taos-comfortline-1-4-tsi/-comfortline-1-4-tsi/"
+    url: "/ficha-tecnica/volkswagen/taos-comfortline-1-4-tsi//"
 pontosChave:
   - "Sintoma: temperatura sobe no trânsito lento, estabiliza na estrada"
   - "Causa: motor elétrico interno da bomba desgastado ou conector corroído"
