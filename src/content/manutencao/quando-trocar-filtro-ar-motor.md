@@ -56,7 +56,7 @@ relacionados:
   - titulo: "Como trocar o oleo do motor em casa"
     url: "/manutencao/como-trocar-oleo-motor-carro/"
   - titulo: "Filtro de combustivel: quando trocar e o que acontece se nao trocar"
-    url: "/manutencao/quando-trocar-filtro-combustivel/"
+    url: "/manutencao/como-trocar-filtro-combustivel/"
   - titulo: "Check engine acendeu: o que fazer agora"
     url: "/diagnostico/check-engine-acendeu-o-que-fazer/"
 draft: false

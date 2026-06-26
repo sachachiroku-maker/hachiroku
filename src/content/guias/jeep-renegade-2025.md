@@ -47,7 +47,7 @@ relacionados:
   - titulo: "Comparativo: Renegade vs. T-Cross"
     url: "/guia-de-compra/comparativos/renegade-vs-t-cross/"
   - titulo: "Ficha técnica Jeep Renegade"
-    url: "/ficha-tecnica/jeep/renegade-longitude-1-3-t270/"
+    url: "/ficha-tecnica/jeep/renegade/"
 draft: false
 ---
 

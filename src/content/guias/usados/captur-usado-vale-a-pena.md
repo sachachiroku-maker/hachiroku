@@ -61,7 +61,7 @@ relacionados:
   - titulo: "Hyundai Creta Usado Vale a Pena?"
     url: "/guia-de-compra/usados/creta-usado-vale-a-pena"
   - titulo: "Volkswagen T-Cross Usado Vale a Pena?"
-    url: "/guia-de-compra/usados/t-cross-usado-vale-a-pena"
+    url: "/guia-de-compra/comparativos/t-cross-vs-creta/"
 draft: false
 ---
 

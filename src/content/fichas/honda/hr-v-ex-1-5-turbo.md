@@ -75,7 +75,7 @@ faq:
     resposta: "O porta-malas menor (304 L) é a principal queixa dos proprietários que migraram do HR-V 2ª geração. O motor 1.5 Turbo tem histórico de consumo de óleo em algumas unidades — verifique o nível regularmente nos primeiros 20.000 km. O câmbio CVT é silencioso, mas requer troca preventiva do fluido a cada 40.000-50.000 km."
 relacionados:
   - titulo: "Problemas comuns do motor 1.5 Turbo Honda"
-    url: "/problemas/honda/hrv/"
+    url: "/problemas/honda/hr-v/"
   - titulo: "HR-V vs T-Cross: qual SUV compacto escolher?"
     url: "/guia-de-compra/comparativos/captur-vs-renegade/"
 draft: false

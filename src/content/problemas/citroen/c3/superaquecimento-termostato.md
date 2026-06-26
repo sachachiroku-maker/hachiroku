@@ -76,7 +76,7 @@ relacionados:
   - titulo: "Citroën C3: consumo de óleo excessivo no motor PureTech"
     url: "/problemas/citroen/c3/consumo-oleo-puretech"
   - titulo: "Citroën C3 2019+: ficha técnica completa e especificações"
-    url: "/ficha-tecnica/citroen/c3"
+    url: "/ficha-tecnica/citroen/c3-shine-1-6/"
 draft: false
 ---
 

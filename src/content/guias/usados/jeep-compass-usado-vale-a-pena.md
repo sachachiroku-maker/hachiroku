@@ -75,7 +75,7 @@ fontes:
     url: "https://www.gov.br/senatran/pt-br/assuntos/recall"
 relacionados:
   - titulo: "Jeep Compass: ficha técnica completa (2017-2021)"
-    url: "/ficha-tecnica/jeep-compass-2017-2021"
+    url: "/ficha-tecnica/jeep/compass/"
   - titulo: "Problemas mais comuns do câmbio ZF 9HP no Compass"
     url: "/problemas/jeep-compass-cambio-9-marchas"
 ---

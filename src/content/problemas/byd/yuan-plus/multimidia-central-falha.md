@@ -53,7 +53,7 @@ relacionados:
   - titulo: "Todos os problemas relatados no BYD Yuan Plus"
     url: "/problemas/byd/yuan-plus/"
   - titulo: "Ficha técnica completa: BYD Yuan Plus Autonomy"
-    url: "/ficha-tecnica/byd/yuan-plus-autonomy/"
+    url: "/ficha-tecnica/byd/yuan-plus-ev/"
 pontosChave:
   - "Sintoma: tela reiniciando durante a viagem, especialmente em dias quentes"
   - "Causa: sobrecarga térmica no processador da central BYD Intelligent Central Control"

@@ -44,7 +44,7 @@ relacionados:
   - titulo: "Alinhamento e balanceamento: quando fazer"
     url: "/manutencao/alinhamento-e-balanceamento/"
   - titulo: "Ficha técnica GWM Haval H6"
-    url: "/ficha-tecnica/gwm/haval-h6/"
+    url: "/ficha-tecnica/gwm/haval-h6-supreme-1-5/"
 draft: false
 ---
 

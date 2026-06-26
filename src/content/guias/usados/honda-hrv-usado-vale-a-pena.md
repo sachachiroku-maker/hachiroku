@@ -71,9 +71,9 @@ fontes:
     url: "https://www.honda.com.br/automoveis/hrv/especificacoes"
 relacionados:
   - titulo: "Problemas do Honda HR-V"
-    url: "/problemas/honda/hrv/"
+    url: "/problemas/honda/hr-v/"
   - titulo: "Ficha técnica do Honda HR-V"
-    url: "/ficha-tecnica/honda/hrv/"
+    url: "/ficha-tecnica/honda/hr-v/"
 draft: false
 ---
 

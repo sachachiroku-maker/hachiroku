@@ -69,9 +69,9 @@ fontes:
     url: "https://veiculos.fipe.org.br/"
 relacionados:
   - titulo: "Ficha técnica completa: Volkswagen T-Cross 1.0 TSI"
-    url: "/ficha-tecnica/volkswagen-t-cross-10-tsi"
+    url: "/ficha-tecnica/volkswagen/t-cross/"
   - titulo: "Ficha técnica completa: Hyundai Creta 1.0 Turbo"
-    url: "/ficha-tecnica/hyundai-creta-10-turbo"
+    url: "/ficha-tecnica/hyundai/creta/"
 ---
 
 T-Cross e Creta são os dois SUVs compactos mais vendidos do Brasil em 2025, ambos com motor 1.0 turbo de 116 cv, e a escolha entre eles define qual relação custo-benefício faz sentido para o seu perfil. Este comparativo técnico apresenta as diferenças reais de consumo, equipamentos, garantia e custo de manutenção para que você tome a decisão com dados concretos, não com impressão de showroom.

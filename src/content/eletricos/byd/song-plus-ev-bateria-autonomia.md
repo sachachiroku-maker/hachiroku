@@ -62,7 +62,7 @@ fontes:
     url: "https://www.abve.org.br/relatorios"
 relacionados:
   - titulo: "BYD Song Plus EV: ficha técnica completa"
-    url: "/ficha-tecnica/byd/song-plus-ev"
+    url: "/ficha-tecnica/byd/song-plus-premium-ev/"
   - titulo: "Problemas comuns em carros elétricos no Brasil"
     url: "/problemas/eletricos/problemas-comuns-brasil"
 ---

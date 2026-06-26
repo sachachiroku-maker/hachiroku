@@ -44,7 +44,7 @@ relacionados:
   - titulo: "Câmbio automático: torque converter"
     url: "/tecnico/cambio-automatico-torque-converter/"
   - titulo: "Ficha técnica Jeep Compass"
-    url: "/ficha-tecnica/jeep/compass-longitude-1-3-t270/"
+    url: "/ficha-tecnica/jeep/compass/"
   - titulo: "Jeep Renegade: guia de compra"
     url: "/guia-de-compra/jeep-renegade-2025/"
 draft: false

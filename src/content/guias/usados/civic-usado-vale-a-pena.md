@@ -57,7 +57,7 @@ faq:
     resposta: "Depende da prioridade. O 2.0 aspirado (disponível na 10ª geração em versões EX e EXL) não tem o problema de consumo de óleo do 1.5T e é mecanicamente mais simples, sem turbocompressor e sem injeção direta. O preço costuma ser um pouco menor no mercado de usados. A desvantagem é o desempenho: o 1.5T tem 174 cv e torque generoso em baixa rotação, enquanto o 2.0 entrega 155 cv com resposta mais lenta. Para quem prioriza tranquilidade mecânica, o 2.0 é a escolha mais conservadora."
 relacionados:
   - titulo: "Honda Civic: ficha técnica completa 10ª e 11ª geração"
-    url: "/ficha-tecnica/honda/civic/"
+    url: "/ficha-tecnica/honda/civic-touring-1-5-turbo/"
   - titulo: "Motor 1.5T Honda: consumo de óleo e como diagnosticar"
     url: "/problemas/honda/civic/consumo-oleo-1-5t/"
   - titulo: "CVT: o que é, como funciona e quando trocar o fluido"

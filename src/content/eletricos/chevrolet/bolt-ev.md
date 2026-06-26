@@ -28,7 +28,7 @@ relacionados:
   - titulo: "BYD Dolphin 2026: o elétrico compacto que brigou de frente com o Bolt"
     url: "/eletricos/byd/dolphin"
   - titulo: "Hyundai Ioniq 5: tecnologia 800V e recarga ultrarrápida no Brasil"
-    url: "/eletricos/hyundai/ioniq-5"
+    url: "/eletricos/hyundai-ioniq-5/"
   - titulo: "Quanto custa carregar um carro elétrico no Brasil em 2026?"
     url: "/guia-de-compra/custo-recarga-eletrico-brasil"
 draft: false

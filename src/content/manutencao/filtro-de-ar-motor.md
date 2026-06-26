@@ -57,7 +57,7 @@ relacionados:
   - titulo: "Como trocar o óleo do motor: guia completo passo a passo"
     url: "/manutencao/como-trocar-oleo-motor-carro/"
   - titulo: "Filtro de combustível: quando trocar e sinais de entupimento"
-    url: "/manutencao/filtro-combustivel-quando-trocar/"
+    url: "/manutencao/como-trocar-filtro-combustivel/"
   - titulo: "Consumo alto de combustível: 12 causas e como diagnosticar"
     url: "/diagnostico/consumo-alto-combustivel-causas/"
 draft: false
