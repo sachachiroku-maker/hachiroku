@@ -44,7 +44,7 @@ relacionados:
   - titulo: "Manutenção preventiva diesel"
     url: "/manutencao/manutencao-preventiva-tabela-quilometragem/"
   - titulo: "Ficha técnica Nissan Frontier"
-    url: "/ficha-tecnica/nissan/frontier-xe-2-5-diesel/"
+    url: "/ficha-tecnica/nissan/frontier-xe-2-5-diesel/-xe-2-5-diesel/"
 draft: false
 ---
 

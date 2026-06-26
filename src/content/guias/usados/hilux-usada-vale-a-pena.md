@@ -61,9 +61,9 @@ relacionados:
   - titulo: "Ranger usada vale a pena? O que checar antes de comprar"
     url: "/guia-de-compra/usados/ranger-usada-vale-a-pena"
   - titulo: "S10 usada vale a pena? Guia por geração"
-    url: "/guia-de-compra/usados/s10-usada-vale-a-pena"
+    url: "/guia-de-compra/usados/hilux-usada-vale-a-pena/"
   - titulo: "Como fazer vistoria cautelar: o que é e por que é obrigatório"
-    url: "/guia-de-compra/como-fazer-vistoria-cautelar"
+    url: "/guia-de-compra/checklist-vistoria-carro-usado/"
 draft: false
 ---
 

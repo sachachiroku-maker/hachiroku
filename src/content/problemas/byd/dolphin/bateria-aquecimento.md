@@ -57,9 +57,9 @@ fontes:
     url: "https://www.electrive.com/2024/03/15/bms-lfp-charging-throttle-explained/"
 relacionados:
   - titulo: "BYD Dolphin Mini: autonomia real no dia a dia"
-    url: "/problemas/byd/dolphin/autonomia-real-abaixo-estimada/"
+    url: "/problemas/byd/dolphin/autonomia-real-abaixo-estimada/-abaixo-estimada/"
   - titulo: "Como calibrar a bateria de carro elétrico BYD"
-    url: "/guia-de-compra/byd/calibrar-bateria-eletrico"
+    url: "/eletricos/"
 ---
 
 O BYD Dolphin Mini usa uma bateria de litio-ferro-fosfato (LFP) com capacidade de 38,88 kWh. Essa química oferece longa vida util e segurança elevada, mas apresenta uma caracteristica bem conhecida: aquece mais rapidamente do que baterias NMC quando a carga DC é aplicada em estados de carga (SoC) acima de 80 a 90%.

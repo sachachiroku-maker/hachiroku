@@ -27,7 +27,7 @@ relacionados:
   - titulo: "Como identificar falha na bomba de combustível"
     url: "/manutencao/como-identificar-falha-bomba-combustivel/"
   - titulo: "Motor engasga e perde potência"
-    url: "/problemas/motor-engasga-perde-potencia/"
+    url: "/manutencao/check-engine-acendeu-o-que-fazer//"
   - titulo: "Filtro de combustível: quando trocar"
     url: "/manutencao/como-trocar-filtro-combustivel/"
 draft: false

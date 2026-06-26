@@ -69,11 +69,11 @@ afiliados:
 
 relacionados:
   - titulo: "Rampage 1.3 T270: ficha técnica completa"
-    url: "/ficha-tecnica/ram/rampage/1-3-t270"
+    url: "/ficha-tecnica/ram/rampage-rebel-1-3-t270/"
   - titulo: "Como trocar o ATF do câmbio automático em casa"
-    url: "/guia-de-compra/cambio-automatico/troca-atf"
+    url: "/manutencao/troca-oleo-cambio-automatico/"
   - titulo: "Erros OBD mais comuns em pickups modernas"
-    url: "/guia-de-compra/obd/erros-pickup"
+    url: "/manutencao/guia-scanner-obd2-como-usar/"
 ---
 
 ## Rampage 1.3 T270: solavanco ao engatar D ou R com motor frio

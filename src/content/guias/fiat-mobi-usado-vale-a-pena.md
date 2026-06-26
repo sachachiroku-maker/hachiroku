@@ -55,11 +55,11 @@ relacionados:
   - titulo: "Melhor Carro Popular Custo-Benefício 2026"
     url: "/guia-de-compra/melhor-carro-popular-custo-beneficio-2026/"
   - titulo: "Onix Usado Vale a Pena?"
-    url: "/guia-de-compra/onix-usado-vale-a-pena/"
+    url: "/guia-de-compra/usados/onix-usado-vale-a-pena//"
   - titulo: "Argo Usado Vale a Pena?"
-    url: "/guia-de-compra/argo-usado-vale-a-pena/"
+    url: "/guia-de-compra/usados/argo-usado-vale-a-pena//"
   - titulo: "Estimador de Custo de Reparo"
-    url: "/guia-de-compra/estimador-custo-reparo/"
+    url: "/guia-de-compra/jornada/estimador-custo-reparo//"
   - titulo: "Problemas Comuns por Modelo"
     url: "/problemas/"
 draft: false
@@ -249,7 +249,7 @@ Os preços variam bastante por ano, versão e estado de conservação. Como refe
 
 O ponto ótimo de custo-benefício fica nos modelos 2019 a 2021 com até 70.000 km, que já passaram pela depreciação mais acentuada mas ainda têm vida longa pela frente.
 
-Use nossa ferramenta de [estimador de custo de reparo](/guia-de-compra/estimador-custo-reparo/) para calcular quanto vai gastar caso encontre algum dos problemas listados acima.
+Use nossa ferramenta de [estimador de custo de reparo](/guia-de-compra/jornada/estimador-custo-reparo//) para calcular quanto vai gastar caso encontre algum dos problemas listados acima.
 
 ---
 
@@ -265,4 +265,4 @@ As ressalvas são reais mas gerenciáveis: o ar-condicionado tem desempenho limi
 
 Teste o motor frio, o ar-condicionado em temperatura alta e a suspensão em terreno irregular. Se os três passarem no teste, negocie sem medo. Se um deles falhar, use como argumento de redução de preço calculando o custo do reparo.
 
-Quer comparar com outras opções antes de decidir? Veja também nossa análise do [Onix Usado Vale a Pena](/guia-de-compra/onix-usado-vale-a-pena/) e do [Argo Usado Vale a Pena](/guia-de-compra/argo-usado-vale-a-pena/).
+Quer comparar com outras opções antes de decidir? Veja também nossa análise do [Onix Usado Vale a Pena](/guia-de-compra/usados/onix-usado-vale-a-pena//) e do [Argo Usado Vale a Pena](/guia-de-compra/usados/argo-usado-vale-a-pena//).

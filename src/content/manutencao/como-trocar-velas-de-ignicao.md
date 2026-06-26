@@ -61,11 +61,11 @@ afiliados:
     programa: "amazon"
 relacionados:
   - titulo: "Como identificar falha de ignição pelo código OBD2"
-    url: "/problemas/codigo-p0300-misfire"
+    url: "/manutencao/check-engine-acendeu-o-que-fazer/"
   - titulo: "Troca de bobine de ignição: quando substituir"
     url: "/manutencao/como-trocar-bobine-ignicao"
   - titulo: "Vela preta ou oleosa: o que o eletrodo revela sobre o motor"
-    url: "/diagnostico/leitura-de-velas"
+    url: "/manutencao/"
 draft: false
 ---
 

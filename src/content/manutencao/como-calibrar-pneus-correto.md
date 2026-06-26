@@ -40,9 +40,9 @@ fontes:
     url: "https://www.anip.com.br/cuidados-com-pneus/"
 relacionados:
   - titulo: "Pneu careca: riscos, multa e quando trocar"
-    url: "/problemas/pneu-careca-riscos-e-multa"
+    url: "/manutencao/calibragem-de-pneus/"
   - titulo: "Ficha técnica: como ler etiqueta do pneu"
-    url: "/ficha-tecnica/como-ler-etiqueta-do-pneu"
+    url: "/manutencao/calibragem-de-pneus/"
 ---
 
 Calibrar o pneu é a manutenção mais simples que existe, e uma das que mais afeta segurança, consumo e durabilidade do carro. A pressão errada, seja para mais ou para menos, muda o comportamento do veículo na frenagem, no consumo de combustível e no desgaste da borracha. O procedimento correto leva menos de dez minutos e pode ser feito com um calibrador de posto ou com equipamento próprio em casa.

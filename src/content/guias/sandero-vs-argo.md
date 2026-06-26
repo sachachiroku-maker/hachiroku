@@ -52,15 +52,15 @@ afiliados:
     cta: "Ver produto recomendado"
 relacionados:
   - titulo: "Argo Usado: Vale a Pena Comprar em 2026?"
-    url: "/guia-de-compra/argo-usado-vale-a-pena/"
+    url: "/guia-de-compra/usados/argo-usado-vale-a-pena//"
   - titulo: "Onix vs HB20: Qual Popular Comprar?"
-    url: "/guia-de-compra/onix-vs-hb20/"
+    url: "/guia-de-compra/comparativos/onix-vs-hb20//"
   - titulo: "Melhor Carro Popular Custo-Benefício 2026"
     url: "/guia-de-compra/melhor-carro-popular-custo-beneficio-2026/"
   - titulo: "Checklist Vistoria Carro Usado"
     url: "/guia-de-compra/checklist-vistoria-carro-usado/"
   - titulo: "Polo Usado: Vale a Pena?"
-    url: "/guia-de-compra/polo-usado-vale-a-pena/"
+    url: "/guia-de-compra/usados/polo-usado-vale-a-pena//"
 draft: false
 ---
 
@@ -249,8 +249,8 @@ A diferença de segurança entre os dois não é nuance: é a distinção entre 
 
 ## Antes de Fechar o Negócio
 
-Independente do modelo escolhido, faça uma vistoria completa antes de assinar qualquer documento. Veja o checklist de pontos críticos para hatches nacionais no nosso guia de [vistoria de carro usado](/guia-de-compra/checklist-vistoria-carro-usado/). Se o carro já tem algum problema identificado, use nosso [estimador de custo de reparo](/guia-de-compra/estimador-custo-reparo/) para saber se o preço pedido ainda faz sentido.
+Independente do modelo escolhido, faça uma vistoria completa antes de assinar qualquer documento. Veja o checklist de pontos críticos para hatches nacionais no nosso guia de [vistoria de carro usado](/guia-de-compra/checklist-vistoria-carro-usado/). Se o carro já tem algum problema identificado, use nosso [estimador de custo de reparo](/guia-de-compra/jornada/estimador-custo-reparo//) para saber se o preço pedido ainda faz sentido.
 
-Para mais comparativos nessa faixa de preço, leia também o guia completo sobre o [Onix vs HB20](/guia-de-compra/onix-vs-hb20/) e o ranking de [melhor carro popular custo-benefício em 2026](/guia-de-compra/melhor-carro-popular-custo-beneficio-2026/).
+Para mais comparativos nessa faixa de preço, leia também o guia completo sobre o [Onix vs HB20](/guia-de-compra/comparativos/onix-vs-hb20//) e o ranking de [melhor carro popular custo-benefício em 2026](/guia-de-compra/melhor-carro-popular-custo-beneficio-2026/).
 
-**Tem dúvida específica sobre o Argo antes de comprar?** Acesse o guia dedicado: [Argo Usado: Vale a Pena Comprar em 2026?](/guia-de-compra/argo-usado-vale-a-pena/)
+**Tem dúvida específica sobre o Argo antes de comprar?** Acesse o guia dedicado: [Argo Usado: Vale a Pena Comprar em 2026?](/guia-de-compra/usados/argo-usado-vale-a-pena//)

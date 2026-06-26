@@ -79,7 +79,7 @@ relacionados:
   - titulo: "Toyota Corolla vs Honda Civic: qual escolher?"
     url: "/guia-de-compra/comparativos/corolla-vs-civic/"
   - titulo: "Ficha técnica Toyota Corolla XRX 2.0"
-    url: "/ficha-tecnica/toyota/corolla-cross-xrx-2-0/"
+    url: "/ficha-tecnica/toyota/corolla-cross-xrx-2-0/-xrx-2-0/"
 draft: false
 ---
 

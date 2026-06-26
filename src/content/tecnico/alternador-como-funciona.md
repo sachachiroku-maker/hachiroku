@@ -29,9 +29,9 @@ relacionados:
   - titulo: "Como funciona a bateria do carro e quando trocar"
     url: "/tecnico/bateria-como-funciona/"
   - titulo: "Correia do alternador: sintomas de desgaste e custo de troca"
-    url: "/manutencao/correia-alternador-quando-trocar/"
+    url: "/manutencao/como-trocar-correia-auxiliar//"
   - titulo: "Luz da bateria no painel acendeu: o que fazer"
-    url: "/diagnostico/luz-bateria-painel-acendeu/"
+    url: "/manutencao/sinais-alternador-com-problema//"
   - titulo: "Como trocar correia dentada"
     url: "/manutencao/como-trocar-correia-dentada/"
 draft: false

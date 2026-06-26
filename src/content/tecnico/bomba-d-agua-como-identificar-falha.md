@@ -30,7 +30,7 @@ relacionados:
   - titulo: "Como trocar a correia dentada: intervalos, custo e risco de quebra"
     url: "/manutencao/como-trocar-correia-dentada/"
   - titulo: "Líquido de arrefecimento: qual usar, quando trocar e quanto custa"
-    url: "/manutencao/liquido-arrefecimento-qual-usar/"
+    url: "/manutencao/como-verificar-fluido-arrefecimento//"
   - titulo: "Motor superaquecendo: causas, o que fazer e quanto custa resolver"
     url: "/tecnico/motor-superaquecendo-causas-e-solucoes/"
 draft: false

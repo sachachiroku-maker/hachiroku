@@ -36,7 +36,7 @@ relacionados:
   - titulo: "Wallbox: Como Instalar Carregador Elétrico em Casa"
     url: "/eletricos/wallbox-instalacao-em-casa/"
   - titulo: "Carro Elétrico Vale a Pena? Custo Total de Propriedade"
-    url: "/eletricos/carro-eletrico-vale-a-pena/"
+    url: "/eletricos/vale-a-pena-comprar-carro-eletrico-brasil//"
   - titulo: "Mapa de Postos de Recarga Elétrica no Brasil 2026"
     url: "/eletricos/mapa-postos-recarga-brasil/"
 draft: false

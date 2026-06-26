@@ -56,11 +56,11 @@ relacionados:
   - titulo: "Checklist completo para vistoria de carro usado"
     url: "/guia-de-compra/checklist-vistoria-carro-usado/"
   - titulo: "Hyundai Creta Usado: Vale a Pena Comprar?"
-    url: "/guia-de-compra/creta-usado-vale-a-pena/"
+    url: "/guia-de-compra/usados/creta-usado-vale-a-pena//"
   - titulo: "Tracker vs Creta: Qual Comprar Usado?"
-    url: "/guia-de-compra/tracker-vs-creta/"
+    url: "/guia-de-compra/comparativos/tracker-vs-creta//"
   - titulo: "Estimador de Custo de Reparo"
-    url: "/guia-de-compra/estimador-custo-reparo/"
+    url: "/guia-de-compra/jornada/estimador-custo-reparo//"
   - titulo: "Consertar ou Trocar: Vale a Pena?"
     url: "/guia-de-compra/consertar-ou-trocar-vale-a-pena/"
 draft: false
@@ -234,8 +234,8 @@ Fora dessas condições, especialmente sem histórico do câmbio, o risco financ
 
 Se você está em dúvida entre o Kicks e o Creta usado, considere: o Creta tem menor risco de câmbio, mas o Kicks oferece mais espaço interno pelo mesmo preço. A escolha depende do quanto você está disposto a investir na vistoria e no histórico de manutenção antes de fechar negócio.
 
-Leia também nossa análise completa do [Hyundai Creta Usado](/guia-de-compra/creta-usado-vale-a-pena/) e o comparativo [Tracker vs Creta](/guia-de-compra/tracker-vs-creta/) para tomar a decisão com mais contexto.
+Leia também nossa análise completa do [Hyundai Creta Usado](/guia-de-compra/usados/creta-usado-vale-a-pena//) e o comparativo [Tracker vs Creta](/guia-de-compra/comparativos/tracker-vs-creta//) para tomar a decisão com mais contexto.
 
 ---
 
-**Pronto para fazer a vistoria?** Use nosso [estimador de custo de reparo](/guia-de-compra/estimador-custo-reparo/) para calcular o valor real da compra antes de negociar. Se ainda está na dúvida entre consertar seu atual ou trocar, veja também: [Consertar ou Trocar: Vale a Pena?](/guia-de-compra/consertar-ou-trocar-vale-a-pena/)
+**Pronto para fazer a vistoria?** Use nosso [estimador de custo de reparo](/guia-de-compra/jornada/estimador-custo-reparo//) para calcular o valor real da compra antes de negociar. Se ainda está na dúvida entre consertar seu atual ou trocar, veja também: [Consertar ou Trocar: Vale a Pena?](/guia-de-compra/consertar-ou-trocar-vale-a-pena/)

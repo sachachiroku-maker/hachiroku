@@ -59,11 +59,11 @@ relacionados:
   - titulo: "Checklist Completo de Vistoria para Carro Usado"
     url: "/guia-de-compra/checklist-vistoria-carro-usado/"
   - titulo: "Polo Usado Vale a Pena? Motor TSI e Câmbio DSG"
-    url: "/guia-de-compra/polo-usado-vale-a-pena/"
+    url: "/guia-de-compra/usados/polo-usado-vale-a-pena//"
   - titulo: "Onix Usado Vale a Pena? Guia Completo 2026"
-    url: "/guia-de-compra/onix-usado-vale-a-pena/"
+    url: "/guia-de-compra/usados/onix-usado-vale-a-pena//"
   - titulo: "Polo TSI vs Onix Turbo: Qual Vale Mais?"
-    url: "/guia-de-compra/polo-tsi-vs-onix-turbo/"
+    url: "/guia-de-compra/comparativos/polo-tsi-vs-onix-turbo//"
   - titulo: "Melhor Carro Popular Custo-Benefício 2026"
     url: "/guia-de-compra/melhor-carro-popular-custo-beneficio-2026/"
 draft: false
@@ -231,8 +231,8 @@ Nesse caso, o custo da inspeção técnica profissional (R$ 300 a R$ 600 em uma 
 
 **Se o orçamento for limitado e você quer previsibilidade:** o Cronos 2021-2022 é o adversário mais honesto no mercado de usados, com menor custo de manutenção e mecânica mais simples.
 
-Use o [Checklist Completo de Vistoria para Carro Usado](/guia-de-compra/checklist-vistoria-carro-usado/) antes de fechar qualquer negócio e, se precisar comparar tecnicamente com o irmão de plataforma, leia o [Polo Usado Vale a Pena](/guia-de-compra/polo-usado-vale-a-pena/) para entender as diferenças entre os câmbios Aisin e DSG na prática.
+Use o [Checklist Completo de Vistoria para Carro Usado](/guia-de-compra/checklist-vistoria-carro-usado/) antes de fechar qualquer negócio e, se precisar comparar tecnicamente com o irmão de plataforma, leia o [Polo Usado Vale a Pena](/guia-de-compra/usados/polo-usado-vale-a-pena//) para entender as diferenças entre os câmbios Aisin e DSG na prática.
 
 ---
 
-*Precisa de mais ajuda para decidir? Use nossa ferramenta de [Estimador de Custo de Reparo](/guia-de-compra/estimador-custo-reparo/) para calcular quanto custará manter o Virtus que você está avaliando.*
+*Precisa de mais ajuda para decidir? Use nossa ferramenta de [Estimador de Custo de Reparo](/guia-de-compra/jornada/estimador-custo-reparo//) para calcular quanto custará manter o Virtus que você está avaliando.*

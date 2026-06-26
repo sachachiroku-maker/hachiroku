@@ -53,9 +53,9 @@ relacionados:
   - titulo: "Melhor popular até R$ 80 mil em 2025"
     url: "/guia-de-compra/comparativos/melhores-populares-2025"
   - titulo: "HB20 1.0 Turbo: vale a pena?"
-    url: "/guia-de-compra/hyundai/hb20-turbo-vale-a-pena"
+    url: "/guia-de-compra/usados/hb20-usado-vale-a-pena/"
   - titulo: "Fiat Mobi: pontos fortes e fracos"
-    url: "/guia-de-compra/fiat/fiat-mobi-pontos-fortes-fracos"
+    url: "/guia-de-compra/fiat-mobi-usado-vale-a-pena/"
 draft: false
 ---
 

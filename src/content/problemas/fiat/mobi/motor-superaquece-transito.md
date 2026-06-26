@@ -33,7 +33,7 @@ relacionados:
   - titulo: "Fiat Uno: motor superaquecendo"
     url: "/problemas/fiat/uno/motor-superaquecendo/"
   - titulo: "Manutenção preventiva: checklist completo"
-    url: "/manutencao/manutencao-preventiva-carro-checklist/"
+    url: "/manutencao/manutencao-preventiva-tabela-quilometragem//"
 draft: false
 ---
 

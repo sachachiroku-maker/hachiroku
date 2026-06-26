@@ -46,7 +46,7 @@ relacionados:
   - titulo: "Disco de freio empenado: causas"
     url: "/manutencao/disco-de-freio-empenado/"
   - titulo: "Ficha técnica VW Taos"
-    url: "/ficha-tecnica/volkswagen/taos/"
+    url: "/ficha-tecnica/volkswagen/taos-comfortline-1-4-tsi//"
 draft: false
 ---
 

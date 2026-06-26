@@ -51,15 +51,15 @@ afiliados:
     cta: "Ver produto recomendado"
 relacionados:
   - titulo: "HB20 Usado: Vale a Pena Comprar em 2026?"
-    url: "/guia-de-compra/hb20-usado-vale-a-pena/"
+    url: "/guia-de-compra/usados/hb20-usado-vale-a-pena//"
   - titulo: "Onix vs HB20: Qual o Melhor Popular em 2026?"
-    url: "/guia-de-compra/onix-vs-hb20/"
+    url: "/guia-de-compra/comparativos/onix-vs-hb20//"
   - titulo: "Melhor Carro Popular Custo-Benefício 2026"
     url: "/guia-de-compra/melhor-carro-popular-custo-beneficio-2026/"
   - titulo: "Checklist de Vistoria: Carro Usado"
     url: "/guia-de-compra/checklist-vistoria-carro-usado/"
   - titulo: "Estimador de Custo de Reparo"
-    url: "/guia-de-compra/estimador-custo-reparo/"
+    url: "/guia-de-compra/jornada/estimador-custo-reparo//"
 draft: false
 ---
 
@@ -309,7 +309,7 @@ Independentemente do modelo escolhido, antes de fechar o negócio:
 3. No Yaris: verifique a cor e o nível do fluido da CVT (deve ser vermelho-claro, nunca marrom ou com odor de queimado)
 4. No HB20 Turbo: teste a fundo fria e quente para ouvir ruído de corrente do comando
 5. Verifique se há atualizações de software pendentes para o câmbio (concessionária faz gratuitamente mesmo fora da garantia em muitos casos)
-6. Use a [ferramenta de estimador de custo de reparo](/guia-de-compra/estimador-custo-reparo/) do Hachiroku para calcular o impacto de qualquer defeito encontrado na vistoria
+6. Use a [ferramenta de estimador de custo de reparo](/guia-de-compra/jornada/estimador-custo-reparo//) do Hachiroku para calcular o impacto de qualquer defeito encontrado na vistoria
 
 ---
 

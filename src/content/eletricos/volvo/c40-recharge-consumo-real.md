@@ -61,7 +61,7 @@ relacionados:
   - titulo: "Ficha técnica: Volvo C40 Recharge no Brasil"
     url: "/ficha-tecnica/volvo/c40-recharge"
   - titulo: "Problemas comuns em SUVs elétricos premium no Brasil"
-    url: "/problemas/suvs-eletricos-premium-brasil"
+    url: "/eletricos/"
 ---
 
 O **Volvo C40 Recharge** entrega autonomia real de cerca de 350 km no Brasil, abaixo dos 438 km do ciclo WLTP europeu, porque o calor intenso e o uso do ar-condicionado elevam o consumo energético em até 25%. Com carregamento DC de 150 kW, o SUV vai de 10% a 80% em aproximadamente 30 minutos, viabilizando viagens longas com paradas planejadas.

@@ -42,9 +42,9 @@ fontes:
     url: "https://www.anfavea.com.br/docs/guia-manutencao-preventiva-2024.pdf"
 relacionados:
   - titulo: "Ficha técnica: Chevrolet Onix 1.0 Turbo 2024"
-    url: "/ficha-tecnica/chevrolet-onix-1-0-turbo-2024"
+    url: "/ficha-tecnica/chevrolet/onix-turbo/"
   - titulo: "Problemas no motor: engasgos e perda de potência"
-    url: "/problemas/motor-engasga-perde-potencia"
+    url: "/manutencao/check-engine-acendeu-o-que-fazer/"
 ---
 
 Trocar o filtro de ar do motor é uma das manutenções mais simples: leva até 30 minutos, custa entre R$ 30 e R$ 90 e não exige nenhuma ferramenta especial. Um filtro entupido reduz o fluxo de ar para o motor, aumenta o consumo de combustível e causa engasgos na aceleração. Identificando o problema cedo e trocando o componente você mesmo, evita uma visita desnecessária à oficina e mantém o motor funcionando com eficiência.

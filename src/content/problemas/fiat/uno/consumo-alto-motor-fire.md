@@ -44,9 +44,9 @@ relacionados:
   - titulo: "Fiat Uno: velas de ignição"
     url: "/problemas/fiat/uno/vela-ignicao-fire/"
   - titulo: "Troca de filtro de ar: passo a passo"
-    url: "/manutencao/troca-filtro-ar-passo-a-passo/"
+    url: "/manutencao/como-trocar-filtro-ar-motor//"
   - titulo: "Ficha técnica Fiat Uno"
-    url: "/ficha-tecnica/fiat/uno-attractive-1-0/"
+    url: "/ficha-tecnica/fiat/uno-way-1-0//"
 draft: false
 ---
 

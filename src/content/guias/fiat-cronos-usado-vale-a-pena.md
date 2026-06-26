@@ -56,13 +56,13 @@ relacionados:
   - titulo: "Checklist completo para vistoria de carro usado"
     url: "/guia-de-compra/checklist-vistoria-carro-usado/"
   - titulo: "Onix Usado Vale a Pena em 2026?"
-    url: "/guia-de-compra/onix-usado-vale-a-pena/"
+    url: "/guia-de-compra/usados/onix-usado-vale-a-pena//"
   - titulo: "Argo Usado Vale a Pena em 2026?"
-    url: "/guia-de-compra/argo-usado-vale-a-pena/"
+    url: "/guia-de-compra/usados/argo-usado-vale-a-pena//"
   - titulo: "Melhor Carro Popular Custo-Benefício 2026"
     url: "/guia-de-compra/melhor-carro-popular-custo-beneficio-2026/"
   - titulo: "Estimador de Custo de Reparo"
-    url: "/guia-de-compra/estimador-custo-reparo/"
+    url: "/guia-de-compra/jornada/estimador-custo-reparo//"
 draft: false
 ---
 
@@ -219,7 +219,7 @@ O Cronos não é o carro certo para todo mundo. Ele se destaca em perfis especí
 - Precisa de um carro com histórico de confiabilidade sem necessidade de vistoria prévia
 - Quer um popular com custo de manutenção mínimo para os próximos 3 anos sem surpresa
 
-Nesse segundo caso, o [Onix usado](/guia-de-compra/onix-usado-vale-a-pena/) e o [HB20 usado](/guia-de-compra/hb20-usado-vale-a-pena/) têm histórico mais consolidado de confiabilidade nas versões manuais.
+Nesse segundo caso, o [Onix usado](/guia-de-compra/usados/onix-usado-vale-a-pena//) e o [HB20 usado](/guia-de-compra/usados/hb20-usado-vale-a-pena//) têm histórico mais consolidado de confiabilidade nas versões manuais.
 
 ---
 
@@ -265,4 +265,4 @@ Mas os quatro problemas crônicos descritos aqui, especialmente a sonda lambda e
 
 Se o carro passou nessa checagem, é um dos melhores sedãs compactos usados disponíveis no mercado brasileiro em 2026.
 
-Quer saber o custo estimado de um reparo específico antes de tomar a decisão? Use o [Estimador de Custo de Reparo do Hachiroku](/guia-de-compra/estimador-custo-reparo/) e chegue na negociação com os números na mão.
+Quer saber o custo estimado de um reparo específico antes de tomar a decisão? Use o [Estimador de Custo de Reparo do Hachiroku](/guia-de-compra/jornada/estimador-custo-reparo//) e chegue na negociação com os números na mão.

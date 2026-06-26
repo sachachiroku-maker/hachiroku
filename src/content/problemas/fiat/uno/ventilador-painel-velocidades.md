@@ -44,7 +44,7 @@ relacionados:
   - titulo: "Fiat Uno: ar-condicionado fraco"
     url: "/problemas/fiat/uno/ar-condicionado-fraco/"
   - titulo: "Ficha técnica Fiat Uno"
-    url: "/ficha-tecnica/fiat/uno-attractive-1-0/"
+    url: "/ficha-tecnica/fiat/uno-way-1-0//"
 draft: false
 ---
 

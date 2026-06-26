@@ -81,7 +81,7 @@ afiliados:
     cta: "Ver preço na Amazon"
 
 relacionados:
-  - { titulo: "Ficha técnica Honda Civic Touring 1.5 Turbo 2023", url: "/ficha-tecnica/honda/civic-touring-1-5-turbo/" }
+  - { titulo: "Ficha técnica Honda Civic Touring 1.5 Turbo 2023", url: "/ficha-tecnica/honda/civic-touring-1-5-turbo/-touring-1-5-turbo/" }
   - { titulo: "Consumo de óleo no motor 1.5 turbo do Civic", url: "/problemas/honda/civic/consumo-de-oleo-turbo/" }
   - { titulo: "CVT do Civic com solavanco", url: "/problemas/honda/civic/cambio-cvt-solavanco/" }
 draft: false

@@ -46,7 +46,7 @@ relacionados:
   - titulo: "Câmbio automático: torque converter"
     url: "/tecnico/cambio-automatico-torque-converter/"
   - titulo: "Ficha técnica Chevrolet Onix"
-    url: "/ficha-tecnica/chevrolet/onix-turbo-1-0/"
+    url: "/ficha-tecnica/chevrolet/onix-turbo//"
 draft: false
 ---
 

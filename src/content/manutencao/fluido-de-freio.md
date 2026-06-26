@@ -57,11 +57,11 @@ afiliados:
     cta: "Ver produto"
 relacionados:
   - titulo: "Como saber se as pastilhas de freio precisam ser trocadas"
-    url: "/freios/pastilhas-de-freio-quando-trocar/"
+    url: "/manutencao/sinais-pastilha-freio-desgastada//"
   - titulo: "Freio ABS: o que é e como funciona no seu carro"
-    url: "/freios/freio-abs-o-que-e/"
+    url: "/manutencao/barulhos-no-freio//"
   - titulo: "Manutenção preventiva carro: checklist completo"
-    url: "/manutencao/manutencao-preventiva-carro-checklist/"
+    url: "/manutencao/manutencao-preventiva-tabela-quilometragem//"
 draft: false
 ---
 

@@ -53,7 +53,7 @@ relacionados:
   - titulo: "Fiat Uno: Amortecedor Dianteiro Batendo — Quando Trocar"
     url: "/problemas/fiat/uno/amortecedor-dianteiro-batendo"
   - titulo: "Barulho ao Virar o Volante: Pivô ou Rolamento de Cubo?"
-    url: "/problemas/diagnostico-barulho-volante-pivo-rolamento"
+    url: "/manutencao/"
 pontosChave:
   - "Sintoma: batida seca ou rangido na frente ao passar em buracos, lombadas ou ao virar o volante"
   - "Causa: bieleta da barra estabilizadora desgastada é a mais comum; seguida por coxim e bucha de bandeja"

@@ -112,7 +112,7 @@ faq:
 
 relacionados:
   - { titulo: "Ficha técnica do Hyundai HB20S Platinum 1.0 Turbo 2024 (sedã)", url: "/ficha-tecnica/hyundai/hb20s-platinum-1-0-turbo/" }
-  - { titulo: "Câmbio CVT: como funciona e quando trocar o fluido", url: "/guia-de-compra/cambio-cvt-como-funciona/" }
+  - { titulo: "Câmbio CVT: como funciona e quando trocar o fluido", url: "/tecnico/cambio-cvt-como-funciona//" }
 
 draft: false
 ---

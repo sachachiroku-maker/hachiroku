@@ -32,7 +32,7 @@ relacionados:
   - titulo: "Motor 1.0 turbo: durabilidade real"
     url: "/tecnico/motor-1-0-turbo-durabilidade/"
   - titulo: "Ficha técnica RAM Rampage"
-    url: "/ficha-tecnica/ram/rampage/1-3-t270/"
+    url: "/ficha-tecnica/ram/rampage-rebel-1-3-t270//"
 draft: false
 ---
 

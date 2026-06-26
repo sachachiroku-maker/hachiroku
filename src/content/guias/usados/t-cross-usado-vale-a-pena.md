@@ -42,7 +42,7 @@ relacionados:
   - titulo: "Polo TSI vs Onix Turbo: qual hatch compacto?"
     url: "/guia-de-compra/comparativos/polo-tsi-vs-onix-turbo/"
   - titulo: "Ficha técnica VW Taos"
-    url: "/ficha-tecnica/volkswagen/taos-comfortline-1-4-tsi/"
+    url: "/ficha-tecnica/volkswagen/taos-comfortline-1-4-tsi/-comfortline-1-4-tsi/"
 afiliados:
   - produto: "Scanner OBD2 Bluetooth"
     nota: "Lê o consumo de óleo registrado pela ECU e os parâmetros de adaptação do câmbio antes de fechar a compra."

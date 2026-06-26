@@ -51,11 +51,11 @@ faq:
     resposta: "A comparação mais justa é S10 LTZ 4x4 2.8 contra Ranger Limited 2.0 bi-turbo. As duas entram na mesma faixa de preço e atendem o mesmo perfil de comprador que quer trabalho pesado sem abrir mão de conforto."
 relacionados:
   - titulo: "Melhor Scanner OBD2 para Picapes Diesel: Guia 2025"
-    url: "/guia-de-compra/scanner-obd2-picapes-diesel"
+    url: "/manutencao/scanner-obd2/"
   - titulo: "Chevrolet S10 2.8 Turbo: Revisão Completa e Custos"
-    url: "/guia-de-compra/s10-2-8-turbo-revisao-custos"
+    url: "/revisao/"
   - titulo: "Ford Ranger EcoBlue: Manutenção e Intervalos Oficiais"
-    url: "/guia-de-compra/ranger-ecoblue-manutencao"
+    url: "/manutencao/"
 draft: false
 ---
 

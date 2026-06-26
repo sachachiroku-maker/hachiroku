@@ -53,9 +53,9 @@ relacionados:
   - titulo: "Toyota Hilux vs L200 Triton: Qual Picape Resiste Mais?"
     url: "/guia-de-compra/comparativos/hilux-vs-l200-triton"
   - titulo: "Nissan Frontier: Guia Completo de Revisão e Manutenção"
-    url: "/guia-de-compra/manutencao/nissan-frontier-revisao"
+    url: "/revisao/"
   - titulo: "Melhor Picape Diesel Média de 2025: Ranking Completo"
-    url: "/guia-de-compra/ranking/picapes-diesel-media-2025"
+    url: "/guia-de-compra/comparativos/hilux-vs-ranger/"
 draft: false
 ---
 

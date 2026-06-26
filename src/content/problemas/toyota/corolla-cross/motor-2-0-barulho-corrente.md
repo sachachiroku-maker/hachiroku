@@ -58,7 +58,7 @@ relacionados:
   - titulo: "Todos os problemas relatados no Toyota Corolla Cross"
     url: "/problemas/toyota/corolla-cross/"
   - titulo: "Ficha técnica completa: Toyota Corolla Cross XRX 2.0"
-    url: "/ficha-tecnica/toyota/corolla-cross-xrx-2-0/"
+    url: "/ficha-tecnica/toyota/corolla-cross-xrx-2-0/-xrx-2-0/"
 pontosChave:
   - "Sintoma: barulho metálico nos primeiros segundos do arranque a frio, especialmente abaixo de 20°C"
   - "Causa: tensionador hidráulico aguardando pressão de óleo para estabilizar a corrente"

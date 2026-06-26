@@ -1,0 +1,35 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import SiloCta from '../../components/ui/SiloCta.astro';
+const itens = (await getCollection('revisao', ({ data }) => !data.draft)).map((e) => ({ id: e.id, ...e.data }));
+
+const site = 'https://hachiroku.com.br';
+const url = `${site}/revisao/`;
+const jsonld = {
+  '@context': 'https://schema.org',
+  '@graph': [
+    { '@type': 'BreadcrumbList', '@id': `${url}#breadcrumb`, itemListElement: [
+      { '@type': 'ListItem', position: 1, name: 'Início', item: `${site}/` },
+      { '@type': 'ListItem', position: 2, name: 'Revisão', item: url },
+    ] },
+    { '@type': 'CollectionPage', '@id': `${url}#webpage`,
+      name: 'Tabelas de Revisão por Modelo | Hachiroku',
+      description: 'Tabelas completas de revisão por quilometragem para os principais carros vendidos no Brasil. Saiba o que trocar e quando, com custos estimados.',
+      inLanguage: 'pt-BR', isPartOf: { '@id': `${site}/#website` },
+      publisher: { '@id': `${site}/#organization` }, breadcrumb: { '@id': `${url}#breadcrumb` } },
+  ],
+};
+---
+<BaseLayout title="Tabelas de Revisão por Modelo | Hachiroku" description="Tabelas completas de revisão por quilometragem para os principais carros vendidos no Brasil. Saiba o que trocar e quando, com custos estimados." canonical={url}>
+  <script type="application/ld+json" set:html={JSON.stringify(jsonld)} />
+  <section class="hero" style="padding-block:var(--space-16)">
+    <p class="kicker" style="color:var(--asphalt-300)">POR QUILOMETRAGEM · TABELAS COMPLETAS</p>
+    <h1>Revisão</h1>
+    <p class="tagline">O que trocar e quando</p>
+  </section>
+  <section class="silos" aria-label="Tabelas de revisão disponíveis">
+    {itens.map((i) => (<a class="silo-card" href={`/revisao/${i.id}/`}><h2>{i.title}</h2><p>{i.marca} {i.modelo}{i.custoEstimado ? ` · R$ ${i.custoEstimado}` : ''}</p></a>))}
+  </section>
+  <SiloCta />
+</BaseLayout>

@@ -67,7 +67,7 @@ relacionados:
   - titulo: "Todos os defeitos do Mitsubishi L200 Triton"
     url: "/problemas/mitsubishi/l200-triton/"
   - titulo: "Ficha Técnica: Mitsubishi L200 Triton Sport 2.4 Diesel"
-    url: "/ficha-tecnica/mitsubishi/l200-tecnica/l200-triton-sport-2-4-diesel/"
+    url: "/ficha-tecnica/mitsubishi/l200-triton-sport-2-4-diesel/-sport-2-4-diesel//"
 draft: false
 ---
 

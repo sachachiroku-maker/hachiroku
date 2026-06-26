@@ -28,7 +28,7 @@ relacionados:
   - titulo: "Como Trocar a Correia Dentada: Passo a Passo"
     url: "/manutencao/como-trocar-correia-dentada/"
   - titulo: "Motor EcoBoost Dragon: Ficha Técnica e Pontos de Atenção"
-    url: "/tecnico/motor-ecoboost-dragon-ficha-tecnica/"
+    url: "/tecnico//"
   - titulo: "Corrente de Distribuição: Vantagens, Riscos e Manutenção"
     url: "/tecnico/corrente-distribuicao-vantagens-riscos/"
 draft: false

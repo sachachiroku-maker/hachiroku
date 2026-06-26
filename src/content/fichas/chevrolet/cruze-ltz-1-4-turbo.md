@@ -73,8 +73,8 @@ faq:
     resposta: "O Cruze sedã LTZ 2022 tem 479 litros de porta-malas, volume generoso para um sedã médio e maior do que o de muitos SUVs compactos. O espaço interno é o ponto forte do modelo frente aos hatchs compactos da mesma categoria de preço."
 
 relacionados:
-  - { titulo: "Motor 1.4 LUV do Cruze com consumo de óleo", url: "/problemas/chevrolet/cruze/motor-1-4-turbo-consumo-oleo/" }
-  - { titulo: "Câmbio automático 6 marchas do Cruze com solavanco", url: "/problemas/chevrolet/cruze/cambio-automatico-6-solavanco/" }
+  - { titulo: "Motor 1.4 LUV do Cruze com consumo de óleo", url: "/problemas/chevrolet/cruze/consumo-oleo-1-4-turbo//" }
+  - { titulo: "Câmbio automático 6 marchas do Cruze com solavanco", url: "/problemas/chevrolet/cruze/cambio-automatico-trancos//" }
 draft: false
 ---
 

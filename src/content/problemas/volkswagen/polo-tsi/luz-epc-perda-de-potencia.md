@@ -53,7 +53,7 @@ relacionados:
   - titulo: "Volkswagen Polo TSI: Consumo Alto de Combustível — Causas e Diagnóstico"
     url: "/problemas/volkswagen/polo-tsi/consumo-alto-combustivel"
   - titulo: "Volkswagen Virtus TSI: Tranco ao Acelerar — Motor 1.0 EA211"
-    url: "/problemas/volkswagen/virtus-tsi/tranco-ao-acelerar"
+    url: "/problemas/volkswagen/virtus/tranco-ao-acelerar/"
 pontosChave:
   - "Sintoma: Luz EPC acende no painel, motor entra em modo limp e perde potência acima de 2.500 RPM"
   - "Causa: Vazamento no duto de pressão do turbo, falha no atuador do wastegate ou válvula BOV com defeito"

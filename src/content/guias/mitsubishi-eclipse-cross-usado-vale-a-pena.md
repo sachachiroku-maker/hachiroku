@@ -59,11 +59,11 @@ relacionados:
   - titulo: "Checklist completo para vistoria de carro usado"
     url: "/guia-de-compra/checklist-vistoria-carro-usado/"
   - titulo: "Creta Usado: Vale a Pena?"
-    url: "/guia-de-compra/creta-usado-vale-a-pena/"
+    url: "/guia-de-compra/usados/creta-usado-vale-a-pena//"
   - titulo: "Tracker vs Creta: Qual SUV Compacto Escolher?"
-    url: "/guia-de-compra/tracker-vs-creta/"
+    url: "/guia-de-compra/comparativos/tracker-vs-creta//"
   - titulo: "Estimador de Custo de Reparo"
-    url: "/guia-de-compra/estimador-custo-reparo/"
+    url: "/guia-de-compra/jornada/estimador-custo-reparo//"
   - titulo: "Problemas Comuns por Modelo"
     url: "/problemas/"
 draft: false
@@ -277,7 +277,7 @@ O problema é que ele pune quem não pesquisa. O câmbio CVT mal mantido é o ma
 - O preço estiver acima da tabela sem justificativa técnica
 - Você precisa de um carro com baixo custo de manutenção e peças fáceis de encontrar
 
-Use nosso [estimador de custo de reparo](/guia-de-compra/estimador-custo-reparo/) para calcular o custo total de propriedade antes de fechar negócio e veja também nossa página de [problemas comuns](/problemas/) para confirmar os pontos críticos do modelo.
+Use nosso [estimador de custo de reparo](/guia-de-compra/jornada/estimador-custo-reparo//) para calcular o custo total de propriedade antes de fechar negócio e veja também nossa página de [problemas comuns](/problemas/) para confirmar os pontos críticos do modelo.
 
 ---
 

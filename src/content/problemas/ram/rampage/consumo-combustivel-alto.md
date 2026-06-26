@@ -87,9 +87,9 @@ relacionados:
   - titulo: "Ram Rampage: Superaquecimento do Motor"
     url: "/problemas/ram/rampage/superaquecimento-motor"
   - titulo: "Como Economizar Combustível em Picapes"
-    url: "/guia-de-compra/como-economizar-combustivel-picapes"
+    url: "/manutencao/"
   - titulo: "Ram Rampage 1.3 T270 Flex: Ficha Técnica Completa"
-    url: "/ficha-tecnica/ram/rampage/1-3-t270-flex"
+    url: "/ficha-tecnica/ram/rampage-rebel-1-3-t270/"
 ---
 
 A **Ram Rampage 1.3 T270 Flex** é uma picape compacta com motor biturbo de alto desempenho, capaz de gerar 272 cv e 270 Nm de torque. Essa combinação entrega tração e capacidade de reboque acima da média do segmento, mas também eleva o consumo de combustível quando o motor é exigido no limite.

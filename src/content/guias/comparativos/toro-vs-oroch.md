@@ -50,11 +50,11 @@ faq:
     resposta: "Para uso urbano e estrada convencional, o 1.3 turbo é suficiente e mais barato. Para carga pesada, fazenda, tração 4WD e longas distâncias com peso, o 2.0 diesel é tecnicamente superior e mais eficiente na prática. O problema é o preço, que sobe para faixas acima de R$ 190 mil. Avalie se o uso justifica a diferença antes de decidir."
 relacionados:
   - titulo: "Fiat Toro 1.3 turbo: consumo de óleo e como identificar o problema"
-    url: "/guia-de-compra/problemas/toro-1-3-consumo-oleo"
+    url: "/problemas/fiat/toro/"
   - titulo: "Renault Oroch: barulho na suspensão dianteira, causa e solução"
-    url: "/guia-de-compra/problemas/oroch-barulho-suspensao"
+    url: "/problemas/renault/oroch/"
   - titulo: "Picape compacta usada: o que verificar antes de comprar"
-    url: "/guia-de-compra/comprar-usado/picape-compacta-checklist"
+    url: "/guia-de-compra/checklist-vistoria-carro-usado/"
 draft: false
 ---
 

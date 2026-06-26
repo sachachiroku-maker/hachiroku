@@ -66,9 +66,9 @@ afiliados:
     cta: "Ver produto na Amazon"
 relacionados:
   - titulo: "Como funciona o turbocompressor do Onix: guia completo"
-    url: "/chevrolet/onix/como-funciona-turbo/"
+    url: "/motor/css-prime-turbo//"
   - titulo: "Intervalo de revisão do Onix Turbo: o que troca em cada visita"
-    url: "/chevrolet/onix/intervalo-revisao/"
+    url: "/revisao/chevrolet-onix-turbo//"
   - titulo: "Manutenção do motor 1.0 Turbo: o que você precisa saber"
     url: "/manutencao/motor-1-0-turbo-manutencao/"
 draft: false

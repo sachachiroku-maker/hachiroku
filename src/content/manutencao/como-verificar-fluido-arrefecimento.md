@@ -40,9 +40,9 @@ fontes:
     url: "https://www.mobil.com/en/motoroil/resources/coolant-guide"
 relacionados:
   - titulo: "Ficha técnica: especificações de fluidos por modelo"
-    url: "/ficha-tecnica/fluidos-e-lubrificantes/"
+    url: "/manutencao/fluidos-automotivos-guia-completo//"
   - titulo: "Motor superaquecendo: causas e o que fazer"
-    url: "/problemas/motor-superaquecendo/"
+    url: "/manutencao/superaquecimento-motor-sinais//"
 ---
 
 O fluido de arrefecimento mantém a temperatura do motor dentro da faixa segura e evita corrosão interna no sistema de refrigeração. Quando o nível cai ou o aditivo envelhece, o motor pode superaquecer e causar danos graves, como a queima da junta do cabeçote. A boa notícia é que verificar e repor o fluido é um procedimento simples, feito em menos de dez minutos com o motor frio.

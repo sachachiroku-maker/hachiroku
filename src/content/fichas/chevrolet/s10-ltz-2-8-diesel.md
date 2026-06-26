@@ -62,7 +62,7 @@ faq:
 relacionados:
   - { titulo: "DPF da S10 diesel com entupimento em uso urbano", url: "/problemas/chevrolet/s10/dpf-regeneracao-diesel/" }
   - { titulo: "Turbina da S10 2.8 Duramax com queda de boost", url: "/problemas/chevrolet/s10/turbina-boost-pressao/" }
-  - { titulo: "Ficha técnica da Chevrolet Montana Premier 1.2 Turbo 4x4", url: "/ficha-tecnica/chevrolet/montana/2023/premier-1-2-turbo-4x4/" }
+  - { titulo: "Ficha técnica da Chevrolet Montana Premier 1.2 Turbo 4x4", url: "/ficha-tecnica/chevrolet/montana-premier-1-2-turbo//" }
 draft: false
 ---
 

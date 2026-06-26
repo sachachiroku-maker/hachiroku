@@ -44,9 +44,9 @@ relacionados:
   - titulo: "Fiat Uno: consumo alto motor Fire"
     url: "/problemas/fiat/uno/consumo-alto-motor-fire/"
   - titulo: "Código P0300: misfire"
-    url: "/problemas/codigo-p0300-misfire/"
+    url: "/manutencao/check-engine-acendeu-o-que-fazer//"
   - titulo: "Ficha técnica Fiat Uno"
-    url: "/ficha-tecnica/fiat/uno-attractive-1-0/"
+    url: "/ficha-tecnica/fiat/uno-way-1-0//"
 draft: false
 ---
 

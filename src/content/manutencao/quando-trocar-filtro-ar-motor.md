@@ -58,7 +58,7 @@ relacionados:
   - titulo: "Filtro de combustivel: quando trocar e o que acontece se nao trocar"
     url: "/manutencao/como-trocar-filtro-combustivel/"
   - titulo: "Check engine acendeu: o que fazer agora"
-    url: "/diagnostico/check-engine-acendeu-o-que-fazer/"
+    url: "/manutencao/check-engine-acendeu-o-que-fazer//"
 draft: false
 ---
 

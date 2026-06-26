@@ -62,7 +62,7 @@ relacionados:
   - titulo: "Freio automático de emergência com acionamento indevido no Corolla Cross"
     url: "/problemas/toyota/corolla-cross/freio-emergencia-acionamento-indevido"
   - titulo: "Toyota Safety Sense: como funciona e limitações do sistema"
-    url: "/guia-de-compra/toyota/toyota-safety-sense-como-funciona"
+    url: "/tecnico/"
 ---
 
 O **sensor de monitoramento de ponto cego** (BSM, do inglês Blind Spot Monitor) do Toyota Corolla Cross XRX 2.0 com Toyota Safety Sense apresenta um problema recorrente relatado por proprietários: o alarme dispara sem nenhum veículo ao lado ou fica permanentemente ativado, com o ícone laranja piscando no espelho lateral mesmo em vias desertas.

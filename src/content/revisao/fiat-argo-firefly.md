@@ -85,7 +85,7 @@ relacionados:
   - titulo: "Ficha técnica do Fiat Argo 1.0 FireFly"
     url: "/ficha-tecnica/fiat/argo/"
   - titulo: "Guia completo: Argo usado vale a pena?"
-    url: "/guias/usados/argo-usado-vale-a-pena/"
+    url: "/guia-de-compra/usados/argo-usado-vale-a-pena//"
 draft: false
 ---
 

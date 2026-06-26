@@ -56,7 +56,7 @@ relacionados:
   - titulo: "Qual o Melhor Óleo para Motor Flex: Guia de Viscosidades"
     url: "/manutencao/melhor-oleo-motor-flex/"
   - titulo: "Luz de Óleo Acendeu no Painel: O Que Fazer Agora"
-    url: "/diagnostico/luz-oleo-acendeu-painel/"
+    url: "/manutencao/luzes-do-painel-o-que-significam//"
 draft: false
 ---
 

@@ -91,9 +91,9 @@ fontes:
     url: "https://www.ford.com.br/caminhonetes/nova-ranger/versoes"
 relacionados:
   - titulo: "Toyota Hilux: defeitos mais comuns e como evitar"
-    url: "/guia-de-compra/problemas/hilux-defeitos-comuns"
+    url: "/problemas/toyota/hilux/"
   - titulo: "Como diagnosticar falhas em motor diesel com OBD2"
-    url: "/guia-de-compra/diagnostico/obd2-motor-diesel"
+    url: "/manutencao/guia-scanner-obd2-como-usar/"
 draft: false
 ---
 

@@ -56,9 +56,9 @@ relacionados:
   - titulo: "Checklist Completo para Vistoria de Carro Usado"
     url: "/guia-de-compra/checklist-vistoria-carro-usado/"
   - titulo: "Onix Usado Vale a Pena? Guia Completo"
-    url: "/guia-de-compra/onix-usado-vale-a-pena/"
+    url: "/guia-de-compra/usados/onix-usado-vale-a-pena//"
   - titulo: "HB20 Usado Vale a Pena? Guia Completo"
-    url: "/guia-de-compra/hb20-usado-vale-a-pena/"
+    url: "/guia-de-compra/usados/hb20-usado-vale-a-pena//"
   - titulo: "Melhor Carro Popular Custo-Benefício 2026"
     url: "/guia-de-compra/melhor-carro-popular-custo-beneficio-2026/"
   - titulo: "Problemas Mais Comuns por Modelo"
@@ -244,4 +244,4 @@ O fator que mais pesa contra o Sandero em 2026 é a descontinuação: peças esp
 
 **Antes de fechar negócio, faça a vistoria correta.** Use nosso [checklist completo para vistoria de carro usado](/guia-de-compra/checklist-vistoria-carro-usado/) e confirme cada item do cabeçote, câmbio e carroceria com um mecânico de confiança especializado em Renault.
 
-Se ainda está decidindo entre o Sandero e outros populares, compare também o [Onix usado](/guia-de-compra/onix-usado-vale-a-pena/) e o [HB20 usado](/guia-de-compra/hb20-usado-vale-a-pena/) para ter o panorama completo do segmento em 2026.
+Se ainda está decidindo entre o Sandero e outros populares, compare também o [Onix usado](/guia-de-compra/usados/onix-usado-vale-a-pena//) e o [HB20 usado](/guia-de-compra/usados/hb20-usado-vale-a-pena//) para ter o panorama completo do segmento em 2026.

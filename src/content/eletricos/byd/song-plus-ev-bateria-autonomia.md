@@ -64,7 +64,7 @@ relacionados:
   - titulo: "BYD Song Plus EV: ficha técnica completa"
     url: "/ficha-tecnica/byd/song-plus-premium-ev/"
   - titulo: "Problemas comuns em carros elétricos no Brasil"
-    url: "/problemas/eletricos/problemas-comuns-brasil"
+    url: "/eletricos/"
 ---
 
 O **BYD Song Plus EV** com bateria LFP de 87,3 kWh entrega autonomia real entre 420 km e 480 km no Brasil, cerca de 25% abaixo do ciclo CLTC oficial de 605 km. A diferença ocorre porque o protocolo chinês não simula rodovias em alta velocidade nem temperaturas acima de 30 graus. Conhecer esses números reais permite planejar o carregamento sem surpresas e calcular o custo por km com precisão.

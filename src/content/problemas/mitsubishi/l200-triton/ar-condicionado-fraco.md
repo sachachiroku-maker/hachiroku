@@ -53,7 +53,7 @@ relacionados:
   - titulo: "Todos os defeitos do Mitsubishi L200 Triton"
     url: "/problemas/mitsubishi/l200-triton/"
   - titulo: "Ficha Técnica: Mitsubishi L200 Triton Sport 2.4 Diesel"
-    url: "/ficha-tecnica/mitsubishi/l200-tecnica/l200-triton-sport-2-4-diesel/"
+    url: "/ficha-tecnica/mitsubishi/l200-triton-sport-2-4-diesel/-sport-2-4-diesel//"
 pontosChave:
   - "Sintoma: ar frio insuficiente mesmo com AC no máximo, especialmente acima de 35°C ou após uso em estrada de terra"
   - "Causa: condensador entupido por lama e poeira rural é a causa mais comum e a mais barata de corrigir (R$ 100-200)"

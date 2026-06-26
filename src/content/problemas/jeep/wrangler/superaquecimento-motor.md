@@ -53,7 +53,7 @@ relacionados:
   - titulo: "Jeep Wrangler: bateria de 12V descarregando — causas e diagnóstico"
     url: "/problemas/jeep/wrangler/bateria-12v-descarrega"
   - titulo: "Como fazer manutenção preventiva do sistema de arrefecimento"
-    url: "/guia-de-compra/arrefecimento-manutencao-preventiva"
+    url: "/manutencao/"
 pontosChave:
   - "Sintoma: temperatura do motor acima de 100 graus, luz de alerta no painel e perda de potência em subidas ou trilhas"
   - "Causa: radiador entupido por lama, termostato defeituoso, EGR obstruido ou correia auxiliar desgastada"

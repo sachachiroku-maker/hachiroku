@@ -97,7 +97,7 @@ fontes:
     url: "https://www.carrosnaweb.com.br/fichatecnica.asp?codigo=16572"
 relacionados:
   - titulo: "Ficha técnica Mitsubishi L200 Triton Sport 2.4 Diesel"
-    url: "/ficha-tecnica/mitsubishi/l200-triton-sport-2-4-diesel/"
+    url: "/ficha-tecnica/mitsubishi/l200-triton-sport-2-4-diesel/-sport-2-4-diesel/"
   - titulo: "Ficha técnica Jeep Compass Limited 2.0 4x4 Diesel"
     url: "/ficha-tecnica/jeep/compass/"
 draft: false

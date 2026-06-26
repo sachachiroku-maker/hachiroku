@@ -59,7 +59,7 @@ relacionados:
   - titulo: "Filtro de combustível: quando trocar e sinais de entupimento"
     url: "/manutencao/como-trocar-filtro-combustivel/"
   - titulo: "Consumo alto de combustível: 12 causas e como diagnosticar"
-    url: "/diagnostico/consumo-alto-combustivel-causas/"
+    url: "/manutencao//"
 draft: false
 ---
 

@@ -55,7 +55,7 @@ relacionados:
   - titulo: "Jeep Renegade vs Volkswagen T-Cross: batalha de SUVs acessíveis"
     url: "/guia-de-compra/comparativos/renegade-vs-t-cross"
   - titulo: "Quanto custa manter um SUV compacto? Revisão, peças e seguro"
-    url: "/guia-de-compra/custos/ctt-suv-compacto"
+    url: "/guia-de-compra/consertar-ou-trocar-vale-a-pena/"
 draft: false
 ---
 

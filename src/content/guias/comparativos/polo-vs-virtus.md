@@ -53,11 +53,11 @@ faq:
     resposta: "Depende do uso. Se você tem família, carrega bagagem frequentemente ou viaja bastante, os R$2.000 a R$5.000 a mais pelo Virtus fazem sentido. Para uso urbano solo ou em casal, o Polo entrega tudo que precisa por menos."
 relacionados:
   - titulo: "VW Polo 2025: Vale a Pena Comprar?"
-    url: "/guia-de-compra/vale-a-pena/polo-2025"
+    url: "/guia-de-compra/usados/polo-usado-vale-a-pena/"
   - titulo: "VW Virtus 2025: Vale a Pena Comprar?"
-    url: "/guia-de-compra/vale-a-pena/virtus-2025"
+    url: "/guia-de-compra/volkswagen-virtus-usado-vale-a-pena/"
   - titulo: "Motor 1.0 TSI: Problemas, Revisão e Quanto Dura"
-    url: "/guia-de-compra/motores/1-0-tsi-problemas"
+    url: "/motor/ea211-tsi/"
 draft: false
 ---
 

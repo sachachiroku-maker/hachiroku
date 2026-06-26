@@ -56,15 +56,15 @@ afiliados:
     cta: "Ver produto recomendado"
 relacionados:
   - titulo: "Polo Usado: Vale a Pena Comprar em 2026?"
-    url: "/guia-de-compra/polo-usado-vale-a-pena/"
+    url: "/guia-de-compra/usados/polo-usado-vale-a-pena//"
   - titulo: "Polo TSI vs Onix Turbo: Qual Comprar?"
-    url: "/guia-de-compra/polo-tsi-vs-onix-turbo/"
+    url: "/guia-de-compra/comparativos/polo-tsi-vs-onix-turbo//"
   - titulo: "Checklist Completo para Vistoria de Carro Usado"
     url: "/guia-de-compra/checklist-vistoria-carro-usado/"
   - titulo: "Melhor Carro Popular Custo-Benefício 2026"
     url: "/guia-de-compra/melhor-carro-popular-custo-beneficio-2026/"
   - titulo: "Onix Usado: Vale a Pena Comprar em 2026?"
-    url: "/guia-de-compra/onix-usado-vale-a-pena/"
+    url: "/guia-de-compra/usados/onix-usado-vale-a-pena//"
 draft: false
 ---
 
@@ -317,4 +317,4 @@ O Fiat Cronos e o Volkswagen Virtus são os dois melhores sedãs compactos do me
 
 Se o seu uso for intenso, o orçamento de manutenção for prioridade e você quiser guardar o carro por muitos anos, o **Cronos Drive ou GranLuce** entrega mais por menos. Se você compra pensando em revenda, valoriza o interior mais refinado e pode pagar R$ 15.000 a R$ 20.000 a mais na entrada, o **Virtus Comfortline ou Highline** é o melhor negócio.
 
-Antes de bater o martelo, simule o custo total de propriedade nos nossos guias de [Estimador de Custo de Reparo](/guia-de-compra/estimador-custo-reparo/) e compare também com o [Onix vs HB20](/guia-de-compra/onix-vs-hb20/) se a opção por um hatch ainda estiver na mesa.
+Antes de bater o martelo, simule o custo total de propriedade nos nossos guias de [Estimador de Custo de Reparo](/guia-de-compra/jornada/estimador-custo-reparo//) e compare também com o [Onix vs HB20](/guia-de-compra/comparativos/onix-vs-hb20//) se a opção por um hatch ainda estiver na mesa.

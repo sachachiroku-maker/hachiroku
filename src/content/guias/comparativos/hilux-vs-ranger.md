@@ -51,11 +51,11 @@ faq:
     resposta: "Sim, de forma significativa. A Ranger T6.2 (2023 em diante) tem plataforma nova, interior completamente redesenhado com tela central maior, novo motor 2.0 bi-turbo de 170 ou 210 cv, suspensão traseira multilink nas versões top (substituindo o eixo rígido), maior porta-malas e melhor isolamento acústico. É um salto real de geração. Quem conhecia a Ranger anterior encontrará um carro consideravelmente mais moderno."
 relacionados:
   - titulo: "Toyota Hilux: os defeitos mais comuns e como evitá-los"
-    url: "/guia-de-compra/problemas/hilux-defeitos-comuns"
+    url: "/problemas/toyota/hilux/"
   - titulo: "Ford Ranger 2023: avaliação completa da nova geração"
-    url: "/guia-de-compra/avaliacao/ranger-2023-nova-geracao"
+    url: "/guia-de-compra/usados/ranger-usada-vale-a-pena/"
   - titulo: "Picape usada: o que verificar antes de comprar"
-    url: "/guia-de-compra/comprar-usado/picape-media-checklist"
+    url: "/guia-de-compra/checklist-vistoria-carro-usado/"
 draft: false
 ---
 

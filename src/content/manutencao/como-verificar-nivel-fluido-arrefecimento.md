@@ -40,7 +40,7 @@ relacionados:
   - titulo: "Como trocar o óleo do motor em casa"
     url: "/manutencao/como-trocar-oleo-motor-carro"
   - titulo: "Motor superaquecendo: causas e o que fazer"
-    url: "/problemas/motor-superaquecendo"
+    url: "/manutencao/superaquecimento-motor-sinais/"
 tags:
   - fluido de arrefecimento
   - aditivo radiador

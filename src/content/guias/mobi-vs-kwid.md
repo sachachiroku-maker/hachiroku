@@ -61,9 +61,9 @@ relacionados:
   - titulo: "Melhor Carro Popular Custo-Benefício 2026"
     url: "/guia-de-compra/melhor-carro-popular-custo-beneficio-2026/"
   - titulo: "Onix Usado: Vale a Pena Comprar em 2026?"
-    url: "/guia-de-compra/onix-usado-vale-a-pena/"
+    url: "/guia-de-compra/usados/onix-usado-vale-a-pena//"
   - titulo: "HB20 Usado: Vale a Pena Comprar em 2026?"
-    url: "/guia-de-compra/hb20-usado-vale-a-pena/"
+    url: "/guia-de-compra/usados/hb20-usado-vale-a-pena//"
   - titulo: "Consertar ou Trocar: Vale a Pena?"
     url: "/guia-de-compra/consertar-ou-trocar-vale-a-pena/"
 draft: false

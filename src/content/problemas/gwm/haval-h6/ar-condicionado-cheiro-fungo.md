@@ -65,7 +65,7 @@ relacionados:
   - titulo: "Consumo de combustível alto no GWM Haval H6: causas e soluções"
     url: "/problemas/gwm/haval-h6/consumo-combustivel-alto"
   - titulo: "Ficha técnica completa: GWM Haval H6 1.5 Turbo HEV"
-    url: "/ficha-tecnica/gwm/haval-h6-supreme-1-5/"
+    url: "/ficha-tecnica/gwm/haval-h6-supreme-1-5/-supreme-1-5/"
 pontosChave:
   - "Sintoma: cheiro forte de fungo ou mofo ao ligar o ar-condicionado, especialmente nos primeiros segundos de funcionamento"
   - "Causa: evaporador contaminado por fungos e bactérias que se proliferam na umidade residual do componente após o desligamento do sistema"

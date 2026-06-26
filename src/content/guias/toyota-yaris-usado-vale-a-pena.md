@@ -56,13 +56,13 @@ relacionados:
   - titulo: "Checklist Completo para Vistoria de Carro Usado"
     url: "/guia-de-compra/checklist-vistoria-carro-usado/"
   - titulo: "VW Polo Usado: Vale a Pena em 2026?"
-    url: "/guia-de-compra/polo-usado-vale-a-pena/"
+    url: "/guia-de-compra/usados/polo-usado-vale-a-pena//"
   - titulo: "Melhor Carro Popular Custo-Benefício 2026"
     url: "/guia-de-compra/melhor-carro-popular-custo-beneficio-2026/"
   - titulo: "Consertar ou Trocar: Vale a Pena?"
     url: "/guia-de-compra/consertar-ou-trocar-vale-a-pena/"
   - titulo: "Estimador de Custo de Reparo"
-    url: "/guia-de-compra/estimador-custo-reparo/"
+    url: "/guia-de-compra/jornada/estimador-custo-reparo//"
 draft: false
 ---
 
@@ -271,4 +271,4 @@ Com histórico em dia e inspeção feita, o Yaris é a compra certa no segmento.
 
 ---
 
-**Pronto para inspecionar o Yaris antes de comprar?** Use o [Checklist Completo de Vistoria de Carro Usado](/guia-de-compra/checklist-vistoria-carro-usado/) para não deixar nenhum ponto passar. Se tiver dúvidas sobre quanto vai custar manter o carro, acesse o [Estimador de Custo de Reparo](/guia-de-compra/estimador-custo-reparo/) e simule sua realidade antes de fechar negócio.
+**Pronto para inspecionar o Yaris antes de comprar?** Use o [Checklist Completo de Vistoria de Carro Usado](/guia-de-compra/checklist-vistoria-carro-usado/) para não deixar nenhum ponto passar. Se tiver dúvidas sobre quanto vai custar manter o carro, acesse o [Estimador de Custo de Reparo](/guia-de-compra/jornada/estimador-custo-reparo//) e simule sua realidade antes de fechar negócio.

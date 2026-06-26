@@ -56,11 +56,11 @@ faq:
     resposta: "O Corolla historicamente deprecia menos no mercado brasileiro. A reputação de durabilidade e a rede de assistência mais pulverizada sustentam o valor de revenda. Se o plano é trocar o carro em 3 a 5 anos, o Corolla costuma sair na frente."
 relacionados:
   - titulo: "Toyota Corolla 2025: tudo sobre a 12ª geração no Brasil"
-    url: "/modelos/toyota/corolla"
+    url: "/problemas/toyota/corolla/"
   - titulo: "Honda Civic 2025: guia completo da 11ª geração"
-    url: "/modelos/honda/civic"
+    url: "/problemas/honda/civic/"
   - titulo: "Melhores sedans médios para comprar em 2026"
-    url: "/guia-de-compra/melhores-sedans-medios"
+    url: "/guia-de-compra/comparativos/corolla-vs-civic/"
 draft: false
 ---
 

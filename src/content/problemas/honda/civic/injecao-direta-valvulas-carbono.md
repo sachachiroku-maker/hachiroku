@@ -58,7 +58,7 @@ relacionados:
   - titulo: "Todos os problemas do Honda Civic"
     url: "/problemas/honda/civic/"
   - titulo: "Ficha técnica Honda Civic Touring 1.5 Turbo"
-    url: "/ficha-tecnica/honda/civic-touring-1-5-turbo/"
+    url: "/ficha-tecnica/honda/civic-touring-1-5-turbo/-touring-1-5-turbo/"
 pontosChave:
   - "Sintoma: hesitação a frio, tranco leve na aceleração e perda gradual de potência, geralmente acima de 60.000 km"
   - "Causa: injeção direta (GDI) não lava as válvulas de admissão; gases de blow-by depositam carbono nas hastes"
