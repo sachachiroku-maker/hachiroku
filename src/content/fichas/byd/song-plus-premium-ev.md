@@ -72,6 +72,7 @@ pontosChave:
   - "Sintoma: bateria apresenta queda de capacidade nos primeiros meses de uso. Causa: carregamentos recorrentes até 100% aceleram o desgaste das células LFP a longo prazo. Ação: configurar o limite de carga em 80% para uso diário e usar 100% apenas em viagens longas."
 
 fonteDados: "BYD Brasil press release 2024 + CarrosnaWeb"
+problemaHref: "/problemas/byd/song-plus/"
 
 pubDate: 2026-06-21
 updatedDate: 2026-06-21

@@ -40,7 +40,13 @@ const kpis = [
 ].filter(Boolean) as { value: string; label: string }[];
 
 // botão "Ver problemas" → pilar do modelo
-const modeloProblemas = `/problemas/${data.marca.toLowerCase()}/${data.modelo.toLowerCase().replace(/\s+/g, '-')}/`;
+// Normaliza acento (Citroën→citroen) e respeita override explícito no frontmatter
+const toSlug = (s: string) => s.toLowerCase()
+  .normalize('NFD').replace(/[̀-ͯ]/g, '')
+  .replace(/\s+/g, '-').replace(/[^a-z0-9-]/g, '');
+const modeloProblemas = data.problemaHref !== undefined
+  ? data.problemaHref
+  : `/problemas/${toSlug(data.marca)}/${toSlug(data.modelo)}/`;
 
 const grupos = [
   { titulo: 'Motor', itens: data.motor },

@@ -70,6 +70,7 @@ potenciaCv: "231 cv (Single) / 408 cv (Twin)"
 cilindrada: "N/A (elétrico)"
 combustivel: "Elétrico"
 fonteDados: "Volvo Cars Brasil — catálogo técnico C40 Recharge 2024"
+problemaHref: "/eletricos/volvo/c40-recharge-consumo-real/"
 autor:
   nome: "Redação Hachiroku"
 pubDate: 2026-06-25

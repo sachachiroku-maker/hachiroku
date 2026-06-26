@@ -122,6 +122,7 @@ const fichas = defineCollection({
       updatedDate: z.coerce.date().optional(),
       faq: z.array(faqItem).default([]),
       relacionados: z.array(link).default([]),
+      problemaHref: z.string().optional(),
       draft: z.boolean().default(false),
     }),
 });

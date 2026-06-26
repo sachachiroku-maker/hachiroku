@@ -42,6 +42,7 @@ chassi:
   - { k: "Freios traseiros", v: "Disco sólido" }
   - { k: "Pneus", v: "265/60 R18" }
 fonteDados: "Manual do proprietário Mitsubishi L200 Triton 2022, INMETRO/Proconve, Mitsubishi Motors do Brasil"
+problemaHref: "/problemas/mitsubishi/l200-triton/"
 pubDate: 2026-06-20
 updatedDate: 2026-06-20
 faq:
