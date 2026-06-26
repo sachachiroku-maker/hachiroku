@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Fluido de arrefecimento: como verificar e repor"
 kicker: "HOW-TO · MÃO NA MASSA"
 description: "Fluido de arrefecimento baixo causa superaquecimento e danos ao motor. Saiba como verificar o nível, identificar o tipo correto e repor em 5 passos simples."
@@ -43,6 +43,25 @@ relacionados:
     url: "/manutencao/fluidos-automotivos-guia-completo/"
   - titulo: "Motor superaquecendo: causas e o que fazer"
     url: "/manutencao/superaquecimento-motor-sinais/"
+faq:
+  - pergunta: "Qual cor de aditivo de arrefecimento devo usar no meu carro?"
+    resposta: >
+      A cor indica o tipo de tecnologia do inibidor de corrosão, mas não existe padronização universal entre fabricantes: cores iguais de marcas diferentes podem ter fórmulas incompatíveis. O critério correto é a especificação do manual do proprietário, não a cor. Os tipos mais comuns são: convencional (verde, base silicato/fosfato), OAT orgânico (laranja ou rosa, base carboxilato) e HOAT híbrido (amarelo ou azul). Sempre siga a recomendação do fabricante do veículo.
+  - pergunta: "Qual é a proporção correta de aditivo com água?"
+    resposta: >
+      A proporção padrão recomendada pela maioria dos fabricantes é 50% de aditivo concentrado para 50% de água destilada. Essa mistura oferece proteção contra congelamento até aproximadamente -37 °C e eleva o ponto de ebulição para cerca de 106 °C. Em regiões quentes como a maior parte do Brasil, a proporção 40/60 (aditivo/água) também é aceita. Nunca use proporção abaixo de 30% de aditivo: a proteção contra corrosão fica insuficiente.
+  - pergunta: "Posso usar só água no reservatório de arrefecimento?"
+    resposta: >
+      Não é recomendado. A água pura não contém inibidores de corrosão, fermenta biologicamente e tem ponto de ebulição mais baixo que a mistura com aditivo. Em uso contínuo, a água pura corrói radiador, bomba d'água e mangueiras, além de aumentar o risco de superaquecimento em tráfego intenso. Em emergência, a água pode ser usada para completar um nível crítico e chegar a uma oficina, mas deve ser substituída pelo fluido correto o quanto antes.
+  - pergunta: "De quanto em quanto tempo devo trocar o fluido de arrefecimento?"
+    resposta: >
+      O intervalo varia por tipo de aditivo e fabricante. Aditivos convencionais (verde, base silicato) costumam exigir troca a cada 2 anos ou 40.000 km. Aditivos OAT orgânicos (laranja, rosa) têm vida útil maior: de 4 a 5 anos ou até 150.000 km, dependendo da marca. Sempre consulte o manual do proprietário para o intervalo específico do seu veículo. Independentemente do intervalo, troque o fluido se ele estiver com aparência turva, marrom ou com depósitos visíveis.
+  - pergunta: "Como saber se há vazamento no sistema de arrefecimento?"
+    resposta: >
+      Os sinais mais comuns são: nível do reservatório caindo repetidamente sem explicação, manchas coloridas ou úmidas sob o carro após estacionar, cheiro adocicado vindo do motor e temperatura subindo acima do normal no painel. Vazamentos internos (junta do cabeçote) se manifestam como fluido turvo com aparência leitosa ou fumaça branca pelo escapamento. Qualquer vazamento deve ser diagnosticado por um mecânico antes de continuar usando o veículo.
+  - pergunta: "O que acontece se eu misturar tipos diferentes de aditivo?"
+    resposta: >
+      Misturar aditivos de tecnologias incompatíveis (por exemplo, convencional verde com OAT laranja) pode neutralizar os inibidores de corrosão, reduzir a vida útil do fluido e formar um gel gelatinoso que entope o radiador e a bomba d'água. Se isso ocorrer, o sistema precisa ser drenado, lavado e reabastecido com o tipo correto. Em caso de dúvida sobre o tipo que está no carro, drene e faça a troca completa com o aditivo especificado no manual.
 ---
 
 O fluido de arrefecimento mantém a temperatura do motor dentro da faixa segura e evita corrosão interna no sistema de refrigeração. Quando o nível cai ou o aditivo envelhece, o motor pode superaquecer e causar danos graves, como a queima da junta do cabeçote. A boa notícia é que verificar e repor o fluido é um procedimento simples, feito em menos de dez minutos com o motor frio.
@@ -120,29 +139,3 @@ Após um trajeto curto, com o motor frio novamente, verifique se o nível não c
 </aside>
 
 ---
-
-## Perguntas frequentes
-
-### Qual cor de aditivo de arrefecimento devo usar no meu carro?
-
-A cor indica o tipo de tecnologia do inibidor de corrosão, mas não existe padronização universal entre fabricantes: cores iguais de marcas diferentes podem ter fórmulas incompatíveis. O critério correto é a especificação do manual do proprietário, não a cor. Os tipos mais comuns são: convencional (verde, base silicato/fosfato), OAT orgânico (laranja ou rosa, base carboxilato) e HOAT híbrido (amarelo ou azul). Sempre siga a recomendação do fabricante do veículo.
-
-### Qual é a proporção correta de aditivo com água?
-
-A proporção padrão recomendada pela maioria dos fabricantes é 50% de aditivo concentrado para 50% de água destilada. Essa mistura oferece proteção contra congelamento até aproximadamente -37 °C e eleva o ponto de ebulição para cerca de 106 °C. Em regiões quentes como a maior parte do Brasil, a proporção 40/60 (aditivo/água) também é aceita. Nunca use proporção abaixo de 30% de aditivo: a proteção contra corrosão fica insuficiente.
-
-### Posso usar só água no reservatório de arrefecimento?
-
-Não é recomendado. A água pura não contém inibidores de corrosão, fermenta biologicamente e tem ponto de ebulição mais baixo que a mistura com aditivo. Em uso contínuo, a água pura corrói radiador, bomba d'água e mangueiras, além de aumentar o risco de superaquecimento em tráfego intenso. Em emergência, a água pode ser usada para completar um nível crítico e chegar a uma oficina, mas deve ser substituída pelo fluido correto o quanto antes.
-
-### De quanto em quanto tempo devo trocar o fluido de arrefecimento?
-
-O intervalo varia por tipo de aditivo e fabricante. Aditivos convencionais (verde, base silicato) costumam exigir troca a cada 2 anos ou 40.000 km. Aditivos OAT orgânicos (laranja, rosa) têm vida útil maior: de 4 a 5 anos ou até 150.000 km, dependendo da marca. Sempre consulte o manual do proprietário para o intervalo específico do seu veículo. Independentemente do intervalo, troque o fluido se ele estiver com aparência turva, marrom ou com depósitos visíveis.
-
-### Como saber se há vazamento no sistema de arrefecimento?
-
-Os sinais mais comuns são: nível do reservatório caindo repetidamente sem explicação, manchas coloridas ou úmidas sob o carro após estacionar, cheiro adocicado vindo do motor e temperatura subindo acima do normal no painel. Vazamentos internos (junta do cabeçote) se manifestam como fluido turvo com aparência leitosa ou fumaça branca pelo escapamento. Qualquer vazamento deve ser diagnosticado por um mecânico antes de continuar usando o veículo.
-
-### O que acontece se eu misturar tipos diferentes de aditivo?
-
-Misturar aditivos de tecnologias incompatíveis (por exemplo, convencional verde com OAT laranja) pode neutralizar os inibidores de corrosão, reduzir a vida útil do fluido e formar um gel gelatinoso que entope o radiador e a bomba d'água. Se isso ocorrer, o sistema precisa ser drenado, lavado e reabastecido com o tipo correto. Em caso de dúvida sobre o tipo que está no carro, drene e faça a troca completa com o aditivo especificado no manual.

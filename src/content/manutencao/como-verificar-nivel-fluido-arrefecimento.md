@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Fluido de arrefecimento: como verificar e repor | Hachiroku"
 description: "Aprenda a verificar e repor o fluido de arrefecimento em 5 passos simples. Evite superaquecimento, danos ao motor e saiba qual aditivo usar no seu carro."
 pubDate: 2026-06-20
@@ -47,6 +47,25 @@ tags:
   - superaquecimento motor
   - manutenção preventiva
   - temperatura motor
+faq:
+  - pergunta: "Qual cor de fluido de arrefecimento devo usar?"
+    resposta: >
+      A cor indica o tipo de tecnologia do aditivo, não a qualidade. Verde (IAT) é o mais antigo, usado em carros mais velhos. Laranja e vermelho (OAT) são modernos e duram mais. Rosa e azul variam por fabricante. O mais importante é seguir a especificação do manual do veículo. Nunca misture cores ou tipos diferentes sem lavar o sistema antes.
+  - pergunta: "Quanto de fluido de arrefecimento devo colocar?"
+    resposta: >
+      Complete apenas até a linha MAX do reservatório de expansão. Em média, o sistema de arrefecimento de um carro popular comporta entre 4 e 7 litros, mas você raramente precisará repor mais de 200 a 500 ml em uma verificação de rotina. Se precisar de muito mais, investigue a causa antes de completar.
+  - pergunta: "Qual a diferença entre aditivo e água pura no radiador?"
+    resposta: >
+      A água pura resfria, mas não protege. O aditivo (anticongelante) contém inibidores de corrosão, antiespumantes e eleva o ponto de ebulição do líquido, permitindo que o motor opere com segurança acima de 100 °C sem ferver. Usar apenas água causa ferrugem acelerada, entupimentos e desgaste precoce da bomba d'água e do radiador.
+  - pergunta: "A cada quanto tempo devo trocar o fluido de arrefecimento?"
+    resposta: >
+      Depende do tipo de aditivo. O fluido IAT (verde, mais antigo) deve ser trocado a cada 2 anos ou 40.000 km. Fluidos OAT (laranja, vermelho) duram até 5 anos ou 150.000 km. Sempre consulte o manual do veículo. Fluido escuro, com partículas ou cheiro de queimado indica troca imediata.
+  - pergunta: "Posso usar água da torneira em emergência?"
+    resposta: >
+      Somente em emergência absoluta, para evitar superaquecimento imediato, e apenas temporariamente. A água da torneira contém cálcio, magnésio e cloro que corroem o interior do sistema. Assim que possível, faça a lavagem do sistema e reponha com a mistura correta de aditivo e água destilada.
+  - pergunta: "O que acontece se eu não repuser o fluido?"
+    resposta: >
+      O motor supera a temperatura máxima em minutos. As consequências vão desde a fundição de buchas e pistões até o empenamento do cabeçote e a queima da junta de cabeçote. Reparos nesses componentes custam entre R$ 2.000 e R$ 8.000 dependendo do veículo. A verificação mensal do nível evita todos esses problemas.
 ---
 
 ## O que é o fluido de arrefecimento e por que ele importa
@@ -138,29 +157,3 @@ Ferramenta barata e essencial para saber se a concentração do fluido ainda pro
 [Ver na Amazon](https://www.amazon.com.br/s?k=testador+anticongelante+radiador)
 
 ---
-
-## Perguntas frequentes
-
-### Qual cor de fluido de arrefecimento devo usar?
-
-A cor indica o tipo de tecnologia do aditivo, não a qualidade. Verde (IAT) é o mais antigo, usado em carros mais velhos. Laranja e vermelho (OAT) são modernos e duram mais. Rosa e azul variam por fabricante. O mais importante é seguir a especificação do manual do veículo. Nunca misture cores ou tipos diferentes sem lavar o sistema antes.
-
-### Quanto de fluido de arrefecimento devo colocar?
-
-Complete apenas até a linha MAX do reservatório de expansão. Em média, o sistema de arrefecimento de um carro popular comporta entre 4 e 7 litros, mas você raramente precisará repor mais de 200 a 500 ml em uma verificação de rotina. Se precisar de muito mais, investigue a causa antes de completar.
-
-### Qual a diferença entre aditivo e água pura no radiador?
-
-A água pura resfria, mas não protege. O aditivo (anticongelante) contém inibidores de corrosão, antiespumantes e eleva o ponto de ebulição do líquido, permitindo que o motor opere com segurança acima de 100 °C sem ferver. Usar apenas água causa ferrugem acelerada, entupimentos e desgaste precoce da bomba d'água e do radiador.
-
-### A cada quanto tempo devo trocar o fluido de arrefecimento?
-
-Depende do tipo de aditivo. O fluido IAT (verde, mais antigo) deve ser trocado a cada 2 anos ou 40.000 km. Fluidos OAT (laranja, vermelho) duram até 5 anos ou 150.000 km. Sempre consulte o manual do veículo. Fluido escuro, com partículas ou cheiro de queimado indica troca imediata.
-
-### Posso usar água da torneira em emergência?
-
-Somente em emergência absoluta, para evitar superaquecimento imediato, e apenas temporariamente. A água da torneira contém cálcio, magnésio e cloro que corroem o interior do sistema. Assim que possível, faça a lavagem do sistema e reponha com a mistura correta de aditivo e água destilada.
-
-### O que acontece se eu não repuser o fluido?
-
-O motor supera a temperatura máxima em minutos. As consequências vão desde a fundição de buchas e pistões até o empenamento do cabeçote e a queima da junta de cabeçote. Reparos nesses componentes custam entre R$ 2.000 e R$ 8.000 dependendo do veículo. A verificação mensal do nível evita todos esses problemas.

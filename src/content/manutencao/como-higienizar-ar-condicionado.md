@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Como higienizar o AC do carro: passo a passo"
 description: "Aprenda como higienizar o ar-condicionado do carro em casa com produtos acessíveis e elimine odores, fungos e bactérias do sistema."
 tipo: how-to
@@ -22,6 +22,22 @@ afiliados:
     busca: "pincel limpeza grades ar condicionado automotivo"
     programa: amazon
     cta: "Ver opções na Amazon"
+faq:
+  - pergunta: "Com que frequência devo higienizar o ar-condicionado do carro?"
+    resposta: >
+      O ideal é higienizar a cada 12 a 18 meses ou sempre que perceber odor desagradável ao ligar o ar. Motoristas que usam o veículo diariamente em áreas urbanas com trânsito intenso podem precisar fazer o procedimento com mais frequência.
+  - pergunta: "Preciso levar o carro a uma oficina para higienizar o ar-condicionado?"
+    resposta: >
+      Não. A higienização com spray ou bomba de higienizador é um procedimento que qualquer motorista consegue fazer em casa, sem ferramentas especiais. Levar à oficina só é necessário se houver suspeita de problema mecânico no compressor ou falta de gás refrigerante.
+  - pergunta: "Qual a diferença entre higienizar e fazer a revisão do ar-condicionado?"
+    resposta: >
+      A higienização limpa os dutos, o evaporador e o filtro, eliminando fungos e odores. A revisão abrange verificação de pressão do gás, estado do compressor, correias e conexões. São procedimentos diferentes. A higienização é preventiva e pode ser feita em casa. A revisão mecânica exige equipamento específico de oficina.
+  - pergunta: "O higienizador em spray faz mal à saúde?"
+    resposta: >
+      Os produtos específicos para ar-condicionado automotivo são formulados para uso seguro após a ventilação do sistema. É importante seguir as instruções da embalagem, usar luvas durante a aplicação e ventilar bem o carro antes de entrar. Evite produtos de uso doméstico não indicados para automóveis.
+  - pergunta: "Posso higienizar o ar-condicionado sem trocar o filtro de cabine?"
+    resposta: >
+      Sim, mas não é recomendado. Um filtro saturado de poeira e fungos recontamina o sistema pouco tempo depois da higienização. Trocar o filtro junto com a limpeza garante resultado mais duradouro e é mais econômico do que repetir o procedimento antes da hora.
 ---
 
 ## Por que higienizar o ar-condicionado do carro?
@@ -62,20 +78,3 @@ Após aplicar o higienizador, mude o ar-condicionado para o modo de entrada de a
 Com o sistema já ventilado, desligue o carro e instale o filtro de cabine novo no mesmo sentido do original. Feche o compartimento e ligue novamente o ar-condicionado para verificar se o fluxo de ar melhorou. Um filtro novo junto com a higienização garante resultado completo e ar limpo por mais tempo.
 
 ---
-
-## Perguntas frequentes
-
-**Com que frequência devo higienizar o ar-condicionado do carro?**
-O ideal é higienizar a cada 12 a 18 meses ou sempre que perceber odor desagradável ao ligar o ar. Motoristas que usam o veículo diariamente em áreas urbanas com trânsito intenso podem precisar fazer o procedimento com mais frequência.
-
-**Preciso levar o carro a uma oficina para higienizar o ar-condicionado?**
-Não. A higienização com spray ou bomba de higienizador é um procedimento que qualquer motorista consegue fazer em casa, sem ferramentas especiais. Levar à oficina só é necessário se houver suspeita de problema mecânico no compressor ou falta de gás refrigerante.
-
-**Qual a diferença entre higienizar e fazer a revisão do ar-condicionado?**
-A higienização limpa os dutos, o evaporador e o filtro, eliminando fungos e odores. A revisão abrange verificação de pressão do gás, estado do compressor, correias e conexões. São procedimentos diferentes. A higienização é preventiva e pode ser feita em casa. A revisão mecânica exige equipamento específico de oficina.
-
-**O higienizador em spray faz mal à saúde?**
-Os produtos específicos para ar-condicionado automotivo são formulados para uso seguro após a ventilação do sistema. É importante seguir as instruções da embalagem, usar luvas durante a aplicação e ventilar bem o carro antes de entrar. Evite produtos de uso doméstico não indicados para automóveis.
-
-**Posso higienizar o ar-condicionado sem trocar o filtro de cabine?**
-Sim, mas não é recomendado. Um filtro saturado de poeira e fungos recontamina o sistema pouco tempo depois da higienização. Trocar o filtro junto com a limpeza garante resultado mais duradouro e é mais econômico do que repetir o procedimento antes da hora.

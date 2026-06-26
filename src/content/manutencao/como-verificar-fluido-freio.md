@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Fluido de freio: como verificar e quando trocar"
 description: "Fluido de freio degradado é uma das causas mais silenciosas de falha no sistema de frenagem: o líquido absorve umidade com o tempo, perde ponto de..."
 type: how-to
@@ -36,6 +36,25 @@ relacionados:
     url: "/manutencao/como-trocar-pastilhas-freio"
   - titulo: "Revisão de freios: o que é verificado e quando fazer"
     url: "/manutencao/revisao-freios-completa"
+faq:
+  - pergunta: "Qual a diferença entre DOT 3, DOT 4 e DOT 5.1?"
+    resposta: >
+      Os três são fluidos de base glicol e são mutuamente compatíveis (com ressalvas), mas têm pontos de ebulição diferentes. O DOT 3 tem ponto de ebulição seco mínimo de 205 graus Celsius, o DOT 4 de 230 graus e o DOT 5.1 de 260 graus. Quanto maior o número, maior a resistência ao calor, o que é importante em veículos que fazem uso intenso dos freios. O DOT 5 (sem o \".1\") é base silicone, não miscível com os demais, e raramente usado em carros de passeio. Nunca misture DOT 5 com DOT 3, 4 ou 5.1.
+  - pergunta: "De quanto em quanto tempo devo trocar o fluido de freio?"
+    resposta: >
+      A maioria dos fabricantes recomenda a troca a cada dois anos ou a cada 40.000 km, o que ocorrer primeiro. Veículos usados em condições severas (montanhas, pistas, cargas pesadas) podem necessitar de trocas anuais. Consulte sempre o manual do proprietário, pois alguns modelos têm intervalos específicos.
+  - pergunta: "A cor do fluido indica que precisa trocar?"
+    resposta: >
+      Sim, mas não é o único critério. Fluido amarronzado ou escuro indica contaminação por umidade e oxidação. Contudo, fluido de cor clara pode ter alto teor de água se nunca foi trocado. O ideal é combinar a avaliação visual com um testador de umidade para ter certeza.
+  - pergunta: "Como sangrar os freios sozinho?"
+    resposta: >
+      É possível com um kit de sangria por pressão ou por gravidade, disponível em autopeças. O processo envolve abrir os parafusos de purga em sequência (do cilindro mais distante ao mais próximo do reservatório), purgando até sair fluido limpo sem bolhas. Para maior segurança, prefira fazer a sangria com um ajudante que acione o pedal enquanto você controla as purgadores.
+  - pergunta: "Posso misturar marcas diferentes de DOT 4?"
+    resposta: >
+      Sim, desde que ambas sejam DOT 4 de base glicol. A especificação DOT é definida pela norma FMVSS 116 e garante compatibilidade entre fabricantes. Ainda assim, evite misturar fluidos de base glicol com DOT 5 (base silicone), que é incompatível.
+  - pergunta: "O nível baixo de fluido é sempre sinal de problema?"
+    resposta: >
+      Não necessariamente. À medida que as pastilhas desgastam, o pistão da pinça avança e o fluido migra do reservatório para compensar. Por isso, nível levemente abaixo do \"MAX\" em um veículo com pastilhas desgastadas é normal. O alerta real é quando o nível cai abaixo do \"MIN\" sem desgaste de pastilhas visível, o que sugere vazamento no sistema.
 ---
 
 Fluido de freio degradado é uma das causas mais silenciosas de falha no sistema de frenagem: o líquido absorve umidade com o tempo, perde ponto de ebulição e pode provocar o temido "pedal esponjoso" ou falha total na descida de uma serra. Verificar o nível e a qualidade do fluido a cada revisão preventiva leva menos de 15 minutos e pode evitar um acidente grave.
@@ -97,29 +116,3 @@ Se o nível estiver abaixo do "MAX" mas acima do "MIN" e você descartou vazamen
 A troca completa exige sangrar o circuito para eliminar o fluido antigo e as bolhas de ar. Com o kit de sangria, siga a sequência do manual (normalmente: traseiro direito, traseiro esquerdo, dianteiro direito, dianteiro esquerdo). Conecte a mangueira do kit ao parafuso de purga da pinça ou do cilindro de roda, abra o parafuso 3/4 de volta e acione o pedal de freio lentamente até o fluido sair limpo e sem bolhas. Mantenha o reservatório sempre acima do "MIN" durante o processo para não introduzir ar no sistema. Aperte o parafuso de purga antes de soltar o pedal.
 
 ---
-
-## Perguntas frequentes
-
-### Qual a diferença entre DOT 3, DOT 4 e DOT 5.1?
-
-Os três são fluidos de base glicol e são mutuamente compatíveis (com ressalvas), mas têm pontos de ebulição diferentes. O DOT 3 tem ponto de ebulição seco mínimo de 205 graus Celsius, o DOT 4 de 230 graus e o DOT 5.1 de 260 graus. Quanto maior o número, maior a resistência ao calor, o que é importante em veículos que fazem uso intenso dos freios. O DOT 5 (sem o ".1") é base silicone, não miscível com os demais, e raramente usado em carros de passeio. Nunca misture DOT 5 com DOT 3, 4 ou 5.1.
-
-### De quanto em quanto tempo devo trocar o fluido de freio?
-
-A maioria dos fabricantes recomenda a troca a cada dois anos ou a cada 40.000 km, o que ocorrer primeiro. Veículos usados em condições severas (montanhas, pistas, cargas pesadas) podem necessitar de trocas anuais. Consulte sempre o manual do proprietário, pois alguns modelos têm intervalos específicos.
-
-### A cor do fluido indica que precisa trocar?
-
-Sim, mas não é o único critério. Fluido amarronzado ou escuro indica contaminação por umidade e oxidação. Contudo, fluido de cor clara pode ter alto teor de água se nunca foi trocado. O ideal é combinar a avaliação visual com um testador de umidade para ter certeza.
-
-### Como sangrar os freios sozinho?
-
-É possível com um kit de sangria por pressão ou por gravidade, disponível em autopeças. O processo envolve abrir os parafusos de purga em sequência (do cilindro mais distante ao mais próximo do reservatório), purgando até sair fluido limpo sem bolhas. Para maior segurança, prefira fazer a sangria com um ajudante que acione o pedal enquanto você controla as purgadores.
-
-### Posso misturar marcas diferentes de DOT 4?
-
-Sim, desde que ambas sejam DOT 4 de base glicol. A especificação DOT é definida pela norma FMVSS 116 e garante compatibilidade entre fabricantes. Ainda assim, evite misturar fluidos de base glicol com DOT 5 (base silicone), que é incompatível.
-
-### O nível baixo de fluido é sempre sinal de problema?
-
-Não necessariamente. À medida que as pastilhas desgastam, o pistão da pinça avança e o fluido migra do reservatório para compensar. Por isso, nível levemente abaixo do "MAX" em um veículo com pastilhas desgastadas é normal. O alerta real é quando o nível cai abaixo do "MIN" sem desgaste de pastilhas visível, o que sugere vazamento no sistema.

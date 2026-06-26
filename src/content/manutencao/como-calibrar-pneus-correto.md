@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Como calibrar pneu: pressão certa e quando fazer"
 description: "Aprenda a calibrar os pneus do seu carro com a pressão certa: onde encontrar o valor indicado pela fábrica, quando calibrar e como evitar os erros mais comuns que prejudicam segurança e consumo."
 kicker: "HOW-TO · MÃO NA MASSA"
@@ -43,6 +43,25 @@ relacionados:
     url: "/manutencao/calibragem-de-pneus/"
   - titulo: "Ficha técnica: como ler etiqueta do pneu"
     url: "/manutencao/calibragem-de-pneus/"
+faq:
+  - pergunta: "Qual a diferença entre calibrar o pneu frio e quente?"
+    resposta: >
+      Calibrar a frio significa medir e ajustar a pressão com o carro parado há pelo menos três horas ou após rodar menos de dois quilômetros. Nessa condição, o ar dentro do pneu está na temperatura ambiente e a leitura reflete a pressão real de trabalho. Calibrar a quente, logo após dirigir, resulta em leitura inflada porque o ar se expande com o calor: você vai remover ar que na verdade é necessário, e o pneu ficará murcho quando esfriar. Sempre prefira calibrar a frio.
+  - pergunta: "PSI e kgf/cm² são a mesma coisa?"
+    resposta: >
+      Não, mas a conversão é simples. 1 kgf/cm² equivale a aproximadamente 14,22 PSI. Se a etiqueta do seu carro indica 2,2 kgf/cm², isso corresponde a cerca de 32 PSI. Calibradores de posto normalmente usam kgf/cm², enquanto calibradores digitais importados e manuais de veículos mais novos usam PSI. Antes de calibrar, verifique a unidade do equipamento e da etiqueta para não errar.
+  - pergunta: "Pneu calibrado errado afeta o consumo de combustível?"
+    resposta: >
+      Sim, de forma direta. Pneu murcho (abaixo da pressão) aumenta a área de contato com o asfalto, eleva a resistência ao rolamento e faz o motor trabalhar mais para manter a mesma velocidade: o consumo pode subir entre 3% e 5% por pneu fora da pressão. Pneu calibrado acima do recomendado reduz a área de contato, piora a aderência e transfere impactos para a suspensão, sem ganho real de eficiência. A pressão correta é o ponto de equilíbrio entre economia, aderência e conforto.
+  - pergunta: "Desgaste irregular tem relação com a pressão?"
+    resposta: >
+      Diretamente. Pneu murcho desgasta as bordas (os ombros) mais rápido do que o centro, porque a parte lateral da banda de rodagem fica em contato com o asfalto de forma excessiva. Pneu calibrado em excesso desgasta o centro da banda mais rápido do que as bordas, pois o pneu fica mais inflado e a área de contato se concentra na faixa central. Os dois padrões de desgaste irregular encurtam a vida útil do pneu e são sinais claros de que a pressão está errada há algum tempo.
+  - pergunta: "O que é TPMS e ele substitui a calibragem manual?"
+    resposta: >
+      TPMS (Tire Pressure Monitoring System) é o sistema de monitoramento de pressão dos pneus presente em carros mais novos. Um sensor dentro de cada roda transmite a pressão em tempo real para o painel. O ícone de alerta acende quando a pressão cai abaixo de um limite pré-definido, geralmente 25% abaixo do recomendado. Isso significa que quando o alerta aparece, o pneu já está bem abaixo do ideal. O TPMS é um aviso de emergência, não um substituto para a checagem quinzenal: continue calibrando manualmente a cada 15 dias mesmo em carros com o sistema.
+  - pergunta: "Com que frequência devo calibrar os pneus?"
+    resposta: >
+      A recomendação padrão dos fabricantes de pneus e montadoras é calibrar a cada 15 dias, sempre com o pneu frio. Além disso, calibre sempre antes de viagens longas, após mudanças bruscas de temperatura (entrada de frente fria, por exemplo) e sempre que notar que o carro está puxando para um lado ou que a direção ficou mais pesada. Se você roda pouco e guarda o carro em garagem coberta, uma checagem mensal pode ser suficiente, mas quinzenal é o padrão seguro.
 ---
 
 Calibrar o pneu é a manutenção mais simples que existe, e uma das que mais afeta segurança, consumo e durabilidade do carro. A pressão errada, seja para mais ou para menos, muda o comportamento do veículo na frenagem, no consumo de combustível e no desgaste da borracha. O procedimento correto leva menos de dez minutos e pode ser feito com um calibrador de posto ou com equipamento próprio em casa.
@@ -104,29 +123,3 @@ Faça o mesmo procedimento nos outros três pneus, ajustando para os valores cor
 Recoloque todas as tampas de válvula girando no sentido horário até firmar. Anote no celular ou em uma fita na coluna do carro a data da última calibragem. O ideal é repetir o procedimento a cada 15 dias ou antes de qualquer viagem longa.
 
 <aside class="telltale info" role="note"><span aria-hidden="true">ℹ️</span><p><strong>T.</strong> Pneus perdem naturalmente entre 1 e 2 PSI por mês só pela permeabilidade da borracha. Checagem quinzenal é suficiente para a maioria dos carros de passeio.</p></aside>
-
-## Perguntas frequentes
-
-### Qual a diferença entre calibrar o pneu frio e quente?
-
-Calibrar a frio significa medir e ajustar a pressão com o carro parado há pelo menos três horas ou após rodar menos de dois quilômetros. Nessa condição, o ar dentro do pneu está na temperatura ambiente e a leitura reflete a pressão real de trabalho. Calibrar a quente, logo após dirigir, resulta em leitura inflada porque o ar se expande com o calor: você vai remover ar que na verdade é necessário, e o pneu ficará murcho quando esfriar. Sempre prefira calibrar a frio.
-
-### PSI e kgf/cm² são a mesma coisa?
-
-Não, mas a conversão é simples. 1 kgf/cm² equivale a aproximadamente 14,22 PSI. Se a etiqueta do seu carro indica 2,2 kgf/cm², isso corresponde a cerca de 32 PSI. Calibradores de posto normalmente usam kgf/cm², enquanto calibradores digitais importados e manuais de veículos mais novos usam PSI. Antes de calibrar, verifique a unidade do equipamento e da etiqueta para não errar.
-
-### Pneu calibrado errado afeta o consumo de combustível?
-
-Sim, de forma direta. Pneu murcho (abaixo da pressão) aumenta a área de contato com o asfalto, eleva a resistência ao rolamento e faz o motor trabalhar mais para manter a mesma velocidade: o consumo pode subir entre 3% e 5% por pneu fora da pressão. Pneu calibrado acima do recomendado reduz a área de contato, piora a aderência e transfere impactos para a suspensão, sem ganho real de eficiência. A pressão correta é o ponto de equilíbrio entre economia, aderência e conforto.
-
-### Desgaste irregular tem relação com a pressão?
-
-Diretamente. Pneu murcho desgasta as bordas (os ombros) mais rápido do que o centro, porque a parte lateral da banda de rodagem fica em contato com o asfalto de forma excessiva. Pneu calibrado em excesso desgasta o centro da banda mais rápido do que as bordas, pois o pneu fica mais inflado e a área de contato se concentra na faixa central. Os dois padrões de desgaste irregular encurtam a vida útil do pneu e são sinais claros de que a pressão está errada há algum tempo.
-
-### O que é TPMS e ele substitui a calibragem manual?
-
-TPMS (Tire Pressure Monitoring System) é o sistema de monitoramento de pressão dos pneus presente em carros mais novos. Um sensor dentro de cada roda transmite a pressão em tempo real para o painel. O ícone de alerta acende quando a pressão cai abaixo de um limite pré-definido, geralmente 25% abaixo do recomendado. Isso significa que quando o alerta aparece, o pneu já está bem abaixo do ideal. O TPMS é um aviso de emergência, não um substituto para a checagem quinzenal: continue calibrando manualmente a cada 15 dias mesmo em carros com o sistema.
-
-### Com que frequência devo calibrar os pneus?
-
-A recomendação padrão dos fabricantes de pneus e montadoras é calibrar a cada 15 dias, sempre com o pneu frio. Além disso, calibre sempre antes de viagens longas, após mudanças bruscas de temperatura (entrada de frente fria, por exemplo) e sempre que notar que o carro está puxando para um lado ou que a direção ficou mais pesada. Se você roda pouco e guarda o carro em garagem coberta, uma checagem mensal pode ser suficiente, mas quinzenal é o padrão seguro.

@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Fiat Pulse usado vale a pena? Checklist 2025"
 description: "Guia de compra do Fiat Pulse 1.0 T200 CVT usado (2022-2024): checklist completo, pontos de atenção no câmbio e veredito honesto."
 collection: "guias"
@@ -20,6 +20,27 @@ afiliados:
     busca: "palheta limpador fiat pulse"
     programa: "amazon"
     cta: "Ver opções"
+faq:
+  - pergunta: "O Fiat Pulse 1.0 T200 CVT é confiável para rodar mais de 100.000 km?"
+    resposta: >
+      Sim, desde que o fluido do CVT seja trocado a cada 60.000 km e o motor receba manutenção regular (troca de óleo a cada 10.000 km ou 12 meses, o que ocorrer primeiro). Exemplares bem cuidados apresentam baixo índice de defeitos mecânicos graves até os 120.000 km com base nos relatos acumulados em fóruns e grupos de proprietários no Brasil.
+  - pergunta: "Qual é o consumo real do Fiat Pulse 1.0 T200 no dia a dia?"
+    resposta: >
+      Em uso urbano com gasolina, a média registrada por proprietários fica entre 9,5 e 11,5 km/l. Com etanol, a autonomia cai aproximadamente 30%, mas o custo por quilômetro pode ser menor dependendo da diferença de preço entre os combustíveis na região. Em rodovia, o T200 CVT atinge 14 a 16 km/l com gasolina em velocidade de cruzeiro entre 100 e 110 km/h.
+  - pergunta: "Há recalls ativos para o Fiat Pulse 2022-2024?"
+    resposta: >
+      Em 2022 e 2023 houve chamadas de revisão relacionadas ao módulo de controle dos airbags frontais e, em lotes específicos, ao sensor de cinto de segurança do banco do passageiro. É obrigatório consultar o chassi no portal do SENATRAN antes de fechar qualquer negócio. Recall pendente não impede a compra, mas dá margem para negociar desconto ou exigir que o vendedor providencie o serviço antes da entrega.
+  - pergunta: "Qual versão do Fiat Pulse usado oferece melhor custo-benefício?"
+    resposta: >
+      Para quem busca equilíbrio entre equipamentos e preço, a versão Audace (intermediária) com motor T200 CVT é a mais indicada. Ela inclui multimídia com tela de 10,1 polegadas, câmera de ré, sensor de estacionamento traseiro e assistente de partida em rampa sem os custos adicionais do teto solar panorâmico da Impetus, que adiciona complexidade mecânica e potencial ponto de infiltração.
+  - pergunta: "O Fiat Pulse 1.0 T200 CVT é caro para manter?"
+    resposta: >
+      Não, dentro do contexto do segmento. A revisão de 10.000 km em concessionária Fiat custa entre R$ 450 e R$ 750 dependendo da região. As peças de desgaste (palhetas, filtros, velas NGK específicas para o T200) têm boa disponibilidade no mercado independente com preços competitivos. O único custo fora da curva é a troca do fluido CVT, que deve ser feita com fluido homologado Fiat NS-3 para não invalidar a garantia em veículos ainda cobertos.
+  - pergunta: "Vale mais comprar o Pulse T200 CVT ou o T270 CVT no mercado de usados?"
+    resposta: >
+      Para uso predominantemente urbano, o T200 é a escolha mais segura. O T270 (1.3 litros) entrega mais torque em baixas rotações e se comporta melhor em escapadas de fim de semana com carga, mas em trânsito lento apresenta maior tendência ao solavancos do CVT e ao aquecimento do motor por operar frequentemente fora da faixa ideal de rotação. A diferença de preço entre os dois no mercado de usados raramente justifica o risco adicional do T270 para quem mora em cidade grande.
+      
+      ---
 ---
 
 ## Por que o Fiat Pulse 1.0 T200 CVT atrai compradores de seminovo?
@@ -63,33 +84,6 @@ O motor 1.0 T200 em si tem reputação melhor que o T270 (1.3 turboflex do Pulse
 
 ---
 
-## Perguntas frequentes sobre o Fiat Pulse 1.0 T200 CVT usado
-
-**1. O Fiat Pulse 1.0 T200 CVT é confiável para rodar mais de 100.000 km?**
-
-Sim, desde que o fluido do CVT seja trocado a cada 60.000 km e o motor receba manutenção regular (troca de óleo a cada 10.000 km ou 12 meses, o que ocorrer primeiro). Exemplares bem cuidados apresentam baixo índice de defeitos mecânicos graves até os 120.000 km com base nos relatos acumulados em fóruns e grupos de proprietários no Brasil.
-
-**2. Qual é o consumo real do Fiat Pulse 1.0 T200 no dia a dia?**
-
-Em uso urbano com gasolina, a média registrada por proprietários fica entre 9,5 e 11,5 km/l. Com etanol, a autonomia cai aproximadamente 30%, mas o custo por quilômetro pode ser menor dependendo da diferença de preço entre os combustíveis na região. Em rodovia, o T200 CVT atinge 14 a 16 km/l com gasolina em velocidade de cruzeiro entre 100 e 110 km/h.
-
-**3. Há recalls ativos para o Fiat Pulse 2022-2024?**
-
-Em 2022 e 2023 houve chamadas de revisão relacionadas ao módulo de controle dos airbags frontais e, em lotes específicos, ao sensor de cinto de segurança do banco do passageiro. É obrigatório consultar o chassi no portal do SENATRAN antes de fechar qualquer negócio. Recall pendente não impede a compra, mas dá margem para negociar desconto ou exigir que o vendedor providencie o serviço antes da entrega.
-
-**4. Qual versão do Fiat Pulse usado oferece melhor custo-benefício?**
-
-Para quem busca equilíbrio entre equipamentos e preço, a versão Audace (intermediária) com motor T200 CVT é a mais indicada. Ela inclui multimídia com tela de 10,1 polegadas, câmera de ré, sensor de estacionamento traseiro e assistente de partida em rampa sem os custos adicionais do teto solar panorâmico da Impetus, que adiciona complexidade mecânica e potencial ponto de infiltração.
-
-**5. O Fiat Pulse 1.0 T200 CVT é caro para manter?**
-
-Não, dentro do contexto do segmento. A revisão de 10.000 km em concessionária Fiat custa entre R$ 450 e R$ 750 dependendo da região. As peças de desgaste (palhetas, filtros, velas NGK específicas para o T200) têm boa disponibilidade no mercado independente com preços competitivos. O único custo fora da curva é a troca do fluido CVT, que deve ser feita com fluido homologado Fiat NS-3 para não invalidar a garantia em veículos ainda cobertos.
-
-**6. Vale mais comprar o Pulse T200 CVT ou o T270 CVT no mercado de usados?**
-
-Para uso predominantemente urbano, o T200 é a escolha mais segura. O T270 (1.3 litros) entrega mais torque em baixas rotações e se comporta melhor em escapadas de fim de semana com carga, mas em trânsito lento apresenta maior tendência ao solavancos do CVT e ao aquecimento do motor por operar frequentemente fora da faixa ideal de rotação. A diferença de preço entre os dois no mercado de usados raramente justifica o risco adicional do T270 para quem mora em cidade grande.
-
----
 
 ## Quanto custa o Fiat Pulse 1.0 T200 CVT usado em 2025?
 
