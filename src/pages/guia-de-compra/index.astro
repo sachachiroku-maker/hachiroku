@@ -38,7 +38,7 @@ const jsonld = {
   <section class="silos" aria-label="Guias de compra disponíveis">
     {lista.map((g) => (
       <a class="silo-card" href={`/guia-de-compra/${g.id}/`}>
-        <h2>{g.modelo ?? g.title}</h2>
+        <h2>{g.modelo || g.title}</h2>
         <p>{g.description}</p>
       </a>
     ))}
