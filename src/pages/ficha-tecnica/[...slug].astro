@@ -48,6 +48,8 @@ const modeloProblemas = data.problemaHref !== undefined
   ? data.problemaHref
   : `/problemas/${toSlug(data.marca)}/${toSlug(data.modelo)}/`;
 
+const fmt = (d: Date) => d.toLocaleDateString('pt-BR', { day: '2-digit', month: '2-digit', year: 'numeric' });
+
 const grupos = [
   { titulo: 'Motor', itens: data.motor },
   { titulo: 'Transmissão', itens: data.transmissao },
@@ -79,6 +81,13 @@ const grupos = [
       </div>
     </div>
   </section>
+
+  {data.autor && (
+    <div class="article-meta" style="max-width:var(--content-width,900px);margin-inline:auto;padding-inline:var(--space-4,1rem);padding-block:var(--space-2,0.5rem) 0">
+      <span>{data.autor.nome}</span>
+      <time datetime={(data.updatedDate ?? data.pubDate).toISOString().slice(0,10)}>Atualizado em {fmt(data.updatedDate ?? data.pubDate)}</time>
+    </div>
+  )}
 
   <Photo label={`${data.marca} ${data.modelo} ${data.versao}`} h={320} src={fotoPorModelo(data.marca, data.modelo)} class="ficha-foto" priority />
 
