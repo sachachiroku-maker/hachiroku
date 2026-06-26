@@ -1,5 +1,6 @@
 ---
 title: "Ficha técnica do Hyundai Creta 2022 Comfort 1.0 Turbo"
+seoTitle: "Ficha técnica do Hyundai Creta 2022 Comfort 1.0"
 description: "Ficha técnica completa do Hyundai Creta 2022 Comfort 1.0 Turbo: motor 1.0 turbo de 3 cilindros e 120 cv, câmbio automático de 6 marchas, 422 litros de porta-malas e injeção direta flex. Dados, consumo e o que esperar dessa versão do SUV compacto."
 marca: "Hyundai"
 modelo: "Creta"

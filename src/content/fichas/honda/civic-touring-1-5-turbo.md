@@ -1,5 +1,6 @@
 ---
 title: "Ficha técnica do Honda Civic Touring 1.5 Turbo 2023 (CVT)"
+seoTitle: "Ficha técnica do Honda Civic Touring 1.5 Turbo"
 description: "Ficha técnica completa do Honda Civic Touring 1.5 Turbo 2023: motor L15B7 de 173 cv, torque de 22,4 kgfm, câmbio CVT com 7 marchas simuladas, 519 litros de porta-malas e suspensão multilink traseira. Dados verificados e pontos de atenção do sedã médio topo de linha."
 marca: "Honda"
 modelo: "Civic"

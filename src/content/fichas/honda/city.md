@@ -1,5 +1,6 @@
-﻿---
+---
 title: "Ficha técnica do Honda City 2024 1.5 (sedã e hatch"
+seoTitle: "Ficha técnica do Honda City 2024 1.5 (sedã e"
 description: "Ficha técnica completa do Honda City 2024 1.5: motor 1.5 i-VTEC aspirado de injeção direta com 126 cv, câmbio CVT, até cerca de 15,2 km/l na estrada e porta-malas de 519 litros no sedã. Dados reais do sedã e do hatch, consumo e o que esperar da versão aspirada."
 marca: "Honda"
 modelo: "City"

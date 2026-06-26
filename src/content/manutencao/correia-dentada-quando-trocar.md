@@ -1,5 +1,6 @@
 ---
 title: "Correia Dentada: Como Saber se Precisa Trocar (Guia Prático)"
+seoTitle: "Correia Dentada"
 description: "Aprenda a identificar sinais de desgaste da correia dentada, conheça os intervalos por modelo e entenda o risco de deixar estourar o componente."
 kicker: "HOW-TO · MÃO NA MASSA"
 veiculo: "Carros com correia dentada (Gol, Argo, Fox, Ka, Uno, Palio e similares)"

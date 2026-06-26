@@ -1,5 +1,6 @@
 ---
 title: "Ficha Técnica Volvo C40 Recharge: especificações do SUV elétrico"
+seoTitle: "Ficha Técnica Volvo C40 Recharge: especificações"
 description: "Ficha técnica completa do Volvo C40 Recharge: potência, autonomia real, dimensões, tempo de carga e comparativo com concorrentes elétricos no Brasil."
 marca: "Volvo"
 modelo: "C40 Recharge"

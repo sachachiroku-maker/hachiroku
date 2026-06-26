@@ -1,5 +1,6 @@
-﻿---
+---
 title: "Ficha técnica do Volkswagen T-Cross 2023 Highline 1.4 TSI"
+seoTitle: "Ficha técnica do Volkswagen T-Cross 2023"
 description: "Ficha técnica do VW T-Cross 2023 Highline 1.4 TSI: motor 1.4 turbo de 150 cv e 25,5 kgfm, câmbio automático de 6 marchas, 373 litros de porta-malas e SUV compacto com 4.199 mm. Dados, dimensões e o que esperar da versão topo."
 marca: "Volkswagen"
 modelo: "T-Cross"

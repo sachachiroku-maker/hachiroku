@@ -1,5 +1,6 @@
 ---
 title: "Fluido de arrefecimento: como verificar e repor | Hachiroku"
+seoTitle: "Fluido de arrefecimento: como verificar e repor"
 description: "Aprenda a verificar e repor o fluido de arrefecimento em 5 passos simples. Evite superaquecimento, danos ao motor e saiba qual aditivo usar no seu carro."
 pubDate: 2026-06-20
 updatedDate: 2026-06-20

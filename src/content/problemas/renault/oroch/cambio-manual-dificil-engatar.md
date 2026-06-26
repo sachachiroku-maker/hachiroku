@@ -1,5 +1,6 @@
-﻿---
+---
 title: "Renault Oroch com câmbio manual duro e difícil de engatar"
+seoTitle: "Renault Oroch com câmbio manual duro e difícil"
 description: "Câmbio do Oroch duro, engates travados ou relação sumindo? Veja as causas do sincronizador ao cabo e como resolver na prática. (157 chars)"
 entidade:
   marca: "Renault"

@@ -1,5 +1,6 @@
-﻿---
+---
 title: "Alinhamento e Balanceamento: O Que É, Quando Fazer e Quanto"
+seoTitle: "Alinhamento e Balanceamento"
 description: "Guia completo sobre alinhamento e balanceamento: diferença entre os dois, sinais de alerta, frequência correta e quanto você vai pagar em 2026."
 kicker: "MÃO NA MASSA"
 veiculo: "universal"

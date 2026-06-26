@@ -1,5 +1,6 @@
-﻿---
+---
 title: "DSG do VW Tiguan Allspace com solavanco no engate"
+seoTitle: "DSG do VW Tiguan Allspace com solavanco no"
 description: "O câmbio DSG do Volkswagen Tiguan Allspace pode dar solavancos no engate, especialmente em manobras lentas. Saiba a diferença entre o DQ200 e o DQ250, as causas do solavanco, o papel do fluido DSG e o custo do reparo. Diagnóstico técnico verificado."
 entidade:
   marca: "Volkswagen"

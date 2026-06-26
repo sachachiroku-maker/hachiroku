@@ -1,5 +1,6 @@
-﻿---
+---
 title: "Câmbio GSR do Fiat Argo: trancos, marcha-neutra e o custo"
+seoTitle: "Câmbio GSR do Fiat Argo: trancos, marcha-neutra"
 description: "O câmbio automatizado GSR do Fiat Argo é a maior dor de cabeça do modelo: trancos nas trocas, indecisão na redução e, no caso mais grave, o risco de cair sozinho em neutro perdendo força. Veja os sintomas, o recall do sensor de seleção de marchas de 2025, como funciona o atuador, o que checar no diagnóstico, quanto custa o conserto do robô e como dirigir para prolongar a vida do câmbio."
 entidade:
   marca: "Fiat"

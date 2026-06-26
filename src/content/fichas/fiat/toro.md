@@ -1,5 +1,6 @@
-﻿---
+---
 title: "Ficha técnica da Fiat Toro 2025 Endurance 1.3 T270 (turbo"
+seoTitle: "Ficha técnica da Fiat Toro 2025 Endurance 1.3"
 description: "Ficha técnica completa da Fiat Toro 2025 Endurance 1.3 T270: motor 1.3 turbo flex de 4 cilindros e até 185 cv, câmbio automático de 6 marchas (Aisin AT6), caçamba de 937 litros e desempenho de picape média. Dados, consumo e o que esperar da versão de entrada turbo flex."
 marca: "Fiat"
 modelo: "Toro"

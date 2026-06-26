@@ -1,5 +1,6 @@
-﻿---
+---
 title: "Amortecedores dianteiros do Renault Duster vazando cedo"
+seoTitle: "Amortecedores dianteiros do Renault Duster"
 description: "Vários donos do Renault Duster relatam amortecedores dianteiros vazando óleo com 10 a 20 mil km, acompanhados de barulho na suspensão e na caixa de direção. A Renault costuma tratar o vazamento como desgaste normal, fora da garantia. Veja os sintomas, por que isso aparece tão cedo e o que verificar antes de comprar um Duster usado."
 entidade:
   marca: "Renault"

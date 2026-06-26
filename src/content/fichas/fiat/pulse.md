@@ -1,5 +1,6 @@
 ---
 title: "Ficha técnica do Fiat Pulse 2023 Drive 1.0 Turbo 200 (T200)"
+seoTitle: "Ficha técnica do Fiat Pulse 2023 Drive 1.0 Turbo"
 description: "Ficha técnica completa do Fiat Pulse Drive 1.0 Turbo 200 (T200) 2023: motor 1.0 turbo de 3 cilindros com até 130 cv no flex, câmbio CVT com 7 marchas simuladas, 370 litros de porta-malas e bom torque desde baixo giro. Dados, consumo e o que esperar do SUV compacto turbo da Fiat."
 marca: "Fiat"
 modelo: "Pulse"

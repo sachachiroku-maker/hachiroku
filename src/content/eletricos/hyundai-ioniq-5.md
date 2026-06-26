@@ -1,5 +1,6 @@
 ---
 title: "Hyundai Ioniq 5 Brasil: autonomia, recarga 800V e custo real"
+seoTitle: "Hyundai Ioniq 5 Brasil: autonomia, recarga 800V"
 description: "Hyundai Ioniq 5 no Brasil: autonomia WLTP vs real, recarga 800V (10-80% em 18 min), custo de manutenção sem óleo e comparação com BYD Seal. Guia completo 2025."
 entidade:
   marca: "Hyundai"

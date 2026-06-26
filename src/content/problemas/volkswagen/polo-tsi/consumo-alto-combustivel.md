@@ -1,5 +1,6 @@
 ---
 title: "Volkswagen Polo TSI Consumo Alto: por que acontece e como resolver"
+seoTitle: "Volkswagen Polo TSI Consumo Alto: por que"
 description: "Polo 1.0 TSI consumindo mais que 12 km/L na cidade? As causas incluem EA211 com carvão nas válvulas, sensor de massa de ar, bicos injetores e estilo de condução. Diagnóstico completo."
 entidade:
   marca: "Volkswagen"

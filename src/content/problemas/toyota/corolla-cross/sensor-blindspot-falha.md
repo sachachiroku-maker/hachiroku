@@ -1,5 +1,6 @@
-﻿---
+---
 title: "Sensor Blind Spot Corolla Cross XRX: alarme falso"
+seoTitle: "Sensor Blind Spot Corolla Cross XRX: alarme"
 pubDate: 2026-06-21
 updatedDate: 2026-06-21
 draft: false

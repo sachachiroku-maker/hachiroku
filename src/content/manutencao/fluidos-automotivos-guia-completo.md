@@ -1,5 +1,6 @@
 ---
 title: "Fluidos Automotivos: Guia Completo de Manutenção Preventiva"
+seoTitle: "Fluidos Automotivos"
 description: "Guia completo de todos os fluidos do carro — óleo motor, câmbio, freio, arrefecimento, direção. Quando trocar, como verificar e o que nunca misturar."
 kicker: "MANUTENÇÃO · FLUIDOS"
 pontosChave:

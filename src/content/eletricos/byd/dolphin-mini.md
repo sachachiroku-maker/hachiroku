@@ -1,5 +1,6 @@
-﻿---
+---
 title: "BYD Dolphin Mini: autonomia real, bateria e modo tartaruga"
+seoTitle: "BYD Dolphin Mini: autonomia real, bateria e modo"
 description: "Diagnóstico honesto do EV de entrada da BYD: 280 km PBEV contra a autonomia real urbana, bateria Blade e garantia, falhas da bateria 12V, o que é o modo tartaruga e como recarregar em casa."
 entidade:
   marca: "BYD"

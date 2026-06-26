@@ -1,5 +1,6 @@
-﻿---
+---
 title: "Renault Kwid usado vale a pena? O que verificar antes de"
+seoTitle: "Renault Kwid usado vale a pena? O que verificar"
 description: "Kwid usado pode ser uma compra inteligente para uso urbano e plano. Mas o AMT pede atenção especial, a suspensão de lâminas cobra buchas e o motor tem limite claro."
 marca: "Renault"
 modelo: "Kwid"

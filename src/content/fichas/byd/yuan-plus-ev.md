@@ -1,5 +1,6 @@
 ---
 title: "Ficha técnica do BYD Yuan Plus EV 2024 (elétrico)"
+seoTitle: "Ficha técnica do BYD Yuan Plus EV 2024"
 description: "Ficha técnica completa do BYD Yuan Plus EV 2024: motor elétrico de 204 cv, bateria BYD Blade de 60,5 kWh, autonomia de 294 km no ciclo PBEV e recarga DC de 30% a 80% em 30 minutos. Dados verificados com pontos de atenção do SUV elétrico chinês no Brasil."
 marca: "BYD"
 modelo: "Yuan Plus"

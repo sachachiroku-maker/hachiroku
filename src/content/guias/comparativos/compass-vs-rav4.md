@@ -1,5 +1,6 @@
-﻿---
+---
 title: "Jeep Compass vs. Toyota RAV4: qual SUV vale mais em 2026?"
+seoTitle: "Jeep Compass vs. Toyota RAV4: qual SUV vale mais"
 description: "Comparativo completo entre Jeep Compass e Toyota RAV4: preço, motor, câmbio, confiabilidade, custo de manutenção e para quem cada um faz mais sentido."
 kicker: "COMPARATIVO · SUVs MÉDIOS"
 veredito: "RAV4 vence em confiabilidade e revenda. Compass vence em custo de entrada e disponibilidade de peças no Brasil."

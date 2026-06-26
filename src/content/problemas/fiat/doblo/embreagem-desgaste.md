@@ -1,5 +1,6 @@
-﻿---
+---
 title: "Embreagem do Fiat Doblo 1.8: barulho, pedal mole e desgaste"
+seoTitle: "Embreagem do Fiat Doblo 1.8: barulho, pedal mole"
 description: "Diagnóstico completo da embreagem do Fiat Doblo Essence 1.8 manual: ruídos, pedal mole, desgaste entre 60-90 mil km e quanto custa o reparo."
 entidade:
   marca: "Fiat"

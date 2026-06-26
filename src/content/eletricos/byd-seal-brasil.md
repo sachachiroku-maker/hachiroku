@@ -1,5 +1,6 @@
-﻿---
+---
 title: "BYD Seal no Brasil: autonomia real, especificações e quando chega"
+seoTitle: "BYD Seal no Brasil: autonomia real,"
 description: "BYD Seal no Brasil: sedã elétrico com até 530 cv (AWD), bateria 82,56 kWh, autonomia WLTP 570 km e carga de 150 kW. Tudo que se sabe sobre o lançamento no mercado brasileiro."
 entidade:
   marca: "BYD"

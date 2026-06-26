@@ -1,5 +1,6 @@
-﻿---
+---
 title: "Ficha técnica do Renault Duster 2024 (1.6 SCe e 1.3 TCe"
+seoTitle: "Ficha técnica do Renault Duster 2024 (1.6 SCe e"
 description: "Ficha técnica completa do Renault Duster 2024: SUV com motor 1.6 SCe aspirado de até 120 cv e o 1.3 TCe turbo de até 163 cv, câmbio manual ou CVT X-Tronic, 400 litros de porta-malas e 215/65 R16. Dados reais, consumo e o que esperar de cada motor."
 marca: "Renault"
 modelo: "Duster"

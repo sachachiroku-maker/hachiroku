@@ -1,5 +1,6 @@
-﻿---
+---
 title: "Chevrolet Onix: Ruído no câmbio automático — diagnóstico e causas"
+seoTitle: "Chevrolet Onix"
 description: "Tudo sobre Ruído no câmbio automático — diagnóstico e causas no Chevrolet Onix --- diagnostico, causas, custos e como resolver. Guia pratico com informacoes verificadas."
 entidade:
   marca: "Chevrolet"

@@ -1,5 +1,6 @@
 ---
 title: "Ficha técnica do Mitsubishi Outlander 3.0 V6 2022"
+seoTitle: "Ficha técnica do Mitsubishi Outlander 3.0 V6"
 description: "Ficha técnica completa do Mitsubishi Outlander 3.0 V6 2022: motor, potência, consumo, dimensões e desempenho do SUV importado da Mitsubishi."
 marca: "Mitsubishi"
 modelo: "Outlander"

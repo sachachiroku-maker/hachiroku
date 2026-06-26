@@ -1,5 +1,6 @@
-﻿---
+---
 title: "Suspensão traseira do Renault Oroch com barulho em estrada"
+seoTitle: "Suspensão traseira do Renault Oroch com barulho"
 description: "O eixo traseiro rígido do Renault Oroch pode emitir barulhos em pavimento irregular, especialmente com a caçamba vazia. Saiba quais componentes causam o problema, como diagnosticar, custo de reparo e prevenção. Diagnóstico técnico verificado."
 entidade:
   marca: "Renault"

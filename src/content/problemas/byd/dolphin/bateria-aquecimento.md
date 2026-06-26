@@ -1,5 +1,6 @@
-﻿---
+---
 title: "BYD Dolphin Mini: aquecimento da bateria na recarga"
+seoTitle: "BYD Dolphin Mini: aquecimento da bateria na"
 pubDate: 2026-06-21
 updatedDate: 2026-06-21
 draft: false

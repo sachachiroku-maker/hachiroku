@@ -1,5 +1,6 @@
-﻿---
+---
 title: "Jeep Wrangler Superaquecendo: Causas, Sintomas e Como"
+seoTitle: "Jeep Wrangler Superaquecendo"
 description: "Jeep Wrangler superaquecendo? Entenda as causas do problema no motor 1.3T e 2.0T: radiador entupido, termostato, EGR e correia auxiliar. Diagnóstico completo."
 entidade:
   marca: "Jeep"

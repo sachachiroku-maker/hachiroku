@@ -1,5 +1,6 @@
 ---
 title: "Ficha técnica do Volkswagen Fox 1.6 MI Total Flex 2014"
+seoTitle: "Ficha técnica do Volkswagen Fox 1.6 MI Total"
 description: "Ficha técnica completa do VW Fox 1.6 MI 2014: motor, potência, consumo, dimensões e dados reais do hatch compacto."
 marca: "Volkswagen"
 modelo: "Fox"

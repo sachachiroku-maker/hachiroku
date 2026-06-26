@@ -1,5 +1,6 @@
-﻿---
+---
 title: "Ficha técnica da Volkswagen Amarok Highline V6 3.0 TDI"
+seoTitle: "Ficha técnica da Volkswagen Amarok Highline V6"
 description: "Ficha técnica completa da Volkswagen Amarok Highline V6 3.0 TDI 4Motion 2022: motor diesel V6 de 258 cv e 59,1 kgfm, câmbio automático ZF de 8 marchas, tração 4Motion permanente e 0 a 100 km/h em 7,4 s. Dados verificados com pontos de atenção da picape alemã."
 marca: "Volkswagen"
 modelo: "Amarok"

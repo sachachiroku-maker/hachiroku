@@ -1,5 +1,6 @@
 ---
 title: "Ficha técnica do Ford Ka 2018 SE 1.0 Ti-VCT (aspirado)"
+seoTitle: "Ficha técnica do Ford Ka 2018 SE 1.0 Ti-VCT"
 description: "Ficha técnica do Ford Ka 2018 SE 1.0 Ti-VCT: motor 1.0 aspirado de 3 cilindros, câmbio manual de 5 marchas, 257 litros de porta-malas e tanque de 52 litros. Dados, consumo e o que esperar da versão de entrada."
 marca: "Ford"
 modelo: "Ka"

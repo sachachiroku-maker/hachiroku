@@ -1,5 +1,6 @@
 ---
 title: "Toyota SW4 SRX 2.8 Diesel 4x4 2023: ficha técnica completa"
+seoTitle: "Toyota SW4 SRX 2.8 Diesel 4x4 2023: ficha"
 description: "Ficha técnica do Toyota SW4 SRX 2.8 TDI 4x4 automático 2023: motor GD-6 de 204 cv, câmbio automático de 6 marchas, 7 lugares e capacidade de reboque de 3.000 kg. O SUV diesel de luxo da Toyota em dados técnicos detalhados."
 marca: "Toyota"
 modelo: "SW4"

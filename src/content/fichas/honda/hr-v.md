@@ -1,5 +1,6 @@
 ---
 title: "Ficha técnica do Honda HR-V 2023: 1.5 aspirado e 1.5 turbo"
+seoTitle: "Ficha técnica do Honda HR-V 2023: 1.5 aspirado e"
 description: "Ficha técnica completa do Honda HR-V de 3ª geração: motor 1.5 aspirado de 126 cv, motor 1.5 turbo de 177 cv e 24,5 kgfm, câmbio CVT de 7 marchas simuladas, porta-malas de 354 litros e desempenho de 0 a 100 km/h em 8,9 s no turbo. Dados reais, consumo e o que esperar de cada versão."
 marca: "Honda"
 modelo: "HR-V"

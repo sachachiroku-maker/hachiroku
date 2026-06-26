@@ -1,5 +1,6 @@
-﻿---
+---
 title: "Bomba de Água com Impelidor Plástico no VW Virtus"
+seoTitle: "Bomba de Água com Impelidor Plástico no VW"
 description: "Impelidor plástico da bomba de água do Virtus racha ou solta do eixo e provoca superaquecimento súbito. Veja diagnóstico, custos e a solução definitiva com impelidor metálico."
 entidade:
   marca: "Volkswagen"

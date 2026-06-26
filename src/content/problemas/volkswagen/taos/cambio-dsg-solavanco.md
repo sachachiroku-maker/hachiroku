@@ -1,5 +1,6 @@
-﻿---
+---
 title: "Câmbio do Taos com solavancos: AQ250 ou DSG, o que está"
+seoTitle: "Câmbio do Taos com solavancos"
 description: "Donos do Volkswagen Taos relatam solavancos e comportamento brusco na transmissão automática. Entenda por que o Taos brasileiro usa câmbio AQ250 e não DSG, quais são os sintomas reais do problema, a causa mais comum e o que a VW fez para corrigir. Diagnóstico técnico completo."
 entidade:
   marca: "Volkswagen"

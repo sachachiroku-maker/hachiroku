@@ -1,5 +1,6 @@
-﻿---
+---
 title: "GWM Haval H6: Ruído na suspensão dianteira — diagnóstico e causas"
+seoTitle: "GWM Haval H6"
 description: "Tudo sobre Ruído na suspensão dianteira — diagnóstico e causas no GWM Haval H6 --- diagnostico, causas, custos e como resolver. Guia pratico com informacoes verificadas."
 entidade:
   marca: "GWM"

@@ -1,5 +1,6 @@
-﻿---
+---
 title: "Barulho na Suspensão Dianteira do Toyota Corolla (2014 em"
+seoTitle: "Barulho na Suspensão Dianteira do Toyota Corolla"
 description: "Ploft, toc-toc ou traque na dianteira do Corolla? Diagnóstico dos 3 defeitos mais comuns: coxim, bucha de bandeja e bieleta — com custo de reparo 2025."
 entidade:
   marca: "Toyota"

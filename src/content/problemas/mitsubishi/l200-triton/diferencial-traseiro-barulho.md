@@ -1,5 +1,6 @@
-﻿---
+---
 title: "Barulho no Diferencial Traseiro do L200 Triton Sport"
+seoTitle: "Barulho no Diferencial Traseiro do L200 Triton"
 description: "Barulho no diferencial traseiro do Mitsubishi L200 Triton Sport 2.4 MIVEC diesel: rolamentos desgastados ou óleo baixo. Diagnóstico, custos e solução em 2026."
 entidade:
   marca: "Mitsubishi"

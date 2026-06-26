@@ -1,5 +1,6 @@
 ---
 title: "Ficha técnica do Fiat Palio 2013 Attractive 1.4 (Fire)"
+seoTitle: "Ficha técnica do Fiat Palio 2013 Attractive 1.4"
 description: "Ficha técnica completa do Fiat Palio 2013 Attractive 1.4: motor Fire 1.4 8V aspirado de 88 cv (etanol), câmbio manual de 5 marchas, 290 litros de porta-malas e tanque de 48 litros. Dados, consumo e o que esperar dessa geração G5."
 marca: "Fiat"
 modelo: "Palio"

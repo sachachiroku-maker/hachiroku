@@ -1,5 +1,6 @@
 ---
 title: "Corrente de Distribuição: vantagens, riscos e quando ela falha"
+seoTitle: "Corrente de Distribuição: vantagens, riscos e"
 description: "Corrente de distribuição dura mais que correia? Quais motores usam corrente, quando a corrente estica ou rompe, e o que fazer para não perder o motor."
 kicker: "TÉCNICO · APROFUNDADO"
 categoria: motor

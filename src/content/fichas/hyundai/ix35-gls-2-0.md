@@ -1,5 +1,6 @@
 ---
 title: "Ficha técnica do Hyundai ix35 GLS 2.0 automático 2017"
+seoTitle: "Ficha técnica do Hyundai ix35 GLS 2.0 automático"
 description: "Ficha técnica do Hyundai ix35 GLS 2.0 automático 2017: motor 2.0 Theta II de 167 cv (etanol), câmbio automático de 6 marchas e porta-malas de 728 litros. Dados do SUV compacto mais popular da Hyundai antes do Creta."
 marca: "Hyundai"
 modelo: "ix35"

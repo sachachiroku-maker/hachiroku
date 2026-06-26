@@ -1,5 +1,6 @@
-﻿---
+---
 title: "Bieleta Estabilizadora: Como Trocar, Sintomas e Custo"
+seoTitle: "Bieleta Estabilizadora"
 description: "Bieleta estabilizadora trocar custa entre R$ 30 e R$ 90 por peça. Veja os sintomas de bieleta ruim, ferramentas e o passo a passo completo da troca."
 kicker: "HOW-TO · MÃO NA MASSA"
 veiculo: "Carros nacionais populares — Onix, HB20, Polo, Argo, Gol"

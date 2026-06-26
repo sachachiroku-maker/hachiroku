@@ -1,5 +1,6 @@
 ---
 title: "Nissan Frontier XE 2.5 Diesel 2022: ficha técnica completa"
+seoTitle: "Nissan Frontier XE 2.5 Diesel 2022: ficha"
 description: "Ficha técnica da Nissan Frontier XE 2.5 diesel 4x4 manual 2022: motor YD25DDTi turbo de 190 cv, câmbio manual de 6 marchas e capacidade de reboque de 3.000 kg. Dados verificados da picape média diesel japonesa no mercado brasileiro."
 marca: "Nissan"
 modelo: "Frontier"

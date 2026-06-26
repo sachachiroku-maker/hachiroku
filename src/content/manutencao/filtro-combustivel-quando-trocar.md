@@ -1,5 +1,6 @@
 ---
 title: "Filtro de Combustível: Quando Trocar, Sinais e Quanto Custa"
+seoTitle: "Filtro de Combustível"
 description: "Aprenda quando trocar o filtro de combustível do seu carro, os sinais de filtro entupido, o intervalo correto por tipo de combustível e o custo do serviço em 2025-2026."
 kicker: "HOW-TO · MÃO NA MASSA"
 veiculo: "universal"

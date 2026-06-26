@@ -1,5 +1,6 @@
-﻿---
+---
 title: "Chevrolet Tracker 1.0 Turbo: Superaquecimento do Motor —"
+seoTitle: "Chevrolet Tracker 1.0 Turbo"
 description: "Tracker 1.0 turbo superaquecendo? Veja as causas reais: termostato, bomba d'água e Dex-Cool degradado. Diagnóstico completo com custos e soluções. (156 chars)"
 entidade:
   marca: "Chevrolet"

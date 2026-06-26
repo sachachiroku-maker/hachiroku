@@ -1,5 +1,6 @@
 ---
 title: "Fiat Fastback Impetus 1.3 Turbo 2023: ficha técnica completa"
+seoTitle: "Fiat Fastback Impetus 1.3 Turbo 2023: ficha"
 description: "Ficha técnica do Fiat Fastback Impetus 1.3 Turbo automático 2023: motor T270 de 185 cv flex, câmbio automático de 6 marchas e design cupê-SUV. Dados verificados do SUV fastback da Fiat no Brasil."
 marca: "Fiat"
 modelo: "Fastback"

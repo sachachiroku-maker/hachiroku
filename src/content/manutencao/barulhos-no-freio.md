@@ -1,5 +1,6 @@
-﻿---
+---
 title: "Barulho no freio: guia completo para identificar e resolver"
+seoTitle: "Barulho no freio: guia completo para identificar"
 description: "Barulho no freio pode indicar desde pastilha desgastada até disco empenado. Saiba o que cada tipo de rangido ou estralo significa e quando parar de dirigir."
 kicker: "DIAGNÓSTICO · FREIOS"
 veiculo: "Todos os veículos nacionais — Onix, HB20, Polo, Argo, Gol, Kwid"

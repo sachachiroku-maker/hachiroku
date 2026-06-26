@@ -1,5 +1,6 @@
-﻿---
+---
 title: "Hyundai Santa Fe 3.5 V6: consumo de combustível muito"
+seoTitle: "Hyundai Santa Fe 3.5 V6: consumo de combustível"
 description: "Santa Fe 3.5 V6 rodando 4,5 a 6 km/l na cidade? Descubra as causas reais e o que corrigir antes de culpar o motor."
 entidade:
   marca: "Hyundai"

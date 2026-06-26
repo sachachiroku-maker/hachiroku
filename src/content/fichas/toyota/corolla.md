@@ -1,5 +1,6 @@
 ---
 title: "Ficha técnica do Toyota Corolla 2023 XEi 2.0 Flex"
+seoTitle: "Ficha técnica do Toyota Corolla 2023 XEi 2.0"
 description: "Ficha técnica completa do Toyota Corolla 2023 XEi 2.0 Flex: motor 2.0 aspirado de 177 cv com etanol, câmbio CVT, 470 litros de porta-malas e até 13,9 km/l na estrada. Dados, consumo e o que esperar do sedã."
 marca: "Toyota"
 modelo: "Corolla"

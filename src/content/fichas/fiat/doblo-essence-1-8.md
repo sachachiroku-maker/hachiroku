@@ -1,5 +1,6 @@
 ---
 title: "Ficha técnica do Fiat Doblo Essence 1.8 16V Flex 2022"
+seoTitle: "Ficha técnica do Fiat Doblo Essence 1.8 16V Flex"
 description: "Ficha técnica completa do Fiat Doblo Essence 1.8 16V Flex 2022: motor, dimensões, consumo, desempenho e equipamentos da minivan 7 lugares."
 marca: "Fiat"
 modelo: "Doblo"

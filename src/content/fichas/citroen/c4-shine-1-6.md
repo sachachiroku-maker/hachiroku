@@ -1,5 +1,6 @@
 ---
 title: "Ficha técnica do Citroën C4 Shine Pack 1.6 THP 2022"
+seoTitle: "Ficha técnica do Citroën C4 Shine Pack 1.6 THP"
 description: "Citroën C4 Shine Pack 1.6 THP 173 cv, câmbio EAT8 de 8 marchas e 0-100 km/h em 8,5 s. Confira todos os dados técnicos verificados."
 marca: "Citroën"
 modelo: "C4"

@@ -1,5 +1,6 @@
-﻿---
+---
 title: "Motor 1.6 SCe do Renault Oroch com superaquecimento"
+seoTitle: "Motor 1.6 SCe do Renault Oroch com"
 description: "O motor 1.6 SCe do Renault Oroch pode tender ao superaquecimento em uso intenso com ar-condicionado ligado e trânsito parado. Saiba as causas, como identificar os sinais precoces, o custo do reparo e como prevenir a falha da junta do cabeçote. Diagnóstico verificado."
 entidade:
   marca: "Renault"

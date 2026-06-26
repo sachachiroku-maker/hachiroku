@@ -1,5 +1,6 @@
 ---
 title: "Honda City Touring 1.5 CVT 2023: ficha técnica completa"
+seoTitle: "Honda City Touring 1.5 CVT 2023: ficha técnica"
 description: "Ficha técnica do Honda City Touring 1.5 i-VTEC CVT 2023: motor de 126 cv, câmbio CVT com modo manual e equipamentos de segurança Honda Sensing de série. O sedã compacto premium da Honda em dados técnicos detalhados."
 marca: "Honda"
 modelo: "City"

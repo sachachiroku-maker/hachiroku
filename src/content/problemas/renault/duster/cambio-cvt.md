@@ -1,5 +1,6 @@
-﻿---
+---
 title: "Câmbio CVT do Renault Duster: trancos, falhas e o erro de"
+seoTitle: "Câmbio CVT do Renault Duster: trancos, falhas e"
 description: "O câmbio CVT X-Tronic do Renault Duster é o componente que mais concentra reclamações de donos, com trancos, ruídos e falhas que já exigiram troca antes dos 50 mil km, com conta que passa de R$ 19 mil. Veja os sintomas, por que o mito do fluido 'vitalício' é o erro mais caro e o que verificar antes de comprar um Duster CVT usado."
 entidade:
   marca: "Renault"

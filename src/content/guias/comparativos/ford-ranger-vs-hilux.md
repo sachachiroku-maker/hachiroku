@@ -1,5 +1,6 @@
-﻿---
+---
 title: "Ranger vs Hilux: qual diesel vale mais a pena? | Hachiroku"
+seoTitle: "Ranger vs Hilux: qual diesel vale mais a pena?"
 description: "Comparativo técnico entre Ford Ranger 2.0 Biturbo e Toyota Hilux 2.8 GD: motor, câmbio, durabilidade, custo de manutenção e capacidade de reboque. Descubra qual diesel entrega mais para o seu uso real."
 collection: "guias"
 kicker: "COMPARATIVO · DECISÃO"

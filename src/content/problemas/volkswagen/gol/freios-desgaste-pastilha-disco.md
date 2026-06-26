@@ -1,5 +1,6 @@
-﻿---
+---
 title: "Freios do Gol: pastilha e disco que desgastam cedo e o"
+seoTitle: "Freios do Gol: pastilha e disco que desgastam"
 description: "Rangido a frio, pulsação no pedal e pó cinza no aro são os três sinais de que as pastilhas e discos do Volkswagen Gol EA111 precisam de atenção. Veja causas, intervalo de verificação, como diagnosticar e quando a troca é urgente."
 entidade:
   marca: "Volkswagen"

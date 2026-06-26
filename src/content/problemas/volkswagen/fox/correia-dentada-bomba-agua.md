@@ -1,5 +1,6 @@
-﻿---
+---
 title: "VW Fox 1.6 MI: bomba d'água com impelidor plástico destrói"
+seoTitle: "VW Fox 1.6 MI: bomba d'água com impelidor"
 description: "Entenda por que o impelidor plástico da bomba d'água do Fox 1.6 EA111 falha sem aviso e como evitar junta queimada com a troca preventiva certa."
 entidade:
   marca: "Volkswagen"

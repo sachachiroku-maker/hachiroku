@@ -1,5 +1,6 @@
-﻿---
+---
 title: "CVT do Tiggo 8 Pro com solavanco: causa e solução"
+seoTitle: "CVT do Tiggo 8 Pro com solavanco: causa e"
 description: "Solavanco e trepidação no CVT do Caoa Chery Tiggo 8 Pro 1.6 TGDI surgem por ponto de calibração desatualizado. Saiba como diagnosticar e resolver sem trocar a transmissão."
 entidade:
   marca: "Caoa Chery"

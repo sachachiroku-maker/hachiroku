@@ -1,5 +1,6 @@
 ---
 title: "Ficha técnica do GWM Haval H6 Supreme 1.5 GDIT 2023"
+seoTitle: "Ficha técnica do GWM Haval H6 Supreme 1.5 GDIT"
 description: "GWM Haval H6 Supreme com motor 1.5 turbo de 150 cv, câmbio 7DCT e porta-malas de 723 litros: SUV médio chinês bem equipado."
 marca: "GWM"
 modelo: "Haval H6"

@@ -1,5 +1,6 @@
-﻿---
+---
 title: "L200 Triton vs Frontier: Qual Picape Média Diesel Vale Mais"
+seoTitle: "L200 Triton vs Frontier"
 description: "Duelo asiático entre L200 Triton Sport e Nissan Frontier. Comparamos motor, tração 4x4, custo de revisão e conforto para você decidir certo."
 marca: "Comparativo"
 modelo: "L200 Triton vs Frontier"

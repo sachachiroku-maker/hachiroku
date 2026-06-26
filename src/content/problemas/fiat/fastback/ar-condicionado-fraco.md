@@ -1,5 +1,6 @@
-﻿---
+---
 title: "Ar-Condicionado Fraco no Fastback: Bancos Traseiros"
+seoTitle: "Ar-Condicionado Fraco no Fastback"
 description: "Fastback Impetus 1.3 T270 CVT resfria mal os bancos traseiros? Entenda como a geometria cupê bloqueia o fluxo de ar e as soluções disponíveis."
 entidade:
   marca: "Fiat"

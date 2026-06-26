@@ -1,5 +1,6 @@
-﻿---
+---
 title: "Volkswagen Polo TSI: Luz EPC Acende e Motor Perde Potência"
+seoTitle: "Volkswagen Polo TSI"
 description: "Luz EPC no Polo TSI indica falha no sistema de controle eletrônico do turbo. Saiba diagnosticar P0299, wastegate e duto rachado antes de ir à oficina."
 entidade:
   marca: "Volkswagen"

@@ -1,5 +1,6 @@
 ---
 title: "Chevrolet Spin LTZ 1.8 2022: ficha técnica completa"
+seoTitle: "Chevrolet Spin LTZ 1.8 2022: ficha técnica"
 description: "Ficha técnica completa da Chevrolet Spin LTZ 1.8 automática 2022: motor 1.8 E.torQ de 130 cv, câmbio automático de 6 marchas, capacidade para 7 lugares e consumo médio de 9,5 km/l na cidade. Dados, dimensões e o que verificar antes de comprar."
 marca: "Chevrolet"
 modelo: "Spin"

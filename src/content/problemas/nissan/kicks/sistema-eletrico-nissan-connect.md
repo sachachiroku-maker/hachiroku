@@ -1,5 +1,6 @@
-﻿---
+---
 title: "Eletrônica do Kicks: multimídia que trava e sensor de"
+seoTitle: "Eletrônica do Kicks: multimídia que trava e"
 description: "Nissan Kicks com multimídia travando, Nissan Connect reiniciando sozinho e sensores de estacionamento com falso positivo. Entenda as causas, como atualizar o software e quando o módulo precisa ser trocado."
 entidade:
   marca: "Nissan"

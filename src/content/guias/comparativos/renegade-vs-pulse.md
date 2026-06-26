@@ -1,5 +1,6 @@
-﻿---
+---
 title: "Renegade vs Pulse: mesma plataforma, escolha diferente"
+seoTitle: "Renegade vs Pulse: mesma plataforma, escolha"
 description: "Renegade Sport ou Pulse Impetus? Os dois têm o 1.3 T270, mas entregam experiências diferentes. Comparativo técnico completo com veredicto claro."
 marca: "Comparativo"
 modelo: "Renegade vs Pulse"

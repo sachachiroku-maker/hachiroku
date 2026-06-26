@@ -1,5 +1,6 @@
 ---
 title: "Ficha Técnica BYD Song Plus DMI: especificações do híbrido plug-in"
+seoTitle: "Ficha Técnica BYD Song Plus DMI: especificações"
 description: "Ficha técnica completa do BYD Song Plus DMI (PHEV): motor 1.5 + elétrico, autonomia elétrica, potência combinada, consumo misto e dimensões. Dados reais do importador BYD Brasil."
 marca: "BYD"
 modelo: "Song Plus"

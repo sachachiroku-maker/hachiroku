@@ -1,5 +1,6 @@
-﻿---
+---
 title: "Pescador entupido no Onix turbo: luz de óleo e o que fazer"
+seoTitle: "Pescador entupido no Onix turbo: luz de óleo e o"
 description: "No Onix 1.0 e 1.2 turbo, quando a correia banhada a óleo se desfaz, os fragmentos entopem o pescador da bomba de óleo e cortam a lubrificação do motor. Veja os sintomas da luz de óleo, o risco real, o intervalo de troca certo (Dexos 1 Gen 3) e como prevenir."
 entidade:
   marca: "Chevrolet"

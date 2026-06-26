@@ -1,5 +1,6 @@
-﻿---
+---
 title: "Fiat Uno: Bucha da suspensão dianteira — desgaste e substituição"
+seoTitle: "Fiat Uno: Bucha da suspensão dianteira"
 description: "Tudo sobre Bucha da suspensão dianteira — desgaste e substituição no Fiat Uno --- diagnostico, causas, custos e como resolver. Guia pratico com informacoes verificadas."
 entidade:
   marca: "Fiat"

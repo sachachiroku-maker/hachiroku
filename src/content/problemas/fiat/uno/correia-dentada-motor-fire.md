@@ -1,5 +1,6 @@
-﻿---
+---
 title: "Fiat Uno 1.0 Fire Flex: correia dentada, quando trocar e o"
+seoTitle: "Fiat Uno 1.0 Fire Flex: correia dentada, quando"
 description: "Correia dentada do Uno 1.0 Fire Flex: intervalo correto, sinais de desgaste, custo da troca e o que acontece se a correia romper. (157 chars)"
 entidade:
   marca: "Fiat"

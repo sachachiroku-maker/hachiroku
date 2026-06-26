@@ -1,5 +1,6 @@
-﻿---
+---
 title: "Ficha técnica do Chevrolet Onix 2022 LT 1.0 Turbo"
+seoTitle: "Ficha técnica do Chevrolet Onix 2022 LT 1.0"
 description: "Ficha técnica completa do Chevrolet Onix 2022 LT 1.0 Turbo: motor 1.0 turbo de 3 cilindros e 116 cv, torque de 16,8 kgfm, câmbio automático de 6 marchas, 275 litros de porta-malas e até 15,1 km/l na estrada. Dados, consumo e o cuidado obrigatório com a correia banhada a óleo."
 marca: "Chevrolet"
 modelo: "Onix"

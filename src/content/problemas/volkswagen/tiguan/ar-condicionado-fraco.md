@@ -1,5 +1,6 @@
-﻿---
+---
 title: "Ar-condicionado fraco do VW Tiguan Allspace 1.4 TSI"
+seoTitle: "Ar-condicionado fraco do VW Tiguan Allspace 1.4"
 description: "O ar-condicionado do Volkswagen Tiguan Allspace pode ficar fraco com 7 lugares ocupados. Entenda o compressor Sanden, o gás R134a, os dois filtros e como diagnosticar. (156 chars)"
 entidade:
   marca: "Volkswagen"

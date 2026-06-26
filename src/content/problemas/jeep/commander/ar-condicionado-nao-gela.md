@@ -1,5 +1,6 @@
-﻿---
+---
 title: "Ar-condicionado fraco ou que não gela no Jeep Commander"
+seoTitle: "Ar-condicionado fraco ou que não gela no Jeep"
 description: "Commander 2022+ com AC fraco, demora a gelar ou para de funcionar? Refrigerante R1234yf, compressor variável e AC traseiro têm particularidades. Veja o diagnóstico completo."
 entidade:
   marca: "Jeep"

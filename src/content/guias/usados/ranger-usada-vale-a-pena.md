@@ -1,5 +1,6 @@
-﻿---
+---
 title: "Ford Ranger usada: vale a pena comprar? Guia técnico 2026"
+seoTitle: "Ford Ranger usada: vale a pena comprar? Guia"
 description: "Guia técnico completo para comprar uma Ford Ranger usada: diferenças entre gerações, pontos de inspeção, defeitos conhecidos e qual versão escolher."
 marca: "Ford"
 modelo: "Ranger"

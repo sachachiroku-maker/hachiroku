@@ -1,5 +1,6 @@
-﻿---
+---
 title: "Toyota Corolla vs Honda Civic: qual o melhor sedan médio do"
+seoTitle: "Toyota Corolla vs Honda Civic: qual o melhor"
 description: "Corolla 2.0 aspirado ou Civic 1.5 Turbo? Comparamos motor, porta-malas, consumo, manutenção e custo para você decidir sem erro. (156 chars)"
 marca: "Comparativo"
 modelo: "Toyota Corolla vs Honda Civic"

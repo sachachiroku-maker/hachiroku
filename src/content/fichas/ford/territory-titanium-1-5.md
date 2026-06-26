@@ -1,5 +1,6 @@
 ---
 title: "Ficha técnica do Ford Territory Titanium 1.5 EcoBoost 2022"
+seoTitle: "Ficha técnica do Ford Territory Titanium 1.5"
 description: "SUV crossover com motor 1.5 EcoBoost turbo de 150 cv, câmbio automático de 8 marchas e porta-malas de 418 litros. Importado da China."
 marca: "Ford"
 modelo: "Territory"

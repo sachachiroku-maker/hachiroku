@@ -1,5 +1,6 @@
-﻿---
+---
 title: "Motor 1.6 T-GDi do Hyundai Tucson com consumo de óleo"
+seoTitle: "Motor 1.6 T-GDi do Hyundai Tucson com consumo de"
 description: "O motor 1.6 T-GDi turbo do Hyundai Tucson NX4 pode apresentar consumo de óleo acima do esperado. Saiba as causas documentadas, como medir, qual óleo usar e quando acionar os 5 anos de garantia Hyundai. Diagnóstico técnico verificado."
 entidade:
   marca: "Hyundai"

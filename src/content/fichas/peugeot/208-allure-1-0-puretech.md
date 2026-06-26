@@ -1,5 +1,6 @@
 ---
 title: "Ficha Técnica Peugeot 208 Allure 1.0 PureTech: especificações completas"
+seoTitle: "Ficha Técnica Peugeot 208 Allure 1.0 PureTech:"
 description: "Ficha técnica completa do Peugeot 208 Allure 1.0 PureTech: potência, torque, consumo real, dimensões, suspensão e câmbio. Dados verificados do catálogo oficial Peugeot Brasil."
 marca: "Peugeot"
 modelo: "208"

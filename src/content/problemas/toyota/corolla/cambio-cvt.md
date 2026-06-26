@@ -1,5 +1,6 @@
-﻿---
+---
 title: "Câmbio CVT do Toyota Corolla: a troca de fluido que ninguém"
+seoTitle: "Câmbio CVT do Toyota Corolla: a troca de fluido"
 description: "O câmbio CVT do Toyota Corolla é durável, mas a confusão sobre a troca do fluido ATF WS é o problema crônico mais documentado: concessionária diz que não troca, manual condiciona, e o dono que ignora paga trepidação, superaquecimento e câmbio inteiro. Veja sintomas, causa real, quando trocar o fluido, custo e como o CVT do 1.8 difere do híbrido."
 entidade:
   marca: "Toyota"

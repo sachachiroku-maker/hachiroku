@@ -1,5 +1,6 @@
 ---
 title: "Citroën C3 Shine 1.6 2023: ficha técnica completa"
+seoTitle: "Citroën C3 Shine 1.6 2023: ficha técnica"
 description: "Ficha técnica do Citroën C3 Shine 1.6 automático 2023: motor 1.6 VTi de 120 cv, câmbio automatizado EGS6 de 6 marchas e estilo Airbump. O hatch compacto europeu da Citroën no Brasil."
 marca: "Citroën"
 modelo: "C3"

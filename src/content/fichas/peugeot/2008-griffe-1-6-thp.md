@@ -1,5 +1,6 @@
 ---
 title: "Peugeot 2008 Griffe 1.6 THP 2023: ficha técnica completa"
+seoTitle: "Peugeot 2008 Griffe 1.6 THP 2023: ficha técnica"
 description: "Ficha técnica do Peugeot 2008 Griffe 1.6 THP automático 2023: motor turbo de 165 cv, câmbio EAT8 de 8 marchas, tração dianteira e equipamentos de topo. O SUV compacto premium da Peugeot no Brasil."
 marca: "Peugeot"
 modelo: "2008"

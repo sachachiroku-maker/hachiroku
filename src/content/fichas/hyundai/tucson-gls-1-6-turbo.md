@@ -1,5 +1,6 @@
-﻿---
+---
 title: "Hyundai Tucson GLS 1.6 T-GDi 2023: ficha técnica completa"
+seoTitle: "Hyundai Tucson GLS 1.6 T-GDi 2023: ficha técnica"
 description: "Ficha técnica completa do Hyundai Tucson GLS 1.6 T-GDi 2023: motor turbo de 180 cv, câmbio DCT de 7 marchas, consumo de 12,4 km/l na estrada com gasolina e todos os dados verificados. Pontos de atenção para compra e manutenção."
 marca: "Hyundai"
 modelo: "Tucson"

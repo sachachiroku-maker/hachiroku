@@ -1,5 +1,6 @@
 ---
 title: "Nissan Frontier Superaquecendo: causas no motor YD25 diesel"
+seoTitle: "Nissan Frontier Superaquecendo: causas no motor"
 description: "Nissan Frontier D40/D23 com temperatura subindo? O motor YD25 diesel tem pontos críticos: termostato, junta de cabeçote e sistema EGR. Veja como diagnosticar antes do reparo caro."
 entidade:
   marca: "Nissan"

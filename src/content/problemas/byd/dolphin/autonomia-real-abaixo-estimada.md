@@ -1,5 +1,6 @@
-﻿---
+---
 title: "Autonomia real BYD Dolphin Mini abaixo do WLTP com AC"
+seoTitle: "Autonomia real BYD Dolphin Mini abaixo do WLTP"
 description: "O BYD Dolphin Mini (38,88 kWh) entrega 240 a 250 km reais com ar-condicionado ligado, 30 a 40 km abaixo do WLTP. Entenda as causas e como maximizar o range."
 entidade:
   marca: "BYD"

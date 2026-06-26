@@ -1,5 +1,6 @@
 ---
 title: "Ficha técnica do Jeep Renegade 2024 Sport 1.3 T270 (turbo)"
+seoTitle: "Ficha técnica do Jeep Renegade 2024 Sport 1.3"
 description: "Ficha técnica completa do Jeep Renegade 2024 Sport 1.3 T270: motor 1.3 turbo flex de 4 cilindros e 180 cv, câmbio automático de 6 marchas, 320 litros de porta-malas e torque de 27,5 kgfm. Dados, consumo e o que esperar da versão de entrada turbo."
 marca: "Jeep"
 modelo: "Renegade"

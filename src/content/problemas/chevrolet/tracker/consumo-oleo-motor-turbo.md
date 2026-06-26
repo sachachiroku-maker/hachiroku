@@ -1,5 +1,6 @@
-﻿---
+---
 title: "Chevrolet Tracker: Consumo de óleo motor turbo acima do normal"
+seoTitle: "Chevrolet Tracker"
 description: "Tudo sobre Consumo de óleo motor turbo acima do normal no Chevrolet Tracker --- diagnostico, causas, custos e como resolver. Guia pratico com informacoes verificadas."
 entidade:
   marca: "Chevrolet"

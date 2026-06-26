@@ -1,5 +1,6 @@
-﻿---
+---
 title: "HB20S Platinum 1.0 Turbo: ficha técnica 2024 | Hachiroku"
+seoTitle: "HB20S Platinum 1.0 Turbo: ficha técnica 2024"
 description: "Ficha técnica completa do Hyundai HB20S Platinum 1.0 Turbo 2024: motor Kappa 1.0 turbo de 120 cv, câmbio automático IVT (CVT), porta-malas de 475 litros, consumo de 12,5 km/l na cidade e todos os dados verificados. Para quem faz sentido e o que conferir antes de comprar."
 marca: "Hyundai"
 modelo: "HB20S"

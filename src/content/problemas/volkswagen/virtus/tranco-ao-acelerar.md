@@ -1,5 +1,6 @@
-﻿---
+---
 title: "Volkswagen Virtus: Tranco ao acelerar — câmbio automático 6AT / DSG"
+seoTitle: "Volkswagen Virtus"
 description: "Tudo sobre Tranco ao acelerar — câmbio automático 6AT / DSG no Volkswagen Virtus --- diagnostico, causas, custos e como resolver. Guia pratico com informacoes verificadas."
 entidade:
   marca: "Volkswagen"

@@ -1,5 +1,6 @@
-﻿---
+---
 title: "Câmbio do Virtus com trancos: o que causa e como resolver o"
+seoTitle: "Câmbio do Virtus com trancos: o que causa e como"
 description: "O câmbio automático Aisin AQ250 de 6 marchas do Volkswagen Virtus pode apresentar trancos e solavancos entre a primeira e a segunda marcha, especialmente no trânsito urbano. Saiba por que isso acontece, qual a diferença em relação ao câmbio do Polo e como resolver definitivamente."
 entidade:
   marca: "Volkswagen"

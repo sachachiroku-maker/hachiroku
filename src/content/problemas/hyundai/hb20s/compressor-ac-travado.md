@@ -1,5 +1,6 @@
-﻿---
+---
 title: "Hyundai HB20S: Compressor de A/C travado — sintomas e custo"
+seoTitle: "Hyundai HB20S"
 description: "Tudo sobre Compressor de A/C travado — sintomas e custo no Hyundai HB20S --- diagnostico, causas, custos e como resolver. Guia pratico com informacoes verificadas."
 entidade:
   marca: "Hyundai"

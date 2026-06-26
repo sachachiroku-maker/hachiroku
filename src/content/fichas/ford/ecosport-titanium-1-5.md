@@ -1,5 +1,6 @@
 ---
 title: "Ficha técnica do Ford EcoSport Titanium 1.5 Dragon 2022"
+seoTitle: "Ficha técnica do Ford EcoSport Titanium 1.5"
 description: "Ficha técnica do Ford EcoSport Titanium 1.5 Dragon automático 2022: motor 1.5 de 3 cilindros com 123 cv, câmbio automático de 6 marchas e porta-malas de 341 litros. Última geração do EcoSport antes da saída do mercado brasileiro."
 marca: "Ford"
 modelo: "EcoSport"

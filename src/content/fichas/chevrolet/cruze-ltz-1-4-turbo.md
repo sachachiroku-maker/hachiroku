@@ -1,5 +1,6 @@
 ---
 title: "Chevrolet Cruze LTZ 1.4 Turbo 2022: ficha técnica completa"
+seoTitle: "Chevrolet Cruze LTZ 1.4 Turbo 2022: ficha"
 description: "Ficha técnica completa do Chevrolet Cruze LTZ 1.4 Turbo Sport6 2022: motor LUV de 153 cv, câmbio automático de 6 marchas e dados verificados sobre consumo, dimensões e pontos de atenção do sedã médio da Chevrolet no Brasil."
 marca: "Chevrolet"
 modelo: "Cruze"

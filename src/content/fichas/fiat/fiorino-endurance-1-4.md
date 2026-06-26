@@ -1,5 +1,6 @@
 ---
 title: "Fiat Fiorino Endurance 1.4 2023: ficha técnica completa"
+seoTitle: "Fiat Fiorino Endurance 1.4 2023: ficha técnica"
 description: "Ficha técnica completa do Fiat Fiorino Endurance 1.4 Flex 2023: motor 1.4 Fire de 85 cv, câmbio manual de 5 marchas, carga útil de 650 kg e custo de manutenção entre os mais baixos do segmento de utilitários. Dados verificados para quem usa no trabalho."
 marca: "Fiat"
 modelo: "Fiorino"

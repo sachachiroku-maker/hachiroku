@@ -1,5 +1,6 @@
 ---
 title: "Custo por km: Elétrico vs Gasolina no Brasil 2026"
+seoTitle: "Custo por km"
 description: "Comparação detalhada do custo por quilômetro entre carros elétricos e a gasolina no Brasil — recarga doméstica, posto público e gasolina comum."
 kicker: "ANÁLISE DE CUSTO"
 entidade:

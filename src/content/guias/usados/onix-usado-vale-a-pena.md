@@ -1,5 +1,6 @@
-﻿---
+---
 title: "Onix usado vale a pena? O que verificar antes de comprar"
+seoTitle: "Onix usado vale a pena? O que verificar antes de"
 description: "O Chevrolet Onix usado é um dos melhores negócios entre os populares, mas o que você precisa inspecionar muda totalmente entre a 1ª e a 2ª geração. Veja o checklist completo, os defeitos crônicos de cada fase e como não cair em furada."
 marca: "Chevrolet"
 modelo: "Onix"

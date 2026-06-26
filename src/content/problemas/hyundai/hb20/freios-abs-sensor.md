@@ -1,5 +1,6 @@
-﻿---
+---
 title: "ABS do HB20: sensor que dispara a luz e como resolver"
+seoTitle: "ABS do HB20: sensor que dispara a luz e como"
 description: "Luz de ABS acesa no Hyundai HB20 quase sempre aponta para sensor sujo ou danificado, ou para anel fônico desgastado. Veja os sintomas, como o mecânico diagnostica, o que o scanner mostra e quando é urgente."
 entidade:
   marca: "Hyundai"

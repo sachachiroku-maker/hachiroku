@@ -1,5 +1,6 @@
 ---
 title: "Como trocar filtro de ar: passo a passo sem mecânico"
+seoTitle: "Como trocar filtro de ar: passo a passo sem"
 titleSuffix: "| Hachiroku"
 kicker: "HOW-TO · MÃO NA MASSA"
 description: "Trocar o filtro de ar do motor é simples, custa até R$ 90 e leva 30 minutos. Siga o passo a passo completo e faça você mesmo sem ir à oficina."

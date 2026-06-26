@@ -1,5 +1,6 @@
-﻿---
+---
 title: "Volkswagen Saveiro: Rolamento traseiro barulhento — diagnóstico e troca"
+seoTitle: "Volkswagen Saveiro"
 description: "Tudo sobre Rolamento traseiro barulhento — diagnóstico e troca no Volkswagen Saveiro --- diagnostico, causas, custos e como resolver. Guia pratico com informacoes verificadas."
 entidade:
   marca: "Volkswagen"

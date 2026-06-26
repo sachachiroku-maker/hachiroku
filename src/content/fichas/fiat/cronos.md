@@ -1,5 +1,6 @@
 ---
 title: "Ficha técnica do Fiat Cronos 2024 Drive 1.3 (Firefly)"
+seoTitle: "Ficha técnica do Fiat Cronos 2024 Drive 1.3"
 description: "Ficha técnica completa do Fiat Cronos 2024 Drive 1.3: motor Firefly 1.3 de 4 cilindros com 108 cv no etanol, câmbio manual de 5 marchas ou CVT, 525 litros de porta-malas e tanque de 48 litros. Dados, consumo, motorizações 1.0, 1.3 e o antigo 1.8 E.torQ, e o que esperar do sedã compacto da Fiat."
 marca: "Fiat"
 modelo: "Cronos"

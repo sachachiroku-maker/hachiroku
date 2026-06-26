@@ -1,5 +1,6 @@
-﻿---
+---
 title: "Toyota Yaris vs Volkswagen Polo TSI: qual comprar em 2024?"
+seoTitle: "Toyota Yaris vs Volkswagen Polo TSI: qual"
 description: "Yaris 1.5 aspirado ou Polo TSI turbo? Comparamos motor, consumo, confiabilidade e custo total para você decidir com segurança."
 marca: "Comparativo"
 modelo: "Yaris vs Polo TSI"

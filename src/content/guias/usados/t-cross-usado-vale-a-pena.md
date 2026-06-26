@@ -1,5 +1,6 @@
-﻿---
+---
 title: "T-Cross usado vale a pena? O checklist completo de inspeção"
+seoTitle: "T-Cross usado vale a pena? O checklist completo"
 description: "O Volkswagen T-Cross usado é uma boa compra? Saiba quais versões evitar, os defeitos crônicos do motor 1.0 TSI e do câmbio automático, e o checklist de inspeção antes de assinar."
 marca: "Volkswagen"
 modelo: "T-Cross"

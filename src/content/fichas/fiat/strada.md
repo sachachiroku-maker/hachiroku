@@ -1,5 +1,6 @@
 ---
 title: "Ficha técnica da Fiat Strada 2023 Volcano 1.3 cabine dupla"
+seoTitle: "Ficha técnica da Fiat Strada 2023 Volcano 1.3"
 description: "Ficha técnica completa da Fiat Strada 2023 Volcano 1.3 cabine dupla: motor 1.3 Firefly flex de 4 cilindros e 98 cv na gasolina, câmbio manual de 5 marchas, caçamba de 844 litros e até 14,3 km/l na estrada. Dados, consumo e o que esperar da picape topo de linha manual."
 marca: "Fiat"
 modelo: "Strada"

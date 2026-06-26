@@ -1,5 +1,6 @@
-﻿---
+---
 title: "Fiat Uno: Consumo alto de combustível — causas e diagnóstico"
+seoTitle: "Fiat Uno: Consumo alto de combustível"
 description: "Tudo sobre Consumo alto de combustível — causas e diagnóstico no Fiat Uno --- diagnostico, causas, custos e como resolver. Guia pratico com informacoes verificadas."
 entidade:
   marca: "Fiat"

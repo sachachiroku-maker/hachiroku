@@ -1,5 +1,6 @@
-﻿---
+---
 title: "Honda Fit L15B consome mais de 1L de óleo por 1.000 km"
+seoTitle: "Honda Fit L15B consome mais de 1L de óleo por"
 description: "Motor L15B do Fit 2015 em diante pode consumir acima de 1L/1.000 km por falha nos anéis de pistão. Diagnóstico, causas e o que a Honda reconheceu. (156 chars)"
 entidade:
   marca: "Honda"

@@ -1,5 +1,6 @@
-﻿---
+---
 title: "Ar-condicionado fraco no Corolla Cross GR Sport 2.0"
+seoTitle: "Ar-condicionado fraco no Corolla Cross GR Sport"
 description: "Ventilação fraca e má distribuição de ar nos bancos traseiros do Corolla Cross GR Sport 2.0: duto traseiro com falha de fábrica. Sintomas, diagnóstico e solução."
 entidade:
   marca: "Toyota"

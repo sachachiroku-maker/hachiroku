@@ -1,5 +1,6 @@
-﻿---
+---
 title: "Fiat Fiorino: Superaquecimento do Motor Fire 1.4 — Causas"
+seoTitle: "Fiat Fiorino"
 description: "Motor Fire 1.4 do Fiorino superaquecendo? Termostato, bomba d'água, radiador entupido: descubra a causa certa e evite destruir a junta do cabeçote."
 entidade:
   marca: "Fiat"

@@ -1,5 +1,6 @@
-﻿---
+---
 title: "Hyundai Creta vs VW T-Cross: qual SUV compacto vale mais o"
+seoTitle: "Hyundai Creta vs VW T-Cross: qual SUV compacto"
 description: "Comparamos Hyundai Creta e VW T-Cross em motor, consumo, espaço, conforto, manutenção e custo. Veja qual SUV faz mais sentido para o seu perfil."
 marca: "Comparativo"
 modelo: "Creta vs T-Cross"

@@ -1,5 +1,6 @@
 ---
 title: "Óleo Sintético Vale a Pena? A resposta definitiva para carros populares"
+seoTitle: "Óleo Sintético Vale a Pena? A resposta"
 description: "Óleo sintético custa 3x mais que o mineral — mas vale a pena para Onix, HB20, Argo e Polo? Entenda a diferença real, quando o sintético é obrigatório e quando o semissintético resolve."
 kicker: "MANUTENÇÃO · DECISÃO TÉCNICA"
 tempo: "Leitura: 8 minutos"

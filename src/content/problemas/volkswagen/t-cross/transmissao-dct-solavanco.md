@@ -1,5 +1,6 @@
-﻿---
+---
 title: "T-Cross solavanco 1ª para 2ª: fluido AQ250 | Hachiroku"
+seoTitle: "T-Cross solavanco 1ª para 2ª: fluido AQ250"
 description: "Volkswagen T-Cross 1.0 TSI com solavanco na troca de 1ª para 2ª em marcha lenta? Fluido ATF degradado no câmbio Aisin AQ250 é a causa mais comum. Veja sintomas, diagnóstico e solução."
 entidade:
   marca: "Volkswagen"

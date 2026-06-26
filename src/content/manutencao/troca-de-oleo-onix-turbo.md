@@ -1,5 +1,6 @@
-﻿---
+---
 title: "Troca de óleo do Onix turbo: a especificação certa que"
+seoTitle: "Troca de óleo do Onix turbo: a especificação"
 description: "No Onix turbo de 2ª geração a correia dentada é banhada no óleo do motor. Veja o óleo certo (5W30 Dexos 1 Gen 3), capacidade, intervalo e o passo a passo seguro."
 kicker: "HOW-TO · MÃO NA MASSA"
 veiculo: "Chevrolet Onix turbo (2ª geração)"

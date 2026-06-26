@@ -1,5 +1,6 @@
-﻿---
+---
 title: "Hyundai Tucson 2022+: Ar-Condicionado Fraco e Temperatura"
+seoTitle: "Hyundai Tucson 2022+"
 description: "Tucson 1.6 T-GDI e 2.5 3ª geração com A/C fraco ou temperatura errada no automático. Veja causas, diagnóstico e solução passo a passo."
 entidade:
   marca: "Hyundai"

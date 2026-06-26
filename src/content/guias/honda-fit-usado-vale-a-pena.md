@@ -1,5 +1,6 @@
 ---
 title: "Honda Fit Usado Vale a Pena? Guia Completo da Geração 3"
+seoTitle: "Honda Fit Usado Vale a Pena? Guia Completo da"
 description: "Honda Fit usado vale a pena em 2026? Motor L15B 1.5 flex CVT, consumo de óleo, embreagem e custo real. Tudo que você precisa saber antes de comprar."
 kicker: "GUIA DE COMPRA · DECISÃO"
 marca: "Honda"

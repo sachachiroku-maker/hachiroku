@@ -1,5 +1,6 @@
 ---
 title: "Bomba de Combustível: como funciona, sinais de falha e quando trocar"
+seoTitle: "Bomba de Combustível: como funciona, sinais de"
 description: "Como funciona a bomba de combustível elétrica, quais são os sinais de falha, quanto custa substituir e como evitar dano prematuro. Guia técnico completo."
 kicker: "TÉCNICO · APROFUNDADO"
 categoria: combustivel

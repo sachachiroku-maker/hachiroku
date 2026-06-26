@@ -1,5 +1,6 @@
-﻿---
+---
 title: "Volkswagen Fox: Embreagem patinando — desgaste e diagnóstico"
+seoTitle: "Volkswagen Fox"
 description: "Tudo sobre Embreagem patinando — desgaste e diagnóstico no Volkswagen Fox --- diagnostico, causas, custos e como resolver. Guia pratico com informacoes verificadas."
 entidade:
   marca: "Volkswagen"

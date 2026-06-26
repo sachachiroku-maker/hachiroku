@@ -1,5 +1,6 @@
-﻿---
+---
 title: "VW Gol usado vale a pena? O que verificar antes de comprar"
+seoTitle: "VW Gol usado vale a pena? O que verificar antes"
 description: "O VW Gol usado é barato, simples e tem peça em qualquer esquina, mas cada geração tem suas manias. Veja o que inspecionar por geração e motor, dos vícios do EA111 (tucho, bobina, corpo de borboleta) à infiltração no porta-malas, com checklist completo."
 marca: "Volkswagen"
 modelo: "Gol"

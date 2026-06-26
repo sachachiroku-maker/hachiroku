@@ -1,5 +1,6 @@
-﻿---
+---
 title: "BYD Song Plus: DiLink 4 Trava e Reinicia? Diagnóstico"
+seoTitle: "BYD Song Plus"
 description: "Tela do DiLink 4.0 do BYD Song Plus reinicia sozinha, perde configurações ou trava na rotação. Veja causas, soluções e quando ir à autorizada."
 entidade:
   marca: "BYD"

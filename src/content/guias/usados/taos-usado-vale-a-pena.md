@@ -1,5 +1,6 @@
-﻿---
+---
 title: "Volkswagen Taos usado: vale a pena comprar em 2026?"
+seoTitle: "Volkswagen Taos usado: vale a pena comprar em"
 description: "Guia técnico completo do VW Taos usado: pontos de inspeção, defeitos conhecidos do DSG e do motor 1.4 TSI, e o que verificar antes de comprar."
 marca: "Volkswagen"
 modelo: "Taos"

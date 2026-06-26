@@ -1,5 +1,6 @@
-﻿---
+---
 title: "Barulho na suspensão dianteira do Jeep Renegade 1.3 T270"
+seoTitle: "Barulho na suspensão dianteira do Jeep Renegade"
 description: "Rangido ou estralo na suspensão dianteira do Jeep Renegade é problema crônico. Entenda as causas, como diagnosticar bieleta e coxim, e o que custa resolver."
 entidade:
   marca: "Jeep"

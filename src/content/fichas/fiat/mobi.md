@@ -1,5 +1,6 @@
 ---
 title: "Ficha técnica do Fiat Mobi 2023 Like 1.0 Fire (aspirado)"
+seoTitle: "Ficha técnica do Fiat Mobi 2023 Like 1.0 Fire"
 description: "Ficha técnica do Fiat Mobi 2023 Like 1.0 Fire Flex: motor 1.0 aspirado de 4 cilindros com 71 cv na gasolina e 74 cv no etanol, câmbio manual de 5 marchas, 215 litros de porta-malas e 3,57 metros de comprimento. Dados, consumo e o que esperar do hatch de entrada."
 marca: "Fiat"
 modelo: "Mobi"

@@ -1,5 +1,6 @@
 ---
 title: "Ficha Técnica Honda HR-V EX 1.5 Turbo: especificações completas"
+seoTitle: "Ficha Técnica Honda HR-V EX 1.5 Turbo:"
 description: "Ficha técnica completa do Honda HR-V EX 1.5 Turbo (3ª geração): motor L15C, 126 cv, câmbio CVT, consumo, dimensões e diferenciais. Dados do catálogo Honda Brasil 2024."
 marca: "Honda"
 modelo: "HR-V"

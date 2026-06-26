@@ -1,5 +1,6 @@
 ---
 title: "Toyota Hilux SRX 2.8 Diesel 4x4 2023: ficha técnica completa"
+seoTitle: "Toyota Hilux SRX 2.8 Diesel 4x4 2023: ficha"
 description: "Ficha técnica da Toyota Hilux SRX 2.8 TDI 4x4 automático 2023: motor GD-6 de 204 cv, câmbio automático de 6 marchas e capacidade de reboque de 3.500 kg. A picape diesel mais vendida do Brasil em dados técnicos detalhados."
 marca: "Toyota"
 modelo: "Hilux"

@@ -1,5 +1,6 @@
 ---
 title: "Ficha técnica do Peugeot 3008 Griffe 1.6 THP 2022"
+seoTitle: "Ficha técnica do Peugeot 3008 Griffe 1.6 THP"
 description: "Peugeot 3008 Griffe 2022: motor 1.6 THP 173 cv, câmbio EAT8 e suspensão multi-link que eleva o conforto do SUV médio premium da Stellantis."
 marca: "Peugeot"
 modelo: "3008"

@@ -1,5 +1,6 @@
-﻿---
+---
 title: "Kwid com Bateria Fraca que Descarrega: Diagnóstico Completo"
+seoTitle: "Kwid com Bateria Fraca que Descarrega"
 description: "Bateria do Kwid descarrega do nada? Entenda a causa do parasita elétrico, como medir e quando trocar. Guia técnico com multímetro passo a passo."
 entidade:
   marca: "Renault"

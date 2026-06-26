@@ -1,5 +1,6 @@
-﻿---
+---
 title: "Correia dentada: quando trocar e sinais de alerta"
+seoTitle: "Correia dentada: quando trocar e sinais de"
 description: "Saiba quando trocar a correia dentada, os sinais de desgaste e por que ignorar o intervalo pode destruir o motor. Guia completo com custos e FAQ."
 kicker: "MANUTENÇÃO CRÍTICA"
 veiculo: "universal"

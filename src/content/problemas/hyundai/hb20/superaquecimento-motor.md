@@ -1,5 +1,6 @@
-﻿---
+---
 title: "HB20 Superaquecendo: Causas, Sintomas e Como Resolver o"
+seoTitle: "HB20 Superaquecendo"
 description: "HB20 superaquecendo? Veja as causas mais comuns no motor 1.0 e 1.0T Turbo: mangueiras, termostato, bomba d'água e radiador entupido. Diagnóstico completo."
 entidade:
   marca: "Hyundai"

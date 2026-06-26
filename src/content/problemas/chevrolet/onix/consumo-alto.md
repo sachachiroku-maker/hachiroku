@@ -1,5 +1,6 @@
-﻿---
+---
 title: "Onix consumindo muito: 5 causas reais do consumo alto de"
+seoTitle: "Onix consumindo muito: 5 causas reais do consumo"
 description: "Chevrolet Onix com consumo alto de combustível? Na maioria dos casos o vilão são sensores, velas, filtros ou combustível adulterado, não o motor. Veja as 5 causas reais, o consumo de fábrica do Onix turbo e aspirado e como diagnosticar na ordem certa."
 entidade:
   marca: "Chevrolet"

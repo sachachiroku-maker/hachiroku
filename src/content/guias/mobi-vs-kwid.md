@@ -1,5 +1,6 @@
 ---
 title: "Fiat Mobi vs Renault Kwid: Qual é o Melhor Carro de Entrada"
+seoTitle: "Fiat Mobi vs Renault Kwid"
 description: "Fiat Mobi vs Renault Kwid: comparamos motor, consumo, manutenção, segurança e preço. Descubra qual custa menos para manter em 2026."
 kicker: "GUIA DE COMPRA · DECISÃO"
 marca: "Fiat / Renault"

@@ -1,5 +1,6 @@
-﻿---
+---
 title: "Consertar ou trocar o carro: como decidir sem errar"
+seoTitle: "Consertar ou trocar o carro: como decidir sem"
 description: "A regra dos 50% é o ponto de partida, mas a decisão entre consertar e trocar envolve mais do que um cálculo simples. Veja o modelo mental completo para não tomar a decisão errada."
 kicker: "GUIA DE DECISÃO · CUSTO-BENEFÍCIO"
 veredito: "A regra prática mais usada é: se o conserto custa mais de 50% do valor atual do carro no mercado, o caminho racional é trocar. Mas a matemática não é o único fator. Garantia, multas por emissões, crédito disponível e o custo total de um carro novo ou seminovo entram na conta. Este guia mostra como calcular e como pensar antes de decidir."

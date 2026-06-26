@@ -1,5 +1,6 @@
-﻿---
+---
 title: "Fiat Uno: Amortecedor dianteiro batendo — diagnóstico e substituição"
+seoTitle: "Fiat Uno: Amortecedor dianteiro batendo"
 description: "Tudo sobre Amortecedor dianteiro batendo — diagnóstico e substituição no Fiat Uno --- diagnostico, causas, custos e como resolver. Guia pratico com informacoes verificadas."
 entidade:
   marca: "Fiat"

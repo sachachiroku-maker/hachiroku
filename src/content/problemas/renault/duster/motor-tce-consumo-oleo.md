@@ -1,5 +1,6 @@
-﻿---
+---
 title: "Duster TCe 1.3 turbo consome muito óleo? Entenda o problema"
+seoTitle: "Duster TCe 1.3 turbo consome muito óleo? Entenda"
 description: "O motor TCe 1.3 do Duster 2021 em diante tem consumo elevado de óleo documentado. Saiba os sintomas, causas, limites de garantia e o que fazer."
 entidade:
   marca: "Renault"

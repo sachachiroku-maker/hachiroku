@@ -1,5 +1,6 @@
-﻿---
+---
 title: "BYD Song Plus DM-i: autonomia real e pontos de atenção"
+seoTitle: "BYD Song Plus DM-i: autonomia real e pontos de"
 description: "Diagnóstico honesto do SUV híbrido plug-in da BYD: a autonomia elétrica de catálogo contra a de rua, a bateria Blade ampliada, consumo real em modo híbrido, tempo de recarga, garantia e as reclamações reais de donos no Brasil."
 entidade:
   marca: "BYD"

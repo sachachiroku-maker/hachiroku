@@ -1,5 +1,6 @@
-﻿---
+---
 title: "Tela central do Hyundai Tucson NX4 com falha e travamento"
+seoTitle: "Tela central do Hyundai Tucson NX4 com falha e"
 description: "A tela central do Hyundai Tucson NX4 pode travar, reiniciar sozinha ou perder resposta ao toque. Saiba as causas, como fazer o reset correto, atualizar o firmware e quando exigir a substituição da unidade. Diagnóstico técnico verificado."
 entidade:
   marca: "Hyundai"

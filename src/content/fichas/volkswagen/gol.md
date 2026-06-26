@@ -1,5 +1,6 @@
 ---
 title: "Ficha técnica do Volkswagen Gol 1.0 2022 (aspirado)"
+seoTitle: "Ficha técnica do Volkswagen Gol 1.0 2022"
 description: "Ficha técnica completa do Volkswagen Gol 1.0 2022: motor 1.0 aspirado EA211 de 3 cilindros, 84 cv no etanol, câmbio manual de 5 marchas, 285 litros de porta-malas e até 14,4 km/l na estrada. Dados, consumo e o que esperar do Gol 1.0."
 marca: "Volkswagen"
 modelo: "Gol"

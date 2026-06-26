@@ -1,5 +1,6 @@
-﻿---
+---
 title: "Ficha Técnica Citroën C3 Feel 1.0 Flex: especificações completas"
+seoTitle: "Ficha Técnica Citroën C3 Feel 1.0 Flex:"
 description: "Ficha técnica completa do Citroën C3 Feel 1.0 PureTech Flex: motor 75 cv, câmbio manual 5 marchas, consumo, dimensões e equipamentos. Dados oficiais Citroën Brasil 2024."
 marca: "Citroën"
 modelo: "C3"

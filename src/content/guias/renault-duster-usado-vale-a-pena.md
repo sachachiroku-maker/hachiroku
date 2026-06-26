@@ -1,5 +1,6 @@
 ---
 title: "Renault Duster Usado Vale a Pena? Guia Completo 2026"
+seoTitle: "Renault Duster Usado Vale a Pena? Guia Completo"
 description: "Renault Duster usado vale a pena em 2026? Comparamos gerações, motor TCe 1.3 turbo e 1.6 NA, defeitos crônicos e custo de manutenção antes de você comprar."
 kicker: "GUIA DE COMPRA · DECISÃO"
 marca: "Renault"

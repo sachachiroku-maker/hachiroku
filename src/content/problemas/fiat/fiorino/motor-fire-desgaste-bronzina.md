@@ -1,5 +1,6 @@
-﻿---
+---
 title: "Motor 1.4 Fire da Fiorino com desgaste de bronzina"
+seoTitle: "Motor 1.4 Fire da Fiorino com desgaste de"
 description: "O motor 1.4 Fire da Fiat Fiorino pode apresentar desgaste de bronzina quando o óleo não é trocado no intervalo correto ou quando o nível cai abaixo do mínimo. Entenda a causa técnica, os sintomas, o custo do reparo e como prevenir o problema."
 entidade:
   marca: "Fiat"

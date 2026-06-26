@@ -1,5 +1,6 @@
-﻿---
+---
 title: "Ficha Técnica RAM Rampage Rebel 1.3 T270: especificações completas"
+seoTitle: "Ficha Técnica RAM Rampage Rebel 1.3 T270:"
 description: "Ficha técnica completa da RAM Rampage Rebel 1.3 T270: motor Hurricane 185 cv, câmbio automático 9 marchas, capacidade de carga e dimensões. Dados oficiais RAM Brasil 2024."
 marca: "RAM"
 modelo: "Rampage"

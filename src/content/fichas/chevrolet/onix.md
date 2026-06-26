@@ -1,5 +1,6 @@
 ---
 title: "Ficha técnica do Chevrolet Onix 2021 LT 1.0 (aspirado)"
+seoTitle: "Ficha técnica do Chevrolet Onix 2021 LT 1.0"
 description: "Ficha técnica completa do Chevrolet Onix 2021 LT 1.0: motor 1.0 aspirado de 3 cilindros e 78 cv, câmbio manual de 6 marchas, 275 litros de porta-malas e até 17,7 km/l na estrada. Dados, consumo e o que esperar da versão aspirada."
 marca: "Chevrolet"
 modelo: "Onix"

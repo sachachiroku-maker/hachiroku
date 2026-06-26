@@ -1,5 +1,6 @@
 ---
 title: "Autonomia Real de Carro Elétrico no Brasil: o que esperar de verdade"
+seoTitle: "Autonomia Real de Carro Elétrico no Brasil: o"
 description: "A autonomia real dos carros elétricos no Brasil é menor que o WLTP? Quanto cai com ar-condicionado, velocidade e calor? Comparativo dos principais modelos."
 entidade:
   marca: "Geral"

@@ -1,5 +1,6 @@
 ---
 title: "Ficha técnica do VW Nivus 2023 Comfortline 1.0 TSI (200 TSI)"
+seoTitle: "Ficha técnica do VW Nivus 2023 Comfortline 1.0"
 description: "Ficha técnica completa do VW Nivus 2023 Comfortline 1.0 TSI: motor 1.0 turbo de 3 cilindros com até 116 cv (gasolina), câmbio automático de 6 marchas, 415 litros de porta-malas e injeção direta. Dados, consumo e o que esperar do SUV cupê compacto."
 marca: "Volkswagen"
 modelo: "Nivus"

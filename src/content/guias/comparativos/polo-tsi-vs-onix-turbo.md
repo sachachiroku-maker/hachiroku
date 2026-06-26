@@ -1,5 +1,6 @@
 ---
 title: "VW Polo TSI vs Chevrolet Onix Turbo: qual hatch compacto turbinado vale mais?"
+seoTitle: "VW Polo TSI vs Chevrolet Onix Turbo: qual hatch"
 description: "Polo TSI 1.0 vs Onix Turbo 1.2: comparativo de desempenho, consumo, câmbio e custo total. Qual hatch compacto turbinado comprar no Brasil em 2025?"
 marca: "Volkswagen / Chevrolet"
 modelo: "Polo TSI / Onix Turbo"

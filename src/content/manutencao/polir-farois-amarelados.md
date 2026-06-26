@@ -1,5 +1,6 @@
-﻿---
+---
 title: "Como polir faróis amarelados: recuperação completa da lente"
+seoTitle: "Como polir faróis amarelados: recuperação"
 description: "Guia passo a passo para polir faróis amarelados em casa: disco orbital, kit de restauração ou pasta de dente. Recupere até 70% de iluminação perdida."
 kicker: "MÃO NA MASSA"
 veiculo: "universal"

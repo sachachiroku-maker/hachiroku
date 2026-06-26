@@ -1,5 +1,6 @@
-﻿---
+---
 title: "Revisão de freios completa: o que é verificado, quando"
+seoTitle: "Revisão de freios completa: o que é verificado,"
 description: "Revisão de freios: saiba o que é verificado (pastilhas, discos, fluido, pinças), quando fazer (20.000-30.000 km) e o custo médio no Brasil."
 kicker: "SEGURANÇA · MANUTENÇÃO PREVENTIVA"
 veiculo: "Carros nacionais populares — Onix, HB20, Polo, Argo"

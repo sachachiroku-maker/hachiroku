@@ -1,5 +1,6 @@
 ---
 title: "Ficha técnica do Renault Sandero (1.0 SCe e 1.6 SCe)"
+seoTitle: "Ficha técnica do Renault Sandero (1.0 SCe e 1.6"
 description: "Ficha técnica completa do Renault Sandero hatch com os motores 1.0 SCe de 3 cilindros (até 82 cv) e 1.6 SCe 16V (até 118 cv): potência, torque, consumo, dimensões, câmbio e o que esperar de cada versão flex."
 marca: "Renault"
 modelo: "Sandero"

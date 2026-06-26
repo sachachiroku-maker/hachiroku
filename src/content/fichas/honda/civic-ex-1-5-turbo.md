@@ -1,5 +1,6 @@
 ---
 title: "Ficha Técnica Honda Civic EX 1.5 Turbo: especificações completas"
+seoTitle: "Ficha Técnica Honda Civic EX 1.5 Turbo:"
 description: "Ficha técnica completa do Honda Civic EX 1.5 Turbo: motor L15B7, potência 126 cv, câmbio CVT, consumo real, dimensões e equipamentos. Dados verificados do catálogo Honda Brasil."
 marca: "Honda"
 modelo: "Civic"

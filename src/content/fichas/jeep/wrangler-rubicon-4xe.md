@@ -1,5 +1,6 @@
 ---
 title: "Ficha técnica do Jeep Wrangler Rubicon 4xe 2022/2023"
+seoTitle: "Ficha técnica do Jeep Wrangler Rubicon 4xe"
 description: "Wrangler Rubicon 4xe: motor 2.0 turbo + 2 elétricos = 381 cv combinados, 62 kgfm, câmbio auto 8M e 4WD com reduzida."
 marca: "Jeep"
 modelo: "Wrangler"

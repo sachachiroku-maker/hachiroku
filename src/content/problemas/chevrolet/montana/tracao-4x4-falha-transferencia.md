@@ -1,5 +1,6 @@
-﻿---
+---
 title: "Tração 4x4 da Montana Premier com falha no engate"
+seoTitle: "Tração 4x4 da Montana Premier com falha no"
 description: "A caixa de transferência 4x4 da Chevrolet Montana Premier apresenta falha no engate do modo 4WD e 4LO quando usada de forma incorreta ou com desgaste do fluido. Entenda os modos corretos, os sintomas de falha e o custo de reparo."
 entidade:
   marca: "Chevrolet"

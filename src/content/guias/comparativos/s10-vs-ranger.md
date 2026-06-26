@@ -1,5 +1,6 @@
 ---
 title: "S10 vs Ranger 2023: Qual Picape de Trabalho Pesado Vale"
+seoTitle: "S10 vs Ranger 2023"
 description: "Chevrolet S10 e Ford Ranger frente a frente. Motor, tração, tecnologia, manutenção e custo-benefício para quem trabalha no campo e na cidade."
 marca: "Comparativo"
 modelo: "S10 vs Ranger"

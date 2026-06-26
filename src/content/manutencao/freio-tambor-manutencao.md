@@ -1,5 +1,6 @@
-﻿---
+---
 title: "Freio Tambor Manutenção: tudo que o motorista precisa saber"
+seoTitle: "Freio Tambor Manutenção: tudo que o motorista"
 description: "Freio tambor manutenção: entenda quando lixar, quando trocar e os sinais de desgaste. Guia completo para Onix, HB20 e Argo com custo de revisão."
 kicker: "HOW-TO · MÃO NA MASSA"
 veiculo: "Carros nacionais populares — Onix, HB20, Argo, Gol"

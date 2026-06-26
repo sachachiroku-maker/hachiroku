@@ -1,5 +1,6 @@
 ---
 title: "Peugeot 208 Allure 1.6 2023: ficha técnica completa"
+seoTitle: "Peugeot 208 Allure 1.6 2023: ficha técnica"
 description: "Ficha técnica do Peugeot 208 Allure 1.6 automático 2023: motor 1.6 VTi 16V de 120 cv, câmbio automático de 6 marchas, consumo e dimensões verificados. O hatch francês de entrada no Brasil."
 marca: "Peugeot"
 modelo: "208"

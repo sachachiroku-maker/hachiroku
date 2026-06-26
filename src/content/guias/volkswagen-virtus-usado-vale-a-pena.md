@@ -1,5 +1,6 @@
 ---
 title: "Volkswagen Virtus Usado Vale a Pena? Guia Completo 2026"
+seoTitle: "Volkswagen Virtus Usado Vale a Pena? Guia"
 description: "Volkswagen Virtus usado vale a pena? Motor TSI 1.0 com média de 14 km/l, mas consome óleo. Veja problemas reais, custo de manutenção e comparação com Cronos e Onix Plus."
 kicker: "GUIA DE COMPRA · DECISÃO"
 marca: "Volkswagen"

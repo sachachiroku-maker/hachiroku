@@ -1,5 +1,6 @@
-﻿---
+---
 title: "Check Engine Acendeu: o que fazer e as 10 causas mais comuns"
+seoTitle: "Check Engine Acendeu: o que fazer e as 10 causas"
 description: "Check engine acendeu? Descubra as 10 causas mais comuns em Onix, HB20, Polo, Argo e Tracker, custo médio de cada reparo e quando correr ao mecânico."
 kicker: "DIAGNÓSTICO · ELETRICIDADE"
 veiculo: "Carros populares nacionais — Onix, HB20, Polo, Argo, Tracker"

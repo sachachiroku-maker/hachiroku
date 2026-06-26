@@ -1,5 +1,6 @@
-﻿---
+---
 title: "Renault Oroch Intense 1.6 2022: ficha técnica completa"
+seoTitle: "Renault Oroch Intense 1.6 2022: ficha técnica"
 description: "Ficha técnica completa do Renault Oroch Intense 1.6 SCe 2022: motor 1.6 flex de 120 cv, câmbio manual de 5 marchas, carga útil de 650 kg e todos os dados verificados. Pontos de atenção para compra e manutenção da picape compacta."
 marca: "Renault"
 modelo: "Oroch"

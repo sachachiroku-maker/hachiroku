@@ -1,5 +1,6 @@
-﻿---
+---
 title: "Hyundai Creta 2ª Geração: Ar-Condicionado Fraco ou Quente —"
+seoTitle: "Hyundai Creta 2ª Geração"
 description: "Ar-condicionado fraco no Hyundai Creta 2ª geração (1.0 T-GDI e 2.0): causas, diagnóstico passo a passo e soluções confirmadas. (153 chars)"
 entidade:
   marca: "Hyundai"

@@ -1,5 +1,6 @@
-﻿---
+---
 title: "Ar-condicionado fraco ou que não gela no Jeep Compass"
+seoTitle: "Ar-condicionado fraco ou que não gela no Jeep"
 description: "AC fraco, demora para gelar ou não liga no Jeep Compass 2017 em diante. Veja as 5 causas documentadas, custos reais em R$ e como diagnosticar cada uma."
 entidade:
   marca: "Jeep"

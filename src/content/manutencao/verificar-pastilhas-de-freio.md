@@ -1,5 +1,6 @@
 ---
 title: "Como verificar pastilhas de freio sem desmontagem"
+seoTitle: "Como verificar pastilhas de freio sem"
 description: "Como verificar pastilhas de freio em 3 testes simples: inspeção visual pela roda, teste de rangido e vibração. Espessura mínima de 3mm. Saiba quando ir à oficina."
 kicker: "HOW-TO · MÃO NA MASSA"
 tempo: "15 minutos"

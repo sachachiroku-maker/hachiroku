@@ -1,5 +1,6 @@
-﻿---
+---
 title: "Volkswagen Saveiro: Barulho na suspensão dianteira — buchas e amortecedores"
+seoTitle: "Volkswagen Saveiro"
 description: "Tudo sobre Barulho na suspensão dianteira — buchas e amortecedores no Volkswagen Saveiro --- diagnostico, causas, custos e como resolver. Guia pratico com informacoes verificadas."
 entidade:
   marca: "Volkswagen"

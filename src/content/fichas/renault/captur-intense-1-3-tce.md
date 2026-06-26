@@ -1,5 +1,6 @@
 ---
 title: "Ficha técnica do Renault Captur Intense 1.3 TCe 2022 (CVT)"
+seoTitle: "Ficha técnica do Renault Captur Intense 1.3 TCe"
 description: "Ficha técnica completa do Renault Captur Intense 1.3 TCe 2022: motor 1.3 turbo de 162 cv com gasolina e 170 cv com etanol, câmbio CVT X-Tronic Jatco, 437 litros de porta-malas e consumo de até 11,6 km/l na estrada. Dados verificados e pontos de atenção do SUV compacto francês."
 marca: "Renault"
 modelo: "Captur"

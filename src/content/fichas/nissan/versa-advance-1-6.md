@@ -1,5 +1,6 @@
 ---
 title: "Nissan Versa Advance 1.6 CVT 2023: ficha técnica completa"
+seoTitle: "Nissan Versa Advance 1.6 CVT 2023: ficha técnica"
 description: "Ficha técnica do Nissan Versa Advance 1.6 CVT 2023: motor HR16 de 110 cv, câmbio CVT Xtronic e equipamento completo. O sedã compacto japonês com câmbio de variação contínua em dados técnicos detalhados."
 marca: "Nissan"
 modelo: "Versa"

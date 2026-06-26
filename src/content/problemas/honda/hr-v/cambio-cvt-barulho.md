@@ -1,5 +1,6 @@
-﻿---
+---
 title: "Honda HR-V: Barulho no câmbio CVT — ranger e chiado"
+seoTitle: "Honda HR-V: Barulho no câmbio CVT"
 description: "Tudo sobre Barulho no câmbio CVT — ranger e chiado no Honda HR-V --- diagnostico, causas, custos e como resolver. Guia pratico com informacoes verificadas."
 entidade:
   marca: "Honda"

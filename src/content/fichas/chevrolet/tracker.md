@@ -1,5 +1,6 @@
 ---
 title: "Ficha técnica do Chevrolet Tracker 2023 LT 1.0 Turbo"
+seoTitle: "Ficha técnica do Chevrolet Tracker 2023 LT 1.0"
 description: "Ficha técnica completa do Chevrolet Tracker 2023 LT 1.0 Turbo: motor 1.0 turbo de 3 cilindros e 116 cv, câmbio automático de 6 marchas, 393 litros de porta-malas e SUV compacto de 4,27 m. Motor, consumo e o que esperar da versão turbo intermediária."
 marca: "Chevrolet"
 modelo: "Tracker"

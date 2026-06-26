@@ -1,5 +1,6 @@
-﻿---
+---
 title: "HB20S: Barulho e Estalo na Suspensão Dianteira (Bieletas e"
+seoTitle: "HB20S: Barulho e Estalo na Suspensão Dianteira"
 description: "HB20S fazendo barulho na suspensão dianteira? Diagnóstico completo de bieletas, buchas e coxins com preços e passo a passo para resolver."
 entidade:
   marca: "Hyundai"

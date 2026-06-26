@@ -1,5 +1,6 @@
 ---
 title: "Ficha técnica do Fiat Argo 2023 Drive 1.0 (Firefly)"
+seoTitle: "Ficha técnica do Fiat Argo 2023 Drive 1.0"
 description: "Ficha técnica completa do Fiat Argo 2023 Drive 1.0: motor Firefly 1.0 de 3 cilindros com 75 cv no etanol, câmbio manual de 5 marchas, 300 litros de porta-malas e tanque de 48 litros. Dados, consumo e o que esperar da versão de entrada."
 marca: "Fiat"
 modelo: "Argo"

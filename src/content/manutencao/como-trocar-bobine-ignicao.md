@@ -1,5 +1,6 @@
-﻿---
+---
 title: "Bobine de Ignição: Como Trocar, Sintomas e Custo no Brasil"
+seoTitle: "Bobine de Ignição"
 description: "Bobine de ignição ruim causa falha de cilindro e carro tremendo. Veja como testar com multímetro, passo a passo da troca e custo médio de R$ 80 a R$ 350."
 kicker: "HOW-TO · MÃO NA MASSA"
 veiculo: "Carros nacionais e importados com bobinas individuais — Onix, HB20, Polo, Argo, Corolla, Civic"

@@ -1,5 +1,6 @@
 ---
 title: "Ficha técnica do Renault Kwid Intense 1.0 2023 (aspirado)"
+seoTitle: "Ficha técnica do Renault Kwid Intense 1.0 2023"
 description: "Ficha técnica completa do Renault Kwid Intense 1.0 2023: motor 1.0 SCe aspirado de 3 cilindros, câmbio manual de 5 marchas, 290 litros de porta-malas e até 15,7 km/l na estrada com gasolina. Dados, consumo e o que esperar do hatch de entrada da Renault."
 marca: "Renault"
 modelo: "Kwid"

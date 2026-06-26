@@ -1,5 +1,6 @@
-﻿---
+---
 title: "Volkswagen Saveiro G7: Barulho na Suspensão Traseira (Feixe"
+seoTitle: "Volkswagen Saveiro G7"
 description: "Saveiro G7 fazendo barulho atrás? Veja como diagnosticar feixe de molas, silent blocks e grampos da suspensão traseira. Custo R$400-900."
 entidade:
   marca: "Volkswagen"

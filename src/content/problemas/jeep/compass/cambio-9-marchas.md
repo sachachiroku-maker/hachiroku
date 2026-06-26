@@ -1,5 +1,6 @@
-﻿---
+---
 title: "Jeep Compass: Câmbio automático de 9 marchas — solavanco e problemas comuns"
+seoTitle: "Jeep Compass"
 description: "Tudo sobre Câmbio automático de 9 marchas — solavanco e problemas comuns no Jeep Compass --- diagnostico, causas, custos e como resolver. Guia pratico com informacoes verificadas."
 entidade:
   marca: "Jeep"

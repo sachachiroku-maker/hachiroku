@@ -1,5 +1,6 @@
-﻿---
+---
 title: "Jimny Sierra consumindo muito: causas e diagnóstico"
+seoTitle: "Jimny Sierra consumindo muito: causas e"
 description: "Suzuki Jimny Sierra com consumo acima de 9 km/l? Motor K15B aspirado em chassi leve tem bom potencial, mas tração 4WD permanente e itens de desgaste pesam. Veja as causas reais e como diagnosticar."
 entidade:
   marca: "Suzuki"

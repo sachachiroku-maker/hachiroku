@@ -1,5 +1,6 @@
 ---
 title: "Honda HR-V 1.5 Turbo consumindo óleo: causas e o que fazer"
+seoTitle: "Honda HR-V 1.5 Turbo consumindo óleo: causas e o"
 description: "Seu Honda HR-V 3ª geração está consumindo óleo entre revisões? Entenda o que é normal no motor L15C 1.5 turbo, as causas do consumo excessivo e quando é necessário investigar."
 entidade:
   marca: "Honda"

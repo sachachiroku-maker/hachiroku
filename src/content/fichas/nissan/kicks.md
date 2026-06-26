@@ -1,5 +1,6 @@
 ---
 title: "Ficha técnica do Nissan Kicks 1.6 16V CVT (aspirado)"
+seoTitle: "Ficha técnica do Nissan Kicks 1.6 16V CVT"
 description: "Ficha técnica completa do Nissan Kicks 1.6 16V: motor HR16DE aspirado de 4 cilindros e 114 cv, câmbio automático CVT, 432 litros de porta-malas e até 13 km/l na estrada com gasolina. Dados, consumo e o que esperar do SUV compacto da Nissan."
 marca: "Nissan"
 modelo: "Kicks"

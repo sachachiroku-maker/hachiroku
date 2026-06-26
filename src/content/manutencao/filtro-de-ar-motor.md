@@ -1,5 +1,6 @@
 ---
 title: "Filtro de ar motor carro: função, tipos e guia completo de"
+seoTitle: "Filtro de ar motor carro: função, tipos e guia"
 description: "Filtro de ar motor carro sujo reduz até 10% da potência e aumenta o consumo em 15%. Entenda tipos, diferenças e como trocar passo a passo."
 kicker: "HOW-TO · MÃO NA MASSA"
 veiculo: "Carros em geral (motor a gasolina, etanol ou flex)"

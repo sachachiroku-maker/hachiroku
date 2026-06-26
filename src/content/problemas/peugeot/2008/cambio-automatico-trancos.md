@@ -1,5 +1,6 @@
-﻿---
+---
 title: "Peugeot 2008 EAT8: solavancos no câmbio automático — causas"
+seoTitle: "Peugeot 2008 EAT8: solavancos no câmbio"
 description: "Câmbio EAT8 do Peugeot 2008 dá trancos nas trocas 1ª→2ª e hesita ao arrancar? Veja as causas reais, custos e o que fazer antes de ir à concessionária."
 entidade:
   marca: "Peugeot"

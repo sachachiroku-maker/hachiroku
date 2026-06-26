@@ -1,5 +1,6 @@
-﻿---
+---
 title: "Vibração e Tremor do Motor 3 Cilindros 1.0 TSI no VW Nivus"
+seoTitle: "Vibração e Tremor do Motor 3 Cilindros 1.0 TSI"
 description: "Motor 3 cilindros do Nivus vibra na marcha lenta? Saiba o que é normal, quais causas indicam defeito e quanto custa resolver. Dados técnicos 2025-2026."
 entidade:
   marca: "Volkswagen"

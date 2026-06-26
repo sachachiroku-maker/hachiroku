@@ -1,5 +1,6 @@
 ---
 title: "Quando trocar amortecedor: 6 sinais que o carro avisa antes"
+seoTitle: "Quando trocar amortecedor: 6 sinais que o carro"
 description: "Quando trocar amortecedor? A vida útil vai de 80.000 a 120.000 km, mas 4 sinais físicos revelam o desgaste antes disso. Veja o teste caseiro e o custo real."
 kicker: "DIAGNÓSTICO · SUSPENSÃO"
 tempo: "15 minutos (diagnóstico caseiro)"
