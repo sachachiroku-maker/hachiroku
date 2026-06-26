@@ -13,6 +13,12 @@ npm-debug.log*
 # os
 .DS_Store
 Thumbs.db
+# credenciais (NUNCA commitar service accounts / chaves)
+.secrets/
+*.iam.gserviceaccount.com.json
+*-service-account*.json
+google-indexing*.json
+_test-*.cjs
 # audit local
 audit-screenshots/
 audit-playwright.cjs

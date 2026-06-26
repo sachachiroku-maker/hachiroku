@@ -11,7 +11,8 @@
     "preview": "astro preview",
     "astro": "astro",
     "check": "astro check",
-    "indexnow": "node scripts/indexnow-submit.mjs"
+    "indexnow": "node scripts/indexnow-submit.mjs",
+    "google-index": "node scripts/google-index.mjs"
   },
   "dependencies": {
     "@astrojs/rss": "4.0.18",
