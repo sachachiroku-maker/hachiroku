@@ -2,23 +2,25 @@
  * Google Instant Indexing — notifica o Google sobre URLs novas/atualizadas
  * via Indexing API (urlNotifications:publish), usando a service account.
  *
- * Chave: lida de .secrets/google-indexing.json (fora do Git) ou da env
- * GOOGLE_INDEXING_KEY. NUNCA commitar a chave.
+ * Mantém ESTADO local (.secrets/google-index-sent.json) das URLs já enviadas
+ * para nunca repetir: a cada execução pega as próximas N ainda não enviadas.
+ *
+ * Chave: .secrets/google-indexing.json (fora do Git) ou env GOOGLE_INDEXING_KEY.
  *
  * Uso:
  *   npm run build                          # gera dist/sitemap-0.xml
- *   npm run google-index                   # envia até 200 URLs do sitemap (quota/dia)
+ *   npm run google-index                   # próximas 200 URLs NÃO enviadas (quota/dia)
  *   npm run google-index -- --limit 50     # limita a 50
- *   npm run google-index -- https://hachiroku.com.br/problemas/fiat/argo/correia/
- *   npm run google-index -- --type URL_DELETED https://...   # notificar remoção
- *
- * Quota padrão da Indexing API: 200 publicações/dia por projeto.
+ *   npm run google-index -- --all          # ignora o estado (reenvia)
+ *   npm run google-index -- --reset        # zera o estado e sai
+ *   npm run google-index -- https://hachiroku.com.br/algo/   # URLs avulsas (registra no estado)
  */
 import fs from 'node:fs';
 import path from 'node:path';
 import crypto from 'node:crypto';
 
 const KEY_PATH = process.env.GOOGLE_INDEXING_KEY || path.resolve('.secrets/google-indexing.json');
+const STATE_PATH = path.resolve('.secrets/google-index-sent.json');
 const SITEMAP = path.resolve('dist/sitemap-0.xml');
 const SCOPE = 'https://www.googleapis.com/auth/indexing';
 const TOKEN_AUD = 'https://oauth2.googleapis.com/token';
@@ -30,14 +32,24 @@ const b64url = (b) => Buffer.from(b).toString('base64').replace(/\+/g, '-').repl
 
 function lerArgs() {
   const argv = process.argv.slice(2);
-  let limit = DAILY_QUOTA, type = 'URL_UPDATED';
+  let limit = parseInt(process.env.GOOGLE_INDEX_LIMIT, 10) || DAILY_QUOTA, type = 'URL_UPDATED', all = false, reset = false;
   const urls = [];
   for (let i = 0; i < argv.length; i++) {
     if (argv[i] === '--limit') limit = parseInt(argv[++i], 10) || DAILY_QUOTA;
     else if (argv[i] === '--type') type = argv[++i];
+    else if (argv[i] === '--all') all = true;
+    else if (argv[i] === '--reset') reset = true;
     else if (argv[i].startsWith('http')) urls.push(argv[i]);
   }
-  return { limit, type, urls };
+  return { limit, type, all, reset, urls };
+}
+
+function carregarEstado() {
+  try { return JSON.parse(fs.readFileSync(STATE_PATH, 'utf8')); } catch { return {}; }
+}
+function salvarEstado(estado) {
+  fs.mkdirSync(path.dirname(STATE_PATH), { recursive: true });
+  fs.writeFileSync(STATE_PATH, JSON.stringify(estado, null, 0));
 }
 
 function urlsDoSitemap() {
@@ -51,7 +63,7 @@ function urlsDoSitemap() {
 
 async function getToken() {
   if (!fs.existsSync(KEY_PATH)) {
-    console.error(`✗ Chave não encontrada em ${KEY_PATH}\n  Defina GOOGLE_INDEXING_KEY ou coloque o JSON em .secrets/google-indexing.json`);
+    console.error(`✗ Chave não encontrada em ${KEY_PATH}`);
     process.exit(1);
   }
   const j = JSON.parse(fs.readFileSync(KEY_PATH, 'utf8'));
@@ -86,24 +98,42 @@ async function publicar(token, url, type) {
   }
 }
 
-const { limit, type, urls: manuais } = lerArgs();
+const { limit, type, all, reset, urls: manuais } = lerArgs();
+
+if (reset) { salvarEstado({}); console.log('Estado zerado (.secrets/google-index-sent.json).'); process.exit(0); }
+
+const estado = carregarEstado();
+const enviadas = new Set(Object.keys(estado));
 const todas = manuais.length ? manuais : urlsDoSitemap();
-const fila = todas.slice(0, limit);
-const sobra = todas.length - fila.length;
+
+// Filtra as já enviadas (a menos que --all), preservando ordem do sitemap.
+const candidatas = all ? todas : todas.filter((u) => !enviadas.has(u));
+const fila = candidatas.slice(0, limit);
+const sobra = candidatas.length - fila.length;
+
+if (!fila.length) {
+  console.log(`Nada a enviar: todas as ${todas.length} URLs do sitemap já foram notificadas (estado em .secrets/google-index-sent.json).`);
+  console.log('Use --all para reenviar tudo, ou --reset para zerar o histórico.');
+  process.exit(0);
+}
 
 const { token, email } = await getToken();
-console.log(`Google Indexing API → ${email}`);
-console.log(`Tipo: ${type} | URLs: ${fila.length}${manuais.length ? ' (manuais)' : ' (do sitemap)'}${sobra > 0 ? ` | ${sobra} além da quota de hoje` : ''}\n`);
+const carimbo = new Date().toISOString().slice(0, 19).replace('T', ' ');
+console.log(`Google Indexing API → ${email}  [${carimbo}]`);
+console.log(`Tipo: ${type} | enviando: ${fila.length}${manuais.length ? ' (manuais)' : ''} | já enviadas antes: ${enviadas.size} | restam após hoje: ${sobra}\n`);
 
 let ok = 0, fail = 0;
 for (let i = 0; i < fila.length; i += CONCURRENCY) {
   const lote = fila.slice(i, i + CONCURRENCY);
   const res = await Promise.all(lote.map((u) => publicar(token, u, type)));
   for (const r of res) {
-    if (r.ok) { ok++; }
+    if (r.ok) { ok++; estado[r.url] = carimbo; }
     else { fail++; console.log(`✗ ${r.status} ${r.url} — ${r.msg}`); }
   }
   process.stdout.write(`\r  enviadas: ${ok + fail}/${fila.length}`);
 }
-console.log(`\n\nResumo: ${ok} aceitas, ${fail} com falha.${sobra > 0 ? `\nFaltaram ${sobra} URLs (quota de 200/dia). Rode amanhã para continuar.` : ''}`);
+salvarEstado(estado);
+console.log(`\n\nResumo: ${ok} aceitas, ${fail} com falha. Total acumulado no estado: ${Object.keys(estado).length}/${todas.length}.`);
+if (sobra > 0) console.log(`Restam ${sobra} URLs novas para os próximos dias (quota de ${DAILY_QUOTA}/dia).`);
+else console.log('✅ Todas as URLs do sitemap já foram cobertas.');
 process.exit(fail ? 1 : 0);
