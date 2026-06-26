@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Chevrolet S10 LTZ 2.8 Diesel 4x4 2023"
 description: "Ficha técnica da Chevrolet S10 LTZ 2.8 CTDI diesel 4x4 2023: motor Duramax de 200 cv, câmbio automático Hydra-Matic de 6 marchas e capacidade de reboque de 3.500 kg. A picape média diesel da GM com motor quatro cilindros moderno."
 marca: "Chevrolet"
@@ -63,6 +63,8 @@ relacionados:
   - { titulo: "DPF da S10 diesel com entupimento em uso urbano", url: "/problemas/chevrolet/s10/dpf-regeneracao-diesel/" }
   - { titulo: "Turbina da S10 2.8 Duramax com queda de boost", url: "/problemas/chevrolet/s10/turbina-boost-pressao/" }
   - { titulo: "Ficha técnica da Chevrolet Montana Premier 1.2 Turbo 4x4", url: "/ficha-tecnica/chevrolet/montana-premier-1-2-turbo/" }
+autor:
+  nome: "Redacao Hachiroku"
 draft: false
 ---
 

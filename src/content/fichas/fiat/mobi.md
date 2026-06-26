@@ -62,6 +62,8 @@ faq:
     resposta: "É um carro de baixa potência mesmo, com 71 a 74 cv e câmbio manual de 5 marchas. No trânsito urbano e com poucos ocupantes ele se vira bem. Em subida com o carro cheio ou em ultrapassagem na estrada, o motor precisa de giro e paciência. É a proposta de um hatch de entrada focado em preço e economia, não em desempenho."
 relacionados:
   - { titulo: "Problemas do Fiat Mobi", url: "/problemas/fiat/mobi/" }
+autor:
+  nome: "Redacao Hachiroku"
 draft: false
 ---
 

@@ -56,6 +56,8 @@ faq:
     resposta: "Por ser um veículo importado, peças do 3008 têm custo acima da média do segmento. Uma revisão básica (óleo, filtros e verificações) em concessionária Peugeot gira entre R$ 800 e R$ 1.400, dependendo da região. Peças de suspensão e câmbio EAT8 podem encarecer reparos mais complexos. Mecânicas multimarcas especializadas em europeus costumam cobrar menos."
 relacionados:
   - { titulo: "Problemas do Peugeot 3008", url: "/problemas/peugeot/3008/" }
+autor:
+  nome: "Redacao Hachiroku"
 draft: false
 ---
 

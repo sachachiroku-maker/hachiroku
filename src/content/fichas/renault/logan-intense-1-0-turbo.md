@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Renault Logan Intense 1.0 Turbo CVT 2023"
 description: "Ficha técnica completa do Renault Logan Intense 1.0 Turbo CVT 2023: motor TCe de 100 cv, câmbio CVT Jatco X-Tronic, 0 a 100 km/h em 10,8 s e consumo de até 12,5 km/l na estrada. Dados verificados e o que cuidar no motor TCe e no câmbio CVT."
 marca: "Renault"
@@ -64,6 +64,8 @@ faq:
 relacionados:
   - { titulo: "Motor 1.0 TCe do Logan com barulho a frio: causa, diagnóstico e quando preocupar", url: "/problemas/renault/logan/motor-tce-barulho-frio/" }
   - { titulo: "CVT do Logan no uso comercial: desgaste, fluido e custo de revisão", url: "/problemas/renault/logan/cambio-cvt-solavanco-utilitario/" }
+autor:
+  nome: "Redacao Hachiroku"
 draft: false
 ---
 

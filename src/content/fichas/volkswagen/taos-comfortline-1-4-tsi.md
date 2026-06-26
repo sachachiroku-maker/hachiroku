@@ -71,6 +71,8 @@ faq:
 relacionados:
   - { titulo: "Consumo de óleo no motor 1.4 TSI do Taos", url: "/problemas/volkswagen/taos/consumo-de-oleo-tsi/" }
   - { titulo: "Câmbio do Taos com solavancos", url: "/problemas/volkswagen/taos/cambio-dsg-solavanco/" }
+autor:
+  nome: "Redacao Hachiroku"
 draft: false
 ---
 

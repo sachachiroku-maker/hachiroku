@@ -59,6 +59,8 @@ faq:
     resposta: "Tem. O motor T200 usa injeção direta de combustível e turbo com intercooler, o que ajuda a entregar bastante torque desde baixo giro. Em motores com injeção direta e turbo, manter o óleo na especificação correta e respeitar os intervalos de troca é ainda mais importante para a vida útil do conjunto."
 relacionados:
   - { titulo: "Problemas do Fiat Pulse", url: "/problemas/fiat/pulse/" }
+autor:
+  nome: "Redacao Hachiroku"
 draft: false
 ---
 

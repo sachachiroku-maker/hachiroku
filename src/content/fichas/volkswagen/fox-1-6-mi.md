@@ -56,6 +56,8 @@ faq:
     resposta: "A produção do VW Fox no Brasil foi encerrada em 2015. O modelo foi vendido de 2003 a 2015 e, apesar da descontinuação, permanece muito popular no mercado de usados pela disponibilidade de peças e baixo custo de manutenção."
 relacionados:
   - { titulo: "Problemas do Fox", url: "/problemas/volkswagen/fox/" }
+autor:
+  nome: "Redacao Hachiroku"
 draft: false
 ---
 

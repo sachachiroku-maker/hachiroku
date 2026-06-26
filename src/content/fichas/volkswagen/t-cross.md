@@ -58,6 +58,8 @@ faq:
 relacionados:
   - { titulo: "Problemas do Volkswagen T-Cross", url: "/problemas/volkswagen/t-cross/" }
   - { titulo: "Problemas do Volkswagen T-Cross", url: "/problemas/volkswagen/t-cross/" }
+autor:
+  nome: "Redacao Hachiroku"
 draft: false
 ---
 

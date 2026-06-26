@@ -62,6 +62,8 @@ faq:
     resposta: "O Nivus usa um câmbio automático convencional (conversor de torque) de 6 marchas, não um automatizado de dupla embreagem. Isso costuma significar trocas mais suaves e manutenção mais simples no longo prazo. Como em todo automático, a troca de óleo do câmbio no intervalo correto é o que mais protege o conjunto."
 relacionados:
   - { titulo: "Problemas do VW Nivus", url: "/problemas/volkswagen/nivus/" }
+autor:
+  nome: "Redacao Hachiroku"
 draft: false
 ---
 

@@ -62,6 +62,8 @@ faq:
     resposta: "Para uso urbano ele cumpre bem o papel: é leve (820 kg), econômico e fácil de estacionar. Na estrada, com o carro cheio ou em ultrapassagens, os 68 cv pedem giro e paciência. É um carro de entrada honesto, melhor avaliado pelo custo de propriedade do que pelo desempenho."
 relacionados:
   - { titulo: "Problemas do Renault Kwid", url: "/problemas/renault/kwid/" }
+autor:
+  nome: "Redacao Hachiroku"
 draft: false
 ---
 

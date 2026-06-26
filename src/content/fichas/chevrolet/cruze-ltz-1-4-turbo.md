@@ -76,6 +76,8 @@ faq:
 relacionados:
   - { titulo: "Motor 1.4 LUV do Cruze com consumo de óleo", url: "/problemas/chevrolet/cruze/consumo-oleo-1-4-turbo/" }
   - { titulo: "Câmbio automático 6 marchas do Cruze com solavanco", url: "/problemas/chevrolet/cruze/cambio-automatico-trancos/" }
+autor:
+  nome: "Redacao Hachiroku"
 draft: false
 ---
 

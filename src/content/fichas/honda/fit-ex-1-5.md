@@ -67,6 +67,8 @@ relacionados:
   - { titulo: "CVT do Honda Fit com solavancos: causa e solução", url: "/problemas/honda/fit/cambio-cvt-solavanco/" }
   - { titulo: "Embreagem do CVT do Fit: desgaste e diagnóstico", url: "/problemas/honda/fit/embreagem-cvt-desgaste/" }
   - { titulo: "Problemas do Honda City CVT", url: "/problemas/honda/city/cambio-cvt/" }
+autor:
+  nome: "Redacao Hachiroku"
 draft: false
 ---
 

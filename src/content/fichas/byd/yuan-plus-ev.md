@@ -71,6 +71,8 @@ faq:
 relacionados:
   - { titulo: "Autonomia real vs estimada do Yuan Plus", url: "/problemas/byd/yuan-plus/autonomia-real-vs-estimada/" }
   - { titulo: "Carregamento AC lento do Yuan Plus", url: "/problemas/byd/yuan-plus/carregamento-lento-ac/" }
+autor:
+  nome: "Redacao Hachiroku"
 draft: false
 ---
 

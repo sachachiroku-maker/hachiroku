@@ -63,6 +63,8 @@ faq:
 relacionados:
   - { titulo: "Tucho a frio do Gol: causas e solução", url: "/problemas/volkswagen/gol/tucho-a-frio/" }
   - { titulo: "Gol usado vale a pena?", url: "/guia-de-compra/usados/gol-usado-vale-a-pena/" }
+autor:
+  nome: "Redacao Hachiroku"
 draft: false
 ---
 

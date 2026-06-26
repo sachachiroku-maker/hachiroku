@@ -57,6 +57,8 @@ faq:
     resposta: "A L200 Triton Sport 2022 tem capacidade de carga declarada de 1.000 kg. A caçamba de cama longa mede 1.520 mm de comprimento interno, proporcionando boa volumetria para trabalho e lazer."
 relacionados:
   - { titulo: "Problemas da L200 Triton", url: "/problemas/mitsubishi/l200-triton/" }
+autor:
+  nome: "Redacao Hachiroku"
 draft: false
 ---
 

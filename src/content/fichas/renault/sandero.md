@@ -62,6 +62,8 @@ faq:
     resposta: "O Sandero hatch oferece 320 litros de porta-malas, um dos maiores da categoria de hatch compacto. É um dos argumentos tradicionais do modelo, junto com o espaço interno generoso para os ocupantes."
 relacionados:
   - { titulo: "Problemas do Renault Sandero", url: "/problemas/renault/sandero/" }
+autor:
+  nome: "Redacao Hachiroku"
 draft: false
 ---
 

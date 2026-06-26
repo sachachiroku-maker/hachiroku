@@ -56,6 +56,8 @@ faq:
     resposta: "A GWM oferece garantia de 5 anos ou 100.000 km (o que ocorrer primeiro) para o Haval H6 comercializado no Brasil, além de revisões programadas na rede de concessionárias GWM."
 relacionados:
   - { titulo: "Problemas do Haval H6", url: "/problemas/gwm/haval-h6/" }
+autor:
+  nome: "Redacao Hachiroku"
 draft: false
 ---
 

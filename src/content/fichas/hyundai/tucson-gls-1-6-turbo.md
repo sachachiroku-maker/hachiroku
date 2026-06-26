@@ -71,6 +71,8 @@ faq:
 relacionados:
   - { titulo: "Motor 1.6 T-GDi do Tucson com consumo de óleo", url: "/problemas/hyundai/tucson/motor-turbo-consumo-oleo/" }
   - { titulo: "Tela central do Tucson NX4 com falha ou travamento", url: "/problemas/hyundai/tucson/sistema-eletrico-falha-display/" }
+autor:
+  nome: "Redacao Hachiroku"
 draft: false
 ---
 

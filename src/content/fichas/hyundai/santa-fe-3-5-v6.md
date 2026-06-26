@@ -55,6 +55,8 @@ faq:
     resposta: "Rodando com gasolina, o Santa Fe 3.5 V6 faz cerca de 11,5 km/l na estrada e 8,0 km/l na cidade, conforme dados do Inmetro e testes da imprensa especializada."
 relacionados:
   - { titulo: "Problemas do Santa Fe", url: "/problemas/hyundai/santa-fe/" }
+autor:
+  nome: "Redacao Hachiroku"
 draft: false
 ---
 

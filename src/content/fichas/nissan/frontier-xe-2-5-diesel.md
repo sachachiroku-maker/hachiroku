@@ -63,6 +63,8 @@ relacionados:
   - { titulo: "Injetores diesel da Frontier YD25 com falha: diagnóstico e custo", url: "/problemas/nissan/frontier/injetores-diesel-falha/" }
   - { titulo: "Diferencial traseiro da Frontier com desgaste: causas e reparo", url: "/problemas/nissan/frontier/diferencial-traseiro-desgaste/" }
   - { titulo: "Ficha técnica da Toyota Hilux SRX 2.8 Diesel 2023", url: "/ficha-tecnica/toyota/hilux-srx-2-8-diesel/" }
+autor:
+  nome: "Redacao Hachiroku"
 draft: false
 ---
 

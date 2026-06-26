@@ -66,6 +66,8 @@ faq:
     resposta: "O aspirado entrega economia, manutenção mais simples e custo de propriedade menor, ideal para cidade e para quem roda dentro da média. O turbo entrega bem mais desempenho e disposição em ultrapassagens, mas pede combustível de qualidade e atenção à injeção direta, que acumula carbono nas válvulas com o tempo. Nos dois, o câmbio CVT exige a troca do fluido no intervalo correto. A escolha depende do seu uso e do orçamento de manutenção."
 relacionados:
   - { titulo: "Problemas do Honda HR-V", url: "/problemas/honda/hr-v/" }
+autor:
+  nome: "Redacao Hachiroku"
 draft: false
 ---
 

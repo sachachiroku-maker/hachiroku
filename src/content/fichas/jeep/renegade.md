@@ -59,6 +59,8 @@ faq:
     resposta: "O Sport 1.3 T270 entrega o pacote turbo com bom torque em baixa rotação, câmbio automático e o jeitão de SUV do Renegade, num acabamento mais simples. É uma escolha de quem quer o conjunto mecânico turbo sem pagar pelos itens de conforto das versões de topo. Como em qualquer usado, o que decide é o histórico de manutenção, não só a ficha."
 relacionados:
   - { titulo: "Problemas do Jeep Renegade", url: "/problemas/jeep/renegade/" }
+autor:
+  nome: "Redacao Hachiroku"
 draft: false
 ---
 

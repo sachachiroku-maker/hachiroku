@@ -64,6 +64,8 @@ relacionados:
   - { titulo: "Vela aquecedora da Hilux GD-6 com falha: partida difícil no frio", url: "/problemas/toyota/hilux/vela-aquecedora-falha/" }
   - { titulo: "Diferencial traseiro da Hilux com barulho: diagnóstico e custo", url: "/problemas/toyota/hilux/diferencial-traseiro-barulho/" }
   - { titulo: "Ficha técnica da Chevrolet S10 LTZ 2.8 Diesel", url: "/ficha-tecnica/chevrolet/s10-ltz-2-8-diesel/" }
+autor:
+  nome: "Redacao Hachiroku"
 draft: false
 ---
 

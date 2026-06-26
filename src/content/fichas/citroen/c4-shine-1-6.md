@@ -56,6 +56,8 @@ faq:
     resposta: "Segundo a tabela INMETRO, o consumo urbano é de aproximadamente 10,5 km/l com gasolina. Na estrada, o índice sobe para cerca de 13,0 km/l."
 relacionados:
   - { titulo: "Problemas do Citroën C4", url: "/problemas/citroen/c4/" }
+autor:
+  nome: "Redacao Hachiroku"
 draft: false
 ---
 

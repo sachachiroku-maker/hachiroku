@@ -60,6 +60,8 @@ faq:
     resposta: "Tem câmbio automático de 6 marchas, de fornecimento Aisin, com tração dianteira. Não é CVT nem dupla embreagem. É um automático convencional de conversor de torque."
 relacionados:
   - { titulo: "Problemas do Jeep Compass", url: "/problemas/jeep/compass/" }
+autor:
+  nome: "Redacao Hachiroku"
 draft: false
 ---
 

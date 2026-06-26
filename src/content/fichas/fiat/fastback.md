@@ -67,6 +67,8 @@ faq:
     resposta: "O T200 (1.0 turbo) entrega economia, câmbio CVT suave e custo de uso menor, ideal para cidade e quem roda dentro da média. O T270 (1.3 turbo) entrega bem mais desempenho e o câmbio automático de 6 marchas, mais esportivo. Atenção: os dois usam a família de motores turbo da Stellantis, então em ambos o óleo correto e o cuidado com a bomba de óleo são pontos de manutenção a observar. A escolha depende do seu uso e do orçamento."
 relacionados:
   - { titulo: "Problemas do Fiat Fastback", url: "/problemas/fiat/fastback/" }
+autor:
+  nome: "Redacao Hachiroku"
 draft: false
 ---
 

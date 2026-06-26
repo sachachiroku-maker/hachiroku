@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Ford Ranger XLT 2.0 Bi-Turbo 4x4 2024"
 description: "Ficha técnica da Ford Ranger XLT 2.0 Bi-Turbo diesel 4x4 2024 (NextGen): motor 2.0 EcoBlue de 210 cv, câmbio automático de 10 marchas e capacidade de carga de 1,1 tonelada. A geração mais sofisticada da Ranger no Brasil."
 marca: "Ford"
@@ -63,6 +63,8 @@ relacionados:
   - { titulo: "DPF da Ranger NextGen entupindo em uso urbano", url: "/problemas/ford/ranger/dpf-filtro-particulas-entupimento/" }
   - { titulo: "Câmbio de 10 marchas da Ranger NextGen com solavanco", url: "/problemas/ford/ranger/cambio-10-marchas-solavanco/" }
   - { titulo: "Ficha técnica do Ford EcoSport Titanium 1.5", url: "/ficha-tecnica/ford/ecosport-titanium-1-5/" }
+autor:
+  nome: "Redacao Hachiroku"
 draft: false
 ---
 

@@ -74,6 +74,8 @@ faq:
 relacionados:
   - { titulo: "Motor V6 TDI da Amarok com consumo de óleo", url: "/problemas/volkswagen/amarok/motor-v6-consumo-oleo/" }
   - { titulo: "Diferencial e cardã da Amarok V6 4Motion com desgaste", url: "/problemas/volkswagen/amarok/diferencial-carda-desgaste/" }
+autor:
+  nome: "Redacao Hachiroku"
 draft: false
 ---
 

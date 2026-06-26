@@ -62,6 +62,8 @@ faq:
     resposta: "Tem injeção direta de combustível. Esse tipo de injeção pede atenção à qualidade do combustível e às trocas de óleo no prazo, porque óleo velho e combustível ruim aceleram o acúmulo de carbono nas válvulas de admissão. Manutenção em dia é o que mantém esse motor saudável."
 relacionados:
   - { titulo: "Problemas do Hyundai Creta", url: "/problemas/hyundai/creta/" }
+autor:
+  nome: "Redacao Hachiroku"
 draft: false
 ---
 

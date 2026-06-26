@@ -63,6 +63,8 @@ faq:
     resposta: "A 1.3 turbo flex entrega bom desempenho urbano, é mais barata de comprar e dispensa o custo do diesel, mas tem tração só dianteira (4x2) e consumo mais alto que o diesel na estrada. A 2.0 diesel oferece tração 4x4, muito mais torque para carga e reboque e melhor economia rodoviária, em troca de manutenção mais cara e cuidados com EGR, DPF e qualidade do diesel. A escolha depende do uso: cidade e custo menor pendem para a flex; trabalho, carga e estrada pendem para a diesel."
 relacionados:
   - { titulo: "Problemas da Fiat Toro", url: "/problemas/fiat/toro/" }
+autor:
+  nome: "Redacao Hachiroku"
 draft: false
 ---
 

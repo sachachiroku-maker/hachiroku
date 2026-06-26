@@ -71,6 +71,8 @@ faq:
 relacionados:
   - { titulo: "Consumo de óleo no motor 1.0 TSI do Virtus", url: "/problemas/volkswagen/virtus/consumo-de-oleo-tsi/" }
   - { titulo: "Câmbio Aisin AQ250 do Virtus com trancos", url: "/problemas/volkswagen/virtus/cambio-aisin-trancos/" }
+autor:
+  nome: "Redacao Hachiroku"
 draft: false
 ---
 

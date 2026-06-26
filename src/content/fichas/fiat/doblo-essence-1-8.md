@@ -56,6 +56,8 @@ faq:
     resposta: "O motor 1.8 16V E.torQ tem histórico extenso no mercado brasileiro desde 2010. É reconhecido pela durabilidade quando mantido com troca de óleo em dia e correia dentada substituída dentro do intervalo recomendado pela Fiat (a cada 60.000 km ou 4 anos)."
 relacionados:
   - { titulo: "Problemas do Fiat Doblo", url: "/problemas/fiat/doblo/" }
+autor:
+  nome: "Redacao Hachiroku"
 draft: false
 ---
 

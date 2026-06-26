@@ -60,6 +60,8 @@ faq:
     resposta: "O Ka hatch oferece 257 litros de porta-malas, um valor na média da categoria de hatch compacto. Um ponto a favor é o tanque de 52 litros, generoso para o segmento, o que ajuda na autonomia entre abastecimentos."
 relacionados:
   - { titulo: "Problemas do Ford Ka", url: "/problemas/ford/ka/" }
+autor:
+  nome: "Redacao Hachiroku"
 draft: false
 ---
 

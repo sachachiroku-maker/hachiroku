@@ -64,6 +64,8 @@ relacionados:
   - { titulo: "Start-Stop do Argo: por que falha e o que fazer", url: "/problemas/fiat/argo/start-stop/" }
   - { titulo: "Problemas do Fiat Argo", url: "/problemas/fiat/argo/" }
   - { titulo: "Guia de compra de carros usados", url: "/guia-de-compra/" }
+autor:
+  nome: "Redacao Hachiroku"
 draft: false
 ---
 

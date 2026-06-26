@@ -56,6 +56,8 @@ faq:
     resposta: "Sim, mas com cuidados adicionais. A profundidade de vau é de 762 mm (30 polegadas), igual ao Rubicon convencional. O conjunto de baterias é protegido por skid plates de alumínio reforçado. A Jeep certifica o veículo para trilhas de alta dificuldade, porém a imersão prolongada não é recomendada."
 relacionados:
   - { titulo: "Problemas do Jeep Wrangler", url: "/problemas/jeep/wrangler/" }
+autor:
+  nome: "Redacao Hachiroku"
 draft: false
 ---
 

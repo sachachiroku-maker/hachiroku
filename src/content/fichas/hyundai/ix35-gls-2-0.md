@@ -68,6 +68,8 @@ relacionados:
   - { titulo: "Motor Theta II no ix35: consumo excessivo de óleo", url: "/problemas/hyundai/ix35/consumo-de-oleo-theta/" }
   - { titulo: "Rolamento de roda dianteira no ix35: barulho e diagnóstico", url: "/problemas/hyundai/ix35/suspensao-dianteira-rolamento/" }
   - { titulo: "Problemas do Hyundai HB20", url: "/problemas/hyundai/hb20/" }
+autor:
+  nome: "Redacao Hachiroku"
 draft: false
 ---
 

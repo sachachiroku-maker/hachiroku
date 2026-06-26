@@ -60,6 +60,8 @@ faq:
     resposta: "Depende de qual automático. As versões 1.3 com CVT são mais recentes e têm relatos diferentes do automático mais antigo. Já as versões com o câmbio AT6 de 6 marchas (Aisin), usadas no 1.8 E.torQ, têm um ponto de atenção conhecido: a falha do trocador de calor, que pode contaminar o fluido da transmissão com líquido de arrefecimento. Vale ler nosso diagnóstico do trocador de calor antes de comprar um Cronos AT6."
 relacionados:
   - { titulo: "Problemas do Fiat Cronos", url: "/problemas/fiat/cronos/" }
+autor:
+  nome: "Redacao Hachiroku"
 draft: false
 ---
 

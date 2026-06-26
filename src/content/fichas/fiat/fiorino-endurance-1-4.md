@@ -66,6 +66,8 @@ faq:
 relacionados:
   - { titulo: "Motor 1.4 Fire da Fiorino com desgaste de bronzina: o que causa e quanto custa", url: "/problemas/fiat/fiorino/motor-fire-desgaste-bronzina/" }
   - { titulo: "Embreagem da Fiorino com desgaste prematuro: intervalo, custo e como evitar", url: "/problemas/fiat/fiorino/embreagem-desgaste-prematuro/" }
+autor:
+  nome: "Redacao Hachiroku"
 draft: false
 ---
 

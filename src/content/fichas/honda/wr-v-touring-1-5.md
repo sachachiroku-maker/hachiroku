@@ -76,6 +76,8 @@ faq:
 relacionados:
   - { titulo: "CVT do WR-V com solavanco", url: "/problemas/honda/wr-v/cambio-cvt-solavanco/" }
   - { titulo: "Consumo de óleo no motor 1.5 do WR-V", url: "/problemas/honda/wr-v/motor-1-5-consumo-oleo/" }
+autor:
+  nome: "Redacao Hachiroku"
 draft: false
 ---
 

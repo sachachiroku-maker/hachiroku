@@ -56,6 +56,8 @@ faq:
     resposta: "Na cidade com gasolina, o Outlander 3.0 V6 2022 faz cerca de 7,5 km/l. Na estrada, o consumo sobe para aproximadamente 10,5 km/l. Os valores podem variar conforme estilo de condução e condições da via."
 relacionados:
   - { titulo: "Problemas do Outlander", url: "/problemas/mitsubishi/outlander/" }
+autor:
+  nome: "Redacao Hachiroku"
 draft: false
 ---
 

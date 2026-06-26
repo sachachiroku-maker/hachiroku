@@ -71,6 +71,8 @@ faq:
 relacionados:
   - { titulo: "Velas de ignição do Uno 1.0 Fire com desgaste: intervalo no flex e custo de troca", url: "/problemas/fiat/uno/vela-ignicao-fire/" }
   - { titulo: "Bucha da bandeja dianteira do Uno com folga: barulho, reparo e custo", url: "/problemas/fiat/uno/suspensao-dianteira-bucha/" }
+autor:
+  nome: "Redacao Hachiroku"
 draft: false
 ---
 

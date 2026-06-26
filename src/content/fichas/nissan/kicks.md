@@ -66,6 +66,8 @@ relacionados:
   - { titulo: "Problemas do Nissan Kicks", url: "/problemas/nissan/kicks/" }
   - { titulo: "Câmbio CVT do Nissan Kicks: sintomas, manutenção e o erro que custa caro", url: "/problemas/nissan/kicks/cambio-cvt/" }
   - { titulo: "Suspensão e coxins do Nissan Kicks: barulhos, desgaste e o que verificar", url: "/problemas/nissan/kicks/suspensao-coxins/" }
+autor:
+  nome: "Redacao Hachiroku"
 draft: false
 ---
 

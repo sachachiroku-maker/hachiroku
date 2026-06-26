@@ -56,6 +56,8 @@ faq:
     resposta: "O Territory 2022 apresenta consumo médio de 10,5 km/l na cidade e 13,8 km/l na estrada, rodando com gasolina. Os valores são estimados com base nos dados do Inmetro e nos testes da imprensa especializada brasileira."
 relacionados:
   - { titulo: "Problemas do Territory", url: "/problemas/ford/territory/" }
+autor:
+  nome: "Redacao Hachiroku"
 draft: false
 ---
 

@@ -66,6 +66,8 @@ relacionados:
   - { titulo: "Problemas do Renault Duster", url: "/problemas/renault/duster/" }
   - { titulo: "Câmbio CVT do Duster: trancos, falhas e o que verificar antes de comprar", url: "/problemas/renault/duster/cambio-cvt/" }
   - { titulo: "Amortecedores dianteiros do Duster vazando cedo: o que está acontecendo", url: "/problemas/renault/duster/amortecedores-dianteiros/" }
+autor:
+  nome: "Redacao Hachiroku"
 draft: false
 ---
 

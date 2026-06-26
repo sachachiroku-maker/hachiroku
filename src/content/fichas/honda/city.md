@@ -62,6 +62,8 @@ faq:
     resposta: "O City usa câmbio automático do tipo CVT, com 7 marchas simuladas e paddle shifts atrás do volante. Ele privilegia suavidade e consumo, mas costuma deixar o motor mais ruidoso em acelerações fortes, comportamento típico de CVT. É importante respeitar a troca do fluido do CVT no intervalo do manual: fluido vencido ou nível incorreto está entre as causas de ruído e desgaste na transmissão. Veja nosso diagnóstico do câmbio CVT do City."
 relacionados:
   - { titulo: "Problemas do Honda City", url: "/problemas/honda/city/" }
+autor:
+  nome: "Redacao Hachiroku"
 draft: false
 ---
 

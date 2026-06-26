@@ -71,6 +71,8 @@ faq:
 relacionados:
   - { titulo: "Consumo de óleo no motor 1.5 turbo do Civic", url: "/problemas/honda/civic/consumo-de-oleo-turbo/" }
   - { titulo: "CVT do Civic com solavanco", url: "/problemas/honda/civic/cambio-cvt-solavanco/" }
+autor:
+  nome: "Redacao Hachiroku"
 draft: false
 ---
 

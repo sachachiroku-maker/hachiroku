@@ -72,6 +72,8 @@ faq:
 relacionados:
   - { titulo: "DSG do Tiguan Allspace com solavanco no engate", url: "/problemas/volkswagen/tiguan/cambio-dsg-solavanco/" }
   - { titulo: "Sensor TPM do Tiguan com alertas falsos", url: "/problemas/volkswagen/tiguan/sensor-tpm-alertas-falsos/" }
+autor:
+  nome: "Redacao Hachiroku"
 draft: false
 ---
 

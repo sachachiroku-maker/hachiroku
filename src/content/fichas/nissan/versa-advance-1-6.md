@@ -66,6 +66,8 @@ relacionados:
   - { titulo: "CVT Xtronic do Versa com solavanco: diagnóstico e custo de flush", url: "/problemas/nissan/versa/cambio-cvt-solavanco/" }
   - { titulo: "Evaporador do ar-condicionado do Versa com cheiro e vazamento", url: "/problemas/nissan/versa/ar-condicionado-evaporador/" }
   - { titulo: "Ficha técnica do Nissan Kicks 1.6 CVT", url: "/ficha-tecnica/nissan/kicks/" }
+autor:
+  nome: "Redacao Hachiroku"
 draft: false
 ---
 

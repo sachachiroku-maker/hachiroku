@@ -64,6 +64,8 @@ faq:
 relacionados:
   - { titulo: "Consumo de óleo no Polo TSI: causas e diagnóstico", url: "/problemas/volkswagen/polo-tsi/consumo-de-oleo/" }
   - { titulo: "Guia de compra de carros usados", url: "/guia-de-compra/" }
+autor:
+  nome: "Redacao Hachiroku"
 draft: false
 ---
 

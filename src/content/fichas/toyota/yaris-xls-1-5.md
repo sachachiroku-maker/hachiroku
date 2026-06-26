@@ -68,6 +68,8 @@ relacionados:
   - { titulo: "CVT do Yaris com comportamento anormal: diagnóstico completo", url: "/problemas/toyota/yaris/cambio-cvt-anomalia/" }
   - { titulo: "Bateria do Yaris descarregando: causas e solução", url: "/problemas/toyota/yaris/bateria-fraca-descarrega/" }
   - { titulo: "Problemas do Toyota Corolla CVT", url: "/problemas/toyota/corolla/cambio-cvt/" }
+autor:
+  nome: "Redacao Hachiroku"
 draft: false
 ---
 

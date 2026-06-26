@@ -56,6 +56,8 @@ faq:
     resposta: "O MSI (Motor Sistemático de Injeção) é um motor aspirado com tecnologia consolidada, não a mais recente. Ele abre mão de turbo e injeção direta, mas entrega confiabilidade comprovada, manutenção acessível e peças amplamente disponíveis no Brasil, o que é um diferencial importante para uso profissional."
 relacionados:
   - { titulo: "Problemas da Saveiro", url: "/problemas/volkswagen/saveiro/" }
+autor:
+  nome: "Redacao Hachiroku"
 draft: false
 ---
 

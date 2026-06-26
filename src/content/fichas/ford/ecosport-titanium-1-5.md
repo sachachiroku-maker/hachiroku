@@ -68,6 +68,8 @@ relacionados:
   - { titulo: "Motor vibra no EcoSport 1.5 Dragon: normal ou problema?", url: "/problemas/ford/ecosport/motor-vibra-3-cilindros/" }
   - { titulo: "Barulho na suspensão dianteira do EcoSport", url: "/problemas/ford/ecosport/suspensao-dianteira-barulho/" }
   - { titulo: "Problemas do Ford Ka", url: "/problemas/ford/ka/" }
+autor:
+  nome: "Redacao Hachiroku"
 draft: false
 ---
 

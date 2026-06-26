@@ -62,6 +62,8 @@ faq:
     resposta: "O XEi 2.0 entrega mais cavalos de pico e um custo de compra menor, com a simplicidade de um motor a combustão. O Altis Hybrid entrega consumo muito menor na cidade e rodar mais suave, em troca de um preço mais alto e da bateria do sistema híbrido para cuidar a longo prazo. A escolha depende de quanto você roda e do orçamento."
 relacionados:
   - { titulo: "Problemas do Toyota Corolla", url: "/problemas/toyota/corolla/" }
+autor:
+  nome: "Redacao Hachiroku"
 draft: false
 ---
 

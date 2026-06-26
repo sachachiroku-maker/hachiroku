@@ -64,6 +64,8 @@ faq:
 relacionados:
   - { titulo: "Tranco no câmbio automatizado EGS6 do Citroën C3", url: "/problemas/citroen/c3/embreagem-automatizada-tranco/" }
   - { titulo: "Ar-condicionado do Citroën C3 com cheiro de mofo", url: "/problemas/citroen/c3/ar-condicionado-cheiro-fungo/" }
+autor:
+  nome: "Redacao Hachiroku"
 draft: false
 ---
 

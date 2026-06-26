@@ -71,6 +71,8 @@ faq:
 relacionados:
   - { titulo: "Barulho do motor Captur a frio", url: "/problemas/renault/captur/barulho-motor-a-frio/" }
   - { titulo: "Câmbio CVT do Captur com trancos", url: "/problemas/renault/captur/cambio-automatico-trancos/" }
+autor:
+  nome: "Redacao Hachiroku"
 draft: false
 ---
 

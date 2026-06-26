@@ -66,6 +66,8 @@ relacionados:
   - { titulo: "CVT do Honda City com solavanco: fluido HCF-2 e diagnóstico", url: "/problemas/honda/city/cambio-cvt-solavanco/" }
   - { titulo: "Ar-condicionado do City com cheiro de mofo: evaporador e solução", url: "/problemas/honda/city/ar-condicionado-evaporador-cheiro/" }
   - { titulo: "Ficha técnica do Honda HR-V EX 1.5 Turbo CVT", url: "/ficha-tecnica/honda/hr-v/" }
+autor:
+  nome: "Redacao Hachiroku"
 draft: false
 ---
 

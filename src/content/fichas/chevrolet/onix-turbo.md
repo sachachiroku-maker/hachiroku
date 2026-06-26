@@ -64,6 +64,8 @@ faq:
 relacionados:
   - { titulo: "Correia dentada do Onix turbo: quando trocar", url: "/problemas/chevrolet/onix/correia-dentada/" }
   - { titulo: "Problemas do Chevrolet Onix", url: "/problemas/chevrolet/onix/" }
+autor:
+  nome: "Redacao Hachiroku"
 draft: false
 ---
 

@@ -64,6 +64,8 @@ relacionados:
   - { titulo: "Problemas da Fiat Strada", url: "/problemas/fiat/strada/" }
   - { titulo: "Problemas da Fiat Strada", url: "/problemas/fiat/strada/" }
   - { titulo: "Barulho na suspensão da Strada", url: "/problemas/fiat/strada/barulho-suspensao-dianteira/" }
+autor:
+  nome: "Redacao Hachiroku"
 draft: false
 ---
 
