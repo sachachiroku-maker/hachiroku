@@ -5,6 +5,7 @@ import Photo from '../../../../components/ui/Photo.astro';
 import Badge from '../../../../components/ui/Badge.astro';
 import { fotoPorModelo } from '../../../../lib/fotos';
 import { modeloSameAs } from '../../../../lib/wikis';
+import { MODELO_DESCRICAO } from '../../../../lib/modelos-desc';
 
 // Gera um pilar (hub) para cada modelo que tem ao menos uma folha de problema.
 export async function getStaticPaths() {
@@ -42,6 +43,7 @@ const guias = await getCollection('guias', ({ data }) => !data.draft);
 const guia = guias.find((g) => g.data.marca && g.data.modelo &&
   `${g.data.marca}/${g.data.modelo}`.toLowerCase().replace(/\s+/g, '-') === `${marca}/${modelo}`);
 const capa = fotoPorModelo(nomeMarca, nomeModelo);
+const modeloDesc = MODELO_DESCRICAO[`${marca}/${modelo}`];
 
 const jsonld = {
   '@context': 'https://schema.org',
@@ -97,6 +99,7 @@ const jsonld = {
       <h1 class="article-title">Problemas do {nomeMarca} {nomeModelo}</h1>
     </header>
     <p class="lead">Os diagnósticos do {nomeMarca} {nomeModelo} por sintoma, do mais crítico ao mais comum. Cada um com causas, custo e como prevenir.</p>
+    {modeloDesc && <p class="modelo-contexto">{modeloDesc}</p>}
 
     <Photo label={`${nomeMarca} ${nomeModelo}`} h={240} src={capa} class="artigo-capa" priority />
 
