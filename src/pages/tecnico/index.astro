@@ -28,6 +28,16 @@ const jsonld = {
     <h1>Técnico</h1>
     <p class="tagline">Entenda seu carro por dentro</p>
   </section>
+  <section class="prose" style="max-width:var(--prose-width);margin-inline:auto;padding-block:0 var(--space-8)">
+    <p>
+      Entender como funciona o seu carro é o primeiro passo para identificar um problema antes que ele vire
+      um reparo caro. Esta seção reúne os guias técnicos que explicam, em linguagem de mecânico digital,
+      os principais sistemas e componentes dos carros mais vendidos no Brasil: câmbio automático, CVT, correia
+      de distribuição, freios, direção elétrica e muito mais. Cada guia conecta a teoria ao diagnóstico prático,
+      mostrando por que o componente falha, como ele falha e o que o mecânico faz para resolver.
+    </p>
+  </section>
+
   <section class="silos" aria-label="Guias técnicos disponíveis">
     {itens.map((i) => (<a class="silo-card" href={`/tecnico/${i.id}/`}><h2>{i.title}</h2><p>{i.description}</p></a>))}
   </section>

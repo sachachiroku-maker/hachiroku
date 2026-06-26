@@ -28,6 +28,16 @@ const jsonld = {
     <h1>Revisão</h1>
     <p class="tagline">O que trocar e quando</p>
   </section>
+  <section class="prose" style="max-width:var(--prose-width);margin-inline:auto;padding-block:0 var(--space-8)">
+    <p>
+      A revisão preventiva é a maneira mais eficiente de evitar reparos caros e imprevistos nas estradas. Cada
+      modelo tem um intervalo específico determinado pela fabricante, com itens diferentes a trocar em cada
+      quilometragem. Nestas tabelas você encontra o que verificar, o que substituir e uma estimativa de custo
+      para cada etapa, baseada nas especificações originais de cada veículo. Selecione o seu modelo e veja o
+      plano de revisão completo, da primeira revisão até os 100 mil quilômetros.
+    </p>
+  </section>
+
   <section class="silos" aria-label="Tabelas de revisão disponíveis">
     {itens.map((i) => (<a class="silo-card" href={`/revisao/${i.id}/`}><h2>{i.title}</h2><p>{i.marca} {i.modelo}{i.custoEstimado ? ` · R$ ${i.custoEstimado}` : ''}</p></a>))}
   </section>

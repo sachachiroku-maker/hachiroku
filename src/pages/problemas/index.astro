@@ -43,6 +43,17 @@ const jsonld = {
     <p class="tagline">Escolha o modelo e descubra a causa antes de ir à oficina</p>
   </section>
 
+  <section class="prose" style="max-width:var(--prose-width);margin-inline:auto;padding-block:0 var(--space-8)">
+    <p>
+      Barulho estranho na dianteira, luz de injeção acesa, consumo de óleo acima do esperado ou câmbio que
+      soluça no trânsito. Cada sintoma tem uma causa específica que varia de modelo para modelo, e conhecer
+      essa causa antes de chegar à oficina significa negociar melhor, não cair em cobranças desnecessárias
+      e tomar a decisão certa sobre fazer ou adiar o reparo. Selecione o seu modelo abaixo para acessar os
+      diagnósticos mapeados pela nossa equipe técnica, com a causa real, o custo médio do reparo e o nível
+      de urgência para cada defeito crônico.
+    </p>
+  </section>
+
   <section class="silos" aria-label="Modelos com diagnóstico">
     {lista.map((m) => (
       <a class="silo-card" href={`/problemas/${m.slug}/`}>

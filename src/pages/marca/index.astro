@@ -60,6 +60,16 @@ const jsonld = {
     <p class="tagline">Diagnósticos, fichas técnicas e guias por fabricante</p>
   </section>
 
+  <section class="prose" style="max-width:var(--prose-width);margin-inline:auto;padding-block:0 var(--space-8)">
+    <p>
+      Cada montadora tem sua identidade mecânica: os motores que usa, os câmbios que prefere e os pontos de atenção
+      que o mecânico aprende a conhecer depois de reparar centenas de veículos. Nesta seção você encontra o guia
+      técnico de cada fabricante presente no mercado brasileiro, com os defeitos crônicos mapeados por modelo,
+      fichas técnicas com especificações originais e, quando existir, o guia completo de compra do usado.
+      Selecione a fabricante e mergulhe nos diagnósticos que realmente acontecem nas oficinas.
+    </p>
+  </section>
+
   <section class="silos" aria-label="Marcas cobertas">
     {MARCAS.map((m) => {
       const n = contaPorMarca.get(m.slug) ?? 0;
