@@ -15,9 +15,11 @@
     "google-index": "node scripts/google-index.mjs"
   },
   "dependencies": {
+    "@astrojs/check": "^0.9.9",
     "@astrojs/rss": "4.0.18",
     "@astrojs/sitemap": "3.7.3",
-    "astro": "5.18.2"
+    "astro": "5.18.2",
+    "typescript": "^5.9.3"
   },
   "devDependencies": {
     "pagefind": "^1.5.2",

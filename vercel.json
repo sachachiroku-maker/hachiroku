@@ -5,6 +5,13 @@
   "outputDirectory": "dist",
   "trailingSlash": true,
   "cleanUrls": false,
+  "redirects": [
+    { "source": "/problemas/citro%C3%ABn/c3/:path*", "destination": "/problemas/citroen/c3/:path*", "permanent": true },
+    { "source": "/problemas/citro%C3%ABn/c4/:path*", "destination": "/problemas/citroen/c4/:path*", "permanent": true },
+    { "source": "/problemas/byd/song-plus-ev/:path*",             "destination": "/problemas/byd/song-plus/:path*",          "permanent": true },
+    { "source": "/problemas/mitsubishi/l200-triton-sport/:path*", "destination": "/problemas/mitsubishi/l200-triton/:path*", "permanent": true },
+    { "source": "/problemas/volvo/:path*",                        "destination": "/problemas/",                              "permanent": true }
+  ],
   "headers": [
     {
       "source": "/_astro/(.*)",

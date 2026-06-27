@@ -1,5 +1,5 @@
----
-title: "Motor 1.0 turbo: durabilidade real, pontos de falha e"
+﻿---
+title: "Motor 1.0 turbo: durabilidade real, pontos de falha e custos"
 description: "EA211 TSI, FireFly Turbo, T270 1.3 e GDI da Hyundai/Kia: vida útil real, pontos de falha conhecidos, custos de revisão e a verdade sobre o mito do motor pequeno turbo ser frágil."
 kicker: "TÉCNICO · APROFUNDADO"
 categoria: motor

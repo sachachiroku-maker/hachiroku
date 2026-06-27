@@ -1,5 +1,5 @@
 ﻿---
-title: "Revisão Chevrolet Onix Turbo: tabela por km, custos reais e"
+title: "Revisão Chevrolet Onix Turbo: tabela por km, custos reais e alertas"
 description: "Tabela completa de revisão do Chevrolet Onix 1.0 Turbo (2020-2026): intervalos de 10.000 a 80.000 km, óleo 0W-20 Dexos 1, correia dentada banhada a óleo, câmbio Hydra-Matic e o que não pode atrasar."
 kicker: "REVISÃO · TABELA KM"
 marca: "Chevrolet"

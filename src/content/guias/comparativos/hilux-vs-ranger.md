@@ -1,5 +1,5 @@
----
-title: "Toyota Hilux vs Ford Ranger: qual picape líder comprar em"
+﻿---
+title: "Toyota Hilux vs Ford Ranger: qual picape líder comprar em 2026"
 seoTitle: "Toyota Hilux vs Ford Ranger: qual picape líder"
 description: "Hilux e Ranger disputam o topo das picapes médias no Brasil. Comparamos motor, tecnologia, revenda, defeitos e preço para você decidir com dados reais."
 marca: "Comparativo"

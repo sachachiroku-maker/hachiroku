@@ -1,5 +1,5 @@
----
-title: "Scanner OBD2: Guia Completo de Como Usar, o Que Comprar e o"
+﻿---
+title: "Scanner OBD2: Guia Completo de Como Usar, o Que Comprar e o Que Fazer"
 seoTitle: "Scanner OBD2"
 description: "Aprenda a usar o scanner OBD2, entenda os códigos de falha e veja os 5 melhores aparelhos bluetooth para Android e iOS de R$50 a R$300."
 kicker: "MÃO NA MASSA"

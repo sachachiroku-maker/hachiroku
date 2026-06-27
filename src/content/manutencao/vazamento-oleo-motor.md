@@ -1,5 +1,5 @@
----
-title: "Vazamento de óleo no motor: como identificar de onde vem e"
+﻿---
+title: "Vazamento de óleo no motor: como identificar de onde vem e o que fazer"
 seoTitle: "Vazamento de óleo no motor: como identificar de"
 description: "Vazamento de óleo no motor pode custar de R$ 80 a R$ 1.200 dependendo da origem. Saiba identificar a fonte, a urgência e o custo médio de reparo."
 kicker: "DIAGNÓSTICO · MOTOR E LUBRIFICAÇÃO"

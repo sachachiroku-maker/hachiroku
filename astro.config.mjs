@@ -79,6 +79,14 @@ export default defineConfig({
       },
     },
   ],
+  redirects: {
+    // 404s identificadas em auditoria 2026-06-26
+    '/problemas/citro%C3%ABn/c3/':             { destination: '/problemas/citroen/c3/',              status: 301 },
+    '/problemas/citro%C3%ABn/c4/':             { destination: '/problemas/citroen/c4/',              status: 301 },
+    '/problemas/byd/song-plus-ev/':            { destination: '/problemas/byd/song-plus/',           status: 301 },
+    '/problemas/mitsubishi/l200-triton-sport/':{ destination: '/problemas/mitsubishi/l200-triton/',  status: 301 },
+    '/problemas/volvo/c40-recharge/':          { destination: '/problemas/',                         status: 301 },
+  },
   build: {
     inlineStylesheets: 'auto',
   },

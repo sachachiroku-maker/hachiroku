@@ -1,5 +1,5 @@
----
-title: "Revisão Hyundai HB20: tabela completa por km, custos e"
+﻿---
+title: "Revisão Hyundai HB20: tabela completa por km, custos e alertas"
 description: "Tabela de revisão do Hyundai HB20 (2019-2026) com intervalos de 10k a 80k km, itens por quilometragem, custo médio na concessionária Caoa Hyundai versus oficina independente, e alertas sobre câmbio CVT, superaquecimento e embreagem automática."
 kicker: "REVISÃO · TABELA KM"
 marca: "Hyundai"

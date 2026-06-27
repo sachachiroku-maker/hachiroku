@@ -1,5 +1,5 @@
----
-title: "Nissan Versa Usado Vale a Pena? Motor 1.0 e 1.6 + CVT em"
+﻿---
+title: "Nissan Versa Usado Vale a Pena? Motor 1.0 e 1.6 + CVT em detalhes"
 seoTitle: "Nissan Versa Usado Vale a Pena? Motor 1.0 e 1.6"
 description: "Nissan Versa usado vale a pena? Porta-malas de 510 litros, CVT com solavanco e evaporador com cheiro. Veja problemas reais antes de comprar."
 kicker: "GUIA DE COMPRA · DECISÃO"
