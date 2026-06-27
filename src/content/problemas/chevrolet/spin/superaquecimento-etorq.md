@@ -1,6 +1,5 @@
----
+﻿---
 title: "Superaquecimento Spin 1.8 Ecotec: termostato e radiador"
-seoTitle: "Superaquecimento Spin 1.8 Ecotec: termostato e"
 description: "O superaquecimento do motor 1.8 Ecotec da Chevrolet Spin é causado principalmente pela falha do termostato e pelo entupimento do radiador com fluido de arrefecimento degradado. Saiba identificar, diagnosticar e resolver antes de danificar o motor."
 entidade:
   marca: "Chevrolet"

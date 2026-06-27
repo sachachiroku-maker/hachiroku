@@ -1,6 +1,5 @@
----
+﻿---
 title: "Ar do Gol que para de soprar: capacitor do ventilador e"
-seoTitle: "Ar do Gol que para de soprar: capacitor do"
 description: "O ventilador interno do ar-condicionado do Volkswagen Gol que para de funcionar ou fica so em uma velocidade quase sempre tem problema no capacitor do motor blower ou no resistor de velocidades. Veja como diagnosticar e o custo do reparo."
 entidade:
   marca: "Volkswagen"

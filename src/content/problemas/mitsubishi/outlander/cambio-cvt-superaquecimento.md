@@ -1,6 +1,5 @@
----
+﻿---
 title: "CVT Outlander V6 Superaquece em Subidas e Reboque"
-seoTitle: "CVT Outlander V6 Superaquece em Subidas e"
 description: "O câmbio CVT do Mitsubishi Outlander V6 3.0 MIVEC entra em modo de proteção por superaquecimento em subidas longas e uso com reboque. Veja causas, diagnóstico e como resolver."
 entidade:
   marca: "Mitsubishi"

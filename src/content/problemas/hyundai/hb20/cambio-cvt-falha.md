@@ -1,6 +1,5 @@
----
+﻿---
 title: "Hyundai HB20: Falha no câmbio CVT — solavanco e perda de aceleração"
-seoTitle: "Hyundai HB20"
 description: "Tudo sobre Falha no câmbio CVT — solavanco e perda de aceleração no Hyundai HB20 --- diagnostico, causas, custos e como resolver. Guia pratico com informacoes verificadas."
 entidade:
   marca: "Hyundai"

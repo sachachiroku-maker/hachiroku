@@ -1,6 +1,5 @@
----
+﻿---
 title: "Chevrolet Onix: Coxim de motor gasto — vibração e batidas ao engatar"
-seoTitle: "Chevrolet Onix"
 description: "Tudo sobre Coxim de motor gasto — vibração e batidas ao engatar no Chevrolet Onix --- diagnostico, causas, custos e como resolver. Guia pratico com informacoes verificadas."
 entidade:
   marca: "Chevrolet"

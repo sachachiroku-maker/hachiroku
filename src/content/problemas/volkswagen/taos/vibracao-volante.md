@@ -1,6 +1,5 @@
----
+﻿---
 title: "Volkswagen Taos: Vibração no volante — causas e diagnóstico"
-seoTitle: "Volkswagen Taos"
 description: "Tudo sobre Vibração no volante — causas e diagnóstico no Volkswagen Taos --- diagnostico, causas, custos e como resolver. Guia pratico com informacoes verificadas."
 entidade:
   marca: "Volkswagen"

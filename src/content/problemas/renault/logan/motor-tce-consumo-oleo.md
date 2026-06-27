@@ -1,6 +1,5 @@
----
+﻿---
 title: "Consumo de óleo no Logan 1.0 TCe: causa e solução"
-seoTitle: "Consumo de óleo no Logan 1.0 TCe: causa e"
 description: "O motor 1.0 turbo TCe do Renault Logan consome óleo acima do normal após 60 mil km por desgaste dos anéis e retentores. Saiba identificar, medir e resolver o problema antes de evoluir para falha grave."
 entidade:
   marca: "Renault"

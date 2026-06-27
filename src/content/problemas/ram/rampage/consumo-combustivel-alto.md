@@ -1,6 +1,5 @@
----
+﻿---
 title: "Ram Rampage 1.3 T270: Consumo Alto de Combustível"
-seoTitle: "Ram Rampage 1.3 T270"
 pubDate: 2026-06-21
 updatedDate: 2026-06-21
 draft: false

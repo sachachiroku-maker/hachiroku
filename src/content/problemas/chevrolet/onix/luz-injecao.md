@@ -1,6 +1,5 @@
----
+﻿---
 title: "Luz de injeção acesa no Onix: causas e o que fazer"
-seoTitle: "Luz de injeção acesa no Onix: causas e o que"
 description: "Luz de injeção acesa no Chevrolet Onix, com engasgo ou marcha lenta irregular? As causas comuns são combustível ruim, velas, bobina, sonda lambda ou corpo de borboleta. Entenda fixa vs piscando, leia o código de erro com scanner OBD2 e saiba quando é seguro dirigir."
 entidade:
   marca: "Chevrolet"

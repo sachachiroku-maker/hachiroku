@@ -136,6 +136,7 @@ const guias = defineCollection({
     z.object({
       title: z.string(),
       seoTitle: z.string().optional(),
+      h1: z.string().optional(),
       description: z.string(),
       marca: z.string().optional(),
       modelo: z.string().optional(),
@@ -168,6 +169,7 @@ const manutencao = defineCollection({
     z.object({
       title: z.string(),
       seoTitle: z.string().optional(),
+      h1: z.string().optional(),
       description: z.string(),
       kicker: z.string().default('HOW-TO · MÃO NA MASSA'),
       veiculo: z.string().optional(),
@@ -195,6 +197,7 @@ const eletricos = defineCollection({
     z.object({
       title: z.string(),
       seoTitle: z.string().optional(),
+      h1: z.string().optional(),
       description: z.string(),
       entidade: z.object({ marca: z.string(), modelo: z.string(), tipo: z.string().default('Elétrico') }),
       kicker: z.string().default('VERTICAL EV · ALTA DEMANDA'),
@@ -221,6 +224,7 @@ const tecnico = defineCollection({
     z.object({
       title: z.string(),
       seoTitle: z.string().optional(),
+      h1: z.string().optional(),
       description: z.string(),
       kicker: z.string().default('TÉCNICO · APROFUNDADO'),
       categoria: z.enum(['motor', 'transmissao', 'eletrica', 'combustivel', 'suspensao', 'outro']).default('motor'),
@@ -241,6 +245,7 @@ const revisao = defineCollection({
     z.object({
       title: z.string(),
       seoTitle: z.string().optional(),
+      h1: z.string().optional(),
       description: z.string(),
       kicker: z.string().default('REVISÃO · TABELA KM'),
       marca: z.string(),

@@ -1,6 +1,5 @@
----
+﻿---
 title: "BYD Song Plus DM-i: Bateria de 12V Descarrega — Diagnóstico"
-seoTitle: "BYD Song Plus DM-i"
 description: "Bateria de 12V do BYD Song Plus DM-i descarrega? Entenda por que isso acontece em híbridos plug-in e como diagnosticar com multímetro. (156 chars)"
 entidade:
   marca: "BYD"

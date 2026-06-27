@@ -1,6 +1,5 @@
----
+﻿---
 title: "Fiat Mobi Motor Superaquecendo no Trânsito: o que fazer"
-seoTitle: "Fiat Mobi Motor Superaquecendo no Trânsito: o"
 description: "Fiat Mobi com temperatura subindo no trânsito parado? As causas são ventoinha elétrica, termostato, tampa do radiador e corrente de comando com folga. Veja diagnóstico passo a passo."
 entidade:
   marca: "Fiat"

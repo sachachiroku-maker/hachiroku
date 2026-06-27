@@ -1,6 +1,5 @@
----
+﻿---
 title: "Volkswagen Gol: Câmbio Getrag 085 — manutenção e problemas comuns"
-seoTitle: "Volkswagen Gol"
 description: "Tudo sobre Câmbio Getrag 085 — manutenção e problemas comuns no Volkswagen Gol --- diagnostico, causas, custos e como resolver. Guia pratico com informacoes verificadas."
 entidade:
   marca: "Volkswagen"

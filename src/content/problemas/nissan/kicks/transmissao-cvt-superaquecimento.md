@@ -1,6 +1,5 @@
----
+﻿---
 title: "CVT Xtronic do Kicks superaquece: causas e solução"
-seoTitle: "CVT Xtronic do Kicks superaquece: causas e"
 description: "O câmbio CVT Xtronic do Nissan Kicks 1.6 entra em modo de proteção e perde potência em subidas e uso intenso. Veja causas, sintomas e como agir antes do reparo caro."
 entidade:
   marca: "Nissan"

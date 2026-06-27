@@ -1,6 +1,5 @@
----
+﻿---
 title: "Toyota Corolla Cross: Freio de emergência elétrico com acionamento indevido"
-seoTitle: "Toyota Corolla Cross"
 description: "Tudo sobre Freio de emergência elétrico com acionamento indevido no Toyota Corolla Cross --- diagnostico, causas, custos e como resolver. Guia pratico com informacoes verificadas."
 entidade:
   marca: "Toyota"

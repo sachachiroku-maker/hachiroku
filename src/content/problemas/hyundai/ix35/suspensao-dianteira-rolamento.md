@@ -1,6 +1,5 @@
----
+﻿---
 title: "Rolamento de roda dianteira do Hyundai ix35 com barulho"
-seoTitle: "Rolamento de roda dianteira do Hyundai ix35 com"
 description: "O rolamento de cubo da roda dianteira do Hyundai ix35 é um item de desgaste frequente após 60.000 km. O ronco que aumenta em curvas é o sintoma principal. Saiba identificar qual lado está comprometido, o custo do reparo e como diferenciar do barulho dos pneus."
 entidade:
   marca: "Hyundai"

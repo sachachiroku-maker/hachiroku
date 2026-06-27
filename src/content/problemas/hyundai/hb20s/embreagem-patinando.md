@@ -1,6 +1,5 @@
----
+﻿---
 title: "Hyundai HB20S: Embreagem patinando — perda de tração ao acelerar"
-seoTitle: "Hyundai HB20S"
 description: "Tudo sobre Embreagem patinando — perda de tração ao acelerar no Hyundai HB20S --- diagnostico, causas, custos e como resolver. Guia pratico com informacoes verificadas."
 entidade:
   marca: "Hyundai"

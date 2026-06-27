@@ -1,6 +1,5 @@
----
+﻿---
 title: "BYD Song Plus: Autonomia real abaixo da estimada — causas e expectativas reais"
-seoTitle: "BYD Song Plus"
 description: "Tudo sobre Autonomia real abaixo da estimada — causas e expectativas reais no BYD Song Plus --- diagnostico, causas, custos e como resolver. Guia pratico com informacoes verificadas."
 entidade:
   marca: "BYD"

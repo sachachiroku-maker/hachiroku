@@ -1,6 +1,5 @@
----
+﻿---
 title: "Injetores diesel da Nissan Frontier YD25 com falha"
-seoTitle: "Injetores diesel da Nissan Frontier YD25 com"
 description: "Os injetores common rail do motor 2.5 YD25DDTi da Nissan Frontier podem falhar por entupimento ou desgaste, especialmente com diesel de baixa qualidade. Entenda os sintomas, como diagnosticar e o custo de limpeza ou troca."
 entidade:
   marca: "Nissan"

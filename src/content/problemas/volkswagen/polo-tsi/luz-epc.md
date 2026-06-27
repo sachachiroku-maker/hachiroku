@@ -1,6 +1,5 @@
----
+﻿---
 title: "Luz EPC acesa no Polo TSI: causas, perda de potência e o"
-seoTitle: "Luz EPC acesa no Polo TSI: causas, perda de"
 description: "Luz EPC acesa no Volkswagen Polo TSI, com perda de potência ou modo de emergência? As causas comuns são corpo de borboleta, sensor do pedal, bobina e até falha de outro sistema. Entenda o que é EPC, se é seguro dirigir, como diagnosticar com scanner OBD2 e a faixa de custo."
 entidade:
   marca: "Volkswagen"

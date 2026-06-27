@@ -1,6 +1,5 @@
----
+﻿---
 title: "Barulho e Rangido na Suspensão Traseira do Mitsubishi"
-seoTitle: "Barulho e Rangido na Suspensão Traseira do"
 description: "Outlander fazendo coaxo, traque ou rangido atrás? Veja as 5 causas mais comuns, custos de reparo e como diagnosticar cada uma delas."
 entidade:
   marca: "Mitsubishi"

@@ -1,6 +1,5 @@
----
+﻿---
 title: "Suzuki Jimny: Barulho na caixa de transferência — 4WD engajado"
-seoTitle: "Suzuki Jimny"
 description: "Tudo sobre Barulho na caixa de transferência — 4WD engajado no Suzuki Jimny --- diagnostico, causas, custos e como resolver. Guia pratico com informacoes verificadas."
 entidade:
   marca: "Suzuki"

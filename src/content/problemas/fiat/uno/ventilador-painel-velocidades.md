@@ -1,6 +1,5 @@
----
+﻿---
 title: "Fiat Uno: Ventilador do painel não funciona em todas as velocidades"
-seoTitle: "Fiat Uno: Ventilador do painel não funciona em"
 description: "Tudo sobre Ventilador do painel não funciona em todas as velocidades no Fiat Uno --- diagnostico, causas, custos e como resolver. Guia pratico com informacoes verificadas."
 entidade:
   marca: "Fiat"

@@ -1,6 +1,5 @@
----
+﻿---
 title: "Renault Duster: Câmbio Manual Dificultoso e Engates Duros"
-seoTitle: "Renault Duster"
 description: "Câmbio manual do Duster endurece e entra com dificuldade? Veja causas, diagnóstico passo a passo e como resolver o problema definitivamente."
 entidade:
   marca: "Renault"

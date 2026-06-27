@@ -1,6 +1,5 @@
----
+﻿---
 title: "Sensor de estacionamento do Corolla Cross com falha"
-seoTitle: "Sensor de estacionamento do Corolla Cross com"
 description: "O sensor de estacionamento e a câmera de ré do Toyota Corolla Cross podem apresentar falha intermitente com alerta em tela e beeps falsos. Saiba as causas, como diagnosticar, limpar conectores e quando substituir o sensor. Diagnóstico técnico verificado."
 entidade:
   marca: "Toyota"

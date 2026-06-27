@@ -1,6 +1,5 @@
----
+﻿---
 title: "Volkswagen Taos: Falha no ar-condicionado — refrigeração insuficiente"
-seoTitle: "Volkswagen Taos"
 description: "Tudo sobre Falha no ar-condicionado — refrigeração insuficiente no Volkswagen Taos --- diagnostico, causas, custos e como resolver. Guia pratico com informacoes verificadas."
 entidade:
   marca: "Volkswagen"

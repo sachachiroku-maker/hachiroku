@@ -1,6 +1,5 @@
----
+﻿---
 title: "Câmbio CVT do Honda HR-V: o fluido esquecido que destrói a"
-seoTitle: "Câmbio CVT do Honda HR-V: o fluido esquecido que"
 description: "O câmbio CVT do Honda HR-V é suave e econômico, mas a troca tardia do fluido Honda CVTF é o erro que mais derruba a transmissão. Veja os sintomas de trepidação e deslizamento, o intervalo correto de troca, por que a correia metálica desliza e por que o reparo pode passar de R$ 18 mil."
 entidade:
   marca: "Honda"

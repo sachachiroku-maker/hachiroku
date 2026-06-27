@@ -28,7 +28,7 @@ const meta = [
     <nav class="breadcrumb" aria-label="Você está em"><a href="/manutencao/">Manutenção</a> · <span>{data.veiculo ?? 'How-to'}</span></nav>
     <header>
       <p class="kicker">{data.kicker}</p>
-      <h1 class="article-title">{data.title}</h1>
+      <h1 class="article-title">{data.h1 ?? data.title}</h1>
       <div class="article-meta"><span>{data.autor.nome}</span><time datetime={(data.updatedDate ?? data.pubDate).toISOString().slice(0,10)}>Atualizado em {fmt(data.updatedDate ?? data.pubDate)}</time></div>
     </header>
     <p class="lead">{data.description}</p>

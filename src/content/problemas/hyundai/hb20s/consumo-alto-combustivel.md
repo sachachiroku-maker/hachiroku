@@ -1,6 +1,5 @@
----
+﻿---
 title: "Hyundai HB20S: Consumo alto de combustível acima do esperado"
-seoTitle: "Hyundai HB20S"
 description: "Tudo sobre Consumo alto de combustível acima do esperado no Hyundai HB20S --- diagnostico, causas, custos e como resolver. Guia pratico com informacoes verificadas."
 entidade:
   marca: "Hyundai"

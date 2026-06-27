@@ -1,6 +1,5 @@
----
+﻿---
 title: "Consumo de Óleo no Motor TCe 1.3 Turbo do Renault Captur"
-seoTitle: "Consumo de Óleo no Motor TCe 1.3 Turbo do"
 description: "Motor TCe 1.3 do Captur consome óleo em excesso? Entenda a causa dos anéis de pistão, o limite oficial Renault e o que fazer na garantia. (154 chars)"
 entidade:
   marca: "Renault"

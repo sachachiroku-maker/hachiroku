@@ -1,6 +1,5 @@
----
+﻿---
 title: "Chevrolet Onix: Consumo alto de combustível no câmbio automático"
-seoTitle: "Chevrolet Onix"
 description: "Tudo sobre Consumo alto de combustível no câmbio automático no Chevrolet Onix --- diagnostico, causas, custos e como resolver. Guia pratico com informacoes verificadas."
 entidade:
   marca: "Chevrolet"

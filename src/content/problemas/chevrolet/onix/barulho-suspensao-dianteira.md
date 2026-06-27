@@ -1,6 +1,5 @@
----
+﻿---
 title: "Chevrolet Onix: Barulho na suspensão dianteira — estalos e batidas"
-seoTitle: "Chevrolet Onix"
 description: "Tudo sobre Barulho na suspensão dianteira — estalos e batidas no Chevrolet Onix --- diagnostico, causas, custos e como resolver. Guia pratico com informacoes verificadas."
 entidade:
   marca: "Chevrolet"
