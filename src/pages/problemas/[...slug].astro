@@ -69,7 +69,7 @@ const marcaHub = getMarca(marcaSlug);
 
 const fmt = (d) => d.toLocaleDateString('pt-BR');
 ---
-<BaseLayout title={`${data.h1 ?? data.title} | Hachiroku`} description={data.description} canonical={url} type="article" image={fotoPorId(entry.id)} pubDate={data.pubDate} updatedDate={data.updatedDate} author={data.autor.nome}>
+<BaseLayout title={`${data.seoTitle ?? data.h1 ?? data.title} | Hachiroku`} description={data.description} canonical={url} type="article" image={fotoPorId(entry.id)} pubDate={data.pubDate} updatedDate={data.updatedDate} author={data.autor.nome}>
   <SchemaProblema data={data} url={url} breadcrumb={breadcrumb} entryId={entry.id} />
 
   <div class="article-layout">

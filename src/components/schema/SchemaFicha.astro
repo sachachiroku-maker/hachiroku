@@ -29,12 +29,13 @@ const graph: any[] = [
     })),
   },
   {
-    '@type': 'Product',
-    '@id': `${url}#product`,
-    name: nome,
-    category: data.carroceria ?? 'Automóvel',
-    brand: { '@type': 'Brand', name: data.marca },
+    '@type': 'TechArticle',
+    '@id': `${url}#article`,
+    headline: data.seoTitle ?? data.title,
     description: data.description,
+    proficiencyLevel: 'Expert',
+    inLanguage: 'pt-BR',
+    about: { '@id': `${url}#vehicle` },
     author: data.autor ? { '@type': 'Person', name: data.autor.nome, ...(data.autor.credencial ? { jobTitle: data.autor.credencial } : {}) } : { '@id': `${site}/#organization` },
     publisher: { '@id': `${site}/#organization` },
     datePublished: data.pubDate?.toISOString().slice(0, 10),
@@ -46,15 +47,6 @@ const graph: any[] = [
       width: 1200,
       height: 640,
     },
-    ...(data.potenciaCv || data.cilindrada
-      ? {
-          additionalProperty: [
-            ...(data.cilindrada ? [{ '@type': 'PropertyValue', name: 'Cilindrada', value: data.cilindrada }] : []),
-            ...(data.potenciaCv ? [{ '@type': 'PropertyValue', name: 'Potência', value: data.potenciaCv }] : []),
-          ],
-        }
-      : {}),
-    isRelatedTo: { '@id': `${url}#vehicle` },
     ...(data.faq?.length ? { hasPart: [{ '@id': `${url}#faq` }] } : {}),
   },
   {

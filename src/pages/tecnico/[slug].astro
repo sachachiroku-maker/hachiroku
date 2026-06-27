@@ -8,7 +8,7 @@ export async function getStaticPaths() {
 }
 const { entry } = Astro.props;
 const { Content } = await render(entry);
-const { title, description, kicker, autor, pubDate, updatedDate, faq, relacionados } = entry.data;
+const { title, seoTitle, description, kicker, autor, pubDate, updatedDate, faq, relacionados } = entry.data;
 
 const site = 'https://hachiroku.com.br';
 const url  = `${site}/tecnico/${entry.id}/`;
@@ -56,7 +56,7 @@ if (faq.length > 0) {
   });
 }
 ---
-<BaseLayout {title} {description} canonical={url} type="article" pubDate={pubDate} updatedDate={updatedDate} author={autor.nome}>
+<BaseLayout title={seoTitle ?? title} {description} canonical={url} type="article" pubDate={pubDate} updatedDate={updatedDate} author={autor.nome}>
   <script type="application/ld+json" set:html={JSON.stringify({ '@context': 'https://schema.org', '@graph': jsonld })} />
   <article class="prose">
     <nav class="breadcrumb" aria-label="Você está em">

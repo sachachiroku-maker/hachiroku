@@ -1,6 +1,6 @@
 ---
 title: "Câmbio DCT (Dupla Embreagem): como funciona e manutenção correta"
-seoTitle: "Câmbio DCT (Dupla Embreagem): como funciona e"
+seoTitle: "Câmbio DCT: como funciona e manutenção"
 description: "Como funciona o câmbio de dupla embreagem (DCT/DSG/PDK), por que dá trancos em velocidade baixa, quando ocorrem falhas e como manter. Guia técnico completo."
 kicker: "TÉCNICO · APROFUNDADO"
 categoria: transmissao

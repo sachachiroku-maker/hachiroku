@@ -1,5 +1,6 @@
 ﻿---
 title: "Honda Sensing com falha: câmera trava e alerta espúrio |"
+seoTitle: "Honda Civic: Honda Sensing com falha"
 description: "O Honda Sensing do Civic 11ª geração pode travar a câmera dianteira e disparar alertas de colisão sem obstáculo. Entenda a causa, como diagnosticar e o que fazer antes de levar à concessionária."
 entidade:
   marca: "Honda"

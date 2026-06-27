@@ -36,7 +36,7 @@ const jsonld = { '@context': 'https://schema.org', '@graph': [
     '@type': 'ListItem', position: i + 1, url: `${site}/problemas/${d.id}/`, name: d.data.title })) },
 ] };
 ---
-<BaseLayout title={`${sistema.titulo} | Hachiroku`} description={sistema.resumo} canonical={url} type="website">
+<BaseLayout title={`${sistema.seoTitle ?? sistema.titulo} | Hachiroku`} description={sistema.resumo} canonical={url} type="website">
   <script type="application/ld+json" set:html={JSON.stringify(jsonld)} />
   <article class="prose">
     <nav class="breadcrumb" aria-label="Você está em"><a href="/">Início</a> · <a href="/problemas/">Problemas</a> · <span>{sistema.nome}</span></nav>
