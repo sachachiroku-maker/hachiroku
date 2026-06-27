@@ -36,7 +36,7 @@ const fmt = (d) => d.toLocaleDateString('pt-BR');
       <p class="kicker">{data.kicker}</p>
       <h1 class="article-title">{data.h1 ?? data.title}</h1>
       <div class="article-meta">
-        <span>{data.autor.nome}{data.autor.credencial ? ` · ${data.autor.credencial}` : ''}</span>
+        <span itemprop="author" itemscope itemtype="https://schema.org/Person"><a href="/equipe/" itemprop="url"><span itemprop="name">{data.autor.nome}</span></a>{data.autor.credencial ? ` · ${data.autor.credencial}` : ''}</span>
         <time datetime={(data.updatedDate ?? data.pubDate).toISOString().slice(0,10)}>Atualizado em {fmt(data.updatedDate ?? data.pubDate)}</time>
       </div>
     </header>

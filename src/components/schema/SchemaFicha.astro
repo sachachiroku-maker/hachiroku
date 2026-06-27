@@ -36,7 +36,7 @@ const graph: any[] = [
     proficiencyLevel: 'Expert',
     inLanguage: 'pt-BR',
     about: { '@id': `${url}#vehicle` },
-    author: data.autor ? { '@type': 'Person', name: data.autor.nome, ...(data.autor.credencial ? { jobTitle: data.autor.credencial } : {}) } : { '@id': `${site}/#organization` },
+    author: data.autor ? { '@type': 'Person', name: data.autor.nome, url: data.autor.sameAs ?? `${site}/equipe/`, ...(data.autor.credencial ? { jobTitle: data.autor.credencial } : {}), ...(data.autor.sameAs ? { sameAs: data.autor.sameAs } : {}) } : { '@id': `${site}/#organization` },
     publisher: { '@id': `${site}/#organization` },
     datePublished: data.pubDate?.toISOString().slice(0, 10),
     dateModified: (data.updatedDate ?? data.pubDate)?.toISOString().slice(0, 10),

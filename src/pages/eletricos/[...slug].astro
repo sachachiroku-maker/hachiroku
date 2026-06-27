@@ -29,7 +29,7 @@ const fmt = (d) => d.toLocaleDateString('pt-BR');
     <header>
       <p class="kicker">{data.kicker}</p>
       <h1 class="article-title">{data.h1 ?? data.title}</h1>
-      <div class="article-meta"><span>{data.autor.nome}</span><time datetime={(data.updatedDate ?? data.pubDate).toISOString().slice(0,10)}>Atualizado em {fmt(data.updatedDate ?? data.pubDate)}</time></div>
+      <div class="article-meta"><span itemprop="author" itemscope itemtype="https://schema.org/Person"><a href="/equipe/" itemprop="url"><span itemprop="name">{data.autor.nome}</span></a></span><time datetime={(data.updatedDate ?? data.pubDate).toISOString().slice(0,10)}>Atualizado em {fmt(data.updatedDate ?? data.pubDate)}</time></div>
     </header>
     <p class="lead">{data.description}</p>
     <Photo label={`${data.entidade.marca} ${data.entidade.modelo}`} h={260} src={fotoPorId(entry.id, 'eletricos')} class="artigo-capa" priority />

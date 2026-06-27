@@ -35,6 +35,7 @@ const jsonld: Record<string, unknown>[] = [
     author: {
       '@type': 'Person',
       name: autor.nome,
+      url: autor.sameAs ?? `${site}/equipe/`,
       ...(autor.credencial && { jobTitle: autor.credencial }),
       ...(autor.sameAs     && { sameAs: autor.sameAs }),
     },
