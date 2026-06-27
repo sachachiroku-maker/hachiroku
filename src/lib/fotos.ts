@@ -73,7 +73,11 @@ const MODELO: Record<string, string> = {
   'hyundai/hb20s': 'hb20s',
   'chevrolet/cruze': 'cruze',
   'ford/territory': 'territory',
-  'byd/song-plus': 'song-plus',
+  'byd/song-plus': 'byd-song-plus',
+  'byd/song-plus-ev-bateria-autonomia': 'byd-song-plus',
+  'byd/seal': 'byd-seal',
+  'byd-seal-brasil': 'byd-seal',
+  'byd-dolphin': 'byd-dolphin',
   'jeep/wrangler': 'wrangler',
   // Onda 7 — 2026-06-20
   'gwm/haval-h6': 'haval-h6',

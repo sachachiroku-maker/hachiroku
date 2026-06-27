@@ -32,7 +32,10 @@ const fmt = (d) => d.toLocaleDateString('pt-BR');
       <div class="article-meta"><span itemprop="author" itemscope itemtype="https://schema.org/Person"><a href="/equipe/" itemprop="url"><span itemprop="name">{data.autor.nome}</span></a></span><time datetime={(data.updatedDate ?? data.pubDate).toISOString().slice(0,10)}>Atualizado em {fmt(data.updatedDate ?? data.pubDate)}</time></div>
     </header>
     <p class="lead">{data.description}</p>
-    <Photo label={`${data.entidade.marca} ${data.entidade.modelo}`} h={260} src={fotoPorId(entry.id, 'eletricos')} class="artigo-capa" priority />
+    <Photo label={`${data.entidade.marca} ${data.entidade.modelo}`} h={260} src={fotoPorId(entry.id, 'eletricos')} class="artigo-capa" priority
+      alt={['Geral', 'Genérico', 'Generico', 'Comparativo'].includes(data.entidade.marca)
+        ? 'Carros elétricos — ilustração do Hachiroku'
+        : `${data.entidade.marca} ${data.entidade.modelo}, ${data.entidade.tipo ?? 'carro elétrico'} — foto do veículo`} />
     <Toc headings={headings} />
     <Content />
     {data.afiliados.length > 0 && (<section aria-label="Recomendados">{data.afiliados.map((a) => (<Afiliado produto={a.produto} nota={a.nota} busca={a.busca} programa={a.programa} cta={a.cta} />))}</section>)}

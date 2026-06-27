@@ -11,8 +11,10 @@ interface Props {
   src?: string;       // se houver foto real, usa a imagem
   class?: string;
   priority?: boolean; // LCP candidate — eager + fetchpriority=high
+  alt?: string;       // texto alternativo descritivo (acessibilidade); cai para o label
 }
-const { label, h = 240, dark = true, src, class: cls = '', priority = false } = Astro.props;
+const { label, h = 240, dark = true, src, class: cls = '', priority = false, alt } = Astro.props;
+const textoAlt = alt ?? label;
 
 // Ticks do tacômetro (270°). Os últimos viram redline.
 const ticks = Array.from({ length: 13 }, (_, i) => {
@@ -24,7 +26,7 @@ const ticks = Array.from({ length: 13 }, (_, i) => {
   <div class={`photo ${dark ? 'photo-dark' : 'photo-light'} ${cls}`} style={`height:${h}px`}>
     <span class="photo-bar" aria-hidden="true"></span>
     <span class="photo-chamfer" aria-hidden="true"></span>
-    <img src={src} alt={label} width="1200" height="640" loading={priority ? 'eager' : 'lazy'} fetchpriority={priority ? 'high' : undefined} decoding="async" />
+    <img src={src} alt={textoAlt} title={textoAlt} width="1200" height="640" loading={priority ? 'eager' : 'lazy'} fetchpriority={priority ? 'high' : undefined} decoding="async" />
   </div>
 ) : (
   <div class={`photo photo-gauge ${dark ? 'photo-dark' : 'photo-light'} ${cls}`} style={`height:${h}px`} role="img" aria-label={`Ilustração: ${label}`}>
