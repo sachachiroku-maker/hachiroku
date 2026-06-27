@@ -43,6 +43,7 @@ export const MODELO_SAME_AS: Record<string, string> = {
   'toyota/corolla-cross': 'https://pt.wikipedia.org/wiki/Toyota_Corolla_Cross',
   'hyundai/tucson': 'https://pt.wikipedia.org/wiki/Hyundai_Tucson',
   'volkswagen/tiguan': 'https://pt.wikipedia.org/wiki/Volkswagen_Tiguan',
+  'volkswagen/tiguan-allspace': 'https://pt.wikipedia.org/wiki/Volkswagen_Tiguan',
   'renault/oroch': 'https://pt.wikipedia.org/wiki/Renault_Duster_Oroch',
   'peugeot/208': 'https://pt.wikipedia.org/wiki/Peugeot_208',
   'peugeot/2008': 'https://pt.wikipedia.org/wiki/Peugeot_2008',

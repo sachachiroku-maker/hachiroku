@@ -42,6 +42,7 @@ const MODELO: Record<string, string> = {
   'toyota/corolla-cross': 'corolla-cross',
   'hyundai/tucson': 'tucson',
   'volkswagen/tiguan': 'tiguan',
+  'volkswagen/tiguan-allspace': 'tiguan',
   'renault/oroch': 'oroch',
   'peugeot/208': 'peugeot-208',
   'peugeot/2008': 'peugeot-2008',

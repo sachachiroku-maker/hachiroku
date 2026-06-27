@@ -10,7 +10,10 @@
     { "source": "/problemas/citro%C3%ABn/c4/:path*", "destination": "/problemas/citroen/c4/:path*", "permanent": true },
     { "source": "/problemas/byd/song-plus-ev/:path*",             "destination": "/problemas/byd/song-plus/:path*",          "permanent": true },
     { "source": "/problemas/mitsubishi/l200-triton-sport/:path*", "destination": "/problemas/mitsubishi/l200-triton/:path*", "permanent": true },
-    { "source": "/problemas/volvo/:path*",                        "destination": "/problemas/",                              "permanent": true }
+    { "source": "/problemas/volvo/:path*",                        "destination": "/problemas/",                              "permanent": true },
+    { "source": "/problemas/honda/hrv/:path*",                    "destination": "/problemas/honda/hr-v/:path*",              "permanent": true },
+    { "source": "/problemas/volkswagen/tiguan/:path*",            "destination": "/problemas/volkswagen/tiguan-allspace/:path*", "permanent": true },
+    { "source": "/problemas/honda/civic/sistema-el%C3%A9trico-falha/:path*", "destination": "/problemas/honda/civic/sistema-eletrico-falha/", "permanent": true }
   ],
   "headers": [
     {
