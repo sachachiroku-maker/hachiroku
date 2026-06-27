@@ -1,6 +1,5 @@
----
+﻿---
 title: "Calibragem de pneus: como fazer certo, onde achar a pressão"
-seoTitle: "Calibragem de pneus: como fazer certo, onde"
 description: "Guia prático de calibragem de pneus: onde achar a pressão correta na etiqueta da porta, por que calibrar a frio, o impacto no consumo e na segurança, e cada quanto tempo verificar. Válido para qualquer carro."
 kicker: "HOW-TO · 5 MINUTOS"
 veiculo: "Qualquer carro"

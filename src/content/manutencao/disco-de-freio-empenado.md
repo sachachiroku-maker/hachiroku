@@ -1,6 +1,5 @@
----
+﻿---
 title: "Disco de Freio Empenado: sintomas, causas e o que fazer"
-seoTitle: "Disco de Freio Empenado: sintomas, causas e o"
 description: "Como identificar disco de freio empenado, por que empena, quanto custa substituir e quando vale reformar. Sintomas típicos no volante e no pedal de freio."
 kicker: "HOW-TO · FREIOS"
 tempo: "Leitura: 8 minutos"

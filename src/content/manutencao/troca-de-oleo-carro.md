@@ -1,6 +1,5 @@
----
+﻿---
 title: "Troca de óleo carro: guia completo do zero para quem nunca"
-seoTitle: "Troca de óleo carro: guia completo do zero para"
 description: "Troca de óleo carro: entenda qual óleo comprar, a viscosidade certa (5W-30, 5W-40, 0W-20), onde trocar e quanto custa. Erros que destroem o motor revelados."
 kicker: "MANUTENÇÃO · GUIA LEIGO"
 dificuldade: "Fácil"

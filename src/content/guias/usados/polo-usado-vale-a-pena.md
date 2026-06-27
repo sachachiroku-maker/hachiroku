@@ -1,6 +1,5 @@
----
+﻿---
 title: "VW Polo usado vale a pena? O que verificar no Polo TSI"
-seoTitle: "VW Polo usado vale a pena? O que verificar no"
 description: "O Volkswagen Polo da geração atual (2018 em diante, plataforma MQB) é um dos hatches mais desejados do mercado de usados. Mas cada motor pede uma inspeção diferente: 1.0 MPI, 200 TSI ou 1.4 TSI. Veja o checklist completo, os defeitos crônicos a checar e o que dá para negociar."
 marca: "Volkswagen"
 modelo: "Polo TSI"

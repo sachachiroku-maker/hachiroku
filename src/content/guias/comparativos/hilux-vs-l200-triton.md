@@ -1,6 +1,5 @@
----
+﻿---
 title: "Toyota Hilux vs. Mitsubishi L200 Triton: qual picape vale mais em 2026?"
-seoTitle: "Toyota Hilux vs. Mitsubishi L200 Triton: qual"
 description: "Comparativo completo Hilux vs. L200 Triton Sport: capacidade de carga, motores diesel, tração 4x4, custo de manutenção e confiabilidade para uso pesado."
 kicker: "COMPARATIVO · PICAPES MÉDIAS"
 veredito: "Hilux vence em confiabilidade comprovada e revenda. L200 Triton vence em tecnologia de tração e custo inicial."

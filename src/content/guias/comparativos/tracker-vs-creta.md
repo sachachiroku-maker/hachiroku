@@ -1,6 +1,5 @@
 ﻿---
 title: "Tracker vs Creta: qual SUV compacto turbo comprar (e para quem)"
-seoTitle: "Tracker vs Creta: qual SUV compacto turbo"
 description: "Chevrolet Tracker e Hyundai Creta disputam o mesmo comprador, mas têm personalidades opostas embaixo da lataria. Comparamos os motores 1.0 turbo, consumo, espaço, os defeitos crônicos de cada um e mostramos para qual perfil cada SUV faz mais sentido."
 marca: "Comparativo"
 modelo: "Tracker vs Creta"

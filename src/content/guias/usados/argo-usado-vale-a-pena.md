@@ -1,6 +1,5 @@
 ﻿---
 title: "Fiat Argo usado vale a pena? O que verificar antes de comprar"
-seoTitle: "Fiat Argo usado vale a pena? O que verificar"
 description: "O Fiat Argo usado é um dos hatches mais racionais do Brasil, mas o que você inspeciona muda conforme o motor: Firefly 1.0, Firefly 1.3 ou E.torQ 1.8 do HGT. Veja o checklist completo, os defeitos crônicos de cada versão e como negociar."
 marca: "Fiat"
 modelo: "Argo"

@@ -1,6 +1,5 @@
----
+﻿---
 title: "Vale a Pena Comprar Carro Elétrico no Brasil? A resposta honesta"
-seoTitle: "Vale a Pena Comprar Carro Elétrico no Brasil? A"
 description: "Vale a pena comprar carro elétrico no Brasil em 2026? Custo real de propriedade, infraestrutura de recarga, vantagens e limitações reais — análise honesta sem hype."
 entidade:
   marca: "Geral"

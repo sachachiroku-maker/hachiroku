@@ -1,6 +1,5 @@
 ﻿---
 title: "Chevrolet Bolt EV: o elétrico acessível da GM no Brasil com análise"
-seoTitle: "Chevrolet Bolt EV: o elétrico acessível da GM no"
 description: "Análise completa do Chevrolet Bolt EV no Brasil: motor 204 cv, bateria 65 kWh, autonomia real de até 430 km e rede GM nacional. Vale a pena em 2026?"
 entidade:
   marca: "Chevrolet"

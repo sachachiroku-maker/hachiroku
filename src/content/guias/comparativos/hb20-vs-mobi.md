@@ -1,6 +1,5 @@
----
+﻿---
 title: "HB20 vs Mobi 2024: qual popular de entrada vale mais a pena"
-seoTitle: "HB20 vs Mobi 2024: qual popular de entrada vale"
 description: "Comparativo técnico entre Hyundai HB20 e Fiat Mobi 2024: segurança, desempenho, custo e veredicto claro para quem busca o melhor popular."
 marca: "Comparativo"
 modelo: "HB20 vs Mobi"

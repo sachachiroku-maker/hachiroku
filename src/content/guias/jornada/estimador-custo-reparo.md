@@ -1,6 +1,5 @@
----
+﻿---
 title: "Estimador de Custo de Reparo: Quanto Vai Custar Consertar"
-seoTitle: "Estimador de Custo de Reparo"
 description: "Guia completo com tabela de preços médios por tipo de reparo automotivo no Brasil 2025/2026, fatores que influenciam o valor e como não ser enganado no orçamento."
 pubDate: 2026-06-20
 autor:

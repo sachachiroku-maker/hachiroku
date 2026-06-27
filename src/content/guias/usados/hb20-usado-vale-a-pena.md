@@ -1,6 +1,5 @@
----
+﻿---
 title: "HB20 usado vale a pena? O que verificar antes de comprar"
-seoTitle: "HB20 usado vale a pena? O que verificar antes de"
 description: "O Hyundai HB20 usado tem fama de bem-acabado e de motor durável, mas o que inspecionar muda entre a 1ª e a 2ª geração. Veja o checklist completo, os defeitos crônicos de cada fase, as faixas de ano que valem a pena e o que dá para negociar."
 marca: "Hyundai"
 modelo: "HB20"

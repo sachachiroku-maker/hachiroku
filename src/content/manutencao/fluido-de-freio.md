@@ -1,6 +1,5 @@
 ﻿---
 title: "Fluido de freio carro: DOT 3, DOT 4 e DOT 5.1 — qual usar e trocar"
-seoTitle: "Fluido de freio carro"
 description: "Fluido de freio carro: saiba a diferença entre DOT 3, DOT 4 e DOT 5.1, por que o fluido absorve umidade e quando trocar para não perder a frenagem."
 kicker: "SEGURANÇA · FREIOS"
 tempo: "30 a 60 minutos"

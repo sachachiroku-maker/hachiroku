@@ -1,6 +1,5 @@
----
+﻿---
 title: "Como Checar e Trocar a Correia Auxiliar (Serpentina)"
-seoTitle: "Como Checar e Trocar a Correia Auxiliar"
 description: "Aprenda a verificar e trocar a correia auxiliar do seu carro com segurança. Guia completo com ferramentas, custos e sinais de desgaste. (150 chars)"
 kicker: "MÃO NA MASSA"
 veiculo: "universal"

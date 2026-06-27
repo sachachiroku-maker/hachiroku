@@ -1,6 +1,5 @@
----
+﻿---
 title: "Filtro de óleo quando trocar: o guia completo para não errar"
-seoTitle: "Filtro de óleo quando trocar: o guia completo"
 description: "Filtro de óleo quando trocar: intervalo certo é a cada 10.000-15.000 km. Saiba sinais de entupimento, consequências e marcas recomendadas no Brasil."
 kicker: "HOW-TO · MÃO NA MASSA"
 veiculo: "Carros nacionais populares — Onix, HB20, Polo, Argo"

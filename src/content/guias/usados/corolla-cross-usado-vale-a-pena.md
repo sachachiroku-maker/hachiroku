@@ -1,6 +1,5 @@
 ﻿---
 title: "Toyota Corolla Cross usado vale a pena? Guia completo por versão"
-seoTitle: "Toyota Corolla Cross usado vale a pena? Guia"
 description: "Corolla Cross usado vale a pena, mas versão Hybrid e Flex pedem inspeções distintas. Confira defeitos, checklist de compra e quando evitar o CVT."
 marca: "Toyota"
 modelo: "Corolla Cross"

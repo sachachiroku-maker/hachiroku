@@ -1,6 +1,5 @@
----
+﻿---
 title: "Como limpar bicos injetores: químico vs ultrassônico (e"
-seoTitle: "Como limpar bicos injetores: químico vs"
 description: "Como limpar bicos injetores custa entre R$ 30 e R$ 250 dependendo do método. Entenda química vs ultrassônica, sintomas e periodicidade certa."
 kicker: "HOW-TO · INJEÇÃO ELETRÔNICA"
 tempo: "1 a 3 horas (ultrassônica em oficina)"

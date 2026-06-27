@@ -1,6 +1,5 @@
----
+﻿---
 title: "Como Checar o Fluido de Arrefecimento do Radiador em 5"
-seoTitle: "Como Checar o Fluido de Arrefecimento do"
 description: "Como checar fluido de arrefecimento: veja nível, cor e intervalo de troca (40.000 km). Ignorar esse check causa superaquecimento e junta de cabeçote estourada."
 kicker: "HOW-TO · MÃO NA MASSA"
 veiculo: "Todos os carros a gasolina, flex ou diesel com radiador"

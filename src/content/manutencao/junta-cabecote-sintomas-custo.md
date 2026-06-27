@@ -1,6 +1,5 @@
----
+﻿---
 title: "Junta do Cabeçote: Sintomas, Diagnóstico e Custo de Reparo"
-seoTitle: "Junta do Cabeçote"
 description: "Tudo sobre junta do cabeçote — sintomas de defeito, como diagnosticar, custo de reparo e o que acontece se ignorar. Guia completo com informações verificadas."
 kicker: "MANUTENÇÃO · MOTOR"
 pontosChave:

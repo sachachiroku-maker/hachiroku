@@ -1,6 +1,5 @@
 ﻿---
 title: "Toyota Hilux usada vale a pena? Guia por geração e o que verificar"
-seoTitle: "Toyota Hilux usada vale a pena? Guia por geração"
 description: "Hilux usada tem boa durabilidade e revenda alta, mas exige inspeção criteriosa: turbo, suspensão e procedência de fazenda definem se o negócio é bom ou uma enrascada."
 marca: "Toyota"
 modelo: "Hilux"

@@ -1,6 +1,5 @@
----
+﻿---
 title: "Câmbio CVT revisão: o guia completo de manutenção e fluido"
-seoTitle: "Câmbio CVT revisão: o guia completo de"
 description: "Câmbio CVT revisão com intervalo correto de troca do fluido, custo médio e sinais de problema. Saiba tudo sobre manutenção do CVT do seu Kicks, March ou Corolla Cross."
 kicker: "MANUTENÇÃO · CÂMBIO E TRANSMISSÃO"
 veiculo: "Nissan Kicks, Nissan March, Toyota Corolla Cross, Nissan Frontier"

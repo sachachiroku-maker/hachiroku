@@ -1,6 +1,5 @@
----
+﻿---
 title: "Pastilha de freio desgastada: 5 sinais que seu carro está"
-seoTitle: "Pastilha de freio desgastada: 5 sinais que seu"
 description: "Pastilha de freio desgastada mata o freio antes dos 40.000 km. Descubra os 5 sinais, como medir com paquímetro e o custo médio de troca em 2026."
 kicker: "HOW-TO · FREIOS"
 veiculo: "Carros nacionais populares — Onix, HB20, Polo, Argo"

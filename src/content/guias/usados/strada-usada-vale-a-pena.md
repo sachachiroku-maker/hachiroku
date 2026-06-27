@@ -1,6 +1,5 @@
----
+﻿---
 title: "Fiat Strada Usada: Vale a Pena? Guia Completo por Geração"
-seoTitle: "Fiat Strada Usada"
 description: "Tudo sobre a Fiat Strada usada: gerações, defeitos crônicos, o que checar na embreagem e suspensão e quando o negócio vale ou não vale."
 marca: "Fiat"
 modelo: "Strada"

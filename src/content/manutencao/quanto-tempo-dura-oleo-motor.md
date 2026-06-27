@@ -1,6 +1,5 @@
----
+﻿---
 title: "Quanto Tempo Dura o Óleo do Motor? A resposta real por tipo de uso"
-seoTitle: "Quanto Tempo Dura o Óleo do Motor? A resposta"
 description: "O óleo do motor dura quanto tempo? Resposta direta por tipo de óleo, uso do veículo e combustível. Quando o prazo importa mais que os km, e como saber se o óleo ainda está bom."
 kicker: "HOW-TO · MANUTENÇÃO"
 tempo: "Leitura: 8 minutos"

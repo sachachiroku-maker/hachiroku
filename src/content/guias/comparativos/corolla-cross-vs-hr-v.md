@@ -1,6 +1,5 @@
----
+﻿---
 title: "Toyota Corolla Cross vs. Honda HR-V: qual SUV compacto vale mais em 2026?"
-seoTitle: "Toyota Corolla Cross vs. Honda HR-V: qual SUV"
 description: "Corolla Cross ou HR-V? Comparativo completo de motor, câmbio, consumo, interior e custo de manutenção para quem está decidindo entre os dois SUVs compactos premium."
 kicker: "COMPARATIVO · SUVs COMPACTOS PREMIUM"
 veredito: "Corolla Cross vence em espaço e eficiência. HR-V vence em dinâmica de condução e espaço traseiro configurável."

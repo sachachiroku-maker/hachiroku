@@ -1,6 +1,5 @@
----
+﻿---
 title: "Como limpar parabrisa por dentro sem riscos ou embaçamento"
-seoTitle: "Como limpar parabrisa por dentro sem riscos ou"
 description: "Como limpar parabrisa por dentro em 5 passos: álcool isopropílico, microfibra e técnica correta eliminam 100% do embaçamento. Guia completo do mecânico."
 kicker: "HOW-TO · MÃO NA MASSA"
 veiculo: "Carros nacionais populares — Onix, HB20, Polo, Argo"

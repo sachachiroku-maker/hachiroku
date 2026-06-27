@@ -1,6 +1,5 @@
----
+﻿---
 title: "Óleo Motor Turbo: Como Escolher o Certo para o Seu Carro"
-seoTitle: "Óleo Motor Turbo"
 description: "Guia completo para escolher o óleo certo para motores turbo — viscosidade, API, ACEA, intervalos de troca e o que nunca fazer com motor turbinado."
 kicker: "MANUTENÇÃO · MOTOR TURBO"
 pontosChave:

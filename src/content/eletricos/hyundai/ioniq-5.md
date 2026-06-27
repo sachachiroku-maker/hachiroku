@@ -1,6 +1,5 @@
----
+﻿---
 title: "Hyundai Ioniq 5: autonomia real, consumo e especificações no Brasil"
-seoTitle: "Hyundai Ioniq 5: autonomia real, consumo e"
 description: "Conheça o Hyundai Ioniq 5 no Brasil: bateria 77,4 kWh, autonomia WLTP 454 km, carga de 220 kW e motor dual AWD 325 cv. Dados verificados e autonomia real esperada."
 entidade:
   marca: "Hyundai"

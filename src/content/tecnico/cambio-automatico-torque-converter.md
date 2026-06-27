@@ -1,6 +1,5 @@
----
+﻿---
 title: "Câmbio Automático com Torque Converter: como funciona e como manter"
-seoTitle: "Câmbio Torque Converter: como funciona"
 description: "Como funciona o câmbio automático com conversor de torque, por que precisa de manutenção específica, quando o ATF deve ser trocado e diferenças para CVT e DCT."
 kicker: "TÉCNICO · APROFUNDADO"
 categoria: transmissao

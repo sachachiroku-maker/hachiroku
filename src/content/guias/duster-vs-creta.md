@@ -1,6 +1,5 @@
----
+﻿---
 title: "Renault Duster vs Hyundai Creta: Qual SUV Vale Mais em 2026?"
-seoTitle: "Renault Duster vs Hyundai Creta"
 description: "Duster ou Creta em 2026? Compare preço, motor, câmbio, tração 4x4, consumo e manutenção. Veredito por perfil de uso para decidir agora."
 kicker: "GUIA DE COMPRA · DECISÃO"
 veredito: "Depende: Duster para quem precisa de 4x4 e custo baixo; Creta para quem prioriza acabamento e tecnologia de bordo."

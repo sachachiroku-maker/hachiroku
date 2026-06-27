@@ -1,6 +1,5 @@
----
+﻿---
 title: "Jeep Compass usado vale a pena? O que checar no câmbio 9AT"
-seoTitle: "Jeep Compass usado vale a pena? O que checar no"
 description: "Guia técnico do Jeep Compass usado: defeitos crônicos do câmbio 9AT, consumo de óleo no 1.3 turbo, checklist de inspeção e quando vale ou não a compra."
 marca: "Jeep"
 modelo: "Compass"

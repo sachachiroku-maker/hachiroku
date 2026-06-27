@@ -1,6 +1,5 @@
----
+﻿---
 title: "Fiat Argo vs Hyundai HB20: Qual Popular Moderno Dura Mais"
-seoTitle: "Fiat Argo vs Hyundai HB20"
 description: "Comparativo completo entre Fiat Argo e Hyundai HB20: motor, câmbio, confiabilidade, custo e veredito definitivo para quem vai comprar em 2025."
 marca: "Comparativo"
 modelo: "Argo vs HB20"

@@ -1,6 +1,5 @@
----
+﻿---
 title: "Melhor Óleo para Motor Flex: qual viscosidade e marca escolher"
-seoTitle: "Melhor Óleo para Motor Flex: qual viscosidade e"
 description: "Qual o melhor óleo para motor flex do Onix, HB20, Argo, Polo e outros carros populares? Viscosidade certa, classificação API/ACEA, e por que o etanol muda o que você deve usar."
 kicker: "MANUTENÇÃO · GUIA TÉCNICO"
 tempo: "Leitura: 10 minutos"

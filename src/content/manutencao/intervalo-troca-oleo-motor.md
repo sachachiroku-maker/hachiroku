@@ -1,6 +1,5 @@
----
+﻿---
 title: "Intervalo troca oleo: mineral, semissintético e sintético —"
-seoTitle: "Intervalo troca oleo: mineral, semissintético e"
 description: "Intervalo troca oleo correto: mineral a cada 5.000 km, semissintético 7.500 km, sintético até 15.000 km. Tabela por modelo popular + dicas de uso urbano."
 kicker: "MANUTENÇÃO · GUIA PRÁTICO"
 veiculo: "Carros nacionais populares — Onix, HB20, Polo, Argo, Gol, Sandero"

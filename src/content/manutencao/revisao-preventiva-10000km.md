@@ -1,6 +1,5 @@
----
+﻿---
 title: "Revisao Preventiva 10000 km: Checklist Completo para Carros"
-seoTitle: "Revisao Preventiva 10000 km"
 description: "Revisao preventiva 10000 km: saiba o que trocar, o que verificar e quanto custa numa oficina simples vs concessionaria. Guia pratico para Onix, HB20, Argo e Polo."
 kicker: "HOW-TO · MAO NA MASSA"
 veiculo: "Carros nacionais populares — Onix, HB20, Polo, Argo"

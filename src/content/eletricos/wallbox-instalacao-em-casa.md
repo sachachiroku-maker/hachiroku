@@ -1,6 +1,5 @@
----
+﻿---
 title: "Wallbox em casa: requisitos elétricos, custo e por que ele"
-seoTitle: "Wallbox em casa: requisitos elétricos, custo e"
 description: "Guia técnico do carregador de parede para carro elétrico: o que é, requisitos elétricos (potência, disjuntor, DR, aterramento), tomada comum vs wallbox, custo aproximado e por que o wallbox desarma o disjuntor. Conteúdo informativo, instalação por eletricista qualificado."
 entidade:
   marca: "Geral"

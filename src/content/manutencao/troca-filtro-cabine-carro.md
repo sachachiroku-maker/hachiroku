@@ -1,6 +1,5 @@
----
+﻿---
 title: "Filtro de Cabine do Carro: quando trocar e como fazer"
-seoTitle: "Filtro de Cabine do Carro: quando trocar e como"
 description: "Quando trocar o filtro de cabine do carro, sinais de filtro saturado, como substituir vocÃª mesmo e qual tipo de filtro escolher. Guia completo com passo a passo."
 kicker: "HOW-TO Â· MANUTENÃ‡ÃƒO"
 tempo: "15 minutos"

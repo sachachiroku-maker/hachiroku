@@ -1,6 +1,5 @@
----
+﻿---
 title: "Renault Sandero Usado Vale a Pena? Guia Completo 2026"
-seoTitle: "Renault Sandero Usado Vale a Pena? Guia Completo"
 description: "Renault Sandero usado vale a pena em 2026? Motor SCe 1.0, problemas crônicos, custo médio e para quem indicamos. Leia antes de comprar."
 kicker: "GUIA DE COMPRA · DECISÃO"
 marca: "Renault"

@@ -1,6 +1,5 @@
 ﻿---
 title: "Hyundai Creta usado vale a pena? O que verificar antes de comprar"
-seoTitle: "Hyundai Creta usado vale a pena? O que verificar"
 description: "Creta usado vale a pena, mas a inspeção muda muito entre a 1ª e a 2ª geração. Confira os defeitos crônicos, o checklist completo e quando evitar."
 marca: "Hyundai"
 modelo: "Creta"

@@ -1,6 +1,5 @@
----
+﻿---
 title: "Melhores SUVs Populares 2025: T-Cross, Creta, Renegade ou Compass?"
-seoTitle: "Melhores SUVs Populares 2025"
 description: "Comparativo completo dos SUVs mais vendidos do Brasil em 2025 — T-Cross, Creta, Renegade e Compass. Motor, câmbio, consumo, custo de manutenção e qual comprar."
 marca: "VW / Hyundai / Jeep / Jeep"
 modelo: "Melhores SUVs Populares 2025"

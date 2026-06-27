@@ -1,6 +1,5 @@
----
+﻿---
 title: "Motor Superaquecendo: Sinais de Alerta e o Que Fazer Antes"
-seoTitle: "Motor Superaquecendo"
 description: "Motor superaquecendo pode destruir seu motor em minutos. Saiba reconhecer os 5 sinais de alerta, o que fazer imediatamente e as causas mais comuns em carros nacionais."
 kicker: "EMERGÊNCIA · DIAGNÓSTICO RÁPIDO"
 veiculo: "Carros nacionais populares — Onix, HB20, Polo, Argo"

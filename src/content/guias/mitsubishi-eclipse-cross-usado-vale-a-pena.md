@@ -1,6 +1,5 @@
----
+﻿---
 title: "Mitsubishi Eclipse Cross Usado: Vale a Pena Comprar em 2026?"
-seoTitle: "Mitsubishi Eclipse Cross Usado"
 description: "Mitsubishi Eclipse Cross usado vale a pena? Motor MIVEC turbo 1.5, AWD e acabamento premium — mas CVT com vibração e manutenção salgada pedem atenção."
 kicker: "GUIA DE COMPRA · DECISÃO"
 marca: "Mitsubishi"

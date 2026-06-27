@@ -1,6 +1,5 @@
 ﻿---
 title: "Scanner OBD2: como usar para diagnosticar seu carro e entender os códigos"
-seoTitle: "Scanner OBD2: como usar para diagnosticar seu"
 description: "Aprenda a conectar um scanner OBD2, ler os códigos de falha do seu carro e entender o que cada um significa. Guia prático, honesto e sem mito, válido para qualquer carro com OBD2."
 kicker: "HOW-TO · DIAGNÓSTICO"
 veiculo: "Qualquer carro com OBD2"

@@ -1,6 +1,5 @@
----
+﻿---
 title: "Renault Sandero vs Fiat Argo: Qual Hatch Nacional é Melhor"
-seoTitle: "Renault Sandero vs Fiat Argo"
 description: "Renault Sandero vs Fiat Argo: comparativo completo de motor, câmbio, consumo, segurança e custo de manutenção para decidir qual comprar em 2026."
 kicker: "GUIA DE COMPRA · COMPARATIVO"
 veredito: "Prefira o Argo se segurança é prioridade (3 estrelas LATIN NCAP vs 0 do Sandero); escolha o Sandero se o orçamento for mais apertado e a cidade for plana."

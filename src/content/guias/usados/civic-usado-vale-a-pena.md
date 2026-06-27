@@ -1,6 +1,5 @@
----
+﻿---
 title: "Honda Civic usado vale a pena? Guia completo por geração"
-seoTitle: "Honda Civic usado vale a pena? Guia completo por"
 description: "Civic usado tem boa dirigibilidade e porta-malas imenso, mas o 1.5T da 10ª geração tem consumo de óleo reconhecido pela Honda. Saiba o que inspecionar antes de comprar."
 marca: "Honda"
 modelo: "Civic"

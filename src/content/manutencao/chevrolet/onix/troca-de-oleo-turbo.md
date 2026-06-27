@@ -1,6 +1,5 @@
 ﻿---
 title: "Troca de óleo Onix Turbo: especificação 0W-20, intervalo e preços"
-seoTitle: "Troca de óleo Onix Turbo: especificação 0W-20,"
 description: "Troca de óleo Onix Turbo exige 0W-20 Full Sintético e 4,2 litros exatos. Veja intervalos, filtros e preços em SP, BH e todo o Brasil."
 kicker: "HOW-TO · MÃO NA MASSA"
 veiculo: "Chevrolet Onix Turbo (motor CSS Prime 1.0 Turbo)"

@@ -1,6 +1,5 @@
----
+﻿---
 title: "VW Polo vs VW Virtus 2025: Hatch ou Sedan, Qual a Melhor"
-seoTitle: "VW Polo vs VW Virtus 2025"
 description: "Polo e Virtus usam a mesma mecânica 1.0 TSI. A decisão é estilo de vida: cidade densa ou família com bagagem? Veja o comparativo técnico completo."
 marca: "Comparativo"
 modelo: "Polo vs Virtus"

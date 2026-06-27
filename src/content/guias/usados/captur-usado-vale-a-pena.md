@@ -1,6 +1,5 @@
----
+﻿---
 title: "Renault Captur Usado Vale a Pena? Guia Completo de Compra"
-seoTitle: "Renault Captur Usado Vale a Pena? Guia Completo"
 description: "Renault Captur usado tem motor confiável, mas o câmbio CVT exige atenção. Saiba o que inspecionar antes de comprar e quais anos evitar."
 marca: "Renault"
 modelo: "Captur"

@@ -1,6 +1,5 @@
----
+﻿---
 title: "Alternador com problema: 7 sinais que seu carro está"
-seoTitle: "Alternador com problema: 7 sinais que seu carro"
 description: "Alternador com problema causa bateria descarregando em horas, luz acesa no painel e faróis oscilando. Veja como testar com multímetro e o custo de troca em BH, SP e RJ."
 kicker: "DIAGNÓSTICO · SISTEMA ELÉTRICO"
 veiculo: "Carros nacionais populares — Onix, HB20, Polo, Argo, Gol"

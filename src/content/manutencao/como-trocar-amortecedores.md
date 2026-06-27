@@ -1,6 +1,5 @@
----
+﻿---
 title: "Como Trocar os Amortecedores: Guia Completo para Iniciantes"
-seoTitle: "Como Trocar os Amortecedores"
 description: "Aprenda como trocar amortecedores com segurança: sinais de desgaste, ferramentas necessárias, marcas recomendadas e passo a passo ilustrado."
 kicker: "MÃO NA MASSA"
 veiculo: "universal"

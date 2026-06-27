@@ -1,6 +1,5 @@
----
+﻿---
 title: "Limpar terminais de bateria com oxidação: guia passo a passo"
-seoTitle: "Limpar terminais de bateria com oxidação: guia"
 description: "Limpar terminais de bateria oxidados leva menos de 15 minutos e pode evitar falhas de partida. Veja como usar bicarbonato e graxa dielétrica."
 kicker: "HOW-TO · MÃO NA MASSA"
 veiculo: "Carros nacionais populares — Onix, HB20, Polo, Argo"

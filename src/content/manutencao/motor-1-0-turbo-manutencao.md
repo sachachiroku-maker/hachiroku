@@ -1,6 +1,5 @@
----
+﻿---
 title: "Motor 1.0 Turbo: manutenção correta para durar mais de 200.000 km"
-seoTitle: "Motor 1.0 Turbo: manutenção correta para durar"
 description: "Como manter o motor 1.0 turbo do Onix, HB20, Polo, Argo e outros populares. Intervalos certos, óleo obrigatório, itens críticos e o que nunca fazer com motores turbinados pequenos."
 kicker: "HOW-TO · MOTOR TURBO"
 tempo: "Leitura: 10 minutos"

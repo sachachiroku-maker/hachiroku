@@ -1,6 +1,5 @@
----
+﻿---
 title: "Ford Ka Usado Vale a Pena em 2026? Motor 1.0 e 1.5"
-seoTitle: "Ford Ka Usado Vale a Pena em 2026? Motor 1.0 e"
 description: "Ford Ka usado vale a pena em 2026? Analisamos motor 1.0 e 1.5, correia dentada banhada em óleo, câmbio PowerShift e custo real de manutenção. Saiba antes de comprar."
 kicker: "GUIA DE COMPRA · DECISÃO"
 marca: "Ford"

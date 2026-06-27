@@ -1,6 +1,5 @@
----
+﻿---
 title: "Mapa de Postos de Recarga para Carros Elétricos no Brasil 2025"
-seoTitle: "Mapa de Postos de Recarga para Carros Elétricos"
 description: "Onde carregar carro elétrico no Brasil — redes de recarga públicas, aplicativos, padrões CCS2 e CHAdeMO, cobertura por estado e o que esperar em 2025-2026."
 entidade:
   marca: "Geral"

@@ -1,6 +1,5 @@
----
+﻿---
 title: "Tabela de Manutenção Preventiva por Quilometragem"
-seoTitle: "Tabela de Manutenção Preventiva por"
 description: "Tabela de manutenção preventiva por quilometragem: veja o que trocar a cada 10k, 30k, 60k e 100k km no Onix, HB20, Polo TSI, Argo e Tracker. Custos e riscos."
 kicker: "GUIA PRÁTICO · MANUTENÇÃO PREVENTIVA"
 veiculo: "Carros nacionais populares — Onix, HB20, Polo TSI, Argo 1.3, Tracker Turbo"

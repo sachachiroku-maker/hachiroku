@@ -1,6 +1,5 @@
----
+﻿---
 title: "Onix ou HB20? O comparativo honesto dos dois hatches mais"
-seoTitle: "Onix ou HB20? O comparativo honesto dos dois"
 description: "Chevrolet Onix x Hyundai HB20: motor, consumo, espaço, os defeitos crônicos de cada um (a correia do Onix, a embreagem do HB20), custo de manutenção e revenda. Veja qual faz sentido para o seu perfil antes de assinar a proposta."
 marca: "Comparativo"
 modelo: "Onix vs HB20"

@@ -1,6 +1,5 @@
----
+﻿---
 title: "Yaris vs HB20: Qual Comprar em 2026? Comparação Técnica"
-seoTitle: "Yaris vs HB20"
 description: "Yaris vs HB20: compare motor, consumo real, custo de manutenção e confiabilidade dos dois sedans mais vendidos do Brasil em 2026. Veredito definitivo."
 kicker: "GUIA DE COMPRA · DECISÃO"
 marca: "Toyota / Hyundai"
