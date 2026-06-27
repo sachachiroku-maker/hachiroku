@@ -38,6 +38,19 @@ fontes:
     url: "https://www.abntcatalogo.com.br/norma.aspx?ID=309143"
   - titulo: "Manual do proprietário e intervalos de troca - Detran SP"
     url: "https://www.detran.sp.gov.br/wps/portal/portaldetran/cidadao/habilitacao/educacaoTransito/manutencaoVeicular"
+faq:
+  - pergunta: "De quanto em quanto tempo devo trocar o óleo do carro?"
+    resposta: "O intervalo varia conforme o tipo de óleo e o modelo. Óleos minerais pedem troca a cada 5.000 km, semissintéticos a 7.500 km e sintéticos a 10.000 km ou mais. Em uso severo (trânsito intenso, reboques, estradas de terra), reduza o intervalo em 20%. Sempre siga o manual do fabricante."
+  - pergunta: "Posso misturar marcas diferentes de óleo na troca?"
+    resposta: "Não é recomendado. A formulação dos aditivos pode ser incompatível, reduzindo a proteção do motor. Na troca completa, drene todo o óleo antigo antes de adicionar o novo. Se precisar completar em emergência, use o mesmo tipo e especificação já no motor."
+  - pergunta: "O que acontece se eu não trocar o óleo no prazo?"
+    resposta: "O óleo degradado perde viscosidade e capacidade de limpar e lubrificar. Com o tempo, forma borra e entupimento nos canais de lubrificação, causando desgaste acelerado de bronzinas, anéis e pistões — podendo levar à falha total do motor."
+  - pergunta: "Como saber qual óleo é correto para o meu carro?"
+    resposta: "A especificação está no manual do proprietário e, em muitos casos, impressa na tampa do bocal de enchimento. Os parâmetros principais são viscosidade (ex: 5W-30) e classificação API (ex: SN, SP) ou ACEA."
+  - pergunta: "Posso fazer a troca sem elevar o carro?"
+    resposta: "Depende do modelo. Em alguns carros o bujão e o filtro ficam acessíveis sem elevar. Em outros, é necessário macaco e cavaletes. Se for elevar, nunca trabalhe embaixo do carro sustentado apenas pelo macaco hidráulico — use sempre cavaletes de segurança."
+  - pergunta: "Qual o destino correto para o óleo usado?"
+    resposta: "O óleo usado é resíduo perigoso. Armazene-o em recipiente fechado e leve a um ponto de coleta credenciado — postos de combustível geralmente aceitam gratuitamente. Descarte no lixo comum ou no solo é crime ambiental (Lei 9.605/1998)."
 relacionados:
   - titulo: "Como verificar o nível de óleo do motor"
     url: "/manutencao/verificar-nivel-oleo-motor"
@@ -115,28 +128,3 @@ Ligue o motor e deixe em marcha lenta por 2 minutos. Nesse tempo, olhe por baixo
 
 Desligue o motor, aguarde 5 minutos para o óleo assentar, e verifique o nível na vareta mais uma vez. Corrija se necessário. Anote no manual ou em um adesivo no carro a data da troca e o quilômetro atual, para controlar o próximo intervalo.
 
-## Perguntas frequentes (FAQ)
-
-**1. De quanto em quanto tempo devo trocar o óleo do carro?**
-
-O intervalo varia conforme o tipo de óleo e o modelo do veículo. Óleos minerais geralmente pedem troca a cada 5.000 km. Óleos semissintéticos, a cada 7.500 km. Óleos sintéticos podem chegar a 10.000 km ou mais. Sempre siga o manual do fabricante, pois ele define o intervalo específico para o motor do seu carro. Em uso severo (muito trânsito, reboques, estradas de terra), reduza o intervalo em 20%.
-
-**2. Posso misturar marcas diferentes de óleo na troca?**
-
-Não é recomendado misturar marcas nem bases diferentes (mineral com sintético, por exemplo). A formulação dos aditivos pode ser incompatível, reduzindo a proteção do motor. Na troca completa, drene todo o óleo antigo antes de adicionar o novo. Se precisar completar o nível em emergência, use o mesmo tipo e especificação do óleo já no motor.
-
-**3. O que acontece se eu não trocar o óleo no prazo?**
-
-O óleo degradado perde viscosidade e capacidade de limpar e lubrificar as peças internas. Com o tempo, forma borra e verniz dentro do motor, entupindo canais de lubrificação. O resultado é desgaste acelerado de bronzinas, anéis e pistões, podendo chegar a falha total do motor. A troca no prazo certo é a manutenção mais barata que existe comparada ao custo de uma retífica.
-
-**4. Como saber qual óleo é correto para o meu carro?**
-
-A especificação correta está no manual do proprietário (geralmente no capítulo de manutenção) e, em muitos casos, impressa na própria tampa do bocal de enchimento. Os parâmetros principais são a viscosidade (ex: 5W-30) e a classificação API (ex: SN, SP) ou ACEA. Em caso de dúvida, consulte a montadora ou um mecânico de confiança com o ano e modelo do veículo.
-
-**5. Posso fazer a troca sem elevar o carro?**
-
-Depende do modelo. Em alguns carros, o bujão de dreno e o filtro ficam acessíveis sem elevar o veículo. Em outros, é necessário usar um macaco e cavaletes ou rampas. Verifique antes de começar. Se for elevar, nunca trabalhe embaixo do carro sustentado apenas pelo macaco hidráulico: use sempre cavaletes de segurança.
-
-**6. Qual o destino correto para o óleo usado?**
-
-O óleo usado é considerado resíduo perigoso e não pode ser descartado no lixo comum, em ralos ou no solo. A forma correta é armazená-lo em um recipiente fechado (pode ser o galão vazio do óleo novo) e levá-lo a um ponto de coleta credenciado. Postos de combustível são os locais mais comuns para receber óleo usado gratuitamente. O descarte incorreto é crime ambiental previsto na Lei 9.605/1998.
