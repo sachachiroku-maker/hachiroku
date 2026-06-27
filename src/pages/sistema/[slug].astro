@@ -23,7 +23,7 @@ for (const p of doSistema) {
 }
 const grupos = [...porModelo.values()].sort((a, b) => a.nome.localeCompare(b.nome));
 
-const jsonld = { '@context': 'https://schema.org', '@graph': [
+const graph: any[] = [
   { '@type': 'BreadcrumbList', '@id': `${url}#breadcrumb`, itemListElement: [
     { '@type': 'ListItem', position: 1, name: 'Início', item: `${site}/` },
     { '@type': 'ListItem', position: 2, name: 'Problemas', item: `${site}/problemas/` },
@@ -34,7 +34,13 @@ const jsonld = { '@context': 'https://schema.org', '@graph': [
     publisher: { '@id': `${site}/#organization` } },
   { '@type': 'ItemList', itemListElement: doSistema.map((d, i) => ({
     '@type': 'ListItem', position: i + 1, url: `${site}/problemas/${d.id}/`, name: d.data.title })) },
-] };
+];
+if (sistema.faq?.length) {
+  graph.push({ '@type': 'FAQPage', '@id': `${url}#faq`, mainEntity: sistema.faq.map((f, i) => ({
+    '@type': 'Question', '@id': `${url}#faq-${i}`, name: f.pergunta,
+    acceptedAnswer: { '@type': 'Answer', text: f.resposta } })) });
+}
+const jsonld = { '@context': 'https://schema.org', '@graph': graph };
 ---
 <BaseLayout title={`${sistema.seoTitle ?? sistema.titulo} | Hachiroku`} description={sistema.resumo} canonical={url} type="website">
   <script type="application/ld+json" set:html={JSON.stringify(jsonld)} />
@@ -54,6 +60,14 @@ const jsonld = { '@context': 'https://schema.org', '@graph': [
         </article>
       ))}
     </div>
+    {sistema.faq?.length && (
+      <section aria-label={`Perguntas frequentes sobre ${sistema.nome}`}>
+        <h2>Perguntas frequentes</h2>
+        <dl class="faq">
+          {sistema.faq.map((f) => (<><dt>{f.pergunta}</dt><dd>{f.resposta}</dd></>))}
+        </dl>
+      </section>
+    )}
     <nav class="modelo-xlinks" aria-label="Explore mais">
       <a href="/problemas/">Ver todos os diagnósticos →</a>
       <a href="/sistema/">Outros sistemas →</a>
