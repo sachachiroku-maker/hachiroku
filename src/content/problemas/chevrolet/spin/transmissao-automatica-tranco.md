@@ -1,6 +1,5 @@
----
+﻿---
 title: "Tranco no câmbio automático da Spin 1.8 | Hachiroku"
-seoTitle: "Tranco no câmbio automático da Spin 1.8"
 description: "A Chevrolet Spin 1.8 com câmbio automático de 6 marchas pode apresentar tranco brusco na troca de 1ª para 2ª marcha, especialmente com o motor frio. A causa mais comum é o software da transmissão desatualizado. Veja como identificar, confirmar e resolver."
 entidade:
   marca: "Chevrolet"

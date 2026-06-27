@@ -1,6 +1,5 @@
----
+﻿---
 title: "Trocador de calor do câmbio do Jeep Renegade 1.8 E.torQ"
-seoTitle: "Trocador de calor do câmbio do Jeep Renegade 1.8"
 description: "O Jeep Renegade 1.8 E.torQ flex automático, fabricado entre 2015 e 2021, acumula relatos de falha no trocador de calor do câmbio Aisin AT6, que deixa o líquido de arrefecimento se misturar ao óleo da transmissão e formar uma emulsão leitosa. Veja os sintomas, as causas ligadas à corrosão e ao aditivo do radiador, qual motor é afetado, como é o diagnóstico, a faixa de custo e como prevenir antes de condenar o câmbio."
 entidade:
   marca: "Jeep"

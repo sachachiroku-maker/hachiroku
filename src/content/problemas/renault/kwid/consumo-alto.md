@@ -1,6 +1,5 @@
----
+﻿---
 title: "Renault Kwid Consumo Alto de Combustível: causas e como resolver"
-seoTitle: "Renault Kwid Consumo Alto de Combustível: causas"
 description: "Kwid consumindo mais gasolina ou etanol do que o normal? Veja as causas reais: sensor lambda, filtro de ar, pneus, estilo de condução e calibração da ECU. Diagnóstico passo a passo."
 entidade:
   marca: "Renault"

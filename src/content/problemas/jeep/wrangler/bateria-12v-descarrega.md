@@ -1,6 +1,5 @@
----
+﻿---
 title: "Bateria de 12V que Descarrega no Jeep Wrangler 4xe"
-seoTitle: "Bateria de 12V que Descarrega no Jeep Wrangler"
 description: "A bateria auxiliar de 12V do Wrangler 4xe descarrega em 3 a 7 dias parado. Entenda a causa, como diagnosticar e a solução correta sem danificar o híbrido."
 entidade:
   marca: "Jeep"

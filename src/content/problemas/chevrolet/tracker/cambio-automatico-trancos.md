@@ -1,6 +1,5 @@
----
+﻿---
 title: "Câmbio automático com trancos no Chevrolet Tracker turbo"
-seoTitle: "Câmbio automático com trancos no Chevrolet"
 description: "O câmbio automático de 6 marchas do Chevrolet Tracker turbo dá trancos, demora para engatar e patina, sobretudo a quente. A causa quase sempre é o fluido vencido num câmbio que a GM trata como selado. Veja sintomas, causas, diagnóstico, custo e como prevenir antes da fatura grande."
 entidade:
   marca: "Chevrolet"

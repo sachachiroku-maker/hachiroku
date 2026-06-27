@@ -70,7 +70,7 @@ if (faq.length > 0) {
   });
 }
 ---
-<BaseLayout title={seoTitle ?? title} {description} canonical={url} type="article" pubDate={pubDate} updatedDate={updatedDate} author={autor.nome}>
+<BaseLayout title={`${seoTitle ?? title} | Hachiroku`} {description} canonical={url} type="article" pubDate={pubDate} updatedDate={updatedDate} author={autor.nome}>
   <script type="application/ld+json" set:html={JSON.stringify({ '@context': 'https://schema.org', '@graph': jsonld })} />
   <article class="prose">
     <nav class="breadcrumb" aria-label="Você está em">

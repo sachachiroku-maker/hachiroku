@@ -1,6 +1,5 @@
----
+﻿---
 title: "Embreagem do Hyundai HB20: trepidação, ponto alto e o que"
-seoTitle: "Embreagem do Hyundai HB20: trepidação, ponto"
 description: "A embreagem do Hyundai HB20 manual costuma dar sinais antes de morrer: trepidação na arrancada, ponto de engate subindo e patinação em subida. Veja os sintomas, as causas (incluindo o retentor do virabrequim que contamina o disco), a vida útil real, o custo do kit com platô e disco e como dirigir para a embreagem durar mais."
 entidade:
   marca: "Hyundai"

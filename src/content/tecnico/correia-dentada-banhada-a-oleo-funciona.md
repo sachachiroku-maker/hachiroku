@@ -1,5 +1,5 @@
 ---
-title: "Correia Dentada Banhada a Óleo"
+title: "Correia Dentada Banhada a Óleo: como funciona, riscos e troca"
 description: "Entenda como funciona a correia dentada banhada a óleo (wet belt) do Ford Ka EcoBoost Dragon e VW EA211, intervalo de troca obrigatório, riscos e custo de manutenção preventiva."
 kicker: "TÉCNICO · APROFUNDADO"
 categoria: motor

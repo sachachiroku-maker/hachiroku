@@ -1,6 +1,5 @@
----
+﻿---
 title: "Carbonização das válvulas no Fiat Pulse T200 1.0 Turbo"
-seoTitle: "Carbonização das válvulas no Fiat Pulse T200 1.0"
 description: "O motor 1.0 turbo GDI do Fiat Pulse usa injeção direta e acumula carbono nas válvulas de admissão a partir de 60-80 mil km. Saiba sintomas, diagnóstico e custo do reparo no Brasil."
 entidade:
   marca: "Fiat"

@@ -1,6 +1,5 @@
----
+﻿---
 title: "Toyota Corolla 2.0 M20A: Ar-condicionado Fraco e que Demora"
-seoTitle: "Toyota Corolla 2.0 M20A"
 description: "Corolla 12ª geração com A/C fraco: entenda as causas do sensor NTC da cabine, filtro de carbono entupido e compressor variável elétrico. (156 chars)"
 entidade:
   marca: "Toyota"

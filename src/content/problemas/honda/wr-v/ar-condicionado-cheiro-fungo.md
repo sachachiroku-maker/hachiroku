@@ -1,6 +1,5 @@
----
+﻿---
 title: "Ar-condicionado Honda WR-V com cheiro de fungo | Hachiroku"
-seoTitle: "Ar-condicionado Honda WR-V com cheiro de fungo"
 description: "O cheiro de fungo e mofo no ar-condicionado do Honda WR-V 1.5 vem do evaporador contaminado por fungos e bactérias que crescem na umidade acumulada nas aletas. Saiba identificar o problema, a causa técnica e como eliminar o odor de forma definitiva."
 entidade:
   marca: "Honda"

@@ -1,6 +1,5 @@
----
+﻿---
 title: "Consumo alto Haval H6 HEV: causa e como diagnosticar"
-seoTitle: "Consumo alto Haval H6 HEV: causa e como"
 description: "Haval H6 HEV 1.5 turbo consumindo acima do prometido? O problema real é o motor a combustão rodando sem suporte elétrico suficiente. Entenda as causas, os números de fábrica e o que fazer antes de ir à concessionária."
 entidade:
   marca: "GWM"

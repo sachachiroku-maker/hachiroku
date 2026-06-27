@@ -1,6 +1,5 @@
----
+﻿---
 title: "DPF da Ford Ranger NextGen entupindo em uso urbano"
-seoTitle: "DPF da Ford Ranger NextGen entupindo em uso"
 description: "O filtro de partículas diesel (DPF) da Ford Ranger NextGen 2.0 Bi-Turbo entope em uso predominantemente urbano. Entenda por que acontece, como a regeneração funciona e o custo do reparo quando o filtro chega ao limite."
 entidade:
   marca: "Ford"

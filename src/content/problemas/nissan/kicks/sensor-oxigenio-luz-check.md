@@ -1,6 +1,5 @@
----
+﻿---
 title: "Sensor de oxigênio Nissan Kicks 1.6: P0136 e P0141"
-seoTitle: "Sensor de oxigênio Nissan Kicks 1.6"
 description: "Check engine acesa no Nissan Kicks 1.6? Códigos P0136 e P0141 indicam falha no sensor lambda pós-catalisador. Veja sintomas, diagnóstico e como resolver."
 entidade:
   marca: "Nissan"

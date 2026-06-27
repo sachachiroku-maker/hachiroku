@@ -1,6 +1,5 @@
----
+﻿---
 title: "Tuchos hidráulicos e variador de fase do motor 1.8 E.torQ"
-seoTitle: "Tuchos hidráulicos e variador de fase do motor"
 description: "O motor 1.8 E.torQ da Fiat Toro tem dois pontos de atenção que se confundem no mesmo ruído de tic-tic: o tucho hidráulico que perde pressão a frio e o variador de fase do comando. Veja como diferenciar os sintomas, por que o óleo certo é decisivo e quando o barulho é grave de verdade."
 entidade:
   marca: "Fiat"

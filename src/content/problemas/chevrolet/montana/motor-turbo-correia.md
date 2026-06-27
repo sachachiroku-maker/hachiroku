@@ -1,6 +1,5 @@
----
+﻿---
 title: "Motor 1.2 Turbo Montana correia dentada | Hachiroku"
-seoTitle: "Motor 1.2 Turbo Montana correia dentada"
 description: "A correia dentada banhada a óleo do motor 1.2 CSS Prime Turbo da Chevrolet Montana é o maior ponto de atenção do modelo. Saiba identificar os sintomas, qual óleo usar e quando agir antes de perder o motor."
 entidade:
   marca: "Chevrolet"

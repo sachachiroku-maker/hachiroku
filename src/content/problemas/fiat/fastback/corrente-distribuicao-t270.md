@@ -1,6 +1,5 @@
----
+﻿---
 title: "Corrente de distribuição do Fiat Fastback 1.3 T270 com ruído"
-seoTitle: "Corrente de distribuição do Fiat Fastback 1.3"
 description: "A corrente de distribuição do motor 1.3 T270 do Fiat Fastback pode apresentar ruído precoce, problema compartilhado com Pulse e Toro. Entenda as causas, sintomas específicos no Fastback e o custo de reparo."
 entidade:
   marca: "Fiat"

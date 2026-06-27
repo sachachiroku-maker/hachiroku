@@ -1,6 +1,5 @@
----
+﻿---
 title: "Corrente de distribuição C4 1.6 THP: estiramento | Hachiroku"
-seoTitle: "Corrente de distribuição C4 1.6 THP: estiramento"
 description: "A corrente de distribuição do Citroën C4 1.6 THP estica precocemente e gera barulho metálico a frio. Veja causas, sintomas, diagnóstico e o que fazer antes de o motor bater válvula."
 entidade:
   marca: "Citroën"

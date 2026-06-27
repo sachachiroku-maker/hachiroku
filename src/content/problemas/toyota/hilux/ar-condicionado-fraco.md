@@ -1,6 +1,5 @@
----
+﻿---
 title: "Ar-condicionado fraco na Hilux SRX: bancos traseiros"
-seoTitle: "Ar-condicionado fraco na Hilux SRX: bancos"
 description: "Ar-condicionado da Toyota Hilux SRX 2.8 diesel com distribuição de ar desequilibrada entre cabine e bancada traseira. Causas, diagnóstico e solução."
 entidade:
   marca: "Toyota"

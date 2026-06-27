@@ -1,6 +1,5 @@
----
+﻿---
 title: "Jeep Commander: ar-condicionado fraco com 7 passageiros —"
-seoTitle: "Jeep Commander: ar-condicionado fraco com 7"
 description: "Ar-condicionado do Jeep Commander fraco na parte traseira? Veja causas, diagnóstico passo a passo e como resolver nos motores 1.3 T270 e 2.0 diesel. (156 chars)"
 entidade:
   marca: "Jeep"

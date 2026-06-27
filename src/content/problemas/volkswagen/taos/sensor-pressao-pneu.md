@@ -1,6 +1,5 @@
----
+﻿---
 title: "Sensor de Pressão de Pneu Taos Comfortline 1.4 TSI"
-seoTitle: "Sensor de Pressão de Pneu Taos Comfortline 1.4"
 description: "Luz TPMS acende no Volkswagen Taos Comfortline 1.4 TSI mesmo com pneus calibrados. Veja causas, diagnóstico e como resolver o defeito do sensor."
 pubDate: 2026-06-21
 updatedDate: 2026-06-21

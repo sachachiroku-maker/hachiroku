@@ -1,6 +1,5 @@
----
+﻿---
 title: "DPF da Chevrolet S10 2.8 diesel entupindo em uso urbano"
-seoTitle: "DPF da Chevrolet S10 2.8 diesel entupindo em uso"
 description: "O filtro de partículas diesel (DPF) da Chevrolet S10 2.8 Duramax entope em uso urbano exclusivo. Entenda o ciclo de regeneração, os sinais de alerta e o custo de reparo quando o filtro chega ao limite."
 entidade:
   marca: "Chevrolet"

@@ -1,6 +1,5 @@
----
+﻿---
 title: "Volkswagen Tiguan Allspace: tranco e solavanco no câmbio DSG 7"
-seoTitle: "Volkswagen Tiguan Allspace: tranco e solavanco"
 description: "O câmbio DSG 7 do VW Tiguan Allspace dá tranco ao sair parado? Entenda as causas, a atualização de software e quando o DSG precisa de revisão."
 entidade:
   marca: "Volkswagen"

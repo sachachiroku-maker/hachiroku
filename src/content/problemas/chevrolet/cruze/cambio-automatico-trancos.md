@@ -1,6 +1,5 @@
----
+﻿---
 title: "Solavancos no câmbio automático do Cruze LTZ 1.4 Turbo"
-seoTitle: "Solavancos no câmbio automático do Cruze LTZ 1.4"
 description: "Cruze LTZ bate solavancos no câmbio automático 6T30? Entenda as causas reais — software, fluido ATF e solenóide — e saiba o que fazer antes de gastar."
 entidade:
   marca: "Chevrolet"

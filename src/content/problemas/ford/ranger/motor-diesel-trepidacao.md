@@ -1,6 +1,5 @@
----
+﻿---
 title: "Trepidação motor diesel Ford Ranger 2.0 Bi-Turbo | Hachiroku"
-seoTitle: "Trepidação motor diesel Ford Ranger 2.0 Bi-Turbo"
 description: "A Ford Ranger 2.0 Bi-Turbo EcoBlue diesel trepida e vibra em marcha lenta e na partida, especialmente no frio. Entenda a causa, como diagnosticar e o que fazer antes de levar à oficina."
 entidade:
   marca: "Ford"

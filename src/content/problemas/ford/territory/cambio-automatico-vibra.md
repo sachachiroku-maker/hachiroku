@@ -1,6 +1,5 @@
----
+﻿---
 title: "Câmbio do Territory vibra no frio ao engatar D ou R |"
-seoTitle: "Câmbio do Territory vibra no frio ao engatar D"
 description: "Ford Territory 1.5 EcoBoost com vibração e solavanco ao engatar D ou R com o motor frio. Diagnóstico completo: causa no fluido ATF frio, calibração do TCM e passos para resolver sem abrir o câmbio."
 entidade:
   marca: "Ford"

@@ -1,6 +1,5 @@
----
+﻿---
 title: "Consumo de óleo no Peugeot 208 1.2 PureTech | Hachiroku"
-seoTitle: "Consumo de óleo no Peugeot 208 1.2 PureTech"
 description: "O motor 1.2 PureTech 3 cilindros turbo do Peugeot 208 tem consumo excessivo de óleo documentado em fóruns e órgãos de defesa do consumidor. Saiba identificar os sintomas, as causas e como agir antes do dano se tornar irreversível."
 entidade:
   marca: "Peugeot"

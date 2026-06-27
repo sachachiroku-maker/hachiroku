@@ -1,6 +1,5 @@
----
+﻿---
 title: "Fiat Uno: Velas de ignição — troca e sinais de desgaste"
-seoTitle: "Fiat Uno: Velas de ignição"
 description: "Tudo sobre Velas de ignição — troca e sinais de desgaste no Fiat Uno --- diagnostico, causas, custos e como resolver. Guia pratico com informacoes verificadas."
 entidade:
   marca: "Fiat"

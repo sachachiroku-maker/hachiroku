@@ -1,6 +1,5 @@
----
+﻿---
 title: "BYD Song Plus DM-i: consumo de combustível acima do"
-seoTitle: "BYD Song Plus DM-i: consumo de combustível acima"
 description: "Entenda por que o BYD Song Plus DM-i bebe mais gasolina do que o anunciado e como corrigir o problema sem gastar com mecânico. (157 chars)"
 entidade:
   marca: "BYD"

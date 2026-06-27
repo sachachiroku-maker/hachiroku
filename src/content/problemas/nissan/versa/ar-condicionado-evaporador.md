@@ -1,6 +1,5 @@
----
+﻿---
 title: "Evaporador do ar-condicionado do Nissan Versa com cheiro e"
-seoTitle: "Evaporador do ar-condicionado do Nissan Versa"
 description: "O evaporador do ar-condicionado do Nissan Versa acumula fungos e pode apresentar vazamento de fluido refrigerante após 3 a 5 anos. Entenda como identificar o problema, as opções de limpeza e o custo de troca do evaporador."
 entidade:
   marca: "Nissan"

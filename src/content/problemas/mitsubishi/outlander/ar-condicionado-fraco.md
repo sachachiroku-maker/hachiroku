@@ -1,6 +1,5 @@
----
+﻿---
 title: "Ar-condicionado Fraco no Mitsubishi Outlander 2.0 e 3.0 V6"
-seoTitle: "Ar-condicionado Fraco no Mitsubishi Outlander"
 description: "AC fraco no Outlander 2.0 CVT e 3.0 V6: condensador entupido, compressor sobrecarregado, gás baixo ou filtro de cabine saturado. Diagnóstico com custos 2026."
 entidade:
   marca: "Mitsubishi"

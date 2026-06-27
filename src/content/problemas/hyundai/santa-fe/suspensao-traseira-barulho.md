@@ -1,6 +1,5 @@
----
+﻿---
 title: "Barulho e Folga na Suspensão Traseira do Hyundai Santa Fe"
-seoTitle: "Barulho e Folga na Suspensão Traseira do Hyundai"
 description: "Rangido, coaxo ou batida na suspensão traseira do Santa Fe TM? Guia técnico completo com causas, diagnóstico e custos de reparo para o multi-link."
 entidade:
   marca: "Hyundai"
