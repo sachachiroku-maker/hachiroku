@@ -1,7 +1,10 @@
 ---
 import BaseLayout from '../../layouts/BaseLayout.astro';
+import Icon from '../../components/ui/Icon.astro';
 import { MARCAS } from '../../lib/marcas';
 import { getCollection } from 'astro:content';
+import fs from 'node:fs';
+import path from 'node:path';
 
 const site = 'https://hachiroku.com.br';
 const url = `${site}/marca/`;
@@ -13,6 +16,20 @@ for (const p of probs) {
   const slug = p.id.split('/')[0];
   contaPorMarca.set(slug, (contaPorMarca.get(slug) ?? 0) + 1);
 }
+
+// Logos disponíveis (lidos em build-time): SVG preferencial, depois WebP/PNG.
+const LOGOS_DIR = path.resolve('./public/img/marcas');
+const logosArq = fs.existsSync(LOGOS_DIR) ? fs.readdirSync(LOGOS_DIR) : [];
+function logoMarca(slug: string): string | null {
+  for (const ext of ['svg', 'webp', 'png']) {
+    if (logosArq.includes(`${slug}.${ext}`)) return `/img/marcas/${slug}.${ext}`;
+  }
+  return null;
+}
+const semAcento = (s: string) => s.toLowerCase().normalize('NFD').replace(/[̀-ͯ]/g, '');
+
+// Ordem alfabética por nome (pt-BR)
+const marcas = [...MARCAS].sort((a, b) => a.nome.localeCompare(b.nome, 'pt-BR'));
 
 const jsonld = {
   '@context': 'https://schema.org',
@@ -36,7 +53,7 @@ const jsonld = {
     },
     {
       '@type': 'ItemList',
-      itemListElement: MARCAS.map((m, i) => ({
+      itemListElement: marcas.map((m, i) => ({
         '@type': 'ListItem',
         position: i + 1,
         url: `${site}/marca/${m.slug}/`,
@@ -70,18 +87,71 @@ const jsonld = {
     </p>
   </section>
 
-  <section class="silos" aria-label="Marcas cobertas">
-    {MARCAS.map((m) => {
+  <div class="marca-busca-wrap">
+    <form class="marca-busca" role="search" onsubmit="return false">
+      <span class="mb-icon" aria-hidden="true"><Icon name="search" size={18} /></span>
+      <input type="search" id="filtro-marca" placeholder="Filtrar por marca…" aria-label="Filtrar marcas" autocomplete="off" />
+    </form>
+  </div>
+
+  <section class="silos marca-grid" aria-label="Marcas cobertas">
+    {marcas.map((m) => {
       const n = contaPorMarca.get(m.slug) ?? 0;
+      const logo = logoMarca(m.slug);
       return (
-        <a class="silo-card" href={`/marca/${m.slug}/`}>
-          <h2>{m.nome}</h2>
-          {n > 0
-            ? <p>{n} {n === 1 ? 'diagnóstico' : 'diagnósticos'} disponíveis</p>
-            : <p>Fichas e guias disponíveis</p>
-          }
+        <a class="silo-card marca-card" href={`/marca/${m.slug}/`} data-marca={semAcento(m.nome)}>
+          <span class="marca-logo-wrap">
+            {logo
+              ? <img class="marca-logo" src={logo} alt={`Logo ${m.nome}`} title={m.nome} loading="lazy" decoding="async" />
+              : <span class="marca-inicial" aria-hidden="true">{m.nome.charAt(0)}</span>}
+          </span>
+          <span class="marca-info">
+            <h2>{m.nome}</h2>
+            {n > 0
+              ? <p>{n} {n === 1 ? 'diagnóstico' : 'diagnósticos'} disponíveis</p>
+              : <p>Fichas e guias disponíveis</p>}
+          </span>
         </a>
       );
     })}
+    <p class="marca-vazio" hidden>Nenhuma marca encontrada para esse termo.</p>
   </section>
+
+  <script is:inline>
+    (function () {
+      var inp = document.getElementById('filtro-marca');
+      if (!inp) return;
+      var cards = Array.prototype.slice.call(document.querySelectorAll('.marca-card'));
+      var vazio = document.querySelector('.marca-vazio');
+      function norm(s) { return (s || '').toLowerCase().normalize('NFD').replace(/[̀-ͯ]/g, ''); }
+      inp.addEventListener('input', function () {
+        var t = norm(inp.value.trim());
+        var visiveis = 0;
+        cards.forEach(function (c) {
+          var ok = !t || c.getAttribute('data-marca').indexOf(t) !== -1;
+          c.hidden = !ok;
+          if (ok) visiveis++;
+        });
+        if (vazio) vazio.hidden = visiveis !== 0;
+      });
+    })();
+  </script>
+
+  <style>
+    .marca-busca-wrap { max-width: var(--container-content); margin: 0 auto var(--space-5); padding: 0 var(--gutter); }
+    .marca-busca { display: flex; align-items: center; gap: var(--space-2); max-width: 380px; padding: var(--space-2) var(--space-3); background: var(--bg-surface); border: var(--border-hairline-w) solid var(--border-hairline); border-radius: var(--radius-sm); }
+    .marca-busca:focus-within { border-color: var(--accent); }
+    .mb-icon { display: inline-flex; color: var(--text-muted); }
+    .marca-busca input { flex: 1; border: 0; background: transparent; font: inherit; font-size: var(--text-sm); color: var(--text-strong); outline: none; }
+    /* Card de marca: logo à esquerda + info à direita */
+    .marca-card { display: flex; flex-direction: row; align-items: center; gap: var(--space-4); }
+    .marca-logo-wrap { flex: 0 0 auto; width: 64px; height: 48px; display: grid; place-items: center; }
+    .marca-logo { max-width: 100%; max-height: 100%; width: auto; height: auto; object-fit: contain; }
+    .marca-inicial { font-family: var(--font-display); font-weight: var(--weight-extrabold); font-size: var(--text-2xl); color: var(--text-faint); line-height: 1; }
+    .marca-info { min-width: 0; }
+    .marca-info h2 { margin: 0 0 2px; }
+    .marca-info p { margin: 0; }
+    .marca-card[hidden] { display: none; }
+    .marca-vazio { grid-column: 1 / -1; text-align: center; color: var(--text-muted); font-size: var(--text-sm); padding: var(--space-6) 0; }
+  </style>
 </BaseLayout>
