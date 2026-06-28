@@ -145,8 +145,8 @@ const jsonld = {
     .marca-busca input { flex: 1; border: 0; background: transparent; font: inherit; font-size: var(--text-sm); color: var(--text-strong); outline: none; }
     /* Card de marca: logo à esquerda + info à direita */
     .marca-card { display: flex; flex-direction: row; align-items: center; gap: var(--space-4); }
-    .marca-logo-wrap { flex: 0 0 auto; width: 64px; height: 48px; display: grid; place-items: center; }
-    .marca-logo { max-width: 100%; max-height: 100%; width: auto; height: auto; object-fit: contain; }
+    .marca-logo-wrap { flex: 0 0 auto; width: 64px; height: 48px; display: flex; align-items: center; justify-content: center; }
+    .marca-logo { display: block; width: 64px; height: 48px; object-fit: contain; }
     .marca-inicial { font-family: var(--font-display); font-weight: var(--weight-extrabold); font-size: var(--text-2xl); color: var(--text-faint); line-height: 1; }
     .marca-info { min-width: 0; }
     .marca-info h2 { margin: 0 0 2px; }
