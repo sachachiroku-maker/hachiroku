@@ -8,6 +8,7 @@ export interface Marca {
   slug: string;
   nome: string;
   resumo: string;
+  leadHtml?: string; // lead formatado p/ exibição (parágrafos + <strong> SEO); `resumo` segue puro p/ meta description e schema
   sameAs: string[];
   faq?: MarcaFaq[];
 }
@@ -28,6 +29,10 @@ export const MARCAS: Marca[] = [
     slug: 'volkswagen',
     nome: 'Volkswagen',
     resumo: 'A Volkswagen consolidou seu espaço no Brasil tanto no segmento popular quanto no premium. O Polo e o Virtus sedã brigam ponto a ponto com concorrentes diretos, enquanto o T-Cross e o Nivus fazem sucesso crescente nos SUVs compactos. O Gol segue rodando em milhares de frotas mesmo após o encerramento da produção, e o robusto Amarok continua sendo referência entre picapes de uso intenso. O motor TSI, presente na maioria dos modelos recentes, entrega boa eficiência, mas acumula depósito de carbono nas válvulas de admissão com mais facilidade do que motores de injeção indireta: uma limpeza a cada 40-60 mil km é recomendada. O câmbio de dupla embreagem DSG, disponível em seis ou sete marchas, é suave em uso normal, mas pode apresentar solavanco em tráfego congestionado se o óleo da caixa não for trocado no prazo. O mecânico deve prestar atenção nos rolamentos de roda do T-Cross nas primeiras gerações e verificar se o software da centralinha de injeção está atualizado, pois muitos solavancos e falhas de partida no motor TSI têm solução via update da própria fabricante.',
+    leadHtml: `<p>A <strong>Volkswagen</strong> consolidou seu espaço no Brasil tanto no segmento popular quanto no premium. O <strong>Polo</strong> e o <strong>Virtus</strong> sedã brigam ponto a ponto com concorrentes diretos, enquanto o <strong>T-Cross</strong> e o <strong>Nivus</strong> fazem sucesso crescente nos SUVs compactos.</p>
+<p>O <strong>Gol</strong> segue rodando em milhares de frotas mesmo após o encerramento da produção, e o robusto <strong>Amarok</strong> continua sendo referência entre picapes de uso intenso.</p>
+<p>O <strong>motor TSI</strong>, presente na maioria dos modelos recentes, entrega boa eficiência, mas acumula <strong>depósito de carbono nas válvulas de admissão</strong> com mais facilidade do que motores de injeção indireta: uma limpeza a cada 40-60 mil km é recomendada.</p>
+<p>O <strong>câmbio de dupla embreagem DSG</strong>, disponível em seis ou sete marchas, é suave em uso normal, mas pode apresentar solavanco em tráfego congestionado se o óleo da caixa não for trocado no prazo. O mecânico deve prestar atenção nos <strong>rolamentos de roda do T-Cross</strong> nas primeiras gerações e verificar se o software da <strong>centralinha de injeção</strong> está atualizado, pois muitos solavancos e falhas de partida no motor TSI têm solução via update da própria fabricante.</p>`,
     sameAs: ['https://pt.wikipedia.org/wiki/Volkswagen', 'https://www.wikidata.org/entity/Q246'],
     faq: [
       { pergunta: "Por que o motor TSI do Polo acumula carbono nas válvulas?", resposta: "Motores de injeção direta não têm gasolina lavando as válvulas de admissão, favorecendo depósito de carbono. A limpeza preventiva com walnut blasting é indicada a cada 60 mil km nos modelos TSI." },

@@ -882,3 +882,8 @@ a.chronic-card:hover { box-shadow: var(--shadow-md); transform: translateY(-2px)
 /* Links legais sutis na linha do copyright (Privacidade · Termos · Afiliados) */
 .footer-copy a { color: inherit; text-decoration: underline; text-decoration-color: var(--asphalt-600); text-underline-offset: 2px; transition: color .15s; }
 .footer-copy a:hover, .footer-copy a:focus-visible { color: var(--redline-400); text-decoration-color: var(--redline-400); }
+
+/* Lead em múltiplos parágrafos (páginas de marca): mantém o tom do .lead com respiro entre blocos e termos SEO em destaque */
+.lead-rico p { font-size: inherit; line-height: var(--leading-relaxed); margin: 0 0 var(--space-4); }
+.lead-rico p:last-child { margin-bottom: 0; }
+.lead-rico strong { color: var(--text-strong); font-weight: var(--weight-bold); }

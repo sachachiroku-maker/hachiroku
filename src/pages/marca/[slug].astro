@@ -60,7 +60,9 @@ const jsonld = { '@context': 'https://schema.org', '@graph': graph };
   <article class="prose">
     <nav class="breadcrumb" aria-label="Você está em"><a href="/">Início</a> · <span>{marca.nome}</span></nav>
     <header><p class="kicker">MARCA</p><h1 class="article-title">{marca.nome}</h1></header>
-    <p class="lead">{marca.resumo}</p>
+    {marca.leadHtml
+      ? <div class="lead lead-rico" set:html={marca.leadHtml} />
+      : <p class="lead">{marca.resumo}</p>}
     <h2>Modelos disponíveis</h2>
     <div class="defeito-grid">
       {modelos.map((m) => (
