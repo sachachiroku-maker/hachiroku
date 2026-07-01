@@ -54,9 +54,9 @@ afiliados:
     cta: "Ver produto"
 relacionados:
   - titulo: "Como trocar o oleo do motor em casa"
-    url: "/manutencao/como-trocar-oleo-motor-carro/"
+    url: "/manutencao/como-trocar-oleo-motor/"
   - titulo: "Filtro de combustivel: quando trocar e o que acontece se nao trocar"
-    url: "/manutencao/como-trocar-filtro-combustivel/"
+    url: "/manutencao/como-trocar-filtro-de-combustivel/"
   - titulo: "Check engine acendeu: o que fazer agora"
     url: "/manutencao/check-engine-acendeu-o-que-fazer/"
 draft: false

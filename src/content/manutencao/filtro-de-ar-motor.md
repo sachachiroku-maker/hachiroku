@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Filtro de ar motor carro: função, tipos e guia completo de troca"
 description: "Filtro de ar motor carro sujo reduz até 10% da potência e aumenta o consumo em 15%. Entenda tipos, diferenças e como trocar passo a passo."
 kicker: "HOW-TO · MÃO NA MASSA"
@@ -55,9 +55,9 @@ afiliados:
     cta: "Ver produto"
 relacionados:
   - titulo: "Como trocar o óleo do motor: guia completo passo a passo"
-    url: "/manutencao/como-trocar-oleo-motor-carro/"
+    url: "/manutencao/como-trocar-oleo-motor/"
   - titulo: "Filtro de combustível: quando trocar e sinais de entupimento"
-    url: "/manutencao/como-trocar-filtro-combustivel/"
+    url: "/manutencao/como-trocar-filtro-de-combustivel/"
   - titulo: "Consumo alto de combustível: 12 causas e como diagnosticar"
     url: "/manutencao/"
 draft: false

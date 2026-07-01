@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Tabela de Manutenção Preventiva por Quilometragem"
 description: "Tabela de manutenção preventiva por quilometragem: veja o que trocar a cada 10k, 30k, 60k e 100k km no Onix, HB20, Polo TSI, Argo e Tracker. Custos e riscos."
 kicker: "GUIA PRÁTICO · MANUTENÇÃO PREVENTIVA"
@@ -56,7 +56,7 @@ afiliados:
     cta: "Ver óleo recomendado"
 relacionados:
   - titulo: "Como Trocar o Óleo do Motor Passo a Passo"
-    url: "/manutencao/como-trocar-oleo-motor-carro/"
+    url: "/manutencao/como-trocar-oleo-motor/"
   - titulo: "Correia Dentada: Quando Trocar e Quais os Riscos"
     url: "/manutencao/correia-dentada-quando-trocar/"
   - titulo: "Alinhamento e Balanceamento: Tudo que Você Precisa Saber"
@@ -94,7 +94,7 @@ Antes de entrar nos números, um aviso prático: a tabela de revisao por km carr
 
 **Atenção ao óleo:** Onix 1.0 Turbo e HB20 1.0 Turbo pedem óleo 5W30 com especificação GM DEXOS 1 Gen3 e Hyundai HMC, respectivamente. Usar óleo fora de especificação nessas faixas pode anular a garantia de fábrica.
 
-Para aprender a verificar o nível sozinho antes de ir à oficina, confira nosso guia sobre [como verificar o óleo do motor](/manutencao/como-verificar-oleo-do-motor/).
+Para aprender a verificar o nível sozinho antes de ir à oficina, confira nosso guia sobre [como verificar o óleo do motor](/manutencao/como-verificar-nivel-oleo-motor/).
 
 ---
 
@@ -237,6 +237,6 @@ Os números falam por si. A manutencao preventiva tabela que você acabou de ler
 4. **Mantenha o caderno de revisões** ou anote em aplicativo. Esse histórico pode valorizar o carro em até 8% na revenda, segundo pesquisa da Fipe (2024).
 5. **Carros turbo exigem óleo de qualidade superior.** Nunca economize no óleo de um Polo TSI ou Tracker Turbo. O custo de um óleo ruim é um turbo destruído a R$ 3.000.
 
-Para um diagnóstico mais preciso antes de levar o carro à oficina, aprenda a [usar o scanner OBD2](/manutencao/guia-scanner-obd2-como-usar/) e a interpretar as [luzes do painel](/manutencao/luzes-do-painel-o-que-significam/).
+Para um diagnóstico mais preciso antes de levar o carro à oficina, aprenda a [usar o scanner OBD2](/manutencao/scanner-obd2/) e a interpretar as [luzes do painel](/manutencao/luzes-do-painel-o-que-significam/).
 
 Manutenção preventiva não é gasto. É o custo de ter um carro funcionando, seguro e valendo dinheiro quando você quiser vender. Siga a tabela, registre tudo e nunca adie o que é obrigatório.

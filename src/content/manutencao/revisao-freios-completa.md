@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Revisão de freios completa: o que é verificado, quando"
 description: "Revisão de freios: saiba o que é verificado (pastilhas, discos, fluido, pinças), quando fazer (20.000-30.000 km) e o custo médio no Brasil."
 kicker: "SEGURANÇA · MANUTENÇÃO PREVENTIVA"
@@ -59,7 +59,7 @@ afiliados:
     cta: "Ver produto recomendado"
 relacionados:
   - titulo: "Como substituir pastilhas de freio"
-    url: "/manutencao/como-substituir-pastilhas-freio/"
+    url: "/manutencao/como-trocar-pastilhas-freio/"
   - titulo: "Como verificar o fluido de freio"
     url: "/manutencao/como-verificar-fluido-freio/"
   - titulo: "Como trocar o fluido de freio"
@@ -195,7 +195,7 @@ Nesses casos, não adie. O sistema de freios não dá segunda chance.
 
 A **inspeção visual** dos freios (verificar pastilhas pela abertura da pinça, checar o nível e cor do fluido, testar o número de cliques do freio de mão) está ao alcance de qualquer motorista com 30 minutos e um macaco hidráulico.
 
-A **troca de pastilhas** é um procedimento de dificuldade média, com ferramentas básicas, e pode ser feita em casa por quem tem experiência mecânica mínima. Veja o passo a passo completo em [Como substituir pastilhas de freio](/manutencao/como-substituir-pastilhas-freio/).
+A **troca de pastilhas** é um procedimento de dificuldade média, com ferramentas básicas, e pode ser feita em casa por quem tem experiência mecânica mínima. Veja o passo a passo completo em [Como substituir pastilhas de freio](/manutencao/como-trocar-pastilhas-freio/).
 
 Já a **troca de discos, revisão de pinças e sangria do sistema** pedem mais ferramentas, mais conhecimento do procedimento correto e, no caso das pinças, eventualmente um kit de vedações específico para o modelo. Para esses serviços, a oficina é a escolha mais segura para quem não tem experiência.
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Como Checar o Fluido de Arrefecimento do Radiador em 5"
 description: "Como checar fluido de arrefecimento: veja nível, cor e intervalo de troca (40.000 km). Ignorar esse check causa superaquecimento e junta de cabeçote estourada."
 kicker: "HOW-TO · MÃO NA MASSA"
@@ -57,7 +57,7 @@ afiliados:
     cta: "Ver produto"
 relacionados:
   - titulo: "Como Trocar o Óleo do Motor: Guia Completo"
-    url: "/manutencao/como-trocar-oleo-motor-carro/"
+    url: "/manutencao/como-trocar-oleo-motor/"
   - titulo: "Sinais de Superaquecimento do Motor: O Que Fazer"
     url: "/tecnico/motor-superaquecendo-causas-e-solucoes/"
   - titulo: "Junta de Cabeçote: Sintomas, Causas e Custo de Reparo"

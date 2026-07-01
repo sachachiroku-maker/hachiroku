@@ -1,6 +1,6 @@
-﻿---
-title: "Bobine de Ignição: Como Trocar, Sintomas e Custo no Brasil"
-description: "Bobine de ignição ruim causa falha de cilindro e carro tremendo. Veja como testar com multímetro, passo a passo da troca e custo médio de R$ 80 a R$ 350."
+---
+title: "Bobina de Ignição: Como Trocar, Sintomas e Custo no Brasil"
+description: "Bobina de ignição ruim causa falha de cilindro e carro tremendo. Veja como testar com multímetro, passo a passo da troca e custo médio de R$ 80 a R$ 350."
 kicker: "HOW-TO · MÃO NA MASSA"
 veiculo: "Carros nacionais e importados com bobinas individuais — Onix, HB20, Polo, Argo, Corolla, Civic"
 tempo: "30 a 60 minutos"
@@ -59,9 +59,9 @@ afiliados:
     cta: "Ver multímetro recomendado"
 relacionados:
   - titulo: "Como Trocar as Velas de Ignição"
-    url: "/manutencao/como-trocar-velas-de-ignicao/"
+    url: "/manutencao/troca-de-velas/"
   - titulo: "Guia do Scanner OBD2: Como Usar"
-    url: "/manutencao/guia-scanner-obd2-como-usar/"
+    url: "/manutencao/scanner-obd2/"
   - titulo: "Luzes do Painel: O Que Significam"
     url: "/manutencao/luzes-do-painel-o-que-significam/"
   - titulo: "Sistema Elétrica e Eletrônica"

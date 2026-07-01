@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Pastilha de freio desgastada: 5 sinais que seu carro está"
 description: "Pastilha de freio desgastada mata o freio antes dos 40.000 km. Descubra os 5 sinais, como medir com paquímetro e o custo médio de troca em 2026."
 kicker: "HOW-TO · FREIOS"
@@ -55,7 +55,7 @@ afiliados:
     cta: "Ver produto recomendado"
 relacionados:
   - titulo: "Como substituir pastilhas de freio passo a passo"
-    url: "/manutencao/como-substituir-pastilhas-freio/"
+    url: "/manutencao/como-trocar-pastilhas-freio/"
   - titulo: "Como verificar o fluido de freio"
     url: "/manutencao/como-verificar-fluido-freio/"
   - titulo: "Guia completo do sistema de freios"

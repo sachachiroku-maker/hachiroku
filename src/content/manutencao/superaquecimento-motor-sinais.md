@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Motor Superaquecendo: Sinais de Alerta e o Que Fazer Antes"
 description: "Motor superaquecendo pode destruir seu motor em minutos. Saiba reconhecer os 5 sinais de alerta, o que fazer imediatamente e as causas mais comuns em carros nacionais."
 kicker: "EMERGÊNCIA · DIAGNÓSTICO RÁPIDO"
@@ -53,13 +53,13 @@ afiliados:
     cta: "Ver termômetro na Amazon"
 relacionados:
   - titulo: "Como Verificar o Fluido de Arrefecimento"
-    url: "/manutencao/como-verificar-fluido-arrefecimento/"
+    url: "/manutencao/fluido-arrefecimento-como-checar/"
   - titulo: "Sistema de Arrefecimento: Como Funciona"
     url: "/sistema/arrefecimento/"
   - titulo: "Luzes do Painel: O Que Significam"
     url: "/manutencao/luzes-do-painel-o-que-significam/"
   - titulo: "Como Verificar o Óleo do Motor"
-    url: "/manutencao/como-verificar-oleo-do-motor/"
+    url: "/manutencao/como-verificar-nivel-oleo-motor/"
 draft: false
 ---
 
@@ -152,7 +152,7 @@ Um radiador entupido não resfria o fluido com eficiência, e o motor passa a tr
 
 A causa mais simples e a mais comum entre motoristas que não fazem manutenção preventiva. O fluido de arrefecimento evapora lentamente ao longo do tempo e também pode ser perdido por pequenos vazamentos. Se o nível cair muito, o sistema perde eficiência e o motor superaquece.
 
-Verificar o nível do fluido leva 30 segundos e não precisa de ferramenta nenhuma. Faça isso uma vez por mês. Saiba como fazer isso corretamente em nossa página sobre [como verificar o fluido de arrefecimento](/manutencao/como-verificar-fluido-arrefecimento/).
+Verificar o nível do fluido leva 30 segundos e não precisa de ferramenta nenhuma. Faça isso uma vez por mês. Saiba como fazer isso corretamente em nossa página sobre [como verificar o fluido de arrefecimento](/manutencao/fluido-arrefecimento-como-checar/).
 
 ## Temperatura do Motor: Como Ler o Painel Corretamente
 
@@ -212,7 +212,7 @@ Se você estiver em uma estrada sem acesso fácil a uma oficina e o motor supera
 
 Água comum é aceitável em emergência, mas não resolve o problema de base. Ela dilui o fluido de arrefecimento e a mistura não tem a mesma eficiência protetora. Leve o carro à oficina o quanto antes para drenar e recolocar o fluido correto.
 
-Se você tiver acesso a um scanner OBD2, pode verificar a temperatura exata do motor em tempo real. Confira nosso guia sobre [como usar um scanner OBD2](/manutencao/guia-scanner-obd2-como-usar/) para entender como tirar proveito dessa ferramenta.
+Se você tiver acesso a um scanner OBD2, pode verificar a temperatura exata do motor em tempo real. Confira nosso guia sobre [como usar um scanner OBD2](/manutencao/scanner-obd2/) para entender como tirar proveito dessa ferramenta.
 
 ## Quando Ligar Para o Guincho (Sem Tentar Dirigir)
 
@@ -226,4 +226,4 @@ Chame o guincho e não tente dirigir se qualquer uma dessas situações ocorrer:
 
 Nesses casos, o dano pode já ter ocorrido ou estar prestes a ocorrer. Dirigir mais alguns quilômetros não vai ajudar. Vai piorar. O custo de um guincho (entre R$ 100 e R$ 400 dependendo da distância) é infinitamente menor que o custo de uma retífica ou motor novo.
 
-Também fique atento ao nível de óleo: um motor superaquecido pode queimar óleo mais rapidamente. Aproveite para verificar o óleo enquanto espera o motor esfriar. Saiba como fazer isso em nosso guia sobre [como verificar o óleo do motor](/manutencao/como-verificar-oleo-do-motor/).
+Também fique atento ao nível de óleo: um motor superaquecido pode queimar óleo mais rapidamente. Aproveite para verificar o óleo enquanto espera o motor esfriar. Saiba como fazer isso em nosso guia sobre [como verificar o óleo do motor](/manutencao/como-verificar-nivel-oleo-motor/).

@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Limpar terminais de bateria com oxidação: guia passo a passo"
 description: "Limpar terminais de bateria oxidados leva menos de 15 minutos e pode evitar falhas de partida. Veja como usar bicarbonato e graxa dielétrica."
 kicker: "HOW-TO · MÃO NA MASSA"
@@ -60,13 +60,13 @@ afiliados:
     cta: "Ver produto recomendado"
 relacionados:
   - titulo: "Como verificar a bateria do carro"
-    url: "/manutencao/como-verificar-bateria-carro/"
+    url: "/manutencao/como-verificar-e-trocar-bateria/"
   - titulo: "Luzes do painel: o que significam"
     url: "/manutencao/luzes-do-painel-o-que-significam/"
   - titulo: "Sistema elétrica e eletrônica"
     url: "/sistema/eletrica-e-eletronica/"
   - titulo: "Como usar scanner OBD2"
-    url: "/manutencao/guia-scanner-obd2-como-usar/"
+    url: "/manutencao/scanner-obd2/"
 draft: false
 ---
 
@@ -201,7 +201,7 @@ Normalmente, uma leve oxidação nos terminais é resultado do uso normal da bat
 
 Se você identificar qualquer um desses sinais, a limpeza dos terminais é necessária, mas não suficiente. Leve o carro para verificar o sistema de carregamento antes de tentar outra solução.
 
-Para checar se sua bateria ainda está em boas condições, confira nosso guia completo sobre [como verificar a bateria do carro](/manutencao/como-verificar-bateria-carro/) antes de decidir se vale a pena limpar ou já substituir. E se aparecerem luzes no painel depois da reconexão, veja o que cada uma significa em [luzes do painel: o que significam](/manutencao/luzes-do-painel-o-que-significam/).
+Para checar se sua bateria ainda está em boas condições, confira nosso guia completo sobre [como verificar a bateria do carro](/manutencao/como-verificar-e-trocar-bateria/) antes de decidir se vale a pena limpar ou já substituir. E se aparecerem luzes no painel depois da reconexão, veja o que cada uma significa em [luzes do painel: o que significam](/manutencao/luzes-do-painel-o-que-significam/).
 
 ## Vale a pena usar limpadores químicos de terminais vendidos em autopeças?
 

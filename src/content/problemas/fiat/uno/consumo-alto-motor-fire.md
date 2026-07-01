@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Fiat Uno: Consumo alto de combustível — causas e diagnóstico"
 description: "Tudo sobre Consumo alto de combustível — causas e diagnóstico no Fiat Uno --- diagnostico, causas, custos e como resolver. Guia pratico com informacoes verificadas."
 entidade:
@@ -44,7 +44,7 @@ relacionados:
   - titulo: "Fiat Uno: velas de ignição"
     url: "/problemas/fiat/uno/vela-ignicao-fire/"
   - titulo: "Troca de filtro de ar: passo a passo"
-    url: "/manutencao/como-trocar-filtro-ar-motor/"
+    url: "/manutencao/como-trocar-filtro-de-ar/"
   - titulo: "Ficha técnica Fiat Uno"
     url: "/ficha-tecnica/fiat/uno-way-1-0/"
 draft: false

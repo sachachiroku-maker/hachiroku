@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Revisao Preventiva 10000 km: Checklist Completo para Carros"
 description: "Revisao preventiva 10000 km: saiba o que trocar, o que verificar e quanto custa numa oficina simples vs concessionaria. Guia pratico para Onix, HB20, Argo e Polo."
 kicker: "HOW-TO · MAO NA MASSA"
@@ -62,11 +62,11 @@ afiliados:
     cta: "Ver palheta recomendada"
 relacionados:
   - titulo: "Como Trocar o Oleo do Motor"
-    url: "/manutencao/como-trocar-oleo-motor-carro/"
+    url: "/manutencao/como-trocar-oleo-motor/"
   - titulo: "Como Verificar o Oleo do Motor"
-    url: "/manutencao/como-verificar-oleo-do-motor/"
+    url: "/manutencao/como-verificar-nivel-oleo-motor/"
   - titulo: "Como Trocar o Filtro de Ar do Motor"
-    url: "/manutencao/como-trocar-filtro-ar-motor/"
+    url: "/manutencao/como-trocar-filtro-de-ar/"
   - titulo: "Como Verificar o Fluido de Freio"
     url: "/manutencao/como-verificar-fluido-freio/"
 draft: false

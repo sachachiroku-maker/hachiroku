@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Scanner OBD2: como usar para diagnosticar seu carro e entender os códigos"
 description: "Aprenda a conectar um scanner OBD2, ler os códigos de falha do seu carro e entender o que cada um significa. Guia prático, honesto e sem mito, válido para qualquer carro com OBD2."
 kicker: "HOW-TO · DIAGNÓSTICO"
@@ -124,6 +124,70 @@ Um scanner OBD2 de entrada é excelente para ler, interpretar e apagar códigos 
 - **Códigos específicos do fabricante (P1xxx) podem aparecer incompletos.** Apps genéricos nem sempre traduzem esses códigos. Para eles, muitas vezes é preciso um scanner ou software dedicado à marca.
 - **Nem todo sistema passa pela OBD2 genérica.** Funções avançadas de airbag, freio ABS ou módulos de conforto costumam exigir equipamento específico da montadora.
 - **Sem código não significa sem problema.** Falhas mecânicas que não disparam um sensor (um ruído, uma folga, um vazamento) não geram código. O scanner é uma ferramenta de diagnóstico eletrônico, não um raio-X completo do carro.
+
+## Os 5 Melhores Scanners OBD2 de R$50 a R$300
+
+### 1. ELM327 Bluetooth Genérico (R$50 a R$80)
+
+O ponto de entrada do mercado. Funciona com Android via bluetooth. Para iOS, é necessário verificar compatibilidade, pois o iPhone não aceita bluetooth clássico para comunicação serial.
+
+Compatível com Torque Pro e Car Scanner. Ideal para quem quer testar a ferramenta antes de investir mais.
+
+Ponto de atenção: existem versões falsas no mercado com o chip ELM327 clonado (versão 2.1 falsa). Prefira versão 1.5 de vendedores com boa reputação.
+
+### 2. Veepeak Mini Bluetooth OBD2 (R$120 a R$160)
+
+Compacto o suficiente para ficar conectado permanentemente sem travar na coluna do volante. Chip de qualidade com boa estabilidade de conexão.
+
+Compatível com Android diretamente. Para iOS, o fabricante tem versão com bluetooth 4.0 BLE compatível com iPhone.
+
+Bom desempenho na leitura de dados em tempo real, importante para monitorar temperatura do motor, consumo instantâneo e avanço de ignição.
+
+### 3. LAUNCH CR319 com Tela LCD (R$150 a R$200)
+
+Scanner independente com tela integrada. Não precisa de celular ou app. Liga, conecta, lê os códigos e mostra na tela.
+
+Cobre mais de 10.000 modelos de veículos. Apaga códigos e mostra o significado em português (em alguns modelos). Bateria interna recarregável.
+
+Boa escolha para mecânicos iniciantes ou quem prefere uma ferramenta dedicada sem depender do celular.
+
+### 4. BlueDriver Bluetooth Pro (R$220 a R$260)
+
+Fabricado pela Lemur Vehicle Monitors, com app proprietário bem desenvolvido para iOS e Android. Banco de dados extenso com interpretação de códigos em linguagem simples.
+
+Diferencial: o app mostra os reparos mais comuns para cada código baseado em dados reais de outros usuários com o mesmo problema. Funciona como um banco de dados colaborativo de reparos.
+
+### 5. LAUNCH CRP123E com Tela Colorida (R$270 a R$320)
+
+O topo da faixa de entrada para uso doméstico e mecânicos de bairro. Tela colorida de 4 polegadas, diagnóstico de motor, câmbio, ABS e airbag.
+
+Atualização via SD card ou USB. Cobertura ampla de fabricantes nacionais e importados. Exibe dados em tempo real em gráficos e mostra os 10 parâmetros mais importantes simultaneamente.
+
+---
+
+## Os Melhores Apps OBD2 para Android e iOS
+
+### Torque Pro (Android, R$15)
+
+O app mais popular para Android. Interface altamente customizável com dashboards de instrumentos virtuais. Permite criar telas com os parâmetros que você quer monitorar.
+
+Banco de dados de códigos integrado com mais de 11.000 entradas. Suporte a plugins de terceiros para marcas específicas. Gravação de dados em CSV para análise posterior.
+
+Ponto fraco: não tem versão para iOS. Interface um pouco datada, mas funcional.
+
+### Car Scanner ELM OBD2 (Android e iOS, gratuito com compras opcionais)
+
+Melhor opção para quem usa iPhone. Interface moderna com suporte a temas escuro e claro. Leitura de PIDs estendidos para marcas específicas como Toyota, Honda, GM e Volkswagen.
+
+Versão gratuita cobre o básico. A versão paga desbloqueia recursos avançados como suporte a todos os sensores proprietários e exportação de dados.
+
+### OBD Fusion (Android e iOS, R$25)
+
+Desenvolvido pela OCTech, com foco em estabilidade e precisão. Boa cobertura de protocolos e suporte a leitura de módulos secundários além da central do motor.
+
+Interface limpa com dashboards customizáveis. Exporta relatórios em PDF, útil para documentar um diagnóstico antes de levar na oficina.
+
+---
 
 ## O passo a passo resumido
 

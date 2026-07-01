@@ -6,17 +6,161 @@
   "trailingSlash": true,
   "cleanUrls": false,
   "redirects": [
-    { "source": "/problemas/citro%C3%ABn/c3/:path*", "destination": "/problemas/citroen/c3/:path*", "permanent": true },
-    { "source": "/problemas/citro%C3%ABn/c4/:path*", "destination": "/problemas/citroen/c4/:path*", "permanent": true },
-    { "source": "/problemas/byd/song-plus-ev/:path*",             "destination": "/problemas/byd/song-plus/:path*",          "permanent": true },
-    { "source": "/problemas/mitsubishi/l200-triton-sport/:path*", "destination": "/problemas/mitsubishi/l200-triton/:path*", "permanent": true },
-    { "source": "/problemas/volvo/:path*",                        "destination": "/problemas/",                              "permanent": true },
-    { "source": "/problemas/honda/hrv/:path*",                    "destination": "/problemas/honda/hr-v/:path*",              "permanent": true },
-    { "source": "/problemas/volkswagen/tiguan/:path*",            "destination": "/problemas/volkswagen/tiguan-allspace/:path*", "permanent": true },
-    { "source": "/problemas/honda/civic/sistema-el%C3%A9trico-falha/:path*", "destination": "/problemas/honda/civic/sistema-eletrico-falha/", "permanent": true },
-    { "source": "/eletricos/byd-dolphin/:path*",      "destination": "/eletricos/byd/dolphin/",      "permanent": true },
-    { "source": "/eletricos/byd-seal-brasil/:path*",  "destination": "/eletricos/byd/seal/",         "permanent": true },
-    { "source": "/eletricos/hyundai-ioniq-5/:path*",  "destination": "/eletricos/hyundai/ioniq-5/",  "permanent": true }
+    {
+      "source": "/problemas/citro%C3%ABn/c3/:path*",
+      "destination": "/problemas/citroen/c3/:path*",
+      "permanent": true
+    },
+    {
+      "source": "/problemas/citro%C3%ABn/c4/:path*",
+      "destination": "/problemas/citroen/c4/:path*",
+      "permanent": true
+    },
+    {
+      "source": "/problemas/byd/song-plus-ev/:path*",
+      "destination": "/problemas/byd/song-plus/:path*",
+      "permanent": true
+    },
+    {
+      "source": "/problemas/mitsubishi/l200-triton-sport/:path*",
+      "destination": "/problemas/mitsubishi/l200-triton/:path*",
+      "permanent": true
+    },
+    {
+      "source": "/problemas/volvo/:path*",
+      "destination": "/problemas/",
+      "permanent": true
+    },
+    {
+      "source": "/problemas/honda/hrv/:path*",
+      "destination": "/problemas/honda/hr-v/:path*",
+      "permanent": true
+    },
+    {
+      "source": "/problemas/volkswagen/tiguan/:path*",
+      "destination": "/problemas/volkswagen/tiguan-allspace/:path*",
+      "permanent": true
+    },
+    {
+      "source": "/problemas/honda/civic/sistema-el%C3%A9trico-falha/:path*",
+      "destination": "/problemas/honda/civic/sistema-eletrico-falha/",
+      "permanent": true
+    },
+    {
+      "source": "/eletricos/byd-dolphin/:path*",
+      "destination": "/eletricos/byd/dolphin/",
+      "permanent": true
+    },
+    {
+      "source": "/eletricos/byd-seal-brasil/:path*",
+      "destination": "/eletricos/byd/seal/",
+      "permanent": true
+    },
+    {
+      "source": "/eletricos/hyundai-ioniq-5/:path*",
+      "destination": "/eletricos/hyundai/ioniq-5/",
+      "permanent": true
+    },
+    {
+      "source": "/manutencao/como-calibrar-pneus/:path*",
+      "destination": "/manutencao/calibragem-de-pneus/",
+      "permanent": true
+    },
+    {
+      "source": "/manutencao/como-calibrar-pneus-correto/:path*",
+      "destination": "/manutencao/calibragem-de-pneus/",
+      "permanent": true
+    },
+    {
+      "source": "/manutencao/como-trocar-filtro-ar-motor/:path*",
+      "destination": "/manutencao/como-trocar-filtro-de-ar/",
+      "permanent": true
+    },
+    {
+      "source": "/manutencao/como-trocar-filtro-combustivel/:path*",
+      "destination": "/manutencao/como-trocar-filtro-de-combustivel/",
+      "permanent": true
+    },
+    {
+      "source": "/manutencao/como-trocar-oleo-motor-carro/:path*",
+      "destination": "/manutencao/como-trocar-oleo-motor/",
+      "permanent": true
+    },
+    {
+      "source": "/manutencao/como-verificar-bateria-carro/:path*",
+      "destination": "/manutencao/como-verificar-e-trocar-bateria/",
+      "permanent": true
+    },
+    {
+      "source": "/manutencao/como-verificar-fluido-arrefecimento/:path*",
+      "destination": "/manutencao/fluido-arrefecimento-como-checar/",
+      "permanent": true
+    },
+    {
+      "source": "/manutencao/como-verificar-nivel-fluido-arrefecimento/:path*",
+      "destination": "/manutencao/fluido-arrefecimento-como-checar/",
+      "permanent": true
+    },
+    {
+      "source": "/manutencao/verificar-nivel-oleo-motor/:path*",
+      "destination": "/manutencao/como-verificar-nivel-oleo-motor/",
+      "permanent": true
+    },
+    {
+      "source": "/manutencao/como-verificar-oleo-do-motor/:path*",
+      "destination": "/manutencao/como-verificar-nivel-oleo-motor/",
+      "permanent": true
+    },
+    {
+      "source": "/manutencao/como-substituir-pastilhas-freio/:path*",
+      "destination": "/manutencao/como-trocar-pastilhas-freio/",
+      "permanent": true
+    },
+    {
+      "source": "/manutencao/quando-trocar-amortecedores/:path*",
+      "destination": "/manutencao/quando-trocar-amortecedor/",
+      "permanent": true
+    },
+    {
+      "source": "/manutencao/sinais-alternador-com-problema/:path*",
+      "destination": "/manutencao/alternador-falhando-sinais/",
+      "permanent": true
+    },
+    {
+      "source": "/manutencao/como-higienizar-ar-condicionado/:path*",
+      "destination": "/manutencao/higienizacao-ar-condicionado-automotivo/",
+      "permanent": true
+    },
+    {
+      "source": "/manutencao/como-limpar-injetores-combustivel/:path*",
+      "destination": "/manutencao/como-limpar-bicos-injetores/",
+      "permanent": true
+    },
+    {
+      "source": "/manutencao/guia-scanner-obd2-como-usar/:path*",
+      "destination": "/manutencao/scanner-obd2/",
+      "permanent": true
+    },
+    {
+      "source": "/manutencao/como-trocar-velas-de-ignicao/:path*",
+      "destination": "/manutencao/troca-de-velas/",
+      "permanent": true
+    },
+    {
+      "source": "/manutencao/como-trocar-correia-dentada/:path*",
+      "destination": "/manutencao/correia-dentada-quando-trocar/",
+      "permanent": true
+    },
+    {
+      "source": "/manutencao/como-trocar-bobine-ignicao/:path*",
+      "destination": "/manutencao/como-trocar-bobina-ignicao/",
+      "permanent": true
+    },
+    {
+      "source": "/manutencao/como-desembaclar-vidros/:path*",
+      "destination": "/manutencao/como-desembacar-vidros/",
+      "permanent": true
+    }
   ],
   "headers": [
     {

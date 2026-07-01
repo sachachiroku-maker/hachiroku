@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Intervalo troca oleo: mineral, semissintético e sintético —"
 description: "Intervalo troca oleo correto: mineral a cada 5.000 km, semissintético 7.500 km, sintético até 15.000 km. Tabela por modelo popular + dicas de uso urbano."
 kicker: "MANUTENÇÃO · GUIA PRÁTICO"
@@ -52,9 +52,9 @@ afiliados:
     cta: "Ver filtro recomendado"
 relacionados:
   - titulo: "Como trocar o óleo do motor em casa"
-    url: "/manutencao/como-trocar-oleo-motor-carro/"
+    url: "/manutencao/como-trocar-oleo-motor/"
   - titulo: "Como verificar o óleo do motor corretamente"
-    url: "/manutencao/como-verificar-oleo-do-motor/"
+    url: "/manutencao/como-verificar-nivel-oleo-motor/"
   - titulo: "Troca de óleo do câmbio automático"
     url: "/manutencao/troca-oleo-cambio-automatico/"
   - titulo: "Motor e lubrificação: guia do sistema"
@@ -175,7 +175,7 @@ Em algumas situações o óleo se degrada mais rápido do que o esperado e a tro
 
 Se o óleo estiver branco leitoso ou com bolhas, pode haver contaminação com água (líquido de arrefecimento vazando para o motor). Esse é um sinal grave que exige diagnóstico imediato em uma oficina.
 
-Quer saber como verificar o óleo do motor corretamente em casa? Veja nosso guia em [Como verificar o óleo do motor](/manutencao/como-verificar-oleo-do-motor/).
+Quer saber como verificar o óleo do motor corretamente em casa? Veja nosso guia em [Como verificar o óleo do motor](/manutencao/como-verificar-nivel-oleo-motor/).
 
 ## Por que trocar o filtro de óleo é obrigatório
 
@@ -185,7 +185,7 @@ Trocar o óleo sem trocar o filtro é como colocar roupa limpa sem tomar banho. 
 
 O filtro sempre sai junto com o óleo, sem exceção.
 
-Se quiser aprender a fazer a troca completa por conta própria, temos um passo a passo detalhado em [Como trocar o óleo do motor em casa](/manutencao/como-trocar-oleo-motor-carro/).
+Se quiser aprender a fazer a troca completa por conta própria, temos um passo a passo detalhado em [Como trocar o óleo do motor em casa](/manutencao/como-trocar-oleo-motor/).
 
 ## CTA: não espere o motor pedir socorro
 

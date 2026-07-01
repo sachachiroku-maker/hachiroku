@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Barulho no freio: guia completo para identificar e resolver"
 description: "Barulho no freio pode indicar desde pastilha desgastada até disco empenado. Saiba o que cada tipo de rangido ou estralo significa e quando parar de dirigir."
 kicker: "DIAGNÓSTICO · FREIOS"
@@ -50,13 +50,13 @@ afiliados:
     cta: "Ver produto recomendado"
 relacionados:
   - titulo: "Como substituir pastilhas de freio"
-    url: "/manutencao/como-substituir-pastilhas-freio/"
+    url: "/manutencao/como-trocar-pastilhas-freio/"
   - titulo: "Como verificar o fluido de freio"
     url: "/manutencao/como-verificar-fluido-freio/"
   - titulo: "Como trocar o fluido de freio"
     url: "/manutencao/como-trocar-fluido-de-freio/"
   - titulo: "Suspensão: quando trocar os amortecedores"
-    url: "/manutencao/quando-trocar-amortecedores/"
+    url: "/manutencao/quando-trocar-amortecedor/"
 draft: false
 ---
 
@@ -198,11 +198,11 @@ Se o barulho aparece mas nenhum desses sinais acompanha, você tem uma janela de
 
 Se você identificou o barulho no freio do seu carro usando este guia, o próximo passo é agir:
 
-**Para diagnóstico mais aprofundado**: consulte o guia [Como substituir pastilhas de freio](/manutencao/como-substituir-pastilhas-freio/) para entender o processo completo e saber o que esperar na oficina.
+**Para diagnóstico mais aprofundado**: consulte o guia [Como substituir pastilhas de freio](/manutencao/como-trocar-pastilhas-freio/) para entender o processo completo e saber o que esperar na oficina.
 
 **Para verificar o fluido de freio**: siga o passo a passo em [Como verificar o fluido de freio](/manutencao/como-verificar-fluido-freio/). Nível baixo acompanhado de barulho é sinal de desgaste avançado das pastilhas.
 
-**Se o carro também vibra na suspensão**: veja [Quando trocar os amortecedores](/manutencao/quando-trocar-amortecedores/) para descartar problemas de suspensão que imitam sintomas de freio.
+**Se o carro também vibra na suspensão**: veja [Quando trocar os amortecedores](/manutencao/quando-trocar-amortecedor/) para descartar problemas de suspensão que imitam sintomas de freio.
 
 Não adie a inspeção. O custo de uma pastilha trocada no momento certo é sempre menor do que o de um disco destruído por negligência.
 

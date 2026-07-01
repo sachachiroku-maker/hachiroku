@@ -52,7 +52,7 @@ afiliados:
     cta: "Ver produto"
 relacionados:
   - titulo: "Como Trocar o Óleo do Motor: Passo a Passo Completo"
-    url: "/manutencao/como-trocar-oleo-motor-carro/"
+    url: "/manutencao/como-trocar-oleo-motor/"
   - titulo: "Qual o Melhor Óleo para Motor Flex: Guia de Viscosidades"
     url: "/manutencao/melhor-oleo-motor-flex/"
   - titulo: "Luz de Óleo Acendeu no Painel: O Que Fazer Agora"

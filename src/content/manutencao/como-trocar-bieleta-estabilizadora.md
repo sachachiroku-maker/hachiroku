@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Bieleta Estabilizadora: Como Trocar, Sintomas e Custo"
 description: "Bieleta estabilizadora trocar custa entre R$ 30 e R$ 90 por peça. Veja os sintomas de bieleta ruim, ferramentas e o passo a passo completo da troca."
 kicker: "HOW-TO · MÃO NA MASSA"
@@ -62,7 +62,7 @@ relacionados:
   - titulo: "Como Trocar Amortecedores"
     url: "/manutencao/como-trocar-amortecedores/"
   - titulo: "Quando Trocar os Amortecedores"
-    url: "/manutencao/quando-trocar-amortecedores/"
+    url: "/manutencao/quando-trocar-amortecedor/"
   - titulo: "Como Trocar Bucha Estabilizadora"
     url: "/manutencao/como-trocar-bucha-estabilizadora/"
   - titulo: "Alinhamento e Balanceamento"
@@ -234,6 +234,6 @@ Procure um mecânico se:
 - O parafuso quebrou durante a remoção (exige solda ou extrator)
 - Você identificou folga na direção junto com o barulho (pode ser problema no terminal de direção, que é diferente da bieleta)
 
-Para problemas relacionados na suspensão traseira ou dúvidas sobre o estado dos amortecedores, consulte nosso guia [Quando Trocar os Amortecedores](/manutencao/quando-trocar-amortecedores/) antes de tomar uma decisão.
+Para problemas relacionados na suspensão traseira ou dúvidas sobre o estado dos amortecedores, consulte nosso guia [Quando Trocar os Amortecedores](/manutencao/quando-trocar-amortecedor/) antes de tomar uma decisão.
 
 Depois da troca das bieletas, se o carro ficou um tempo com o problema, vale fazer um alinhamento. A instabilidade pode ter afetado a geometria da suspensão. Veja nosso guia de [Alinhamento e Balanceamento](/manutencao/alinhamento-e-balanceamento/) para entender quando é necessário.

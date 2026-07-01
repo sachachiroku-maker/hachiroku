@@ -31,9 +31,9 @@ relacionados:
   - titulo: "Correia do alternador: sintomas de desgaste e custo de troca"
     url: "/manutencao/como-trocar-correia-auxiliar/"
   - titulo: "Luz da bateria no painel acendeu: o que fazer"
-    url: "/manutencao/sinais-alternador-com-problema/"
+    url: "/manutencao/alternador-falhando-sinais/"
   - titulo: "Como trocar correia dentada"
-    url: "/manutencao/como-trocar-correia-dentada/"
+    url: "/manutencao/correia-dentada-quando-trocar/"
 draft: false
 ---
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Como limpar parabrisa por dentro sem riscos ou embaçamento"
 description: "Como limpar parabrisa por dentro em 5 passos: álcool isopropílico, microfibra e técnica correta eliminam 100% do embaçamento. Guia completo do mecânico."
 kicker: "HOW-TO · MÃO NA MASSA"
@@ -51,13 +51,13 @@ afiliados:
     cta: "Ver produto recomendado"
 relacionados:
   - titulo: "Como higienizar ar condicionado do carro"
-    url: "/manutencao/como-higienizar-ar-condicionado/"
+    url: "/manutencao/higienizacao-ar-condicionado-automotivo/"
   - titulo: "Manutenção do ar condicionado do carro"
     url: "/manutencao/manutencao-ar-condicionado-carro/"
   - titulo: "Como limpar injetores de combustível"
-    url: "/manutencao/como-limpar-injetores-combustivel/"
+    url: "/manutencao/como-limpar-bicos-injetores/"
   - titulo: "Como verificar fluido de arrefecimento"
-    url: "/manutencao/como-verificar-fluido-arrefecimento/"
+    url: "/manutencao/fluido-arrefecimento-como-checar/"
 draft: false
 ---
 
@@ -218,7 +218,7 @@ Em casos raros, o embaçamento persistente indica problemas além da sujeira:
 - **Embaçamento que não some mesmo com ar condicionado no máximo:** possível problema no sistema de ar condicionado ou borrachas de vedação com vazamento. Consulte um mecânico.
 - **Manchas fixas que não saem com produto algum:** podem ser danos internos no vidro (oxidação da camada de tratamento ou delaminação de insulfilm velho). Avaliação de vidraceiro automotivo é necessária.
 
-Para problemas relacionados ao sistema de ar condicionado que afetam a umidade interna do veículo, consulte nosso guia de [como higienizar o ar condicionado do carro](/manutencao/como-higienizar-ar-condicionado/).
+Para problemas relacionados ao sistema de ar condicionado que afetam a umidade interna do veículo, consulte nosso guia de [como higienizar o ar condicionado do carro](/manutencao/higienizacao-ar-condicionado-automotivo/).
 
 ---
 

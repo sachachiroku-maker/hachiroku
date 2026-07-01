@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Vazamento de óleo no motor: como identificar de onde vem e o que fazer"
 description: "Vazamento de óleo no motor pode custar de R$ 80 a R$ 1.200 dependendo da origem. Saiba identificar a fonte, a urgência e o custo médio de reparo."
 kicker: "DIAGNÓSTICO · MOTOR E LUBRIFICAÇÃO"
@@ -51,9 +51,9 @@ afiliados:
     cta: "Ver produto recomendado"
 relacionados:
   - titulo: "Como verificar o óleo do motor corretamente"
-    url: "/manutencao/como-verificar-oleo-do-motor/"
+    url: "/manutencao/como-verificar-nivel-oleo-motor/"
   - titulo: "Como trocar o óleo do motor passo a passo"
-    url: "/manutencao/como-trocar-oleo-motor-carro/"
+    url: "/manutencao/como-trocar-oleo-motor/"
   - titulo: "Motor e lubrificação: guia completo do sistema"
     url: "/sistema/motor-e-lubrificacao/"
   - titulo: "Luzes do painel: o que cada uma significa"
@@ -193,7 +193,7 @@ Se o carro está perdendo óleo por qualquer uma das fontes acima, monitorar o n
 4. Entre MIN e MAX está seguro para rodar
 5. Abaixo do MIN: complete antes de ligar
 
-Leia o guia completo em [Como verificar o óleo do motor corretamente](/manutencao/como-verificar-oleo-do-motor/).
+Leia o guia completo em [Como verificar o óleo do motor corretamente](/manutencao/como-verificar-nivel-oleo-motor/).
 
 **Não sabe qual óleo usar para completar?** Consulte o manual do proprietário ou a etiqueta dentro do capô. Misturar óleos de viscosidades diferentes não destrói o motor imediatamente, mas é algo a evitar.
 
@@ -234,6 +234,6 @@ Um vazamento de R$ 150 ignorado por 3 meses pode virar um motor fundido de R$ 6.
 
 Se você identificou alguma das situações de urgência alta desta página, o caminho mais seguro é levar o carro a uma oficina de confiança hoje. Leve as fotos que tirou, informe a posição da mancha no chão e descreva o que observou com a lanterna. Quanto mais dados você der ao mecânico, mais rápido e barato fica o diagnóstico.
 
-Aproveite e leia também [Como trocar o óleo do motor passo a passo](/manutencao/como-trocar-oleo-motor-carro/) para entender o ciclo completo de lubrificação do motor e [Motor e lubrificação: guia completo do sistema](/sistema/motor-e-lubrificacao/) para entender como cada componente se relaciona.
+Aproveite e leia também [Como trocar o óleo do motor passo a passo](/manutencao/como-trocar-oleo-motor/) para entender o ciclo completo de lubrificação do motor e [Motor e lubrificação: guia completo do sistema](/sistema/motor-e-lubrificacao/) para entender como cada componente se relaciona.
 
 Se a luz de pressão de óleo acendeu no painel junto com o vazamento, consulte também [Luzes do painel: o que cada uma significa](/manutencao/luzes-do-painel-o-que-significam/). Essa combinação pode indicar dano já em andamento.

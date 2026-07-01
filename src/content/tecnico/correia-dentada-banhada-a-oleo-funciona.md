@@ -26,7 +26,7 @@ faq:
     resposta: "Não. Diferente de outros componentes mecânicos, ela não emite barulho progressivo nem sintoma detectável pelo motorista. A falha costuma ocorrer de forma súbita, sem qualquer sinal de alerta prévio."
 relacionados:
   - titulo: "Como Trocar a Correia Dentada: Passo a Passo"
-    url: "/manutencao/como-trocar-correia-dentada/"
+    url: "/manutencao/correia-dentada-quando-trocar/"
   - titulo: "Motor EcoBoost Dragon: Ficha Técnica e Pontos de Atenção"
     url: "/tecnico/"
   - titulo: "Corrente de Distribuição: Vantagens, Riscos e Manutenção"

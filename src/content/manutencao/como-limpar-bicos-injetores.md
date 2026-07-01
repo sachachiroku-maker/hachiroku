@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Como limpar bicos injetores: químico vs ultrassônico (e"
 description: "Como limpar bicos injetores custa entre R$ 30 e R$ 250 dependendo do método. Entenda química vs ultrassônica, sintomas e periodicidade certa."
 kicker: "HOW-TO · INJEÇÃO ELETRÔNICA"
@@ -51,9 +51,9 @@ afiliados:
     cta: "Ver produto"
 relacionados:
   - titulo: "Como trocar o óleo do motor do carro"
-    url: "/manutencao/como-trocar-oleo-motor-carro/"
+    url: "/manutencao/como-trocar-oleo-motor/"
   - titulo: "Filtro de combustível: quando trocar e sinais de entupimento"
-    url: "/manutencao/como-trocar-filtro-combustivel/"
+    url: "/manutencao/como-trocar-filtro-de-combustivel/"
   - titulo: "Carro consumindo mais gasolina: 7 causas e como resolver"
     url: "/manutencao/"
 draft: false

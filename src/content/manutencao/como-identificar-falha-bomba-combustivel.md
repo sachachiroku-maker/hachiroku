@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Bomba de combustível falhando: como identificar e o que fazer"
 description: "Bomba de combustível falhando custa R$ 300 a R$ 900 para trocar. Veja os 6 sinais, o teste simples de pressão e a vida útil média de 100.000 km."
 kicker: "DIAGNÓSTICO · MOTOR E COMBUSTÍVEL"
@@ -53,11 +53,11 @@ afiliados:
     cta: "Ver bomba Bosch disponível"
 relacionados:
   - titulo: "Como limpar injetores de combustível"
-    url: "/manutencao/como-limpar-injetores-combustivel/"
+    url: "/manutencao/como-limpar-bicos-injetores/"
   - titulo: "Luzes do painel: o que significam"
     url: "/manutencao/luzes-do-painel-o-que-significam/"
   - titulo: "Guia do scanner OBD2: como usar"
-    url: "/manutencao/guia-scanner-obd2-como-usar/"
+    url: "/manutencao/scanner-obd2/"
   - titulo: "Motor e lubrificação"
     url: "/sistema/motor-e-lubrificacao/"
 draft: false

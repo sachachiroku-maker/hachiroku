@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Luzes do painel do carro: o que cada uma significa e o que fazer"
 description: "Quando uma luz acende no painel, ela tem uma cor e uma razão. Entenda o código de cores (vermelho, laranja, amarelo, verde e azul), o que cada símbolo indica e se você pode continuar dirigindo."
 kicker: "HOW-TO · PAINEL E ALERTAS"
@@ -42,7 +42,7 @@ afiliados:
     programa: "amazon"
 relacionados:
   - titulo: "Como verificar o óleo do motor: nível, cor e quando trocar"
-    url: "/manutencao/como-verificar-oleo-do-motor/"
+    url: "/manutencao/como-verificar-nivel-oleo-motor/"
   - titulo: "Troca de óleo do Onix turbo: a especificação certa que protege a correia"
     url: "/manutencao/troca-de-oleo-onix-turbo/"
 draft: false

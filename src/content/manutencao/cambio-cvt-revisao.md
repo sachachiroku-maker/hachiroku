@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Câmbio CVT revisão: o guia completo de manutenção e fluido"
 description: "Câmbio CVT revisão com intervalo correto de troca do fluido, custo médio e sinais de problema. Saiba tudo sobre manutenção do CVT do seu Kicks, March ou Corolla Cross."
 kicker: "MANUTENÇÃO · CÂMBIO E TRANSMISSÃO"
@@ -62,7 +62,7 @@ relacionados:
   - titulo: "Câmbio e transmissão: guia completo do sistema"
     url: "/sistema/cambio-e-transmissao/"
   - titulo: "Scanner OBD2: como usar para ler falhas"
-    url: "/manutencao/guia-scanner-obd2-como-usar/"
+    url: "/manutencao/scanner-obd2/"
 draft: false
 ---
 

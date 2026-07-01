@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Filtro de óleo quando trocar: o guia completo para não errar"
 description: "Filtro de óleo quando trocar: intervalo certo é a cada 10.000-15.000 km. Saiba sinais de entupimento, consequências e marcas recomendadas no Brasil."
 kicker: "HOW-TO · MÃO NA MASSA"
@@ -56,9 +56,9 @@ afiliados:
     cta: "Ver filtro Mahle na Amazon"
 relacionados:
   - titulo: "Como trocar o óleo do motor do carro"
-    url: "/manutencao/como-trocar-oleo-motor-carro/"
+    url: "/manutencao/como-trocar-oleo-motor/"
   - titulo: "Como verificar o óleo do motor"
-    url: "/manutencao/como-verificar-oleo-do-motor/"
+    url: "/manutencao/como-verificar-nivel-oleo-motor/"
   - titulo: "Luzes do painel: o que significam"
     url: "/manutencao/luzes-do-painel-o-que-significam/"
   - titulo: "Motor e lubrificação: guia completo"
@@ -158,7 +158,7 @@ Essa decisão depende de três fatores: acesso ao filtro no seu carro, disposiç
 
 Para carros simples como Onix, HB20, Argo e Polo 1.0, a troca é acessível para quem tem disposição. Para carros com motor mais complexo ou turbo, vale considerar a oficina para não correr risco com a vedação.
 
-**Quer aprender o passo a passo completo da troca de óleo e filtro juntos?** Confira nosso guia detalhado em [Como trocar o óleo do motor do carro](/manutencao/como-trocar-oleo-motor-carro/) com fotos de cada etapa.
+**Quer aprender o passo a passo completo da troca de óleo e filtro juntos?** Confira nosso guia detalhado em [Como trocar o óleo do motor do carro](/manutencao/como-trocar-oleo-motor/) com fotos de cada etapa.
 
 ## Tipos de filtro de óleo: rosqueável x cartucho
 
@@ -174,6 +174,6 @@ Muita dúvida aparece quando o assunto é o intervalo certo e o que acontece qua
 
 Se você acabou de comprar um carro usado e não sabe quando foi a última troca, faça a troca imediatamente. Não arrisque rodar com histórico de manutenção desconhecido.
 
-Para verificar se o óleo atual ainda está em condições razoáveis antes de decidir a urgência da troca, veja nosso guia em [Como verificar o óleo do motor](/manutencao/como-verificar-oleo-do-motor/).
+Para verificar se o óleo atual ainda está em condições razoáveis antes de decidir a urgência da troca, veja nosso guia em [Como verificar o óleo do motor](/manutencao/como-verificar-nivel-oleo-motor/).
 
 E se a luz de óleo ou qualquer outra luz do painel acendeu depois de uma troca mal feita, consulte [Luzes do painel: o que significam](/manutencao/luzes-do-painel-o-que-significam/) para entender o que cada símbolo indica.

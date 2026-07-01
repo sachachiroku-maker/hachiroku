@@ -1,4 +1,4 @@
-﻿---
+---
 title: "RAM Rampage: Superaquecimento do motor — causas e diagnóstico"
 description: "Tudo sobre Superaquecimento do motor — causas e diagnóstico no RAM Rampage --- diagnostico, causas, custos e como resolver. Guia pratico com informacoes verificadas."
 entidade:
@@ -46,7 +46,7 @@ relacionados:
   - titulo: "Superaquecimento do motor: sinais"
     url: "/manutencao/superaquecimento-motor-sinais/"
   - titulo: "Como verificar fluido de arrefecimento"
-    url: "/manutencao/como-verificar-fluido-arrefecimento/"
+    url: "/manutencao/fluido-arrefecimento-como-checar/"
 draft: false
 ---
 

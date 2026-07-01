@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Check Engine Acendeu: o que fazer e as 10 causas mais comuns"
 description: "Check engine acendeu? Descubra as 10 causas mais comuns em Onix, HB20, Polo, Argo e Tracker, custo médio de cada reparo e quando correr ao mecânico."
 kicker: "DIAGNÓSTICO · ELETRICIDADE"
@@ -51,13 +51,13 @@ afiliados:
     cta: "Ver velas de ignição NGK"
 relacionados:
   - titulo: "Guia completo: como usar o scanner OBD2"
-    url: "/manutencao/guia-scanner-obd2-como-usar/"
+    url: "/manutencao/scanner-obd2/"
   - titulo: "Luzes do painel: o que cada uma significa"
     url: "/manutencao/luzes-do-painel-o-que-significam/"
   - titulo: "Como trocar velas de ignição"
-    url: "/manutencao/como-trocar-velas-de-ignicao/"
+    url: "/manutencao/troca-de-velas/"
   - titulo: "Como limpar injetores de combustível"
-    url: "/manutencao/como-limpar-injetores-combustivel/"
+    url: "/manutencao/como-limpar-bicos-injetores/"
 draft: false
 ---
 
@@ -185,7 +185,7 @@ Um scanner OBD2 básico resolve a etapa de diagnóstico em casa ou no estacionam
 5. **Anote os códigos** e se estão "ativos" ou "pendentes"
 6. Pesquise o código para o modelo específico do seu carro antes de ir ao mecânico
 
-Se quiser entender melhor como funciona o scanner e quais aplicativos usar, o artigo [Guia completo: como usar o scanner OBD2](/manutencao/guia-scanner-obd2-como-usar/) explica passo a passo.
+Se quiser entender melhor como funciona o scanner e quais aplicativos usar, o artigo [Guia completo: como usar o scanner OBD2](/manutencao/scanner-obd2/) explica passo a passo.
 
 **Levar o scanner OBD2 ao mecânico também ajuda:** você monitora se o código voltou depois do reparo e comprova se o problema foi realmente resolvido.
 
@@ -245,4 +245,4 @@ A maioria das causas mais comuns da check engine pode ser prevenida com manuten�
 - **Verificação periódica do líquido de arrefecimento**: evita problemas no sistema de temperatura
 - **Revisão do sistema de escapamento**: sonda lambda e catalisador duram mais quando o escapamento está sem vazamentos
 
-Se quiser revisar as velas do seu carro, o artigo [Como trocar velas de ignição](/manutencao/como-trocar-velas-de-ignicao/) mostra o processo completo. Para entender melhor o que cada luz do painel significa (não só a check engine), confira [Luzes do painel: o que cada uma significa](/manutencao/luzes-do-painel-o-que-significam/).
+Se quiser revisar as velas do seu carro, o artigo [Como trocar velas de ignição](/manutencao/troca-de-velas/) mostra o processo completo. Para entender melhor o que cada luz do painel significa (não só a check engine), confira [Luzes do painel: o que cada uma significa](/manutencao/luzes-do-painel-o-que-significam/).

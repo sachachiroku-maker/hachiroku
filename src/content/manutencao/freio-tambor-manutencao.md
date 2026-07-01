@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Freio Tambor Manutenção: tudo que o motorista precisa saber"
 description: "Freio tambor manutenção: entenda quando lixar, quando trocar e os sinais de desgaste. Guia completo para Onix, HB20 e Argo com custo de revisão."
 kicker: "HOW-TO · MÃO NA MASSA"
@@ -62,7 +62,7 @@ afiliados:
     cta: "Ver produto recomendado"
 relacionados:
   - titulo: "Como substituir pastilhas de freio"
-    url: "/manutencao/como-substituir-pastilhas-freio/"
+    url: "/manutencao/como-trocar-pastilhas-freio/"
   - titulo: "Como verificar o fluido de freio"
     url: "/manutencao/como-verificar-fluido-freio/"
   - titulo: "Como trocar o fluido de freio"

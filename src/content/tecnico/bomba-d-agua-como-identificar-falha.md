@@ -28,9 +28,9 @@ faq:
     resposta: "Volkswagen Golf, Polo e Virtus com motor EA211, Chevrolet Cruze com motor LFH/Ecotec 1.4 turbo, e Honda Civic com motor R18A figuram entre os modelos com maior incidência de relatos de falha em fóruns especializados e dados de oficinas multimarcas."
 relacionados:
   - titulo: "Como trocar a correia dentada: intervalos, custo e risco de quebra"
-    url: "/manutencao/como-trocar-correia-dentada/"
+    url: "/manutencao/correia-dentada-quando-trocar/"
   - titulo: "Líquido de arrefecimento: qual usar, quando trocar e quanto custa"
-    url: "/manutencao/como-verificar-fluido-arrefecimento/"
+    url: "/manutencao/fluido-arrefecimento-como-checar/"
   - titulo: "Motor superaquecendo: causas, o que fazer e quanto custa resolver"
     url: "/tecnico/motor-superaquecendo-causas-e-solucoes/"
 draft: false

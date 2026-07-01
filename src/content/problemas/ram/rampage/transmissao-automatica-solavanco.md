@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Rampage 1.3 T270: solavanco ao engatar marcha"
 pubDate: 2026-06-21
 updatedDate: 2026-06-21
@@ -73,7 +73,7 @@ relacionados:
   - titulo: "Como trocar o ATF do câmbio automático em casa"
     url: "/manutencao/troca-oleo-cambio-automatico/"
   - titulo: "Erros OBD mais comuns em pickups modernas"
-    url: "/manutencao/guia-scanner-obd2-como-usar/"
+    url: "/manutencao/scanner-obd2/"
 ---
 
 ## Rampage 1.3 T270: solavanco ao engatar D ou R com motor frio

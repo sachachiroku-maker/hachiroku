@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Checklist para vistoria de carro usado"
 description: "Um guia completo com checklist visual para inspecionar documentação, funilaria, motor, elétrica, suspensão e freios antes de comprar um carro usado. Evite as armadilhas mais comuns."
 kicker: "GUIA DE COMPRA · DECISÃO"
@@ -83,7 +83,7 @@ relacionados:
   - titulo: "Onix usado vale a pena? O que verificar antes de comprar"
     url: "/guia-de-compra/usados/onix-usado-vale-a-pena/"
   - titulo: "Como verificar o óleo do motor: nível, cor e quando trocar"
-    url: "/manutencao/como-verificar-oleo-do-motor/"
+    url: "/manutencao/como-verificar-nivel-oleo-motor/"
   - titulo: "Consertar ou trocar: quando vale a pena manter o carro"
     url: "/guia-de-compra/consertar-ou-trocar-vale-a-pena/"
 draft: false

@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Como verificar pastilhas de freio sem desmontagem"
 description: "Como verificar pastilhas de freio em 3 testes simples: inspeção visual pela roda, teste de rangido e vibração. Espessura mínima de 3mm. Saiba quando ir à oficina."
 kicker: "HOW-TO · MÃO NA MASSA"
@@ -60,7 +60,7 @@ afiliados:
     cta: "Ver produto"
 relacionados:
   - titulo: "Como trocar pastilhas de freio: passo a passo completo"
-    url: "/manutencao/como-substituir-pastilhas-freio/"
+    url: "/manutencao/como-trocar-pastilhas-freio/"
   - titulo: "Barulho ao frear: o que pode ser e como identificar"
     url: "/manutencao/barulhos-no-freio/"
   - titulo: "Disco de freio empenado: sintomas, causas e solução"

@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Alternador com problema: 7 sinais que seu carro está"
 description: "Alternador com problema causa bateria descarregando em horas, luz acesa no painel e faróis oscilando. Veja como testar com multímetro e o custo de troca em BH, SP e RJ."
 kicker: "DIAGNÓSTICO · SISTEMA ELÉTRICO"
@@ -53,13 +53,13 @@ afiliados:
     cta: "Ver carregador recomendado"
 relacionados:
   - titulo: "Como verificar a bateria do carro"
-    url: "/manutencao/como-verificar-bateria-carro/"
+    url: "/manutencao/como-verificar-e-trocar-bateria/"
   - titulo: "Luzes do painel: o que cada uma significa"
     url: "/manutencao/luzes-do-painel-o-que-significam/"
   - titulo: "Sistema elétrico e eletrônico do carro"
     url: "/sistema/eletrica-e-eletronica/"
   - titulo: "Como usar o scanner OBD2"
-    url: "/manutencao/guia-scanner-obd2-como-usar/"
+    url: "/manutencao/scanner-obd2/"
 draft: false
 ---
 
@@ -187,7 +187,7 @@ Se você já sabe que o alternador está ruim mas não consegue ir à oficina im
 
 Vale recarregar a bateria em casa, mas saiba que isso resolve o sintoma, não a causa. Com o alternador falhando, a bateria vai se esgotar novamente em poucas horas de uso.
 
-Precisa entender se o problema é na bateria ou no alternador antes de gastar dinheiro? Leia o guia completo de [como verificar a bateria do carro](/manutencao/como-verificar-bateria-carro/) antes de decidir o que trocar.
+Precisa entender se o problema é na bateria ou no alternador antes de gastar dinheiro? Leia o guia completo de [como verificar a bateria do carro](/manutencao/como-verificar-e-trocar-bateria/) antes de decidir o que trocar.
 
 ## Alternador ou bateria: como saber qual é o culpado
 
