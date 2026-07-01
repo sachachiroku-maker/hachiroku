@@ -7,7 +7,7 @@ entidade:
   motor: "1.0 Turbo CSS Prime"
   geracao: "2020–2026"
 defeito: "Falha na transmissão CVT"
-kicker: "DEFEITO CRÔNICO · ALTA INTENÇÃO"
+kicker: "DEFEITO CRÔNICO"
 intencao: "Diagnóstico + solução"
 entidadesEssenciais: ["Chevrolet Tracker", "câmbio CVT", "transmissão automática", "correia CVT", "fluido ATF CVT", "CSS Prime turbo"]
 pontosChave:

@@ -16,7 +16,7 @@ const Tag = as;
 ---
 <Tag class={`eyebrow eyebrow-${tone} ${cls}`}>
   {number
-    ? <span class="eyebrow-num">{number}</span>
+    ? <span class="eyebrow-num" aria-hidden="true">{number}</span>
     : (tick && <span class="eyebrow-tick" aria-hidden="true"></span>)}
   <slot />
 </Tag>

@@ -7,7 +7,7 @@ entidade:
   motor: "Fire Evo 1.0 8v"
   geracao: "2016–2026"
 defeito: "Motor superaquecendo no trânsito"
-kicker: "DEFEITO CRÔNICO · ALTA INTENÇÃO"
+kicker: "DEFEITO CRÔNICO"
 intencao: "Diagnóstico de emergência + solução"
 entidadesEssenciais: ["Fiat Mobi", "motor Fire Evo", "ventoinha elétrica", "termostato", "radiador", "corrente de comando"]
 pontosChave:

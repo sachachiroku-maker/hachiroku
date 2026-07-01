@@ -7,7 +7,7 @@ entidade:
   motor: "1.0 SmartStream / 1.0 Kappa / 1.6 Gamma"
   geracao: "2012–2026"
 defeito: "Ar-condicionado fraco ou não gela"
-kicker: "DEFEITO CRÔNICO · ALTA INTENÇÃO"
+kicker: "DEFEITO CRÔNICO"
 intencao: "Diagnóstico + solução"
 entidadesEssenciais: ["Hyundai HB20", "compressor de A/C", "gás R134a", "filtro de cabine", "condensador", "válvula de expansão", "câmbio CVT"]
 pontosChave:

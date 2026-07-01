@@ -7,7 +7,7 @@ entidade:
   motor: "1.0 Turbo CSS Prime"
   geracao: "2020–2026"
 defeito: "Perda de potência no turbo"
-kicker: "DEFEITO CRÔNICO · ALTA INTENÇÃO"
+kicker: "DEFEITO CRÔNICO"
 intencao: "Diagnóstico + solução"
 entidadesEssenciais: ["Chevrolet Onix", "motor CSS Prime 1.0 turbo", "sensor MAP", "corpo de borboleta", "turbocompressor", "vela de ignição iridium"]
 pontosChave:

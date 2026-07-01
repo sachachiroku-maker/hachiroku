@@ -7,7 +7,7 @@ entidade:
   motor: "2.0 TSI (EA888)"
   geracao: "2ª geração (2018–atual)"
 defeito: "tranco e solavanco no câmbio DSG 7 em baixa velocidade"
-kicker: "DEFEITO CRÔNICO · ALTA INTENÇÃO"
+kicker: "DEFEITO CRÔNICO"
 intencao: "Diagnóstico"
 entidadesEssenciais:
   - "câmbio DSG 7"

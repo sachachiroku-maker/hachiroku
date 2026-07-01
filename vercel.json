@@ -13,7 +13,10 @@
     { "source": "/problemas/volvo/:path*",                        "destination": "/problemas/",                              "permanent": true },
     { "source": "/problemas/honda/hrv/:path*",                    "destination": "/problemas/honda/hr-v/:path*",              "permanent": true },
     { "source": "/problemas/volkswagen/tiguan/:path*",            "destination": "/problemas/volkswagen/tiguan-allspace/:path*", "permanent": true },
-    { "source": "/problemas/honda/civic/sistema-el%C3%A9trico-falha/:path*", "destination": "/problemas/honda/civic/sistema-eletrico-falha/", "permanent": true }
+    { "source": "/problemas/honda/civic/sistema-el%C3%A9trico-falha/:path*", "destination": "/problemas/honda/civic/sistema-eletrico-falha/", "permanent": true },
+    { "source": "/eletricos/byd-dolphin/:path*",      "destination": "/eletricos/byd/dolphin/",      "permanent": true },
+    { "source": "/eletricos/byd-seal-brasil/:path*",  "destination": "/eletricos/byd/seal/",         "permanent": true },
+    { "source": "/eletricos/hyundai-ioniq-5/:path*",  "destination": "/eletricos/hyundai/ioniq-5/",  "permanent": true }
   ],
   "headers": [
     {

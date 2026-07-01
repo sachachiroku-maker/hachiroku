@@ -7,7 +7,7 @@ entidade:
   motor: "YD25DDTi 2.5 diesel"
   geracao: "2008–2021 (D40/D23)"
 defeito: "Superaquecimento do motor"
-kicker: "DEFEITO CRÔNICO · ALTA INTENÇÃO"
+kicker: "DEFEITO CRÔNICO"
 intencao: "Diagnóstico + prevenção"
 entidadesEssenciais: ["Nissan Frontier", "motor YD25", "junta de cabeçote", "termostato", "sistema EGR", "radiador diesel", "fluido de arrefecimento"]
 pontosChave:

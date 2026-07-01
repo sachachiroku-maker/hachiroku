@@ -6,7 +6,7 @@ entidade:
   modelo: "Montana"
   motor: "1.2 turbo CSS Prime"
 defeito: "correia dentada banhada a óleo com óleo fora de especificação"
-kicker: "DEFEITO CRÔNICO · ALTA INTENÇÃO"
+kicker: "DEFEITO CRÔNICO"
 intencao: "Diagnóstico"
 entidadesEssenciais:
   - "correia dentada banhada a óleo"

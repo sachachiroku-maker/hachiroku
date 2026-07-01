@@ -1,9 +1,17 @@
 ---
 /**
- * Schema global do site — WebSite + Organization + SearchAction.
+ * Schema global do site — WebSite + Organization + SearchAction + SiteNavigationElement.
  * Declarado UMA vez no BaseLayout; as páginas referenciam via @id.
  */
 const site = 'https://hachiroku.com.br';
+const navItens = [
+  { name: 'Problemas', url: `${site}/problemas/` },
+  { name: 'Manutenção', url: `${site}/manutencao/` },
+  { name: 'Guia de compra', url: `${site}/guia-de-compra/` },
+  { name: 'Ficha técnica', url: `${site}/ficha-tecnica/` },
+  { name: 'Elétricos', url: `${site}/eletricos/` },
+  { name: 'Marcas', url: `${site}/marca/` },
+];
 const graph = {
   '@context': 'https://schema.org',
   '@graph': [
@@ -53,6 +61,17 @@ const graph = {
         },
         'query-input': 'required name=search_term_string',
       },
+    },
+    {
+      '@type': 'ItemList',
+      '@id': `${site}/#sitenav`,
+      name: 'Navegação principal',
+      itemListElement: navItens.map((n, i) => ({
+        '@type': 'SiteNavigationElement',
+        position: i + 1,
+        name: n.name,
+        url: n.url,
+      })),
     },
   ],
 };

@@ -7,7 +7,7 @@ entidade:
   motor: "Fire 1.0 / Fire 1.4"
   geracao: "2004–2018"
 defeito: "Motor superaquecendo"
-kicker: "DEFEITO CRÔNICO · ALTA INTENÇÃO"
+kicker: "DEFEITO CRÔNICO"
 intencao: "Diagnóstico de emergência"
 entidadesEssenciais: ["Fiat Uno", "motor Fire", "junta de cabeçote", "ventoinha", "termostato", "radiador", "anticongelante"]
 pontosChave:

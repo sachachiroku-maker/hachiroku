@@ -46,7 +46,7 @@ relacionados:
   - titulo: "Vale a pena comprar elétrico no Brasil?"
     url: "/eletricos/vale-a-pena-comprar-carro-eletrico-brasil/"
   - titulo: "BYD Dolphin: autonomia e recarga"
-    url: "/eletricos/byd-dolphin/"
+    url: "/eletricos/byd/dolphin/"
 draft: false
 ---
 

@@ -7,7 +7,7 @@ entidade:
   motor: "SCe 1.0 / SCe 1.0 Turbo"
   geracao: "2017–2026"
 defeito: "Consumo alto de combustível"
-kicker: "DEFEITO CRÔNICO · ALTA INTENÇÃO"
+kicker: "DEFEITO CRÔNICO"
 intencao: "Diagnóstico + economia"
 entidadesEssenciais: ["Renault Kwid", "motor SCe 1.0", "sensor lambda", "filtro de ar", "injeção eletrônica", "consumo médio"]
 pontosChave:

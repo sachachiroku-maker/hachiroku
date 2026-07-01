@@ -7,7 +7,7 @@ entidade:
   motor: "1.3 T270 Turbo Flex"
   geracao: "2023–2026"
 defeito: "Perda de potência no turbo"
-kicker: "DEFEITO CRÔNICO · ALTA INTENÇÃO"
+kicker: "DEFEITO CRÔNICO"
 intencao: "Diagnóstico + solução"
 entidadesEssenciais: ["RAM Rampage", "motor T270", "turbocompressor", "sensor MAP", "atualizações ECU", "mangueira de pressão", "Stellantis"]
 pontosChave:

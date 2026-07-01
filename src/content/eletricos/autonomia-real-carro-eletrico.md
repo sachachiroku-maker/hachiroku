@@ -5,7 +5,7 @@ entidade:
   marca: "Geral"
   modelo: "Carro Elétrico"
   tipo: "Elétrico"
-kicker: "VERTICAL EV · DADOS REAIS"
+kicker: "CARRO ELÉTRICO · DADOS REAIS"
 intencao: "Pesquisa técnica"
 entidadesEssenciais:
   - "autonomia WLTP"

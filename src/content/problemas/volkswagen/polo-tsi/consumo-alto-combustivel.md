@@ -7,7 +7,7 @@ entidade:
   motor: "EA211 1.0 TSI 116 cv"
   geracao: "2018–2026"
 defeito: "Consumo alto de combustível"
-kicker: "DEFEITO CRÔNICO · ALTA INTENÇÃO"
+kicker: "DEFEITO CRÔNICO"
 intencao: "Diagnóstico + solução"
 entidadesEssenciais: ["Volkswagen Polo TSI", "motor EA211", "sensor MAF", "injeção direta GDI", "carvão nas válvulas", "câmbio automático Aisin"]
 pontosChave:

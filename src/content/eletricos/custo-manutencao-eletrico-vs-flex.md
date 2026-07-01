@@ -5,7 +5,7 @@ entidade:
   marca: "Comparativo"
   modelo: "Elétrico vs Flex"
   tipo: "Elétrico"
-kicker: "VERTICAL EV · ALTA DEMANDA"
+kicker: "CARRO ELÉTRICO"
 intencao: "comparar custos de manutenção entre carros elétricos e flex no Brasil em valores reais por quilômetro"
 entidadesEssenciais:
   - "carro elétrico"

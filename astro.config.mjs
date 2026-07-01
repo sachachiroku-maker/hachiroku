@@ -86,6 +86,10 @@ export default defineConfig({
     '/problemas/byd/song-plus-ev/':            { destination: '/problemas/byd/song-plus/',           status: 301 },
     '/problemas/mitsubishi/l200-triton-sport/':{ destination: '/problemas/mitsubishi/l200-triton/',  status: 301 },
     '/problemas/volvo/c40-recharge/':          { destination: '/problemas/',                         status: 301 },
+    // Consolidação /eletricos flat → marca/modelo (roll-call squads 2026-07-01)
+    '/eletricos/byd-dolphin/':                 { destination: '/eletricos/byd/dolphin/',             status: 301 },
+    '/eletricos/byd-seal-brasil/':             { destination: '/eletricos/byd/seal/',                status: 301 },
+    '/eletricos/hyundai-ioniq-5/':             { destination: '/eletricos/hyundai/ioniq-5/',         status: 301 },
   },
   build: {
     inlineStylesheets: 'auto',

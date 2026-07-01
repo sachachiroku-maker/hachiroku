@@ -5,7 +5,7 @@ entidade:
   marca: "Geral"
   modelo: "Carro Elétrico"
   tipo: "Elétrico"
-kicker: "VERTICAL EV · ANÁLISE"
+kicker: "CARRO ELÉTRICO · ANÁLISE"
 intencao: "Decisão de compra"
 entidadesEssenciais:
   - "carro elétrico"

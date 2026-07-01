@@ -5,7 +5,7 @@ entidade:
   marca: "Geral"
   modelo: "Veículos Elétricos"
   tipo: "Elétrico"
-kicker: "VERTICAL EV · ALTA DEMANDA"
+kicker: "CARRO ELÉTRICO"
 intencao: "guia informacional com intenção transacional latente — usuário quer saber como recarregar e quanto custa"
 entidadesEssenciais:
   - "Recarga AC Tipo 2"

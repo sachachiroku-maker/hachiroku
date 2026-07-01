@@ -26,9 +26,9 @@ faq:
     resposta: "Não. O Bolt EV utiliza motor elétrico único no eixo traseiro, com tração traseira (RWD). Não existe versão AWD disponível no Brasil até o momento. Para quem precisa de tração integral, o BYD Seal AWD ou o Tesla Model Y AWD são alternativas diretas."
 relacionados:
   - titulo: "BYD Dolphin 2026: o elétrico compacto que brigou de frente com o Bolt"
-    url: "/eletricos/byd-dolphin/"
+    url: "/eletricos/byd/dolphin/"
   - titulo: "Hyundai Ioniq 5: tecnologia 800V e recarga ultrarrápida no Brasil"
-    url: "/eletricos/hyundai-ioniq-5/"
+    url: "/eletricos/hyundai/ioniq-5/"
   - titulo: "Quanto custa carregar um carro elétrico no Brasil em 2026?"
     url: "/eletricos/custo-km-eletrico-vs-gasolina/"
 draft: false

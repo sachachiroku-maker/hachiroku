@@ -1,7 +1,7 @@
 ﻿---
 title: "BYD Song Plus EV: autonomia real e custo por km"
 description: "Descubra a autonomia real do BYD Song Plus EV no Brasil: entre 420 km e 480 km, 25% abaixo do CLTC oficial. Saiba calcular o custo por km, configurar o carregamento doméstico e comparar com a gasolina."
-kicker: "VERTICAL EV · ALTA DEMANDA"
+kicker: "CARRO ELÉTRICO"
 pubDate: 2026-06-21
 updatedDate: 2026-06-21
 entidade:

@@ -17,6 +17,24 @@ const nome = `${data.marca} ${data.modelo} ${data.ano} ${data.versao}`;
 const fichaImagem = `${site}${fotoPorModelo(data.marca, data.modelo, 'ficha')}`;
 const _fichaModeloKey = `${data.marca.toLowerCase()}/${data.modelo.toLowerCase().replace(/\s+/g, '-')}`;
 
+// Specs dos grupos k/v do frontmatter → PropertyValue (Vehicle herda additionalProperty de Product)
+const specGroups: [string, { k: string; v: string }[]][] = [
+  ['Motor', data.motor ?? []],
+  ['Transmissão', data.transmissao ?? []],
+  ['Desempenho', data.desempenho ?? []],
+  ['Consumo', data.consumo ?? []],
+  ['Dimensões', data.dimensoes ?? []],
+  ['Chassi', data.chassi ?? []],
+];
+const additionalProperty = specGroups.flatMap(([grupo, specs]) =>
+  specs.map((s) => ({
+    '@type': 'PropertyValue',
+    name: s.k,
+    value: s.v,
+    propertyID: grupo,
+  }))
+);
+
 const graph: any[] = [
   {
     '@type': 'BreadcrumbList',
@@ -53,12 +71,16 @@ const graph: any[] = [
     '@type': 'Vehicle',
     '@id': `${url}#vehicle`,
     name: nome,
+    description: data.description,
+    image: fichaImagem,
+    brand: { '@type': 'Brand', name: data.marca },
     manufacturer: { '@type': 'Organization', name: data.marca },
     model: data.modelo,
     modelDate: String(data.ano),
     vehicleConfiguration: data.versao,
     bodyType: data.carroceria ?? undefined,
     fuelType: data.combustivel,
+    ...(additionalProperty.length ? { additionalProperty } : {}),
     ...(data.cilindrada
       ? { vehicleEngine: { '@type': 'EngineSpecification', engineDisplacement: data.cilindrada } }
       : {}),
