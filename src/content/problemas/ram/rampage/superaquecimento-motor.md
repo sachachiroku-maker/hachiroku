@@ -47,7 +47,7 @@ relacionados:
     url: "/manutencao/superaquecimento-motor-sinais/"
   - titulo: "Como verificar fluido de arrefecimento"
     url: "/manutencao/fluido-arrefecimento-como-checar/"
-draft: false
+draft: true
 ---
 
 O motor T270 1.3T da RAM Rampage é basicamente o mesmo GSE T270 do Jeep Compass, Renegade e Fiat Toro. Os problemas de arrefecimento conhecidos no T270 se manifestam na Rampage de forma ligeiramente diferente pelo perfil de uso mais pesado da picape.

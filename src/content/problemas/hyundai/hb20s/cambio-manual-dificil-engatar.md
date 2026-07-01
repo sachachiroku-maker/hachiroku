@@ -1,4 +1,4 @@
-﻿---
+---
 title: "HB20S: Câmbio Manual Duro e Difícil de Engatar —"
 description: "Câmbio duro no HB20S? Veja as causas reais: sincronizador desgastado, cabo desregulado e óleo GL-4 vencido. Diagnóstico passo a passo. (156 chars)"
 entidade:
@@ -50,8 +50,6 @@ afiliados:
     busca: "cabo cambio hyundai hb20s"
     programa: "mercadoLivre"
 relacionados:
-  - titulo: "HB20S: Embreagem patinando — diagnóstico e causas"
-    url: "/problemas/hyundai/hb20s/embreagem-patinando"
   - titulo: "HB20: Câmbio automático com trancos — o que causa"
     url: "/problemas/hyundai/hb20/cambio-automatico-trancos"
 pontosChave:

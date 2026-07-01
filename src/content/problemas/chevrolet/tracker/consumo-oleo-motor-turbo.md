@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Chevrolet Tracker: Consumo de óleo motor turbo acima do normal"
 description: "Tudo sobre Consumo de óleo motor turbo acima do normal no Chevrolet Tracker --- diagnostico, causas, custos e como resolver. Guia pratico com informacoes verificadas."
 entidade:
@@ -47,7 +47,7 @@ relacionados:
     url: "/tecnico/turbocompressor-falha-vida-util/"
   - titulo: "Ficha técnica Chevrolet Tracker"
     url: "/ficha-tecnica/chevrolet/tracker/"
-draft: false
+draft: true
 ---
 
 O Tracker 1.0 turbo é o SUV mais vendido do Brasil — e o consumo de óleo é a dúvida mais frequente dos proprietários com mais de 30.000 km. A boa notícia: na maioria dos casos, o consumo está dentro do normal para motores turbo modernos.

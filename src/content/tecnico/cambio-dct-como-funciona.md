@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Câmbio DCT (Dupla Embreagem): como funciona e manutenção correta"
 description: "Como funciona o câmbio de dupla embreagem (DCT/DSG/PDK), por que dá trancos em velocidade baixa, quando ocorrem falhas e como manter. Guia técnico completo."
 kicker: "TÉCNICO · APROFUNDADO"
@@ -28,8 +28,6 @@ relacionados:
     url: "/tecnico/cambio-cvt-como-funciona/"
   - titulo: "Câmbio automático: torque converter"
     url: "/tecnico/cambio-automatico-torque-converter/"
-  - titulo: "Volkswagen Polo TSI: trancos ao acelerar"
-    url: "/problemas/volkswagen/virtus/tranco-ao-acelerar/"
 draft: false
 ---
 

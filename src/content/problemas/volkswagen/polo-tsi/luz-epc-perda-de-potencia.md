@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Volkswagen Polo TSI: Luz EPC Acende e Motor Perde Potência"
 description: "Luz EPC no Polo TSI indica falha no sistema de controle eletrônico do turbo. Saiba diagnosticar P0299, wastegate e duto rachado antes de ir à oficina."
 entidade:
@@ -49,11 +49,6 @@ afiliados:
     nota: "Peça de reposição para o duto de pressão entre turbo e intercooler. Confira a compatibilidade com o ano do seu veículo antes de comprar."
     busca: "duto intercooler Polo TSI 1.0"
     programa: "mercadoLivre"
-relacionados:
-  - titulo: "Volkswagen Polo TSI: Consumo Alto de Combustível — Causas e Diagnóstico"
-    url: "/problemas/volkswagen/polo-tsi/consumo-alto-combustivel"
-  - titulo: "Volkswagen Virtus TSI: Tranco ao Acelerar — Motor 1.0 EA211"
-    url: "/problemas/volkswagen/virtus/tranco-ao-acelerar/"
 pontosChave:
   - "Sintoma: Luz EPC acende no painel, motor entra em modo limp e perde potência acima de 2.500 RPM"
   - "Causa: Vazamento no duto de pressão do turbo, falha no atuador do wastegate ou válvula BOV com defeito"

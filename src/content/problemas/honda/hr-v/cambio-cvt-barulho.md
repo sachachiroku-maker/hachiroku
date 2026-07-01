@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Honda HR-V: Barulho no câmbio CVT — ranger e chiado"
 description: "Tudo sobre Barulho no câmbio CVT — ranger e chiado no Honda HR-V --- diagnostico, causas, custos e como resolver. Guia pratico com informacoes verificadas."
 entidade:
@@ -47,7 +47,7 @@ relacionados:
     url: "/tecnico/cambio-cvt-como-funciona/"
   - titulo: "Troca de óleo do câmbio automático"
     url: "/manutencao/troca-oleo-cambio-automatico/"
-draft: false
+draft: true
 ---
 
 O câmbio CVT é o ponto mais delicado do Honda HR-V de 3ª geração. Com fluido em dia, é silencioso e eficiente. Negligenciado, desenvolve barulhos que, se ignorados, podem evoluir para falha das polias — um reparo que custa R$ 6.000-15.000.

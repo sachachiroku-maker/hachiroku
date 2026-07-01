@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Volkswagen Virtus: Tranco ao acelerar — câmbio automático 6AT / DSG"
 description: "Tudo sobre Tranco ao acelerar — câmbio automático 6AT / DSG no Volkswagen Virtus --- diagnostico, causas, custos e como resolver. Guia pratico com informacoes verificadas."
 entidade:
@@ -47,7 +47,7 @@ relacionados:
     url: "/problemas/volkswagen/polo-tsi/consumo-alto-combustivel/"
   - titulo: "Câmbio automático: troca de ATF"
     url: "/manutencao/troca-oleo-cambio-automatico/"
-draft: false
+draft: true
 ---
 
 O tranco do câmbio é a queixa mais frequente do Virtus 1.0 TSI no Brasil — especialmente nas versões com câmbio DSG de 7 marchas. É um problema conhecido, com solução documentada pela VW.

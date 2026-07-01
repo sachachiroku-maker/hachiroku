@@ -31,11 +31,6 @@ fontes:
     url: "https://www.nissan-techinfo.com"
   - titulo: "ABRAVA - Sistemas de Refrigeração Veicular: Boas Práticas"
     url: "https://www.abrava.com.br"
-relacionados:
-  - titulo: "Superaquecimento no motor Frontier 2.5 diesel"
-    url: "/problemas/nissan/frontier/superaquecimento-motor"
-  - titulo: "Ruído no motor Frontier 2.5 em aceleração"
-    url: "/problemas/nissan/frontier/ruido-motor-aceleracao"
 autor:
   nome: "Redação Hachiroku"
 faq:

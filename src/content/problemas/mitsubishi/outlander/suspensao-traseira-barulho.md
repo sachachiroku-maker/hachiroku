@@ -53,7 +53,7 @@ relacionados:
   - titulo: "Todos os problemas conhecidos do Mitsubishi Outlander"
     url: "/problemas/mitsubishi/outlander/"
   - titulo: "Ficha técnica: Mitsubishi Outlander 3.0 V6 MIVEC"
-    url: "/ficha-tecnica/mitsubishi/outlander-3-0-v6/"
+    url: "/ficha-tecnica/mitsubishi/outlander-v6-3-0/"
 pontosChave:
   - "Sintoma: coaxo ou rangido em curvas lentas indica bucha do braço de controle traseiro desgastada"
   - "Sintoma: traque seco em lombadas indica bieleta da barra estabilizadora traseira com bucha esférica vencida"

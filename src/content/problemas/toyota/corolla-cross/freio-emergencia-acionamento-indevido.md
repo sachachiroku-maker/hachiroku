@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Toyota Corolla Cross: Freio de emergência elétrico com acionamento indevido"
 description: "Tudo sobre Freio de emergência elétrico com acionamento indevido no Toyota Corolla Cross --- diagnostico, causas, custos e como resolver. Guia pratico com informacoes verificadas."
 entidade:
@@ -47,7 +47,7 @@ relacionados:
     url: "/guia-de-compra/comparativos/corolla-cross-vs-hr-v/"
   - titulo: "Revisão de freios completa"
     url: "/manutencao/revisao-freios-completa/"
-draft: false
+draft: true
 ---
 
 O Corolla Cross usa freio de estacionamento elétrico (EPB) — uma tecnologia mais precisa e conveniente que a alavanca manual, mas com um comportamento específico que pode surpreender motoristas acostumados com freio convencional.

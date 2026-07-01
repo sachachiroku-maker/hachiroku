@@ -1,4 +1,4 @@
-﻿---
+---
 title: "CVT Onix 1.0 Turbo superaquece | Hachiroku"
 pubDate: 2026-06-21
 updatedDate: 2026-06-21
@@ -77,11 +77,6 @@ fontes:
   - titulo: "SINDIREPA-SP: orientações sobre manutenção de câmbios CVT"
     url: "https://www.sindirepa.org.br/noticias/manutencao-cambio-cvt"
 
-relacionados:
-  - titulo: "Onix 1.0 Turbo: consumo alto de combustível no automático"
-    url: "/problemas/chevrolet/onix/consumo-alto-combustivel-automatico"
-  - titulo: "Ruído no câmbio automático do Onix: causas e diagnóstico"
-    url: "/problemas/chevrolet/onix/ruido-cambio-automatico"
 ---
 
 O Chevrolet Onix 1.0 Turbo com câmbio CVT é uma das combinações mais vendidas do Brasil, mas apresenta um comportamento que assusta motoristas no trânsito urbano: em situações de alta carga térmica, o câmbio entra em modo de proteção e a potência cai de forma perceptível e abrupta.

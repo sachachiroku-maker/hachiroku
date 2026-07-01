@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Sensor de Pressão de Pneu Taos Comfortline 1.4 TSI"
 description: "Luz TPMS acende no Volkswagen Taos Comfortline 1.4 TSI mesmo com pneus calibrados. Veja causas, diagnóstico e como resolver o defeito do sensor."
 pubDate: 2026-06-21
@@ -58,11 +58,6 @@ fontes:
     url: "https://www.vw.com.br/pt/modelos/taos.html"
   - titulo: "INMETRO - Resolução CONTRAN 432: obrigatoriedade de TPMS"
     url: "https://www.gov.br/inmetro/pt-br"
-relacionados:
-  - titulo: "Volkswagen Taos Comfortline: vibracao no volante em alta velocidade"
-    url: "/problemas/volkswagen/taos/vibracao-volante"
-  - titulo: "Volkswagen Taos: falha no ar condicionado com compressor barulhento"
-    url: "/problemas/volkswagen/taos/falha-ar-condicionado"
 ---
 
 A luz do sensor de pressão de pneu (TPMS) acendendo no painel do Volkswagen Taos Comfortline 1.4 TSI mesmo após calibrar corretamente os quatro pneus é um dos defeitos mais relatados por proprietários do modelo. O problema raramente indica que os pneus estão com pressão inadequada. Na maioria dos casos, o sensor TPMS de uma das rodas está com a bateria interna descarregada ou apresenta falha eletrônica de transmissão de sinal.

@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Toyota Corolla Cross vs. Honda HR-V: qual SUV compacto vale mais em 2026?"
 description: "Corolla Cross ou HR-V? Comparativo completo de motor, câmbio, consumo, interior e custo de manutenção para quem está decidindo entre os dois SUVs compactos premium."
 kicker: "COMPARATIVO · SUVs COMPACTOS PREMIUM"
@@ -34,8 +34,6 @@ faq:
   - pergunta: "Qual tem menor custo de manutenção, Corolla Cross ou HR-V?"
     resposta: "Difícil dar vantagem clara. O Corolla Cross Hybrid tem motor mais simples em certos aspectos (sem turbo), mas a bateria híbrida adiciona um componente de alto valor que pode falhar fora da garantia. O HR-V 1.5T tem custo de revisão típico da Honda — honesto, sem surpresas. Para manutenção de 3-5 anos, os custos são equivalentes."
 relacionados:
-  - titulo: "Honda HR-V: câmbio CVT barulhento"
-    url: "/problemas/honda/hr-v/cambio-cvt-barulho/"
   - titulo: "Compass vs. RAV4"
     url: "/guia-de-compra/comparativos/compass-vs-rav4/"
   - titulo: "Ficha técnica Honda HR-V"

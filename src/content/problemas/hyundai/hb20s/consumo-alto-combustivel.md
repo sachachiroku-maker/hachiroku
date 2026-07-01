@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Hyundai HB20S: Consumo alto de combustível acima do esperado"
 description: "Tudo sobre Consumo alto de combustível acima do esperado no Hyundai HB20S --- diagnostico, causas, custos e como resolver. Guia pratico com informacoes verificadas."
 entidade:
@@ -47,7 +47,7 @@ relacionados:
     url: "/manutencao/motor-1-0-turbo-manutencao/"
   - titulo: "Ficha técnica Hyundai HB20"
     url: "/ficha-tecnica/hyundai/hb20/"
-draft: false
+draft: true
 ---
 
 O HB20S é um sedã compacto com boa reputação de eficiência — o motor 1.0 aspirado é simples e confiável, o 1.0T com CVT equilibra bem desempenho e consumo. Quando o consumo sobe, há causa técnica identificável.

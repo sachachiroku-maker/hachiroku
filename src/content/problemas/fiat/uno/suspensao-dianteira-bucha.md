@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Fiat Uno: Bucha da suspensão dianteira — desgaste e substituição"
 description: "Tudo sobre Bucha da suspensão dianteira — desgaste e substituição no Fiat Uno --- diagnostico, causas, custos e como resolver. Guia pratico com informacoes verificadas."
 entidade:
@@ -47,7 +47,7 @@ relacionados:
     url: "/problemas/fiat/uno/suspensao-dianteira-barulho/"
   - titulo: "Alinhamento e balanceamento"
     url: "/manutencao/alinhamento-e-balanceamento/"
-draft: false
+draft: true
 ---
 
 As buchas de suspensão do Fiat Uno são componentes de borracha vulcanizada que absorvem os micro-impactos da estrada. Duram bem por 60.000-100.000 km — depois disso, a degradação da borracha compromete a precisão da direção.

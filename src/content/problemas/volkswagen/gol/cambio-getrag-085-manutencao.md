@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Volkswagen Gol: Câmbio Getrag 085 — manutenção e problemas comuns"
 description: "Tudo sobre Câmbio Getrag 085 — manutenção e problemas comuns no Volkswagen Gol --- diagnostico, causas, custos e como resolver. Guia pratico com informacoes verificadas."
 entidade:
@@ -47,7 +47,7 @@ relacionados:
     url: "/ficha-tecnica/volkswagen/gol/"
   - titulo: "Manutenção preventiva: tabela por km"
     url: "/manutencao/manutencao-preventiva-tabela-quilometragem/"
-draft: false
+draft: true
 ---
 
 O câmbio Getrag 085 é um dos mais conhecidos do mercado brasileiro — usado no Gol, Voyage, Saveiro e Fox de múltiplas gerações. Robusto quando bem mantido, mas com um ponto fraco documentado: os sincronizadores de 2ª e 3ª marcha.

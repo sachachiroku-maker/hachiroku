@@ -1,4 +1,4 @@
-﻿---
+---
 title: "RAM Rampage Perde Potência no Turbo: causas e diagnóstico"
 description: "RAM Rampage 1.3 T270 com perda de potência no turbo? As causas incluem sensor MAP, mangueiras de pressurização, corpo de borboleta e atualizações de ECU. Veja o que verificar."
 entidade:
@@ -33,7 +33,7 @@ relacionados:
     url: "/tecnico/motor-1-0-turbo-durabilidade/"
   - titulo: "Ficha técnica RAM Rampage"
     url: "/ficha-tecnica/ram/rampage-rebel-1-3-t270/"
-draft: false
+draft: true
 ---
 
 A RAM Rampage chegou ao mercado com o motor T270 1.3 turbo bem calibrado, mas alguns proprietários relatam perda de potência esporádica que pode ter origem em software, sensores ou componentes do sistema de turbo.

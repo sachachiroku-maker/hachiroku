@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Hyundai HB20S: Compressor de A/C travado — sintomas e custo"
 description: "Tudo sobre Compressor de A/C travado — sintomas e custo no Hyundai HB20S --- diagnostico, causas, custos e como resolver. Guia pratico com informacoes verificadas."
 entidade:
@@ -47,7 +47,7 @@ relacionados:
     url: "/problemas/hyundai/hb20s/consumo-alto-combustivel/"
   - titulo: "Como trocar correia auxiliar"
     url: "/manutencao/como-trocar-correia-auxiliar/"
-draft: false
+draft: true
 ---
 
 O compressor de A/C travado é uma falha que não avisa muito — e quando acontece, pode partir a correia acessória e deixar o carro sem direção assistida e sem arrefecimento do motor. No HB20S, especialmente nos modelos de alta quilometragem, é um ponto de atenção.

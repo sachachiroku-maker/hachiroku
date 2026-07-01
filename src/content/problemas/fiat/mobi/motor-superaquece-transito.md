@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Fiat Mobi Motor Superaquecendo no Trânsito: o que fazer"
 description: "Fiat Mobi com temperatura subindo no trânsito parado? As causas são ventoinha elétrica, termostato, tampa do radiador e corrente de comando com folga. Veja diagnóstico passo a passo."
 entidade:
@@ -34,7 +34,7 @@ relacionados:
     url: "/problemas/fiat/uno/motor-superaquecendo/"
   - titulo: "Manutenção preventiva: checklist completo"
     url: "/manutencao/manutencao-preventiva-tabela-quilometragem/"
-draft: false
+draft: true
 ---
 
 O motor Fire Evo 1.0 do Fiat Mobi é robusto para o uso cotidiano, mas tem um ponto de atenção claro: a dissipação de calor em trânsito intenso. Resolver cedo evita danos caros à junta de cabeçote.

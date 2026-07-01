@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Jeep Renegade 2025: Vale a Pena Comprar?"
 description: "Guia completo do Jeep Renegade 2025 — versões, preços, consumo, motor T270 e câmbio de 9 marchas. O SUV americano que conquistou o Brasil."
 marca: "Jeep"
@@ -42,8 +42,6 @@ passos:
   - titulo: "Orçar pacote de revisão em concessionária"
     descricao: "Revisões a cada 10.000 km na concessionária são mais caras que no Compass por hora de mão de obra, mas a garantia de 5 anos cobre muitos componentes."
 relacionados:
-  - titulo: "Jeep Compass: câmbio 9 marchas"
-    url: "/problemas/jeep/compass/cambio-9-marchas/"
   - titulo: "Comparativo: Renegade vs. T-Cross"
     url: "/guia-de-compra/comparativos/renegade-vs-t-cross/"
   - titulo: "Ficha técnica Jeep Renegade"

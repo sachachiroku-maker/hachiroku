@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Chevrolet Tracker CVT com Falha: solavanco, ruído e superaquecimento"
 description: "Tracker 1.0 turbo com CVT apresentando solavanco, ronco e superaquecimento? Saiba as causas reais, se é recall, e quando o câmbio precisa ser substituído."
 entidade:
@@ -33,7 +33,7 @@ relacionados:
     url: "/tecnico/cambio-cvt-como-funciona/"
   - titulo: "Ficha técnica Chevrolet Tracker"
     url: "/ficha-tecnica/chevrolet/tracker/"
-draft: false
+draft: true
 ---
 
 O câmbio CVT do Tracker é um dos pontos de maior atenção do modelo. A boa notícia é que a maioria dos problemas relatados tem origem na falta de manutenção do fluido — não em defeitos estruturais do câmbio.

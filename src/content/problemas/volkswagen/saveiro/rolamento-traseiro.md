@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Volkswagen Saveiro: Rolamento traseiro barulhento — diagnóstico e troca"
 description: "Tudo sobre Rolamento traseiro barulhento — diagnóstico e troca no Volkswagen Saveiro --- diagnostico, causas, custos e como resolver. Guia pratico com informacoes verificadas."
 entidade:
@@ -45,7 +45,7 @@ relacionados:
     url: "/problemas/volkswagen/saveiro/suspensao-dianteira-barulho/"
   - titulo: "Alinhamento e balanceamento"
     url: "/manutencao/alinhamento-e-balanceamento/"
-draft: false
+draft: true
 ---
 
 O barulho de rolamento traseiro é uma das queixas mais comuns em Saveiro com mais de 60.000 km, especialmente em veículos usados para carga frequente. O diagnóstico é simples — mas ignorar o barulho pode comprometer o ABS.

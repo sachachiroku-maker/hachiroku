@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Volkswagen Saveiro G7: Barulho na Suspensão Traseira (Feixe"
 description: "Saveiro G7 fazendo barulho atrás? Veja como diagnosticar feixe de molas, silent blocks e grampos da suspensão traseira. Custo R$400-900."
 entidade:
@@ -49,11 +49,6 @@ afiliados:
     nota: "Bucha de reposição para os braços de reboque. Confirme a versão do veículo antes de comprar."
     busca: "silent block traseiro Saveiro G7"
     programa: "mercadoLivre"
-relacionados:
-  - titulo: "Volkswagen Saveiro: Barulho na Suspensão Dianteira (Batente de Mola)"
-    url: "/problemas/volkswagen/saveiro/suspensao-dianteira-barulho"
-  - titulo: "Volkswagen Saveiro: Rolamento de Roda Traseira — Como Diagnosticar"
-    url: "/problemas/volkswagen/saveiro/rolamento-traseiro"
 pontosChave:
   - "Sintoma: rangido, estalo ou batida na traseira, piora com carga na caçamba ou em terreno irregular"
   - "Causa: desgaste de silent blocks, grampos frouxos, lâminas do feixe secas ou trincadas, batentes de borracha partidos"

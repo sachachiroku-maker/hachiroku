@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Fiat Uno Ar-Condicionado Fraco"
 description: "Ar-condicionado fraco no Fiat Uno Fire 1.0 e 1.4? Saiba as causas reais, como diagnosticar em casa e o que trocar antes de ir à oficina. (156 chars)"
 entidade:
@@ -49,11 +49,6 @@ afiliados:
     nota: "Peça de manutenção preventiva que deve ser trocada a cada 15.000 km. Afeta diretamente o fluxo de ar frio dentro do carro."
     busca: "filtro cabine Fiat Uno"
     programa: "mercadoLivre"
-relacionados:
-  - titulo: "Fiat Uno: Motor Fire Superaquecendo — Diagnóstico Completo"
-    url: "/problemas/fiat/uno/motor-superaquecendo"
-  - titulo: "Fiat Uno: Ventilador do Painel Não Funciona em Todas as Velocidades"
-    url: "/problemas/fiat/uno/ventilador-painel-velocidades"
 pontosChave:
   - "Sintoma: ar-condicionado sopra ar morno ou quente mesmo com o sistema ligado no máximo"
   - "Causa: falta de gás R134a por vazamento, compressor com embreagem defeituosa ou condensador sujo/bloqueado"

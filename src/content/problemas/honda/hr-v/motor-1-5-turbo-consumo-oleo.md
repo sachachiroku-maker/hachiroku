@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Honda HR-V 1.5 Turbo consumindo óleo: causas e o que fazer"
 description: "Seu Honda HR-V 3ª geração está consumindo óleo entre revisões? Entenda o que é normal no motor L15C 1.5 turbo, as causas do consumo excessivo e quando é necessário investigar."
 entidade:
@@ -55,7 +55,7 @@ relacionados:
     url: "/ficha-tecnica/honda/hr-v-ex-1-5-turbo/"
   - titulo: "Intervalo de troca de óleo motor turbo"
     url: "/manutencao/intervalo-troca-oleo-motor/"
-draft: false
+draft: true
 ---
 
 O Honda HR-V 3ª geração usa o motor 1.5 VTEC Turbo (L15C), evolução do L15B7 que equipa o Civic. Embora o L15C tenha melhorias sobre o predecessor, relatos de consumo de óleo aparecem em algumas unidades — especialmente nos primeiros 30.000 km.

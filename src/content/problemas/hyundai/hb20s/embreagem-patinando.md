@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Hyundai HB20S: Embreagem patinando — perda de tração ao acelerar"
 description: "Tudo sobre Embreagem patinando — perda de tração ao acelerar no Hyundai HB20S --- diagnostico, causas, custos e como resolver. Guia pratico com informacoes verificadas."
 entidade:
@@ -47,7 +47,7 @@ relacionados:
     url: "/problemas/hyundai/hb20s/consumo-alto-combustivel/"
   - titulo: "Ficha técnica Hyundai HB20"
     url: "/ficha-tecnica/hyundai/hb20/"
-draft: false
+draft: true
 ---
 
 A embreagem é a peça de desgaste mais sensível ao estilo de condução — e no HB20S manual, é também a queixa mais frequente em carros usados. Entender os sintomas cedo evita ficar parado.

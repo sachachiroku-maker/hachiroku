@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Fiat Uno: Ventilador do painel não funciona em todas as velocidades"
 description: "Tudo sobre Ventilador do painel não funciona em todas as velocidades no Fiat Uno --- diagnostico, causas, custos e como resolver. Guia pratico com informacoes verificadas."
 entidade:
@@ -45,7 +45,7 @@ relacionados:
     url: "/problemas/fiat/uno/ar-condicionado-fraco/"
   - titulo: "Ficha técnica Fiat Uno"
     url: "/ficha-tecnica/fiat/uno-way-1-0/"
-draft: false
+draft: true
 ---
 
 O ventilador do painel do Fiat Uno é um dos sistemas mais simples do carro — motor elétrico + resistor para controlar a velocidade. Quando uma ou mais velocidades param de funcionar, o diagnóstico é quase sempre o mesmo.

@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Suzuki Jimny: Barulho na caixa de transferência — 4WD engajado"
 description: "Tudo sobre Barulho na caixa de transferência — 4WD engajado no Suzuki Jimny --- diagnostico, causas, custos e como resolver. Guia pratico com informacoes verificadas."
 entidade:
@@ -45,7 +45,7 @@ relacionados:
     url: "/ficha-tecnica/suzuki/jimny-sierra-1-5-4at/"
   - titulo: "Revisão preventiva: tabela por km"
     url: "/manutencao/manutencao-preventiva-tabela-quilometragem/"
-draft: false
+draft: true
 ---
 
 O Jimny é o único 4x4 compacto com reduzida no mercado brasileiro — e a caixa de transferência é o coração do seu sistema off-road. Barulhos nesse componente merecem atenção: podem ser normais (torque biding em asfalto) ou indicar manutenção necessária.

@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Renault Captur 2025: Vale a Pena Comprar?"
 description: "Guia completo do Renault Captur 2025 — versões, preços, consumo, pontos fortes e fracos para ajudar na sua decisão de compra."
 marca: "Renault"
@@ -40,8 +40,6 @@ passos:
   - titulo: "Verificar central multimídia"
     descricao: "As centrais do Captur 2025 têm boa integração com Android Auto e CarPlay. Verificar se a central está com o firmware atualizado — atualizações corrigem problemas de conectividade."
 relacionados:
-  - titulo: "Renault Kwid: vibração em marcha lenta"
-    url: "/problemas/renault/kwid/vibracao-marcha-lenta/"
   - titulo: "Câmbio CVT: como funciona"
     url: "/tecnico/cambio-cvt-como-funciona/"
   - titulo: "Comparativo: Captur vs. Kicks"

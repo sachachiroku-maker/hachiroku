@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Sensor Blind Spot Corolla Cross XRX: alarme falso"
 pubDate: 2026-06-21
 updatedDate: 2026-06-21
@@ -59,8 +59,6 @@ fontes:
   - titulo: "NHTSA - Complaints Toyota Corolla Cross BSM"
     url: "https://www.nhtsa.gov/vehicle/2024/TOYOTA/COROLLA%20CROSS/SUV/AWD"
 relacionados:
-  - titulo: "Freio automático de emergência com acionamento indevido no Corolla Cross"
-    url: "/problemas/toyota/corolla-cross/freio-emergencia-acionamento-indevido"
   - titulo: "Toyota Safety Sense: como funciona e limitações do sistema"
     url: "/tecnico/"
 ---

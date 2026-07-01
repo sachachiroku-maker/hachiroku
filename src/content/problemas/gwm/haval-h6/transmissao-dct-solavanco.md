@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Câmbio DCT do Haval H6 dá solavanco na aceleração"
 pubDate: 2026-06-21
 updatedDate: 2026-06-21
@@ -65,6 +65,4 @@ fontes:
 relacionados:
   - titulo: "Haval H6 consome mais combustível do que o especificado"
     url: "/problemas/gwm/haval-h6/consumo-combustivel-alto/"
-  - titulo: "Ruído na suspensão dianteira do Haval H6 em pavimento irregular"
-    url: "/problemas/gwm/haval-h6/ruido-suspensao-dianteira"
 ---

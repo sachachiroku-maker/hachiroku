@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Ram Rampage 1.3 T270: Consumo Alto de Combustível"
 pubDate: 2026-06-21
 updatedDate: 2026-06-21
@@ -82,10 +82,6 @@ afiliados:
     cta: "Ver no Amazon"
 
 relacionados:
-  - titulo: "Ram Rampage 1.3 T270: Perda de Potência no Turbo"
-    url: "/problemas/ram/rampage/perda-potencia-turbo"
-  - titulo: "Ram Rampage: Superaquecimento do Motor"
-    url: "/problemas/ram/rampage/superaquecimento-motor"
   - titulo: "Como Economizar Combustível em Picapes"
     url: "/manutencao/"
   - titulo: "Ram Rampage 1.3 T270 Flex: Ficha Técnica Completa"

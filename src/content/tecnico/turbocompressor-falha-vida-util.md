@@ -29,8 +29,6 @@ relacionados:
     url: "/tecnico/motor-1-0-turbo-durabilidade/"
   - titulo: "Câmbio CVT: como funciona"
     url: "/tecnico/cambio-cvt-como-funciona/"
-  - titulo: "Onix Turbo: perde potência"
-    url: "/problemas/chevrolet/onix/turbo-perde-potencia/"
 draft: false
 ---
 

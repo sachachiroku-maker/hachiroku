@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Câmbio Automático com Torque Converter: como funciona e como manter"
 description: "Como funciona o câmbio automático com conversor de torque, por que precisa de manutenção específica, quando o ATF deve ser trocado e diferenças para CVT e DCT."
 kicker: "TÉCNICO · APROFUNDADO"
@@ -26,8 +26,6 @@ relacionados:
     url: "/tecnico/cambio-cvt-como-funciona/"
   - titulo: "Troca de óleo do câmbio automático"
     url: "/manutencao/troca-oleo-cambio-automatico/"
-  - titulo: "Câmbio automático: trancos e solavancos"
-    url: "/problemas/chevrolet/tracker/falha-transmissao-cvt/"
 draft: false
 ---
 

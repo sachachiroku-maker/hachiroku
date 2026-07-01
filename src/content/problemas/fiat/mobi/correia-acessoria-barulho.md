@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Fiat Mobi: Barulho na correia acessória — chirping e apito"
 description: "Tudo sobre Barulho na correia acessória — chirping e apito no Fiat Mobi --- diagnostico, causas, custos e como resolver. Guia pratico com informacoes verificadas."
 entidade:
@@ -47,7 +47,7 @@ relacionados:
     url: "/manutencao/correia-dentada-quando-trocar/"
   - titulo: "Ficha técnica Fiat Mobi"
     url: "/ficha-tecnica/fiat/mobi/"
-draft: false
+draft: true
 ---
 
 O Fiat Mobi com motor Firefly 1.0 é um dos carros mais simples do mercado — o que facilita a manutenção. O barulho na correia acessória é uma das queixas mais comuns e tem causa e solução simples.

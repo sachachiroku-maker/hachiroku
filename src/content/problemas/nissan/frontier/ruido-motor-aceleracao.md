@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Nissan Frontier: Ruído no motor durante aceleração — análise e diagnóstico"
 description: "Tudo sobre Ruído no motor durante aceleração — análise e diagnóstico no Nissan Frontier --- diagnostico, causas, custos e como resolver. Guia pratico com informacoes verificadas."
 entidade:
@@ -45,7 +45,7 @@ relacionados:
     url: "/manutencao/manutencao-preventiva-tabela-quilometragem/"
   - titulo: "Ficha técnica Nissan Frontier"
     url: "/ficha-tecnica/nissan/frontier-xe-2-5-diesel/"
-draft: false
+draft: true
 ---
 
 A Nissan Frontier 2022+ com motor YS23DDT biturbo é tecnologicamente mais avançada que a geração anterior — e o motor diesel biturbo tem características sonoras próprias que podem confundir proprietários acostumados com motores flex.

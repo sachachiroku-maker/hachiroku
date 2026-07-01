@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Hyundai HB20S com Ar-Condicionado Fraco"
 description: "HB20S sedan com AC fraco? Saiba como diagnosticar filtro de cabine, gás R134a, compressor e condensador em 5 passos práticos. (155 chars)"
 entidade:
@@ -52,11 +52,6 @@ afiliados:
     nota: "Ferramenta básica para verificar se o sistema está refrigerando dentro da faixa correta"
     busca: "termômetro digital automotivo AC"
     programa: "mercadoLivre"
-relacionados:
-  - titulo: "HB20S: Compressor de AC Travado — Como Identificar e Resolver"
-    url: "/problemas/hyundai/hb20s/compressor-ac-travado"
-  - titulo: "Hyundai HB20: Ar-Condicionado Fraco — Guia de Diagnóstico"
-    url: "/problemas/hyundai/hb20/ar-condicionado-fraco"
 pontosChave:
   - "Sintoma: ar frio insuficiente mesmo com AC no máximo, especialmente em dias quentes acima de 30 graus"
   - "Causa: filtro de cabine entupido, baixo nível de gás R134a, embreagem do compressor defeituosa ou condensador sujo"

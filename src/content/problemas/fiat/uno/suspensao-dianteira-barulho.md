@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Fiat Uno com Barulho na Suspensão Dianteira"
 description: "Fiat Uno 2010+ fazendo barulho na frente? Veja como diagnosticar bieleta, coxim e bucha da suspensão McPherson e o que trocar primeiro."
 entidade:
@@ -50,8 +50,6 @@ afiliados:
     busca: "coxim amortecedor dianteiro Fiat Uno 2010"
     programa: "mercadoLivre"
 relacionados:
-  - titulo: "Fiat Uno: Amortecedor Dianteiro Batendo — Quando Trocar"
-    url: "/problemas/fiat/uno/amortecedor-dianteiro-batendo"
   - titulo: "Barulho ao Virar o Volante: Pivô ou Rolamento de Cubo?"
     url: "/manutencao/"
 pontosChave:

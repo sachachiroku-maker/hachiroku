@@ -68,11 +68,8 @@ faq:
   - pergunta: "Qual o valor de uma revisão do Fiat Uno Way 1.0?"
     resposta: "Uma revisão completa do Uno Way 1.0 (óleo, filtros e velas) em oficina independente sai entre R$ 350 e R$ 600, dependendo da região. A troca de óleo simples com filtro fica em torno de R$ 150 a R$ 200. A revisão mais cara é a que inclui o kit de correia dentada, que pode chegar a R$ 700 quando feita com bomba d'água e tensor novos."
 
-relacionados:
-  - { titulo: "Velas de ignição do Uno 1.0 Fire com desgaste: intervalo no flex e custo de troca", url: "/problemas/fiat/uno/vela-ignicao-fire/" }
-  - { titulo: "Bucha da bandeja dianteira do Uno com folga: barulho, reparo e custo", url: "/problemas/fiat/uno/suspensao-dianteira-bucha/" }
 autor:
-  nome: "Redacao Hachiroku"
+  nome: "Redação Hachiroku"
 draft: false
 ---
 

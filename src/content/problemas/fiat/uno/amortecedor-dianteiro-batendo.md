@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Fiat Uno: Amortecedor dianteiro batendo — diagnóstico e substituição"
 description: "Tudo sobre Amortecedor dianteiro batendo — diagnóstico e substituição no Fiat Uno --- diagnostico, causas, custos e como resolver. Guia pratico com informacoes verificadas."
 entidade:
@@ -47,7 +47,7 @@ relacionados:
     url: "/manutencao/disco-de-freio-empenado/"
   - titulo: "Alinhamento e balanceamento: quando fazer"
     url: "/manutencao/alinhamento-e-balanceamento/"
-draft: false
+draft: true
 ---
 
 O Fiat Uno tem suspensão McPherson — um dos projetos mais simples e duráveis da engenharia automotiva. Com manutenção adequada, os amortecedores duram 80.000-120.000 km em uso urbano normal.

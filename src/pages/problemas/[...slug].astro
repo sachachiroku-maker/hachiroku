@@ -67,6 +67,39 @@ const entidadesRel = entidadesDoModelo(`${marcaSlug}/${modeloSlug}`);
 const sistema = sistemaDoDefeito(data.defeito ?? '', entry.id);
 const marcaHub = getMarca(marcaSlug);
 
+// Interlinking automático §7 (folha↔irmã, folha→manutenção, folha→guia),
+// deduplicado contra os relacionados manuais do frontmatter.
+const urlsManuais = new Set(data.relacionados.map((r) => r.url.replace(/\/+$/, '')));
+const todasFolhas = await getCollection('problemas', ({ data: d }) => !d.draft);
+const folhasIrmas = todasFolhas
+  .filter((p) => p.id.startsWith(`${marcaSlug}/${modeloSlug}/`) && p.id !== entry.id)
+  .filter((p) => !urlsManuais.has(`/problemas/${p.id}`))
+  .slice(0, 3);
+
+// How-tos de manutenção canônicos por sistema mecânico (ids da collection manutencao)
+const HOWTOS_POR_SISTEMA: Record<string, string[]> = {
+  'motor-e-lubrificacao': ['como-verificar-nivel-oleo-motor', 'como-trocar-oleo-motor', 'correia-dentada-quando-trocar'],
+  'cambio-e-transmissao': ['troca-oleo-cambio-automatico', 'cambio-cvt-revisao', 'vazamento-cambio-automatico'],
+  'suspensao': ['quando-trocar-amortecedor', 'como-trocar-bieleta-estabilizadora', 'como-trocar-bucha-estabilizadora'],
+  'freios': ['sinais-pastilha-freio-desgastada', 'como-trocar-fluido-de-freio', 'revisao-freios-completa'],
+  'direcao': ['alinhamento-e-balanceamento', 'calibragem-de-pneus'],
+  'eletrica-e-eletronica': ['como-verificar-e-trocar-bateria', 'alternador-falhando-sinais', 'scanner-obd2'],
+  'arrefecimento': ['fluido-arrefecimento-como-checar', 'como-trocar-valvula-termostatica', 'superaquecimento-motor-sinais'],
+  'ar-condicionado': ['higienizacao-ar-condicionado-automotivo', 'manutencao-ar-condicionado-carro'],
+};
+const manutencaoAll = await getCollection('manutencao', ({ data: d }) => !d.draft);
+const howTos = (sistema ? HOWTOS_POR_SISTEMA[sistema.slug] ?? [] : [])
+  .map((id) => manutencaoAll.find((m) => m.id === id))
+  .filter((m): m is NonNullable<typeof m> => Boolean(m))
+  .filter((m) => !urlsManuais.has(`/manutencao/${m.id}`))
+  .slice(0, 3);
+
+// Guia de usado do modelo (fecha o funil problema→guia quando existe)
+const guiasAll = await getCollection('guias', ({ data: d }) => !d.draft);
+const guiaModelo = guiasAll.find(
+  (g) => g.id.includes('usado') && g.data.modelo?.toLowerCase() === data.entidade.modelo.toLowerCase()
+) ?? null;
+
 const fmt = (d: Date) => d.toLocaleDateString('pt-BR');
 ---
 <BaseLayout title={`${data.seoTitle ?? data.h1 ?? data.title} | Hachiroku`} description={data.description} canonical={url} type="article" image={fotoPorId(entry.id)} pubDate={data.pubDate} updatedDate={data.updatedDate} author={data.autor.nome}>
@@ -156,6 +189,29 @@ const fmt = (d: Date) => d.toLocaleDateString('pt-BR');
         </ul>
       </nav>
     )}
+
+    {howTos.length > 0 && (
+      <nav class="relacionados" aria-label="Manutenção relacionada">
+        <p class="kicker">FAÇA A MANUTENÇÃO CERTA</p>
+        <ul>
+          {howTos.map((m) => (
+            <li><a href={`/manutencao/${m.id}/`}>{m.data.title}</a></li>
+          ))}
+        </ul>
+      </nav>
+    )}
+
+    {folhasIrmas.length > 0 && (
+      <nav class="relacionados" aria-label={`Outros problemas do ${data.entidade.marca} ${data.entidade.modelo}`}>
+        <p class="kicker">OUTROS PROBLEMAS DO {data.entidade.modelo.toUpperCase()}</p>
+        <ul>
+          {folhasIrmas.map((p) => (
+            <li><a href={`/problemas/${p.id}/`}>{p.data.defeito ?? p.data.title}</a></li>
+          ))}
+          <li><a href={pilarHref}>Ver todos os diagnósticos do {data.entidade.modelo} →</a></li>
+        </ul>
+      </nav>
+    )}
   </article>
 
   <aside class="article-sidebar" aria-label="Informações do modelo">
@@ -176,6 +232,7 @@ const fmt = (d: Date) => d.toLocaleDateString('pt-BR');
         {entidadesRel.map((e) => (
           <li><a href={`/${e.tipo}/${e.slug}/`}>{e.nome} →</a></li>
         ))}
+        {guiaModelo && <li><a href={`/guia-de-compra/${guiaModelo.id}/`}>{data.entidade.modelo} usado vale a pena? →</a></li>}
         {marcaHub && <li><a href={`/marca/${marcaHub.slug}/`}>Todos os {marcaHub.nome} →</a></li>}
       </ul>
     </nav>

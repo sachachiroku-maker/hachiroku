@@ -1,4 +1,4 @@
-﻿---
+---
 title: "GWM Haval H6: Ruído na suspensão dianteira — diagnóstico e causas"
 description: "Tudo sobre Ruído na suspensão dianteira — diagnóstico e causas no GWM Haval H6 --- diagnostico, causas, custos e como resolver. Guia pratico com informacoes verificadas."
 entidade:
@@ -45,7 +45,7 @@ relacionados:
     url: "/manutencao/alinhamento-e-balanceamento/"
   - titulo: "Ficha técnica GWM Haval H6"
     url: "/ficha-tecnica/gwm/haval-h6-supreme-1-5/"
-draft: false
+draft: true
 ---
 
 O GWM Haval H6 chegou ao Brasil com suspensão dianteira McPherson convencional — o mesmo tipo de décadas no segmento. Os materiais e a qualidade de execução são aceitáveis para o preço, mas os links de estabilizador têm desgaste documentado antes do esperado em algumas unidades.

@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Onix Turbo consome óleo | Hachiroku"
 pubDate: 2026-06-21
 updatedDate: 2026-06-21
@@ -70,8 +70,6 @@ fontes:
     url: "https://www.gov.br/anp/pt-br/assuntos/qualidade-dos-combustiveis"
 
 relacionados:
-  - titulo: "Onix Turbo perde potência: causas e soluções"
-    url: "/problemas/chevrolet/onix/turbo-perde-potencia"
   - titulo: "Troca de óleo no Onix 1.0 Turbo: passo a passo"
     url: "/manutencao/chevrolet/onix/troca-de-oleo-turbo"
 

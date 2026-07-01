@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Chevrolet Onix Vibra no Volante em Alta Velocidade"
 description: "Onix 1.0 turbo ou aspirado vibrando entre 80 e 120 km/h? Descubra se é balanceamento, rolamento ou amortecedor e como resolver de vez."
 entidade:
@@ -48,11 +48,6 @@ afiliados:
     nota: "Peça de reposição para rolamento dianteiro do Onix 2020 em diante"
     busca: "rolamento roda dianteiro Chevrolet Onix 2020"
     programa: "mercadoLivre"
-relacionados:
-  - titulo: "Onix: barulho na suspensão dianteira em terreno irregular"
-    url: "/problemas/chevrolet/onix/barulho-suspensao-dianteira"
-  - titulo: "Onix: coxim de motor gasto — como identificar"
-    url: "/problemas/chevrolet/onix/coxim-motor-gasto"
 pontosChave:
   - "Sintoma: volante treme entre 80 e 120 km/h na versão 1.0 turbo e aspirado"
   - "Causa principal: pneus fora de balanceamento dinâmico ou rolamento dianteiro desgastado"

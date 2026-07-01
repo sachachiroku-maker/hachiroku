@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Volkswagen Tiguan Allspace: tranco e solavanco no câmbio DSG 7"
 description: "O câmbio DSG 7 do VW Tiguan Allspace dá tranco ao sair parado? Entenda as causas, a atualização de software e quando o DSG precisa de revisão."
 entidade:
@@ -48,7 +48,7 @@ relacionados:
     url: "/tecnico/cambio-cvt-como-funciona/"
   - titulo: "Ficha técnica VW Taos"
     url: "/ficha-tecnica/volkswagen/taos-comfortline-1-4-tsi/"
-draft: false
+draft: true
 ---
 
 O câmbio DSG 7 de embreagem seca (DQ200) do Volkswagen Tiguan Allspace é avançado, mas tem comportamento característico em baixa velocidade que preocupa proprietários: o tranco ao sair parado ou ao engatar marcha ré.

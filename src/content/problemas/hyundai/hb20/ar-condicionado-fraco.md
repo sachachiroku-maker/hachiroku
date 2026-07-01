@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Hyundai HB20 Ar-Condicionado Fraco: diagnóstico e solução"
 description: "HB20 com ar-condicionado fraco ou quente? As causas mais comuns são falta de gás, compressor, condensador sujo e filtro de cabine entupido. Veja o diagnóstico completo."
 entidade:
@@ -33,7 +33,7 @@ relacionados:
     url: "/problemas/hyundai/hb20/superaquecimento-motor/"
   - titulo: "Revisão Hyundai HB20: tabela completa"
     url: "/revisao/hyundai-hb20/"
-draft: false
+draft: true
 ---
 
 O sistema de ar-condicionado do HB20 é eficiente quando bem mantido, mas é um dos itens mais negligenciados na manutenção dos modelos usados. O resultado é um A/C que esfria mal justamente no verão.

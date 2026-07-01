@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Ar-condicionado não gela no Fiat Mobi Drive 1.0"
 description: "Fiat Mobi Drive 1.0 com ar-condicionado que não gela? Veja causas, diagnóstico e como resolver o problema de compressor fraco e falta de gás refrigerante."
 pubDate: 2026-06-21
@@ -74,11 +74,6 @@ fontes:
   - titulo: "PROAR - Procedimentos para Manutenção de Sistemas de Ar-Condicionado Automotivo"
     url: "https://www.sindipeças.org.br/publicacoes/manutencao-ar-condicionado"
 
-relacionados:
-  - titulo: "Motor 1.0 do Fiat Mobi superaquece no trânsito"
-    url: "/problemas/fiat/mobi/motor-superaquece-transito"
-  - titulo: "Correia acessória do Fiat Mobi com barulho e desgaste prematuro"
-    url: "/problemas/fiat/mobi/correia-acessoria-barulho"
 ---
 
 O ar-condicionado do Fiat Mobi Drive 1.0 6V é um dos itens de conforto mais valorizados pelos proprietários do modelo, especialmente em regiões de clima quente. Quando o sistema para de gelar adequadamente, o problema raramente tem causa única: na maioria dos casos relatados, a falta de gás refrigerante e a limitação do compressor atuam juntas para comprometer o funcionamento do sistema.

@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Chevrolet Onix: Ruído no câmbio automático — diagnóstico e causas"
 description: "Tudo sobre Ruído no câmbio automático — diagnóstico e causas no Chevrolet Onix --- diagnostico, causas, custos e como resolver. Guia pratico com informacoes verificadas."
 entidade:
@@ -47,7 +47,7 @@ relacionados:
     url: "/tecnico/cambio-automatico-torque-converter/"
   - titulo: "Ficha técnica Chevrolet Onix"
     url: "/ficha-tecnica/chevrolet/onix-turbo/"
-draft: false
+draft: true
 ---
 
 O câmbio de 6 marchas do Onix automático 2020+ tem reputação sólida no mercado brasileiro. Os problemas documentados são principalmente de fluido degradado — uma manutenção preventiva simples que muitos proprietários ignoram.

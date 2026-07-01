@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Volkswagen Fox: Embreagem patinando — desgaste e diagnóstico"
 description: "Tudo sobre Embreagem patinando — desgaste e diagnóstico no Volkswagen Fox --- diagnostico, causas, custos e como resolver. Guia pratico com informacoes verificadas."
 entidade:
@@ -45,7 +45,7 @@ relacionados:
     url: "/problemas/hyundai/hb20s/embreagem-patinando/"
   - titulo: "Manutenção preventiva: tabela por km"
     url: "/manutencao/manutencao-preventiva-tabela-quilometragem/"
-draft: false
+draft: true
 ---
 
 O VW Fox é um carro antigo (produção encerrada em 2016) mas com enorme frota circulante no Brasil. A embreagem é a peça de desgaste mais frequente nos Foxes com mais de 80.000 km.

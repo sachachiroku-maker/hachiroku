@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Jeep Compass: Câmbio automático de 9 marchas — solavanco e problemas comuns"
 description: "Tudo sobre Câmbio automático de 9 marchas — solavanco e problemas comuns no Jeep Compass --- diagnostico, causas, custos e como resolver. Guia pratico com informacoes verificadas."
 entidade:
@@ -47,7 +47,7 @@ relacionados:
     url: "/ficha-tecnica/jeep/compass/"
   - titulo: "Jeep Renegade: guia de compra"
     url: "/guia-de-compra/jeep-renegade-2025/"
-draft: false
+draft: true
 ---
 
 O câmbio ZF 9HP48 é tecnicamente um dos mais avançados do mundo — 9 marchas permitem manter o motor sempre na faixa de eficiência ideal, reduzindo consumo e aumentando a suavidade em rodovias. Mas a mesma complexidade que o torna eficiente também o torna sensível à calibração do software.

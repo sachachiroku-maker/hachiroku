@@ -53,7 +53,7 @@ relacionados:
   - titulo: "Todos os problemas do Mitsubishi Outlander"
     url: "/problemas/mitsubishi/outlander/"
   - titulo: "Ficha técnica: Mitsubishi Outlander 3.0 V6"
-    url: "/ficha-tecnica/mitsubishi/outlander-3-0-v6/"
+    url: "/ficha-tecnica/mitsubishi/outlander-v6-3-0/"
 pontosChave:
   - "Sintoma: consumo abaixo de 6 km/l com gasolina em tráfego urbano normal sem congestionamento intenso"
   - "Causa: câmbio CVT com comportamento agressivo, injetores sujos, velas desgastadas, AWD ativo desnecessariamente ou pneus descalibrados"

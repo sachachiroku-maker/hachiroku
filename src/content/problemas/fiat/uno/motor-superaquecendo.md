@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Fiat Uno Motor Superaquecendo: causas, diagnóstico e solução"
 description: "Fiat Uno com temperatura subindo ou junta de cabeçote queimada? Saiba as causas reais do superaquecimento no motor Fire 1.0 e 1.4 e o que fazer antes que o problema cresça."
 entidade:
@@ -34,7 +34,7 @@ relacionados:
     url: "/problemas/fiat/uno/suspensao-dianteira-barulho/"
   - titulo: "Fiat Mobi: motor superaquecendo no trânsito"
     url: "/problemas/fiat/mobi/motor-superaquece-transito/"
-draft: false
+draft: true
 ---
 
 O motor Fire do Fiat Uno é durável quando bem cuidado, mas tem uma fraqueza conhecida: o cabeçote de alumínio não tolera superaquecimento. Uma única viagem com temperatura no vermelho pode queimar a junta e deformar o cabeçote.

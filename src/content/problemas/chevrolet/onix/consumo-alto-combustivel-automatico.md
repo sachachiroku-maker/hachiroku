@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Chevrolet Onix: Consumo alto de combustível no câmbio automático"
 description: "Tudo sobre Consumo alto de combustível no câmbio automático no Chevrolet Onix --- diagnostico, causas, custos e como resolver. Guia pratico com informacoes verificadas."
 entidade:
@@ -46,7 +46,7 @@ relacionados:
     url: "/ficha-tecnica/chevrolet/onix-turbo/"
   - titulo: "Troca do câmbio automático: intervalo de ATF"
     url: "/manutencao/troca-oleo-cambio-automatico/"
-draft: false
+draft: true
 ---
 
 O Onix 1.0 Turbo com câmbio automático entrega consumo urbano de 10-12 km/L com gasolina em condições normais. Quando o número cai consistentemente abaixo de 9 km/L, há causa identificável — raramente é "característica do modelo".

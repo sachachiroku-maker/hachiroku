@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Ar-condicionado Fraco no Kwid | Hachiroku"
 pubDate: 2026-06-21
 updatedDate: 2026-06-21
@@ -69,11 +69,6 @@ fontes:
   - titulo: "PROCON-SP: reclamações frequentes em veículos compactos (2024)"
     url: "https://www.procon.sp.gov.br/relatorios-pesquisas/"
 
-relacionados:
-  - titulo: "Consumo alto no Renault Kwid 1.0: causas e como reduzir"
-    url: "/problemas/renault/kwid/consumo-alto"
-  - titulo: "Vibração no motor do Kwid em marcha lenta: o que pode ser"
-    url: "/problemas/renault/kwid/vibracao-marcha-lenta"
 
 asides:
   - tipo: "atencao"

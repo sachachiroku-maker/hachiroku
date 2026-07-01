@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Volkswagen Taos: Falha no ar-condicionado — refrigeração insuficiente"
 description: "Tudo sobre Falha no ar-condicionado — refrigeração insuficiente no Volkswagen Taos --- diagnostico, causas, custos e como resolver. Guia pratico com informacoes verificadas."
 entidade:
@@ -47,7 +47,7 @@ relacionados:
     url: "/manutencao/higienizacao-ar-condicionado-automotivo/"
   - titulo: "Troca do filtro de cabine"
     url: "/manutencao/troca-filtro-cabine-carro/"
-draft: false
+draft: true
 ---
 
 O ar-condicionado do VW Taos usa tecnologia mais moderna (fluido R-1234yf) e compressor elétrico assistido — eficiente, mas com particularidades de manutenção diferentes dos carros com R-134a.

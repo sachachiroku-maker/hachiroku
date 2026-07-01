@@ -1,4 +1,4 @@
-﻿---
+---
 title: "BYD Song Plus: Autonomia real abaixo da estimada — causas e expectativas reais"
 description: "Tudo sobre Autonomia real abaixo da estimada — causas e expectativas reais no BYD Song Plus --- diagnostico, causas, custos e como resolver. Guia pratico com informacoes verificadas."
 entidade:
@@ -47,7 +47,7 @@ relacionados:
     url: "/eletricos/vale-a-pena-comprar-carro-eletrico-brasil/"
   - titulo: "BYD Dolphin: autonomia e recarga"
     url: "/eletricos/byd/dolphin/"
-draft: false
+draft: true
 ---
 
 A diferença entre a autonomia do catálogo e a autonomia real é a maior fonte de frustração dos primeiros donos de elétricos e PHEVs no Brasil. Para o Song Plus, a diferença é real e previsível.

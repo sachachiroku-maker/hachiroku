@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Volkswagen Saveiro: Barulho na suspensão dianteira — buchas e amortecedores"
 description: "Tudo sobre Barulho na suspensão dianteira — buchas e amortecedores no Volkswagen Saveiro --- diagnostico, causas, custos e como resolver. Guia pratico com informacoes verificadas."
 entidade:
@@ -45,7 +45,7 @@ relacionados:
     url: "/problemas/volkswagen/saveiro/rolamento-traseiro/"
   - titulo: "Alinhamento e balanceamento"
     url: "/manutencao/alinhamento-e-balanceamento/"
-draft: false
+draft: true
 ---
 
 A Saveiro é um veículo de trabalho — e a suspensão reflete isso. Com uso para carga frequente, os componentes de suspensão trabalham fora das condições de um passeio urbano normal. Resultado: desgaste acelerado e barulhos que aparecem antes do previsto no manual de manutenção.

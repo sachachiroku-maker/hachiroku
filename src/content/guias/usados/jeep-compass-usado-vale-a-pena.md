@@ -76,8 +76,6 @@ fontes:
 relacionados:
   - titulo: "Jeep Compass: ficha técnica completa (2017-2021)"
     url: "/ficha-tecnica/jeep/compass/"
-  - titulo: "Problemas mais comuns do câmbio ZF 9HP no Compass"
-    url: "/problemas/jeep/compass/cambio-9-marchas/"
 ---
 
 O Jeep Compass usado 2017-2021 é um dos SUVs médios mais procurados no Brasil, mas esconde dois pontos críticos que podem transformar um bom negócio em dor de cabeça: a correia (na verdade corrente) de distribuição T270 do motor 2.0 Flex e o câmbio automático de 9 marchas, que exige software atualizado e histórico de manutenção para funcionar bem. Inspecionando esses dois itens antes de assinar, as chances de uma compra sólida sobem bastante.

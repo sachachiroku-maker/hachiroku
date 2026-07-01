@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Volkswagen Fox com Dificuldade de Engatar Marcha"
 description: "Fox com câmbio duro ou marcha travada? Conheça as causas reais no Getrag 085, do cabo oxidado ao sincronizador desgastado, e como resolver."
 entidade:
@@ -48,11 +48,6 @@ afiliados:
     nota: "Prefira cabo original ou linha Cofap/Metagal. Cabos genéricos sem identificação de material encurtam a vida útil."
     busca: "cabo cambio volkswagen fox"
     programa: "mercadoLivre"
-relacionados:
-  - titulo: "Embreagem do Fox patinando: causas e custo de troca"
-    url: "/problemas/volkswagen/fox/embreagem-patinando"
-  - titulo: "Volkswagen Gol câmbio Getrag 085: guia de manutenção"
-    url: "/problemas/volkswagen/gol/cambio-getrag-085-manutencao"
 pontosChave:
   - "Sintoma: alavanca dura ou marcha não engata suavemente, especialmente 1ª e 2ª"
   - "Causa: cabo de câmbio oxidado (mais comum em Fox acima de 15 anos) ou sincronizador desgastado"

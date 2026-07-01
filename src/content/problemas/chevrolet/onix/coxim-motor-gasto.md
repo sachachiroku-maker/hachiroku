@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Chevrolet Onix: Coxim de motor gasto — vibração e batidas ao engatar"
 description: "Tudo sobre Coxim de motor gasto — vibração e batidas ao engatar no Chevrolet Onix --- diagnostico, causas, custos e como resolver. Guia pratico com informacoes verificadas."
 entidade:
@@ -44,7 +44,7 @@ relacionados:
     url: "/ficha-tecnica/chevrolet/onix-turbo/"
   - titulo: "Motor 1.0 turbo: manutenção"
     url: "/manutencao/motor-1-0-turbo-manutencao/"
-draft: false
+draft: true
 ---
 
 O Onix 1.0 Turbo com motor de 3 cilindros (CSS Prime) é um dos carros mais vendidos do Brasil — e a vibração excessiva é a queixa mais comum do modelo. Na maioria dos casos, o coxim de motor gasto é o responsável.

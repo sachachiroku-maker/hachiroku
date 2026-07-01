@@ -47,7 +47,7 @@ relacionados:
     url: "/manutencao/como-trocar-filtro-de-ar/"
   - titulo: "Ficha técnica Fiat Uno"
     url: "/ficha-tecnica/fiat/uno-way-1-0/"
-draft: false
+draft: true
 ---
 
 O Fiat Uno Fire/Firefly é reconhecidamente um dos carros mais econômicos do mercado brasileiro. Quando o consumo sobe acima do esperado, há sempre uma causa identificável — raramente é um problema grave.

@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Hyundai HB20: Falha no câmbio CVT — solavanco e perda de aceleração"
 description: "Tudo sobre Falha no câmbio CVT — solavanco e perda de aceleração no Hyundai HB20 --- diagnostico, causas, custos e como resolver. Guia pratico com informacoes verificadas."
 entidade:
@@ -47,7 +47,7 @@ relacionados:
     url: "/manutencao/troca-oleo-cambio-automatico/"
   - titulo: "Ficha técnica Hyundai HB20"
     url: "/ficha-tecnica/hyundai/hb20/"
-draft: false
+draft: true
 ---
 
 O câmbio IVT do Hyundai HB20 1.0T é um CVT com correia de aço — silencioso e eficiente quando bem mantido. O principal ponto de atenção é o intervalo de troca do fluido, que muitos proprietários ignoram por não ser mencionado no serviço de revisão padrão.

@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Chevrolet Onix: Barulho na suspensão dianteira — estalos e batidas"
 description: "Tudo sobre Barulho na suspensão dianteira — estalos e batidas no Chevrolet Onix --- diagnostico, causas, custos e como resolver. Guia pratico com informacoes verificadas."
 entidade:
@@ -47,7 +47,7 @@ relacionados:
     url: "/manutencao/alinhamento-e-balanceamento/"
   - titulo: "Revisão de suspensão: quando fazer"
     url: "/manutencao/revisao-preventiva-10000km/"
-draft: false
+draft: true
 ---
 
 O Onix de segunda geração (2020+) é elogiado pela dirigibilidade, mas tem um ponto fraco documentado: as buchas de borracha simples da suspensão dianteira se desgastam mais rápido do que o esperado em ruas com pavimento precário — cenário comum no Brasil.

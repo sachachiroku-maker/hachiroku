@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Chevrolet Tracker 1.0 Turbo: Superaquecimento do Motor —"
 description: "Tracker 1.0 turbo superaquecendo? Veja as causas reais: termostato, bomba d'água e Dex-Cool degradado. Diagnóstico completo com custos e soluções. (156 chars)"
 entidade:
@@ -52,11 +52,6 @@ afiliados:
     nota: "Leitor de códigos para diagnosticar P0128 e outros DTCs do Tracker sem depender de oficina."
     busca: "scanner OBD2 ELM327 Chevrolet Tracker"
     programa: "mercadoLivre"
-relacionados:
-  - titulo: "Chevrolet Tracker: Falha na Transmissão CVT — O Que Fazer"
-    url: "/problemas/chevrolet/tracker/falha-transmissao-cvt"
-  - titulo: "Motor 1.0 Turbo: Consumo de Óleo Acima do Normal — Diagnóstico"
-    url: "/problemas/chevrolet/tracker/consumo-oleo-motor-turbo"
 pontosChave:
   - "Sintoma: marcador de temperatura sobe acima do normal, alarme de superaquecimento no painel ou vapor sob o capô"
   - "Causa: termostato com falha (P0128), bomba d'água desgastada ou fluido Dex-Cool degradado/contaminado"

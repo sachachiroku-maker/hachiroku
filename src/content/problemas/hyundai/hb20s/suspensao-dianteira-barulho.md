@@ -1,4 +1,4 @@
-﻿---
+---
 title: "HB20S: Barulho e Estalo na Suspensão Dianteira (Bieletas e"
 description: "HB20S fazendo barulho na suspensão dianteira? Diagnóstico completo de bieletas, buchas e coxins com preços e passo a passo para resolver."
 entidade:
@@ -49,11 +49,6 @@ afiliados:
     nota: "Kit com bucha dianteira e traseira da bandeja. Ideal para troca completa e evitar retorno na oficina."
     busca: "kit bucha bandeja hyundai hb20 dianteiro"
     programa: "mercadoLivre"
-relacionados:
-  - titulo: "HB20: Problema no Câmbio Automático CVT"
-    url: "/problemas/hyundai/hb20/cambio-cvt-falha"
-  - titulo: "HB20S: Consumo Alto de Combustível - Diagnóstico"
-    url: "/problemas/hyundai/hb20s/consumo-alto-combustivel"
 pontosChave:
   - "Sintoma: estalido seco ao passar em lombada ou curva, geralmente no lado dianteiro"
   - "Causa: bieleta de estabilizador desgastada, bucha da bandeja ressecada ou coxim do amortecedor comprometido"

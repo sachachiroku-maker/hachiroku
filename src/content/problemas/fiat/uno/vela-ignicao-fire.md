@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Fiat Uno: Velas de ignição — troca e sinais de desgaste"
 description: "Tudo sobre Velas de ignição — troca e sinais de desgaste no Fiat Uno --- diagnostico, causas, custos e como resolver. Guia pratico com informacoes verificadas."
 entidade:
@@ -47,7 +47,7 @@ relacionados:
     url: "/manutencao/check-engine-acendeu-o-que-fazer/"
   - titulo: "Ficha técnica Fiat Uno"
     url: "/ficha-tecnica/fiat/uno-way-1-0/"
-draft: false
+draft: true
 ---
 
 As velas de ignição são a peça de desgaste mais negligenciada no Fiat Uno. Como o carro raramente apresenta falha catastrófica com velas gastas — apenas degradação gradual de performance — muitos proprietários nunca trocam.

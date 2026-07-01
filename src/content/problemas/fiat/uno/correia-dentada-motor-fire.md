@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Fiat Uno 1.0 Fire Flex: correia dentada, quando trocar e o"
 description: "Correia dentada do Uno 1.0 Fire Flex: intervalo correto, sinais de desgaste, custo da troca e o que acontece se a correia romper. (157 chars)"
 entidade:
@@ -50,11 +50,6 @@ afiliados:
     busca: "kit correia dentada SKF Fiat Uno 1.0 Fire"
     programa: "mercadoLivre"
     cta: "Ver produto"
-relacionados:
-  - titulo: "Fiat Uno Fire: vela de ignição — intervalo e sintomas de desgaste"
-    url: "/problemas/fiat/uno/vela-ignicao-fire"
-  - titulo: "Motor Fire Flex: consumo alto — causas e diagnóstico completo"
-    url: "/problemas/fiat/uno/consumo-alto-motor-fire"
 pontosChave:
   - "Sintoma: motor para abruptamente, barulho metálico, falha de partida após parada brusca"
   - "Causa: correia dentada rompida ou fora do intervalo de troca (60.000 km / 5 anos)"

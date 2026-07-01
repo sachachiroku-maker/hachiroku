@@ -125,7 +125,6 @@ fontes:
 
 relacionados:
   - { titulo: "Ficha técnica BYD Yuan Plus EV 2024", url: "/ficha-tecnica/byd/yuan-plus-ev/" }
-  - { titulo: "Problemas de autonomia real em elétricos BYD no Brasil", url: "/problemas/byd/song-plus/autonomia-real-vs-estimada/" }
 
 draft: false
 ---

@@ -74,7 +74,7 @@ faq:
     resposta: "Com gasolina, o Honda WR-V 1.5 CVT faz cerca de 12,0 km/l na cidade e 12,8 km/l na estrada, conforme dados Inmetro. Com etanol, o consumo cai para 8,2 km/l na cidade e 8,9 km/l na estrada. São valores acima da média para SUVs compactos do segmento."
 
 relacionados:
-  - { titulo: "CVT do WR-V com solavanco", url: "/problemas/honda/wr-v/cambio-cvt-solavanco/" }
+  - { titulo: "CVT do WR-V com solavanco", url: "/problemas/honda/wr-v/cambio-cvt-patinando/" }
   - { titulo: "Consumo de óleo no motor 1.5 do WR-V", url: "/problemas/honda/wr-v/motor-1-5-consumo-oleo/" }
 autor:
   nome: "Redacao Hachiroku"

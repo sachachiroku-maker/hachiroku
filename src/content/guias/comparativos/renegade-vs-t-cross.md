@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Jeep Renegade vs VW T-Cross 2025: Qual Comprar?"
 description: "Comparativo completo entre Jeep Renegade e VW T-Cross 2025 — motor, câmbio, espaço, consumo, custo de manutenção e valor de revenda."
 marca: "Jeep / Volkswagen"
@@ -42,8 +42,6 @@ passos:
 relacionados:
   - titulo: "Guia de compra Jeep Renegade 2025"
     url: "/guia-de-compra/jeep-renegade-2025/"
-  - titulo: "Jeep Compass: câmbio 9 marchas"
-    url: "/problemas/jeep/compass/cambio-9-marchas/"
   - titulo: "Melhores SUVs populares 2025"
     url: "/guia-de-compra/comparativos/melhores-populares-2025/"
 draft: false

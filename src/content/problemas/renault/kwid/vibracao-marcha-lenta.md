@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Renault Kwid: Vibração em marcha lenta — motor tremendo no painel"
 description: "Tudo sobre Vibração em marcha lenta — motor tremendo no painel no Renault Kwid --- diagnostico, causas, custos e como resolver. Guia pratico com informacoes verificadas."
 entidade:
@@ -45,7 +45,7 @@ relacionados:
     url: "/ficha-tecnica/renault/kwid/"
   - titulo: "Motor 1.0 turbo: manutenção"
     url: "/manutencao/motor-1-0-turbo-manutencao/"
-draft: false
+draft: true
 ---
 
 O Renault Kwid é o carro mais acessível do mercado brasileiro — e o motor SCe 1.0 de 3 cilindros é eficiente, mas tem a vibração característica dos motores de número ímpar de cilindros.

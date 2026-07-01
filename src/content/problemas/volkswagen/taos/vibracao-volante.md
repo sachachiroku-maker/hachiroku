@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Volkswagen Taos: Vibração no volante — causas e diagnóstico"
 description: "Tudo sobre Vibração no volante — causas e diagnóstico no Volkswagen Taos --- diagnostico, causas, custos e como resolver. Guia pratico com informacoes verificadas."
 entidade:
@@ -47,7 +47,7 @@ relacionados:
     url: "/manutencao/disco-de-freio-empenado/"
   - titulo: "Ficha técnica VW Taos"
     url: "/ficha-tecnica/volkswagen/taos-comfortline-1-4-tsi/"
-draft: false
+draft: true
 ---
 
 O Volkswagen Taos é um SUV compacto com motor 1.4 TSI e câmbio DSG de 6 marchas. Vibração no volante é a queixa mais frequente dos proprietários — na maioria dos casos, tem causa simples e diagnóstico rápido.

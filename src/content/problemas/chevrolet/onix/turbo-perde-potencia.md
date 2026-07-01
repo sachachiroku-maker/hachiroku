@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Chevrolet Onix Turbo Perde Potência: causas e solução definitiva"
 description: "Onix Turbo perdendo potência na aceleração? As causas mais comuns são turbo com vazamento, velas desgastadas, sensor MAP e carvão no corpo de borboleta. Veja como diagnosticar."
 entidade:
@@ -33,7 +33,7 @@ relacionados:
     url: "/revisao/chevrolet-onix-turbo/"
   - titulo: "Ficha técnica Chevrolet Onix Turbo"
     url: "/ficha-tecnica/chevrolet/onix-turbo/"
-draft: false
+draft: true
 ---
 
 O motor CSS Prime 1.0 turbo do Onix é compacto e eficiente, mas quando perde potência, o diagnóstico precisa ser rápido para evitar danos maiores ao turbocompressor.

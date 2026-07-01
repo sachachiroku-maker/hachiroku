@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Renault Kwid Consumo Alto de Combustível: causas e como resolver"
 description: "Kwid consumindo mais gasolina ou etanol do que o normal? Veja as causas reais: sensor lambda, filtro de ar, pneus, estilo de condução e calibração da ECU. Diagnóstico passo a passo."
 entidade:
@@ -33,7 +33,7 @@ relacionados:
     url: "/problemas/renault/kwid/ar-condicionado-fraco/"
   - titulo: "Kwid usado: vale a pena?"
     url: "/guia-de-compra/usados/kwid-usado-vale-a-pena/"
-draft: false
+draft: true
 ---
 
 O Renault Kwid é um dos carros com melhor consumo do segmento popular, mas quando começa a consumir mais que o normal, o diagnóstico é simples e geralmente barato.
