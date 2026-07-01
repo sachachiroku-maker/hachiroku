@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Jeep Compass usado vale a pena? O que checar"
 description: "Guia de compra do Jeep Compass usado: checklist completo com os pontos críticos a inspecionar na corrente T270, câmbio automático e eletrônica antes de fechar negócio."
 kicker: "GUIA DE COMPRA · DECISÃO"
@@ -82,7 +82,7 @@ relacionados:
 
 O Jeep Compass usado 2017-2021 é um dos SUVs médios mais procurados no Brasil, mas esconde dois pontos críticos que podem transformar um bom negócio em dor de cabeça: a correia (na verdade corrente) de distribuição T270 do motor 2.0 Flex e o câmbio automático de 9 marchas, que exige software atualizado e histórico de manutenção para funcionar bem. Inspecionando esses dois itens antes de assinar, as chances de uma compra sólida sobem bastante.
 
-<aside class="telltale danger" role="note"><span aria-hidden="true">🔴</span><p><strong>T.</strong> Corrente de distribuição T270 rompida deixa o motor parado sem aviso: pergunte sempre se já foi trocada e exija nota fiscal do serviço.</p></aside>
+<aside class="telltale danger" role="note"><span aria-hidden="true">🔴</span><p><strong>Cuidado.</strong> Corrente de distribuição T270 rompida deixa o motor parado sem aviso: pergunte sempre se já foi trocada e exija nota fiscal do serviço.</p></aside>
 
 ## Por que o Compass 2.0 Flex fica tão popular no mercado de usados
 
@@ -92,7 +92,7 @@ O motor 2.0 Flex (gasolina/etanol) entrega 156 cv no ciclo Flex e 170 cv a gasol
 
 ## O problema da corrente de distribuição T270
 
-<aside class="telltale warning" role="note"><span aria-hidden="true">⚠️</span><p><strong>T.</strong> Ruído metálico leve ("farfalhar") ao ligar o motor frio é sinal de tensionador da corrente desgastado: não ignore.</p></aside>
+<aside class="telltale warning" role="note"><span aria-hidden="true">⚠️</span><p><strong>Atenção.</strong> Ruído metálico leve ("farfalhar") ao ligar o motor frio é sinal de tensionador da corrente desgastado: não ignore.</p></aside>
 
 O motor 2.0 Flex da plataforma Tigershark usa corrente de distribuição (não correia), o que teoricamente dispensa troca periódica. Na prática, o conjunto tensionador e guias plásticas da corrente T270 desgasta entre 60 mil e 90 mil km em exemplares brasileiros, especialmente quando o intervalo de troca de óleo foi ignorado ou quando o veículo rodou muito em temperatura elevada.
 
@@ -102,7 +102,7 @@ O reparo completo (corrente, tensionador, guias e retentores) custa entre R$ 1.8
 
 ## O câmbio de 9 marchas: quando funciona e quando preocupa
 
-<aside class="telltale warning" role="note"><span aria-hidden="true">⚠️</span><p><strong>T.</strong> Solavancos ao engatar a 1.ª marcha em tráfego lento são sintoma clássico do câmbio 9HP sem flash atualizado: leve à concessionária antes de concluir que há dano mecânico.</p></aside>
+<aside class="telltale warning" role="note"><span aria-hidden="true">⚠️</span><p><strong>Atenção.</strong> Solavancos ao engatar a 1.ª marcha em tráfego lento são sintoma clássico do câmbio 9HP sem flash atualizado: leve à concessionária antes de concluir que há dano mecânico.</p></aside>
 
 O câmbio ZF 9HP48, introduzido no Compass a partir de 2018 nos modelos Flex de maior acabamento, gerou reclamações nos primeiros anos por troca de marcha hesitante em velocidade baixa e solavancos ao engatar marcha à ré após marcha à frente. A ZF e a Jeep liberaram múltiplas atualizações de software (flash) via concessionária: o serviço é gratuito e leva menos de 1 hora.
 
@@ -116,7 +116,7 @@ O diesel do Compass é o mesmo bloco usado na RAM 1000 (Fiat Toro) e em outros m
 
 Pedir histórico de abastecimento é inviável na prática, mas é possível inspecionar o filtro de combustível: se estiver com mais de 20 mil km sem troca, negociar desconto para fazer a troca preventiva imediatamente após a compra.
 
-<aside class="telltale info" role="note"><span aria-hidden="true">ℹ️</span><p><strong>T.</strong> A versão diesel só veio com câmbio automático de 9 marchas no Brasil: não existe Compass diesel 2017-2021 com câmbio manual aqui.</p></aside>
+<aside class="telltale info" role="note"><span aria-hidden="true">ℹ️</span><p><strong>Vale saber.</strong> A versão diesel só veio com câmbio automático de 9 marchas no Brasil: não existe Compass diesel 2017-2021 com câmbio manual aqui.</p></aside>
 
 ## Eletrônica e central Uconnect: o que testar no test-drive
 
@@ -124,7 +124,7 @@ A central multimídia Uconnect, especialmente nas versões de 7 polegadas dos an
 
 Durante o test-drive, testar: (1) conectar um celular via Bluetooth e fazer uma ligação; (2) ativar a câmera de ré; (3) sintonizar rádio AM e FM; (4) checar se o ar-condicionado digital responde ao toque na tela. Uma central com módulo com defeito pode custar de R$ 2.500 a R$ 4.000 para substituição, sem contar a mão de obra.
 
-<aside class="telltale ok" role="note"><span aria-hidden="true">✅</span><p><strong>T.</strong> Uconnect responsiva, Bluetooth estável e câmera de ré nítida no test-drive indicam módulo saudável: é o melhor sinal de que a eletrônica foi bem preservada.</p></aside>
+<aside class="telltale ok" role="note"><span aria-hidden="true">✅</span><p><strong>Boa notícia.</strong> Uconnect responsiva, Bluetooth estável e câmera de ré nítida no test-drive indicam módulo saudável: é o melhor sinal de que a eletrônica foi bem preservada.</p></aside>
 
 ## Recalls: como checar e o que fazer
 

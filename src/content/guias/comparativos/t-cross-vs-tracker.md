@@ -1,4 +1,4 @@
-﻿---
+---
 title: "T-Cross vs Tracker: qual SUV compacto 2025?"
 description: "VW T-Cross 1.0 TSI e Chevrolet Tracker 1.2 Turbo lado a lado: motor, câmbio, consumo, custo de revisão e valor de revenda para você decidir sem arrependimento."
 marca: "Comparativo"
@@ -102,7 +102,7 @@ O **1.0 TSI do T-Cross** é um motor de injeção direta de três cilindros da p
 
 O **1.2 Turbo do Tracker** (motor LTD da Chevrolet) entrega 133 cv e 22,4 kgfm a partir de 1.700 rpm. A diferença de 17 cv é perceptível em ultrapassagens na estrada e em subidas com carga. É o motor mais potente da comparação, e isso aparece principalmente quando o condutor precisa de resposta rápida fora do ambiente urbano.
 
-<aside class="telltale info" role="note"><span aria-hidden="true">ℹ️</span><p><strong>T.</strong> Nos dois modelos, o intervalo de troca de óleo em motores turbo não é negociável. Usar o lubrificante na especificação correta e respeitar o kilometragem do fabricante é condição para que o motor e o câmbio durem além da garantia de fábrica.</p></aside>
+<aside class="telltale info" role="note"><span aria-hidden="true">ℹ️</span><p><strong>Vale saber.</strong> Nos dois modelos, o intervalo de troca de óleo em motores turbo não é negociável. Usar o lubrificante na especificação correta e respeitar o kilometragem do fabricante é condição para que o motor e o câmbio durem além da garantia de fábrica.</p></aside>
 
 ## Câmbio: onde o T-Cross ganhou terreno importante
 
@@ -112,7 +112,7 @@ As versões do T-Cross vendidas antes de 2022 utilizavam o **DSG de 7 marchas de
 
 O **câmbio automático de 6 marchas do Tracker 1.2 Turbo** também é de torque-converter, o que coloca os dois modelos no mesmo nível de suavidade na geração atual. A diferença fica no mapeamento de câmbio: o T-Cross tende a manter as marchas por mais tempo em rotações mais altas, contribuindo para a sensação mais esportiva; o Tracker prioriza troca antecipada de marchas favorecendo o consumo.
 
-<aside class="telltale info" role="note"><span aria-hidden="true">ℹ️</span><p><strong>T.</strong> Se você está avaliando um T-Cross usado, confirme o ano de fabricação. Exemplares pré-2022 ainda podem ter o câmbio DQ200 com histórico de solavancos. A partir de 2022, o câmbio Aisin eliminou esse ponto de atenção.</p></aside>
+<aside class="telltale info" role="note"><span aria-hidden="true">ℹ️</span><p><strong>Vale saber.</strong> Se você está avaliando um T-Cross usado, confirme o ano de fabricação. Exemplares pré-2022 ainda podem ter o câmbio DQ200 com histórico de solavancos. A partir de 2022, o câmbio Aisin eliminou esse ponto de atenção.</p></aside>
 
 ## Consumo e espaço
 
@@ -128,7 +128,7 @@ Em **versões pré-2022 com câmbio DQ200**, o comportamento no trânsito lento 
 
 Em **versões pós-2022 com câmbio Aisin**, os relatos de defeito se concentram em falhas eletrônicas pontuais de módulos e em ruídos de suspensão em estradas de má qualidade, especialmente no eixo traseiro em versões com rodas de aro maior. Esses problemas são menos sistemáticos e costumam ser resolvidos dentro da garantia de fábrica.
 
-<aside class="telltale warning" role="note"><span aria-hidden="true">⚠️</span><p><strong>T.</strong> No T-Cross pré-2022 com câmbio DQ200, faça o test drive especificamente em tráfego lento e com motor frio. É nessa condição que os solavancos aparecem. Se o carro ainda tem garantia vigente, solicite a atualização de software na concessionária antes de qualquer decisão.</p></aside>
+<aside class="telltale warning" role="note"><span aria-hidden="true">⚠️</span><p><strong>Atenção.</strong> No T-Cross pré-2022 com câmbio DQ200, faça o test drive especificamente em tráfego lento e com motor frio. É nessa condição que os solavancos aparecem. Se o carro ainda tem garantia vigente, solicite a atualização de software na concessionária antes de qualquer decisão.</p></aside>
 
 ## Defeitos documentados do Tracker 1.2: o que vigiar
 
@@ -138,7 +138,7 @@ O primeiro é a **coluna de direção elétrica**, que compartilha a mesma arqui
 
 O segundo é o **consumo real acima do oficial** em uso predominantemente urbano. O motor 1.2 Turbo com maior cilindrada e potência tende a trabalhar mais no stop-and-go intenso, e proprietários que usam o Tracker majoritariamente na cidade relatam consumo na faixa de 9,5 a 10,5 km/l com gasolina, abaixo dos 11,0 km/l da tabela Inmetro.
 
-<aside class="telltale warning" role="note"><span aria-hidden="true">⚠️</span><p><strong>T.</strong> No Tracker 1.2 usado, balize devagar e esterce parado durante o test drive. Qualquer endurecimento ou irregularidade na direção deve ser investigado antes da compra. Uma coluna de direção elétrica fora da garantia é reparo de valor elevado.</p></aside>
+<aside class="telltale warning" role="note"><span aria-hidden="true">⚠️</span><p><strong>Atenção.</strong> No Tracker 1.2 usado, balize devagar e esterce parado durante o test drive. Qualquer endurecimento ou irregularidade na direção deve ser investigado antes da compra. Uma coluna de direção elétrica fora da garantia é reparo de valor elevado.</p></aside>
 
 ## Custo de manutenção e rede de serviços
 
@@ -146,7 +146,7 @@ A **Chevrolet** mantém a rede de assistência mais capilarizada no Brasil, com 
 
 A **Volkswagen** tem presença forte nas capitais e cidades grandes, com rede bem estruturada e histórico de marca que sustenta o valor de revenda. O custo de peças e mão de obra do T-Cross tende a ser um pouco mais alto em algumas regiões, mas a retenção de valor na revenda pode compensar esse diferencial para quem troca de carro a cada 3 a 5 anos.
 
-<aside class="telltale ok" role="note"><span aria-hidden="true">✅</span><p><strong>T.</strong> Para quem compra um zero ou seminovo dentro da garantia de 3 anos, o custo de manutenção fora do programado fica protegido em ambos os modelos. O risco de diferença de custo entre as marcas aparece principalmente depois que a garantia encerra.</p></aside>
+<aside class="telltale ok" role="note"><span aria-hidden="true">✅</span><p><strong>Boa notícia.</strong> Para quem compra um zero ou seminovo dentro da garantia de 3 anos, o custo de manutenção fora do programado fica protegido em ambos os modelos. O risco de diferença de custo entre as marcas aparece principalmente depois que a garantia encerra.</p></aside>
 
 ## Para quem cada um serve
 

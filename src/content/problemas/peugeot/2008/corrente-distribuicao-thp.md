@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Corrente de distribuição THP do Peugeot 2008 | Hachiroku"
 description: "O motor 1.6 THP 165 cv do Peugeot 2008 tem histórico documentado de estiramento prematuro da corrente de distribuição. Entenda os sintomas, as causas mecânicas e o que fazer antes que o motor sofra dano irreversível."
 entidade:
@@ -82,7 +82,7 @@ draft: false
 
 A **corrente de distribuição do motor 1.6 THP 165 cv do Peugeot 2008** deveria durar a vida útil do veículo, mas proprietários e oficinas especializadas documentam estiramento prematuro a partir de 60.000 km, muito antes do esperado para um componente sem intervalo de substituição definido. A causa central está nos tensores hidráulicos sub-dimensionados e nas guias de plástico que perdem resistência com o calor e com óleo fora da especificação. A ação correta é inspecionar o sistema de distribuição com scanner de fases a cada revisão a partir de 60.000 km e substituir o kit completo ao primeiro sinal de desgaste.
 
-<aside class="telltale danger" role="note"><span aria-hidden="true">🚨</span><p><strong>T.</strong> O motor 1.6 THP é de interferência: se a corrente arrebentar com o motor girando, as válvulas colidem com os pistões e o dano pode ultrapassar R$ 10.000. Não ignore ruídos metálicos no arranque.</p></aside>
+<aside class="telltale danger" role="note"><span aria-hidden="true">🚨</span><p><strong>Cuidado.</strong> O motor 1.6 THP é de interferência: se a corrente arrebentar com o motor girando, as válvulas colidem com os pistões e o dano pode ultrapassar R$ 10.000. Não ignore ruídos metálicos no arranque.</p></aside>
 
 ## Por que a corrente estica antes do previsto
 
@@ -92,7 +92,7 @@ O problema está na cadeia de componentes que mantém essa corrente tensionada. 
 
 Repetido ao longo de milhares de arranques, esse ciclo desgasta progressivamente a corrente, o tensor e as guias de nylon reforçado. O resultado é estiramento antes do esperado, com consequências que vão do aumento de consumo à falha catastrófica do motor.
 
-<aside class="telltale warning" role="note"><span aria-hidden="true">⚠️</span><p><strong>T.</strong> Trocas de óleo atrasadas ou com óleo fora da especificação PSA B71 2290 aceleram o desgaste do tensor hidráulico. O histórico de manutenção é o primeiro dado a verificar.</p></aside>
+<aside class="telltale warning" role="note"><span aria-hidden="true">⚠️</span><p><strong>Atenção.</strong> Trocas de óleo atrasadas ou com óleo fora da especificação PSA B71 2290 aceleram o desgaste do tensor hidráulico. O histórico de manutenção é o primeiro dado a verificar.</p></aside>
 
 ## Os fatores que agravam o problema no Brasil
 
@@ -114,7 +114,7 @@ A degradação da corrente de distribuição do THP tem um rastro eletrônico an
 
 Esses códigos podem aparecer sem nenhum sintoma audível no estágio inicial. Um scanner OBD2 básico já os lê. Por isso, incluir a leitura do scanner a cada revisão é a forma mais barata de detectar o problema antes que ele evolua.
 
-<aside class="telltale info" role="note"><span aria-hidden="true">ℹ️</span><p><strong>T.</strong> Os códigos P0016 e P0017 também podem ser causados por falha no sensor de posição do virabrequim ou no atuador VVT. O diagnóstico de fase em bancada confirma qual componente é a causa real.</p></aside>
+<aside class="telltale info" role="note"><span aria-hidden="true">ℹ️</span><p><strong>Vale saber.</strong> Os códigos P0016 e P0017 também podem ser causados por falha no sensor de posição do virabrequim ou no atuador VVT. O diagnóstico de fase em bancada confirma qual componente é a causa real.</p></aside>
 
 ## Estágios de evolução do estiramento
 
@@ -138,7 +138,7 @@ O custo varia de acordo com o estágio em que o problema é detectado e com os c
 
 O diagnóstico precoce, com custo de R$ 150 a R$ 300 em análise de fase, é o investimento que separa um reparo de R$ 3.000 de uma conta de R$ 10.000.
 
-<aside class="telltale ok" role="note"><span aria-hidden="true">✅</span><p><strong>T.</strong> Proprietários que trocam o óleo a cada 10.000 km com 5W-30 PSA B71 2290 e leem o scanner a cada revisão raramente enfrentam falha catastrófica da corrente THP.</p></aside>
+<aside class="telltale ok" role="note"><span aria-hidden="true">✅</span><p><strong>Boa notícia.</strong> Proprietários que trocam o óleo a cada 10.000 km com 5W-30 PSA B71 2290 e leem o scanner a cada revisão raramente enfrentam falha catastrófica da corrente THP.</p></aside>
 
 ## Manutenção preventiva para proteger a distribuição
 

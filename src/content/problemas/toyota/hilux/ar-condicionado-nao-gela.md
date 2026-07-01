@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Ar-condicionado da Hilux não gela"
 description: "Ar-condicionado da Toyota Hilux 2.8 diesel que não gela bem é causado por queda de eficiência do compressor e perda de carga de gás R-134a. Saiba identificar os sintomas, diagnosticar e resolver o problema antes que ele se agrave."
 entidade:
@@ -81,7 +81,7 @@ draft: false
 
 O **ar-condicionado da Toyota Hilux 2.8 diesel** que não gela bem é um dos problemas mais relatados pelos proprietários depois dos 80.000 km de uso. A causa quase sempre envolve carga de gás R-134a abaixo do especificado por vazamento lento, queda de eficiência do compressor, ou a combinação dos dois fatores. A solução correta passa por diagnóstico de pressão antes de qualquer recarga.
 
-<aside class="telltale warning" role="note"><span aria-hidden="true">⚠️</span><p><strong>T.</strong> Recarregar o gás sem localizar e selar o vazamento é desperdício de dinheiro: o sistema voltará a perder eficiência em semanas.</p></aside>
+<aside class="telltale warning" role="note"><span aria-hidden="true">⚠️</span><p><strong>Atenção.</strong> Recarregar o gás sem localizar e selar o vazamento é desperdício de dinheiro: o sistema voltará a perder eficiência em semanas.</p></aside>
 
 ## Como o ar-condicionado da Hilux funciona
 
@@ -95,7 +95,7 @@ O compressor de pistão axial da Hilux tem lamelas que deslizam sob pressão de 
 
 Esse desgaste é gradual. O ar-condicionado vai perdendo eficiência lentamente, o que leva muitos proprietários a atribuir o problema ao gás baixo quando, na verdade, a carga de gás está correta e o problema é a compressão insuficiente.
 
-<aside class="telltale info" role="note"><span aria-hidden="true">ℹ️</span><p><strong>T.</strong> O óleo lubrificante do compressor circula misturado ao R-134a. Com gás muito baixo, o compressor trabalha sem lubrificação adequada e o desgaste se acelera.</p></aside>
+<aside class="telltale info" role="note"><span aria-hidden="true">ℹ️</span><p><strong>Vale saber.</strong> O óleo lubrificante do compressor circula misturado ao R-134a. Com gás muito baixo, o compressor trabalha sem lubrificação adequada e o desgaste se acelera.</p></aside>
 
 ## Os sinais de gás baixo versus compressor com falha
 
@@ -111,7 +111,7 @@ O filtro de cabine da Hilux fica posicionado no caminho do ar antes do evaporado
 
 A troca do filtro de cabine a cada 15.000 km a 20.000 km (ou 10.000 km em uso com muita poeira) é a forma mais simples e barata de manter a eficiência do ar-condicionado. Em muitos casos de ar que não gela bem, a troca do filtro resolve o problema ou melhora significativamente o desempenho antes de qualquer intervenção no ciclo de refrigeração.
 
-<aside class="telltale ok" role="note"><span aria-hidden="true">✅</span><p><strong>T.</strong> Comece sempre pelo filtro de cabine. É o ajuste mais barato e elimina uma variável importante antes de diagnosticar o sistema de refrigeração.</p></aside>
+<aside class="telltale ok" role="note"><span aria-hidden="true">✅</span><p><strong>Boa notícia.</strong> Comece sempre pelo filtro de cabine. É o ajuste mais barato e elimina uma variável importante antes de diagnosticar o sistema de refrigeração.</p></aside>
 
 ## Diagnóstico por pressão: o único método confiável
 
@@ -130,7 +130,7 @@ A carga de R-134a na Hilux 2.8 GD é de aproximadamente 600 g a 650 g (confirme 
 
 A recarga deve ser feita com equipamento de controle de peso, não por estimativa de pressão. Oficinas especializadas em ar-condicionado automotivo têm esse equipamento. Evite recargas feitas com base apenas em "a pressão de baixa está boa" sem controle da quantidade total de gás inserida.
 
-<aside class="telltale danger" role="note"><span aria-hidden="true">🚫</span><p><strong>T.</strong> Gás R-134a em excesso é tão prejudicial quanto gás insuficiente. A carga exata do fabricante deve ser respeitada com controle de peso.</p></aside>
+<aside class="telltale danger" role="note"><span aria-hidden="true">🚫</span><p><strong>Cuidado.</strong> Gás R-134a em excesso é tão prejudicial quanto gás insuficiente. A carga exata do fabricante deve ser respeitada com controle de peso.</p></aside>
 
 ## Custo e perspectiva de reparo
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: "BYD Song Plus EV: autonomia real e custo por km"
 description: "Descubra a autonomia real do BYD Song Plus EV no Brasil: entre 420 km e 480 km, 25% abaixo do CLTC oficial. Saiba calcular o custo por km, configurar o carregamento doméstico e comparar com a gasolina."
 kicker: "CARRO ELÉTRICO"
@@ -69,7 +69,7 @@ relacionados:
 
 O **BYD Song Plus EV** com bateria LFP de 87,3 kWh entrega autonomia real entre 420 km e 480 km no Brasil, cerca de 25% abaixo do ciclo CLTC oficial de 605 km. A diferença ocorre porque o protocolo chinês não simula rodovias em alta velocidade nem temperaturas acima de 30 graus. Conhecer esses números reais permite planejar o carregamento sem surpresas e calcular o custo por km com precisão.
 
-<aside class="telltale warning" role="note"><span aria-hidden="true">⚠️</span><p><strong>T.</strong> O valor CLTC de 605 km é medido em condições que não existem no Brasil. Use sempre 70-80% desse número como referência de planejamento real.</p></aside>
+<aside class="telltale warning" role="note"><span aria-hidden="true">⚠️</span><p><strong>Atenção.</strong> O valor CLTC de 605 km é medido em condições que não existem no Brasil. Use sempre 70-80% desse número como referência de planejamento real.</p></aside>
 
 ## CLTC vs autonomia real: o que os números escondem
 
@@ -85,7 +85,7 @@ Os principais fatores que reduzem a autonomia real em relação ao CLTC:
 
 Em testes realizados por proprietários brasileiros em 2025, o consumo médio ficou entre 18 kWh/100 km (uso urbano leve) e 24 kWh/100 km (rodovia a 110 km/h com AC). Isso equivale a autonomia de 364 km a 485 km com bateria de 87,3 kWh utilizável.
 
-<aside class="telltale info" role="note"><span aria-hidden="true">ℹ️</span><p><strong>T.</strong> Em ciclo predominantemente urbano com AC moderado, o Song Plus EV frequentemente ultrapassa 460 km por carga. O pior cenário é rodovia + calor intenso + AC na potência máxima.</p></aside>
+<aside class="telltale info" role="note"><span aria-hidden="true">ℹ️</span><p><strong>Vale saber.</strong> Em ciclo predominantemente urbano com AC moderado, o Song Plus EV frequentemente ultrapassa 460 km por carga. O pior cenário é rodovia + calor intenso + AC na potência máxima.</p></aside>
 
 ## Custo de carregamento: AC doméstico vs DC rápido público
 
@@ -114,7 +114,7 @@ O Song Plus EV Premium aceita até 100 kW em corrente contínua. Na prática, a 
 
 *Valores aproximados de maio de 2026. Tarifas variam por região e horário.*
 
-<aside class="telltale danger" role="note"><span aria-hidden="true">🚨</span><p><strong>T.</strong> Usar DC rápido público como fonte principal de energia elimina grande parte da economia de um elétrico. Reserve o DC para viagens: o carregamento doméstico deve ser a rotina.</p></aside>
+<aside class="telltale danger" role="note"><span aria-hidden="true">🚨</span><p><strong>Cuidado.</strong> Usar DC rápido público como fonte principal de energia elimina grande parte da economia de um elétrico. Reserve o DC para viagens: o carregamento doméstico deve ser a rotina.</p></aside>
 
 ## Comparação: custo por km vs gasolina
 
@@ -129,7 +129,7 @@ Para uma comparação justa, o referencial é um SUV médio da mesma categoria, 
 
 Para quem percorre 1.500 km por mês com carregamento doméstico, a economia mensal é de aproximadamente **R$ 570** em relação à gasolina. Em 12 meses, isso representa R$ 6.840 economizados, valor que começa a diluir a diferença de preço de aquisição do elétrico frente ao ICE equivalente.
 
-<aside class="telltale ok" role="note"><span aria-hidden="true">✅</span><p><strong>T.</strong> Mesmo sem incentivos fiscais estaduais, o payback financeiro do carregamento doméstico torna o Song Plus EV competitivo em custo total de propriedade em um horizonte de 3 a 4 anos.</p></aside>
+<aside class="telltale ok" role="note"><span aria-hidden="true">✅</span><p><strong>Boa notícia.</strong> Mesmo sem incentivos fiscais estaduais, o payback financeiro do carregamento doméstico torna o Song Plus EV competitivo em custo total de propriedade em um horizonte de 3 a 4 anos.</p></aside>
 
 ## Bateria LFP no calor brasileiro: o que saber
 
@@ -152,7 +152,7 @@ A tecnologia LFP (Lítio Ferro Fosfato), utilizada na Blade Battery da BYD, tem 
 3. Evitar múltiplas sessões DC rápido consecutivas no mesmo dia. O calor acumulado das sessões DC pode ativar o limitador térmico, reduzindo a velocidade de carregamento nas sessões seguintes.
 4. Manter o SOC entre 20% e 90% no cotidiano. Cargas completas até 100% devem ser feitas apenas antes de viagens longas.
 
-<aside class="telltale info" role="note"><span aria-hidden="true">ℹ️</span><p><strong>T.</strong> A BYD garante que a Blade Battery LFP mantém ao menos 80% da capacidade original após 3.000 ciclos de carga, o que equivale a mais de 1,2 milhão de km de vida útil teórica em ciclos de 450 km.</p></aside>
+<aside class="telltale info" role="note"><span aria-hidden="true">ℹ️</span><p><strong>Vale saber.</strong> A BYD garante que a Blade Battery LFP mantém ao menos 80% da capacidade original após 3.000 ciclos de carga, o que equivale a mais de 1,2 milhão de km de vida útil teórica em ciclos de 450 km.</p></aside>
 
 ## Garantia da bateria: o que está coberto
 

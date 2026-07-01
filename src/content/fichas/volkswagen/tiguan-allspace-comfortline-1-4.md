@@ -70,8 +70,8 @@ faq:
     resposta: "A VW recomenda troca de óleo a cada 10.000 km ou 12 meses no uso normal, com óleo 5W40 sintético nas normas VW 504.00 ou 507.00. Em uso intenso com trânsito congestionado ou em cidades com temperatura elevada, reduzir o intervalo para 7.500 km é uma prática recomendada por técnicos especializados em motores turbo."
 
 relacionados:
-  - { titulo: "DSG do Tiguan Allspace com solavanco no engate", url: "/problemas/volkswagen/tiguan/cambio-dsg-solavanco/" }
-  - { titulo: "Sensor TPM do Tiguan com alertas falsos", url: "/problemas/volkswagen/tiguan/sensor-tpm-alertas-falsos/" }
+  - { titulo: "DSG do Tiguan Allspace com solavanco no engate", url: "/problemas/volkswagen/tiguan-allspace/cambio-dsg-solavanco/" }
+  - { titulo: "Sensor TPM do Tiguan com alertas falsos", url: "/problemas/volkswagen/tiguan-allspace/sensor-tpm-alertas-falsos/" }
 autor:
   nome: "Redacao Hachiroku"
 draft: false

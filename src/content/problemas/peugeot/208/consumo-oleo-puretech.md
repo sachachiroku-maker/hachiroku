@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Consumo de óleo no Peugeot 208 1.2 PureTech | Hachiroku"
 description: "O motor 1.2 PureTech 3 cilindros turbo do Peugeot 208 tem consumo excessivo de óleo documentado em fóruns e órgãos de defesa do consumidor. Saiba identificar os sintomas, as causas e como agir antes do dano se tornar irreversível."
 entidade:
@@ -82,7 +82,7 @@ draft: false
 
 O **consumo excessivo de óleo no Peugeot 208 com motor 1.2 PureTech 3 cilindros turbo** é um problema documentado em fóruns de proprietários e em registros de órgãos de defesa do consumidor: anéis de pistão com folga acima do especificado e retentores de válvula desgastados permitem que o lubrificante entre na câmara de combustão e seja queimado junto com o combustível. A ação imediata é monitorar o nível de óleo a cada 2.000 km e solicitar teste de compressão e leak-down em oficina especializada em PSA antes que o problema avance para dano irreversível no motor.
 
-<aside class="telltale danger" role="note"><span aria-hidden="true">🔴</span><p><strong>T.</strong> Nunca continue rodando com o nível de óleo abaixo do mínimo no PureTech 3 cilindros. O turbocompressor e os mancais de biela são os primeiros componentes a sofrer dano permanente por falta de lubrificação, e o custo do reparo pode quadruplicar.</p></aside>
+<aside class="telltale danger" role="note"><span aria-hidden="true">🔴</span><p><strong>Cuidado.</strong> Nunca continue rodando com o nível de óleo abaixo do mínimo no PureTech 3 cilindros. O turbocompressor e os mancais de biela são os primeiros componentes a sofrer dano permanente por falta de lubrificação, e o custo do reparo pode quadruplicar.</p></aside>
 
 ## Por que o 1.2 PureTech 3 cilindros consome mais óleo
 
@@ -96,7 +96,7 @@ Esse mecanismo foi identificado em motores produzidos entre 2019 e 2023 para o m
 
 O motor 1.2 PureTech usa correia dentada imersa em óleo (wet belt) para acionar o comando de válvulas, ao contrário da maioria dos motores brasileiros que usam correia seca ou corrente. Essa solução reduz o ruído de distribuição e aumenta a durabilidade teórica da correia, mas cria uma dependência direta entre a qualidade do óleo e a integridade do sistema de distribuição.
 
-<aside class="telltale warning" role="note"><span aria-hidden="true">⚠️</span><p><strong>T.</strong> O óleo que lubrifica a correia do PureTech é o mesmo que circula pelo restante do motor. Óleo degradado ou fora da especificação 5W-30 PSA B71 2290 compromete ao mesmo tempo a correia de distribuição, os anéis de pistão e o turbocompressor.</p></aside>
+<aside class="telltale warning" role="note"><span aria-hidden="true">⚠️</span><p><strong>Atenção.</strong> O óleo que lubrifica a correia do PureTech é o mesmo que circula pelo restante do motor. Óleo degradado ou fora da especificação 5W-30 PSA B71 2290 compromete ao mesmo tempo a correia de distribuição, os anéis de pistão e o turbocompressor.</p></aside>
 
 Quando o óleo se degrada antes da troca, os subprodutos de oxidação depositam-se nas paredes do cilindro e nos canais de lubrificação do cabeçote. Esses depósitos comprometem a vedação dos anéis e aumentam o consumo de óleo. O intervalo máximo de troca recomendado para uso brasileiro, com o calor e o ciclo urbano de paradas frequentes, é de 10.000 km, não o intervalo estendido de 20.000 km indicado em algumas versões do manual europeu.
 
@@ -110,7 +110,7 @@ O problema evolui de forma gradual, e identificá-lo no estágio inicial é a ú
 
 **Estágio avançado (acima de 1 litro por 1.000 km):** fumaça constante na descarga. Catalisador contaminado com resíduos de óleo, com odor característico de enxofre. Risco de obstrução do catalisador. Turbo em risco caso o nível caia abaixo do mínimo durante viagens mais longas.
 
-<aside class="telltale warning" role="note"><span aria-hidden="true">⚠️</span><p><strong>T.</strong> No estágio avançado, o catalisador contaminado pode obstruir parcialmente o escapamento, gerando queda de potência e, em casos extremos, superaquecimento do motor. A troca do catalisador custa entre R$ 1.500 e R$ 3.000 adicionais ao reparo do motor.</p></aside>
+<aside class="telltale warning" role="note"><span aria-hidden="true">⚠️</span><p><strong>Atenção.</strong> No estágio avançado, o catalisador contaminado pode obstruir parcialmente o escapamento, gerando queda de potência e, em casos extremos, superaquecimento do motor. A troca do catalisador custa entre R$ 1.500 e R$ 3.000 adicionais ao reparo do motor.</p></aside>
 
 ## Diagnóstico diferencial: consumo de óleo ou vazamento externo
 
@@ -152,7 +152,7 @@ O leque de custos para consumo de óleo no PureTech 1.2 é amplo, e o diagnósti
 
 **Motor substituído por usado de baixa quilometragem:** opção considerada quando o motor já opera no estágio avançado por tempo prolongado. Custo entre R$ 5.000 e R$ 9.000 incluindo instalação e garantia da peça.
 
-<aside class="telltale info" role="note"><span aria-hidden="true">ℹ️</span><p><strong>T.</strong> Proprietários com consumo de óleo dentro do período de garantia devem documentar todas as verificações de nível com fotos e quilometragem registrada. Esse histórico é fundamental para acionar a concessionária ou o PROCON em caso de negativa de cobertura.</p></aside>
+<aside class="telltale info" role="note"><span aria-hidden="true">ℹ️</span><p><strong>Vale saber.</strong> Proprietários com consumo de óleo dentro do período de garantia devem documentar todas as verificações de nível com fotos e quilometragem registrada. Esse histórico é fundamental para acionar a concessionária ou o PROCON em caso de negativa de cobertura.</p></aside>
 
 ## Manutenção preventiva: o que os donos sem problema fazem diferente
 
@@ -166,7 +166,7 @@ Proprietários de 208 PureTech que chegam a 100.000 km sem problema documentado 
 
 **Aguardar 1 a 2 minutos antes de desligar após uso em rodovia:** o turbo precisa de circulação de óleo para resfriar o eixo após trabalho intenso. Desligar o motor imediatamente após uma viagem com uso prolongado de aceleração deixa o eixo do turbo exposto ao calor residual sem lubrificação, acelerando o desgaste.
 
-<aside class="telltale ok" role="note"><span aria-hidden="true">✅</span><p><strong>T.</strong> Um 208 PureTech com histórico de manutenção documentado, trocas de óleo respeitadas e lubrificante na especificação PSA tem vida útil compatível com qualquer motor moderno bem projetado. O histórico é também o argumento mais forte para cobertura de garantia.</p></aside>
+<aside class="telltale ok" role="note"><span aria-hidden="true">✅</span><p><strong>Boa notícia.</strong> Um 208 PureTech com histórico de manutenção documentado, trocas de óleo respeitadas e lubrificante na especificação PSA tem vida útil compatível com qualquer motor moderno bem projetado. O histórico é também o argumento mais forte para cobertura de garantia.</p></aside>
 
 ## O que fazer se o problema aparecer dentro da garantia
 

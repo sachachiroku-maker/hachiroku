@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Câmbio EAT8 Peugeot 3008: solavanco na troca 1-2"
 description: "O câmbio EAT8 do Peugeot 3008 1.6 THP apresenta solavanco e hesitação na troca da 1ª para a 2ª marcha. Entenda se a causa é software desatualizado ou fluido degradado e quais passos para resolver."
 entidade:
@@ -84,7 +84,7 @@ draft: false
 
 O **câmbio EAT8 do Peugeot 3008 1.6 THP** apresenta solavanco e hesitação documentados na troca da 1ª para a 2ª marcha, causados por fluido ATF fora de especificação ou software do TCM desatualizado. A ação é trocar o fluido ATF por produto homologado PSA B71 2330 e atualizar o software do módulo de controle via scanner Diagbox.
 
-<aside class="telltale warning" role="note"><span aria-hidden="true">⚠️</span><p><strong>T.</strong> Se o solavanco aparece acompanhado de luz de avaria na transmissão ou o carro entra em modo de emergência (travado em marcha alta), não adie o diagnóstico. Operar o EAT8 com falha ativa pode danificar as embreagens internas e transformar um serviço de fluido em reparo de câmbio completo.</p></aside>
+<aside class="telltale warning" role="note"><span aria-hidden="true">⚠️</span><p><strong>Atenção.</strong> Se o solavanco aparece acompanhado de luz de avaria na transmissão ou o carro entra em modo de emergência (travado em marcha alta), não adie o diagnóstico. Operar o EAT8 com falha ativa pode danificar as embreagens internas e transformar um serviço de fluido em reparo de câmbio completo.</p></aside>
 
 ## O que é o câmbio EAT8 e por que ele sola
 
@@ -104,7 +104,7 @@ Saber qual é a causa principal economiza tempo e dinheiro no reparo.
 
 **Causa combinada (mais comum nos relatos):** o solavanco é frequente, aparece em todas as temperaturas e piora com o tempo. Nesses casos, a combinação de troca de fluido e atualização do software é o protocolo correto e o que apresenta o resultado mais consistente.
 
-<aside class="telltale info" role="note"><span aria-hidden="true">ℹ️</span><p><strong>T.</strong> A Peugeot classifica o fluido do EAT8 como de "longa duração", sem intervalo definido de troca. Isso é tecnicamente verdadeiro em condições ideais de uso, mas não corresponde ao tráfego urbano brasileiro, com paradas frequentes e calor elevado. A recomendação prática de oficinas especializadas em PSA é trocar entre 60.000 e 80.000 km.</p></aside>
+<aside class="telltale info" role="note"><span aria-hidden="true">ℹ️</span><p><strong>Vale saber.</strong> A Peugeot classifica o fluido do EAT8 como de "longa duração", sem intervalo definido de troca. Isso é tecnicamente verdadeiro em condições ideais de uso, mas não corresponde ao tráfego urbano brasileiro, com paradas frequentes e calor elevado. A recomendação prática de oficinas especializadas em PSA é trocar entre 60.000 e 80.000 km.</p></aside>
 
 ## O fluido ATF do EAT8: especificação obrigatória
 
@@ -123,7 +123,7 @@ O TCM (Transmission Control Module) do EAT8 gerencia os pontos de troca, a press
 
 O processo é feito com o carro conectado ao scanner Diagbox, leva entre 30 e 60 minutos e não exige desmontagem. Em concessionárias Peugeot, a atualização pode ser solicitada especificamente para o sintoma de solavanco na troca 1-2 e constar na ordem de serviço. Oficinas independentes com licença Diagbox ativa também realizam o procedimento.
 
-<aside class="telltale ok" role="note"><span aria-hidden="true">✅</span><p><strong>T.</strong> Proprietários do 3008 que combinaram troca de fluido ATF com atualização do TCM relatam melhora significativa e, em boa parte dos casos, eliminação completa do solavanco na troca 1-2. O serviço combinado é mais eficaz que qualquer um dos dois procedimentos feito isoladamente.</p></aside>
+<aside class="telltale ok" role="note"><span aria-hidden="true">✅</span><p><strong>Boa notícia.</strong> Proprietários do 3008 que combinaram troca de fluido ATF com atualização do TCM relatam melhora significativa e, em boa parte dos casos, eliminação completa do solavanco na troca 1-2. O serviço combinado é mais eficaz que qualquer um dos dois procedimentos feito isoladamente.</p></aside>
 
 ## Quando o solavanco indica problema mecânico interno
 
@@ -137,7 +137,7 @@ A maioria dos solavancos do EAT8 do 3008 é resolvida com fluido e software. Mas
 
 **Câmbio em modo de emergência (travado em uma marcha, geralmente 3ª ou 4ª):** indica falha ativa. Diagnosticar com Diagbox antes de qualquer intervenção.
 
-<aside class="telltale danger" role="note"><span aria-hidden="true">🚨</span><p><strong>T.</strong> Operar o Peugeot 3008 com solavanco intenso e fluido degradado por tempo prolongado pode causar queima das embreagens internas do EAT8. Esse dano não aparece como código de falha no início, mas gera custos de reparo entre R$ 3.000 e R$ 6.000. Atuar antes de 80.000 km é a proteção mais eficaz.</p></aside>
+<aside class="telltale danger" role="note"><span aria-hidden="true">🚨</span><p><strong>Cuidado.</strong> Operar o Peugeot 3008 com solavanco intenso e fluido degradado por tempo prolongado pode causar queima das embreagens internas do EAT8. Esse dano não aparece como código de falha no início, mas gera custos de reparo entre R$ 3.000 e R$ 6.000. Atuar antes de 80.000 km é a proteção mais eficaz.</p></aside>
 
 ## Custo estimado do serviço completo
 

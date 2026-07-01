@@ -55,7 +55,7 @@ const jsonld = { '@context': 'https://schema.org', '@graph': graph };
           <Badge tone="danger">{g.itens.length}</Badge>
           <h2><a href={`/problemas/${g.mm}/`}>{g.nome}</a></h2>
           <ul class="entidade-defeitos">
-            {g.itens.map((p) => <li><a href={`/problemas/${p.id}/`}>{p.data.defeito ?? p.data.title}</a></li>)}
+            {g.itens.map((p: any) => <li><a href={`/problemas/${p.id}/`}>{p.data.defeito ?? p.data.title}</a></li>)}
           </ul>
         </article>
       ))}

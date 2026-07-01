@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Ficha técnica Corolla Cross XRX GR Sport 2.0"
 description: "Ficha técnica completa do Toyota Corolla Cross XRX GR Sport 2.0 2024: motor 2.0 Dynamic Force 177 cv, câmbio CVT Direct Shift, consumo 11,5 km/l cidade e 14,0 km/l estrada (gasolina), pneus 225/45 R18 e porta-malas de 440 litros. Dados verificados."
 marca: "Toyota"
@@ -89,7 +89,7 @@ draft: false
 
 O **Toyota Corolla Cross XRX GR Sport 2.0 2024** reúne o motor 2.0 Dynamic Force de 177 cv, câmbio CVT Direct Shift e acabamento esportivo exclusivo em um SUV compacto que lidera o segmento em confiabilidade e eficiência. Com consumo de 14,0 km/l na estrada com gasolina e corrente de distribuição sem troca periódica, o GR Sport entrega custo de manutenção previsível para quem busca desempenho acima da média sem abrir mão do conforto urbano.
 
-<aside class="telltale info" role="note"><span aria-hidden="true">ℹ️</span><p><strong>T.</strong> O motor 2.0 Dynamic Force usa corrente de distribuição, o que elimina o custo de troca de correia dentada presente em motores de gerações anteriores.</p></aside>
+<aside class="telltale info" role="note"><span aria-hidden="true">ℹ️</span><p><strong>Vale saber.</strong> O motor 2.0 Dynamic Force usa corrente de distribuição, o que elimina o custo de troca de correia dentada presente em motores de gerações anteriores.</p></aside>
 
 ## Motor e transmissão
 
@@ -97,13 +97,13 @@ O motor 2.0 Dynamic Force com tecnologia D-4ST combina injeção direta e indire
 
 O câmbio CVT Direct Shift diferencia o sistema Toyota dos CVTs convencionais: o acoplamento direto entre motor e câmbio nas partidas elimina o deslizamento típico da faixa de baixas rotações, o que melhora a eficiência energética e reduz o desgaste do conjunto em uso urbano.
 
-<aside class="telltale warning" role="note"><span aria-hidden="true">⚠️</span><p><strong>T.</strong> O comportamento elástico do CVT em acelerações bruscas (rotações sobem antes da velocidade responder) é inerente ao sistema, não indica falha. Ativar o modo Sport reduz esse efeito.</p></aside>
+<aside class="telltale warning" role="note"><span aria-hidden="true">⚠️</span><p><strong>Atenção.</strong> O comportamento elástico do CVT em acelerações bruscas (rotações sobem antes da velocidade responder) é inerente ao sistema, não indica falha. Ativar o modo Sport reduz esse efeito.</p></aside>
 
 ## Desempenho e consumo
 
 O 0 a 100 km/h em aproximadamente 8,8 segundos coloca o GR Sport em posição competitiva para um SUV compacto com motor aspirado. Na estrada, o consumo de 14,0 km/l com gasolina é superior à média do segmento, beneficiado pela aerodinâmica refinada e pela gestão eletrônica do CVT.
 
-<aside class="telltale ok" role="note"><span aria-hidden="true">✅</span><p><strong>T.</strong> O consumo de 14,0 km/l na estrada posiciona o Corolla Cross GR Sport entre os SUVs compactos com melhor eficiência por litro de gasolina no Brasil.</p></aside>
+<aside class="telltale ok" role="note"><span aria-hidden="true">✅</span><p><strong>Boa notícia.</strong> O consumo de 14,0 km/l na estrada posiciona o Corolla Cross GR Sport entre os SUVs compactos com melhor eficiência por litro de gasolina no Brasil.</p></aside>
 
 ## Dimensões e capacidades
 
@@ -111,7 +111,7 @@ Com 4.460 mm de comprimento e entre-eixos de 2.640 mm, o Corolla Cross GR Sport 
 
 O porta-malas de 440 litros atende ao uso familiar cotidiano. O tanque de 50 litros combinado ao consumo de 14,0 km/l na estrada oferece autonomia de até 700 km em rodovias.
 
-<aside class="telltale danger" role="note"><span aria-hidden="true">🔴</span><p><strong>T.</strong> Pneus 225/45 R18 têm custo de reposição mais elevado e menor oferta em borracharias do interior. Cheque os preços antes de decidir pela versão GR Sport se o uso for majoritariamente em cidades do interior.</p></aside>
+<aside class="telltale danger" role="note"><span aria-hidden="true">🔴</span><p><strong>Cuidado.</strong> Pneus 225/45 R18 têm custo de reposição mais elevado e menor oferta em borracharias do interior. Cheque os preços antes de decidir pela versão GR Sport se o uso for majoritariamente em cidades do interior.</p></aside>
 
 ## Manutenção: o que verificar
 

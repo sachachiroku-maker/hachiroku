@@ -56,9 +56,9 @@ afiliados:
     programa: "mercadoLivre"
 relacionados:
   - titulo: "DSG do VW Tiguan Allspace com solavanco no engate"
-    url: "/problemas/volkswagen/tiguan/cambio-dsg-solavanco/"
+    url: "/problemas/volkswagen/tiguan-allspace/cambio-dsg-solavanco/"
   - titulo: "Bomba d'água do Tiguan Allspace 1.4 TSI EA211"
-    url: "/problemas/volkswagen/tiguan/bomba-agua-ea211/"
+    url: "/problemas/volkswagen/tiguan-allspace/bomba-agua-ea211/"
 pontosChave:
   - "Sintoma: ar-condicionado que gela bem com poucos passageiros e perde eficiência notável com os 7 lugares ocupados, especialmente em trânsito parado ou calor intenso."
   - "Causa: combinação de três fatores simultâneos: condensador sobrecarregado por três trocadores de calor em série, compressor Sanden com embreagem variável que degrada progressivamente e filtros de cabine esquecidos."

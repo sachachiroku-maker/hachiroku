@@ -61,7 +61,7 @@ Fluido de freio degradado é uma das causas mais silenciosas de falha no sistema
 
 <aside class="telltale danger" role="note">
   <span aria-hidden="true">🚨</span>
-  <p><strong>T.</strong> Nunca misture DOT 3 com DOT 5.1. Apesar da numeração sugerir compatibilidade, o DOT 5.1 possui aditivos que reagem com formulações antigas e podem causar falha total dos freios.</p>
+  <p><strong>Cuidado.</strong> Nunca misture DOT 3 com DOT 5.1. Apesar da numeração sugerir compatibilidade, o DOT 5.1 possui aditivos que reagem com formulações antigas e podem causar falha total dos freios.</p>
 </aside>
 
 ## O que você vai precisar
@@ -81,7 +81,7 @@ Com o motor frio e o carro estacionado em superfície plana, abra o capô e proc
 
 <aside class="telltale info" role="note">
   <span aria-hidden="true">ℹ️</span>
-  <p><strong>T.</strong> A maioria dos veículos nacionais usa fluido DOT 3 ou DOT 4 de fábrica. Consulte o manual do proprietário antes de comprar qualquer produto.</p>
+  <p><strong>Vale saber.</strong> A maioria dos veículos nacionais usa fluido DOT 3 ou DOT 4 de fábrica. Consulte o manual do proprietário antes de comprar qualquer produto.</p>
 </aside>
 
 ## Passo 2: verifique o nível sem abrir a tampa
@@ -90,7 +90,7 @@ Observe as marcações "MIN" e "MAX" impressas no lado externo do reservatório.
 
 <aside class="telltale warning" role="note">
   <span aria-hidden="true">⚠️</span>
-  <p><strong>T.</strong> Nível baixo combinado com pastilhas em bom estado é sinal de vazamento. Não dirija o veículo antes de identificar a origem.</p>
+  <p><strong>Atenção.</strong> Nível baixo combinado com pastilhas em bom estado é sinal de vazamento. Não dirija o veículo antes de identificar a origem.</p>
 </aside>
 
 ## Passo 3: avalie a qualidade do fluido
@@ -99,7 +99,7 @@ Com o reservatório fechado, observe a cor do fluido com auxílio de uma lantern
 
 <aside class="telltale ok" role="note">
   <span aria-hidden="true">✅</span>
-  <p><strong>T.</strong> Fluido com menos de 2% de umidade e cor âmbar clara ainda está em condições de uso. Registre a data e reavalie na próxima revisão.</p>
+  <p><strong>Boa notícia.</strong> Fluido com menos de 2% de umidade e cor âmbar clara ainda está em condições de uso. Registre a data e reavalie na próxima revisão.</p>
 </aside>
 
 ## Passo 4: complete o nível (se necessário)
@@ -108,7 +108,7 @@ Se o nível estiver abaixo do "MAX" mas acima do "MIN" e você descartou vazamen
 
 <aside class="telltale danger" role="note">
   <span aria-hidden="true">🚨</span>
-  <p><strong>T.</strong> Fluido de freio é higroscópico e corrosivo. Evite contato com a pintura do veículo. Em caso de respingo, lave imediatamente com água em abundância.</p>
+  <p><strong>Cuidado.</strong> Fluido de freio é higroscópico e corrosivo. Evite contato com a pintura do veículo. Em caso de respingo, lave imediatamente com água em abundância.</p>
 </aside>
 
 ## Passo 5: realize a sangria completa (troca total)

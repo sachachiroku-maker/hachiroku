@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Honda HR-V usado vale a pena? Guia de inspeção"
 description: "Honda HR-V 2ª geração 1.5 turbo vale a pena no mercado de usados, mas exige atenção ao histórico de troca de óleo e à correia banhada a óleo. Veja o checklist completo de inspeção."
 marca: "Honda"
@@ -79,7 +79,7 @@ draft: false
 
 Honda HR-V 2ª geração usado vale a pena para quem quer um SUV compacto espaçoso com motor turbo eficiente, mas a compra exige atenção a dois pontos que a maioria dos compradores ignora: o histórico de trocas de óleo do motor 1.5 turbo e o estado da correia de distribuição banhada a óleo. Com documentação em ordem e manutenção comprovada, o HR-V é uma compra sólida no segmento. Sem essa documentação, o risco de reparo caro é real.
 
-<aside class="telltale danger" role="note"><span aria-hidden="true">🔴</span><p><strong>T.</strong> Correia banhada a óleo sem histórico de troca de óleo regular é o maior risco do HR-V 1.5 turbo: a correia opera dentro do bloco e se degrada quando o lubrificante não é trocado no prazo. Exija notas fiscais de todas as revisões antes de fechar negócio.</p></aside>
+<aside class="telltale danger" role="note"><span aria-hidden="true">🔴</span><p><strong>Cuidado.</strong> Correia banhada a óleo sem histórico de troca de óleo regular é o maior risco do HR-V 1.5 turbo: a correia opera dentro do bloco e se degrada quando o lubrificante não é trocado no prazo. Exija notas fiscais de todas as revisões antes de fechar negócio.</p></aside>
 
 ---
 
@@ -101,7 +101,7 @@ O ponto de atenção está na lubrificação. O motor usa óleo 0W-20 full sint�
 
 Motores turbo com injeção direta são mais sensíveis à qualidade e à frequência das trocas de óleo. O lubrificante que permanece no motor além do prazo começa a oxidar, perde a capacidade de lubrificar as partes móveis do turbo e contamina o banho da correia de distribuição.
 
-<aside class="telltale warning" role="note"><span aria-hidden="true">🟡</span><p><strong>T.</strong> Cheque o nível de óleo com o motor frio antes de qualquer test drive. Nível abaixo do mínimo sem justificativa de troca recente indica descuido com a manutenção do turbo.</p></aside>
+<aside class="telltale warning" role="note"><span aria-hidden="true">🟡</span><p><strong>Atenção.</strong> Cheque o nível de óleo com o motor frio antes de qualquer test drive. Nível abaixo do mínimo sem justificativa de troca recente indica descuido com a manutenção do turbo.</p></aside>
 
 ---
 
@@ -115,7 +115,7 @@ Quando o óleo envelhece e acumula resíduos, esses resíduos se depositam na co
 
 Não é possível checar visualmente a correia sem abrir a tampa frontal do motor. Por isso, o histórico de trocas de óleo documentado é o único indicador disponível para o comprador. Sem notas fiscais, o risco é incalculável.
 
-<aside class="telltale info" role="note"><span aria-hidden="true">🔵</span><p><strong>T.</strong> A correia banhada a óleo não tem janela de inspeção externa. O comprador só tem acesso ao histórico de óleo para estimar o estado dela. Se o vendedor não tiver as notas, inclua o custo de uma inspeção preventiva na negociação.</p></aside>
+<aside class="telltale info" role="note"><span aria-hidden="true">🔵</span><p><strong>Vale saber.</strong> A correia banhada a óleo não tem janela de inspeção externa. O comprador só tem acesso ao histórico de óleo para estimar o estado dela. Se o vendedor não tiver as notas, inclua o custo de uma inspeção preventiva na negociação.</p></aside>
 
 ---
 
@@ -134,7 +134,7 @@ O que não é normal no CVT:
 
 Esses sintomas indicam desgaste do conjunto de correias e polias do CVT, ou fluido degradado. O reparo de um CVT fora da rede autorizada é caro e pode ser difícil de encontrar fora dos grandes centros.
 
-<aside class="telltale ok" role="note"><span aria-hidden="true">🟢</span><p><strong>T.</strong> CVT em bom estado é silencioso, progressivo e suave em qualquer velocidade. A sensação de "borracha" leve em aceleração moderada é normal e não é defeito.</p></aside>
+<aside class="telltale ok" role="note"><span aria-hidden="true">🟢</span><p><strong>Boa notícia.</strong> CVT em bom estado é silencioso, progressivo e suave em qualquer velocidade. A sensação de "borracha" leve em aceleração moderada é normal e não é defeito.</p></aside>
 
 ---
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Consumo de óleo no Logan 1.0 TCe: causa e solução"
 description: "O motor 1.0 turbo TCe do Renault Logan consome óleo acima do normal após 60 mil km por desgaste dos anéis e retentores. Saiba identificar, medir e resolver o problema antes de evoluir para falha grave."
 entidade:
@@ -81,7 +81,7 @@ draft: false
 
 O **consumo de óleo no motor 1.0 turbo TCe do Renault Logan** é um defeito documentado que se manifesta com maior frequência após 60.000 km, causado pelo desgaste progressivo dos anéis de pistão e dos retentores de válvula. O problema é identificável pela queda de nível na vareta entre abastecimentos e, em estágios mais avançados, por fumaça azulada no escapamento durante a aceleração ou a desaceleração. A ação correta começa pela medição objetiva do consumo real e pelo teste de compressão antes de qualquer decisão de retífica.
 
-<aside class="telltale danger" role="note"><span aria-hidden="true">🔴</span><p><strong>T.</strong> Nível de óleo abaixo da marca mínima na vareta pode causar falha do turbo em minutos. Verifique o nível a cada abastecimento se o consumo já foi identificado.</p></aside>
+<aside class="telltale danger" role="note"><span aria-hidden="true">🔴</span><p><strong>Cuidado.</strong> Nível de óleo abaixo da marca mínima na vareta pode causar falha do turbo em minutos. Verifique o nível a cada abastecimento se o consumo já foi identificado.</p></aside>
 
 ## Por que o motor 1.0 TCe do Logan consome mais óleo com o tempo
 
@@ -103,7 +103,7 @@ Três práticas aceleram o desgaste dos anéis e retentores no motor 1.0 turbo T
 
 **Aceleração intensa com motor frio.** O TCe com turbo foi projetado para operar em plena carga com o motor na temperatura de trabalho. Acelerações fortes nos primeiros minutos após a partida, quando o óleo ainda não atingiu a temperatura ideal, impõem desgaste desigual nos anéis e nas paredes dos cilindros.
 
-<aside class="telltale warning" role="note"><span aria-hidden="true">⚠️</span><p><strong>T.</strong> Fumaça azulada ao retomar a aceleração após uma descida longa é o sinal mais típico de retentores de válvula desgastados no motor TCe. Não confunda com a fumaça branca do condensado frio, que some em segundos com o motor aquecido.</p></aside>
+<aside class="telltale warning" role="note"><span aria-hidden="true">⚠️</span><p><strong>Atenção.</strong> Fumaça azulada ao retomar a aceleração após uma descida longa é o sinal mais típico de retentores de válvula desgastados no motor TCe. Não confunda com a fumaça branca do condensado frio, que some em segundos com o motor aquecido.</p></aside>
 
 ## Como identificar a origem do consumo: motor ou turbo
 
@@ -119,7 +119,7 @@ Consumo pelos anéis e retentores produz fumaça azulada principalmente na desac
 
 O teste de compressão e, se necessário, o leak-down test determinam com precisão qual componente é o responsável principal.
 
-<aside class="telltale info" role="note"><span aria-hidden="true">ℹ️</span><p><strong>T.</strong> Motores TCe com consumo de óleo elevado mas compressão uniforme acima de 11 bar em todos os cilindros tendem a ter o problema nos retentores de válvula, não nos anéis. O reparo dos retentores é mais simples e mais barato do que uma retífica completa.</p></aside>
+<aside class="telltale info" role="note"><span aria-hidden="true">ℹ️</span><p><strong>Vale saber.</strong> Motores TCe com consumo de óleo elevado mas compressão uniforme acima de 11 bar em todos os cilindros tendem a ter o problema nos retentores de válvula, não nos anéis. O reparo dos retentores é mais simples e mais barato do que uma retífica completa.</p></aside>
 
 ## O que esperar da retífica no motor 1.0 TCe
 
@@ -129,4 +129,4 @@ O cabeçote também é inspecionado: guias de válvula desgastadas podem precisa
 
 Em motores com histórico rastreável de manutenção correta e sem danos ao bloco, a retífica é uma solução duradoura. Em motores sem histórico ou com desgaste extenso, a troca por um motor de procedência confiável pode ser a opção mais segura para o médio prazo.
 
-<aside class="telltale ok" role="note"><span aria-hidden="true">✅</span><p><strong>T.</strong> Após a retífica ou a troca de motor, adote o intervalo de troca de óleo de 7.500 km (e não 10.000 km) com sintético 5W40 aprovado pela Renault. Esse cuidado prolonga significativamente a vida útil dos novos anéis e retentores.</p></aside>
+<aside class="telltale ok" role="note"><span aria-hidden="true">✅</span><p><strong>Boa notícia.</strong> Após a retífica ou a troca de motor, adote o intervalo de troca de óleo de 7.500 km (e não 10.000 km) com sintético 5W40 aprovado pela Renault. Esse cuidado prolonga significativamente a vida útil dos novos anéis e retentores.</p></aside>

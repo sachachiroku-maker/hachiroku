@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Tracker vs T-Cross: qual SUV compacto comprar?"
 description: "Chevrolet Tracker 1.0 turbo e VW T-Cross 1.0 TSI disputam o mesmo comprador no segmento de SUVs compactos. Comparamos motor, câmbio, consumo, espaço, custo de manutenção e defeitos para ajudar você a escolher sem arrependimento."
 marca: "Comparativo"
@@ -100,7 +100,7 @@ O ponto que merece atenção: esse motor usa **correia dentada banhada a óleo**
 
 O **1.0 TSI do T-Cross** usa injeção direta e entrega 116 cv e 20,4 kgfm a partir de 2.000 rpm. Ele tem correia dentada convencional (não banhada a óleo) e é um motor consolidado na plataforma MQB da Volkswagen. As queixas mais comuns com esse motor estão ligadas ao câmbio, não ao propulsor em si.
 
-<aside class="telltale info" role="note"><span aria-hidden="true">ℹ️</span><p><strong>T.</strong> Nos dois carros, óleo na especificação e no intervalo correto não é recomendação opcional: é condição para o motor e o câmbio durarem. Motor turbo trabalha sob mais pressão e temperatura, e economizar no lubrificante costuma custar caro depois da garantia.</p></aside>
+<aside class="telltale info" role="note"><span aria-hidden="true">ℹ️</span><p><strong>Vale saber.</strong> Nos dois carros, óleo na especificação e no intervalo correto não é recomendação opcional: é condição para o motor e o câmbio durarem. Motor turbo trabalha sob mais pressão e temperatura, e economizar no lubrificante costuma custar caro depois da garantia.</p></aside>
 
 ## Câmbio: a diferença mais sentida no dia a dia
 
@@ -110,7 +110,7 @@ O **câmbio automático de 6 marchas do Tracker** é do tipo conversor de torque
 
 O **DSG de 7 marchas do T-Cross** é mais rápido nas trocas e entrega uma sensação mais esportiva quando o carro está em ritmo de estrada. O problema aparece no uso urbano intenso: o DQ200 (DSG a seco) tem histórico documentado de solavancos e repuxadas em tráfego lento, especialmente com o motor frio. A VW fez atualizações de software ao longo dos anos para amenizar, mas o comportamento ainda aparece em alguns exemplares e incomoda quem usa o carro majoritariamente no trânsito da cidade.
 
-<aside class="telltale warning" role="note"><span aria-hidden="true">⚠️</span><p><strong>T.</strong> Se você compra o T-Cross para rodar quase todo no trânsito parado, faça o test drive exatamente nessa condição: motor frio, trânsito lento, partidas e paradas repetidas. O câmbio DSG no seu pior cenário se revela ali, não na estrada aberta.</p></aside>
+<aside class="telltale warning" role="note"><span aria-hidden="true">⚠️</span><p><strong>Atenção.</strong> Se você compra o T-Cross para rodar quase todo no trânsito parado, faça o test drive exatamente nessa condição: motor frio, trânsito lento, partidas e paradas repetidas. O câmbio DSG no seu pior cenário se revela ali, não na estrada aberta.</p></aside>
 
 ## Consumo e espaço
 
@@ -128,7 +128,7 @@ O primeiro é a **correia banhada a óleo**, já descrita acima. O mecanismo é 
 
 O segundo é a **coluna de direção elétrica**. Proprietários relatam endurecimento súbito da direção durante a condução, acompanhado da mensagem de falha no Stabilitrak no painel. O problema é mais frequente em unidades fabricadas antes de 2022 e é compartilhado com o Onix. A reprogramação resolve temporariamente em alguns casos, mas a troca da coluna quando necessária é um reparo de valor elevado.
 
-<aside class="telltale danger" role="note"><span aria-hidden="true">⛔</span><p><strong>T.</strong> No Tracker usado, balize devagar e esterce parado durante o test drive. Qualquer endurecimento súbito ou luz de falha no painel deve ser tratado como sinal de alerta, não de curiosidade. Uma coluna de direção elétrica fora da garantia é reparo caro.</p></aside>
+<aside class="telltale danger" role="note"><span aria-hidden="true">⛔</span><p><strong>Cuidado.</strong> No Tracker usado, balize devagar e esterce parado durante o test drive. Qualquer endurecimento súbito ou luz de falha no painel deve ser tratado como sinal de alerta, não de curiosidade. Uma coluna de direção elétrica fora da garantia é reparo caro.</p></aside>
 
 ## Defeitos documentados do T-Cross: o que vigiar
 
@@ -136,7 +136,7 @@ No T-Cross, o ponto de atenção mais recorrente é o **câmbio DSG em uso urban
 
 Além do câmbio, há relatos menos frequentes de **falhas eletrônicas no módulo de controle do motor** e de **ruídos de suspensão** em estradas de má qualidade, especialmente no eixo traseiro da versão com rodas maiores. Esses problemas são menos sistemáticos que o câmbio, mas valem a verificação com um scanner OBD2 antes de fechar a compra de um usado.
 
-<aside class="telltale warning" role="note"><span aria-hidden="true">⚠️</span><p><strong>T.</strong> No T-Cross com DSG, peça uma atualização de software na concessionária VW se o carro apresentar solavancos ao sair do lugar. Muitas vezes, o recall ou a atualização de software já está disponível sem custo dentro do período de garantia.</p></aside>
+<aside class="telltale warning" role="note"><span aria-hidden="true">⚠️</span><p><strong>Atenção.</strong> No T-Cross com DSG, peça uma atualização de software na concessionária VW se o carro apresentar solavancos ao sair do lugar. Muitas vezes, o recall ou a atualização de software já está disponível sem custo dentro do período de garantia.</p></aside>
 
 ## Custo de manutenção e rede de serviços
 
@@ -146,7 +146,7 @@ A **Volkswagen** também tem boa rede de concessionárias, com presença relevan
 
 Para quem fica com o carro por muitos anos e mora longe das capitais, a rede e o custo de peça do Tracker tendem a pesar mais. Para quem troca de carro a cada 3 a 5 anos e mora em uma grande cidade, a diferença diminui bastante e a revenda do T-Cross pode compensar o custo um pouco maior de manutenção.
 
-<aside class="telltale ok" role="note"><span aria-hidden="true">✅</span><p><strong>T.</strong> Os dois têm 3 anos de garantia de fábrica. Se você está comprando um zero ou um seminovo dentro da garantia, o custo de manutenção fora do programado fica protegido. O risco maior aparece depois que a garantia encerra.</p></aside>
+<aside class="telltale ok" role="note"><span aria-hidden="true">✅</span><p><strong>Boa notícia.</strong> Os dois têm 3 anos de garantia de fábrica. Se você está comprando um zero ou um seminovo dentro da garantia, o custo de manutenção fora do programado fica protegido. O risco maior aparece depois que a garantia encerra.</p></aside>
 
 ## Para quem cada um serve
 

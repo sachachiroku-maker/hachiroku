@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Ficha técnica HB20 Platinum 1.0 Turbo 2023"
 description: "Ficha técnica completa do Hyundai HB20 Platinum Plus 1.0 T-GDi 2023: 120 cv, câmbio IVT, consumo 12,1 km/l cidade e 15,2 km/l estrada (etanol). Dados verificados."
 marca: "Hyundai"
@@ -119,7 +119,7 @@ draft: false
 
 O **Hyundai HB20 Platinum Plus 1.0 T-GDi 2023** é o topo de linha do hatch compacto da Hyundai no Brasil: motor Kappa 1.0 turbo de 120 cv com injeção direta, câmbio automático IVT de variação contínua, consumo certificado pelo INMETRO de 12,1 km/l na cidade e 15,2 km/l na estrada com etanol, e garantia de 5 anos ou 100.000 km. Para quem quer câmbio automático confiável, eficiência de combustível acima da média do segmento e a cobertura de garantia mais longa da categoria, o HB20 Platinum Plus entrega o conjunto mais completo da linha.
 
-<aside class="telltale info" role="note"><span aria-hidden="true">ℹ️</span><p><strong>T.</strong> O câmbio IVT do HB20 Platinum Plus não tem previsão oficial de troca de fluido no manual brasileiro, mas especialistas em transmissões CVT recomendam substituição entre 60.000 km e 80.000 km para preservar a correia metálica do variador e evitar reparos de custo elevado.</p></aside>
+<aside class="telltale info" role="note"><span aria-hidden="true">ℹ️</span><p><strong>Vale saber.</strong> O câmbio IVT do HB20 Platinum Plus não tem previsão oficial de troca de fluido no manual brasileiro, mas especialistas em transmissões CVT recomendam substituição entre 60.000 km e 80.000 km para preservar a correia metálica do variador e evitar reparos de custo elevado.</p></aside>
 
 ## Para quem esse hatch faz sentido
 
@@ -127,7 +127,7 @@ O HB20 Platinum Plus 1.0 T-GDi atende bem a três perfis: quem quer câmbio auto
 
 O motor 1.0 turbo com 120 cv e 17,5 kgfm de torque disponível já a 1.500 rpm entrega retomadas ágeis sem exigir muita rotação. O câmbio IVT complementa esse perfil mantendo o motor em rotações baixas e eficientes no cruzeiro, o que resulta em consumo de 12,1 km/l na cidade e 15,2 km/l na estrada com etanol, segundo dados do INMETRO PBEV 2023.
 
-<aside class="telltale ok" role="note"><span aria-hidden="true">✅</span><p><strong>T.</strong> O HB20 Platinum Plus tem garantia de 5 anos ou 100.000 km, a mais longa do segmento de hatches compactos no Brasil. Para compras com financiamento de prazo longo, a cobertura elimina o risco de custos inesperados com motor e câmbio nos primeiros anos.</p></aside>
+<aside class="telltale ok" role="note"><span aria-hidden="true">✅</span><p><strong>Boa notícia.</strong> O HB20 Platinum Plus tem garantia de 5 anos ou 100.000 km, a mais longa do segmento de hatches compactos no Brasil. Para compras com financiamento de prazo longo, a cobertura elimina o risco de custos inesperados com motor e câmbio nos primeiros anos.</p></aside>
 
 O IVT contribui para o conforto em tráfego parado: sem trocas de marcha abruptas, o carro avança em fila de forma suave e linear. Para quem roda mais de 1.500 km por mês em rodovias, o consumo de 15,2 km/l na estrada representa economia real em comparação a motores aspirados de maior cilindrada.
 
@@ -135,10 +135,10 @@ O IVT contribui para o conforto em tráfego parado: sem trocas de marcha abrupta
 
 O câmbio IVT é o componente que exige mais atenção na compra de um HB20 Platinum Plus usado. O fluido do variador não tem previsão de troca no manual oficial, mas unidades com manutenção negligenciada podem apresentar resposta lenta no arranque e solavanco em manobras a baixas velocidades, ambos sintomas de fluido degradado. Solicite o histórico de revisões e, se possível, leve o carro a um especialista em transmissões CVT antes de fechar negócio.
 
-<aside class="telltale warning" role="note"><span aria-hidden="true">⚠️</span><p><strong>T.</strong> Desconfie de HB20 Platinum Plus usado sem histórico de revisões documentadas. O câmbio IVT sem troca de fluido até 80.000 km pode apresentar falhas no variador, com custo de reparo que ultrapassa R$ 5.000 fora da garantia.</p></aside>
+<aside class="telltale warning" role="note"><span aria-hidden="true">⚠️</span><p><strong>Atenção.</strong> Desconfie de HB20 Platinum Plus usado sem histórico de revisões documentadas. O câmbio IVT sem troca de fluido até 80.000 km pode apresentar falhas no variador, com custo de reparo que ultrapassa R$ 5.000 fora da garantia.</p></aside>
 
 O motor Kappa 1.0 T-GDi é robusto, mas exige óleo 5W30 sintético trocado a cada 10.000 km. Em motores turbo, o intervalo fora do prazo acelera o desgaste dos mancais do turbocompressor e pode gerar consumo de óleo acima do esperado. Verifique o nível de óleo antes do test-drive: qualquer nível abaixo da marca mínima na vareta é sinal de alerta imediato.
 
 Os pneus 195/50 R16 são de perfil baixo para a categoria e têm custo de reposição mais alto do que os 185/60 R15 das versões de entrada. Inclua o custo dos pneus no cálculo do custo de propriedade, principalmente em regiões com pavimento irregular que aceleram o desgaste.
 
-<aside class="telltale danger" role="note"><span aria-hidden="true">🚨</span><p><strong>T.</strong> Nunca compre um HB20 Platinum Plus sem testar o câmbio IVT em marcha a ré e em velocidades abaixo de 20 km/h. Solavancos ou hesitação excessiva nessas condições indicam fluido degradado ou desgaste interno do variador, e o reparo não é simples nem barato.</p></aside>
+<aside class="telltale danger" role="note"><span aria-hidden="true">🚨</span><p><strong>Cuidado.</strong> Nunca compre um HB20 Platinum Plus sem testar o câmbio IVT em marcha a ré e em velocidades abaixo de 20 km/h. Solavancos ou hesitação excessiva nessas condições indicam fluido degradado ou desgaste interno do variador, e o reparo não é simples nem barato.</p></aside>

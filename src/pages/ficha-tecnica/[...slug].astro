@@ -71,7 +71,7 @@ const grupos = [
       <div class="ficha-hero-row">
         <div>
           <Eyebrow tone="accent">Ficha técnica · {data.ano} · {data.versao}</Eyebrow>
-          <h1 class="ficha-h1">{data.h1 ?? `Ficha Técnica ${data.marca} ${data.modelo} ${data.versao} ${data.ano}`}</h1>
+          <h1 class="ficha-h1">{`Ficha Técnica ${data.marca} ${data.modelo} ${data.versao} ${data.ano}`}</h1>
           <div class="ficha-badges">
             {data.carroceria && <Badge tone="accent" variant="solid">{data.carroceria}</Badge>}
             <Badge tone="neutral" variant="outline">{data.combustivel}</Badge>

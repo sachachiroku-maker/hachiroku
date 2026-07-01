@@ -54,7 +54,7 @@ afiliados:
     programa: "mercadoLivre"
 relacionados:
   - titulo: "Problemas do Volkswagen Tiguan Allspace no Brasil"
-    url: "/problemas/volkswagen/tiguan/"
+    url: "/problemas/volkswagen/tiguan-allspace/"
   - titulo: "Ficha Técnica: Tiguan Allspace Comfortline 1.4 TSI"
     url: "/ficha-tecnica/volkswagen/tiguan-allspace-comfortline-1-4/"
 pontosChave:

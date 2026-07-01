@@ -108,7 +108,7 @@ draft: false
 
 O **Hyundai HB20S Platinum 1.0 Turbo 2024** é o topo de linha do sedã compacto da Hyundai no Brasil: motor Kappa 1.0 turbo de 120 cv com injeção direta, câmbio automático IVT de variação contínua e porta-malas de 475 litros, o maior da categoria dos sedãs compactos nacionais. Para quem precisa de espaço de carga acima da média, eficiência de combustível real e câmbio automático sem as limitações de um CVT de entrada, o HB20S Platinum entrega o conjunto mais completo da linha.
 
-<aside class="telltale info" role="note"><span aria-hidden="true">ℹ️</span><p><strong>T.</strong> O câmbio IVT do HB20S Platinum não tem previsão oficial de troca de fluido no manual brasileiro, mas especialistas em transmissões CVT recomendam substituição entre 60.000 km e 80.000 km para preservar a correia metálica do variador e evitar reparos de custo elevado.</p></aside>
+<aside class="telltale info" role="note"><span aria-hidden="true">ℹ️</span><p><strong>Vale saber.</strong> O câmbio IVT do HB20S Platinum não tem previsão oficial de troca de fluido no manual brasileiro, mas especialistas em transmissões CVT recomendam substituição entre 60.000 km e 80.000 km para preservar a correia metálica do variador e evitar reparos de custo elevado.</p></aside>
 
 ## Para quem esse sedã faz sentido
 
@@ -116,7 +116,7 @@ O HB20S Platinum 1.0 Turbo atende bem a três perfis: quem precisa de porta-mala
 
 O motor 1.0 turbo com 120 cv e 17,5 kgfm de torque disponível já a 1.500 rpm entrega retomadas ágeis sem exigir muita rotação. O câmbio IVT complementa esse perfil mantendo o motor em rotações baixas e eficientes no cruzeiro, o que resulta em consumo de cerca de 12,5 km/l na cidade e 15,5 km/l na estrada com gasolina, dados acima da média do segmento.
 
-<aside class="telltale ok" role="note"><span aria-hidden="true">✅</span><p><strong>T.</strong> Com 475 litros de porta-malas, o HB20S Platinum carrega 175 litros a mais do que o HB20 hatch, diferença equivalente a duas malas grandes de viagem. Para famílias que viajam com frequência ou transportam equipamentos volumosos, esse número justifica a escolha pelo sedã.</p></aside>
+<aside class="telltale ok" role="note"><span aria-hidden="true">✅</span><p><strong>Boa notícia.</strong> Com 475 litros de porta-malas, o HB20S Platinum carrega 175 litros a mais do que o HB20 hatch, diferença equivalente a duas malas grandes de viagem. Para famílias que viajam com frequência ou transportam equipamentos volumosos, esse número justifica a escolha pelo sedã.</p></aside>
 
 O IVT ainda contribui para o conforto em tráfego parado: sem trocas de marcha abruptas, o carro avança em fila de forma suave e linear. Para quem roda mais de 1.500 km por mês em rodovias, o consumo de 15,5 km/l na estrada representa economia real em comparação a motores aspirados de maior cilindrada.
 
@@ -124,10 +124,10 @@ O IVT ainda contribui para o conforto em tráfego parado: sem trocas de marcha a
 
 O câmbio IVT é o componente que exige mais atenção na compra de um HB20S Platinum usado. O fluido do variador não tem previsão de troca no manual oficial, mas unidades com manutenção negligenciada podem apresentar resposta lenta no arranque e solavanco em manobras a baixas velocidades, ambos sintomas de fluido degradado. Solicite o histórico de revisões e, se possível, leve o carro a um especialista em transmissões CVT antes de fechar negócio.
 
-<aside class="telltale warning" role="note"><span aria-hidden="true">⚠️</span><p><strong>T.</strong> Desconfie de HB20S Platinum usado sem histórico de revisões documentadas. O câmbio IVT sem troca de fluido até 80.000 km pode apresentar falhas no variador, com custo de reparo que ultrapassa R$ 5.000 fora da garantia.</p></aside>
+<aside class="telltale warning" role="note"><span aria-hidden="true">⚠️</span><p><strong>Atenção.</strong> Desconfie de HB20S Platinum usado sem histórico de revisões documentadas. O câmbio IVT sem troca de fluido até 80.000 km pode apresentar falhas no variador, com custo de reparo que ultrapassa R$ 5.000 fora da garantia.</p></aside>
 
 O motor Kappa 1.0 turbo é robusto, mas exige óleo 5W30 sintético trocado a cada 10.000 km. Em motores turbo, o intervalo fora do prazo acelera o desgaste dos mancais do turbocompressor e pode gerar consumo de óleo acima do esperado. Verifique o nível de óleo antes do test drive: qualquer nível abaixo da marca mínima na vareta é sinal de alerta imediato.
 
 Os pneus 195/50 R16 são de perfil baixo para a categoria e têm custo de reposição mais alto do que os 185/60 R15 do HB20 aspirado. Inclua o custo dos pneus no cálculo do custo de propriedade, principalmente em regiões com pavimento irregular que aceleram o desgaste.
 
-<aside class="telltale danger" role="note"><span aria-hidden="true">🚨</span><p><strong>T.</strong> Nunca compre um HB20S Platinum sem testar o câmbio IVT em marcha a ré e em velocidades abaixo de 20 km/h. Solavancos ou hesitação excessiva nessas condições indicam fluido degradado ou desgaste interno do variador, e o reparo não é simples nem barato.</p></aside>
+<aside class="telltale danger" role="note"><span aria-hidden="true">🚨</span><p><strong>Cuidado.</strong> Nunca compre um HB20S Platinum sem testar o câmbio IVT em marcha a ré e em velocidades abaixo de 20 km/h. Solavancos ou hesitação excessiva nessas condições indicam fluido degradado ou desgaste interno do variador, e o reparo não é simples nem barato.</p></aside>

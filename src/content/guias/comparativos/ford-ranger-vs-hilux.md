@@ -99,7 +99,7 @@ draft: false
 
 Ranger 2.0 Biturbo ou Hilux 2.8 GD: a decisao entre as duas picapes diesel mais vendidas do Brasil separa quem prioriza tecnologia e conforto de quem precisa de durabilidade comprovada em uso pesado. O motor da Hilux tem mais de uma decada de historico no pais, com rede de pecas ampla e mecanicos independentes especializados. O Biturbo da Ranger entrega mais potencia e melhor eficiencia na estrada, mas com menor historico de campo em alto km. Se o uso inclui reboque acima de 2 toneladas com frequencia, leia cada item deste comparativo antes de decidir.
 
-<aside class="telltale warning" role="note"><span aria-hidden="true">⚠️</span><p><strong>T.</strong> Picapes diesel usadas com historico desconhecido de revisoes escondemnproblemas caros: injetores desgastados, turbo com folga e EGR entupido nao aparecem no test drive, mas aparecem na conta do mecanico. Use sempre um scanner OBD2 antes de fechar qualquer negocio.</p></aside>
+<aside class="telltale warning" role="note"><span aria-hidden="true">⚠️</span><p><strong>Atenção.</strong> Picapes diesel usadas com historico desconhecido de revisoes escondemnproblemas caros: injetores desgastados, turbo com folga e EGR entupido nao aparecem no test drive, mas aparecem na conta do mecanico. Use sempre um scanner OBD2 antes de fechar qualquer negocio.</p></aside>
 
 ## Motor e desempenho: qual diesel tem mais musculos
 
@@ -115,7 +115,7 @@ O motor 2.8 GD da Hilux (codigo interno 2GD-FTV) e uma unidade de maior deslocam
 
 O 2.0 Biturbo da Ranger usa duplo estagio de turbocompressao para compensar o menor deslocamento. Nas versoes de 210 cv, ele empata no torque maximo, mas a curva de entrega e diferente: o motor Ford precisa de rotacao mais alta para entregar o pico de torque de forma consistente.
 
-<aside class="telltale info" role="note"><span aria-hidden="true">ℹ️</span><p><strong>T.</strong> Torque maximo igual no papel nao significa comportamento igual na pratica. O 2.8 da Hilux entrega torque pleno desde aproximadamente 1.600 rpm; o Biturbo da Ranger atinge o pico acima de 1.750 rpm nas versoes de 210 cv. Em trabalho pesado em baixa rotacao, essa diferenca e perceptivel.</p></aside>
+<aside class="telltale info" role="note"><span aria-hidden="true">ℹ️</span><p><strong>Vale saber.</strong> Torque maximo igual no papel nao significa comportamento igual na pratica. O 2.8 da Hilux entrega torque pleno desde aproximadamente 1.600 rpm; o Biturbo da Ranger atinge o pico acima de 1.750 rpm nas versoes de 210 cv. Em trabalho pesado em baixa rotacao, essa diferenca e perceptivel.</p></aside>
 
 ## Cambio: 6 ou 10 marchas fazem diferenca no uso diario
 
@@ -131,7 +131,7 @@ O motor 2GD-FTV da Hilux ja acumulou exemplares com 250 mil a 400 mil km rodados
 
 O 2.0 Biturbo da Ranger nova (geracao T6.2, de 2023 em diante) ainda nao tem esse historico no Brasil. Em mercados onde a versao anterior do motor foi usada por mais tempo, como a Africa do Sul e a Australia, os relatos sao positivos, mas o ambiente e o combustivel diesel brasileiro tem variaveis proprias.
 
-<aside class="telltale ok" role="note"><span aria-hidden="true">✅</span><p><strong>T.</strong> Hilux com 200 mil km e historico completo de revisoes e um risco calculavel. Ranger 2.0 Biturbo com o mesmo km ainda e territorio menos mapeado no Brasil. Para quem compra usado acima de 150 mil km, o historico da Hilux oferece mais previsibilidade.</p></aside>
+<aside class="telltale ok" role="note"><span aria-hidden="true">✅</span><p><strong>Boa notícia.</strong> Hilux com 200 mil km e historico completo de revisoes e um risco calculavel. Ranger 2.0 Biturbo com o mesmo km ainda e territorio menos mapeado no Brasil. Para quem compra usado acima de 150 mil km, o historico da Hilux oferece mais previsibilidade.</p></aside>
 
 ## Custo de manutencao: revisoes, pecas e rede de servico
 
@@ -158,7 +158,7 @@ A Hilux tem carga util superior: 1.065 kg contra 900 kg da Ranger. Para transpor
 
 Na capacidade de reboque, as duas empatam em 3.500 kg. O ponto pratico e o comportamento do motor sob carga: o torque a baixas rotacoes do 2.8 GD favorece partidas em rampa com trailer pesado, enquanto o Biturbo da Ranger precisa de mais rotacao para desenvolver o mesmo esforco.
 
-<aside class="telltale danger" role="note"><span aria-hidden="true">🔴</span><p><strong>T.</strong> Ultrapassar a carga util ou a capacidade de reboque declarada invalida o seguro do veiculo e sobrecarrega freios, suspensao e o proprio motor. Nunca extrapole esses limites, mesmo que o veiculo pareca conseguir tracionar o peso.</p></aside>
+<aside class="telltale danger" role="note"><span aria-hidden="true">🔴</span><p><strong>Cuidado.</strong> Ultrapassar a carga util ou a capacidade de reboque declarada invalida o seguro do veiculo e sobrecarrega freios, suspensao e o proprio motor. Nunca extrapole esses limites, mesmo que o veiculo pareca conseguir tracionar o peso.</p></aside>
 
 ## Tecnologia e interior: onde a Ranger leva vantagem
 

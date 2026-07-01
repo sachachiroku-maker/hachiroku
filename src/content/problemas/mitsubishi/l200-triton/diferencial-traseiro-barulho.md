@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Barulho no Diferencial Traseiro do L200 Triton Sport"
 description: "Barulho no diferencial traseiro do Mitsubishi L200 Triton Sport 2.4 MIVEC diesel: rolamentos desgastados ou óleo baixo. Diagnóstico, custos e solução em 2026."
 entidade:
@@ -73,7 +73,7 @@ draft: false
 
 Barulho no diferencial traseiro do **Mitsubishi L200 Triton Sport** é um dos problemas mais relatados por proprietários que usam a picape em serviço pesado ou fora de estrada. O defeito se manifesta como um uivo ou gemido grave vindo da traseira do veículo entre 60 e 100 km/h, causado por rolamentos desgastados ou pelo nível baixo de óleo 75W90 GL-5 no diferencial. A ação correta é verificar o nível e a condição do lubrificante imediatamente e inspecionar os rolamentos antes que o dano evolua para a coroa e o pinhão.
 
-<aside class="telltale danger" role="note"><span aria-hidden="true">🔴</span><p><strong>T.</strong> Barulho persistente no diferencial com partículas metálicas no óleo drenado indica dano interno. Pare o uso pesado do veículo e leve a uma oficina especializada em tração 4x4 com urgência.</p></aside>
+<aside class="telltale danger" role="note"><span aria-hidden="true">🔴</span><p><strong>Cuidado.</strong> Barulho persistente no diferencial com partículas metálicas no óleo drenado indica dano interno. Pare o uso pesado do veículo e leve a uma oficina especializada em tração 4x4 com urgência.</p></aside>
 
 ---
 
@@ -85,7 +85,7 @@ O diferencial traseiro do L200 Triton Sport trabalha sob carga intensa na traç�
 
 **Rolamentos do pinhão e laterais com desgaste.** Os rolamentos cônicos que sustentam o pinhão de entrada e os rolamentos laterais da coroa são os primeiros a apresentar folga quando a lubrificação é insuficiente. Essa folga produz o ruído característico que varia com velocidade e torque.
 
-<aside class="telltale warning" role="note"><span aria-hidden="true">🟡</span><p><strong>T.</strong> O óleo do diferencial traseiro deve ser trocado a cada 40.000 km em uso normal e a cada 20.000 km em uso fora de estrada. Intervalos maiores são a principal causa de rolamentos desgastados no L200 Sport.</p></aside>
+<aside class="telltale warning" role="note"><span aria-hidden="true">🟡</span><p><strong>Atenção.</strong> O óleo do diferencial traseiro deve ser trocado a cada 40.000 km em uso normal e a cada 20.000 km em uso fora de estrada. Intervalos maiores são a principal causa de rolamentos desgastados no L200 Sport.</p></aside>
 
 ---
 
@@ -98,7 +98,7 @@ O ruído do diferencial traseiro tem características específicas que ajudam a 
 - **Ruído que piora ao acelerar e diminui ao soltar o acelerador:** aponta para folga entre coroa e pinhão (backlash excessivo), o que significa desgaste mais avançado.
 - **Batida ou tranco ao sair do ponto ou engatar marcha:** sinal de folga grave, possivelmente com comprometimento dos dentes da coroa.
 
-<aside class="telltale info" role="note"><span aria-hidden="true">🔵</span><p><strong>T.</strong> Anotar em qual velocidade e sob qual condição (aceleração, frenagem, curva) o barulho aparece ou some economiza tempo na oficina e ajuda o técnico a identificar a peça comprometida com precisão.</p></aside>
+<aside class="telltale info" role="note"><span aria-hidden="true">🔵</span><p><strong>Vale saber.</strong> Anotar em qual velocidade e sob qual condição (aceleração, frenagem, curva) o barulho aparece ou some economiza tempo na oficina e ajuda o técnico a identificar a peça comprometida com precisão.</p></aside>
 
 ---
 
@@ -124,7 +124,7 @@ Posicione uma bandeja sob o diferencial e remova o bujão de dreno inferior. Obs
 
 Se o barulho persistir após a troca do óleo, ou se a inspeção visual revelou partículas metálicas em excesso ou vazamento no retentor, leve o L200 a uma oficina especializada em tração 4x4 ou transmissão. O técnico vai medir a folga do pinhão com relógio comparador, verificar o contato da coroa com pó de azul de prússia e checar o pré-carga dos rolamentos. Com esses dados, ele define se a intervenção é apenas nos rolamentos ou se a coroa e o pinhão também precisam ser substituídos.
 
-<aside class="telltale ok" role="note"><span aria-hidden="true">🟢</span><p><strong>T.</strong> Troca de óleo 75W90 GL-5 em dia e retentor íntegro são suficientes para manter o diferencial traseiro do L200 Triton Sport funcionando sem barulho por décadas, mesmo em uso off-road intenso.</p></aside>
+<aside class="telltale ok" role="note"><span aria-hidden="true">🟢</span><p><strong>Boa notícia.</strong> Troca de óleo 75W90 GL-5 em dia e retentor íntegro são suficientes para manter o diferencial traseiro do L200 Triton Sport funcionando sem barulho por décadas, mesmo em uso off-road intenso.</p></aside>
 
 ---
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Superaquecimento por termostato no Citroën C3 1.6 VTi |"
 description: "O Citroën C3 1.6 VTi superaquece quando o termostato trava fechado: o arrefecimento para de circular e o motor chega ao limite em menos de 20 minutos. Veja como identificar, confirmar o diagnóstico e resolver."
 entidade:
@@ -82,7 +82,7 @@ draft: false
 
 O **superaquecimento do Citroën C3 1.6 VTi por termostato travado fechado** é um defeito crítico: o termostato bloqueia a circulação do fluido de arrefecimento pelo radiador e o motor atinge temperatura crítica em menos de 20 minutos de uso. A falha exige parada imediata e substituição do componente antes de qualquer novo uso do veículo.
 
-<aside class="telltale danger" role="note"><span aria-hidden="true">🚨</span><p><strong>T.</strong> Se o marcador de temperatura subir rapidamente até a zona vermelha com o reservatório cheio e sem vazamento visível, desligue o motor imediatamente. Continuar dirigindo com o motor superaquecendo causa dano irreversível ao cabeçote de alumínio.</p></aside>
+<aside class="telltale danger" role="note"><span aria-hidden="true">🚨</span><p><strong>Cuidado.</strong> Se o marcador de temperatura subir rapidamente até a zona vermelha com o reservatório cheio e sem vazamento visível, desligue o motor imediatamente. Continuar dirigindo com o motor superaquecendo causa dano irreversível ao cabeçote de alumínio.</p></aside>
 
 ## Como o termostato controla a temperatura do motor
 
@@ -100,7 +100,7 @@ Em condições normais de uso urbano ou em rodovia, o motor do C3 1.6 VTi gera c
 
 O ventilador elétrico do radiador continua funcionando, mas sem utilidade: o fluido quente não chega ao radiador para ser resfriado. O reservatório de arrefecimento permanece cheio, não há vazamento visível, e o motor continua aquecendo sem controle.
 
-<aside class="telltale warning" role="note"><span aria-hidden="true">⚠️</span><p><strong>T.</strong> Mangueira superior do radiador fria com motor na temperatura de operação indica termostato travado fechado. Esse é o teste mais rápido e confiável para confirmar o diagnóstico sem equipamento especial.</p></aside>
+<aside class="telltale warning" role="note"><span aria-hidden="true">⚠️</span><p><strong>Atenção.</strong> Mangueira superior do radiador fria com motor na temperatura de operação indica termostato travado fechado. Esse é o teste mais rápido e confiável para confirmar o diagnóstico sem equipamento especial.</p></aside>
 
 ## Por que o termostato do C3 1.6 VTi falha
 
@@ -112,7 +112,7 @@ A segunda causa frequente é o envelhecimento do elemento de cera do termostato.
 
 A terceira causa é o uso de água comum no lugar de fluido de arrefecimento, prática que acelera dramaticamente a corrosão interna do sistema.
 
-<aside class="telltale info" role="note"><span aria-hidden="true">ℹ️</span><p><strong>T.</strong> O fluido de arrefecimento do C3 deve ser trocado a cada 2 anos ou 40.000 km. Fluido degradado corrói o termostato, a bomba d'água e as superfícies de alumínio do motor.</p></aside>
+<aside class="telltale info" role="note"><span aria-hidden="true">ℹ️</span><p><strong>Vale saber.</strong> O fluido de arrefecimento do C3 deve ser trocado a cada 2 anos ou 40.000 km. Fluido degradado corrói o termostato, a bomba d'água e as superfícies de alumínio do motor.</p></aside>
 
 ## Danos que o superaquecimento causa no motor
 
@@ -126,7 +126,7 @@ Em casos extremos, o superaquecimento causa **gripagem do motor**: o pistão se 
 
 Um termostato novo custa entre R$ 80 e R$ 200. O reparo de um motor superaquecido começa em R$ 2.000 e pode superar R$ 15.000.
 
-<aside class="telltale ok" role="note"><span aria-hidden="true">✅</span><p><strong>T.</strong> Superaquecimento detectado cedo com motor desligado imediatamente: o dano pode se limitar ao termostato. Superaquecimento ignorado por mais de 5 a 10 minutos: risco real de junta de cabeçote e empenamento do cabeçote de alumínio.</p></aside>
+<aside class="telltale ok" role="note"><span aria-hidden="true">✅</span><p><strong>Boa notícia.</strong> Superaquecimento detectado cedo com motor desligado imediatamente: o dano pode se limitar ao termostato. Superaquecimento ignorado por mais de 5 a 10 minutos: risco real de junta de cabeçote e empenamento do cabeçote de alumínio.</p></aside>
 
 ## Como fazer a troca do termostato
 

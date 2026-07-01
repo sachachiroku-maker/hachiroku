@@ -29,8 +29,9 @@ const _datas = diagnosticos.map((d) => d.data.pubDate).filter(Boolean) as Date[]
 const _datePublished = _datas.length
   ? new Date(Math.min(..._datas.map((d) => d.getTime()))).toISOString().slice(0, 10)
   : '2026-01-01';
-const _dateModified = _datas.length
-  ? new Date(Math.max(..._datas.map((d) => (d.data?.updatedDate ?? d).getTime?.() ?? d.getTime()))).toISOString().slice(0, 10)
+const _datasMod = diagnosticos.map((d) => d.data.updatedDate ?? d.data.pubDate).filter(Boolean) as Date[];
+const _dateModified = _datasMod.length
+  ? new Date(Math.max(..._datasMod.map((d) => d.getTime()))).toISOString().slice(0, 10)
   : _datePublished;
 
 const jsonld = {

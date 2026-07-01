@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Polo TSI usado vale a pena? Guia de inspeção"
 description: "Polo TSI 1.0 EA211 com câmbio Aisin (2018-2023) vale a pena, mas exige inspeção da bomba d'água plástica, histórico de fluido do câmbio e consumo de óleo do bloco. Veja o checklist completo antes de comprar."
 marca: "Volkswagen"
@@ -89,7 +89,7 @@ draft: false
 
 O Polo TSI com motor 1.0 EA211 e câmbio Aisin é um dos hatches mais procurados no mercado de usados brasileiro entre 2018 e 2023. Dirigibilidade refinada, cabine bem acabada e motor turbo eficiente colocam o Polo no topo das listas de quem busca um compacto premium sem pagar preço de novo. Mas três pontos específicos definem se o negócio será bom ou caro: a bomba d'água com impelidor plástico, o histórico do fluido do câmbio Aisin e o consumo de óleo do bloco EA211.
 
-<aside class="telltale danger" role="note"><span aria-hidden="true">🔴</span><p><strong>T.</strong> Superaquecimento entre 80 e 120 mil km sem histórico de overheating anterior é o sinal clássico de falha da bomba d'água plástica do EA211. Não ignore esse dado na negociação.</p></aside>
+<aside class="telltale danger" role="note"><span aria-hidden="true">🔴</span><p><strong>Cuidado.</strong> Superaquecimento entre 80 e 120 mil km sem histórico de overheating anterior é o sinal clássico de falha da bomba d'água plástica do EA211. Não ignore esse dado na negociação.</p></aside>
 
 ## Por que o motor 1.0 TSI EA211 exige atenção
 
@@ -113,7 +113,7 @@ O resultado é um volume expressivo de Polos TSI 2018-2023 no mercado de usados 
 
 A troca do fluido pode resolver os sintomas nos casos em que o desgaste ainda não é mecânico. Nos casos com desgaste nas embreagens internas, a troca de fluido não reverte o dano.
 
-<aside class="telltale warning" role="note"><span aria-hidden="true">🟡</span><p><strong>T.</strong> Câmbio Aisin com solavanco ao partir em aclive pode indicar desgaste nas embreagens internas. Troca de fluido resolve casos iniciais, não reverte desgaste mecânico avançado.</p></aside>
+<aside class="telltale warning" role="note"><span aria-hidden="true">🟡</span><p><strong>Atenção.</strong> Câmbio Aisin com solavanco ao partir em aclive pode indicar desgaste nas embreagens internas. Troca de fluido resolve casos iniciais, não reverte desgaste mecânico avançado.</p></aside>
 
 ## Quatro passos para uma inspeção eficiente antes de comprar
 
@@ -159,7 +159,7 @@ Códigos P0128 ou P0118: relacionados ao sistema de arrefecimento, podem indicar
 
 Qualquer código armazenado é argumento legítimo de negociação de preço ou de exigência de reparo antes da compra.
 
-<aside class="telltale info" role="note"><span aria-hidden="true">🔵</span><p><strong>T.</strong> Scanner OBD2 básico com Bluetooth custa entre R$ 80 e R$ 200 e lê todos os códigos armazenados, incluindo falhas intermitentes apagadas antes da venda.</p></aside>
+<aside class="telltale info" role="note"><span aria-hidden="true">🔵</span><p><strong>Vale saber.</strong> Scanner OBD2 básico com Bluetooth custa entre R$ 80 e R$ 200 e lê todos os códigos armazenados, incluindo falhas intermitentes apagadas antes da venda.</p></aside>
 
 ## O que negociar com base na inspeção
 
@@ -171,7 +171,7 @@ Correia dentada fora do intervalo: exemplares acima de 100 mil km sem comprovant
 
 Consumo de óleo identificado na vareta: sem histórico de trocas e com consumo visível, o motor exige avaliação de compressão nos cilindros antes de qualquer negociação. O teste de compressão revela desgaste de anéis de pistão, causa mais comum de consumo no EA211.
 
-<aside class="telltale ok" role="note"><span aria-hidden="true">🟢</span><p><strong>T.</strong> Polo TSI com bomba d'água trocada, fluido de câmbio documentado e óleo no nível correto é, na maioria dos casos, um excelente compacto usado com anos de vida útil pela frente.</p></aside>
+<aside class="telltale ok" role="note"><span aria-hidden="true">🟢</span><p><strong>Boa notícia.</strong> Polo TSI com bomba d'água trocada, fluido de câmbio documentado e óleo no nível correto é, na maioria dos casos, um excelente compacto usado com anos de vida útil pela frente.</p></aside>
 
 ## Para quem o Polo TSI 1.0 EA211 2018-2023 faz sentido
 

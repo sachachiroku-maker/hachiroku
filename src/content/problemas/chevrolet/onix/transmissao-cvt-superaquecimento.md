@@ -2,7 +2,7 @@
 title: "CVT Onix 1.0 Turbo superaquece | Hachiroku"
 pubDate: 2026-06-21
 updatedDate: 2026-06-21
-draft: false
+draft: true
 autor:
   nome: "Redação Hachiroku"
 

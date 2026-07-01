@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Volvo C40 Recharge: consumo real e custo no Brasil"
 description: "Entenda a autonomia real do Volvo C40 Recharge no Brasil: cerca de 350 km em uso urbano, abaixo dos 438 km WLTP. Veja o custo por km elétrico vs gasolina e como maximizar a eficiência no calor tropical."
 kicker: "CARRO ELÉTRICO"
@@ -68,7 +68,7 @@ O **Volvo C40 Recharge** entrega autonomia real de cerca de 350 km no Brasil, ab
 
 <aside class="telltale warning" role="note">
 <span aria-hidden="true">⚠️</span>
-<p><strong>T.</strong> Autonomia real no Brasil fica entre 320 km e 370 km com ar-condicionado ligado. Planeje recargas entre 20% e 80% para manter a eficiência da bateria a longo prazo.</p>
+<p><strong>Atenção.</strong> Autonomia real no Brasil fica entre 320 km e 370 km com ar-condicionado ligado. Planeje recargas entre 20% e 80% para manter a eficiência da bateria a longo prazo.</p>
 </aside>
 
 ## Autonomia real no Brasil: o que esperar
@@ -86,7 +86,7 @@ Fatores que mais reduzem a autonomia:
 
 <aside class="telltale info" role="note">
 <span aria-hidden="true">ℹ️</span>
-<p><strong>T.</strong> O pré-condicionamento via app Volvo Cars, feito enquanto o carro está conectado ao carregador, pode preservar entre 10 km e 15 km de autonomia adicional em dias quentes.</p>
+<p><strong>Vale saber.</strong> O pré-condicionamento via app Volvo Cars, feito enquanto o carro está conectado ao carregador, pode preservar entre 10 km e 15 km de autonomia adicional em dias quentes.</p>
 </aside>
 
 ## Carregamento DC rápido de 150 kW: como usar na prática
@@ -108,7 +108,7 @@ Para viagens entre cidades, o planejamento ideal é recarregar de 20% a 80% a ca
 
 <aside class="telltale ok" role="note">
 <span aria-hidden="true">✅</span>
-<p><strong>T.</strong> Manter a bateria entre 20% e 80% no uso diário e usar carga completa apenas antes de viagens longas é a recomendação oficial Volvo para maximizar a durabilidade das células ao longo de anos de uso.</p>
+<p><strong>Boa notícia.</strong> Manter a bateria entre 20% e 80% no uso diário e usar carga completa apenas antes de viagens longas é a recomendação oficial Volvo para maximizar a durabilidade das células ao longo de anos de uso.</p>
 </aside>
 
 ## Custo total de propriedade: C40 Recharge vs elétrico mais barato
@@ -130,7 +130,7 @@ O C40 tem intervalo de revisão de 30.000 km ou 2 anos. Sem motor a combustão, 
 
 <aside class="telltale danger" role="note">
 <span aria-hidden="true">🚨</span>
-<p><strong>T.</strong> O seguro do C40 Recharge é significativamente mais caro do que o de elétricos de entrada, com valores entre R$ 18.000 e R$ 28.000 anuais em grandes centros urbanos. Esse custo deve entrar no cálculo de propriedade total antes da decisão de compra.</p>
+<p><strong>Cuidado.</strong> O seguro do C40 Recharge é significativamente mais caro do que o de elétricos de entrada, com valores entre R$ 18.000 e R$ 28.000 anuais em grandes centros urbanos. Esse custo deve entrar no cálculo de propriedade total antes da decisão de compra.</p>
 </aside>
 
 ## Segurança e ADAS: o diferencial Volvo
@@ -154,7 +154,7 @@ O C40 Recharge recebeu cinco estrelas no Euro NCAP, com pontuação de 98% em pr
 
 <aside class="telltale info" role="note">
 <span aria-hidden="true">ℹ️</span>
-<p><strong>T.</strong> O Pilot Assist do C40 recebe atualizações over-the-air (OTA). Versões de software mais recentes melhoraram a suavidade das intervenções no volante e a precisão do seguimento de faixa em curvas fechadas.</p>
+<p><strong>Vale saber.</strong> O Pilot Assist do C40 recebe atualizações over-the-air (OTA). Versões de software mais recentes melhoraram a suavidade das intervenções no volante e a precisão do seguimento de faixa em curvas fechadas.</p>
 </aside>
 
 ## Tecnologia e experiência a bordo

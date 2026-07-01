@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Superaquecimento Motor Taos 1.4 TSI | Hachiroku"
 description: "Superaquecimento no Volkswagen Taos 1.4 TSI EA211 causado por falha da bomba d'água termostática elétrica. Saiba identificar, diagnosticar e resolver."
 slug: "volkswagen/taos/superaquecimento-motor"
@@ -71,7 +71,7 @@ passos:
 
 O superaquecimento do motor no Volkswagen Taos 1.4 TSI é causado principalmente pela falha da bomba d'água termostática elétrica do motor EA211, que interrompe a circulação adequada do fluido de arrefecimento e coloca o propulsor em risco de danos severos. Se o painel indicar temperatura acima do normal, estacione imediatamente, desligue o motor e leve o veículo para diagnóstico eletrônico antes de qualquer viagem adicional.
 
-<aside class="telltale danger" role="note"><span aria-hidden="true">🌡️</span><p><strong>T.</strong> Temperatura acima do normal no painel indica falha iminente no sistema de arrefecimento. Não ignore o alerta e não continue dirigindo.</p></aside>
+<aside class="telltale danger" role="note"><span aria-hidden="true">🌡️</span><p><strong>Cuidado.</strong> Temperatura acima do normal no painel indica falha iminente no sistema de arrefecimento. Não ignore o alerta e não continue dirigindo.</p></aside>
 
 ### Por que o motor EA211 superaquece
 
@@ -81,7 +81,7 @@ Essa tecnologia permite que o motor atinja a temperatura de trabalho mais rapida
 
 O problema foi amplamente documentado nos proprietários de T-Cross 1.4 TSI antes do lançamento do Taos no Brasil. Como os dois modelos compartilham o mesmo motor e o mesmo sistema de arrefecimento, o padrão de falha se repetiu.
 
-<aside class="telltale warning" role="note"><span aria-hidden="true">⚠️</span><p><strong>T.</strong> Proprietários de T-Cross 1.4 TSI relataram o mesmo defeito antes do Taos. Se você comprou um Taos usado, verifique o histórico de manutenção da bomba d'água antes de qualquer viagem longa.</p></aside>
+<aside class="telltale warning" role="note"><span aria-hidden="true">⚠️</span><p><strong>Atenção.</strong> Proprietários de T-Cross 1.4 TSI relataram o mesmo defeito antes do Taos. Se você comprou um Taos usado, verifique o histórico de manutenção da bomba d'água antes de qualquer viagem longa.</p></aside>
 
 ### Sintomas mais comuns
 
@@ -94,7 +94,7 @@ Os sinais de falha da bomba d'água no Taos 1.4 TSI aparecem de forma progressiv
 - Cheiro de fluido de arrefecimento queimado vindo do compartimento do motor
 - Fumaça branca ou vapor saindo por baixo do capô
 
-<aside class="telltale info" role="note"><span aria-hidden="true">ℹ️</span><p><strong>T.</strong> A perda de potência repentina seguida de aumento de temperatura é o padrão mais típico da falha da bomba elétrica no EA211. O scanner OBD2 vai confirmar o diagnóstico em minutos.</p></aside>
+<aside class="telltale info" role="note"><span aria-hidden="true">ℹ️</span><p><strong>Vale saber.</strong> A perda de potência repentina seguida de aumento de temperatura é o padrão mais típico da falha da bomba elétrica no EA211. O scanner OBD2 vai confirmar o diagnóstico em minutos.</p></aside>
 
 ### O que fazer ao perceber o superaquecimento
 
@@ -104,7 +104,7 @@ Assim que o painel indicar temperatura acima do normal, ligue o aquecedor intern
 
 Somente após o resfriamento completo, com no mínimo 30 minutos de espera, verifique o nível do fluido. Se estiver baixo, complete com água destilada como medida de emergência para chegar à oficina. Nunca misture tipos diferentes de fluido sem drenar o sistema antes.
 
-<aside class="telltale ok" role="note"><span aria-hidden="true">✅</span><p><strong>T.</strong> Ligar o aquecedor interno ao máximo enquanto busca um local seguro para parar é uma técnica eficaz para reduzir a temperatura do motor por alguns minutos. Não substitui o reparo, mas pode evitar danos imediatos.</p></aside>
+<aside class="telltale ok" role="note"><span aria-hidden="true">✅</span><p><strong>Boa notícia.</strong> Ligar o aquecedor interno ao máximo enquanto busca um local seguro para parar é uma técnica eficaz para reduzir a temperatura do motor por alguns minutos. Não substitui o reparo, mas pode evitar danos imediatos.</p></aside>
 
 ### Diagnóstico e reparo
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: "T-Cross vs Creta: qual SUV compacto vale mais?"
 description: "Comparativo T-Cross vs Creta: motor, câmbio, consumo, custo de manutenção e veredito final. Qual SUV compacto 1.0 turbo comprar em 2025?"
 kicker: "COMPARATIVO · DECISÃO"
@@ -76,7 +76,7 @@ relacionados:
 
 T-Cross e Creta são os dois SUVs compactos mais vendidos do Brasil em 2025, ambos com motor 1.0 turbo de 116 cv, e a escolha entre eles define qual relação custo-benefício faz sentido para o seu perfil. Este comparativo técnico apresenta as diferenças reais de consumo, equipamentos, garantia e custo de manutenção para que você tome a decisão com dados concretos, não com impressão de showroom.
 
-<aside class="telltale info" role="note"><span aria-hidden="true">ℹ️</span><p><strong>T.</strong> Ambos os modelos usam motor 1.0 TSI (VW) e 1.0 T-GDi (Hyundai) de 116 cv: a diferença de desempenho no dia a dia é marginal. O que separa os dois são equipamentos, garantia e custo de manutenção.</p></aside>
+<aside class="telltale info" role="note"><span aria-hidden="true">ℹ️</span><p><strong>Vale saber.</strong> Ambos os modelos usam motor 1.0 TSI (VW) e 1.0 T-GDi (Hyundai) de 116 cv: a diferença de desempenho no dia a dia é marginal. O que separa os dois são equipamentos, garantia e custo de manutenção.</p></aside>
 
 ## Motor e transmissão: o que muda na prática
 
@@ -84,7 +84,7 @@ O Volkswagen T-Cross 1.0 TSI usa câmbio automático de 6 velocidades do tipo to
 
 Na prática, o T-Cross tende a responder de forma mais linear em acelerações progressivas, enquanto o Creta apresenta resposta levemente mais imediata em retomadas urbanas. Nenhum dos dois vai decepcionar em uso cotidiano.
 
-<aside class="telltale ok" role="note"><span aria-hidden="true">✅</span><p><strong>T.</strong> Os dois usam câmbio automático convencional de 6 marchas: sem embreagem dupla, sem solavanco no trânsito parado.</p></aside>
+<aside class="telltale ok" role="note"><span aria-hidden="true">✅</span><p><strong>Boa notícia.</strong> Os dois usam câmbio automático convencional de 6 marchas: sem embreagem dupla, sem solavanco no trânsito parado.</p></aside>
 
 ## Consumo de combustível: quem sai na frente
 
@@ -111,7 +111,7 @@ Este é o ponto em que o Creta se distancia com mais clareza. Veja o que cada ve
 - Sem teto solar (disponível só no Highline)
 - Sem sensor de ponto cego
 
-<aside class="telltale warning" role="note"><span aria-hidden="true">⚠️</span><p><strong>T.</strong> Para ter teto solar no T-Cross, é preciso desembolsar a versão Highline, que custa em média R$ 10.000 a mais que a Comfortline. O Creta Comfort já traz o teto solar incluso.</p></aside>
+<aside class="telltale warning" role="note"><span aria-hidden="true">⚠️</span><p><strong>Atenção.</strong> Para ter teto solar no T-Cross, é preciso desembolsar a versão Highline, que custa em média R$ 10.000 a mais que a Comfortline. O Creta Comfort já traz o teto solar incluso.</p></aside>
 
 ## Garantia: 5 anos do Creta contra 3 anos do T-Cross
 
@@ -121,7 +121,7 @@ A Hyundai oferece 5 anos de garantia de fábrica no Creta, sem limitar quilometr
 
 Com mais de 600 pontos no Brasil, a rede de concessionárias Volkswagen cobre cidades de médio e pequeno porte onde a Hyundai ainda não tem representação oficial (cerca de 250 pontos). Para motoristas de interior ou que viajam com frequência, esse fator pesa em emergências.
 
-<aside class="telltale info" role="note"><span aria-hidden="true">ℹ️</span><p><strong>T.</strong> Em capitais como São Paulo, Rio de Janeiro e Belo Horizonte, ambas as redes têm boa densidade de atendimento. A diferença aparece em cidades com menos de 100 mil habitantes.</p></aside>
+<aside class="telltale info" role="note"><span aria-hidden="true">ℹ️</span><p><strong>Vale saber.</strong> Em capitais como São Paulo, Rio de Janeiro e Belo Horizonte, ambas as redes têm boa densidade de atendimento. A diferença aparece em cidades com menos de 100 mil habitantes.</p></aside>
 
 ## Custo de manutenção: revisões e peças
 
@@ -133,7 +133,7 @@ O Creta oferece 391 litros de porta-malas contra 373 litros do T-Cross, diferen�
 
 No espaço interno para passageiros traseiros, os dois se equivalem. O T-Cross tem acabamento interno com materiais de toque mais firme, percepção de qualidade ligeiramente superior ao Creta nas versões de entrada.
 
-<aside class="telltale ok" role="note"><span aria-hidden="true">✅</span><p><strong>T.</strong> Para famílias com cadeira de bebê, o porta-malas do Creta (391 L) facilita o embarque de carrinho compacto junto com as malas de viagem.</p></aside>
+<aside class="telltale ok" role="note"><span aria-hidden="true">✅</span><p><strong>Boa notícia.</strong> Para famílias com cadeira de bebê, o porta-malas do Creta (391 L) facilita o embarque de carrinho compacto junto com as malas de viagem.</p></aside>
 
 ## Segurança ativa: ambos passam no Euro NCAP
 

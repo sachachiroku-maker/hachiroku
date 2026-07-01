@@ -73,7 +73,7 @@ relacionados:
   - titulo: "Câmbio do VW Taos com solavanco: AQ250 ou DSG"
     url: "/problemas/volkswagen/taos/superaquecimento-motor/"
   - titulo: "DSG do VW Tiguan Allspace com solavanco no engate"
-    url: "/problemas/volkswagen/tiguan/ar-condicionado-fraco/"
+    url: "/problemas/volkswagen/tiguan-allspace/ar-condicionado-fraco/"
 draft: false
 ---
 

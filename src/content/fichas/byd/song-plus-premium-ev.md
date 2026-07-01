@@ -132,7 +132,7 @@ draft: false
 
 O **BYD Song Plus EV Premium** entrega 204 cv de motor elétrico síncrono de ímã permanente, 87,3 kWh de bateria BYD Blade LFP e autonomia estimada de 370 km no Brasil em uso misto. Para quem roda mais de 1.500 km por mês com ponto de recarga doméstico, a economia de cerca de 70% por quilômetro frente a um SUV a gasolina justifica o maior preço de entrada. O passo imediato para quem decide pela compra: instalar um wallbox 220 V antes da entrega do veículo.
 
-<aside class="telltale info" role="note"><span aria-hidden="true">ℹ️</span><p><strong>T.</strong> A autonomia de 420 km é o ciclo CLTC chinês, medido em condições controladas na China. No Brasil, com ar-condicionado acionado e uso misto, a referência prática é 370 km. Em rodovias acima de 100 km/h ou calor intenso, use 300 km como margem segura de planejamento.</p></aside>
+<aside class="telltale info" role="note"><span aria-hidden="true">ℹ️</span><p><strong>Vale saber.</strong> A autonomia de 420 km é o ciclo CLTC chinês, medido em condições controladas na China. No Brasil, com ar-condicionado acionado e uso misto, a referência prática é 370 km. Em rodovias acima de 100 km/h ou calor intenso, use 300 km como margem segura de planejamento.</p></aside>
 
 ## Para quem faz sentido
 
@@ -140,7 +140,7 @@ O Song Plus EV Premium se encaixa no perfil do motorista urbano e de rotas médi
 
 O porte do Song Plus posiciona o modelo como substituto direto de SUVs médios como Hyundai Tucson, Volkswagen Tiguan e Jeep Commander. Com 4.705 mm de comprimento e 475 litros de porta-malas, o espaço é compatível com famílias de até cinco ocupantes e uso cotidiano intenso. O acabamento Premium inclui teto solar panorâmico, bancos de couro com ventilação, painel de 15,6 polegadas rotativo com sistema DiLink e câmera 360 graus.
 
-<aside class="telltale warning" role="note"><span aria-hidden="true">⚠️</span><p><strong>T.</strong> Motoristas sem garagem própria ou que dependem exclusivamente de tomada doméstica convencional vão encontrar dificuldade operacional real. A recarga lenta em 127 V (cerca de 1,5 kW) torna o uso cotidiano impraticável sem wallbox dedicado.</p></aside>
+<aside class="telltale warning" role="note"><span aria-hidden="true">⚠️</span><p><strong>Atenção.</strong> Motoristas sem garagem própria ou que dependem exclusivamente de tomada doméstica convencional vão encontrar dificuldade operacional real. A recarga lenta em 127 V (cerca de 1,5 kW) torna o uso cotidiano impraticável sem wallbox dedicado.</p></aside>
 
 O perfil que menos se beneficia do modelo é o do motorista que faz viagens longas frequentes em rotas com pouca infraestrutura de recarga DC. Fora das capitais e das principais rodovias federais, a densidade de carregadores rápidos ainda é baixa no Brasil. Quem percorre regularmente o interior do país deve mapear com antecedência os pontos de recarga e aceitar eventuais paradas mais longas na rota.
 
@@ -148,10 +148,10 @@ O perfil que menos se beneficia do modelo é o do motorista que faz viagens long
 
 O custo de recarga em wallbox doméstico gira em torno de R$ 0,18 por km com a tarifa residencial média de R$ 0,90 por kWh. Em carregadores públicos pagos, o valor sobe para a faixa de R$ 0,30 a R$ 0,45 por km dependendo da operadora e da localidade. Mesmo no pior cenário de recarga pública, o custo por km ainda fica abaixo do de um SUV a gasolina com consumo de 10 km/L a R$ 6,00 o litro (R$ 0,60/km).
 
-<aside class="telltale ok" role="note"><span aria-hidden="true">✅</span><p><strong>T.</strong> A garantia da bateria BYD Blade é de 8 anos ou 150.000 km no Brasil, acima da média do setor. Esse prazo reduz o risco de custo extraordinário com a bateria dentro do período típico de financiamento de 48 a 60 meses.</p></aside>
+<aside class="telltale ok" role="note"><span aria-hidden="true">✅</span><p><strong>Boa notícia.</strong> A garantia da bateria BYD Blade é de 8 anos ou 150.000 km no Brasil, acima da média do setor. Esse prazo reduz o risco de custo extraordinário com a bateria dentro do período típico de financiamento de 48 a 60 meses.</p></aside>
 
 O IPVA de veículos elétricos é isento ou tem alíquota reduzida em vários estados, incluindo São Paulo, Minas Gerais e Rio de Janeiro. A manutenção preventiva é mais simples do que a de um veículo a combustão: sem troca de óleo, sem filtros de motor, sem embreagem, sem velas. Os itens de manutenção recorrente se limitam a pneus, freios (com desgaste reduzido pela frenagem regenerativa), fluido de freio e filtro do ar-condicionado.
 
 O custo de instalação do wallbox varia entre R$ 1.500 e R$ 3.500 com equipamento e mão de obra, dependendo da distância do quadro elétrico e da potência contratada. Esse investimento único se paga em menos de seis meses para quem deixar de abastecer um SUV a gasolina de consumo médio.
 
-<aside class="telltale danger" role="note"><span aria-hidden="true">🚨</span><p><strong>T.</strong> Não instale o wallbox sem laudo de eletricista credenciado. A instalação incorreta em circuito subdimensionado representa risco de incêndio e anula a garantia do equipamento de recarga. Exija ART (Anotação de Responsabilidade Técnica) do profissional contratado.</p></aside>
+<aside class="telltale danger" role="note"><span aria-hidden="true">🚨</span><p><strong>Cuidado.</strong> Não instale o wallbox sem laudo de eletricista credenciado. A instalação incorreta em circuito subdimensionado representa risco de incêndio e anula a garantia do equipamento de recarga. Exija ART (Anotação de Responsabilidade Técnica) do profissional contratado.</p></aside>

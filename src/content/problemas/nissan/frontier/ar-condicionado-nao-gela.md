@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Ar-condicionado Frontier 2.5 que não gela"
 entidade:
   marca: "Nissan"
@@ -64,7 +64,7 @@ passos:
 
 <strong>O ar-condicionado da Nissan Frontier 2.5 diesel não gela por desgaste do compressor e perda de carga de gás R134a, dois problemas que se intensificam em uso pesado no calor.</strong> O motor YD25 opera em temperaturas elevadas e a picape costuma trabalhar em condições exigentes, o que acelera o desgaste do compressor e os microvazamentos nas mangueiras. Identificar o problema pela pressão do sistema e pelo comportamento da embreagem do compressor permite resolver sem trocar peças desnecessárias.
 
-<aside class="telltale danger" role="note"><span aria-hidden="true">🔴</span><p><strong>T.</strong> Se a embreagem do compressor estiver engajando e desengajando em ciclos curtos de menos de 3 segundos, o sistema está com pressão muito baixa por vazamento ativo. Não continue usando o AC nessa condição: o compressor pode trabalhar a seco e se destruir rapidamente.</p></aside>
+<aside class="telltale danger" role="note"><span aria-hidden="true">🔴</span><p><strong>Cuidado.</strong> Se a embreagem do compressor estiver engajando e desengajando em ciclos curtos de menos de 3 segundos, o sistema está com pressão muito baixa por vazamento ativo. Não continue usando o AC nessa condição: o compressor pode trabalhar a seco e se destruir rapidamente.</p></aside>
 
 ## Por que o AC da Frontier 2.5 perde eficiência
 
@@ -74,7 +74,7 @@ O primeiro é o desgaste mecânico do compressor de AC. O compressor de pistão 
 
 O segundo problema é a perda gradual de gás R134a. O circuito de AC não é perfeitamente hermético ao longo dos anos. Microvazamentos surgem nas juntas de borracha das mangueiras, nas conexões de serviço e no retênte do eixo do compressor. Uma perda de apenas 10% a 15% da carga já é suficiente para reduzir perceptivelmente o resfriamento, especialmente nos dias mais quentes.
 
-<aside class="telltale warning" role="note"><span aria-hidden="true">🟡</span><p><strong>T.</strong> Frontier que opera com reboque ou carga pesada por longas distâncias esquenta mais o compartimento do motor, aumentando a pressão de alta do AC e exigindo mais do compressor. Verifique a tensão da correia do compressor a cada 30.000 km nesses casos.</p></aside>
+<aside class="telltale warning" role="note"><span aria-hidden="true">🟡</span><p><strong>Atenção.</strong> Frontier que opera com reboque ou carga pesada por longas distâncias esquenta mais o compartimento do motor, aumentando a pressão de alta do AC e exigindo mais do compressor. Verifique a tensão da correia do compressor a cada 30.000 km nesses casos.</p></aside>
 
 ## Como o defeito se manifesta no dia a dia
 
@@ -82,7 +82,7 @@ Na maioria dos casos, o problema começa de forma gradual. O motorista percebe q
 
 Em estágios mais avançados, o compressor começa a emitir ruído ao ser acionado, a embreagem passa a ciclar de forma irregular e, em casos de desgaste severo, o compressor pode travar completamente. Quando isso acontece, a correia pode partir ou o motor pode sobreaquecer se a correia tracionada for a mesma do alternador e da bomba d'agua.
 
-<aside class="telltale danger" role="note"><span aria-hidden="true">🔴</span><p><strong>T.</strong> A Frontier 2.5 usa correia serpentina que aciona múltiplos componentes incluindo o compressor de AC. Se o compressor travar, a correia pode partir e deixar o veículo sem alternador e bomba d'agua. Monitore ruídos do compressor como prioridade.</p></aside>
+<aside class="telltale danger" role="note"><span aria-hidden="true">🔴</span><p><strong>Cuidado.</strong> A Frontier 2.5 usa correia serpentina que aciona múltiplos componentes incluindo o compressor de AC. Se o compressor travar, a correia pode partir e deixar o veículo sem alternador e bomba d'agua. Monitore ruídos do compressor como prioridade.</p></aside>
 
 ## O papel do filtro de cabine no problema
 
@@ -90,7 +90,7 @@ Muitos proprietários de Frontier ignoram o filtro de cabine por anos. Com o uso
 
 Antes de qualquer serviço de AC, verifique e troque o filtro de cabine. É a peça mais barata do sistema e frequentemente resolve a percepção de falta de resfriamento em veículos com manutenção negligenciada.
 
-<aside class="telltale ok" role="note"><span aria-hidden="true">🟢</span><p><strong>T.</strong> Troque o filtro de cabine a cada 15.000 km em uso urbano e a cada 10.000 km em uso com terra e poeira. O procedimento é simples e pode ser feito em casa em menos de 10 minutos.</p></aside>
+<aside class="telltale ok" role="note"><span aria-hidden="true">🟢</span><p><strong>Boa notícia.</strong> Troque o filtro de cabine a cada 15.000 km em uso urbano e a cada 10.000 km em uso com terra e poeira. O procedimento é simples e pode ser feito em casa em menos de 10 minutos.</p></aside>
 
 ## Diagnóstico: sequência correta para não trocar peça errada
 
@@ -113,7 +113,7 @@ Um compressor com válvulas desgastadas mostrará pressão de baixa anormalmente
 
 Sempre solicite a troca do filtro secador (receiver-drier) junto com o compressor. Esse componente retém a umidade que entrou no circuito durante o vazamento e, se não for trocado, contamina o novo compressor em poucos meses.
 
-<aside class="telltale info" role="note"><span aria-hidden="true">🔵</span><p><strong>T.</strong> Antes de concluir que o compressor está com defeito mecânico, verifique o fusível e o relé do compressor de AC no quadro de fusíveis. Um fusível queimado ou relé com falha intermitente imita exatamente o sintoma de embreagem defeituosa, com custo de reparo de R$ 10 a R$ 30.</p></aside>
+<aside class="telltale info" role="note"><span aria-hidden="true">🔵</span><p><strong>Vale saber.</strong> Antes de concluir que o compressor está com defeito mecânico, verifique o fusível e o relé do compressor de AC no quadro de fusíveis. Um fusível queimado ou relé com falha intermitente imita exatamente o sintoma de embreagem defeituosa, com custo de reparo de R$ 10 a R$ 30.</p></aside>
 
 ## Manutenção preventiva do AC da Frontier
 

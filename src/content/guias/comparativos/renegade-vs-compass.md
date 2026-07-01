@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Renegade vs Compass: qual Jeep vale mais?"
 description: "Renegade e Compass usam o mesmo motor 1.3 turbo T270, mas servem perfis opostos. Compare tamanho, custo, espaço e revenda e escolha com a cabeça."
 marca: "Comparativo"
@@ -101,7 +101,7 @@ O Compass é maior e mais imponente, o que combina com viagem, família e a sens
 
 No preço, a distância entre os dois é significativa. O Renegade parte de um valor de entrada bem mais acessível e, na conta completa de propriedade, o Compass cobra mais no seguro, no IPVA e em alguns itens de manutenção de carroceria por ser um carro maior e mais valorizado.
 
-<aside class="telltale info" role="note"><span aria-hidden="true">ℹ️</span><p><strong>T.</strong> Não compare só a etiqueta. Some parcela, seguro e IPVA dos dois antes de decidir. A diferença de custo total entre Renegade e Compass costuma ser maior do que o preço de tabela sugere.</p></aside>
+<aside class="telltale info" role="note"><span aria-hidden="true">ℹ️</span><p><strong>Vale saber.</strong> Não compare só a etiqueta. Some parcela, seguro e IPVA dos dois antes de decidir. A diferença de custo total entre Renegade e Compass costuma ser maior do que o preço de tabela sugere.</p></aside>
 
 ## Espaço: onde o Compass justifica o preço
 
@@ -111,7 +111,7 @@ O Renegade tem porta-malas e espaço interno mais contidos. Para uso solo, para 
 
 Mas para uma família com crianças que viaja com frequência, o aperto do Renegade aparece rápido. A pergunta prática é direta: o que você carrega na maior parte dos dias? Se a resposta envolve bagagem grande e gente adulta atrás com regularidade, o Compass resolve. Se é o trajeto casa-trabalho e uma compra de supermercado por semana, o Renegade dá conta com folga e ainda sobra dinheiro.
 
-<aside class="telltale ok" role="note"><span aria-hidden="true">✅</span><p><strong>T.</strong> Sente toda a familia dentro antes de decidir. A diferença de espaco nas pernas do banco traseiro entre os dois modelos fica evidente com passageiros reais. Num test drive sem familia, você compra o carro errado.</p></aside>
+<aside class="telltale ok" role="note"><span aria-hidden="true">✅</span><p><strong>Boa notícia.</strong> Sente toda a familia dentro antes de decidir. A diferença de espaco nas pernas do banco traseiro entre os dois modelos fica evidente com passageiros reais. Num test drive sem familia, você compra o carro errado.</p></aside>
 
 ## Motor T270: o cuidado que vale igual nos dois
 
@@ -121,7 +121,7 @@ O ponto de atencao documentado pelos donos nos dois modelos é o proprio **T270*
 
 A corrente nao tem troca programada como uma correia dentada; ela foi projetada para durar. O que a mata antes da hora é oleo fora da especificacao ou trocado com atraso, que desgasta o tensionador e a propria corrente.
 
-<aside class="telltale danger" role="note"><span aria-hidden="true">⛔</span><p><strong>T.</strong> Oleo é o que segura a corrente de comando. Em qualquer Renegade ou Compass usado, exija o historico de troca de oleo na especificacao e na quilometragem corretas. Sem esse documento, calcule o risco no preco que voce paga.</p></aside>
+<aside class="telltale danger" role="note"><span aria-hidden="true">⛔</span><p><strong>Cuidado.</strong> Oleo é o que segura a corrente de comando. Em qualquer Renegade ou Compass usado, exija o historico de troca de oleo na especificacao e na quilometragem corretas. Sem esse documento, calcule o risco no preco que voce paga.</p></aside>
 
 Na avaliacao de um usado, escute o motor na partida a frio. Um chocalho metálico nos primeiros segundos pode indicar tensionador ou corrente ja desgastados, e isso é argumento forte de negociacao, ou motivo direto para procurar outra unidade.
 
@@ -133,7 +133,7 @@ Na gasolina, os dois ficam na faixa de 10 a 12 km/l na cidade e 12 a 14 km/l na 
 
 O que muda o custo de rodar entre os dois nao é o combustivel: é o conjunto de seguro, IPVA e peca de carroceria, onde o Renegade leva vantagem consistente.
 
-<aside class="telltale info" role="note"><span aria-hidden="true">ℹ️</span><p><strong>T.</strong> Faca a conta do seu mes, nao da media da internet. Calcule quanto voce roda por mes e some combustivel, seguro e parcela dos dois. A diferenca costuma surpreender quem compara so as fichas tecnicas.</p></aside>
+<aside class="telltale info" role="note"><span aria-hidden="true">ℹ️</span><p><strong>Vale saber.</strong> Faca a conta do seu mes, nao da media da internet. Calcule quanto voce roda por mes e some combustivel, seguro e parcela dos dois. A diferenca costuma surpreender quem compara so as fichas tecnicas.</p></aside>
 
 ## Revenda: dois caminhos com boa liquidez
 

@@ -16,7 +16,7 @@ const SILOS = [
 ];
 
 // Defeitos crônicos (UI kit). href quando há conteúdo; senão "em breve" (roadmap 90 dias).
-const CHRONIC: [string, string, string, string, string | null][] = [
+const CHRONIC: [string, string, string, 'danger' | 'neutral' | 'warning' | 'ok' | 'info' | 'accent', string][] = [
   ['Chevrolet Onix 1.0', 'Correia banhada a óleo, pescador da bomba de óleo, consumo alto', 'Diagnóstico', 'danger', '/problemas/chevrolet/onix/'],
   ['BYD Dolphin Mini', 'Modo tartaruga, bateria 12V, wallbox, garantia Blade', 'Elétrico', 'info', '/eletricos/byd/dolphin-mini/'],
   ['VW Gol', 'Tucho a frio do motor EA111, bobinas, corpo de borboleta', 'Diagnóstico', 'warning', '/problemas/volkswagen/gol/'],

@@ -37,7 +37,7 @@ const fichaHref = fichaModelo ? `/ficha-tecnica/${fichaModelo.id}/` : '/ficha-te
 const valF = (arr: any[], n: string) => arr?.find((x: any) => x.k.toLowerCase().includes(n))?.v;
 const miniFicha = fichaModelo
   ? [
-      ['Motor', fichaModelo.data.entidade?.modelo ? valF(fichaModelo.data.motor, 'config') ?? data.entidade.motor : data.entidade.motor],
+      ['Motor', valF(fichaModelo.data.motor, 'config') ?? data.entidade.motor],
       ['Potência', fichaModelo.data.potenciaCv],
       ['Câmbio', valF(fichaModelo.data.transmissao, 'câmbio')],
       ['Consumo', valF(fichaModelo.data.consumo, 'estrada')],
@@ -67,7 +67,7 @@ const entidadesRel = entidadesDoModelo(`${marcaSlug}/${modeloSlug}`);
 const sistema = sistemaDoDefeito(data.defeito ?? '', entry.id);
 const marcaHub = getMarca(marcaSlug);
 
-const fmt = (d) => d.toLocaleDateString('pt-BR');
+const fmt = (d: Date) => d.toLocaleDateString('pt-BR');
 ---
 <BaseLayout title={`${data.seoTitle ?? data.h1 ?? data.title} | Hachiroku`} description={data.description} canonical={url} type="article" image={fotoPorId(entry.id)} pubDate={data.pubDate} updatedDate={data.updatedDate} author={data.autor.nome}>
   <SchemaProblema data={data} url={url} breadcrumb={breadcrumb} entryId={entry.id} />

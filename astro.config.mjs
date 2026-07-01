@@ -6,6 +6,7 @@ import path from 'node:path';
 
 const SITE = 'https://hachiroku.com.br';
 
+/** @param {string} dir @param {(file: string) => void} cb */
 function walkDir(dir, cb) {
   if (!fs.existsSync(dir)) return;
   for (const entry of fs.readdirSync(dir, { withFileTypes: true })) {
@@ -47,6 +48,9 @@ const lastmodMap = buildLastmodMap();
 export default defineConfig({
   site: SITE,
   trailingSlash: 'always',
+  // Astro 7 mudou o default p/ 'jsx' (colapsa espaço entre elementos irmãos).
+  // Mantém o comportamento v6 — site de conteúdo com muito inline HTML no markdown.
+  compressHTML: true,
   integrations: [
     sitemap({
       filter: (page) => !page.includes('/busca/'),
@@ -111,6 +115,9 @@ export default defineConfig({
     '/manutencao/como-trocar-correia-dentada/':               { destination: '/manutencao/correia-dentada-quando-trocar/', status: 301 },
     '/manutencao/como-trocar-bobine-ignicao/':                { destination: '/manutencao/como-trocar-bobina-ignicao/', status: 301 },
     '/manutencao/como-desembaclar-vidros/':                   { destination: '/manutencao/como-desembacar-vidros/', status: 301 },
+    // Despublicados por QA E.E.A.T.S. (2026-07-01): corpo vazio + defeito CVT inexistente no Onix
+    '/problemas/gwm/haval-h6/transmissao-dct-solavanco/': { destination: '/problemas/gwm/haval-h6/cambio-7dct-solavanco/', status: 301 },
+    '/problemas/chevrolet/onix/transmissao-cvt-superaquecimento/': { destination: '/problemas/chevrolet/onix/', status: 301 },
   },
   build: {
     inlineStylesheets: 'auto',

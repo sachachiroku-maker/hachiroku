@@ -160,6 +160,16 @@
       "source": "/manutencao/como-desembaclar-vidros/:path*",
       "destination": "/manutencao/como-desembacar-vidros/",
       "permanent": true
+    },
+    {
+      "source": "/problemas/gwm/haval-h6/transmissao-dct-solavanco/:path*",
+      "destination": "/problemas/gwm/haval-h6/cambio-7dct-solavanco/",
+      "permanent": true
+    },
+    {
+      "source": "/problemas/chevrolet/onix/transmissao-cvt-superaquecimento/:path*",
+      "destination": "/problemas/chevrolet/onix/",
+      "permanent": true
     }
   ],
   "headers": [

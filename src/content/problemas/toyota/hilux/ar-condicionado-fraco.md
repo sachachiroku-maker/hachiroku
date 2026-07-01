@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Ar-condicionado fraco na Hilux SRX: bancos traseiros"
 description: "Ar-condicionado da Toyota Hilux SRX 2.8 diesel com distribuição de ar desequilibrada entre cabine e bancada traseira. Causas, diagnóstico e solução."
 entidade:
@@ -84,7 +84,7 @@ draft: false
 
 O **ar-condicionado da Toyota Hilux SRX 2.8 diesel** que resfria bem na frente mas entrega pouco ou nenhum frio nos bancos traseiros é uma queixa frequente entre proprietários da cabine dupla. O sistema de climatização da Hilux distribui o ar por uma rede de dutos que percorre painel, teto e piso até a segunda fileira. Qualquer interrupção nesse percurso, por filtro entupido, duto obstruído ou flap de distribuição com defeito, resulta exatamente nesse desequilíbrio entre cabine dianteira e bancada traseira.
 
-<aside class="telltale warning" role="note"><span aria-hidden="true">⚠️</span><p><strong>T.</strong> Antes de qualquer diagnóstico complexo, troque o filtro de cabine. Um filtro entupido resolve o problema em boa parte dos casos e elimina a principal variável antes de investigar dutos e atuadores.</p></aside>
+<aside class="telltale warning" role="note"><span aria-hidden="true">⚠️</span><p><strong>Atenção.</strong> Antes de qualquer diagnóstico complexo, troque o filtro de cabine. Um filtro entupido resolve o problema em boa parte dos casos e elimina a principal variável antes de investigar dutos e atuadores.</p></aside>
 
 ## Por que a Hilux SRX distribui o ar de forma desequilibrada
 
@@ -100,7 +100,7 @@ Na prática, o proprietário percebe que o ar-condicionado sopra bem pelos dutos
 
 A Toyota recomenda troca do filtro de cabine a cada 15.000 km a 20.000 km. Em uso off-road, em estradas de terra ou em regiões com alta concentração de poeira, o intervalo real pode ser de 10.000 km.
 
-<aside class="telltale ok" role="note"><span aria-hidden="true">✅</span><p><strong>T.</strong> O filtro de cabine da Hilux custa entre R$ 30 e R$ 80 e pode ser trocado em menos de 10 minutos pelo próprio proprietário, sem ferramentas.</p></aside>
+<aside class="telltale ok" role="note"><span aria-hidden="true">✅</span><p><strong>Boa notícia.</strong> O filtro de cabine da Hilux custa entre R$ 30 e R$ 80 e pode ser trocado em menos de 10 minutos pelo próprio proprietário, sem ferramentas.</p></aside>
 
 ## Motorizado de modo: quando o flap não redireciona o ar
 
@@ -118,7 +118,7 @@ Dutos de plástico rígido podem trincar nas junções de encaixe após anos de 
 
 A inspeção visual exige remoção parcial do revestimento para acessar o percurso dos dutos. Em oficinas experientes em climatização automotiva, essa inspeção é feita de forma cirúrgica, sem precisar desmontar o interior completo.
 
-<aside class="telltale info" role="note"><span aria-hidden="true">ℹ️</span><p><strong>T.</strong> Se o problema surgiu logo após uma instalação de som, tapetes personalizados ou qualquer outra intervenção interna, a hipótese de duto amassado ou desconectado deve ser investigada antes das demais.</p></aside>
+<aside class="telltale info" role="note"><span aria-hidden="true">ℹ️</span><p><strong>Vale saber.</strong> Se o problema surgiu logo após uma instalação de som, tapetes personalizados ou qualquer outra intervenção interna, a hipótese de duto amassado ou desconectado deve ser investigada antes das demais.</p></aside>
 
 ## Carga de gás R-134a e eficiência geral do sistema
 
@@ -138,7 +138,7 @@ Terceiro, testar todos os modos de ventilação pelo painel. Se mudar o modo nã
 
 Com essas três informações em mãos, a visita à oficina é mais objetiva, o diagnóstico mais rápido e o custo de reparo tende a ser menor.
 
-<aside class="telltale danger" role="note"><span aria-hidden="true">🚫</span><p><strong>T.</strong> Não recarregue o gás R-134a sem antes verificar a carga atual e localizar possíveis vazamentos. Recarga excessiva danifica o compressor e pode acionar o corte de proteção do sistema.</p></aside>
+<aside class="telltale danger" role="note"><span aria-hidden="true">🚫</span><p><strong>Cuidado.</strong> Não recarregue o gás R-134a sem antes verificar a carga atual e localizar possíveis vazamentos. Recarga excessiva danifica o compressor e pode acionar o corte de proteção do sistema.</p></aside>
 
 ## Custo de reparo por causa identificada
 

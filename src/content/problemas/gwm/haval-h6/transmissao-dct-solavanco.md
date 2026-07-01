@@ -2,7 +2,7 @@
 title: "Câmbio DCT do Haval H6 dá solavanco na aceleração"
 pubDate: 2026-06-21
 updatedDate: 2026-06-21
-draft: false
+draft: true
 autor:
   nome: "Redação Hachiroku"
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Câmbio EAT8 com Solavanco no Citroën C4"
 description: "Solavanco e tranco no câmbio automático EAT8 do Citroën C4 1.6 THP indicam calibração desatualizada ou fluido degradado. Saiba como diagnosticar e resolver."
 entidade:
@@ -63,7 +63,7 @@ passos:
 
 O câmbio automático EAT8 com solavanco no Citroën C4 1.6 THP é um defeito conhecido associado a calibração de software desatualizada ou fluido de transmissão degradado. O problema se manifesta como tranco ou hesitação nas trocas de marcha, principalmente na transição da 1ª para a 2ª velocidade e em baixa velocidade urbana. A solução combina atualização do firmware da TCU em concessionária PSA e, quando necessário, substituição do fluido por um aprovado para o EAT8.
 
-<aside class="telltale danger" role="note"><span aria-hidden="true">🔴</span><p><strong>T.</strong> Solavanco persistente com o câmbio quente, acompanhado de código de falha de pressão de embreagem, indica desgaste interno: não postergue a revisão especializada.</p></aside>
+<aside class="telltale danger" role="note"><span aria-hidden="true">🔴</span><p><strong>Cuidado.</strong> Solavanco persistente com o câmbio quente, acompanhado de código de falha de pressão de embreagem, indica desgaste interno: não postergue a revisão especializada.</p></aside>
 
 ## O que é o câmbio EAT8 e por que ele solava
 
@@ -71,7 +71,7 @@ O EAT8 (Efficient Automatic Transmission de 8 velocidades) é um câmbio automá
 
 Quando a calibração está desatualizada, a TCU aplica pressão de embreagem nos momentos errados, gerando o tranco característico. Com o fluido degradado, a viscosidade cai e as embreagens deslizam de forma irregular durante o engajamento, produzindo o mesmo sintoma. Em muitos casos, os dois problemas coexistem.
 
-<aside class="telltale warning" role="note"><span aria-hidden="true">🟡</span><p><strong>T.</strong> O solavanco mais intenso nos primeiros minutos de uso (câmbio frio) aponta para fluido degradado. Se o tranco persiste com o câmbio quente, a causa principal é a calibração do TCU.</p></aside>
+<aside class="telltale warning" role="note"><span aria-hidden="true">🟡</span><p><strong>Atenção.</strong> O solavanco mais intenso nos primeiros minutos de uso (câmbio frio) aponta para fluido degradado. Se o tranco persiste com o câmbio quente, a causa principal é a calibração do TCU.</p></aside>
 
 ## Sintomas do problema no câmbio EAT8
 
@@ -85,7 +85,7 @@ Os sintomas variam em intensidade conforme o estágio de degradação:
 
 Em estágios avançados, o câmbio pode entrar em modo de proteção (limp mode), limitando as velocidades disponíveis e acendendo a luz de falha no painel.
 
-<aside class="telltale info" role="note"><span aria-hidden="true">🔵</span><p><strong>T.</strong> O modo de proteção (limp mode) limita o câmbio a marchas reduzidas para evitar dano adicional. Se ativado, dirija em velocidade moderada até a oficina e não force acelerações.</p></aside>
+<aside class="telltale info" role="note"><span aria-hidden="true">🔵</span><p><strong>Vale saber.</strong> O modo de proteção (limp mode) limita o câmbio a marchas reduzidas para evitar dano adicional. Se ativado, dirija em velocidade moderada até a oficina e não force acelerações.</p></aside>
 
 ## Causas confirmadas
 
@@ -113,7 +113,7 @@ Aqueça o câmbio por 10 minutos em condução normal. Com o veículo em superf�
 
 Após a atualização do software e/ou a troca do fluido, realize um ciclo de adaptação: dirija em velocidade variada por pelo menos 20 minutos, incluindo acelerações suaves e moderadas, paradas em sinal e trechos de via expressa. O câmbio EAT8 possui rotinas de autoaprendizagem que recalibram os pontos de troca com o uso. Nos primeiros 200 a 300 km após a intervenção, evite acelerações bruscas para permitir a readaptação do sistema. Se o solavanco persistir após esse período, retorne à oficina para avaliar desgaste das embreagens internas.
 
-<aside class="telltale ok" role="note"><span aria-hidden="true">🟢</span><p><strong>T.</strong> Após a atualização do TCU e troca do fluido, o EAT8 precisa de 200 a 300 km para completar o ciclo de autoaprendizagem. Trocas suaves nos primeiros dias são esperadas.</p></aside>
+<aside class="telltale ok" role="note"><span aria-hidden="true">🟢</span><p><strong>Boa notícia.</strong> Após a atualização do TCU e troca do fluido, o EAT8 precisa de 200 a 300 km para completar o ciclo de autoaprendizagem. Trocas suaves nos primeiros dias são esperadas.</p></aside>
 
 ## Quanto custa resolver
 

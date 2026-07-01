@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Ficha técnica Outlander GT V6 3.0 AWD"
 description: "Ficha técnica completa do Mitsubishi Outlander GT V6 3.0 AWD 2023: motor 230 cv, câmbio CVT, tração integral, 7 lugares e consumo verificado."
 collection: fichas
@@ -105,7 +105,7 @@ draft: false
 
 O Mitsubishi Outlander GT V6 3.0 AWD 2023 é o SUV médio de sete lugares com motor V6 MIVEC de 230 cv, câmbio CVT Sportronic e tração integral S-AWC, projetado para famílias que buscam desempenho e versatilidade acima da média do segmento. Com 4.695 mm de comprimento, 1.815 kg e 477 litros de porta-malas, o modelo ocupa o topo da linha Outlander no Brasil e compete diretamente com SUVs europeus e sul-coreanos de maior cilindrada.
 
-<aside class="telltale warning" role="note"><span aria-hidden="true">⚠️</span><p><strong>T.</strong> O câmbio CVT do Outlander GT V6 não tolera trocas de fluido atrasadas. Acima de 50.000 km sem manutenção, o risco de deslizamento de correia aumenta expressivamente e o reparo pode superar R$ 8.000.</p></aside>
+<aside class="telltale warning" role="note"><span aria-hidden="true">⚠️</span><p><strong>Atenção.</strong> O câmbio CVT do Outlander GT V6 não tolera trocas de fluido atrasadas. Acima de 50.000 km sem manutenção, o risco de deslizamento de correia aumenta expressivamente e o reparo pode superar R$ 8.000.</p></aside>
 
 ## Motor V6 MIVEC 3.0: tecnologia japonesa de alto torque
 
@@ -113,7 +113,7 @@ O motor V6 MIVEC 3.0 do Outlander GT entrega 230 cv a 6.250 rpm e torque de 29,6
 
 A injeção eletrônica multiponto distribui o combustível de forma uniforme entre os seis cilindros, o que resulta em combustão mais completa e menor variação de torque entre cilindros. O resultado prático é uma aceleração fluida e linear, sem o pico de torque abrupto típico dos motores turbo quatro cilindros da categoria.
 
-<aside class="telltale info" role="note"><span aria-hidden="true">ℹ️</span><p><strong>T.</strong> O MIVEC opera em dois mapas distintos: modo econômico abaixo de 3.000 rpm e modo performance acima desse patamar. A transição é imperceptível para o motorista, mas visível no monitor de consumo instantâneo.</p></aside>
+<aside class="telltale info" role="note"><span aria-hidden="true">ℹ️</span><p><strong>Vale saber.</strong> O MIVEC opera em dois mapas distintos: modo econômico abaixo de 3.000 rpm e modo performance acima desse patamar. A transição é imperceptível para o motorista, mas visível no monitor de consumo instantâneo.</p></aside>
 
 ## Câmbio CVT Sportronic: como funciona na prática
 
@@ -121,7 +121,7 @@ O CVT Sportronic do Outlander GT V6 3.0 difere dos câmbios CVT convencionais po
 
 A relação de transmissão varia continuamente entre os extremos, o que permite ao motor operar mais tempo próximo ao pico de torque durante ultrapassagens sem o escorregamento perceptível em CVTs de menor capacidade. O tempo de 0 a 100 km/h em aproximadamente 8,5 segundos confirma que a entrega de potência é eficiente mesmo com o peso de 1.815 kg.
 
-<aside class="telltale ok" role="note"><span aria-hidden="true">✅</span><p><strong>T.</strong> O modo sequencial do CVT Sportronic é útil em descidas longas: manter em segunda ou terceira marcha simulada aumenta o freio motor e reduz o desgaste dos freios em percursos serranos.</p></aside>
+<aside class="telltale ok" role="note"><span aria-hidden="true">✅</span><p><strong>Boa notícia.</strong> O modo sequencial do CVT Sportronic é útil em descidas longas: manter em segunda ou terceira marcha simulada aumenta o freio motor e reduz o desgaste dos freios em percursos serranos.</p></aside>
 
 ## Sistema S-AWC (Super All Wheel Control): tração integral inteligente
 
@@ -129,7 +129,7 @@ O S-AWC (Super All Wheel Control) vai além de um AWD simples: ele integra o con
 
 Em pista seca, o sistema opera predominantemente em tração dianteira para otimizar o consumo. Em situações de baixa aderência, o torque é distribuído ao eixo traseiro automaticamente, sem necessidade de intervenção do motorista. O modo Lock bloqueia a distribuição de torque em 50/50 entre os eixos para uso em lama ou areia grossa, sendo recomendado apenas em velocidades abaixo de 40 km/h.
 
-<aside class="telltale danger" role="note"><span aria-hidden="true">🚨</span><p><strong>T.</strong> Nunca usar o modo Lock em asfalto seco ou em curvas: o bloqueio de torque em 50/50 sem diferencial central livre pode causar tensão excessiva nos semi-eixos e comprometer a integridade do sistema de tração.</p></aside>
+<aside class="telltale danger" role="note"><span aria-hidden="true">🚨</span><p><strong>Cuidado.</strong> Nunca usar o modo Lock em asfalto seco ou em curvas: o bloqueio de torque em 50/50 sem diferencial central livre pode causar tensão excessiva nos semi-eixos e comprometer a integridade do sistema de tração.</p></aside>
 
 ## Consumo, autonomia e custo de abastecimento
 
@@ -143,7 +143,7 @@ Com 4.695 mm de comprimento e entre-eixos de 2.670 mm, o Outlander GT V6 3.0 AWD
 
 Os pneus 225/55 R18 garantem equilíbrio entre conforto de rodagem (perfil de 55%) e estabilidade lateral em curvas. A altura livre do solo de aproximadamente 210 mm permite transposição de obstáculos urbanos sem risco de danos ao escapamento ou ao parachoque traseiro.
 
-<aside class="telltale info" role="note"><span aria-hidden="true">ℹ️</span><p><strong>T.</strong> O entre-eixos de 2.670 mm do Outlander GT é idêntico ao da geração anterior, o que significa que tapetes e capas de banco de versões 2019-2022 são compatíveis com o modelo 2023.</p></aside>
+<aside class="telltale info" role="note"><span aria-hidden="true">ℹ️</span><p><strong>Vale saber.</strong> O entre-eixos de 2.670 mm do Outlander GT é idêntico ao da geração anterior, o que significa que tapetes e capas de banco de versões 2019-2022 são compatíveis com o modelo 2023.</p></aside>
 
 ## Manutenção preventiva: intervalos recomendados
 

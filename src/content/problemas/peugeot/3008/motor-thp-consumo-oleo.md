@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Consumo de Óleo no Peugeot 3008 1.6 THP 165 cv"
 description: "Peugeot 3008 1.6 THP consome óleo excessivamente por desgaste nos anéis de pistão e retentores de válvula. Entenda as causas, como diagnosticar e quando revisar o motor."
 entidade:
@@ -86,7 +86,7 @@ O motor tem uma reputação contraditória: é ágil, relativamente econômico e
 
 O problema não é aleatório. O 1.6 THP opera com pressão de turbo elevada para o tamanho do motor, o que exige lubrificação precisa e um pacote de vedação interno (anéis e retentores) que suporte esse nível de exigência por longa distância. Quando a manutenção não é feita com o óleo exato e no intervalo correto, esses componentes degradam mais rápido do que o esperado.
 
-<aside class="telltale warning" role="note"><span aria-hidden="true">⚠️</span><p><strong>T.</strong> O 1.6 THP não tolera óleos genéricos. O pacote de aditivos do óleo PSA B71 2290 foi desenvolvido especificamente para as condições de pressão desse motor. Óleos com aprovação diferente, mesmo que 5W30, podem degradar mais rápido sob o turbo e acelerar o desgaste dos vedadores internos.</p></aside>
+<aside class="telltale warning" role="note"><span aria-hidden="true">⚠️</span><p><strong>Atenção.</strong> O 1.6 THP não tolera óleos genéricos. O pacote de aditivos do óleo PSA B71 2290 foi desenvolvido especificamente para as condições de pressão desse motor. Óleos com aprovação diferente, mesmo que 5W30, podem degradar mais rápido sob o turbo e acelerar o desgaste dos vedadores internos.</p></aside>
 
 ---
 
@@ -104,7 +104,7 @@ Os sinais que aparecem na prática são os seguintes.
 
 **Odor de queimado no escapamento.** Em alguns casos, o óleo queimado não é suficiente para produzir fumaça visível, mas o odor característico de lubrificante queimado é perceptível, especialmente em trajetos urbanos com muitas paradas e arranques.
 
-<aside class="telltale danger" role="note"><span aria-hidden="true">⛔</span><p><strong>T.</strong> Nunca deixe o nível de óleo cair abaixo do mínimo no 1.6 THP. Operar com nível baixo em um motor turbo aumenta a temperatura do óleo remanescente, acelera a degradação e pode comprometer os mancais do turbocompressor, elevando o custo do reparo de forma significativa.</p></aside>
+<aside class="telltale danger" role="note"><span aria-hidden="true">⛔</span><p><strong>Cuidado.</strong> Nunca deixe o nível de óleo cair abaixo do mínimo no 1.6 THP. Operar com nível baixo em um motor turbo aumenta a temperatura do óleo remanescente, acelera a degradação e pode comprometer os mancais do turbocompressor, elevando o custo do reparo de forma significativa.</p></aside>
 
 ---
 
@@ -120,7 +120,7 @@ No 1.6 THP, o anel raspador de óleo (o terceiro, na parte inferior do pistão) 
 
 Com o tempo, os anéis perdem tensão, a vedação fica deficiente e o processo se acelera. Motores que nunca trocaram o óleo no intervalo correto chegam a apresentar anéis travados nas ranhuras por borra de óleo carbonizada.
 
-<aside class="telltale danger" role="note"><span aria-hidden="true">⛔</span><p><strong>T.</strong> Anel travado por borra de óleo é sinal de manutenção negligenciada e não tem solução simples. Em casos assim, a retífica completa com troca de anéis e limpeza das ranhuras dos pistões é obrigatória. O uso de aditivos desengripantes não resolve o problema e pode mascarar o sintoma por algumas centenas de quilômetros.</p></aside>
+<aside class="telltale danger" role="note"><span aria-hidden="true">⛔</span><p><strong>Cuidado.</strong> Anel travado por borra de óleo é sinal de manutenção negligenciada e não tem solução simples. Em casos assim, a retífica completa com troca de anéis e limpeza das ranhuras dos pistões é obrigatória. O uso de aditivos desengripantes não resolve o problema e pode mascarar o sintoma por algumas centenas de quilômetros.</p></aside>
 
 ### Retentores de válvula
 
@@ -148,7 +148,7 @@ Ligue o motor após um período de pelo menos 6 horas parado. Observe o escapame
 
 Se a fumaça persiste durante a aceleração, mesmo após o motor atingir temperatura de operação, os anéis de pistão são o componente comprometido.
 
-<aside class="telltale info" role="note"><span aria-hidden="true">ℹ️</span><p><strong>T.</strong> Fumaça branca no arranque a frio em dias úmidos é normal e não é óleo: é vapor d'água condensado no escapamento frio. A diferença é que a fumaça de água some rapidamente e não tem odor de queimado. A fumaça de óleo persiste por mais tempo e tem cheiro característico de lubrificante aquecido.</p></aside>
+<aside class="telltale info" role="note"><span aria-hidden="true">ℹ️</span><p><strong>Vale saber.</strong> Fumaça branca no arranque a frio em dias úmidos é normal e não é óleo: é vapor d'água condensado no escapamento frio. A diferença é que a fumaça de água some rapidamente e não tem odor de queimado. A fumaça de óleo persiste por mais tempo e tem cheiro característico de lubrificante aquecido.</p></aside>
 
 ### Passo 3 — Teste de compressão nos cilindros
 
@@ -170,7 +170,7 @@ Compressão normal em todos os cilindros, consumo moderado e fumaça só no arra
 
 Compressão baixa em um ou mais cilindros: retífica completa com troca dos anéis de pistão, recondicionamento dos cilindros e, se necessário, dos pistões. Custo estimado: R$ 5.000 a R$ 12.000 dependendo do estado do motor e da região.
 
-<aside class="telltale ok" role="note"><span aria-hidden="true">✅</span><p><strong>T.</strong> Retífica parcial de cabeçote (retentores) é um procedimento muito menos invasivo do que a retífica completa. O cabeçote é removido, os retentores são trocados, as válvulas são lapidadas e o conjunto é recolocado. O motor não precisa ser desmontado completamente. Em motores com compressão ainda normal, esse reparo resolve o consumo na maioria dos casos.</p></aside>
+<aside class="telltale ok" role="note"><span aria-hidden="true">✅</span><p><strong>Boa notícia.</strong> Retífica parcial de cabeçote (retentores) é um procedimento muito menos invasivo do que a retífica completa. O cabeçote é removido, os retentores são trocados, as válvulas são lapidadas e o conjunto é recolocado. O motor não precisa ser desmontado completamente. Em motores com compressão ainda normal, esse reparo resolve o consumo na maioria dos casos.</p></aside>
 
 ---
 
@@ -182,7 +182,7 @@ O motor 1.6 THP tem uma relação direta entre o tipo de óleo usado e a longevi
 
 O intervalo de troca também importa. O manual indica 10.000 km ou 1 ano. Em condições de uso urbano intenso com muitas paradas e arranques, o intervalo ideal é de 7.500 km.
 
-<aside class="telltale warning" role="note"><span aria-hidden="true">⚠️</span><p><strong>T.</strong> Após uma retífica de cabeçote ou retífica completa, o óleo deve ser trocado a cada 5.000 km nas primeiras duas trocas, para remover os resíduos do processo de retificação que ficam no sistema. Só então retornar ao intervalo normal de 10.000 km.</p></aside>
+<aside class="telltale warning" role="note"><span aria-hidden="true">⚠️</span><p><strong>Atenção.</strong> Após uma retífica de cabeçote ou retífica completa, o óleo deve ser trocado a cada 5.000 km nas primeiras duas trocas, para remover os resíduos do processo de retificação que ficam no sistema. Só então retornar ao intervalo normal de 10.000 km.</p></aside>
 
 ---
 
@@ -196,7 +196,7 @@ A maioria dos casos de consumo de óleo no 1.6 THP evolui lentamente e dá tempo
 
 **Luz de pressão de óleo acendendo.** Se o ícone de pressão de óleo acender enquanto o motor está em operação normal, pare o veículo imediatamente, desligue o motor e não o religue sem verificar o nível. Continuar dirigindo com a luz acesa pode destruir o motor em questão de minutos.
 
-<aside class="telltale danger" role="note"><span aria-hidden="true">⛔</span><p><strong>T.</strong> A luz de pressão de óleo acesa durante a condução é uma emergência mecânica. Não é um aviso para verificar na próxima parada: é um sinal de que o motor pode estar operando sem lubrificação adequada naquele momento. Desligue o veículo, verifique o nível e chame assistência.</p></aside>
+<aside class="telltale danger" role="note"><span aria-hidden="true">⛔</span><p><strong>Cuidado.</strong> A luz de pressão de óleo acesa durante a condução é uma emergência mecânica. Não é um aviso para verificar na próxima parada: é um sinal de que o motor pode estar operando sem lubrificação adequada naquele momento. Desligue o veículo, verifique o nível e chame assistência.</p></aside>
 
 ---
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Ar-condicionado Tiggo 8 Pro com cheiro de fungo"
 description: "O ar-condicionado do Caoa Chery Tiggo 8 Pro produz cheiro de fungo ao ligar: causa é o evaporador do sistema dual-zone contaminado. Saiba como diagnosticar, higienizar e prevenir."
 entidade:
@@ -93,7 +93,7 @@ O Tiggo 8 Pro traz um sistema de ar-condicionado dual-zone com controle independ
 
 Cada evaporador resfria o ar da sua zona resfriando o fluido refrigerante a baixas temperaturas nas aletas de alumínio. O ar quente e úmido do habitáculo toca as aletas frias, perde calor e a umidade precipita como condensação. Essa água deve escorrer pelo tubo de drenagem e sair embaixo do carro.
 
-<aside class="telltale warning" role="note"><span aria-hidden="true">🟡</span><p><strong>T.</strong> No sistema dual-zone do Tiggo 8 Pro, os dois evaporadores ficam úmidos durante o uso do ar-condicionado. Quando o sistema é desligado e o carro fecha, ambos aquecem ao mesmo tempo. O evaporador traseiro, em um espaço mais confinado, pode demorar mais para secar e acumular fungos com maior velocidade do que o dianteiro.</p></aside>
+<aside class="telltale warning" role="note"><span aria-hidden="true">🟡</span><p><strong>Atenção.</strong> No sistema dual-zone do Tiggo 8 Pro, os dois evaporadores ficam úmidos durante o uso do ar-condicionado. Quando o sistema é desligado e o carro fecha, ambos aquecem ao mesmo tempo. O evaporador traseiro, em um espaço mais confinado, pode demorar mais para secar e acumular fungos com maior velocidade do que o dianteiro.</p></aside>
 
 Quando o sistema é desligado e o carro permanece fechado e exposto ao sol, a temperatura interna pode ultrapassar 60°C. O evaporador, que estava a cerca de 4°C durante o funcionamento, sobe rapidamente para temperaturas que favorecem o crescimento de fungos e bactérias. A umidade residual nas aletas, combinada com partículas orgânicas trazidas pelo filtro de cabine saturado, cria o substrato perfeito para a colonização.
 
@@ -103,7 +103,7 @@ O resultado é o cheiro característico de mofo que aparece nos primeiros segund
 
 A intensidade do cheiro de fungo está diretamente relacionada ao estado dos tubos de drenagem de cada evaporador. O tubo de drenagem do evaporador dianteiro no Tiggo 8 Pro segue o caminho padrão dos SUVs: sai da caixa de ventilação, desce pela carroceria e termina embaixo do carro na região do passageiro dianteiro.
 
-<aside class="telltale danger" role="note"><span aria-hidden="true">🔴</span><p><strong>T.</strong> Se o piso do lado do passageiro dianteiro ou traseiro estiver encharcado sem causa aparente, o dreno do evaporador correspondente provavelmente está entupido. A água que não drena para fora do carro vaza pela caixa de ventilação para o assoalho e pode atingir módulos eletrônicos sob o painel ou no console traseiro.</p></aside>
+<aside class="telltale danger" role="note"><span aria-hidden="true">🔴</span><p><strong>Cuidado.</strong> Se o piso do lado do passageiro dianteiro ou traseiro estiver encharcado sem causa aparente, o dreno do evaporador correspondente provavelmente está entupido. A água que não drena para fora do carro vaza pela caixa de ventilação para o assoalho e pode atingir módulos eletrônicos sob o painel ou no console traseiro.</p></aside>
 
 Quando o tubo está desobstruído, o evaporador drena rapidamente e o fundo da caixa de ventilação seca em pouco tempo após o desligamento. Quando está entupido, a água estagnada no fundo da caixa mantém um ambiente úmido permanente que acelera dramaticamente o crescimento fúngico. O cheiro de um Tiggo 8 Pro com dreno entupido é muito mais intenso e resistente à higienização superficial.
 
@@ -113,7 +113,7 @@ O tubo do evaporador traseiro, por estar em uma posição menos acessível, tend
 
 O filtro de cabine do Tiggo 8 Pro fica no percurso do ar antes de chegar ao evaporador dianteiro. Um filtro saturado de fungos, em vez de proteger o habitáculo, se transforma em uma fonte contínua de esporos que recontaminam o evaporador recém-higienizado.
 
-<aside class="telltale info" role="note"><span aria-hidden="true">🔵</span><p><strong>T.</strong> Ao comprar o filtro de cabine para o Tiggo 8 Pro, verifique se é o filtro compatível com a geração do veículo. A CAOA Chery usa filtros de especificação própria e filtros paralelos de qualidade inferior podem comprometer o fluxo de ar pelo evaporador, acelerando a umidade residual que favorece o fungo.</p></aside>
+<aside class="telltale info" role="note"><span aria-hidden="true">🔵</span><p><strong>Vale saber.</strong> Ao comprar o filtro de cabine para o Tiggo 8 Pro, verifique se é o filtro compatível com a geração do veículo. A CAOA Chery usa filtros de especificação própria e filtros paralelos de qualidade inferior podem comprometer o fluxo de ar pelo evaporador, acelerando a umidade residual que favorece o fungo.</p></aside>
 
 Um filtro saturado também compromete o desempenho do ar-condicionado: com menos ar passando pelo evaporador, a troca de calor diminui e a sensação de resfriamento cai mesmo com o sistema funcionando corretamente.
 
@@ -125,7 +125,7 @@ O spray bactericida para evaporador resolve bem os casos de contaminação leve 
 
 Há situações em que o spray não é suficiente:
 
-<aside class="telltale ok" role="note"><span aria-hidden="true">🟢</span><p><strong>T.</strong> Se o cheiro de fungo desaparecer completamente nas primeiras horas após aplicar o spray bactericida e o filtro novo, mas retornar em menos de 4 semanas, é sinal de que a infestação está em um ponto mais profundo do evaporador, no fundo da caixa de ventilação ou no dreno entupido. Resolva a drenagem antes de repetir a higienização.</p></aside>
+<aside class="telltale ok" role="note"><span aria-hidden="true">🟢</span><p><strong>Boa notícia.</strong> Se o cheiro de fungo desaparecer completamente nas primeiras horas após aplicar o spray bactericida e o filtro novo, mas retornar em menos de 4 semanas, é sinal de que a infestação está em um ponto mais profundo do evaporador, no fundo da caixa de ventilação ou no dreno entupido. Resolva a drenagem antes de repetir a higienização.</p></aside>
 
 Nos casos em que o odor é muito intenso desde o início, manchas escuras de fungos são visíveis no interior do duto de ventilação ou o cheiro envolve também a zona traseira do Tiggo 8 Pro (indicando contaminação no evaporador auxiliar), a higienização com acesso físico a cada evaporador é o caminho correto.
 

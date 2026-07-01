@@ -15,12 +15,12 @@ const { Content } = await render(entry);
 const site = 'https://hachiroku.com.br';
 const url = new URL(`/manutencao/${entry.id}/`, site).href;
 const breadcrumb = [{ name: 'Manutenção', item: `${site}/manutencao/` }, { name: data.title }];
-const fmt = (d) => d.toLocaleDateString('pt-BR');
+const fmt = (d: Date) => d.toLocaleDateString('pt-BR');
 const meta = [
   data.tempo && { k: 'Tempo', v: data.tempo },
   data.dificuldade && { k: 'Dificuldade', v: data.dificuldade },
   data.custoEstimado && { k: 'Custo estimado', v: data.custoEstimado },
-].filter(Boolean);
+].filter((m): m is { k: string; v: string } => Boolean(m));
 ---
 <BaseLayout title={`${data.seoTitle ?? data.title} | Hachiroku`} description={data.description} canonical={url} type="article" pubDate={data.pubDate} updatedDate={data.updatedDate} author={data.autor.nome}>
   <SchemaHowTo data={data} url={url} breadcrumb={breadcrumb} />

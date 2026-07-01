@@ -20,7 +20,7 @@ const breadcrumb = [
   { name: 'Elétricos', item: `${site}/eletricos/` },
   { name: `${data.entidade.marca} ${data.entidade.modelo}` },
 ];
-const fmt = (d) => d.toLocaleDateString('pt-BR');
+const fmt = (d: Date) => d.toLocaleDateString('pt-BR');
 ---
 <BaseLayout title={`${data.seoTitle ?? data.title} | Hachiroku`} description={data.description} canonical={url} type="article" image={fotoPorId(entry.id)} pubDate={data.pubDate} updatedDate={data.updatedDate} author={data.autor.nome}>
   <SchemaEV data={data} url={url} breadcrumb={breadcrumb} />

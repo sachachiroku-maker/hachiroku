@@ -152,7 +152,7 @@ O Fox chegou ao Brasil em 2003 como uma alternativa ao Gol, com estilo europeu, 
 
 A chegada do Polo (6ª geração) em 2018 decretou o fim da linha. O Polo ocupou exatamente a faixa de preço do Fox Highline com câmbio automático, plataforma MQB e mais conteúdo, tornando inviável manter o Fox no portfólio. A produção encerrou no primeiro semestre de 2018, com os últimos emplacamentos ocorrendo até meados do ano.
 
-<aside class="telltale info" role="note"><span aria-hidden="true">ℹ️</span><p><strong>T.</strong> O Fox Highline 2018 foi produzido em volume reduzido no ano de encerramento, o que torna exemplares bem conservados mais disputados no mercado de seminovos em comparação com versões de entrada da linha.</p></aside>
+<aside class="telltale info" role="note"><span aria-hidden="true">ℹ️</span><p><strong>Vale saber.</strong> O Fox Highline 2018 foi produzido em volume reduzido no ano de encerramento, o que torna exemplares bem conservados mais disputados no mercado de seminovos em comparação com versões de entrada da linha.</p></aside>
 
 ## Pontos fortes do Fox Highline 1.6 MSI como usado
 
@@ -162,12 +162,12 @@ Para quem busca um hatch compacto usado com mecânica conhecida e custo de manut
 
 **Oferta ampla de peças.** O motor EA111 1.6 é compartilhado com o Gol, a Saveiro e o Voyage da mesma geração. Isso garante estoque amplo, preço competitivo nas distribuidoras e mecânicos familiarizados com a unidade em qualquer cidade do Brasil. Filtros, velas, correia dentada e itens de desgaste têm reposição simples e acessível.
 
-<aside class="telltale ok" role="note"><span aria-hidden="true">✅</span><p><strong>T.</strong> O porta-malas de 285 litros do Fox Highline supera o Gol da mesma época (255 litros) e está no mesmo nível do Onix LT 2018, tornando o modelo competitivo em praticidade mesmo anos após a descontinuação.</p></aside>
+<aside class="telltale ok" role="note"><span aria-hidden="true">✅</span><p><strong>Boa notícia.</strong> O porta-malas de 285 litros do Fox Highline supera o Gol da mesma época (255 litros) e está no mesmo nível do Onix LT 2018, tornando o modelo competitivo em praticidade mesmo anos após a descontinuação.</p></aside>
 
 **Equipamento de série completo.** A versão Highline 2018 inclui central multimídia com tela de 6,5 polegadas, controle de estabilidade (ESP), ABS com EBD, retrovisores com aquecimento e ar-condicionado digital. Um pacote que muitas versões intermediárias de concorrentes da época não entregavam de série no mesmo preço de tabela.
 
-<aside class="telltale warning" role="note"><span aria-hidden="true">⚠️</span><p><strong>T.</strong> Com o modelo fora de linha, itens de carroceria exclusivos do Fox, como para-choques, faróis e lanternas, têm reposição mais limitada e preço mais alto que os equivalentes do Gol. Vistorie a lataria com atenção antes de fechar negócio.</p></aside>
+<aside class="telltale warning" role="note"><span aria-hidden="true">⚠️</span><p><strong>Atenção.</strong> Com o modelo fora de linha, itens de carroceria exclusivos do Fox, como para-choques, faróis e lanternas, têm reposição mais limitada e preço mais alto que os equivalentes do Gol. Vistorie a lataria com atenção antes de fechar negócio.</p></aside>
 
 O principal ponto de atenção é o câmbio manual de 5 marchas: robusto e simples, mas exige troca de fluido a cada 40.000 km para manter a seletividade. Câmbios com histórico de óleo ignorado costumam apresentar dificuldade para engatar a ré e a 5ª marcha acima dos 100.000 km.
 
-<aside class="telltale danger" role="note"><span aria-hidden="true">🚨</span><p><strong>T.</strong> Nunca compre um Fox Highline 2018 sem conferir o estado da correia dentada do motor EA111: se estiver ressecada, trincada ou próxima do intervalo de troca (a cada 60.000 km ou 4 anos), negocie o custo de substituição no preço do veículo. Correia rompida dobra válvulas e inviabiliza o motor.</p></aside>
+<aside class="telltale danger" role="note"><span aria-hidden="true">🚨</span><p><strong>Cuidado.</strong> Nunca compre um Fox Highline 2018 sem conferir o estado da correia dentada do motor EA111: se estiver ressecada, trincada ou próxima do intervalo de troca (a cada 60.000 km ou 4 anos), negocie o custo de substituição no preço do veículo. Correia rompida dobra válvulas e inviabiliza o motor.</p></aside>
