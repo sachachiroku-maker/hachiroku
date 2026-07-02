@@ -1,11 +1,10 @@
-﻿---
+---
 title: "Câmbio do Volkswagen T-Cross dando trancos"
 description: "Seu Volkswagen T-Cross está dando trancos, hesitando na troca de marcha ou demorando para responder? O câmbio automático AQ250 (Aisin TF60-SN / 09G) tem causas conhecidas, da atualização de software ao corpo de válvulas e ao trocador de calor que contamina o fluido. Veja os sintomas, as causas reais, o diagnóstico, o custo e como prevenir."
 entidade:
   marca: "Volkswagen"
   modelo: "T-Cross"
   motor: "1.0 / 1.4 TSI (EA211)"
-  geracao: "—"
 defeito: "trancos no câmbio automático AQ250"
 kicker: "DEFEITO CRÔNICO"
 intencao: "Diagnóstico"

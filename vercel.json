@@ -177,78 +177,13 @@
       "permanent": true
     },
     {
-      "source": "/problemas/chevrolet/onix/barulho-suspensao-dianteira/:path*",
-      "destination": "/problemas/chevrolet/onix/",
-      "permanent": true
-    },
-    {
       "source": "/problemas/chevrolet/onix/consumo-alto-combustivel-automatico/:path*",
       "destination": "/problemas/chevrolet/onix/",
       "permanent": true
     },
     {
-      "source": "/problemas/chevrolet/onix/coxim-motor-gasto/:path*",
-      "destination": "/problemas/chevrolet/onix/",
-      "permanent": true
-    },
-    {
-      "source": "/problemas/chevrolet/onix/ruido-cambio-automatico/:path*",
-      "destination": "/problemas/chevrolet/onix/",
-      "permanent": true
-    },
-    {
-      "source": "/problemas/chevrolet/onix/turbo-perde-potencia/:path*",
-      "destination": "/problemas/chevrolet/onix/",
-      "permanent": true
-    },
-    {
-      "source": "/problemas/chevrolet/tracker/consumo-oleo-motor-turbo/:path*",
-      "destination": "/problemas/chevrolet/tracker/",
-      "permanent": true
-    },
-    {
       "source": "/problemas/chevrolet/tracker/falha-transmissao-cvt/:path*",
-      "destination": "/problemas/chevrolet/tracker/",
-      "permanent": true
-    },
-    {
-      "source": "/problemas/fiat/mobi/correia-acessoria-barulho/:path*",
-      "destination": "/problemas/fiat/mobi/",
-      "permanent": true
-    },
-    {
-      "source": "/problemas/fiat/mobi/motor-superaquece-transito/:path*",
-      "destination": "/problemas/fiat/mobi/",
-      "permanent": true
-    },
-    {
-      "source": "/problemas/fiat/uno/amortecedor-dianteiro-batendo/:path*",
-      "destination": "/problemas/fiat/uno/",
-      "permanent": true
-    },
-    {
-      "source": "/problemas/fiat/uno/consumo-alto-motor-fire/:path*",
-      "destination": "/problemas/fiat/uno/",
-      "permanent": true
-    },
-    {
-      "source": "/problemas/fiat/uno/motor-superaquecendo/:path*",
-      "destination": "/problemas/fiat/uno/",
-      "permanent": true
-    },
-    {
-      "source": "/problemas/fiat/uno/suspensao-dianteira-bucha/:path*",
-      "destination": "/problemas/fiat/uno/",
-      "permanent": true
-    },
-    {
-      "source": "/problemas/fiat/uno/vela-ignicao-fire/:path*",
-      "destination": "/problemas/fiat/uno/",
-      "permanent": true
-    },
-    {
-      "source": "/problemas/fiat/uno/ventilador-painel-velocidades/:path*",
-      "destination": "/problemas/fiat/uno/",
+      "destination": "/problemas/chevrolet/tracker/cambio-automatico-trancos/",
       "permanent": true
     },
     {
@@ -267,63 +202,13 @@
       "permanent": true
     },
     {
-      "source": "/problemas/hyundai/hb20/ar-condicionado-fraco/:path*",
-      "destination": "/problemas/hyundai/hb20/",
-      "permanent": true
-    },
-    {
       "source": "/problemas/hyundai/hb20/cambio-cvt-falha/:path*",
-      "destination": "/problemas/hyundai/hb20/",
-      "permanent": true
-    },
-    {
-      "source": "/problemas/hyundai/hb20s/compressor-ac-travado/:path*",
-      "destination": "/problemas/hyundai/hb20s/",
-      "permanent": true
-    },
-    {
-      "source": "/problemas/hyundai/hb20s/consumo-alto-combustivel/:path*",
-      "destination": "/problemas/hyundai/hb20s/",
-      "permanent": true
-    },
-    {
-      "source": "/problemas/hyundai/hb20s/embreagem-patinando/:path*",
-      "destination": "/problemas/hyundai/hb20s/",
+      "destination": "/problemas/hyundai/hb20/cambio-automatico-trancos/",
       "permanent": true
     },
     {
       "source": "/problemas/jeep/compass/cambio-9-marchas/:path*",
       "destination": "/problemas/jeep/compass/",
-      "permanent": true
-    },
-    {
-      "source": "/problemas/nissan/frontier/ruido-motor-aceleracao/:path*",
-      "destination": "/problemas/nissan/frontier/",
-      "permanent": true
-    },
-    {
-      "source": "/problemas/nissan/frontier/superaquecimento-motor/:path*",
-      "destination": "/problemas/nissan/frontier/",
-      "permanent": true
-    },
-    {
-      "source": "/problemas/ram/rampage/perda-potencia-turbo/:path*",
-      "destination": "/problemas/ram/rampage/",
-      "permanent": true
-    },
-    {
-      "source": "/problemas/ram/rampage/superaquecimento-motor/:path*",
-      "destination": "/problemas/ram/rampage/",
-      "permanent": true
-    },
-    {
-      "source": "/problemas/renault/kwid/consumo-alto/:path*",
-      "destination": "/problemas/renault/kwid/",
-      "permanent": true
-    },
-    {
-      "source": "/problemas/renault/kwid/vibracao-marcha-lenta/:path*",
-      "destination": "/problemas/renault/kwid/",
       "permanent": true
     },
     {
@@ -349,26 +234,6 @@
     {
       "source": "/problemas/volkswagen/polo-tsi/consumo-alto-combustivel/:path*",
       "destination": "/problemas/volkswagen/polo-tsi/",
-      "permanent": true
-    },
-    {
-      "source": "/problemas/volkswagen/saveiro/rolamento-traseiro/:path*",
-      "destination": "/problemas/volkswagen/saveiro/",
-      "permanent": true
-    },
-    {
-      "source": "/problemas/volkswagen/saveiro/suspensao-dianteira-barulho/:path*",
-      "destination": "/problemas/volkswagen/saveiro/",
-      "permanent": true
-    },
-    {
-      "source": "/problemas/volkswagen/taos/falha-ar-condicionado/:path*",
-      "destination": "/problemas/volkswagen/taos/",
-      "permanent": true
-    },
-    {
-      "source": "/problemas/volkswagen/taos/vibracao-volante/:path*",
-      "destination": "/problemas/volkswagen/taos/",
       "permanent": true
     },
     {
@@ -444,6 +309,11 @@
     {
       "source": "/ficha-tecnica/ram/rampage-rebel-1-3-t270/:path*",
       "destination": "/ficha-tecnica/ram/rampage-rebel-2-2-turbodiesel/",
+      "permanent": true
+    },
+    {
+      "source": "/problemas/hyundai/hb20/cambio-cvt-ruido/:path*",
+      "destination": "/problemas/hyundai/hb20/cambio-automatico-trancos/",
       "permanent": true
     }
   ],

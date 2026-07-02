@@ -5,7 +5,6 @@ entidade:
   marca: "Volkswagen"
   modelo: "Gol"
   motor: "EA111 1.0 / 1.6 (G5/G6, até 2016)"
-  geracao: "—"
 defeito: "tucho a frio"
 kicker: "DEFEITO CRÔNICO"
 intencao: "Diagnóstico"

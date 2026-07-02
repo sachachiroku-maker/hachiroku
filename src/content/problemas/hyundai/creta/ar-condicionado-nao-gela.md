@@ -1,11 +1,10 @@
-﻿---
+---
 title: "Ar-condicionado do Hyundai Creta que não gela"
 description: "O ar-condicionado do Hyundai Creta acumula relatos de parar de gelar com poucos meses de uso. A raiz costuma estar em componentes que falham por vazamento: evaporador que corrói, condensador que fura e selo do compressor que se rompe. Veja os sintomas, as causas prováveis, o diagnóstico correto, a ordem de grandeza do custo e como prevenir antes que o problema chegue."
 entidade:
   marca: "Hyundai"
   modelo: "Creta"
   motor: "todas as versões"
-  geracao: "—"
 defeito: "ar-condicionado que não gela (vazamento no sistema)"
 kicker: "DEFEITO CRÔNICO"
 intencao: "Diagnóstico e prevenção"

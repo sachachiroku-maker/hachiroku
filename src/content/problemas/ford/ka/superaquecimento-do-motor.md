@@ -1,11 +1,10 @@
-﻿---
+---
 title: "Superaquecimento no Ford Ka 1.0 e 1.5 Ti-VCT"
 description: "O superaquecimento do motor é o defeito mais documentado do Ford Ka 1.0 e 1.5 Ti-VCT da geração 2014 a 2021. A própria Ford chegou a admitir mais de 320 casos e o problema foi apontado por teste de revista especializada. Veja os sintomas, as causas mais comuns (válvula termostática, bomba d'água, eletroventilador e pescador da bomba de óleo), como diagnosticar antes que queime a junta do cabeçote, a faixa de custo de reparo e como prevenir."
 entidade:
   marca: "Ford"
   modelo: "Ka"
   motor: "Ti-VCT 1.0 / 1.5"
-  geracao: "—"
 defeito: "superaquecimento do motor"
 kicker: "DEFEITO CRÔNICO"
 intencao: "Diagnóstico"

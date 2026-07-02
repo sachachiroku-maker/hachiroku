@@ -1,11 +1,10 @@
-﻿---
+---
 title: "Falha de injeção no Hyundai Creta 1.0 turbo"
 description: "O Hyundai Creta com motor 1.0 turbo de injeção direta (T-GDI) acumula relatos de perda súbita de potência, engasgos na aceleração e, em casos mais graves, motor que apaga andando. A raiz costuma estar na injeção direta: bicos injetores sensíveis, bomba de alta pressão e carbonização nas válvulas, agravados por combustível de qualidade duvidosa. Veja os sintomas, as causas prováveis, o diagnóstico correto, a ordem de grandeza do custo e como prevenir antes que o problema chegue."
 entidade:
   marca: "Hyundai"
   modelo: "Creta"
   motor: "1.0 turbo T-GDI"
-  geracao: "—"
 defeito: "falha de injeção (motor 1.0 turbo de injeção direta)"
 kicker: "DEFEITO CRÔNICO"
 intencao: "Diagnóstico e prevenção"

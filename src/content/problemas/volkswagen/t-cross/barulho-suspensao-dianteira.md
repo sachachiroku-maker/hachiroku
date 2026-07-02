@@ -1,11 +1,10 @@
-﻿---
+---
 title: "Barulho na suspensão dianteira do Volkswagen T-Cross"
 description: "Seu Volkswagen T-Cross está com barulho na suspensão dianteira, estalo ao passar em buraco ou ranger ao esterçar? O modelo teve recall por afrouxamento das porcas dos amortecedores, e o ruído também aparece por bieletas, coxins, pivôs e buchas gastas. Veja os sintomas, as causas reais, como diagnosticar, o custo e como prevenir."
 entidade:
   marca: "Volkswagen"
   modelo: "T-Cross"
   motor: "1.0 / 1.4 TSI (EA211)"
-  geracao: "—"
 defeito: "barulho na suspensão dianteira"
 kicker: "DEFEITO CRÔNICO"
 intencao: "Diagnóstico"

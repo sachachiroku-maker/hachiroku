@@ -1,11 +1,10 @@
-﻿---
+---
 title: "Direção elétrica do Chevrolet Tracker que endurece"
 description: "O Chevrolet Tracker turbo acumula relatos de direção elétrica que endurece sem aviso, quase sempre acompanhada da mensagem de falha do StabiliTrak no painel e, em alguns casos, de perda momentânea de força do motor. É um susto perigoso, porque o volante fica pesado como em um carro sem assistência justo numa curva ou manobra. Veja os sintomas, as causas prováveis ligadas ao módulo e aos sensores da direção, o diagnóstico correto, a ordem de grandeza do custo e como se proteger antes de comprar ou rodar com esse defeito."
 entidade:
   marca: "Chevrolet"
   modelo: "Tracker"
   motor: "1.0 / 1.2 Turbo"
-  geracao: "—"
 defeito: "direção elétrica que endurece (falha do StabiliTrak / módulo de direção)"
 kicker: "DEFEITO CRÔNICO"
 intencao: "Diagnóstico e prevenção"

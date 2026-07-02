@@ -1,11 +1,10 @@
-﻿---
+---
 title: "VW Polo TSI correia dentada: intervalo, riscos e custo no"
 description: "Volkswagen Polo TSI com problema na correia dentada? O motor 1.0 TSI EA211 usa correia dentada banhada a óleo com intervalo fixo. Saber quando trocar, quais sinais de alerta observar e quanto custa pode evitar a destruição total do motor."
 entidade:
   marca: "Volkswagen"
   modelo: "Polo TSI"
   motor: "1.0 TSI (EA211)"
-  geracao: "—"
 defeito: "correia dentada"
 kicker: "MANUTENÇÃO CRÍTICA · MOTOR TURBO"
 intencao: "Diagnóstico"

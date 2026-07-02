@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Câmbio IVT do HB20 1.0 Turbo: zumbido e gemido no variador"
 description: "Zumbido ou gemido do câmbio IVT do Hyundai HB20 1.0 Turbo em acelerações suaves indica desgaste no rolamento do variador. Veja sintomas, diagnóstico e como resolver."
 entidade:
@@ -74,7 +74,7 @@ relacionados:
     url: "/problemas/hyundai/hb20/cambio-automatico-trancos/"
   - titulo: "Embreagem do HB20: sintomas e custo"
     url: "/problemas/hyundai/hb20/embreagem/"
-draft: false
+draft: true
 ---
 
 O **câmbio IVT do Hyundai HB20 1.0 Turbo** começou a aparecer com frequência nas reclamações de donos por um motivo específico: um ruído de zumbido ou gemido que surge nas acelerações suaves, em geral na faixa entre 40 e 80 km/h. O som não vem do motor, não muda em curvas e não aparece em trechos irregulares. Ele vem da transmissão, e quando o diagnóstico é feito corretamente, a causa mais comum identificada é o desgaste no rolamento do variador do câmbio IVT.

@@ -5,7 +5,7 @@ entidade:
   marca: "Chevrolet"
   modelo: "Tracker"
   motor: "1.0 / 1.2 Turbo"
-  geracao: "—"
+  geracao: "2ª geração (2020 em diante)"
 defeito: "câmbio automático com trancos"
 kicker: "DEFEITO CRÔNICO"
 intencao: "Diagnóstico e manutenção"
@@ -18,11 +18,13 @@ entidadesEssenciais:
 autor:
   nome: "Redação Hachiroku"
 pubDate: 2026-06-19
-updatedDate: 2026-06-19
+updatedDate: 2026-07-02
 disclaimer: "O diagnóstico e a manutenção do câmbio automático do Tracker exigem scanner, ferramenta específica e fluido na especificação exata da GM. Não é serviço de garagem para iniciantes. Este conteúdo é informativo: confie a inspeção e o reparo a um profissional qualificado e, se o carro estiver na garantia, registre tudo na rede autorizada."
 imagem: "/logos/hachiroku-badge-86.png"
 imagemAlt: "Câmbio automático de 6 marchas do Chevrolet Tracker turbo"
 faq:
+  - pergunta: "O Tracker tem câmbio CVT?"
+    resposta: "Não. O Tracker brasileiro (2020 em diante) usa câmbio automático de 6 marchas com conversor de torque em todas as versões, tanto com o 1.0 turbo quanto com o 1.2 turbo, e essa é a mesma família 6T compartilhada com Onix, Cobalt, Spin e Cruze. Não existe versão nacional com CVT nem com dupla embreagem. O CVT equipa o Tracker vendido na China, que é outro projeto. Quem sente uma patinação tipo CVT, com o motor subindo de giro, está percebendo o conversor de torque em baixa rotação, não uma correia variável."
   - pergunta: "Por que o câmbio automático do Chevrolet Tracker dá trancos?"
     resposta: "Os trancos do câmbio automático de 6 marchas do Tracker turbo costumam vir de fluido de transmissão vencido ou contaminado, que perde a capacidade de fazer as embreagens internas e o conversor trabalharem suave. Some a isso desgaste prematuro relatado em algumas unidades e falhas no módulo ou nos sensores do câmbio. O resultado é troca áspera, demora para engatar D ou R e solavancos, principalmente com o câmbio já aquecido."
   - pergunta: "O câmbio automático do Tracker é selado e não precisa trocar o óleo?"
@@ -101,6 +103,14 @@ Esse câmbio trabalha com um conversor de torque e um conjunto de embreagens int
 | Motores associados | 1.0 e 1.2 turbo de 3 cilindros |
 | Plataforma compartilhada | Mesma base de Onix, Cobalt, Spin e Cruze |
 | Manutenção crítica | Fluido de transmissão na especificação GM |
+
+## O Tracker tem CVT? Não, e isso muda o diagnóstico
+
+Circula muito a ideia de que o Tracker tem câmbio CVT, e ela precisa cair, porque leva a serviço errado. Todas as versões do Tracker brasileiro, com o **1.0 turbo** ou o **1.2 turbo**, usam o mesmo **automático de 6 marchas com conversor de torque**. Não há CVT nem câmbio de dupla embreagem na linha nacional, em nenhum ano ou acabamento.
+
+O CVT existe, sim, mas no **Tracker vendido na China**, que é outro projeto, com outra mecânica. Confundir os dois faz a oficina recomendar **fluido de CVT**, que é a coisa errada para este câmbio, e faz o dono procurar defeitos de correia variável e polias que simplesmente não existem aqui.
+
+A origem da confusão tem explicação técnica. Quem dirige e sente uma <mark>patinação tipo CVT</mark>, aquela impressão do motor subindo de giro sem o carro acompanhar na mesma proporção, não está sentindo uma correia variável. Está percebendo o **conversor de torque trabalhando em baixa rotação**, comportamento normal desse tipo de câmbio em certas retomadas. O que não é normal é isso virar tranco forte ou solavanco repetido: aí a causa é fluido vencido ou parte elétrica, como você vê nas próximas seções.
 
 ## Por que o câmbio dá trancos
 

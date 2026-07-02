@@ -1,11 +1,10 @@
-﻿---
+---
 title: "Fiat Palio vazando óleo (motor E.torQ)"
 description: "Fiat Palio com motor E.torQ 1.6 ou 1.8 16V vazando óleo? Na maioria dos casos o vilão é o anel de vedação da base do filtro de óleo (trocador de calor), o retentor da tampa de distribuição ou os retentores do virabrequim. Veja os sintomas reais, como localizar o vazamento, o risco de rodar assim e o custo do reparo."
 entidade:
   marca: "Fiat"
   modelo: "Palio"
   motor: "E.torQ"
-  geracao: "—"
 defeito: "vazamento de óleo"
 kicker: "DEFEITO CRÔNICO · ATENÇÃO"
 intencao: "Diagnóstico preventivo"

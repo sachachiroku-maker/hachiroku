@@ -1,11 +1,10 @@
-﻿---
+---
 title: "Correia dentada banhada a óleo do Chevrolet Tracker turbo"
 description: "O Chevrolet Tracker 1.0 e 1.2 turbo da família CSS Prime usa correia dentada banhada a óleo, prevista para 240 mil km. O óleo fora da especificação Dexos pode esfarelá-la cedo, entupir a bomba e fundir o motor. Veja quando trocar, sintomas, óleo correto, custo e prevenção."
 entidade:
   marca: "Chevrolet"
   modelo: "Tracker"
   motor: "1.0 / 1.2 Turbo"
-  geracao: "—"
 defeito: "correia dentada banhada a óleo"
 kicker: "DEFEITO CRÔNICO"
 intencao: "Manutenção preventiva"

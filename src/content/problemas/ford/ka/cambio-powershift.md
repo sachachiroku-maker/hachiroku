@@ -1,11 +1,10 @@
-﻿---
+---
 title: "Câmbio Powershift no Ford Ka e Fiesta"
 description: "O câmbio Powershift (DPS6) virou sinônimo de trancos, trepidação e embreagem queimada nos Ford da era 2012 a 2018. Mas atenção: o Ford Ka brasileiro nunca usou Powershift, e sim um automático convencional de conversor de torque. Quem teve o problema de verdade foi o Fiesta (e EcoSport e Focus). Veja como o câmbio funciona, os sintomas, a garantia estendida de 10 anos, as ações judiciais e o que verificar antes de comprar."
 entidade:
   marca: "Ford"
   modelo: "Ka"
   motor: "1.0 / 1.5"
-  geracao: "—"
 defeito: "câmbio Powershift"
 kicker: "ALERTA DE RISCO · COMPRA USADO"
 intencao: "Alerta e compra"

@@ -1,11 +1,10 @@
-﻿---
+---
 title: "Coluna de direção do Renault Kwid quebrando"
 description: "Renault Kwid com folga no volante ou ruído ao esterçar? O suporte da coluna de direção do hatch aparece em vários relatos de quebra, com o volante chegando a cair no colo do motorista, e há recall oficial para unidades fabricadas até 2019. Veja os sintomas, a causa, como checar o recall, o custo da peça e como prevenir antes de perder o controle do carro."
 entidade:
   marca: "Renault"
   modelo: "Kwid"
   motor: "1.0 SCe"
-  geracao: "—"
 defeito: "quebra do suporte da coluna de direção"
 kicker: "DEFEITO CRÔNICO"
 intencao: "Diagnóstico"

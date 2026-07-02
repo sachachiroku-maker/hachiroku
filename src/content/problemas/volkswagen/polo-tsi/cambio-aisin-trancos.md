@@ -1,11 +1,10 @@
-﻿---
+---
 title: "Câmbio Aisin do VW Polo TSI dando trancos"
 description: "Volkswagen Polo TSI com câmbio automático dando tranco entre a 1ª e a 2ª marcha? O câmbio Aisin de 6 marchas das versões turbo é um Tiptronic robusto, mas tem trocas bruscas conhecidas que muitas vezes se resolvem com atualização de software. Veja os sintomas, as causas reais, o papel do corpo de válvulas e do óleo, o custo e como prevenir."
 entidade:
   marca: "Volkswagen"
   modelo: "Polo TSI"
   motor: "1.0 TSI (EA211)"
-  geracao: "—"
 defeito: "trancos no câmbio automático Aisin"
 kicker: "DEFEITO CRÔNICO · CÂMBIO AUTOMÁTICO"
 intencao: "Diagnóstico"

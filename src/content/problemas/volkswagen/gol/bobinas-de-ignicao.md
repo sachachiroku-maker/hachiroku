@@ -5,7 +5,6 @@ entidade:
   marca: "Volkswagen"
   modelo: "Gol"
   motor: "EA111 (G5/G6) / EA211 (G7)"
-  geracao: "—"
 defeito: "bobina de ignição"
 kicker: "DEFEITO CRÔNICO"
 intencao: "Diagnóstico"

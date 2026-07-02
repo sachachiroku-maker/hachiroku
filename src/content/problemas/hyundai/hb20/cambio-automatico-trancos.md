@@ -1,11 +1,10 @@
-﻿---
+---
 title: "Câmbio automático do Hyundai HB20"
 description: "O câmbio automático do Hyundai HB20 (A6GF1) virou assunto recorrente por dar trancos e solavancos nas trocas, principalmente da primeira para a segunda marcha, com ar-condicionado ligado e em baixa velocidade. Veja os sintomas, as causas (atualização de software do TCU, óleo do câmbio e a campanha de recall do módulo da bomba elétrica), como diagnosticar, o que costuma resolver e quanto custa."
 entidade:
   marca: "Hyundai"
   modelo: "HB20"
   motor: "1.0 / 1.6"
-  geracao: "—"
 defeito: "trancos no câmbio automático"
 kicker: "DEFEITO CRÔNICO"
 intencao: "Diagnóstico"

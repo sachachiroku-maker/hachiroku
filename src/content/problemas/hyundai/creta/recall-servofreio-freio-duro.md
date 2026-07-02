@@ -1,11 +1,10 @@
-﻿---
+---
 title: "Recall do servofreio no Hyundai Creta 2024/2025"
 description: "O Hyundai Creta 1.0 turbo fabricado em 2024 entrou em recall oficial por uma falha no servofreio: o deslocamento do diafragma reduz o vácuo da assistência de frenagem e deixa o pedal duro, exigindo mais força do motorista e aumentando a distância para parar. Veja como o servofreio funciona, os sintomas que ligam o alerta, como confirmar se o seu chassi está na campanha, o que a Hyundai troca de graça e o que fazer enquanto o reparo não acontece."
 entidade:
   marca: "Hyundai"
   modelo: "Creta"
   motor: "1.0 turbo (T-GDI Flex)"
-  geracao: "—"
 defeito: "servofreio com perda de vácuo (pedal de freio duro)"
 kicker: "DEFEITO CRÔNICO"
 intencao: "Diagnóstico e prevenção"

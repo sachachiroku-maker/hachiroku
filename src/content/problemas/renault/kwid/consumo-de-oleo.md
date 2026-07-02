@@ -1,11 +1,10 @@
-﻿---
+---
 title: "Renault Kwid consumindo óleo: quando o motor 1.0 SCe passa"
 description: "Renault Kwid baixando óleo? O motor 1.0 SCe de 3 cilindros aparece em vários relatos de consumo excessivo, com laudos de concessionária acima do limite do manual. Veja o que é consumo aceitável, os sintomas que denunciam defeito, as causas mecânicas, o custo e como prevenir antes de fundir o motor."
 entidade:
   marca: "Renault"
   modelo: "Kwid"
   motor: "1.0 SCe"
-  geracao: "—"
 defeito: "consumo de óleo"
 kicker: "DEFEITO CRÔNICO"
 intencao: "Diagnóstico"

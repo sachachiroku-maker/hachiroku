@@ -1,11 +1,10 @@
-﻿---
+---
 title: "Barulho na suspensão dianteira do Renault Kwid"
 description: "Renault Kwid com barulho na suspensão dianteira? O estalo seco ao passar em lombadas e buracos aparece em muitos relatos de donos, quase sempre ligado à bucha da bandeja desgastada. Veja os sintomas, as causas mecânicas, como diagnosticar, a faixa de custo e como prevenir antes de comprometer a dirigibilidade."
 entidade:
   marca: "Renault"
   modelo: "Kwid"
   motor: "1.0 SCe"
-  geracao: "—"
 defeito: "barulho na suspensão dianteira"
 kicker: "DEFEITO CRÔNICO"
 intencao: "Diagnóstico"
