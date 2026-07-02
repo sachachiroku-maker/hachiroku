@@ -172,11 +172,6 @@
       "permanent": true
     },
     {
-      "source": "/problemas/byd/song-plus/autonomia-real-vs-estimada/:path*",
-      "destination": "/problemas/byd/song-plus/",
-      "permanent": true
-    },
-    {
       "source": "/problemas/chevrolet/onix/consumo-alto-combustivel-automatico/:path*",
       "destination": "/problemas/chevrolet/onix/",
       "permanent": true
@@ -187,63 +182,13 @@
       "permanent": true
     },
     {
-      "source": "/problemas/gwm/haval-h6/ruido-suspensao-dianteira/:path*",
-      "destination": "/problemas/gwm/haval-h6/",
-      "permanent": true
-    },
-    {
-      "source": "/problemas/honda/hr-v/cambio-cvt-barulho/:path*",
-      "destination": "/problemas/honda/hr-v/",
-      "permanent": true
-    },
-    {
-      "source": "/problemas/honda/hr-v/motor-1-5-turbo-consumo-oleo/:path*",
-      "destination": "/problemas/honda/hr-v/",
-      "permanent": true
-    },
-    {
       "source": "/problemas/hyundai/hb20/cambio-cvt-falha/:path*",
       "destination": "/problemas/hyundai/hb20/cambio-automatico-trancos/",
       "permanent": true
     },
     {
-      "source": "/problemas/jeep/compass/cambio-9-marchas/:path*",
-      "destination": "/problemas/jeep/compass/",
-      "permanent": true
-    },
-    {
-      "source": "/problemas/suzuki/jimny/barulho-caixa-transferencia/:path*",
-      "destination": "/problemas/suzuki/jimny/",
-      "permanent": true
-    },
-    {
-      "source": "/problemas/toyota/corolla-cross/freio-emergencia-acionamento-indevido/:path*",
-      "destination": "/problemas/toyota/corolla-cross/",
-      "permanent": true
-    },
-    {
-      "source": "/problemas/volkswagen/fox/embreagem-patinando/:path*",
-      "destination": "/problemas/volkswagen/fox/",
-      "permanent": true
-    },
-    {
-      "source": "/problemas/volkswagen/gol/cambio-getrag-085-manutencao/:path*",
-      "destination": "/problemas/volkswagen/gol/",
-      "permanent": true
-    },
-    {
-      "source": "/problemas/volkswagen/polo-tsi/consumo-alto-combustivel/:path*",
-      "destination": "/problemas/volkswagen/polo-tsi/",
-      "permanent": true
-    },
-    {
       "source": "/problemas/volkswagen/tiguan-allspace/cambio-dsg7-tranco-solavanco/:path*",
       "destination": "/problemas/volkswagen/tiguan-allspace/",
-      "permanent": true
-    },
-    {
-      "source": "/problemas/volkswagen/virtus/tranco-ao-acelerar/:path*",
-      "destination": "/problemas/volkswagen/virtus/",
       "permanent": true
     },
     {
@@ -314,6 +259,11 @@
     {
       "source": "/problemas/hyundai/hb20/cambio-cvt-ruido/:path*",
       "destination": "/problemas/hyundai/hb20/cambio-automatico-trancos/",
+      "permanent": true
+    },
+    {
+      "source": "/problemas/volkswagen/gol/cambio-getrag-085-manutencao/:path*",
+      "destination": "/problemas/volkswagen/gol/cambio-manual-dificil-engatar/",
       "permanent": true
     }
   ],
