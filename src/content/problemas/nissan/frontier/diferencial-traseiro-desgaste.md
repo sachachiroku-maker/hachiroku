@@ -1,11 +1,11 @@
-﻿---
+---
 title: "Diferencial traseiro da Nissan Frontier com desgaste"
 description: "O diferencial traseiro da Nissan Frontier pode apresentar desgaste com ruído, especialmente após uso off-road intenso ou manutenção incorreta do óleo. Entenda os sintomas, como diagnosticar e o custo de reparo."
 entidade:
   marca: "Nissan"
   modelo: "Frontier"
   motor: "2.5 YD25DDTi"
-  geracao: "D40 — 3ª geração (2021-atual)"
+  geracao: "D40/D23 (2008-2022)"
 defeito: "desgaste do diferencial traseiro"
 kicker: "DEFEITO CRÔNICO"
 intencao: "Diagnóstico"
