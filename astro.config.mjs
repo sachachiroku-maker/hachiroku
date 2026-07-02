@@ -172,16 +172,13 @@ export default defineConfig({
     '/problemas/ram/rampage/consumo-combustivel-alto/': { destination: '/problemas/ram/rampage/', status: 301 },
     '/problemas/ram/rampage/transmissao-automatica-solavanco/': { destination: '/problemas/ram/rampage/', status: 301 },
     // Fact-check motores rodada 2 (2026-07-02): corpos sobre motor inexistente + renames Spin
-    '/problemas/chevrolet/cruze/ar-condicionado-fraco/': { destination: '/problemas/chevrolet/cruze/', status: 301 },
-    '/problemas/jeep/wrangler/superaquecimento-motor/': { destination: '/problemas/jeep/wrangler/', status: 301 },
-    '/problemas/fiat/strada/motor-etorq-consumo-oleo/': { destination: '/problemas/fiat/strada/', status: 301 },
+    '/problemas/fiat/strada/motor-etorq-consumo-oleo/': { destination: '/problemas/fiat/strada/motor-firefly-consumo-oleo/', status: 301 },
     '/problemas/mitsubishi/outlander/consumo-combustivel-v6/': { destination: '/problemas/mitsubishi/outlander/', status: 301 },
     '/problemas/mitsubishi/outlander/cambio-cvt-superaquecimento/': { destination: '/problemas/mitsubishi/outlander/', status: 301 },
     '/problemas/peugeot/208/consumo-oleo-puretech/': { destination: '/problemas/peugeot/208/', status: 301 },
     '/problemas/citroen/c3/consumo-oleo-puretech/': { destination: '/problemas/citroen/c3/', status: 301 },
     '/problemas/chevrolet/spin/motor-etorq-consumo-oleo/': { destination: '/problemas/chevrolet/spin/motor-ecotec-consumo-oleo/', status: 301 },
     '/problemas/chevrolet/spin/superaquecimento-etorq/': { destination: '/problemas/chevrolet/spin/superaquecimento-motor-1-8/', status: 301 },
-    '/problemas/nissan/kicks/ar-condicionado-fraco/': { destination: '/problemas/nissan/kicks/', status: 301 },
     '/problemas/hyundai/creta/transmissao-cvt-solavanco/': { destination: '/problemas/hyundai/creta/', status: 301 },
     // Paridade com vercel.json (regras que só existiam no edge)
     '/problemas/honda/hrv/':                   { destination: '/problemas/honda/hr-v/',              status: 301 },

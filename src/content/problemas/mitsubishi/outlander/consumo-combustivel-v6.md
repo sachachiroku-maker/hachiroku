@@ -1,50 +1,56 @@
 ---
-title: "Consumo Alto no Mitsubishi Outlander 3.0 V6 Flex"
-description: "Outlander 3.0 V6 flex abaixo de 6 km/l na cidade? Saiba as 5 causas do consumo excessivo e o que fazer para normalizar antes de levar à oficina. (153 chars)"
+title: "Consumo alto no Outlander 3.0 V6: causas reais e o que fazer"
+description: "Outlander 3.0 V6 gasolina abaixo de 6 km/l na cidade? Veja as causas reais do consumo alto (velas, bobinas, sonda lambda, câmbio automático, pneus), o consumo normal esperado e a comparação com o 2.0 CVT."
 entidade:
   marca: "Mitsubishi"
   modelo: "Outlander"
-  motor: "3.0 V6 MIVEC flex (220 cv)"
+  motor: "3.0 V6 MIVEC gasolina (240 cv)"
   geracao: "3ª geração (2015 em diante)"
-defeito: "consumo de combustível muito elevado no motor V6 3.0 flex"
-kicker: "DEFEITO CRÔNICO"
+defeito: "consumo de combustível muito elevado no motor V6 3.0"
+kicker: "DIAGNÓSTICO"
 intencao: "Diagnóstico"
-entidadesEssenciais: ["Mitsubishi Outlander", "motor V6 3.0 MIVEC flex", "câmbio CVT"]
+entidadesEssenciais: ["Mitsubishi Outlander", "motor 6B31 V6 3.0 MIVEC gasolina", "câmbio automático de 6 marchas", "sonda lambda", "velas e bobinas de ignição"]
 autor:
   nome: "Redação Hachiroku"
 pubDate: 2026-06-20
-updatedDate: 2026-06-20
+updatedDate: 2026-07-02
 disclaimer: "As informações deste artigo têm caráter educativo. Consulte sempre um mecânico habilitado para diagnósticos definitivos e reparos no seu veículo."
 imagem: "/logos/hachiroku-badge-86.png"
-imagemAlt: "Badge técnico Hachiroku para diagnóstico de consumo elevado no Mitsubishi Outlander 3.0 V6 flex"
+imagemAlt: "Badge técnico Hachiroku para diagnóstico de consumo elevado no Mitsubishi Outlander 3.0 V6 gasolina"
 faq:
-  - pergunta: "Qual é o consumo normal do Mitsubishi Outlander 3.0 V6 flex na cidade?"
-    resposta: "Com gasolina, o Outlander 3.0 V6 entrega entre 7 e 9 km/l no ciclo urbano em condições normais de tráfego. Com etanol, esse valor cai para 5 a 6,5 km/l devido ao menor poder calorífico do combustível. Abaixo de 6 km/l com gasolina em tráfego fluente é sinal de problema a investigar."
-  - pergunta: "O CVT do Outlander pode causar consumo excessivo de combustível?"
-    resposta: "Sim. O câmbio CVT mantém o motor operando em faixas de rotação mais altas por períodos maiores do que um automático convencional. Usar o modo Eco reduz esse comportamento. Se o modo Eco estiver desativado e o condutor pisar fundo com frequência, o consumo sobe de forma significativa."
-  - pergunta: "Com que frequência devo trocar as velas do motor V6 3.0 MIVEC?"
-    resposta: "A Mitsubishi recomenda troca das 6 velas de iridium a cada 100.000 km. Velas desgastadas provocam combustão incompleta, queda de potência e consumo elevado. O custo do jogo completo fica entre R$ 600 e R$ 1.000 dependendo da marca, mais mão de obra."
-  - pergunta: "O sistema AWD do Outlander aumenta o consumo de combustível?"
-    resposta: "Sim, quando solicitado em asfalto seco. O sistema All Wheel Control distribui torque entre os eixos, o que gera resistência mecânica adicional. Em uso exclusivamente urbano com asfalto em boas condições, manter o modo 2WD (quando disponível) reduz o consumo."
-  - pergunta: "Limpeza de injetores resolve o problema de consumo alto no V6?"
-    resposta: "Resolve parcialmente quando os injetores são a causa principal. O motor 3.0 V6 possui 6 injetores, e depósitos de carbono afetam a pulverização do combustível. A limpeza ultrassônica custa entre R$ 500 e R$ 900 e costuma normalizar o consumo quando esse é o fator dominante."
+  - pergunta: "Qual é o consumo normal do Mitsubishi Outlander 3.0 V6 na cidade e na estrada?"
+    resposta: "O Outlander 3.0 V6 é movido só a gasolina. No ciclo urbano, o consumo real fica em torno de 7 a 9 km/l em tráfego fluente, e na estrada sobe para cerca de 10 a 12 km/l. Os valores de referência do Inmetro para a versão GT 4WD ficam próximos de 8,2 km/l na cidade e 10,3 km/l na estrada. Registrar de forma consistente menos de 6 km/l com gasolina em trânsito normal é sinal de problema a investigar."
+  - pergunta: "O Outlander 3.0 V6 é flex?"
+    resposta: "Não. O motor 3.0 V6 MIVEC (código 6B31) vendido no Brasil funciona exclusivamente com gasolina. Ele não aceita etanol. Quem procura versão flex ou bicombustível está pensando em outro carro: o Outlander 3.0 sempre foi um V6 a gasolina, com 240 cv e câmbio automático de 6 marchas."
+  - pergunta: "O câmbio do Outlander V6 é CVT?"
+    resposta: "Não. O 3.0 V6 usa câmbio automático de 6 marchas do tipo conversor de torque (INVECS-II), com modo sequencial. O câmbio CVT é o da versão 2.0 de 4 cilindros. Confundir os dois é comum, mas são projetos diferentes: o V6 tem marchas fixas e o 2.0 tem transmissão de variação contínua."
+  - pergunta: "Com que frequência trocar as velas do motor V6 3.0 e como elas afetam o consumo?"
+    resposta: "A recomendação da Mitsubishi é trocar as 6 velas de iridium por volta de 100.000 km. Velas gastas provocam combustão incompleta e falhas de ignição, e o sistema compensa injetando mais combustível, o que eleva o consumo. O jogo completo custa entre R$ 600 e R$ 1.000, mais mão de obra."
+  - pergunta: "A sonda lambda pode aumentar o consumo do Outlander V6?"
+    resposta: "Sim, e bastante. A sonda lambda (sensor de oxigênio) informa à central a mistura ar/combustível. Quando envelhece, ela responde devagar e a central passa a injetar combustível em excesso por segurança. Uma sonda preguiçosa pode elevar o consumo sem acender nenhuma luz no painel por um bom tempo. O V6 usa mais de uma sonda, e a troca de cada uma costuma ficar entre R$ 300 e R$ 800, mais mão de obra."
+  - pergunta: "Para economizar, vale mais a pena o Outlander 2.0 CVT que o 3.0 V6?"
+    resposta: "Para uso urbano com foco em economia, sim. O 2.0 de 4 cilindros com câmbio CVT é mais leve e foi calibrado para manter o motor em rotações baixas, então entrega consumo urbano melhor que o V6. O 3.0 V6 troca essa economia por potência (240 cv), suavidade e capacidade de reboque. São escolhas para perfis diferentes: o V6 nunca vai ser econômico como o 2.0."
 passos:
   - nome: "Verifique a calibragem dos pneus"
-    texto: "Consulte a etiqueta na coluna B do motorista ou o manual do proprietário. O Outlander 3.0 com rodas 18 polegadas usa pneus 225/55 R18. A pressão recomendada fica entre 32 e 35 PSI dependendo da carga. Pneus calibrados abaixo de 28 PSI aumentam a resistência ao rolamento e podem adicionar 5 a 8% no consumo sem qualquer aviso visual."
-  - nome: "Ative o modo Eco e monitore o câmbio CVT"
-    texto: "O botão Eco no console central limita a resposta do acelerador e instrui o CVT a trabalhar em rotações mais baixas. Ative-o em percursos urbanos e observe o consumidor instantâneo no painel. Se o consumo cair de forma perceptível com o modo Eco ligado, o comportamento do CVT era o responsável pelo excesso."
-  - nome: "Inspecione a condição das velas de ignição"
-    texto: "Com 100.000 km ou mais no hodômetro sem troca, as velas de iridium já podem estar desgastadas. Leve o veículo a uma oficina para retirada e inspeção visual das 6 velas. Eletrodos com erosão excessiva, depósitos escuros ou folga fora do especificado indicam troca imediata. Não use velas comuns como substituição: o motor MIVEC exige iridium ou platina."
-  - nome: "Solicite limpeza ultrassônica dos injetores"
-    texto: "A limpeza é feita fora do veículo em equipamento especializado. Os 6 injetores do V6 são removidos, testados em fluxo antes e depois, e devolvidos limpos. Peça o relatório de vazão para comparar os valores pré e pós limpeza. Diferença acima de 10% entre os injetores indica que algum pode precisar de substituição."
-  - nome: "Avalie o padrão de uso do sistema AWD"
-    texto: "Se o veículo é usado predominantemente em área urbana com asfalto em boas condições, verifique se o modo de tração está definido para 2WD no seletor do console. Deixar o AWD ativo permanentemente em cidade aumenta o consumo por conta do arrasto mecânico adicional. Reserve o 4WD Lock e o AWD para situações que realmente exijam tração integral."
+    texto: "Consulte a etiqueta na coluna da porta do motorista ou o manual. O Outlander 3.0 com rodas 18 polegadas usa pneus 225/55 R18, com pressão recomendada em torno de 32 a 35 PSI conforme a carga. Pneus abaixo de 28 PSI aumentam a resistência ao rolamento e podem somar de 5 a 8% no consumo sem nenhum aviso visual. Meça sempre com o pneu frio."
+  - nome: "Inspecione velas e bobinas de ignição"
+    texto: "Com 100.000 km ou mais sem troca, as 6 velas de iridium já podem estar gastas. Peça a retirada e a inspeção visual: eletrodos com erosão, depósitos escuros ou folga fora do especificado pedem troca. Verifique também as 6 bobinas, uma por cilindro: uma bobina fraca causa falha de ignição e consumo alto. Nunca use velas comuns de cobre no MIVEC, apenas iridium ou platina na especificação correta."
+  - nome: "Teste as sondas lambda"
+    texto: "Peça uma leitura das sondas de oxigênio com scanner. O técnico observa o tempo de resposta e a oscilação do sinal. Uma sonda lenta ou travada faz a central enriquecer a mistura e queimar mais combustível. Esse é um dos culpados mais frequentes de consumo alto que passa despercebido, porque nem sempre acende a luz de injeção."
+  - nome: "Avalie o câmbio automático e o fluido"
+    texto: "O V6 usa câmbio automático de 6 marchas por conversor de torque. Fluido (ATF) velho ou no nível errado prejudica o travamento do conversor e faz o motor girar mais alto do que deveria, elevando o consumo. Confirme o histórico de troca do fluido e evite o hábito de pisar fundo (kickdown) o tempo todo, que segura marchas baixas."
+  - nome: "Cheque o uso do sistema AWD e a limpeza dos injetores"
+    texto: "Em uso urbano com asfalto bom, use o modo 2WD quando disponível: o eixo traseiro acionado à toa gera arrasto e gasta mais. Se houver vibração em marcha lenta, hesitação e cheiro de combustível, solicite limpeza ultrassônica dos 6 injetores com relatório de vazão. Diferença acima de 10% entre injetores pode indicar substituição."
 afiliados:
-  - produto: "Velas NGK Iridium IX para V6 3.0 (jogo)"
-    nota: "NGK é fornecedora original da Mitsubishi. Prefira iridium ou platina para o MIVEC."
+  - produto: "Velas NGK Iridium para V6 3.0 (jogo)"
+    nota: "NGK é fornecedora original da Mitsubishi. Use iridium ou platina no MIVEC, nunca velas comuns de cobre."
     busca: "velas NGK iridium V6 3.0 Mitsubishi"
     programa: "amazon"
     cta: "Ver produto"
+  - produto: "Scanner OBD2 Bluetooth"
+    nota: "Ajuda a ler falhas de ignição, sonda lambda e ajuste da mistura antes de gastar com diagnóstico em oficina."
+    busca: "scanner obd2 bluetooth"
+    programa: "amazon"
   - produto: "Calibrador digital de pneus portátil"
     nota: "Manter a calibragem correta é a verificação mais simples e barata contra consumo elevado."
     busca: "calibrador digital pneu portátil"
@@ -55,144 +61,155 @@ relacionados:
   - titulo: "Ficha técnica: Mitsubishi Outlander 3.0 V6"
     url: "/ficha-tecnica/mitsubishi/outlander-v6-3-0/"
 pontosChave:
-  - "Sintoma: consumo abaixo de 6 km/l com gasolina em tráfego urbano normal sem congestionamento intenso"
-  - "Causa: câmbio CVT com comportamento agressivo, injetores sujos, velas desgastadas, AWD ativo desnecessariamente ou pneus descalibrados"
-  - "Ação: calibrar pneus, ativar modo Eco, inspecionar velas acima de 100.000 km e solicitar limpeza ultrassônica dos injetores"
-  - "Atenção: o V6 3.0 em SUV de 1.850 kg não é motor econômico por natureza; consumo dentro da faixa 7-9 km/l com gasolina é o melhor resultado realista em cidade"
+  - "Sintoma: consumo abaixo de 6 km/l com gasolina em tráfego urbano normal, sem congestionamento intenso."
+  - "Causa: velas ou bobinas de ignição gastas, sonda lambda preguiçosa, fluido do câmbio automático velho, injetores sujos, AWD acionado à toa ou pneus descalibrados."
+  - "Ação: calibrar pneus, inspecionar as 6 velas e bobinas acima de 100.000 km, testar as sondas lambda com scanner e verificar o fluido do câmbio."
+  - "Atenção: o V6 3.0 a gasolina de 240 cv em um SUV de cerca de 1.650 kg não é motor econômico por natureza. Consumo de 7 a 9 km/l na cidade é o melhor resultado realista. Quem quer economia deve olhar o 2.0 CVT."
 fontes:
-  - { titulo: "Manual do Proprietário Mitsubishi Outlander 2015 (Mitsubishi Motors)", url: "https://www.mitsubishi-motors.com.br/servicos/manuais" }
-  - { titulo: "Tabela INMETRO de Consumo de Combustíveis 2025", url: "https://www.gov.br/inmetro/pt-br/consumidor/produtos/automotivos/programa-brasileiro-de-etiquetagem-veicular" }
-draft: true
+  - { titulo: "Mitsubishi Outlander 3.0 V6 HPE-S 4WD 2022, ficha técnica (iCarros)", url: "https://www.icarros.com.br/mitsubishi/outlander/ficha-tecnica/29278" }
+  - { titulo: "Consumo do Outlander gasolina e diesel pelo Inmetro (ConsumoDeCombustivel.com.br)", url: "https://consumodecombustivel.com.br/consumo-outlander-diesel-gasolina/" }
+  - { titulo: "Ficha técnica Outlander 3.0 V6 GT (Carros na Web)", url: "https://www.carrosnaweb.com.br/fichadetalhe.asp?codigo=7835" }
+  - { titulo: "Programa Brasileiro de Etiquetagem Veicular (Inmetro)", url: "https://www.gov.br/inmetro/pt-br/consumidor/produtos/automotivos/programa-brasileiro-de-etiquetagem-veicular" }
+draft: false
 ---
 
-## O V6 3.0 do Outlander e a Conta que Não Fecha
+**Consumo alto no Outlander 3.0 V6** costuma ter causa mecânica investigável, e não é o mesmo caso do 2.0. O 3.0 é um V6 a gasolina de 240 cv, com câmbio automático de 6 marchas por conversor de torque, montado em um SUV de cerca de 1.650 kg. Ele nunca foi econômico, mas quando desce de forma consistente abaixo de 6 km/l com gasolina em trânsito normal, algo está fora do lugar. Os suspeitos mais comuns são velas e bobinas de ignição gastas, sonda lambda preguiçosa, fluido de câmbio velho, injetores sujos e pneus descalibrados. Este guia mostra o consumo normal esperado, como identificar cada causa e o que fazer antes de gastar dinheiro à toa.
 
-O Mitsubishi Outlander 3.0 V6 MIVEC flex é um SUV de grande porte com motor de 220 cv e peso em ordem de marcha acima de 1.850 kg. Essa combinação não foi projetada para economizar combustível: foi projetada para entregar desempenho e conforto em um pacote espaçoso.
+## O V6 3.0 do Outlander: o que ele é de verdade
 
-O consumo esperado com gasolina no ciclo urbano fica entre 7 e 9 km/l, dependendo do estilo de condução, do trânsito e da condição mecânica do veículo. Com etanol, esse número cai para 5 a 6,5 km/l por conta do menor poder calorífico do biocombustível.
+Antes do diagnóstico, é preciso desfazer duas confusões que aparecem o tempo todo com esse carro.
 
-O problema real aparece quando o hodômetro registra, de forma consistente, menos de 6 km/l com gasolina em percursos urbanos sem congestionamento intenso. Nesse patamar, algo fora do normal está aumentando o consumo além do esperado para o motor.
+Primeira: o Outlander 3.0 V6 MIVEC (motor 6B31) é movido **só a gasolina**. Ele não é flex e não aceita etanol. Não existe consumo "com álcool" para comparar, porque o carro não roda com álcool.
 
-Este guia investiga as cinco causas mais comuns, como identificar cada uma e o que fazer antes de desembolsar dinheiro em reparos desnecessários.
+Segunda: o câmbio do V6 **não é CVT**. É um automático de **6 marchas por conversor de torque** (INVECS-II), com marchas fixas e modo sequencial. O câmbio CVT existe, mas na versão **2.0 de 4 cilindros**, que é outro carro.
 
-<aside class="telltale danger" role="note"><span aria-hidden="true">⛔</span><p><strong>Expectativa errada.</strong> Quem adquire o Outlander 3.0 V6 esperando consumo semelhante ao de um sedã 2.0 turboflex vai se decepcionar independentemente da condição mecânica. O V6 nesse porte de veículo é naturalmente consumidor. O diagnóstico aqui cobre o consumo anormal, não o consumo inerente ao motor.</p></aside>
+Essa distinção não é detalhe. Ela muda o diagnóstico inteiro, porque os problemas típicos de um CVT são diferentes dos de um automático convencional.
 
----
+O 6B31 entrega **240 cv** e move um SUV de sete lugares que pesa em torno de **1.650 kg** em ordem de marcha. Essa combinação prioriza desempenho, suavidade e capacidade de reboque, não eficiência de combustível.
 
-## 1. Câmbio CVT: O Suspeito Silencioso
+<aside class="telltale danger" role="note"><span aria-hidden="true">⛔</span><p><strong>Expectativa errada.</strong> Quem espera do V6 3.0 um consumo parecido com o de um sedã 2.0 turbo vai se frustrar mesmo com o carro impecável. O V6 nesse porte é naturalmente gastador. Este diagnóstico cobre o consumo <mark>anormal</mark>, aquilo que fugiu da faixa esperada, não o consumo inerente ao motor.</p></aside>
 
-O Outlander 3.0 V6 da terceira geração usa câmbio CVT (Continuously Variable Transmission), uma transmissão de variação contínua que substitui as marchas fixas por uma relação de transmissão que varia de forma fluida.
+## Qual é o consumo normal esperado
 
-Na prática, o CVT mantém o motor operando em faixas de rotação mais altas por períodos maiores do que um câmbio automático convencional de cinco ou seis marchas. Isso acontece porque o sistema prioriza o puxão disponível em vez de subir a relação rapidamente.
+Com gasolina, o Outlander 3.0 V6 costuma entregar, na vida real:
 
-O resultado prático: em acelerações moderadas na cidade, o motor pode ficar em 2.500 a 3.000 rpm por mais tempo do que seria necessário. Esse comportamento, repetido dezenas de vezes por percurso, contribui de forma expressiva para o consumo elevado.
+| Uso | Consumo típico (gasolina) |
+| --- | --- |
+| Cidade, tráfego fluente | 7 a 9 km/l |
+| Estrada, velocidade constante | 10 a 12 km/l |
+| Cidade em congestionamento pesado | pode cair abaixo de 6 km/l |
 
-<aside class="telltale" role="note"><span aria-hidden="true">⚠️</span><p><strong>Teste rápido.</strong> Pressione o botão Eco no console e faça o mesmo percurso que você usa como referência de consumo. Se o resultado melhorar 10% ou mais, o comportamento do CVT era o principal fator. O modo Eco limita a resposta do acelerador e instrui o CVT a trabalhar em rotações mais baixas.</p></aside>
+Como referência oficial, os números do Inmetro para a versão GT 4WD ficam próximos de **8,2 km/l na cidade** e **10,3 km/l na estrada**. Valores de laboratório costumam ser um pouco melhores que a média real de rua.
 
-O modo Eco não é uma limitação: é a configuração ideal para uso urbano. Desativá-lo faz sentido apenas em ultrapassagens ou em percursos de estrada onde o desempenho é prioritário.
+O sinal de alerta é claro: se o carro registra de forma **consistente menos de 6 km/l com gasolina** em trânsito normal, sem congestionamento intenso, há algo aumentando o consumo além do esperado. É aí que entram as causas abaixo.
 
-Outro ponto importante: o CVT do Outlander não é um câmbio que se "acostuma" com o estilo de condução. Ele responde ao pedal em tempo real. Um condutor que pisa fundo com frequência vai registrar consumo muito acima da média, mesmo com o veículo em condição mecânica perfeita.
+## 1. Velas e bobinas de ignição: a origem mais comum
 
----
+O V6 tem **6 cilindros**, e cada um depende de uma vela e de uma bobina para gerar a centelha na hora certa. Qualquer falha nesse conjunto vira combustível queimado à toa.
 
-## 2. Injetores Sujos: Seis Pontos de Falha
+As velas do 3.0 V6 MIVEC são de **iridium**, com troca recomendada por volta de **100.000 km**. Vela gasta produz centelha fraca e provoca combustão incompleta. A central percebe a perda de rendimento e injeta mais combustível para compensar. O consumo sobe sem que o motorista note uma falha clara, porque ela pode ser sutil demais para vibrar o volante.
 
-O motor V6 3.0 MIVEC possui seis injetores de combustível, um para cada cilindro. Com o tempo e o uso, depósitos de carbono e verniz se acumulam no bico dos injetores e alteram o padrão de pulverização do combustível.
+As bobinas merecem a mesma atenção. Uma bobina enfraquecida causa falha de ignição em um cilindro (o famoso "misfire"), e o motor passa a rodar em 5 cilindros por instantes, gastando mais e perdendo força.
 
-Um injetor com pulverização degradada entrega combustível em gotas maiores e com distribuição irregular dentro da câmara de combustão. O resultado é combustão incompleta: parte do combustível não é aproveitada na geração de potência e é expelida pelo escapamento.
+<aside class="telltale danger" role="note"><span aria-hidden="true">⛔</span><p><strong>Nunca troque por velas comuns.</strong> O MIVEC trabalha com compressão e temperatura altas. Vela de cobre comum, mesmo com a rosca certa, pode causar pré-ignição, detonação e dano aos pistões. Use somente iridium ou platina na especificação do motor 3.0 V6.</p></aside>
 
-Para compensar a perda de potência, o sistema de gerenciamento eletrônico injeta mais combustível. O consumo sobe e a emissão de poluentes aumenta.
+O jogo completo de 6 velas iridium custa entre **R$ 600 e R$ 1.000**, dependendo da marca. NGK e Denso são fornecedoras originais da Mitsubishi. Se o carro passou dos 100.000 km sem troca, essa é a primeira manutenção a fazer.
 
-<aside class="telltale info" role="note"><span aria-hidden="true">ℹ️</span><p><strong>Identificação.</strong> Injetores sujos costumam vir acompanhados de outros sintomas: vibração leve em marcha lenta, queda de resposta na aceleração inicial e odor de combustível no escapamento. Se o consumo alto está isolado sem esses sinais, os injetores provavelmente não são a causa principal.</p></aside>
+## 2. Sonda lambda preguiçosa: o vilão silencioso
 
-A limpeza ultrassônica remove os depósitos sem danificar os componentes internos dos injetores. O procedimento inclui teste de fluxo antes e depois da limpeza. O custo varia entre R$ 500 e R$ 900 para os seis injetores, dependendo da oficina e da região.
+A **sonda lambda** (sensor de oxigênio) mede a quantidade de oxigênio no escapamento e informa à central se a mistura está rica ou pobre. Com base nisso, a central ajusta a injeção em tempo real.
 
-Peça sempre o relatório de vazão. O documento mostra a diferença de fluxo de cada injetor antes e depois do procedimento. Injetores com diferença acima de 10% em relação aos demais podem precisar de substituição, não apenas limpeza.
+Com o tempo, a sonda envelhece e responde devagar. Quando isso acontece, a central perde a leitura precisa e, por segurança, passa a **injetar combustível em excesso**. O resultado é consumo alto de forma contínua.
 
----
+O detalhe perigoso: uma sonda "cansada", que ainda funciona mas responde lento, muitas vezes **não acende a luz de injeção** por um bom tempo. O carro só bebe mais, e o dono culpa o trânsito.
 
-## 3. Velas de Ignição Desgastadas: Combustão Que Não Acontece
+<aside class="telltale info" role="note"><span aria-hidden="true">ℹ️</span><p><strong>Como confirmar.</strong> Um scanner OBD2 lê o sinal das sondas em tempo real. O técnico observa se o sensor oscila rápido e dentro da faixa esperada. Sinal lento, travado ou preso em um valor indica sonda no fim da vida. O V6 usa mais de uma sonda, então vale checar todas.</p></aside>
 
-As velas de ignição do motor 3.0 V6 MIVEC são do tipo iridium, com especificação de troca a cada 100.000 km conforme recomendação da Mitsubishi.
+A troca de cada sonda costuma ficar entre **R$ 300 e R$ 800**, mais mão de obra. É um gasto que se paga rápido quando a sonda era mesmo a causa, pela economia de combustível recuperada.
 
-Velas desgastadas apresentam eletrodo com erosão excessiva, folga fora do especificado e dificuldade em produzir a centelha adequada. O resultado é ignição fraca ou incompleta em alguns ciclos do motor.
+## 3. Câmbio automático de 6 marchas: fluido e hábito de pedal
 
-Quando a ignição falha em um ou mais cilindros de forma intermitente, o motor perde eficiência e o sistema de injeção compensa com mais combustível para manter a potência. O consumo sobe sem que o motorista perceba a falha, pois ela pode ser muito sutil para gerar vibração perceptível no volante.
+Aqui está a diferença de diagnóstico entre o V6 e o 2.0. O V6 usa câmbio **automático de 6 marchas por conversor de torque**. O ponto de atenção não é o comportamento de um CVT, é o **conversor de torque** e o **fluido**.
 
-<aside class="telltale danger" role="note"><span aria-hidden="true">⛔</span><p><strong>Não substitua por velas comuns.</strong> O motor MIVEC trabalha com compressão e temperatura elevadas. O uso de velas comuns de cobre, mesmo que com a mesma rosca, pode causar pré-ignição, detonação e danos aos pistões. Use somente iridium ou platina com a especificação correta para o motor 3.0 V6.</p></aside>
+O conversor tem um mecanismo de travamento (lockup) que "gruda" motor e câmbio em velocidade constante, reduzindo perdas. Quando o **fluido do câmbio (ATF) está velho**, contaminado ou no nível errado, esse travamento trabalha mal. O motor gira mais alto do que deveria para a mesma velocidade, e o consumo sobe.
 
-O jogo completo de seis velas iridium para o V6 3.0 custa entre R$ 600 e R$ 1.000 dependendo da marca e do ponto de venda. NGK e Denso são fornecedoras originais da Mitsubishi e as mais recomendadas para reposição.
+Some a isso o hábito de dirigir. Pisar fundo com frequência força o **kickdown** e segura marchas baixas em rotação alta. Em um V6 de 240 cv, esse estilo cobra caro no tanque.
 
-Se o veículo já ultrapassou 100.000 km sem troca das velas, essa é a primeira manutenção a realizar antes de investigar outras causas de consumo elevado.
+<aside class="telltale" role="note"><span aria-hidden="true">⚠️</span><p><strong>Verifique o histórico do fluido.</strong> Muita gente troca óleo do motor religiosamente e nunca troca o fluido do câmbio automático. Confirme quando o ATF foi trocado pela última vez. Fluido velho não afeta só o consumo: encurta a vida do câmbio, que é uma peça cara.</p></aside>
 
----
+## 4. Pneus descalibrados: o fator mais ignorado
 
-## 4. Sistema AWD Ativo em Situações Desnecessárias
+O Outlander 3.0 V6 usa pneus **225/55 R18**, com pressão recomendada entre **32 e 35 PSI** conforme a carga. A etiqueta com os valores fica na coluna da porta do lado do motorista.
 
-O Outlander 3.0 V6 da terceira geração é equipado com o sistema All Wheel Control da Mitsubishi, que distribui torque entre os eixos dianteiro e traseiro conforme a demanda de tração.
+Pneu abaixo da pressão ideal aumenta a área de contato com o asfalto e a resistência ao rolamento. O motor trabalha mais para manter a mesma velocidade, e o consumo sobe.
 
-Em condições normais de uso urbano com asfalto seco e em boas condições, acionar o eixo traseiro gera resistência mecânica adicional na transmissão. Essa resistência exige mais esforço do motor para manter a mesma velocidade, o que se traduz em consumo maior.
+A relação é direta: 5 PSI abaixo do recomendado pode somar de 3 a 5% no consumo, e 10 PSI abaixo pode chegar a 8%. Em um carro que já parte de um consumo base alto, cada ponto percentual pesa no bolso.
 
-O seletor de modo de tração, localizado no console central, oferece as opções 2WD, 4WD Auto e 4WD Lock dependendo do ano e da versão. Em uso predominantemente urbano, o modo 2WD elimina a carga mecânica do eixo traseiro e pode reduzir o consumo de forma perceptível.
+<aside class="telltale ok" role="note"><span aria-hidden="true">✅</span><p><strong>Barato e imediato.</strong> A calibragem é a verificação mais simples, rápida e barata de todas. Faça sempre com o pneu frio, antes de rodar ou após percursos curtos. Pneu quente marca pressão maior e engana a medição.</p></aside>
 
-<aside class="telltale ok" role="note"><span aria-hidden="true">✅</span><p><strong>Regra prática.</strong> Use 2WD em cidade com asfalto bom. Use 4WD Auto em estradas com condições variáveis, lama leve ou terra batida. Reserve o 4WD Lock para situações extremas: lama profunda, areia, rampas com baixa aderência. Deixar no Lock em asfalto danifica o sistema de tração e aumenta o consumo de forma significativa.</p></aside>
+## 5. Injetores sujos e AWD acionado à toa
 
-Verifique também se o seletor está funcionando corretamente. Em alguns casos, o modo selecionado no painel não corresponde ao modo de operação real do sistema AWD por falha no atuador ou no sensor de posição. Uma leitura de scanner OBD2 pode confirmar o modo ativo de tração.
+Dois fatores fecham a lista.
 
----
+O V6 tem **6 injetores**. Depósitos de carbono no bico degradam a pulverização, a combustão fica incompleta e a central compensa com mais combustível. Injetor sujo costuma vir acompanhado de **vibração leve em marcha lenta, hesitação na aceleração e cheiro de combustível** no escapamento. Se o consumo alto está isolado, sem esses sinais, provavelmente não são os injetores.
 
-## 5. Calibragem dos Pneus: O Fator Mais Ignorado
+A limpeza ultrassônica dos 6 injetores custa entre **R$ 500 e R$ 900**, com teste de vazão antes e depois. Peça o relatório: diferença acima de 10% entre injetores pode indicar substituição, não só limpeza.
 
-O Outlander 3.0 V6 usa pneus 225/55 R18 com pressão recomendada entre 32 e 35 PSI, conforme a carga do veículo. A etiqueta com os valores corretos fica na coluna B do lado do motorista, visível ao abrir a porta.
+O outro ponto é o **sistema AWD** (All Wheel Control). Acionar o eixo traseiro em asfalto seco gera arrasto mecânico e gasta mais. Em uso urbano com piso bom, use o modo **2WD** quando disponível e reserve a tração integral para lama, terra ou baixa aderência.
 
-Pneus abaixo da pressão ideal aumentam a área de contato com o asfalto, o que eleva a resistência ao rolamento. O motor precisa trabalhar mais para vencer essa resistência, e o consumo sobe.
+## Como investigar na ordem certa
 
-A relação é direta: pneus com 5 PSI abaixo do recomendado podem aumentar o consumo em 3 a 5%. Com 10 PSI abaixo, esse impacto pode chegar a 8%. No Outlander, que já parte de um consumo base elevado, qualquer percentual adicional é sentido no bolso.
+A sequência importa para não gastar com reparo desnecessário.
 
-<aside class="telltale" role="note"><span aria-hidden="true">⚠️</span><p><strong>Cuidado com a calibragem a frio.</strong> Sempre meça a pressão com o pneu frio, antes de rodar ou logo após percursos curtos de menos de 2 km. Pneus quentes apresentam pressão maior por conta da dilatação do ar, o que pode levar à calibragem incorreta se o valor for medido após um percurso longo.</p></aside>
+**Primeiro, calibre os pneus.** Custo zero, cinco minutos. Elimina o fator mais simples.
 
-A calibragem correta é a verificação mais simples, mais rápida e mais barata de todas as causas listadas aqui. Faça essa checagem antes de qualquer outro diagnóstico.
+**Segundo, leia o carro com um scanner OBD2.** Falhas de ignição, sondas lentas e ajuste de mistura anormal aparecem na leitura. Um scanner básico de R$ 80 a R$ 150 pode poupar centenas em diagnóstico de oficina.
 
----
+**Terceiro, verifique velas e bobinas** se o carro passou de 100.000 km sem troca. É manutenção que melhora consumo, potência e emissões de uma vez.
 
-## Como Investigar na Ordem Certa
+**Quarto, teste as sondas lambda** com o técnico. Sonda preguiçosa é causa frequente de consumo alto sem luz acesa.
 
-A sequência de investigação importa porque evita gastos com reparos desnecessários.
+**Quinto, confira o fluido do câmbio** e o padrão de uso do AWD. Fluido velho e tração integral à toa somam consumo silenciosamente.
 
-**Primeiro**, calibre os pneus com os valores corretos. Custo: zero. Tempo: cinco minutos.
+<aside class="telltale info" role="note"><span aria-hidden="true">ℹ️</span><p><strong>Diagnóstico antes da carteira.</strong> A tentação é sair trocando peça. O caminho certo é ler o carro, confirmar a causa e só então gastar. O scanner OBD2 é o melhor investimento inicial, porque aponta para onde olhar.</p></aside>
 
-**Segundo**, ative o modo Eco e faça um percurso de referência com o mesmo combustível e a mesma rota. Se o consumo melhorar de forma expressiva, o CVT era o fator dominante. Custo: zero.
+## V6 3.0 ou 2.0 CVT: a comparação honesta
 
-**Terceiro**, verifique o hodômetro. Se o veículo já passou de 100.000 km sem troca das velas, agende a substituição com jogo iridium. Custo: R$ 600 a R$ 1.000 mais mão de obra.
+Se a economia é a sua prioridade, essa comparação resolve a dúvida antes de qualquer conserto.
 
-**Quarto**, se os sintomas de injetores sujos estiverem presentes (vibração em marcha lenta, hesitação na aceleração, odor de combustível no escapamento), solicite limpeza ultrassônica com relatório de vazão. Custo: R$ 500 a R$ 900.
+| Critério | 3.0 V6 (gasolina, 240 cv) | 2.0 (gasolina, 4 cilindros) |
+| --- | --- | --- |
+| Câmbio | Automático de 6 marchas (conversor de torque) | CVT (variação contínua) |
+| Foco do projeto | Potência, suavidade, reboque | Economia e uso urbano |
+| Consumo na cidade | 7 a 9 km/l | Costuma ser melhor, por girar mais baixo |
+| Perfil de motor | Naturalmente gastador | Mais eficiente por ser mais leve e de 4 cilindros |
 
-**Quinto**, verifique o modo de tração no seletor do console. Confirme que o 2WD está ativo em uso urbano. Custo: zero.
+O 2.0 com CVT foi calibrado para manter o motor em rotações baixas e é mais leve, então **entrega consumo urbano melhor** que o V6. O 3.0 V6 troca essa economia por desempenho e refinamento.
 
-<aside class="telltale info" role="note"><span aria-hidden="true">ℹ️</span><p><strong>Scanner OBD2.</strong> Um leitor OBD2 básico conectado à tomada diagnóstica do Outlander (sob o painel, lado do motorista) pode revelar falhas registradas no sistema de gerenciamento, incluindo falhas de injeção, ignição e sensores de oxigênio. Um scanner de R$ 80 a R$ 150 disponível em mercados online pode poupar centenas de reais em diagnósticos desnecessários em oficina.</p></aside>
+A leitura honesta: nenhum reparo transforma o V6 3.0 em um motor econômico. Se o carro já está com pneus calibrados, velas e bobinas boas, sondas saudáveis, injetores limpos e fluido de câmbio em dia, e ainda faz **7 km/l na cidade com gasolina**, esse é o resultado esperado para esse motor nesse peso. Quem precisa de eficiência como critério principal deveria estar no 2.0 CVT, não no V6.
 
----
+<aside class="telltale danger" role="note"><span aria-hidden="true">⛔</span><p><strong>Comparação errada.</strong> Cobrar do Outlander 3.0 V6 o consumo de um Corolla, um Compass 1.3 turbo ou um HR-V 1.5 turbo é comparar máquinas com propósitos diferentes. O V6 compete com outros SUVs grandes de motor parecido, não com compactos.</p></aside>
 
-## Quando o Consumo é Normal e o Problema é a Expectativa
+## Quanto custa resolver
 
-É importante reconhecer uma situação específica: o consumo elevado pode ser simplesmente o comportamento esperado do motor V6 3.0 em um veículo de 1.850 kg.
+Uma noção de valores para planejar o reparo, sempre sujeita a variação por região e oficina:
 
-Se o veículo passou por todas as verificações acima, está com pneus calibrados, injetores limpos, velas novas, modo 2WD ativo e modo Eco ligado, e o consumo ainda fica em 7 km/l com gasolina na cidade, o resultado está dentro da faixa esperada para esse motor nesse porte de SUV.
+| Serviço | Faixa de custo |
+| --- | --- |
+| Calibragem dos pneus | Zero a muito baixo |
+| Scanner OBD2 (leitura) | R$ 80 a R$ 150 (compra do aparelho) |
+| Jogo de 6 velas iridium | R$ 600 a R$ 1.000 + mão de obra |
+| Bobina de ignição (por unidade) | R$ 250 a R$ 500 cada |
+| Sonda lambda (por unidade) | R$ 300 a R$ 800 + mão de obra |
+| Troca do fluido do câmbio (ATF) | R$ 500 a R$ 1.200 |
+| Limpeza ultrassônica dos 6 injetores | R$ 500 a R$ 900 |
 
-O motor V6 de seis cilindros em um veículo pesado é uma escolha que prioriza desempenho, capacidade de reboque e refinamento de marcha. Não é uma escolha para quem precisa de eficiência no abastecimento como critério principal.
+Repare a lógica: os itens mais baratos (pneus, leitura de scanner) vêm primeiro justamente para evitar gastar nos mais caros sem necessidade.
 
-<aside class="telltale danger" role="note"><span aria-hidden="true">⛔</span><p><strong>Comparação errada.</strong> Comparar o consumo do Outlander 3.0 V6 com o de um Corolla, um Compass 1.3 turbo ou um HR-V 1.5 turbo é comparar máquinas com propósitos diferentes. São categorias de motor e peso distintos. O V6 3.0 compete em consumo com outros SUVs de grande porte com motores similares, não com modelos compactos.</p></aside>
+## Resumo do diagnóstico
 
-Se a expectativa de consumo era de 12 km/l ou mais, o problema não é mecânico: é a escolha do veículo para o perfil de uso.
+O consumo alto no **Outlander 3.0 V6** tem causas investigáveis e uma ordem clara de checagem. Comece pelo que é grátis (pneus e leitura de scanner), passe por velas, bobinas e sondas lambda acima de 100.000 km, e confira o fluido do câmbio automático e o uso do AWD.
 
----
+Lembre sempre do que o carro é: um V6 a gasolina de 240 cv, com câmbio automático de 6 marchas, em um SUV de cerca de 1.650 kg. Ele não é flex, não tem CVT e não foi feito para economizar. Na cidade, 7 a 9 km/l com gasolina é o melhor resultado realista.
 
-## Resumo do Diagnóstico
-
-O consumo elevado no Outlander 3.0 V6 MIVEC flex tem cinco causas investigáveis em ordem de custo crescente.
-
-A calibragem dos pneus e o modo de tração são verificações gratuitas que podem resolver o problema imediatamente. O modo Eco do CVT é outra correção sem custo que faz diferença real no uso urbano.
-
-Acima de 100.000 km, a troca das velas de iridium é uma manutenção preventiva que melhora consumo, desempenho e emissões ao mesmo tempo. A limpeza dos injetores entra como próximo passo quando os sintomas específicos de injeção estão presentes.
-
-O que o diagnóstico não pode fazer é transformar um V6 de 220 cv em um motor econômico. Dentro da faixa esperada para o motor e o peso do veículo, um consumo de 7 a 9 km/l com gasolina em cidade representa o melhor resultado alcançável, independentemente de qualquer manutenção.
+Se a economia é o que mais importa para você, a conclusão é direta: o caminho é o 2.0 CVT, não o V6. Mas se o seu V6 desceu abaixo de 6 km/l, há o que corrigir, e este roteiro mostra por onde começar.

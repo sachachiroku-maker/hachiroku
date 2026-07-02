@@ -422,18 +422,8 @@
       "permanent": true
     },
     {
-      "source": "/problemas/chevrolet/cruze/ar-condicionado-fraco/:path*",
-      "destination": "/problemas/chevrolet/cruze/",
-      "permanent": true
-    },
-    {
-      "source": "/problemas/jeep/wrangler/superaquecimento-motor/:path*",
-      "destination": "/problemas/jeep/wrangler/",
-      "permanent": true
-    },
-    {
       "source": "/problemas/fiat/strada/motor-etorq-consumo-oleo/:path*",
-      "destination": "/problemas/fiat/strada/",
+      "destination": "/problemas/fiat/strada/motor-firefly-consumo-oleo/",
       "permanent": true
     },
     {
@@ -464,11 +454,6 @@
     {
       "source": "/problemas/chevrolet/spin/superaquecimento-etorq/:path*",
       "destination": "/problemas/chevrolet/spin/superaquecimento-motor-1-8/",
-      "permanent": true
-    },
-    {
-      "source": "/problemas/nissan/kicks/ar-condicionado-fraco/:path*",
-      "destination": "/problemas/nissan/kicks/",
       "permanent": true
     },
     {

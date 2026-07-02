@@ -1,53 +1,59 @@
 ---
-title: "Chevrolet Cruze com Ar-Condicionado Fraco"
-description: "Cruze 1.4 e 1.0 turbo com AC fraco ou quente? Veja causas, diagnóstico e custos: filtro de cabine, gás R134a, condensador e servo-motor Dual Zone."
+title: "Chevrolet Cruze com Ar-Condicionado Fraco: causas e custos"
+description: "Cruze com ar fraco ou soprando quente? Causas reais no 1.4 turbo e no 1.8: filtro de cabine, gás R134a, condensador, compressor e Dual Zone."
 entidade:
   marca: "Chevrolet"
   modelo: "Cruze"
-  motor: "1.4 Turbo / 1.0 Turbo"
-  geracao: "2012–2023"
+  motor: "1.4 Turbo Ecotec / 1.8 Ecotec aspirado"
+  geracao: "1ª (2011–2016) e 2ª (2017–2023)"
 defeito: "Ar-condicionado fraco ou sem refrigeração"
-kicker: "DEFEITO CRÔNICO"
+kicker: "DIAGNÓSTICO"
 intencao: "Diagnóstico"
-entidadesEssenciais: ["compressor de ar-condicionado", "condensador", "filtro de cabine", "gás R134a", "servo-motor Dual Zone"]
+entidadesEssenciais: ["compressor de ar-condicionado", "condensador", "filtro de cabine", "gás R134a", "servo-motor Dual Zone", "eletroventilador"]
 autor:
   nome: "Redação Hachiroku"
 pubDate: 2026-06-20
-updatedDate: 2026-06-20
+updatedDate: 2026-07-02
 disclaimer: "Este artigo tem caráter informativo. Serviços de ar-condicionado automotivo com fluido refrigerante devem ser realizados por profissional certificado e com equipamento homologado pelo IBAMA."
 imagem: "/logos/hachiroku-badge-86.png"
-imagemAlt: "Diagnóstico de ar-condicionado fraco no Chevrolet Cruze 1.4 e 1.0 turbo"
+imagemAlt: "Diagnóstico de ar-condicionado fraco no Chevrolet Cruze 1.4 turbo e 1.8"
 faq:
+  - pergunta: "O Chevrolet Cruze tem versão 1.0 turbo no Brasil?"
+    resposta: "Não. No Brasil, o Cruze teve apenas dois motores: o 1.8 Ecotec aspirado de 16 válvulas (1ª geração, de 2011/2012 até 2016) e o 1.4 turbo Ecotec de injeção direta e 153 cv no etanol (2ª geração, de 2017 a 2023). O motor 1.0 turbo de 3 cilindros da Chevrolet equipa o Onix e o Tracker, nunca o Cruze. Quem procura por Cruze 1.0 turbo está confundindo os modelos."
   - pergunta: "Qual o gás do ar-condicionado do Chevrolet Cruze?"
-    resposta: "O Cruze utiliza gás refrigerante R134a em todas as gerações vendidas no Brasil. A carga correta varia entre 480 g e 520 g dependendo do modelo. Nunca utilize R12 ou misturas não certificadas."
+    resposta: "O Cruze usa gás refrigerante R134a em todas as versões vendidas no Brasil, tanto no 1.8 quanto no 1.4 turbo. Nunca aceite recarga com R12, com misturas ou com gases não certificados: além de ilegal, isso ataca vedações e pode danificar o compressor. A carga correta vem indicada na etiqueta sob o capô e deve ser respeitada."
   - pergunta: "De quanto em quanto tempo trocar o filtro de cabine do Cruze?"
-    resposta: "A Chevrolet recomenda substituição a cada 15.000 km ou 12 meses, o que ocorrer primeiro. Em cidades com muito tráfego e poluição, o ideal é antecipar para 10.000 km."
-  - pergunta: "O que é o servo-motor do ar-condicionado Dual Zone do Cruze?"
-    resposta: "É um atuador elétrico que direciona o fluxo de ar para o lado do motorista ou do passageiro de forma independente. Quando falha, o ar sai apenas por uma das saídas ou fica preso em uma temperatura."
-  - pergunta: "Por que o compressor do Cruze 1.4 turbo patina na embreagem?"
-    resposta: "A embreagem eletromagnética do compressor pode desgastar o disco de fricção com o tempo, especialmente em veículos com mais de 80.000 km. O sintoma é um zumbido ao ligar o AC e ausência de refrigeração."
+    resposta: "A recomendação é a cada 15.000 km ou 12 meses, o que ocorrer primeiro. Em cidade grande, com trânsito parado e muita poeira, o ideal é antecipar para 10.000 km. O filtro fica atrás do porta-luvas, custa entre R$ 30 e R$ 80 e a troca leva menos de 10 minutos."
+  - pergunta: "Por que o ar do Cruze gela e depois para de gelar no trânsito?"
+    resposta: "É um sintoma clássico de eletroventilador que não liga ou de sensor de temperatura com defeito. Parado, sem vento passando pelo condensador, a pressão de alta sobe demais e o módulo corta o compressor para se proteger. Há muitos relatos de Cruze com a ventoinha disparada e o ar cortando, resolvidos com a troca do sensor de temperatura do líquido de arrefecimento."
   - pergunta: "Quanto custa recarregar o gás R134a do Cruze?"
-    resposta: "O serviço de recarga com verificação de vazamento custa entre R$ 180 e R$ 350 em média no Brasil em 2025. Recargas sem teste de pressão prévia são ineficazes se houver vazamento no sistema."
+    resposta: "O serviço de recarga com verificação de vazamento fica em média entre R$ 180 e R$ 350 no Brasil. Recarga sem teste de pressão prévio é dinheiro jogado fora quando existe vazamento: em poucas semanas o ar volta a falhar. Exija detector de vazamento e laudo de pressão antes e depois."
+  - pergunta: "O ar dual do Cruze pode gelar só de um lado?"
+    resposta: "Sim. Nas versões com ar-condicionado digital de dupla zona (LT, LTZ e Premier), servo-motores elétricos movem as comportas que direcionam o ar para cada lado. Quando um trava, um lado sai quente ou o fluxo fica preso, mesmo com o gás e o compressor perfeitos. O diagnóstico é elétrico, por scanner."
 passos:
   - nome: "Verifique o filtro de cabine"
-    texto: "Localize o filtro atrás do porta-luvas (lado do passageiro). Um filtro saturado restringe o fluxo de ar e reduz drasticamente o rendimento do sistema. Substitua se estiver com mais de 15.000 km de uso."
-  - nome: "Inspecione o condensador visualmente"
-    texto: "Com o capô aberto, observe o condensador na frente do radiador. Acúmulo de insetos, folhas e detritos bloqueia a troca de calor. Limpe com jato d'água de baixa pressão e verifique se há aletas amassadas."
+    texto: "Localize o filtro atrás do porta-luvas, no lado do passageiro. Um filtro saturado restringe o fluxo de ar e derruba o rendimento. Troque se estiver com mais de 15.000 km de uso ou visivelmente escuro."
+  - nome: "Inspecione o condensador e o eletroventilador"
+    texto: "Com o capô aberto, observe o condensador na frente do radiador: insetos, folhas e aletas amassadas bloqueiam a troca de calor. Ligue o ar e confirme se a ventoinha gira. Ventoinha parada com carro parado é causa comum de ar que corta no trânsito."
   - nome: "Teste a embreagem do compressor"
-    texto: "Ligue o AC e observe a polia do compressor. O disco central deve girar junto com a polia quando o sistema está ativo. Se apenas a polia girar sem o disco, a embreagem eletromagnética está com defeito."
-  - nome: "Verifique pressão do gás R134a"
-    texto: "Com manifold gauge, cheque: baixa pressão entre 25–40 psi e alta pressão entre 180–220 psi em condições normais (30°C, motor em marcha lenta). Pressão baixa indica perda de carga; pressão alta indica problema no condensador."
+    texto: "Com o motor ligado e o ar acionado, observe a polia do compressor. O disco central deve girar junto com a polia. Se apenas o anel externo girar, a embreagem eletromagnética não está engatando."
+  - nome: "Verifique a pressão do gás R134a"
+    texto: "Com manifold, confira baixa entre 25 e 40 psi e alta entre 180 e 220 psi em condição normal (cerca de 30°C, motor em marcha lenta). Pressão baixa indica perda de carga; pressão alta aponta condensador sujo ou ventoinha parada."
   - nome: "Teste os servo-motores no Dual Zone"
-    texto: "No modelo com ar dual, acesse o menu de diagnóstico pelo painel (segurar botões específicos conforme o ano). Observe se o servo-motor movimenta as comportas ao alterar a temperatura de cada zona. Falha aqui indica substituição do atuador."
+    texto: "No modelo de dupla zona, ajuste o lado do motorista para 16°C e o do passageiro para 28°C. Se não houver diferença perceptível de temperatura entre as saídas, um servo-motor pode estar travado, exigindo diagnóstico elétrico."
 afiliados:
   - produto: "Filtro de Cabine Chevrolet Cruze"
-    nota: "Componente de substituição obrigatória a cada 15 mil km para manter o rendimento do AC."
+    nota: "Item de substituição a cada 15 mil km para manter o rendimento do ar. É o mais barato que evita diagnóstico caro."
     busca: "filtro cabine chevrolet cruze"
     programa: "amazon"
     cta: "Ver produto"
-  - produto: "Filtro de Cabine Cruze"
-    nota: "Opções com carvão ativado disponíveis para melhor filtragem de poluentes urbanos."
-    busca: "filtro cabine cruze ar condicionado"
+  - produto: "Scanner OBD2 Bluetooth"
+    nota: "Lê códigos de temperatura e pressão e ajuda a flagrar sensor e eletroventilador antes de gastar com recarga."
+    busca: "scanner obd2 bluetooth"
+    programa: "amazon"
+  - produto: "Filtro de Cabine Cruze com carvão ativado"
+    nota: "Versão com carvão ativado filtra melhor os poluentes urbanos e reduz odores no habitáculo."
+    busca: "filtro cabine cruze carvao ativado"
     programa: "mercadoLivre"
 relacionados:
   - titulo: "Chevrolet Cruze 1.4 Turbo Consome Óleo Demais: O Que Fazer"
@@ -55,182 +61,172 @@ relacionados:
   - titulo: "Câmbio Automático do Cruze com Trancos: Diagnóstico e Solução"
     url: "/problemas/chevrolet/cruze/cambio-automatico-trancos"
 pontosChave:
-  - "Sintoma: ar-condicionado sopra ar quente ou morno mesmo na potência máxima"
-  - "Causa: filtro de cabine saturado, vazamento de R134a, condensador sujo ou embreagem do compressor com defeito"
-  - "Acao: verificar filtro a cada 15 mil km, testar pressão do gás com manifold e inspecionar embreagem eletromagnética"
-  - "Atencao: o sistema Dual Zone do Cruze Automático possui servo-motores que podem travar as comportas de ar, exigindo diagnóstico elétrico específico"
+  - "Sintoma: ar sopra morno ou quente mesmo no máximo, ou gela parado e corta no trânsito."
+  - "Causa: filtro de cabine saturado, condensador sujo, eletroventilador ou sensor de temperatura, vazamento de R134a, embreagem do compressor ou servo-motor do Dual Zone."
+  - "Ação: comece pelo filtro (R$ 30 a R$ 80), cheque a ventoinha e só depois teste pressão com manifold e a embreagem do compressor."
+  - "Atenção: no Brasil o Cruze só teve 1.8 aspirado e 1.4 turbo. Não existe Cruze 1.0 turbo; esse motor é do Onix e do Tracker."
 fontes:
-  - { titulo: "Manual do Proprietário Chevrolet Cruze 2023", url: "https://www.chevrolet.com.br/content/dam/chevrolet/south-america/brazil/portuguese/index/cars/cruze/2023-cruze/pdfs/manual-cruze-2023.pdf" }
-  - { titulo: "Tabela de Pressões R134a — ABRAVA", url: "https://www.abrava.com.br" }
-draft: true
+  - { titulo: "Ar-condicionado do Cruze 2023 com defeito recorrente (Reclame Aqui)", url: "https://www.reclameaqui.com.br/chevrolet/ar-condicionado-do-cruze-2023-com-defeito-recorrente-e-falta-de-solucao_aU1okGhMmJA7g7O-/" }
+  - { titulo: "Falhas do ar-condicionado do Chevrolet Cruze (Opinautos)", url: "https://www.opinautos.com.br/chevrolet/cruze/guias/falhas-do-ar-condicionado" }
+  - { titulo: "Chevrolet lança o novo Cruze com motor 1.4 turbo de 153 cv (FlatOut)", url: "https://flatout.com.br/chevrolet-lanca-o-novo-cruze-maior-mais-leve-e-downsized-para-brigar-com-o-honda-civic/" }
+  - { titulo: "Ficha técnica Chevrolet Cruze 2018 (GM Media)", url: "https://media.gm.com/dld/content/media/br/pt/chevrolet/vehicles/Chevrolet/carros/cruze/2018/_jcr_content/rightpar/sectioncontainer_1/par/download/file.res/CRUZE-SED%C3%83-2018.pdf" }
+draft: false
 ---
 
-O ar-condicionado é um dos itens mais exigidos no Cruze durante o verão brasileiro. Quando ele perde eficiência, a experiência dentro do carro piora rápido, especialmente em modelos sedan com mais de 80.000 km de uso.
+O ar-condicionado é um dos itens mais exigidos do Cruze no verão brasileiro. Quando ele perde força, sopra morno ou gela parado e corta no trânsito, a vida dentro do carro piora rápido, principalmente nos sedãs com mais rodagem.
 
-Este guia cobre as causas mais comuns de AC fraco no Cruze com motores 1.4 turbo e 1.0 turbo, em ordem de probabilidade e custo crescente.
+Este guia cobre as causas reais de ar fraco no Cruze com o motor 1.4 turbo (2ª geração) e o 1.8 aspirado (1ª geração), em ordem de probabilidade e custo crescente. E já resolve uma confusão comum de quem pesquisa o assunto.
 
----
+## Antes de tudo: o Cruze não tem 1.0 turbo
+
+Existe muita informação errada circulando sobre o Cruze. No Brasil, o modelo teve apenas dois motores ao longo da vida:
+
+| Geração | Motor | Período | Ar-condicionado |
+| --- | --- | --- | --- |
+| 1ª | 1.8 Ecotec aspirado, 16V, até 144 cv | 2011/2012 a 2016 | R134a, manual ou digital |
+| 2ª | 1.4 turbo Ecotec, injeção direta, 153 cv | 2017 a 2023 | R134a, muitas vezes Dual Zone |
+
+O motor 1.0 turbo de 3 cilindros da Chevrolet nunca equipou o Cruze. Ele é do Onix e do Tracker. Se você viu por aí a comparação de um "Cruze 1.0 turbo", pode ignorar: esse carro não existe. O que muda de verdade entre as gerações do Cruze é o 1.8 aspirado contra o 1.4 turbo, e o sistema de climatização é bem parecido nos dois.
+
+<aside class="telltale info" role="note"><span aria-hidden="true">ℹ️</span><p><strong>Por que isso importa.</strong> Comprar peça de ar pelo motor errado gera dor de cabeça. Compressor, condensador e mangueiras variam entre o 1.8 e o 1.4 turbo. Saber qual Cruze você tem é o primeiro passo para acertar o diagnóstico e a peça.</p></aside>
 
 ## Por que o Cruze fica com ar-condicionado fraco?
 
-O sistema de climatização do Cruze é composto por vários componentes que precisam funcionar em conjunto. Quando um falha, o rendimento cai de forma perceptível.
+O sistema de climatização do Cruze depende de vários componentes trabalhando juntos. Quando um falha, o rendimento cai de forma perceptível.
 
-Os culpados mais frequentes são: filtro de cabine saturado, perda de gás R134a por vazamento, condensador obstruído e falha na embreagem eletromagnética do compressor.
+Os culpados mais frequentes são: filtro de cabine saturado, condensador obstruído, eletroventilador que não liga, perda de gás R134a por vazamento e falha na embreagem do compressor. Nas versões digitais de dupla zona, entra ainda um culpado menos óbvio, o servo-motor das comportas de ar.
 
-No modelo com ar dual automático, existe ainda um quarto culpado menos óbvio: o servo-motor das comportas de ar, que direciona o fluxo para cada zona do habitáculo.
+## 1. Filtro de cabine saturado
 
----
+Este é o problema mais simples, mais barato e o mais ignorado pelos donos de Cruze.
 
-## 1. Filtro de Cabine Saturado
+O filtro de cabine fica atrás do porta-luvas, do lado do passageiro. Ele filtra o ar antes de entrar no sistema de ventilação e, com o tempo, acumula poeira, poluentes e até fungos.
 
-Este é o problema mais simples, mais barato e mais ignorado pelos proprietários de Cruze.
+Quando satura, a vazão de ar despenca. O resultado é um ar que parece fraco mesmo com a temperatura no mínimo.
 
-O filtro de cabine fica atrás do porta-luvas, no lado do passageiro. Ele filtra o ar externo antes de entrar no sistema de ventilação. Com o tempo, acumula poeira, poluentes e até fungos.
+<aside class="telltale" role="note"><span aria-hidden="true">⚠️</span><p><strong>Intervalo de troca.</strong> Troque a cada 15.000 km. Quem roda na cidade grande, em trânsito parado, deve antecipar para 10.000 km. A peça custa entre R$ 30 e R$ 80 e a troca leva menos de 10 minutos.</p></aside>
 
-Quando está saturado, a vazão de ar cai drasticamente. O resultado é um AC que parece fraco mesmo com a temperatura ajustada no mínimo.
+Antes de gastar com recarga de gás ou diagnóstico elétrico, verifique o filtro. É sempre o primeiro passo.
 
-<aside class="telltale" role="note"><span aria-hidden="true">⚠️</span><p><strong>Intervalo de troca.</strong> A Chevrolet indica substituição a cada 15.000 km. Quem roda na cidade grande, em trânsito parado, deve antecipar para 10.000 km.</p></aside>
+## 2. Condensador sujo ou com vazamento
 
-A troca é simples e pode ser feita pelo próprio proprietário em menos de 10 minutos. O filtro custa entre R$ 30 e R$ 80, dependendo da marca e do tipo (simples ou com carvão ativado).
+O condensador fica na frente do radiador, exposto ao ar que entra pela grade. É ele quem joga o calor do gás refrigerante para fora do carro.
 
-Antes de gastar com recarga de gás ou diagnósticos elétricos, verifique o filtro. É o primeiro passo.
+Na cidade, esse componente acumula insetos, sementes e resíduos de poluição. Com as aletas bloqueadas, a troca de calor piora e o sistema perde eficiência. Aletas amassadas em boa parte da superfície também comprometem o rendimento.
 
----
+Além da sujeira, o condensador é um ponto conhecido de vazamento no Cruze, seja na solda, seja nas conexões. A boa notícia é que oficinas de radiador muitas vezes conseguem reparar o vazamento, o que sai mais barato do que trocar a peça inteira.
 
-## 2. Condensador Sujo ou Danificado
+<aside class="telltale info" role="note"><span aria-hidden="true">ℹ️</span><p><strong>Limpeza preventiva.</strong> Lavar o condensador com jato de água de baixa pressão a cada 20.000 km reduz a perda de eficiência. Evite alta pressão, que amassa as aletas finas.</p></aside>
 
-O condensador fica na frente do radiador, exposto ao ar que entra pela grade dianteira. É ele quem dissipa o calor do gás refrigerante para fora do veículo.
+Um condensador novo para o Cruze varia entre R$ 400 e R$ 900, mais mão de obra.
 
-Em cidade, esse componente acumula insetos, detritos, sementes e resíduos de poluição. Quando as aletas ficam bloqueadas, a troca de calor fica comprometida e o sistema perde eficiência.
+## 3. Eletroventilador e sensor de temperatura
 
-O diagnóstico visual é simples: abra o capô e observe a "frente" do condensador com uma lanterna. Aletas amassadas ou entupidas são visíveis a olho nu.
+Aqui está uma causa muito específica do Cruze e frequentemente mal diagnosticada. Se o ar gela com o carro andando, mas corta assim que você para no trânsito, olhe para o eletroventilador.
 
-<aside class="telltale info" role="note"><span aria-hidden="true">ℹ️</span><p><strong>Limpeza preventiva.</strong> Lavagem do condensador com jato de água de baixa pressão a cada 20.000 km já reduz a perda de eficiência. Evite pressão alta, que amassa as aletas finas.</p></aside>
+Com o carro parado, é a ventoinha que empurra o ar pelo condensador. Se ela não liga, a pressão de alta sobe demais e o módulo corta o compressor para se proteger. O ar simplesmente para de gelar até o carro voltar a andar.
 
-Se o condensador tiver aletas amassadas em grande parte da superfície, a troca é necessária. Um condensador novo para o Cruze varia entre R$ 400 e R$ 900, mais mão de obra.
+Há muitos relatos de donos de Cruze com a ventoinha disparada em rotação alta e o ar cortando, com o problema resolvido pela troca do sensor de temperatura do líquido de arrefecimento. Um sensor com leitura errada bagunça tanto a ventoinha quanto o acionamento do compressor.
 
----
+<aside class="telltale danger" role="note"><span aria-hidden="true">⛔</span><p><strong>Não recarregue gás por engano.</strong> Ar que gela andando e corta parado quase nunca é falta de gás. É eletroventilador ou sensor. Recarregar o sistema aqui é gastar à toa. Um scanner OBD2 ajuda a ler a temperatura e confirmar a suspeita.</p></aside>
 
-## 3. Perda de Gás R134a
+## 4. Perda de gás R134a
 
-O Cruze utiliza gás refrigerante R134a em todo o ciclo de produção vendido no Brasil. A carga correta fica entre 480 g e 520 g no circuito.
+O Cruze usa R134a em todas as versões brasileiras, tanto no 1.8 quanto no 1.4 turbo. A carga correta vem na etiqueta sob o capô e precisa ser respeitada.
 
-Quando há vazamento, mesmo que lento, o sistema vai perdendo capacidade ao longo dos meses. O proprietário percebe o ar cada vez menos frio, até que o compressor passa a cortar por proteção de baixa pressão.
+Quando há vazamento, mesmo lento, o sistema perde capacidade ao longo dos meses. O dono percebe o ar cada vez menos frio, até o compressor passar a cortar por proteção de baixa pressão. No Reclame Aqui há relatos de Cruze com menos de 10.000 km apresentando falta de gás e vazamento não identificado.
 
-<aside class="telltale danger" role="note"><span aria-hidden="true">⛔</span><p><strong>Recarga sem diagnóstico.</strong> Recarregar o gás sem localizar e corrigir o vazamento é desperdício de dinheiro. Em semanas o problema volta. Exija que a oficina faça teste de pressão e uso de detector de vazamento antes da recarga.</p></aside>
+Os pontos de vazamento mais comuns são as conexões e anéis de vedação das mangueiras, a solda do condensador e a vedação do compressor.
 
-Os pontos de vazamento mais comuns no Cruze são: conexões da mangueira de baixa pressão (o famoso "o-ring"), solda do condensador e vedação do compressor.
+<aside class="telltale danger" role="note"><span aria-hidden="true">⛔</span><p><strong>Recarga sem diagnóstico é desperdício.</strong> Recarregar o gás sem localizar e corrigir o vazamento resolve por semanas e o problema volta. Exija teste de pressão e detector de vazamento antes da recarga, com laudo antes e depois.</p></aside>
 
-O teste de pressão com manifold gauge é obrigatório. Pressão na baixa abaixo de 20 psi com motor em marcha lenta indica carga insuficiente ou vazamento ativo.
+## 5. Embreagem do compressor
 
----
+O compressor do Cruze usa uma embreagem eletromagnética para acionar e desacionar a compressão. Ao ligar o ar, um solenoide energiza a embreagem e conecta o disco ao eixo do compressor.
 
-## 4. Embreagem Eletromagnética do Compressor
+Com o tempo, sobretudo acima dos 80.000 km, o disco de fricção desgasta e a embreagem passa a patinar: a polia gira, mas o compressor não comprime direito. O sintoma clássico é um zumbido ao ligar o ar somado a refrigeração fraca. Em casos avançados, a embreagem patina de forma audível.
 
-O compressor do Cruze usa uma embreagem eletromagnética para acionar e desacionar o pistão de refrigeração. Quando o AC é ligado, um solenoide energiza a embreagem e conecta o disco ao eixo do compressor.
+<aside class="telltale" role="note"><span aria-hidden="true">⚠️</span><p><strong>Diagnóstico visual.</strong> Com o motor ligado e o ar acionado, observe o centro da polia do compressor. Se apenas o anel externo girar, sem o disco central, a embreagem não está engatando.</p></aside>
 
-Com o tempo, especialmente acima dos 80.000 km, o disco de fricção desgasta. O resultado é escorregamento da embreagem: a polia gira, mas o compressor não comprime o gás com eficiência.
+Em muitos casos dá para trocar só o disco e o cubo da embreagem, sem substituir o compressor inteiro, o que reduz bastante o custo. Um compressor novo para o Cruze custa entre R$ 1.200 e R$ 2.500.
 
-O sintoma clássico é um ruído suave de zumbido ao ligar o AC, combinado com ar que resfria mal. Em casos mais avançados, a embreagem patina de forma audível.
+## 6. Servo-motor do Dual Zone
 
-<aside class="telltale" role="note"><span aria-hidden="true">⚠️</span><p><strong>Diagnóstico visual.</strong> Com o motor ligado e o AC acionado, observe o centro da polia do compressor. Se apenas o anel externo girar sem o disco central, a embreagem não está engajando corretamente.</p></aside>
+Este problema é típico das versões com ar-condicionado digital de dupla zona, comuns nos acabamentos LT, LTZ e Premier do Cruze sedã.
 
-O reparo pode ser feito apenas com substituição do disco e do cubo da embreagem, sem trocar o compressor inteiro. Isso reduz o custo significativamente. Compressor novo para o Cruze custa entre R$ 1.200 e R$ 2.500.
+O sistema usa servo-motores elétricos para mover as comportas internas do painel e direcionar o fluxo de ar para cada lado do carro de forma independente.
 
----
+Quando um desses atuadores falha, a comporta trava numa posição. O resultado pode ser ar saindo só por uma saída, temperatura que não muda de um dos lados ou um clique repetitivo ao ajustar o clima.
 
-## 5. Servo-Motor do Sistema Dual Zone (Cruze Automático)
+<aside class="telltale danger" role="note"><span aria-hidden="true">⛔</span><p><strong>Não confunda com falta de gás.</strong> Servo-motor travado faz o ar parecer fraco em uma zona, mas o gás e o compressor podem estar perfeitos. Só um diagnóstico elétrico por scanner confirma.</p></aside>
 
-Este problema é exclusivo dos modelos com ar-condicionado automático de dupla zona, comum nos acabamentos LT e LTZ do Cruze sedan.
+A peça em si não é cara, entre R$ 150 e R$ 350, mas a mão de obra varia conforme a posição do atuador, porque o acesso exige desmontar parte do painel.
 
-O sistema Dual Zone usa servo-motores elétricos (atuadores) para mover as comportas internas do painel e direcionar o fluxo de ar para o lado do motorista ou do passageiro de forma independente.
+## Diferenças entre o 1.4 turbo e o 1.8
 
-Quando um desses atuadores falha, a comporta trava em uma posição. O resultado pode ser: ar que só sai por uma das saídas, temperatura que não muda em um dos lados ou ruído de clique repetitivo ao ajustar o clima.
+Os dois motores usam o mesmo tipo de gás, o R134a, e a mesma lógica de sistema. As diferenças são de layout e de acesso.
 
-<aside class="telltale danger" role="note"><span aria-hidden="true">⛔</span><p><strong>Não confundir com falta de gás.</strong> O servo-motor travado faz o AC parecer fraco em uma zona, mas o gás e o compressor podem estar perfeitos. Um diagnóstico elétrico via scanner é necessário para confirmar.</p></aside>
+No 1.8 aspirado (2011 a 2016), o cofre é mais folgado e o compressor fica mais acessível para inspeção e para a troca da embreagem. No 1.4 turbo (2017 a 2023), o cofre é mais cheio por causa do turbo e dos dutos de ar, e o acesso ao compressor e às mangueiras costuma dar mais trabalho.
 
-O acesso aos servo-motores exige desmontagem parcial do painel. A peça em si não é cara (R$ 150 a R$ 350), mas a mão de obra pode ser expressiva dependendo da posição do atuador com defeito.
+O Dual Zone é bem mais comum na 2ª geração, então o capítulo dos servo-motores pesa mais no 1.4 turbo. Já a embreagem do compressor e o vazamento de condensador aparecem nas duas gerações.
 
----
+## Posso continuar dirigindo?
 
-## Como Diagnosticar em Casa (Antes da Oficina)
+Ar-condicionado fraco não deixa o carro inseguro por si só, então dá para rodar. Mas há situações que pedem atenção antes de continuar.
 
-Antes de levar o carro à oficina, alguns testes simples ajudam a direcionar o diagnóstico e economizar tempo.
+Se a ventoinha do radiador está disparada em rotação alta e o ar corta parado, cuidado com a temperatura do motor. O mesmo sensor que bagunça o ar controla o arrefecimento, e um motor superaquecendo é problema sério. Nesse caso, acompanhe o marcador de temperatura e resolva logo.
 
-**Passo 1:** Verifique o filtro de cabine. Se estiver com mais de 15.000 km ou visivelmente escuro, troque antes de qualquer outro diagnóstico.
+Se o ar só está morno por filtro sujo, condensador sujo ou falta de gás, você pode rodar sem risco mecânico, apenas com desconforto. Já um zumbido novo e forte ao ligar o ar, vindo do compressor, pede diagnóstico antes que a embreagem trave e sobrecarregue a correia auxiliar.
 
-**Passo 2:** Com o AC ligado na potência máxima, coloque a mão na saída de ar mais próxima do motorista. O ar deve estar claramente frio em menos de 2 minutos em um sistema saudável.
+<aside class="telltale ok" role="note"><span aria-hidden="true">✅</span><p><strong>A regra prática.</strong> Ar morno, pode rodar e agendar a oficina. Ventoinha disparada com temperatura subindo ou ruído forte no compressor, resolva antes de fazer viagem.</p></aside>
 
-**Passo 3:** Observe a polia do compressor com o motor ligado e AC acionado. O disco central deve girar junto. Se não girar, a embreagem não está engajando.
+## Como diagnosticar em casa antes da oficina
 
-**Passo 4:** No Cruze com Dual Zone, ajuste a temperatura do lado do motorista para 16°C e do passageiro para 28°C. Se as saídas de ar não apresentarem diferença perceptível de temperatura, o servo-motor pode estar com defeito.
+Alguns testes simples ajudam a direcionar o problema e evitar cobrança desnecessária.
 
-<aside class="telltale ok" role="note"><span aria-hidden="true">✅</span><p><strong>Antes da oficina.</strong> Anote os sintomas com precisão: quando o AC falha (sempre, só no trânsito, só em dias quentes), se há ruído, se o problema é em uma zona ou nas duas. Isso acelera o diagnóstico e evita cobranças desnecessárias.</p></aside>
+**Passo 1:** Verifique o filtro de cabine. Se está com mais de 15.000 km ou escuro, troque antes de qualquer outra coisa.
 
----
+**Passo 2:** Com o ar no máximo, ponha a mão na saída mais perto do motorista. Em um sistema saudável, o ar fica claramente frio em menos de 2 minutos.
 
-## Diferenças Entre 1.4 Turbo e 1.0 Turbo
+**Passo 3:** Repare quando o ar falha. Se gela andando e corta parado, foque no eletroventilador e no sensor de temperatura, não no gás.
 
-Os dois motores utilizam o mesmo sistema de ar-condicionado na maior parte das gerações. A diferença principal está na disposição do compressor e nas mangueiras de alta pressão.
+**Passo 4:** Observe a polia do compressor com o motor ligado e o ar acionado. O disco central deve girar junto. Se não gira, a embreagem não engata.
 
-No 1.4 turbo (gerações 2012 a 2019), o compressor fica mais acessível para inspeção visual. No 1.0 turbo (a partir de 2021), o compressor está mais embutido no bloco do motor, o que dificulta o acesso para troca da embreagem.
+**Passo 5:** No Dual Zone, coloque um lado em 16°C e o outro em 28°C. Sem diferença de temperatura entre as saídas, suspeite do servo-motor.
 
-O tipo de gás (R134a) e a carga nominal são iguais nos dois motores. O sistema Dual Zone também funciona da mesma forma entre as versões.
+## Custos estimados
 
-<aside class="telltale info" role="note"><span aria-hidden="true">ℹ️</span><p><strong>Cruze 2021 em diante.</strong> O motor 1.0 turbo trouxe um compressor de deslocamento variável em alguns mercados, mas os modelos brasileiros mantiveram o compressor de pistão fixo com embreagem eletromagnética convencional.</p></aside>
-
----
-
-## Custos Estimados (2025)
-
-Os valores abaixo são referências de mercado e podem variar por região e tipo de oficina.
+Os valores abaixo são referências de mercado e variam por região e tipo de oficina.
 
 | Serviço | Custo estimado |
-|---|---|
-| Filtro de cabine (peça + troca) | R$ 60 a R$ 130 |
+| --- | --- |
+| Filtro de cabine (peça e troca) | R$ 60 a R$ 130 |
 | Limpeza do condensador | R$ 80 a R$ 150 |
-| Recarga de gás R134a (com diagnóstico) | R$ 180 a R$ 350 |
+| Sensor de temperatura (peça e troca) | R$ 120 a R$ 350 |
+| Recarga de gás R134a com diagnóstico | R$ 180 a R$ 350 |
 | Reparo da embreagem do compressor | R$ 400 a R$ 800 |
-| Compressor novo (peça + mão de obra) | R$ 1.500 a R$ 3.000 |
-| Condensador novo (peça + mão de obra) | R$ 600 a R$ 1.200 |
+| Condensador novo (peça e mão de obra) | R$ 600 a R$ 1.200 |
+| Compressor novo (peça e mão de obra) | R$ 1.500 a R$ 3.000 |
 | Servo-motor Dual Zone (por unidade) | R$ 300 a R$ 600 |
 
-Oficinas especializadas em ar-condicionado automotivo costumam cobrar menos que concessionárias para serviços fora da garantia.
+Oficinas especializadas em ar-condicionado automotivo costumam cobrar menos que concessionárias em serviços fora de garantia.
 
----
+<aside class="telltale danger" role="note"><span aria-hidden="true">⛔</span><p><strong>Gás alternativo, nunca.</strong> Recusa recarga com gases não certificados ou misturas. Além de ilegal, ataca vedações e pode danificar o compressor de forma irreversível. No Brasil, o manuseio de R134a é regulado pelo IBAMA e exige equipamento homologado.</p></aside>
 
-## Quando Ir à Concessionária ou Especialista
+## Manutenção preventiva do ar no Cruze
 
-Serviços que envolvem o circuito de gás refrigerante exigem equipamento homologado e profissional certificado. No Brasil, o manuseio de R134a é regulamentado pelo IBAMA.
+Alguns hábitos simples prolongam a vida do sistema e evitam falhas prematuras.
 
-Para o Cruze com garantia ativa, a concessionária é obrigatória. Fora da garantia, oficinas especializadas em climatização automotiva costumam oferecer diagnóstico mais detalhado e custo inferior.
+Troque o filtro de cabine a cada 15.000 km sem falta. Ligue o ar pelo menos uma vez por semana, mesmo no inverno, para manter as vedações lubrificadas com o óleo do compressor. Ao estacionar depois de uso prolongado, deixe o ventilador rodando 2 a 3 minutos sem refrigeração para secar o evaporador e evitar fungos.
 
-<aside class="telltale danger" role="note"><span aria-hidden="true">⛔</span><p><strong>Gás alternativo.</strong> Nunca aceite recarga com gases não certificados ou misturas. Além de ilegal, pode danificar vedações e compressor de forma irreversível.</p></aside>
+<aside class="telltale ok" role="note"><span aria-hidden="true">✅</span><p><strong>Revisão anual.</strong> Uma inspeção do sistema com medição de pressão a cada 12 meses ou 15.000 km flagra vazamentos pequenos antes que virem contas grandes.</p></aside>
 
-Peça sempre laudo de pressão antes e depois da recarga. Uma oficina séria documenta o serviço e verifica o sistema por pelo menos 30 minutos antes de liberar o veículo.
+Não ignore ruídos novos ao ligar o ar. Um clique isolado costuma ser servo-motor; um zumbido constante aponta para a embreagem ou o tensor da correia auxiliar.
 
----
+## Resumo do diagnóstico
 
-## Manutenção Preventiva do AC no Cruze
+O ar-condicionado fraco no Chevrolet Cruze tem causas bem definidas e diagnóstico acessível na maioria dos casos. Comece sempre pelo filtro de cabine, siga para o condensador e a ventoinha, e só então parta para o circuito de gás. A embreagem do compressor e os servo-motores do Dual Zone ficam por último, por exigirem diagnóstico mais especializado.
 
-Alguns hábitos simples prolongam a vida útil do sistema e evitam falhas prematuras.
+Guarde este ponto: no Brasil o Cruze só teve o 1.8 aspirado e o 1.4 turbo, e o sistema de ar é parecido nas duas gerações, mudando o acesso físico. Não existe Cruze 1.0 turbo.
 
-Troque o filtro de cabine a cada 15.000 km sem falta. Ligue o AC pelo menos uma vez por semana, mesmo no inverno, para manter as vedações lubrificadas com o óleo do compressor.
-
-Ao estacionar, não desligue o motor imediatamente após uso prolongado do AC. Deixe o ventilador rodando por 2 a 3 minutos sem refrigeração para secar o evaporador e evitar formação de fungos.
-
-<aside class="telltale ok" role="note"><span aria-hidden="true">✅</span><p><strong>Revisão anual.</strong> Uma inspeção do sistema de AC com medição de pressão a cada 12 meses ou 15.000 km detecta vazamentos pequenos antes que se tornem problemas maiores e mais caros.</p></aside>
-
-Não ignore ruídos novos ao ligar o AC. Um clique isolado pode ser o servo-motor; um rangido constante pode ser a embreagem ou o tensor da correia auxiliar.
-
----
-
-## Conclusão
-
-O ar-condicionado fraco no Chevrolet Cruze tem causas bem definidas e diagnóstico acessível na maioria dos casos.
-
-Comece sempre pelo filtro de cabine. Se o problema persistir, siga para o condensador e depois para o circuito de gás. A embreagem do compressor e os servo-motores do Dual Zone ficam por último, pois exigem diagnóstico mais especializado.
-
-Com os motores 1.4 e 1.0 turbo, o sistema funciona da mesma forma. A diferença está no acesso físico ao compressor, que é mais trabalhoso no 1.0 mais novo.
-
-Mantenção preventiva é mais barata do que reparo corretivo. Um filtro trocado na hora certa e uma revisão anual de pressão evitam a maioria dos problemas listados aqui.
+Manutenção preventiva sai mais barata que reparo corretivo. Um filtro trocado na hora certa e uma revisão anual de pressão evitam a maioria dos problemas listados aqui.
