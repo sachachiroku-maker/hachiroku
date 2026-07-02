@@ -282,8 +282,8 @@ A tração 4x4 vale o investimento extra somente para quem tem uso real fora do 
 - Revisões em concessionária ou oficina autorizada
 - Tração 4x4 somente se o uso justificar
 
-Se o carro que você está avaliando tem o TCe 1.3 ou o CVT e o vendedor não tem os documentos de revisão em mãos, use o nosso [estimador de custo de reparo](/guia-de-compra/jornada/estimador-custo-reparo//) para calcular o desconto mínimo que você precisa pedir antes de fechar negócio.
+Se o carro que você está avaliando tem o TCe 1.3 ou o CVT e o vendedor não tem os documentos de revisão em mãos, use o nosso [estimador de custo de reparo](/guia-de-compra/jornada/estimador-custo-reparo/) para calcular o desconto mínimo que você precisa pedir antes de fechar negócio.
 
 ---
 
-*Antes de fechar a compra, confira nosso [checklist completo de vistoria para carro usado](/guia-de-compra/checklist-vistoria-carro-usado/) e compare com o [Creta usado](/guia-de-compra/usados/creta-usado-vale-a-pena//) e o [Tracker vs Creta](/guia-de-compra/comparativos/tracker-vs-creta//) para garantir que o Duster é mesmo a melhor opção para o seu perfil.*
+*Antes de fechar a compra, confira nosso [checklist completo de vistoria para carro usado](/guia-de-compra/checklist-vistoria-carro-usado/) e compare com o [Creta usado](/guia-de-compra/usados/creta-usado-vale-a-pena/) e o [Tracker vs Creta](/guia-de-compra/comparativos/tracker-vs-creta/) para garantir que o Duster é mesmo a melhor opção para o seu perfil.*

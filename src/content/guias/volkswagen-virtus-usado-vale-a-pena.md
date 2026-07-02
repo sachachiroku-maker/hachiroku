@@ -231,8 +231,8 @@ Nesse caso, o custo da inspeção técnica profissional (R$ 300 a R$ 600 em uma 
 
 **Se o orçamento for limitado e você quer previsibilidade:** o Cronos 2021-2022 é o adversário mais honesto no mercado de usados, com menor custo de manutenção e mecânica mais simples.
 
-Use o [Checklist Completo de Vistoria para Carro Usado](/guia-de-compra/checklist-vistoria-carro-usado/) antes de fechar qualquer negócio e, se precisar comparar tecnicamente com o irmão de plataforma, leia o [Polo Usado Vale a Pena](/guia-de-compra/usados/polo-usado-vale-a-pena//) para entender as diferenças entre os câmbios Aisin e DSG na prática.
+Use o [Checklist Completo de Vistoria para Carro Usado](/guia-de-compra/checklist-vistoria-carro-usado/) antes de fechar qualquer negócio e, se precisar comparar tecnicamente com o irmão de plataforma, leia o [Polo Usado Vale a Pena](/guia-de-compra/usados/polo-usado-vale-a-pena/) para entender as diferenças entre os câmbios Aisin e DSG na prática.
 
 ---
 
-*Precisa de mais ajuda para decidir? Use nossa ferramenta de [Estimador de Custo de Reparo](/guia-de-compra/jornada/estimador-custo-reparo//) para calcular quanto custará manter o Virtus que você está avaliando.*
+*Precisa de mais ajuda para decidir? Use nossa ferramenta de [Estimador de Custo de Reparo](/guia-de-compra/jornada/estimador-custo-reparo/) para calcular quanto custará manter o Virtus que você está avaliando.*

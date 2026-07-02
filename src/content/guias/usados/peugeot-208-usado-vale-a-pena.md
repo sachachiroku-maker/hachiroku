@@ -155,4 +155,4 @@ O **Peugeot 208 usado vale a pena**, especialmente para quem valoriza design, ac
 
 Feita a inspeção correta, com scanner, vareta de óleo conferida e consulta ao histórico de recall, o 208 entrega o que promete: um hatch que dirige bem, tem acabamento de carro de categoria acima e se destaca no segmento.
 
-Veja os defeitos documentados com mais detalhe em [problemas do Peugeot 208 PureTech](/problemas/peugeot/208//) e confira os números de cada versão na [ficha técnica do Peugeot 208](/ficha-tecnica/peugeot/208-allure-1-6/).
+Veja os defeitos documentados com mais detalhe em [problemas do Peugeot 208 PureTech](/problemas/peugeot/208/) e confira os números de cada versão na [ficha técnica do Peugeot 208](/ficha-tecnica/peugeot/208-allure-1-6/).

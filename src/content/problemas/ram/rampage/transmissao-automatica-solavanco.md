@@ -2,7 +2,7 @@
 title: "Rampage 1.3 T270: solavanco ao engatar marcha"
 pubDate: 2026-06-21
 updatedDate: 2026-06-21
-draft: false
+draft: true
 autor:
   nome: "Redação Hachiroku"
 

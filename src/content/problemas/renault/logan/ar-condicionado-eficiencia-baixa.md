@@ -1,4 +1,4 @@
-﻿---
+---
 title: "AC do Logan 1.0 turbo perde eficiência | Hachiroku"
 description: "O ar-condicionado do Renault Logan 1.0 turbo Energy perde eficiência a plena carga porque o compressor consome parte da potência limitada do motor. Saiba identificar o que é comportamento normal, o que é defeito e quando agir."
 entidade:
@@ -77,8 +77,6 @@ fontes:
   - { titulo: "Por que o ar-condicionado do seu Renault está falhando (Opinautos BR)", url: "https://www.opinautos.com.br/br/renault/logan/guias/falhas-do-ar-condicionado" }
   - { titulo: "Renault Logan 1.0 Turbo: avaliação completa (Quatro Rodas)", url: "https://quatrorodas.abril.com.br/testes/renault-logan-10-turbo-test-drive/" }
 relacionados:
-  - titulo: "Motor 1.0 turbo Energy do Logan: barulho a frio e o que verificar"
-    url: "/problemas/renault/logan/motor-tce-barulho-frio/"
   - titulo: "Ar-condicionado do Kwid que não gela: gás, compressor e o que verificar"
     url: "/problemas/renault/kwid/ar-condicionado-nao-gela/"
 draft: false

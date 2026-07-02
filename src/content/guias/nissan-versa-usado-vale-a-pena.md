@@ -269,4 +269,4 @@ Para quem prioriza custo de manutenção e peças baratas, o Cronos leva vantage
 
 ---
 
-*Precisa estimar o custo de um reparo antes de fechar negócio? Use o [Estimador de Custo de Reparo](/guia-de-compra/jornada/estimador-custo-reparo//) do Hachiroku e veja quanto sai na sua região.*
+*Precisa estimar o custo de um reparo antes de fechar negócio? Use o [Estimador de Custo de Reparo](/guia-de-compra/jornada/estimador-custo-reparo/) do Hachiroku e veja quanto sai na sua região.*

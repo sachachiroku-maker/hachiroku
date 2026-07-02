@@ -146,7 +146,10 @@ const jsonld = {
     /* Card de marca: logo à esquerda + info à direita */
     .marca-card { display: flex; flex-direction: row; align-items: center; gap: var(--space-4); }
     .marca-logo-wrap { flex: 0 0 auto; width: 64px; height: 48px; display: flex; align-items: center; justify-content: center; }
-    .marca-logo { display: block; width: 64px; height: 48px; object-fit: contain; }
+    .marca-logo { display: block; width: 64px; height: 48px; object-fit: contain; filter: grayscale(1); opacity: 0.85; transition: filter .15s ease, opacity .15s ease; }
+    .marca-card:hover .marca-logo { filter: none; opacity: 1; }
+    :global([data-theme="dark"]) .marca-logo { filter: grayscale(1) invert(1) brightness(1.1); }
+    :global([data-theme="dark"]) .marca-card:hover .marca-logo { filter: grayscale(1) invert(1) brightness(1.35); opacity: 1; }
     .marca-inicial { font-family: var(--font-display); font-weight: var(--weight-extrabold); font-size: var(--text-2xl); color: var(--text-faint); line-height: 1; }
     .marca-info { min-width: 0; }
     .marca-info h2 { margin: 0 0 2px; }

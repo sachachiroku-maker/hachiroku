@@ -400,6 +400,31 @@
       "source": "/ficha-tecnica/mitsubishi/outlander-3-0-v6/:path*",
       "destination": "/ficha-tecnica/mitsubishi/outlander-v6-3-0/",
       "permanent": true
+    },
+    {
+      "source": "/problemas/renault/logan/motor-tce-consumo-oleo/:path*",
+      "destination": "/problemas/renault/logan/",
+      "permanent": true
+    },
+    {
+      "source": "/problemas/renault/logan/motor-tce-barulho-frio/:path*",
+      "destination": "/problemas/renault/logan/",
+      "permanent": true
+    },
+    {
+      "source": "/problemas/renault/logan/cambio-cvt-solavanco-utilitario/:path*",
+      "destination": "/problemas/renault/logan/",
+      "permanent": true
+    },
+    {
+      "source": "/problemas/ram/rampage/consumo-combustivel-alto/:path*",
+      "destination": "/problemas/ram/rampage/",
+      "permanent": true
+    },
+    {
+      "source": "/problemas/ram/rampage/transmissao-automatica-solavanco/:path*",
+      "destination": "/problemas/ram/rampage/",
+      "permanent": true
     }
   ],
   "headers": [

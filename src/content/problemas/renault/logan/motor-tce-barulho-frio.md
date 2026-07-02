@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Motor 1.0 TCe do Logan com barulho a frio"
 description: "O motor 1.0 TCe de 3 cilindros do Renault Logan pode emitir um ruído metálico nos primeiros segundos após a partida a frio. Entenda por que esse barulho ocorre, quando é normal e quando indica problema real no turbo ou nos componentes internos do motor."
 entidade:
@@ -60,7 +60,7 @@ fontes:
   - { titulo: "1.0 TCe 100 cv Renault. Durabilidade? (Fórum Motorguia Online)", url: "https://forum.motorguia.net/forum/motorguia-f%C3%B3rum/boxes/14222494-1-0-tce-100-cv-renault-durabilidade" }
   - { titulo: "Renault Logan: do que os proprietários mais reclamam na internet (AUTOO)", url: "https://www.autoo.com.br/renault-logan-do-que-os-proprietarios-mais-reclamam-na-internet/" }
   - { titulo: "Avaliação Renault Logan CVT Iconic: Bom por um lado, ruim pelo outro (Autos Segredos)", url: "https://www.autossegredos.com.br/avaliacao/avaliacao-renault-logan-cvt/" }
-draft: false
+draft: true
 ---
 
 O **motor 1.0 TCe do Renault Logan** pertence à família H4D de três cilindros com turbo e injeção direta. É o mesmo motor do Sandero TCe, e compartilha com ele uma característica que inicialmente preocupa muitos proprietários: um **ruído metálico nos primeiros segundos após a partida a frio**.

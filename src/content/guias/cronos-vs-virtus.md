@@ -317,4 +317,4 @@ O Fiat Cronos e o Volkswagen Virtus são os dois melhores sedãs compactos do me
 
 Se o seu uso for intenso, o orçamento de manutenção for prioridade e você quiser guardar o carro por muitos anos, o **Cronos Drive ou GranLuce** entrega mais por menos. Se você compra pensando em revenda, valoriza o interior mais refinado e pode pagar R$ 15.000 a R$ 20.000 a mais na entrada, o **Virtus Comfortline ou Highline** é o melhor negócio.
 
-Antes de bater o martelo, simule o custo total de propriedade nos nossos guias de [Estimador de Custo de Reparo](/guia-de-compra/jornada/estimador-custo-reparo//) e compare também com o [Onix vs HB20](/guia-de-compra/comparativos/onix-vs-hb20//) se a opção por um hatch ainda estiver na mesa.
+Antes de bater o martelo, simule o custo total de propriedade nos nossos guias de [Estimador de Custo de Reparo](/guia-de-compra/jornada/estimador-custo-reparo/) e compare também com o [Onix vs HB20](/guia-de-compra/comparativos/onix-vs-hb20/) se a opção por um hatch ainda estiver na mesa.

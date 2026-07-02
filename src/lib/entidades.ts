@@ -30,7 +30,7 @@ export const ENTIDADES: Entidade[] = [
     titulo: 'Motor 1.3 turbo flex T270 (GSE): carros, defeitos e cuidados',
     seoTitle: 'Motor T270 turbo: defeitos e cuidados',
     resumo: 'O motor T270, também chamado T4, é um 1.3 turbo de quatro cilindros desenvolvido pela Stellantis para o mercado sul-americano. Equipado com corrente de distribuição em vez de correia, ele dispensa troca periódica desse componente desde que o óleo seja renovado em dia. Presente no Fiat Argo, Cronos, Pulse e nos Jeep Renegade e Compass de versões de entrada, o T270 opera com sobrealimentação a baixas rotações, aumentando o estresse térmico. O sistema de arrefecimento merece atenção especial: a troca do líquido refrigerante deve ocorrer a cada 40.000 km ou dois anos, usando fluido OAT rosa especificado pela fábrica. A troca de óleo 5W-30 ACEA C3 a cada 10.000 km é crítica para preservar os anéis e a corrente de distribuição dentro dos parâmetros de vida útil projetados.',
-    modelos: ['jeep/renegade', 'jeep/compass', 'fiat/toro', 'fiat/fastback'],
+    modelos: ['jeep/renegade', 'jeep/compass', 'jeep/commander', 'fiat/toro', 'fiat/fastback'],
     sameAs: 'https://en.wikipedia.org/wiki/Stellantis_Global_Small_Engine',
   },
   {
@@ -53,7 +53,7 @@ export const ENTIDADES: Entidade[] = [
     slug: 'css-prime-turbo', tipo: 'motor', nome: 'Motor Turbo CSS Prime',
     titulo: 'Motor 1.0 e 1.2 turbo CSS Prime (GM): carros e defeitos',
     seoTitle: 'Motor CSS Prime Turbo: carros e defeitos',
-    resumo: 'O motor 1.0 Turbo da família Gen III, comercialmente chamado de Prime Turbo pela General Motors, utiliza correia dentada de distribuição banhada a óleo. Equipa o Onix Plus, Tracker, Montana e versões do Cruze Sport6. A característica mais crítica é a correia banhada a óleo: diferente das correias secas convencionais, ela não pode ser inspecionada visualmente sem desmontagem específica. A troca deve ocorrer a cada 100.000 km conforme especificação GM, mas qualquer queda de nível de óleo, uso de produto não homologado ou contaminação por agente externo acelera a degradação da correia e dos tensionadores. Fragmentos de correia dentro do motor podem obstruir a bomba de óleo e causar falha catastrófica. O óleo especificado é o 0W-20 GM dexos2, com intervalo de troca a cada 10.000 km, e o monitoramento quinzenal do nível é fundamental.',
+    resumo: 'O motor 1.0 Turbo da família CSS Prime, chamado comercialmente de Prime Turbo pela General Motors, utiliza correia dentada de distribuição banhada a óleo. Equipa o Onix, o Onix Plus, o Tracker e, na variação 1.2, a Montana. A característica mais crítica é a correia banhada a óleo: diferente das correias secas convencionais, ela não pode ser inspecionada visualmente sem desmontagem específica. A GM projeta a correia para 240.000 km ou 15 anos, mas essa vida útil depende integralmente do lubrificante: qualquer queda de nível, uso de óleo não homologado ou intervalo estourado acelera a degradação da correia e dos tensionadores. Fragmentos de correia dentro do motor podem obstruir o pescador da bomba de óleo e causar falha catastrófica. O óleo especificado é o de aprovação Dexos 1 Gen 3 (5W-30 ou 0W-20 conforme versão e ano), com troca a cada 10.000 km ou 12 meses, e o monitoramento quinzenal do nível é fundamental.',
     modelos: ['chevrolet/onix', 'chevrolet/tracker', 'chevrolet/montana'],
   },
   {
@@ -103,6 +103,38 @@ export const ENTIDADES: Entidade[] = [
     resumo: 'O 1.5 da família L é o motor central da Honda no Brasil: aspirado i-VTEC no City, Fit e WR-V, e turbo com injeção direta no HR-V e no Civic de gerações recentes. O aspirado é referência de durabilidade, com corrente de comando e consumo de óleo baixo quando a manutenção está em dia. Na versão turbo, o fenômeno mais relatado é a diluição de óleo por combustível em trajetos curtos com motor frio, que eleva o nível na vareta e reduz a capacidade de lubrificação — a checagem periódica do nível e do odor do óleo é diagnóstico simples e eficaz. O acúmulo de carbono nas válvulas de admissão também acompanha a injeção direta do turbo. Óleo 0W-20 conforme especificação Honda, trocado a cada 10.000 km ou 12 meses; em uso urbano severo com o turbo, considerar intervalo menor.',
     modelos: ['honda/city', 'honda/fit', 'honda/wr-v', 'honda/hr-v', 'honda/civic'],
     sameAs: 'https://en.wikipedia.org/wiki/Honda_L_engine',
+  },
+  {
+    slug: 'sce-renault', tipo: 'motor', nome: 'Motor SCe (Renault)',
+    titulo: 'Motor SCe 1.0 e 1.6 (Renault): carros, defeitos e manutenção',
+    seoTitle: 'Motor SCe Renault: defeitos e cuidados',
+    resumo: 'A sigla SCe (Smart Control efficiency) identifica os motores aspirados da Renault no Brasil: o 1.0 de três cilindros do Kwid, Sandero e Logan, e o 1.6 de quatro cilindros que equipou Sandero, Logan, Duster e Oroch. Ambos usam corrente de comando, o que dispensa a troca periódica de correia dentada, mas cobra óleo em dia para preservar tensionadores. No 1.0 de três cilindros, o consumo de óleo entre trocas é o ponto de atenção mais relatado por proprietários, especialmente em exemplares com mais de 60.000 km: o nível deve ser conferido a cada 1.000 km, e a queda constante pede inspeção de anéis e retentores. A vibração natural do ciclo de três cilindros aumenta quando coxins envelhecem. Óleo conforme especificação Renault, trocado a cada 10.000 km ou 12 meses; em uso severo urbano, considerar metade do intervalo.',
+    modelos: ['renault/kwid', 'renault/sandero', 'renault/logan', 'renault/oroch'],
+    sameAs: 'https://en.wikipedia.org/wiki/Renault_B-Type_engine',
+  },
+  {
+    slug: 'turbodiesel-picapes', tipo: 'tecnologia', nome: 'Turbodiesel de picape',
+    titulo: 'Turbodiesel de picape: DPF, EGR, Arla 32 e os cuidados que evitam oficina',
+    seoTitle: 'Turbodiesel de picape: DPF, EGR e Arla',
+    resumo: 'As picapes médias vendidas no Brasil usam motores turbodiesel com injeção direta common rail de alta pressão e sistemas de controle de emissões que mudaram a manutenção da categoria. O filtro de partículas (DPF) acumula fuligem e depende de regenerações periódicas que só se completam em rodagem sustentada: uso urbano exclusivo entope o filtro e liga o alerta no painel. A válvula EGR recircula gases de escape e carboniza com o tempo, causando perda de potência e marcha lenta irregular. Nos modelos com SCR, o Arla 32 é consumível obrigatório: rodar sem ele limita a potência por imposição legal. O combustível S10 é mandatório, e o filtro de combustível é o item de manutenção mais crítico do sistema, protegendo bicos e bomba de alta pressão que custam caro. Óleo com a especificação exata do fabricante e drenagem do filtro separador de água completam a rotina que mantém esses motores dentro da vida útil projetada.',
+    modelos: ['toyota/hilux', 'toyota/sw4', 'chevrolet/s10', 'ford/ranger', 'volkswagen/amarok', 'mitsubishi/l200-triton', 'nissan/frontier'],
+    sameAs: 'https://pt.wikipedia.org/wiki/Motor_diesel',
+  },
+  {
+    slug: 'turbocompressor', tipo: 'tecnologia', nome: 'Turbocompressor',
+    titulo: 'Turbocompressor: sintomas de falha, vida útil e como não queimar o turbo',
+    seoTitle: 'Turbocompressor: sintomas e vida útil',
+    resumo: 'O turbocompressor virou padrão nos motores de baixa cilindrada vendidos no Brasil desde 2020, e a primeira grande onda dessa frota está entrando na faixa de quilometragem em que o componente cobra a manutenção que recebeu. O turbo gira a rotações altíssimas lubrificado pelo mesmo óleo do motor: óleo degradado, nível baixo ou especificação errada coquificam o lubrificante no eixo e criam folga entre eixo e mancais. Os sintomas aparecem em estágios: apito ou assobio em aceleração, perda de pressão e potência, fumaça azulada no escapamento e consumo de óleo crescente. Desligar o motor imediatamente após rodagem intensa, sem tempo de resfriamento, encurta a vida do conjunto. A regra de preservação é simples e barata: óleo com a aprovação exata do fabricante, trocado no intervalo correto, e alguns instantes de marcha lenta após uso severo. O reparo de um turbo com folga custa caro; a prevenção custa uma troca de óleo em dia.',
+    modelos: ['chevrolet/onix', 'chevrolet/tracker', 'chevrolet/montana', 'chevrolet/cruze', 'volkswagen/polo-tsi', 'volkswagen/t-cross', 'volkswagen/nivus', 'volkswagen/virtus', 'volkswagen/taos', 'volkswagen/jetta', 'volkswagen/tiguan-allspace', 'jeep/renegade', 'jeep/compass', 'jeep/commander', 'fiat/toro', 'fiat/fastback', 'fiat/pulse', 'hyundai/creta', 'hyundai/tucson', 'honda/hr-v', 'honda/civic', 'gwm/haval-h6', 'ford/territory', 'peugeot/2008', 'peugeot/3008', 'citroen/c4', 'renault/captur', 'renault/duster', 'mitsubishi/eclipse-cross', 'caoa-chery/tiggo-5x', 'caoa-chery/tiggo-8-pro'],
+    sameAs: 'https://pt.wikipedia.org/wiki/Turbocompressor',
+  },
+  {
+    slug: 'injecao-direta', tipo: 'tecnologia', nome: 'Injeção direta (GDI/TSI/T-GDI)',
+    titulo: 'Injeção direta de gasolina: carbonização de válvulas e como conviver com ela',
+    seoTitle: 'Injeção direta: carbonização e cuidados',
+    resumo: 'Na injeção direta, o combustível é pulverizado dentro da câmara de combustão em alta pressão, o que melhora eficiência e potência. O efeito colateral é conhecido: sem o fluxo de gasolina lavando as válvulas de admissão, os vapores de óleo do respiro do motor formam depósitos de carbono nessas válvulas ao longo do tempo. Os sintomas aparecem de forma gradual em uso urbano severo: marcha lenta irregular, falhas de ignição a frio, perda de potência e aumento de consumo. A limpeza por jateamento com granulado de casca de noz é o procedimento corretivo consagrado, tipicamente considerado entre 60.000 km e 80.000 km quando há sintomas. A prevenção passa por óleo de baixa volatilidade na especificação exata do fabricante, trocas em dia, combustível de procedência e viagens periódicas em rodovia que elevam a temperatura de trabalho. O sistema de alta pressão de combustível, com bomba mecânica e bicos na câmara, também é sensível a combustível ruim.',
+    modelos: ['volkswagen/polo-tsi', 'volkswagen/t-cross', 'volkswagen/nivus', 'volkswagen/virtus', 'volkswagen/taos', 'volkswagen/jetta', 'volkswagen/tiguan-allspace', 'hyundai/creta', 'hyundai/tucson', 'honda/hr-v', 'honda/civic', 'fiat/pulse', 'fiat/fastback', 'gwm/haval-h6', 'peugeot/208', 'peugeot/2008', 'peugeot/3008', 'citroen/c4', 'caoa-chery/tiggo-5x', 'caoa-chery/tiggo-8-pro'],
+    sameAs: 'https://en.wikipedia.org/wiki/Gasoline_direct_injection',
   },
   // ---------- TECNOLOGIAS ----------
   {

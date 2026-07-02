@@ -309,7 +309,7 @@ Independentemente do modelo escolhido, antes de fechar o negócio:
 3. No Yaris: verifique a cor e o nível do fluido da CVT (deve ser vermelho-claro, nunca marrom ou com odor de queimado)
 4. No HB20 Turbo: teste a fundo fria e quente para ouvir ruído de corrente do comando
 5. Verifique se há atualizações de software pendentes para o câmbio (concessionária faz gratuitamente mesmo fora da garantia em muitos casos)
-6. Use a [ferramenta de estimador de custo de reparo](/guia-de-compra/jornada/estimador-custo-reparo//) do Hachiroku para calcular o impacto de qualquer defeito encontrado na vistoria
+6. Use a [ferramenta de estimador de custo de reparo](/guia-de-compra/jornada/estimador-custo-reparo/) do Hachiroku para calcular o impacto de qualquer defeito encontrado na vistoria
 
 ---
 

@@ -278,9 +278,9 @@ O Duster sai entre 25% e 35% mais barato na manutenção anual em comparação a
 
 Independente do modelo escolhido, nunca compre um SUV usado sem uma vistoria completa. Os principais pontos estão no topo deste guia. Se não tiver confiança para avaliar sozinho, leve a um mecânico de confiança antes de fechar o negócio.
 
-Para estimar o custo de qualquer reparo identificado na vistoria, use o nosso [Estimador de Custo de Reparo](/guia-de-compra/jornada/estimador-custo-reparo//) e veja se ainda vale a pena fechar o negócio com aquele veículo.
+Para estimar o custo de qualquer reparo identificado na vistoria, use o nosso [Estimador de Custo de Reparo](/guia-de-compra/jornada/estimador-custo-reparo/) e veja se ainda vale a pena fechar o negócio com aquele veículo.
 
-Se ainda tem dúvida se o carro que encontrou está em condições de rodar, leia nosso guia [Posso Continuar Dirigindo?](/guia-de-compra/jornada/posso-continuar-dirigindo//) para entender os sinais de alerta mais sérios.
+Se ainda tem dúvida se o carro que encontrou está em condições de rodar, leia nosso guia [Posso Continuar Dirigindo?](/guia-de-compra/jornada/posso-continuar-dirigindo/) para entender os sinais de alerta mais sérios.
 
 ---
 

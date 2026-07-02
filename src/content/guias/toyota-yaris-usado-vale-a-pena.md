@@ -271,4 +271,4 @@ Com histórico em dia e inspeção feita, o Yaris é a compra certa no segmento.
 
 ---
 
-**Pronto para inspecionar o Yaris antes de comprar?** Use o [Checklist Completo de Vistoria de Carro Usado](/guia-de-compra/checklist-vistoria-carro-usado/) para não deixar nenhum ponto passar. Se tiver dúvidas sobre quanto vai custar manter o carro, acesse o [Estimador de Custo de Reparo](/guia-de-compra/jornada/estimador-custo-reparo//) e simule sua realidade antes de fechar negócio.
+**Pronto para inspecionar o Yaris antes de comprar?** Use o [Checklist Completo de Vistoria de Carro Usado](/guia-de-compra/checklist-vistoria-carro-usado/) para não deixar nenhum ponto passar. Se tiver dúvidas sobre quanto vai custar manter o carro, acesse o [Estimador de Custo de Reparo](/guia-de-compra/jornada/estimador-custo-reparo/) e simule sua realidade antes de fechar negócio.

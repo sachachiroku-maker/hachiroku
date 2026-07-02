@@ -76,7 +76,7 @@ fontes:
 relacionados:
   - { titulo: "Motor 1.0 TCe do Logan com barulho a frio: causa e diagnóstico", url: "/problemas/renault/logan/motor-tce-barulho-frio/" }
   - { titulo: "Câmbio CVT do Logan com solavanco: causas e cuidados", url: "/problemas/renault/logan/cambio-cvt-solavanco-utilitario/" }
-draft: false
+draft: true
 ---
 
 O **consumo de óleo no motor 1.0 turbo TCe do Renault Logan** é um defeito documentado que se manifesta com maior frequência após 60.000 km, causado pelo desgaste progressivo dos anéis de pistão e dos retentores de válvula. O problema é identificável pela queda de nível na vareta entre abastecimentos e, em estágios mais avançados, por fumaça azulada no escapamento durante a aceleração ou a desaceleração. A ação correta começa pela medição objetiva do consumo real e pelo teste de compressão antes de qualquer decisão de retífica.

@@ -166,6 +166,12 @@ export default defineConfig({
     '/problemas/honda/wr-v/cambio-cvt-patinacao/': { destination: '/problemas/honda/wr-v/cambio-cvt-patinando/', status: 301 },
     '/problemas/honda/wr-v/cambio-cvt-solavanco/': { destination: '/problemas/honda/wr-v/cambio-cvt-patinando/', status: 301 },
     '/ficha-tecnica/mitsubishi/outlander-3-0-v6/': { destination: '/ficha-tecnica/mitsubishi/outlander-v6-3-0/', status: 301 },
+    // Despublicados por fact-check (motor alucinado): Logan TCe, Rampage 1.3 — 2026-07-02
+    '/problemas/renault/logan/motor-tce-consumo-oleo/': { destination: '/problemas/renault/logan/', status: 301 },
+    '/problemas/renault/logan/motor-tce-barulho-frio/': { destination: '/problemas/renault/logan/', status: 301 },
+    '/problemas/renault/logan/cambio-cvt-solavanco-utilitario/': { destination: '/problemas/renault/logan/', status: 301 },
+    '/problemas/ram/rampage/consumo-combustivel-alto/': { destination: '/problemas/ram/rampage/', status: 301 },
+    '/problemas/ram/rampage/transmissao-automatica-solavanco/': { destination: '/problemas/ram/rampage/', status: 301 },
   },
   build: {
     inlineStylesheets: 'auto',

@@ -260,7 +260,7 @@ O Ka 1.5 com câmbio PowerShift é uma armadilha financeira na maioria dos casos
 
 Antes de fechar qualquer negócio com um Ka, use o checklist deste guia, solicite o histórico de manutenção e leve a um mecânico de confiança especializado em Ford. Uma vistoria prévia de R$ 150-250 pode evitar um prejuízo de R$ 5.000.
 
-Quer comparar com outras opções antes de decidir? Veja o guia completo do [Onix Usado Vale a Pena](/guia-de-compra/usados/onix-usado-vale-a-pena//) e o [HB20 Usado Vale a Pena](/guia-de-compra/usados/hb20-usado-vale-a-pena//) para ter o panorama completo do mercado de populares usados em 2026.
+Quer comparar com outras opções antes de decidir? Veja o guia completo do [Onix Usado Vale a Pena](/guia-de-compra/usados/onix-usado-vale-a-pena/) e o [HB20 Usado Vale a Pena](/guia-de-compra/usados/hb20-usado-vale-a-pena/) para ter o panorama completo do mercado de populares usados em 2026.
 
 ---
 

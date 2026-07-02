@@ -27,8 +27,6 @@ faq:
   - pergunta: "Qual o custo de reparo do turbo da RAM Rampage?"
     resposta: "Limpeza de corpo de borboleta: R$ 100–R$ 180. Mangueiras de pressurização (kit): R$ 350–R$ 600. Turbo recondicionado T270: R$ 1.800–R$ 3.200. Dentro da garantia de 3 anos Stellantis: sem custo."
 relacionados:
-  - titulo: "RAM Rampage: consumo alto de combustível"
-    url: "/problemas/ram/rampage/consumo-combustivel-alto/"
   - titulo: "Motor 1.0 turbo: durabilidade real"
     url: "/tecnico/motor-1-0-turbo-durabilidade/"
   - titulo: "Ficha técnica RAM Rampage"

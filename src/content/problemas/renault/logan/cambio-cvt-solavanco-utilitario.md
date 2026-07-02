@@ -1,4 +1,4 @@
-﻿---
+---
 title: "CVT do Logan no uso comercial: desgaste, fluido e custo de"
 description: "O câmbio CVT Jatco X-Tronic do Renault Logan sofre desgaste acelerado quando usado em táxi, aplicativo ou entrega urbana. Entenda a diferença de impacto entre uso particular e comercial, o fluido correto, os sintomas de desgaste e o custo da revisão do CVT."
 entidade:
@@ -58,7 +58,7 @@ fontes:
   - { titulo: "1.0 TCe 100 cv Renault. Durabilidade? (Fórum Motorguia Online)", url: "https://forum.motorguia.net/forum/motorguia-f%C3%B3rum/boxes/14222494-1-0-tce-100-cv-renault-durabilidade" }
   - { titulo: "Renault Logan: do que os proprietários mais reclamam na internet (AUTOO)", url: "https://www.autoo.com.br/renault-logan-do-que-os-proprietarios-mais-reclamam-na-internet/" }
   - { titulo: "Avaliação Renault Logan CVT Iconic: Bom por um lado, ruim pelo outro (Autos Segredos)", url: "https://www.autossegredos.com.br/avaliacao/avaliacao-renault-logan-cvt/" }
-draft: false
+draft: true
 ---
 
 O **câmbio CVT Jatco X-Tronic do Renault Logan** é uma transmissão continuamente variável que funciona com polias metálicas de diâmetro variável interligadas por uma correia metálica composta por centenas de pequenas chapas empilhadas. É um sistema diferente em conceito de um câmbio automático convencional de torque converter e diferente de um câmbio de dupla embreagem como o DSG.

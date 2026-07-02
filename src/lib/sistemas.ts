@@ -17,6 +17,18 @@ export interface Sistema {
 
 export const SISTEMAS: Sistema[] = [
   {
+    slug: 'bateria-e-recarga-ev', nome: 'Bateria e recarga (elétricos)',
+    titulo: 'Problemas de bateria, autonomia e recarga em carros elétricos e híbridos',
+    seoTitle: 'Bateria e recarga de elétricos: problemas',
+    resumo: 'Em veículos elétricos e híbridos plug-in, a bateria de tração e o sistema de recarga concentram as dúvidas e os defeitos mais relatados pelos donos. A autonomia real é sempre menor que a de catálogo: os ciclos de homologação medem condições que não existem no trânsito brasileiro, e calor intenso, ar-condicionado e velocidade de rodovia reduzem o alcance de forma perceptível. A recarga depende de três elos: o carregador de bordo do veículo, o cabo ou wallbox e a rede elétrica da instalação. Carregamento em corrente alternada mais lento que o esperado costuma vir de limite do carregador de bordo ou de configuração de corrente na wallbox, não da bateria. Já a bateria de 12 volts, presente também nos elétricos, continua sendo a causa mais comum de falha geral: quando descarrega, o carro não liga nem destrava funções, mesmo com a bateria de tração cheia. Modos de proteção que limitam potência indicam anomalia térmica ou de célula e pedem leitura de códigos na assistência.',
+    faq: [
+      { pergunta: "Por que a autonomia real é menor que a anunciada?", resposta: "Os números de catálogo vêm de ciclos de homologação (CLTC, WLTP, PBEV) medidos em condições controladas. No uso brasileiro, com ar-condicionado, calor e velocidade de rodovia, a referência prática fica entre 70% e 85% do valor anunciado, dependendo do ciclo usado pelo fabricante." },
+      { pergunta: "Carregar todo dia até 100% faz mal à bateria?", resposta: "Para baterias LFP, os próprios fabricantes recomendam carga completa periódica para calibrar o indicador. Para químicas NMC, manter o uso diário entre 20% e 80% reduz o estresse das células e preserva a vida útil. Consulte a recomendação específica do manual do seu modelo." },
+      { pergunta: "O carro elétrico não liga: bateria de tração ou de 12V?", resposta: "Na grande maioria dos casos é a bateria de 12 volts, que alimenta a eletrônica de bordo e as travas. Se o painel não acende ou o carro não destrava, teste ou troque a 12V antes de suspeitar da bateria de tração, que raramente é a causa." },
+    ],
+    match: /autonomia|recarga|carregamento|carregador|wallbox|modo tartaruga|modo-tartaruga|kwh|célula|bateria de tração/i,
+  },
+  {
     slug: 'motor-e-lubrificacao', nome: 'Motor e lubrificação',
     titulo: 'Problemas de motor e óleo nos carros populares: causas e custos',
     seoTitle: 'Motor e óleo: causas e custos',
@@ -38,7 +50,7 @@ export const SISTEMAS: Sistema[] = [
       { pergunta: "Solavanco na troca de marcha é sempre sinal de câmbio com defeito?", resposta: "Não necessariamente. O primeiro passo é verificar o nível e a qualidade do fluido. Em câmbios CVT e automatizados, fluido baixo ou degradado é a causa mais comum de solavancos. Caso o problema persista após a troca do fluido, aí sim é necessário diagnóstico eletrônico com scanner." },
       { pergunta: "Vale a pena fazer revisão preventiva do câmbio automático?", resposta: "Sempre. Uma troca de fluido custa entre R$ 300 e R$ 800, enquanto a reconstrução de uma caixa automática pode passar de R$ 8.000. Manutenção preventiva dentro do intervalo é a melhor proteção contra falhas prematuras, especialmente em câmbios CVT e de dupla embreagem seca." },
     ],
-    match: /câmbio|cambio|cvt|dualogic|gsr|aisin|aq250|powershift|embreagem|trocador de calor|trocador-de-calor|marcha|transmiss/i,
+    match: /câmbio|cambio|cvt|dualogic|gsr|aisin|aq250|powershift|embreagem|trocador de calor|trocador-de-calor|marcha|transmiss|diferencial|4x4|transferência|transferencia|tração|tracao/i,
   },
   {
     slug: 'suspensao', nome: 'Suspensão',
@@ -86,7 +98,7 @@ export const SISTEMAS: Sistema[] = [
       { pergunta: "O que significa a luz de injeção acender e piscar durante a aceleração?", resposta: "Indica falha detectada pelo sistema de gerenciamento do motor (ECU). Luz fixa geralmente é uma falha menos grave; luz piscando sinaliza misfire ativo que pode estar danificando o catalisador. Em ambos os casos, use um scanner OBD2 para ler o código de falha antes de qualquer intervenção." },
       { pergunta: "A bateria do carro pode afetar o funcionamento eletrônico?", resposta: "Sim. Tensão instável na bateria causa leituras errôneas nos sensores e pode gerar falhas esporádicas em módulos de injeção, ABS e câmbio. Em veículos modernos com muitos sistemas conectados ao barramento CAN, uma bateria envelhecida é fonte de erros difíceis de rastrear." },
     ],
-    match: /bobina|vela|injeção|injecao|epc|luz-injecao|luz de injeção|sensor|módulo|modulo|bateria|start-stop|partida|alta pressão|alta-pressao|corpo de borboleta|marcha lenta/i,
+    match: /bobina|vela|injeção|injecao|epc|luz-injecao|luz de injeção|sensor|módulo|modulo|bateria|start-stop|partida|alta pressão|alta-pressao|corpo de borboleta|marcha lenta|multimídia|multimidia|carplay|android|connect|dilink|alternador|painel|ventilador/i,
   },
   {
     slug: 'arrefecimento', nome: 'Arrefecimento',

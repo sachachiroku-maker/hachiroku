@@ -234,8 +234,8 @@ Fora dessas condições, especialmente sem histórico do câmbio, o risco financ
 
 Se você está em dúvida entre o Kicks e o Creta usado, considere: o Creta tem menor risco de câmbio, mas o Kicks oferece mais espaço interno pelo mesmo preço. A escolha depende do quanto você está disposto a investir na vistoria e no histórico de manutenção antes de fechar negócio.
 
-Leia também nossa análise completa do [Hyundai Creta Usado](/guia-de-compra/usados/creta-usado-vale-a-pena//) e o comparativo [Tracker vs Creta](/guia-de-compra/comparativos/tracker-vs-creta//) para tomar a decisão com mais contexto.
+Leia também nossa análise completa do [Hyundai Creta Usado](/guia-de-compra/usados/creta-usado-vale-a-pena/) e o comparativo [Tracker vs Creta](/guia-de-compra/comparativos/tracker-vs-creta/) para tomar a decisão com mais contexto.
 
 ---
 
-**Pronto para fazer a vistoria?** Use nosso [estimador de custo de reparo](/guia-de-compra/jornada/estimador-custo-reparo//) para calcular o valor real da compra antes de negociar. Se ainda está na dúvida entre consertar seu atual ou trocar, veja também: [Consertar ou Trocar: Vale a Pena?](/guia-de-compra/consertar-ou-trocar-vale-a-pena/)
+**Pronto para fazer a vistoria?** Use nosso [estimador de custo de reparo](/guia-de-compra/jornada/estimador-custo-reparo/) para calcular o valor real da compra antes de negociar. Se ainda está na dúvida entre consertar seu atual ou trocar, veja também: [Consertar ou Trocar: Vale a Pena?](/guia-de-compra/consertar-ou-trocar-vale-a-pena/)

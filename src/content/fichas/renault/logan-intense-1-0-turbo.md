@@ -61,9 +61,6 @@ faq:
     resposta: "O Logan 3ª geração oferece 510 litros de porta-malas, um dos maiores da categoria sedã compacto, equiparável ao Volkswagen Jetta. O entre-eixos de 2.634 mm garante espaço traseiro superior ao de hatches da mesma plataforma."
   - pergunta: "Quando trocar o fluido do CVT do Logan?"
     resposta: "A Renault recomenda inspeção do fluido CVT a cada 60 mil km, mas mecânicos especializados indicam troca a cada 40 mil km para uso intenso e 60 mil km para uso particular. O fluido correto é o Renault CVT JWS 3320, e usar fluido genérico pode danificar as polias metálicas e a correia interna do Jatco X-Tronic."
-relacionados:
-  - { titulo: "Motor 1.0 TCe do Logan com barulho a frio: causa, diagnóstico e quando preocupar", url: "/problemas/renault/logan/motor-tce-barulho-frio/" }
-  - { titulo: "CVT do Logan no uso comercial: desgaste, fluido e custo de revisão", url: "/problemas/renault/logan/cambio-cvt-solavanco-utilitario/" }
 autor:
   nome: "Redacao Hachiroku"
 draft: false
