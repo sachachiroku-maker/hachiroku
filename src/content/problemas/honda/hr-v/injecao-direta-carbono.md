@@ -1,11 +1,11 @@
-﻿---
+---
 title: "Injeção direta do HR-V turbo: o carbono que rouba potência"
 description: "O motor 1.5 turbo do Honda HR-V usa injeção direta de gasolina (GDI), tecnologia que acumula carbono nas válvulas de admissão e tira potência com o tempo. Veja por que isso acontece, os sintomas de perda de força, o papel do combustível de qualidade e como prevenir a carbonização antes que ela vire reparo caro."
 entidade:
   marca: "Honda"
   modelo: "HR-V"
   motor: "1.5 VTEC Turbo (injeção direta)"
-  geracao: "3ª geração (2022 em diante)"
+  geracao: "2ª geração (2022-atual)"
 defeito: "acúmulo de carbono na injeção direta"
 kicker: "DEFEITO CRÔNICO"
 intencao: "Diagnóstico e alerta preventivo"

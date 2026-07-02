@@ -5,7 +5,7 @@ entidade:
   marca: "Honda"
   modelo: "HR-V"
   motor: "1.5 VTEC Turbo (L15C)"
-  geracao: "3ª geração (2022–atual)"
+  geracao: "2ª geração (2022-atual)"
 defeito: "consumo de óleo no motor 1.5 Turbo"
 kicker: "PROBLEMA DOCUMENTADO"
 intencao: "Diagnóstico"

@@ -412,11 +412,6 @@
       "permanent": true
     },
     {
-      "source": "/problemas/renault/logan/cambio-cvt-solavanco-utilitario/:path*",
-      "destination": "/problemas/renault/logan/",
-      "permanent": true
-    },
-    {
       "source": "/problemas/ram/rampage/consumo-combustivel-alto/:path*",
       "destination": "/problemas/ram/rampage/",
       "permanent": true

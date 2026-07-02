@@ -4,7 +4,7 @@ description: "O câmbio CVT Jatco X-Tronic do Renault Logan sofre desgaste acele
 entidade:
   marca: "Renault"
   modelo: "Logan"
-  motor: "1.0 TCe Turbo (H4D)"
+  motor: "1.6 SCe 16V (CVT X-Tronic)"
   geracao: "3ª geração (2021 em diante)"
 defeito: "desgaste acelerado do câmbio CVT em uso comercial"
 kicker: "DEFEITO CRÔNICO"
@@ -55,10 +55,9 @@ pontosChave:
   - "Sintomas de desgaste: solavanco ao partir, perda de tração em subidas, ruído de chiado em aceleração e variações de rotação do motor sem variação proporcional de velocidade."
   - "Custo: flush preventivo de R$ 800 a R$ 1.500. Revisão das polias: R$ 3.000 a R$ 6.000. Substituição do câmbio: R$ 6.000 a R$ 12.000."
 fontes:
-  - { titulo: "1.0 TCe 100 cv Renault. Durabilidade? (Fórum Motorguia Online)", url: "https://forum.motorguia.net/forum/motorguia-f%C3%B3rum/boxes/14222494-1-0-tce-100-cv-renault-durabilidade" }
   - { titulo: "Renault Logan: do que os proprietários mais reclamam na internet (AUTOO)", url: "https://www.autoo.com.br/renault-logan-do-que-os-proprietarios-mais-reclamam-na-internet/" }
   - { titulo: "Avaliação Renault Logan CVT Iconic: Bom por um lado, ruim pelo outro (Autos Segredos)", url: "https://www.autossegredos.com.br/avaliacao/avaliacao-renault-logan-cvt/" }
-draft: true
+draft: false
 ---
 
 O **câmbio CVT Jatco X-Tronic do Renault Logan** é uma transmissão continuamente variável que funciona com polias metálicas de diâmetro variável interligadas por uma correia metálica composta por centenas de pequenas chapas empilhadas. É um sistema diferente em conceito de um câmbio automático convencional de torque converter e diferente de um câmbio de dupla embreagem como o DSG.

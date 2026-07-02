@@ -1,10 +1,10 @@
-﻿---
+---
 title: "Marcha lenta irregular no VW Gol (motor EA111)"
 description: "A marcha lenta irregular no Volkswagen Gol com motor EA111 (aquela oscilação de rotação parado, o carro que quase morre no ponto e às vezes apaga ao tirar o pé do acelerador) quase sempre nasce de borra carbonizada no corpo de borboleta. Veja as causas reais, os sintomas, se é grave, quanto custa resolver, o papel do reaprendizado via scanner e como prevenir, com os outros defeitos crônicos do EA111."
 entidade:
   marca: "Volkswagen"
   modelo: "Gol"
-  motor: "EA111 1.0 / 1.6"
+  motor: "EA111 (G5/G6) / EA211 (G7)"
   geracao: "—"
 defeito: "marcha lenta irregular"
 kicker: "DEFEITO CRÔNICO"

@@ -5,7 +5,7 @@ entidade:
   marca: "Honda"
   modelo: "HR-V"
   motor: "L15B 1.5T"
-  geracao: "2022-atual"
+  geracao: "2ª geração (2022-atual)"
 defeito: "Barulho no câmbio CVT — ranger e chiado"
 kicker: "PROBLEMA DOCUMENTADO · HONDA HR-V"
 entidadesEssenciais:

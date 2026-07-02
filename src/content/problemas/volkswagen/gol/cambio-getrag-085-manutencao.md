@@ -4,7 +4,7 @@ description: "Tudo sobre Câmbio Getrag 085 — manutenção e problemas comuns 
 entidade:
   marca: "Volkswagen"
   modelo: "Gol"
-  motor: "EA111 1.0 / 1.6 MSI"
+  motor: "EA111 (G5/G6) / EA211 (G7)"
   geracao: "2012-atual"
 defeito: "Câmbio Getrag 085 — manutenção e problemas comuns"
 kicker: "PROBLEMA DOCUMENTADO · VW GOL"

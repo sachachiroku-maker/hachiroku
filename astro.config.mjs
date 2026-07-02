@@ -169,7 +169,6 @@ export default defineConfig({
     // Despublicados por fact-check (motor alucinado): Logan TCe, Rampage 1.3 — 2026-07-02
     '/problemas/renault/logan/motor-tce-consumo-oleo/': { destination: '/problemas/renault/logan/', status: 301 },
     '/problemas/renault/logan/motor-tce-barulho-frio/': { destination: '/problemas/renault/logan/', status: 301 },
-    '/problemas/renault/logan/cambio-cvt-solavanco-utilitario/': { destination: '/problemas/renault/logan/', status: 301 },
     '/problemas/ram/rampage/consumo-combustivel-alto/': { destination: '/problemas/ram/rampage/', status: 301 },
     '/problemas/ram/rampage/transmissao-automatica-solavanco/': { destination: '/problemas/ram/rampage/', status: 301 },
     // Fact-check motores rodada 2 (2026-07-02): corpos sobre motor inexistente + renames Spin
@@ -184,6 +183,11 @@ export default defineConfig({
     '/problemas/chevrolet/spin/superaquecimento-etorq/': { destination: '/problemas/chevrolet/spin/superaquecimento-motor-1-8/', status: 301 },
     '/problemas/nissan/kicks/ar-condicionado-fraco/': { destination: '/problemas/nissan/kicks/', status: 301 },
     '/problemas/hyundai/creta/transmissao-cvt-solavanco/': { destination: '/problemas/hyundai/creta/', status: 301 },
+    // Paridade com vercel.json (regras que só existiam no edge)
+    '/problemas/honda/hrv/':                   { destination: '/problemas/honda/hr-v/',              status: 301 },
+    '/problemas/volkswagen/tiguan/':           { destination: '/problemas/volkswagen/tiguan-allspace/', status: 301 },
+    '/problemas/volvo/':                       { destination: '/problemas/',                         status: 301 },
+    '/problemas/honda/civic/sistema-el%C3%A9trico-falha/': { destination: '/problemas/honda/civic/sistema-eletrico-falha/', status: 301 },
   },
   build: {
     inlineStylesheets: 'auto',

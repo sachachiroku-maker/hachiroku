@@ -1,10 +1,10 @@
-﻿---
+---
 title: "Tucho a frio no Gol EA111: o tec-tec da partida"
 description: "O barulho de tucho a frio no Volkswagen Gol com motor EA111 (aquele tec-tec metálico ao dar a partida) quase sempre começa no óleo errado. Veja as causas reais, os sintomas, se é grave, quanto custa resolver e como prevenir, com a especificação correta de óleo e os outros defeitos crônicos do EA111 (bobinas e corpo de borboleta)."
 entidade:
   marca: "Volkswagen"
   modelo: "Gol"
-  motor: "EA111"
+  motor: "EA111 1.0 / 1.6 (G5/G6, até 2016)"
   geracao: "—"
 defeito: "tucho a frio"
 kicker: "DEFEITO CRÔNICO"

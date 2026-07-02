@@ -1,10 +1,10 @@
-﻿---
+---
 title: "Bobina de ignição no VW Gol (motor EA111)"
 description: "A falha da bobina de ignição no Volkswagen Gol com motor EA111 é um defeito crônico: a carcaça trinca, a faísca se perde e o motor começa a falhar, trepidar e acender a luz de injeção. Veja os sintomas reais, por que a bobina dupla trinca, como testar com multímetro (resistência 4,8 a 6,5 kΩ), quanto custa trocar e como prevenir, sem cair na armadilha de trocar peça que não era o problema."
 entidade:
   marca: "Volkswagen"
   modelo: "Gol"
-  motor: "EA111"
+  motor: "EA111 (G5/G6) / EA211 (G7)"
   geracao: "—"
 defeito: "bobina de ignição"
 kicker: "DEFEITO CRÔNICO"
