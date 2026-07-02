@@ -181,6 +181,7 @@ export default defineConfig({
     '/problemas/honda/civic/sistema-el%C3%A9trico-falha/': { destination: '/problemas/honda/civic/sistema-eletrico-falha/', status: 301 },
     '/problemas/citroen/c4/cambio-eat8-solavanco/': { destination: '/problemas/citroen/c4/cambio-eat6-solavanco/', status: 301 },
     '/problemas/peugeot/3008/cambio-eat8-solavanco/': { destination: '/problemas/peugeot/3008/cambio-eat6-solavanco/', status: 301 },
+    '/ficha-tecnica/ram/rampage-rebel-1-3-t270/': { destination: '/ficha-tecnica/ram/rampage-rebel-2-2-turbodiesel/', status: 301 },
   },
   build: {
     inlineStylesheets: 'auto',

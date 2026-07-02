@@ -440,6 +440,11 @@
       "source": "/problemas/peugeot/3008/cambio-eat8-solavanco/:path*",
       "destination": "/problemas/peugeot/3008/cambio-eat6-solavanco/",
       "permanent": true
+    },
+    {
+      "source": "/ficha-tecnica/ram/rampage-rebel-1-3-t270/:path*",
+      "destination": "/ficha-tecnica/ram/rampage-rebel-2-2-turbodiesel/",
+      "permanent": true
     }
   ],
   "headers": [

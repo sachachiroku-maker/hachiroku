@@ -57,7 +57,7 @@ chassi:
 
 fonteDados: "Ficha técnica oficial da Stellantis Media (RAM Rampage 2.2 Turbodiesel Rebel), com dados de dimensões, motor, capacidades e desempenho confirmados; consumo pela referência do PBE Veicular. Números cruzados com CarrosnaWeb e FichaCompleta para a mesma versão. Observação: a Stellantis informa reboque de 400 kg sem freio para a versão flex/diesel; verifique sempre a capacidade homologada do seu ano-modelo no manual, pois valores de reboque com freio variam por configuração."
 autor:
-  nome: "Redacao Hachiroku"
+  nome: "Redação Hachiroku"
 pubDate: 2026-06-25
 updatedDate: 2026-07-02
 faq:
@@ -77,8 +77,6 @@ relacionados:
   - { titulo: "Rampage: solavanco no câmbio automático de 9 marchas", url: "/problemas/ram/rampage/transmissao-automatica-solavanco/" }
   - { titulo: "RAM Rampage: superaquecimento do motor", url: "/problemas/ram/rampage/superaquecimento-motor/" }
   - { titulo: "Ficha técnica Fiat Toro", url: "/ficha-tecnica/fiat/toro/" }
-autor:
-  nome: "Redacao Hachiroku"
 draft: false
 ---
 
