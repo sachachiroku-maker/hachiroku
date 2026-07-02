@@ -403,47 +403,17 @@
     },
     {
       "source": "/problemas/renault/logan/motor-tce-consumo-oleo/:path*",
-      "destination": "/problemas/renault/logan/",
+      "destination": "/problemas/renault/logan/motor-sce-consumo-oleo/",
       "permanent": true
     },
     {
       "source": "/problemas/renault/logan/motor-tce-barulho-frio/:path*",
-      "destination": "/problemas/renault/logan/",
-      "permanent": true
-    },
-    {
-      "source": "/problemas/ram/rampage/consumo-combustivel-alto/:path*",
-      "destination": "/problemas/ram/rampage/",
-      "permanent": true
-    },
-    {
-      "source": "/problemas/ram/rampage/transmissao-automatica-solavanco/:path*",
-      "destination": "/problemas/ram/rampage/",
+      "destination": "/problemas/renault/logan/motor-sce-barulho-frio/",
       "permanent": true
     },
     {
       "source": "/problemas/fiat/strada/motor-etorq-consumo-oleo/:path*",
       "destination": "/problemas/fiat/strada/motor-firefly-consumo-oleo/",
-      "permanent": true
-    },
-    {
-      "source": "/problemas/mitsubishi/outlander/consumo-combustivel-v6/:path*",
-      "destination": "/problemas/mitsubishi/outlander/",
-      "permanent": true
-    },
-    {
-      "source": "/problemas/mitsubishi/outlander/cambio-cvt-superaquecimento/:path*",
-      "destination": "/problemas/mitsubishi/outlander/",
-      "permanent": true
-    },
-    {
-      "source": "/problemas/peugeot/208/consumo-oleo-puretech/:path*",
-      "destination": "/problemas/peugeot/208/",
-      "permanent": true
-    },
-    {
-      "source": "/problemas/citroen/c3/consumo-oleo-puretech/:path*",
-      "destination": "/problemas/citroen/c3/",
       "permanent": true
     },
     {
@@ -458,7 +428,17 @@
     },
     {
       "source": "/problemas/hyundai/creta/transmissao-cvt-solavanco/:path*",
-      "destination": "/problemas/hyundai/creta/",
+      "destination": "/problemas/hyundai/creta/cambio-7dct-trepidacao/",
+      "permanent": true
+    },
+    {
+      "source": "/problemas/citroen/c4/cambio-eat8-solavanco/:path*",
+      "destination": "/problemas/citroen/c4/cambio-eat6-solavanco/",
+      "permanent": true
+    },
+    {
+      "source": "/problemas/peugeot/3008/cambio-eat8-solavanco/:path*",
+      "destination": "/problemas/peugeot/3008/cambio-eat6-solavanco/",
       "permanent": true
     }
   ],

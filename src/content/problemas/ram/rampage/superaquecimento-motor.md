@@ -41,8 +41,8 @@ autor:
 pubDate: 2026-06-25
 updatedDate: 2026-06-25
 relacionados:
-  - titulo: "Ficha técnica RAM Rampage"
-    url: "/ficha-tecnica/ram/rampage-rebel-1-3-t270/"
+  - titulo: "Ficha técnica RAM Rampage Rebel 2.2 Turbodiesel"
+    url: "/ficha-tecnica/ram/rampage-rebel-2-2-turbodiesel/"
   - titulo: "Superaquecimento do motor: sinais"
     url: "/manutencao/superaquecimento-motor-sinais/"
   - titulo: "Como verificar fluido de arrefecimento"

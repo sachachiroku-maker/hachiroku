@@ -69,8 +69,8 @@ fontes:
 relacionados:
   - titulo: "Todos os problemas do Peugeot 3008"
     url: "/problemas/peugeot/3008/"
-  - titulo: "Solavanco no câmbio EAT8 do Peugeot 3008"
-    url: "/problemas/peugeot/3008/cambio-eat8-solavanco/"
+  - titulo: "Solavanco no câmbio EAT6 do Peugeot 3008"
+    url: "/problemas/peugeot/3008/cambio-eat6-solavanco/"
 draft: false
 ---
 

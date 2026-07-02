@@ -1,7 +1,7 @@
 ---
 title: "Ficha técnica do Peugeot 3008 Griffe 1.6 THP 2022"
 seoTitle: "Ficha técnica do Peugeot 3008 Griffe 1.6 THP"
-description: "Peugeot 3008 Griffe 2022: motor 1.6 THP 173 cv, câmbio EAT8 e suspensão multi-link que eleva o conforto do SUV médio premium da Stellantis."
+description: "Peugeot 3008 Griffe 2022: motor 1.6 THP 173 cv, câmbio EAT6 e suspensão multi-link que eleva o conforto do SUV médio premium da Stellantis."
 marca: "Peugeot"
 modelo: "3008"
 versao: "Griffe 1.6 THP"
@@ -20,7 +20,7 @@ motor:
   - { k: "Alimentação", v: "Injeção direta de combustível com turbocompressor" }
   - { k: "Distribuição", v: "DOHC 16 válvulas com comando variável (VVT)" }
 transmissao:
-  - { k: "Câmbio", v: "Automático de 8 marchas EAT8 (Aisin)" }
+  - { k: "Câmbio", v: "Automático de 8 marchas EAT6 (Aisin)" }
   - { k: "Tração", v: "Dianteira (FWD)" }
 desempenho:
   - { k: "Velocidade máxima", v: "215 km/h" }
@@ -49,11 +49,11 @@ faq:
   - pergunta: "O Peugeot 3008 Griffe 2022 tem tração integral?"
     resposta: "Não. O 3008 Griffe 2022 vendido no Brasil é equipado com tração dianteira (FWD). A versão com tração integral (4WD) existiu em algumas versões europeias com motor diesel, mas nunca foi comercializada oficialmente no mercado brasileiro."
   - pergunta: "Qual câmbio o 3008 Griffe 2022 usa?"
-    resposta: "O 3008 Griffe 2022 usa o câmbio automático EAT8, de 8 marchas, fabricado pela Aisin. É um dos câmbios automáticos convencionais mais refinados do segmento, com trocas suaves e resposta precisa no modo Sport."
+    resposta: "O 3008 Griffe 2022 usa o câmbio automático EAT6, de 8 marchas, fabricado pela Aisin. É um dos câmbios automáticos convencionais mais refinados do segmento, com trocas suaves e resposta precisa no modo Sport."
   - pergunta: "O motor 1.6 THP do Peugeot 3008 é confiável?"
     resposta: "O motor Prince EP6 tem histórico misto. As versões mais antigas (pré-2015) apresentaram problemas com consumo de óleo e corrente de distribuição. As unidades produzidas a partir de 2017, com atualizações da Stellantis, apresentam comportamento mais estável. Revisões em dia e uso de óleo de viscosidade correta são fundamentais para a longevidade desse motor."
   - pergunta: "Quanto custa a manutenção do Peugeot 3008 2022 no Brasil?"
-    resposta: "Por ser um veículo importado, peças do 3008 têm custo acima da média do segmento. Uma revisão básica (óleo, filtros e verificações) em concessionária Peugeot gira entre R$ 800 e R$ 1.400, dependendo da região. Peças de suspensão e câmbio EAT8 podem encarecer reparos mais complexos. Mecânicas multimarcas especializadas em europeus costumam cobrar menos."
+    resposta: "Por ser um veículo importado, peças do 3008 têm custo acima da média do segmento. Uma revisão básica (óleo, filtros e verificações) em concessionária Peugeot gira entre R$ 800 e R$ 1.400, dependendo da região. Peças de suspensão e câmbio EAT6 podem encarecer reparos mais complexos. Mecânicas multimarcas especializadas em europeus costumam cobrar menos."
 relacionados:
   - { titulo: "Problemas do Peugeot 3008", url: "/problemas/peugeot/3008/" }
 autor:
@@ -63,6 +63,6 @@ draft: false
 
 O Peugeot 3008 Griffe 1.6 THP representa a aposta da Stellantis no segmento de SUVs médios premium no Brasil. Com design interior que mistura o conceito i-Cockpit (painel alto, volante compacto e tela central de 8 polegadas), o 3008 entrega uma experiência visual diferenciada dos rivais japoneses e coreanos que dominam a categoria.
 
-A versão Griffe é o topo de linha do 3008 comercializado no Brasil e chega equipada com teto solar panorâmico, bancos em couro, head-up display e sistema de assistência à condução com frenagem automática de emergência. O conjunto mecânico une o motor 1.6 THP de 173 cv ao câmbio automático EAT8 de 8 marchas, entregando conforto de cruzeiro sem abrir mão de respostas razoáveis em aceleração.
+A versão Griffe é o topo de linha do 3008 comercializado no Brasil e chega equipada com teto solar panorâmico, bancos em couro, head-up display e sistema de assistência à condução com frenagem automática de emergência. O conjunto mecânico une o motor 1.6 THP de 173 cv ao câmbio automático EAT6 de 6 marchas, entregando conforto de cruzeiro sem abrir mão de respostas razoáveis em aceleração.
 
 O 3008 Griffe faz sentido para quem prioriza refinamento, espaço interno generoso e tecnologia embarcada, e aceita pagar mais pela manutenção de um importado europeu. Não é a escolha mais econômica da categoria, mas entrega um nível de sofisticação que rivais como Jeep Compass e Volkswagen Tiguan raramente alcançam no mesmo faixa de preço.

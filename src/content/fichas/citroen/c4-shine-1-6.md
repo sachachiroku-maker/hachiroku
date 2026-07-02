@@ -1,7 +1,7 @@
 ---
 title: "Ficha técnica do Citroën C4 Shine Pack 1.6 THP 2022"
 seoTitle: "Ficha técnica do Citroën C4 Shine Pack 1.6 THP"
-description: "Citroën C4 Shine Pack 1.6 THP 173 cv, câmbio EAT8 de 8 marchas e 0-100 km/h em 8,5 s. Confira todos os dados técnicos verificados."
+description: "Citroën C4 Shine Pack 1.6 THP 173 cv, câmbio EAT6 de 6 marchas e 0-100 km/h em 8,5 s. Confira todos os dados técnicos verificados."
 marca: "Citroën"
 modelo: "C4"
 versao: "Shine Pack 1.6 THP"
@@ -20,7 +20,7 @@ motor:
   - { k: "Alimentação", v: "Injeção direta de gasolina (turboalimentada)" }
   - { k: "Distribuição", v: "DOHC 16 válvulas com duplo variador de fase" }
 transmissao:
-  - { k: "Câmbio", v: "Automático EAT8 de 8 marchas (Aisin)" }
+  - { k: "Câmbio", v: "Automático EAT6 de 6 marchas (Aisin TF-71SC)" }
   - { k: "Tração", v: "Dianteira (FWD)" }
 desempenho:
   - { k: "Velocidade máxima", v: "220 km/h" }
@@ -49,7 +49,7 @@ faq:
   - pergunta: "O Citroën C4 Shine Pack 1.6 THP 2022 é flex ou apenas gasolina?"
     resposta: "Apenas gasolina. O motor 1.6 THP (Prince EP6) vendido no Brasil não possui sistema flex. Para abastecimento com etanol, não há versão disponível nessa motorização."
   - pergunta: "Qual é o câmbio do Citroën C4 Shine Pack 2022?"
-    resposta: "O C4 Shine Pack 1.6 THP usa o câmbio automático EAT8 de 8 marchas, fabricado pela Aisin. Ele não possui opção de câmbio manual no mercado brasileiro."
+    resposta: "O C4 Shine Pack 1.6 THP usa o câmbio automático EAT6 de 6 marchas com conversor de torque, fabricado pela Aisin (TF-71SC). Ele não possui opção de câmbio manual no mercado brasileiro."
   - pergunta: "O Citroën C4 2022 tem tração integral?"
     resposta: "Não. O C4 Shine Pack 1.6 THP possui apenas tração dianteira (FWD). Não existe versão AWD ou 4x4 desta motorização no Brasil."
   - pergunta: "Qual é o consumo do Citroën C4 Shine Pack 1.6 THP na cidade?"
@@ -63,6 +63,6 @@ draft: false
 
 O Citroën C4 Shine Pack 1.6 THP chegou ao Brasil em 2021 como a aposta da Stellantis para o segmento de SUVs compactos premium. Com design que mistura elementos do hatch C4 europeu com a elevação de um crossover, ele se posiciona acima dos concorrentes de entrada e apela a quem quer conforto, tecnologia e esportividade em uma carroceria de 4,36 metros.
 
-O coração do C4 Shine Pack é o motor 1.6 THP (bloco Prince EP6), um quatro cilindros turbo com injeção direta que entrega 173 cv a 5.500 rpm e torque de 24,5 kgfm disponível desde 1.700 rpm. Associado ao câmbio automático EAT8 de 8 marchas da Aisin, ele proporciona 0 a 100 km/h em 8,5 segundos e velocidade máxima declarada de 220 km/h, números competitivos para o segmento.
+O coração do C4 Shine Pack é o motor 1.6 THP (bloco Prince EP6), um quatro cilindros turbo com injeção direta que entrega 173 cv a 5.500 rpm e torque de 24,5 kgfm disponível desde 1.700 rpm. Associado ao câmbio automático EAT6 de 6 marchas da Aisin, ele proporciona 0 a 100 km/h em 8,5 segundos e velocidade máxima declarada de 220 km/h, números competitivos para o segmento.
 
 Faz sentido para quem prioriza conforto de rodagem acima da média da categoria, aprecia o estilo diferenciado da marca francesa e não depende do etanol no dia a dia. A ausência de versão flex e de tração integral são os principais pontos de atenção antes da compra.

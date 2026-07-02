@@ -29,8 +29,8 @@ faq:
 relacionados:
   - titulo: "Motor 1.0 turbo: durabilidade real"
     url: "/tecnico/motor-1-0-turbo-durabilidade/"
-  - titulo: "Ficha técnica RAM Rampage"
-    url: "/ficha-tecnica/ram/rampage-rebel-1-3-t270/"
+  - titulo: "Ficha técnica RAM Rampage Rebel 2.2 Turbodiesel"
+    url: "/ficha-tecnica/ram/rampage-rebel-2-2-turbodiesel/"
 draft: true
 ---
 

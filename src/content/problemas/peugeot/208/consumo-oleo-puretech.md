@@ -1,5 +1,5 @@
 ---
-title: "Consumo de óleo no Peugeot 208 1.2 PureTech aspirado | Hachiroku"
+title: "Consumo de óleo no Peugeot 208 1.2 PureTech aspirado"
 description: "O 1.2 PureTech que veio ao Brasil no Peugeot 208 é o aspirado de 3 cilindros (EB2, 82 cv), nunca o turbo europeu. Ele tem consumo de óleo relatado por donos, ligado a retentores de válvula, anéis de controle e à correia dentada banhada a óleo. Veja sintomas, verificação de nível, o óleo correto (0W-30 PSA B71 2312) e custos."
 entidade:
   marca: "Peugeot"
@@ -74,7 +74,7 @@ fontes:
   - { titulo: "Motor: Troca da correia do Peugeot 208 1.2 PureTech (Revista O Mecânico)", url: "https://omecanico.com.br/motor-troca-da-correia-do-peugeot-208-1-2-puretech/" }
   - { titulo: "Qual o óleo correto do motor 1.2 PureTech do Peugeot 208 e Citroën C3 (Revista O Mecânico)", url: "https://omecanico.com.br/qual-o-oleo-correto-do-motor-1-2-puretech-do-peugeot-208-e-citroen-c3-veja-a-especificacao/" }
   - { titulo: "Motor com alto consumo de óleo — Peugeot do Brasil (Reclame Aqui)", url: "https://www.reclameaqui.com.br/peugeot-do-brasil/motor-com-alto-consumo-de-oleo_wTH63MKz2R3Hw1I2/" }
-  - { titulo: "Peugeot 208 2024 terá motores 1.0 Firefly, 1.6 EC5 e 1.0 T200 Flex (Autos Segredos)", url: "https://www.autossegredos.com.br/segredos/peugeot-208-2024-tera-motores-1-0-firely-1-6-ec5-e-1-0-t200-flex/" }
+  - { titulo: "Novo Peugeot 208 com motor PureTech 1.2 de três cilindros (Stellantis Media Brasil)", url: "https://www.media.stellantis.com/br-pt/peugeot/press/novo-peugeot-208-com-motor-puretech-1-2l-de-tres-cilindros-se-destaca-em-lista-do-inmetro" }
 draft: false
 ---
 

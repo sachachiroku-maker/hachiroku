@@ -71,8 +71,8 @@ afiliados:
     programa: amazon
     cta: "Ver preço na Amazon"
 relacionados:
-  - titulo: "Rampage 1.3 T270: ficha técnica completa"
-    url: "/ficha-tecnica/ram/rampage-rebel-1-3-t270/"
+  - titulo: "Ficha técnica RAM Rampage Rebel 2.2 Turbodiesel"
+    url: "/ficha-tecnica/ram/rampage-rebel-2-2-turbodiesel/"
   - titulo: "Como trocar o óleo do câmbio automático"
     url: "/manutencao/troca-oleo-cambio-automatico/"
   - titulo: "Erros OBD mais comuns em pickups modernas"

@@ -75,7 +75,7 @@ O **Peugeot 208 Allure 1.6 2023** representa a entrada da segunda geração do 2
 
 O VTi de 4 cilindros é um motor de arquitetura convencional com distribuição por correia dentada. Com 120 cv na gasolina e 128 cv no etanol, o conjunto funciona bem no ritmo urbano e em percursos de estrada sem exigência de ultrapassagens frequentes em altas velocidades.
 
-O câmbio AT6 de 6 marchas é automático convencional de conversor de torque, diferente do EAT8 de dupla embreagem adotado no 208 GT e no 2008 Griffe. Isso significa uma resposta diferente: o AT6 tende a ser mais suave em condições de tráfego lento, mas com reações mais lentas em acelerações rápidas comparado ao câmbio de dupla embreagem.
+O câmbio AT6 de 6 marchas é automático convencional de conversor de torque, o mesmo tipo usado no 2008 Griffe. É uma arquitetura conhecida pela suavidade em tráfego lento; a resposta em acelerações rápidas é mais tranquila do que a de câmbios de dupla embreagem de outros concorrentes.
 
 ## Plataforma PF1 e compartilhamento de peças
 

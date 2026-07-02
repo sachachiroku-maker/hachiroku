@@ -1,7 +1,7 @@
 ---
 title: "Peugeot 2008 Griffe 1.6 THP 2023: ficha técnica completa"
 seoTitle: "Peugeot 2008 Griffe 1.6 THP 2023: ficha técnica"
-description: "Ficha técnica do Peugeot 2008 Griffe 1.6 THP automático 2023: motor turbo de 165 cv, câmbio EAT8 de 8 marchas, tração dianteira e equipamentos de topo. O SUV compacto premium da Peugeot no Brasil."
+description: "Ficha técnica do Peugeot 2008 Griffe 1.6 THP automático 2023: motor turbo de 165 cv, câmbio automático AT6 de 6 marchas, tração dianteira e equipamentos de topo. O SUV compacto premium da Peugeot no Brasil."
 marca: "Peugeot"
 modelo: "2008"
 versao: "Griffe 1.6 THP"
@@ -23,7 +23,7 @@ motor:
   - { k: "Alimentação", v: "Injeção direta de combustível, turbocompressor de geometria fixa" }
   - { k: "Distribuição", v: "Correia dentada banhada a óleo" }
 transmissao:
-  - { k: "Câmbio", v: "Automático de 8 marchas com dupla embreagem (EAT8)" }
+  - { k: "Câmbio", v: "Automático AT6 de 6 marchas, conversor de torque (Aisin TF-71SC)" }
   - { k: "Tração", v: "Dianteira" }
 desempenho:
   - { k: "Velocidade máxima", v: "205 km/h" }
@@ -49,12 +49,12 @@ chassi:
   - { k: "Pneus", v: "215/55 R17 (versão Griffe)" }
   - { k: "Direção", v: "Elétrica progressiva" }
 
-fonteDados: "Dados verificados em CarrosnaWeb, iCarros e ficha técnica oficial Peugeot Brasil para o 2008 Griffe 1.6 THP EAT8 2023. Potência e torque confirmados pela ficha técnica Peugeot Brasil. Consumo médio estimado com base em publicações especializadas e relatos de usuários; valores variam conforme condição de uso."
+fonteDados: "Dados verificados em CarrosnaWeb, iCarros e ficha técnica oficial Peugeot Brasil para o 2008 Griffe 1.6 THP AT6 2023. Potência e torque confirmados pela ficha técnica Peugeot Brasil. Consumo médio estimado com base em publicações especializadas e relatos de usuários; valores variam conforme condição de uso."
 pubDate: 2026-06-20
 updatedDate: 2026-06-20
 faq:
   - pergunta: "O Peugeot 2008 1.6 THP tem câmbio de dupla embreagem?"
-    resposta: "Sim. O 2008 Griffe 1.6 THP usa o câmbio EAT8 da Aisin, um automático de 8 marchas com dupla embreagem seca. Esse câmbio é diferente do AT6 do 208 Allure: o EAT8 troca as marchas mais rapidamente e com maior eficiência, mas pode apresentar comportamento brusco em manobras lentas de estacionamento e em tráfego de engarrafamento — característica típica de câmbios de dupla embreagem seca."
+    resposta: "Não. O 2008 Griffe 1.6 THP usa o câmbio automático AT6 da Aisin (TF-71SC), de 6 marchas com conversor de torque, o mesmo princípio do 208 automático. É um câmbio suave em uso urbano; solavancos persistentes na troca 1-2 costumam indicar fluido AW-1 degradado ou calibração desatualizada do módulo, não defeito estrutural."
   - pergunta: "O motor 1.6 THP do 2008 consome óleo?"
     resposta: "O motor 1.6 THP (também chamado de EP6DT ou PureTech 165) tem histórico documentado de consumo de óleo em lotes de produção até 2018 em mercados europeus. Para o Brasil, a versão commercializada a partir de 2022 passou por revisões no projeto do motor que reduziram o problema. Ainda assim, verificar o nível de óleo a cada 5.000 km é prática recomendável. Consumo acima de 0,5 litro a cada 1.000 km merece investigação."
   - pergunta: "Qual a diferença entre o Peugeot 2008 e o Peugeot 208?"
@@ -69,7 +69,7 @@ autor:
 draft: false
 ---
 
-O **Peugeot 2008 Griffe 1.6 THP 2023** é a versão de topo do SUV compacto da Peugeot no Brasil. Motor 1.6 THP turbo de 165 cv, câmbio automático EAT8 de 8 marchas e o i-Cockpit com painel digital de 10 polegadas e tela multimídia de 10 polegadas definem um produto que compete diretamente com T-Cross, Nivus e Taos no segmento de SUVs compactos premium.
+O **Peugeot 2008 Griffe 1.6 THP 2023** é a versão de topo do SUV compacto da Peugeot no Brasil. Motor 1.6 THP turbo de 165 cv, câmbio automático AT6 de 6 marchas e o i-Cockpit com painel digital de 10 polegadas e tela multimídia de 10 polegadas definem um produto que compete diretamente com T-Cross, Nivus e Taos no segmento de SUVs compactos premium.
 
 ## Motor 1.6 THP: turbo e injeção direta
 
@@ -77,9 +77,9 @@ O THP (Turbo High Pressure) de 1.6 litros é o motor mais sofisticado da linha P
 
 A distribuição por correia dentada banhada a óleo é compartilhada com outros motores da família Prince da Stellantis, uma solução de custo de manutenção favorável em relação às distribuições por corrente.
 
-## Câmbio EAT8: eficiência e pontos de atenção
+## Câmbio AT6: eficiência e pontos de atenção
 
-O câmbio EAT8 da Aisin é um dos mais sofisticados da categoria. Com 8 marchas de dupla embreagem seca, permite trocas praticamente imperceptíveis em aceleração normal e com paddles no volante para controle manual. A eficiência em estrada é alta: o câmbio sobe para marchas longas rapidamente, favorecendo o consumo.
+O câmbio AT6 da Aisin (TF-71SC) é um automático de 6 marchas com conversor de torque, conhecido pela suavidade em uso urbano. A eficiência em estrada é boa: o câmbio sobe para marchas longas rapidamente, favorecendo o consumo. O ponto de atenção é o fluido AW-1, que deve ser trocado a cada 60.000 km para evitar solavancos na troca 1-2.
 
 O ponto de atenção é o comportamento em manobras de estacionamento e tráfego lento. Câmbios de dupla embreagem seca tendem a operar no limite do engate em velocidades muito baixas, o que pode resultar em solavancos e vibrações perceptíveis abaixo de 10 km/h. Esse comportamento é característico do sistema e não indica defeito, mas incomoda em uso urbano intenso.
 
