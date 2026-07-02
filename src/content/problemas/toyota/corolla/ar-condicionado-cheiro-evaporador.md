@@ -1,10 +1,10 @@
-﻿---
+---
 title: "Cheiro de Mofo no Ar-Condicionado do Corolla (2014 em"
 description: "Cheiro de mofo no AC do Toyota Corolla 2014 em diante: causas reais, como higienizar o evaporador e o que fazer para o cheiro não voltar."
 entidade:
   marca: "Toyota"
   modelo: "Corolla"
-  motor: "1.8 2ZR-FE e 2.0 M20A-FKS"
+  motor: "1.8 2ZR-FXE (híbrido) e 2.0 M20A-FKS"
   geracao: "11ª e 12ª geração (2014 em diante)"
 defeito: "cheiro de mofo e bolor no ar-condicionado do Corolla"
 kicker: "DEFEITO CRÔNICO"

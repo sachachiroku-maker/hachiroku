@@ -1,16 +1,16 @@
-﻿---
-title: "Motor 1.8 E.torQ da Spin com consumo de óleo"
-description: "O motor 1.8 E.torQ da Chevrolet Spin pode consumir até 1,7 litro de óleo a cada 3.000 km. Entenda a causa, identifique os sintomas, saiba o custo do reparo e como prevenir o problema antes que ele evolua para dano no motor."
+---
+title: "Motor 1.8 Ecotec SPE/4 da Spin com consumo de óleo"
+description: "O motor 1.8 Ecotec SPE/4 da Chevrolet Spin pode consumir até 1,7 litro de óleo a cada 3.000 km. Entenda a causa, identifique os sintomas, saiba o custo do reparo e como prevenir o problema antes que ele evolua para dano no motor."
 entidade:
   marca: "Chevrolet"
   modelo: "Spin"
-  motor: "1.8 E.torQ (LFH)"
+  motor: "1.8 Ecotec SPE/4"
   geracao: "2ª geração (2019 em diante)"
 defeito: "consumo excessivo de óleo"
 kicker: "DEFEITO CRÔNICO"
 intencao: "Diagnóstico"
 entidadesEssenciais:
-  - "motor 1.8 E.torQ LFH"
+  - "motor 1.8 Ecotec SPE/4 SPE/4"
   - "consumo de óleo"
   - "anéis de pistão"
   - "guias de válvula"
@@ -24,13 +24,13 @@ pubDate: 2026-06-20
 updatedDate: 2026-06-20
 disclaimer: "Este conteúdo é informativo e não substitui o diagnóstico de um mecânico qualificado. Consumo de óleo pode ter múltiplas causas. Sempre utilize um profissional para avaliar o estado interno do motor antes de autorizar qualquer serviço."
 imagem: "/logos/hachiroku-badge-86.png"
-imagemAlt: "Motor 1.8 E.torQ da Chevrolet Spin com problema de consumo de óleo"
+imagemAlt: "Motor 1.8 Ecotec SPE/4 da Chevrolet Spin com problema de consumo de óleo"
 faq:
   - pergunta: "A Spin 1.8 realmente consome óleo em excesso?"
     resposta: "Sim, é um defeito documentado por proprietários e registrado no Reclame Aqui, com relatos de consumo de 1,7 litro a cada 3.309 km em modelos 2022 e 2023. A GM considera consumo de até 0,5 litro por 1.000 km como dentro dos parâmetros, mas relatos mostram valores acima disso em unidades específicas, principalmente com a motorização 1.8 automática."
   - pergunta: "O consumo de óleo da Spin danifica o motor se ignorado?"
     resposta: "Sim. Se o nível de óleo cair abaixo do mínimo e o carro continuar sendo usado, a pressão de lubrificação cai e as peças internas do motor (mancais, bielas, pistões) trabalham sem lubrificação adequada. O resultado pode ser desde desgaste acelerado até fundição do motor. Verificar o nível de óleo a cada 1.000 km é obrigatório em carros com esse histórico."
-  - pergunta: "Qual a causa mais comum do consumo de óleo no motor 1.8 E.torQ?"
+  - pergunta: "Qual a causa mais comum do consumo de óleo no motor 1.8 Ecotec SPE/4?"
     resposta: "As causas mais frequentes relatadas em Spin com consumo de óleo são: desgaste dos anéis de pistão (que permite que o óleo passe para a câmara de combustão e seja queimado), desgaste dos retentores de haste de válvula (que deixa óleo escorrer pelo cabeçote) e entupimento ou mau funcionamento do sistema PCV (válvula de respiro do cárter). O diagnóstico começa pela inspeção do escapamento (fumaça azul) e do filtro de ar (presença de óleo)."
   - pergunta: "Quanto custa o reparo do consumo de óleo na Spin 1.8?"
     resposta: "O custo varia conforme a causa. A troca dos retentores de válvula fica entre R$ 800 e R$ 1.500. A troca dos anéis de pistão exige desmontagem parcial do motor e pode custar de R$ 2.500 a R$ 5.000, dependendo do estado dos cilindros. Se houver desgaste excessivo dos cilindros, a retífica eleva o custo para R$ 4.000 a R$ 8.000."
@@ -50,7 +50,7 @@ passos:
   - nome: "Defina o escopo do reparo com o mecânico"
     texto: "Com o diagnóstico em mãos, decida o escopo: troca de retentores de válvula (reparo menor, motor semi-aberto), troca de anéis de pistão (motor desmontado, cilindros inspecionados) ou retífica completa se houver desgaste dos cilindros. Para carros com menos de 80 mil km, a troca de retentores resolvida primeiro é a abordagem mais econômica."
 pontosChave:
-  - "O motor 1.8 E.torQ da Chevrolet Spin tem relatos documentados de consumo de óleo acima da média, com casos de 1,7 litro a cada 3.309 km registrados por proprietários."
+  - "O motor 1.8 Ecotec SPE/4 da Chevrolet Spin tem relatos documentados de consumo de óleo acima da média, com casos de 1,7 litro a cada 3.309 km registrados por proprietários."
   - "As causas mais comuns são desgaste dos retentores de haste de válvula, anéis de pistão desgastados e mau funcionamento da válvula PCV do cárter."
   - "A fumaça azulada no escapamento e o nível de óleo caindo sem vazamento visível são os principais sinais de alerta."
   - "O custo de reparo vai de R$ 800 (retentores de válvula) a R$ 8.000 (retífica completa), dependendo do diagnóstico."
@@ -62,13 +62,13 @@ fontes:
 draft: false
 ---
 
-O **motor 1.8 E.torQ da Chevrolet Spin** é uma unidade aspirada de quatro cilindros confiável para o uso cotidiano, mas carrega um defeito documentado que preocupa proprietários: o consumo de óleo acima do esperado. Relatos registrados incluem consumo de **1,7 litro de óleo a cada 3.309 km** em modelos 2022 e 2023, valores que a própria GM pode classificar como dentro dos limites, mas que na prática forçam o dono a verificar o nível com frequência e completar o fluido entre trocas.
+O **motor 1.8 Ecotec SPE/4 da Chevrolet Spin** é uma unidade aspirada de quatro cilindros confiável para o uso cotidiano, mas carrega um defeito documentado que preocupa proprietários: o consumo de óleo acima do esperado. Relatos registrados incluem consumo de **1,7 litro de óleo a cada 3.309 km** em modelos 2022 e 2023, valores que a própria GM pode classificar como dentro dos limites, mas que na prática forçam o dono a verificar o nível com frequência e completar o fluido entre trocas.
 
 Entender a causa, identificar os sinais certos e saber quando agir é o que separa um motor que dura 200 mil km de um que vai à retífica antes dos 100 mil km.
 
-## O que é o motor 1.8 E.torQ e por que ele consome óleo
+## O que é o motor 1.8 Ecotec SPE/4 e por que ele consome óleo
 
-O E.torQ 1.8 (código LFH no caso da Spin) é uma arquitetura de 4 cilindros com 16 válvulas DOHC e injeção multiponto, sem turbocompressor. É o mesmo bloco que equipou o Chevrolet Cruze de primeira geração e o Cobalt, com um bom histórico geral de durabilidade.
+O Ecotec SPE/4 1.8 (código SPE/4 no caso da Spin) é uma arquitetura de 4 cilindros com 16 válvulas DOHC e injeção multiponto, sem turbocompressor. É o mesmo bloco que equipou o Chevrolet Cruze de primeira geração e o Cobalt, com um bom histórico geral de durabilidade.
 
 O consumo de óleo nesse motor não é causado por um defeito de fabricação único. Ele resulta da combinação de três mecanismos diferentes que podem atuar isolados ou juntos:
 
@@ -94,7 +94,7 @@ Fique atento a estes sinais específicos:
 
 ## O impacto do uso com 7 pessoas na motorização 1.8
 
-A Spin LTZ 1.8 automática é regularmente usada com capacidade plena: 7 pessoas mais bagagem. Esse uso com carga máxima exige mais do motor do que o uso solo urbano. O E.torQ trabalha em rotações mais altas e por mais tempo para compensar o peso extra, o que acelera o desgaste térmico dos anéis e retentores ao longo dos anos.
+A Spin LTZ 1.8 automática é regularmente usada com capacidade plena: 7 pessoas mais bagagem. Esse uso com carga máxima exige mais do motor do que o uso solo urbano. O Ecotec SPE/4 trabalha em rotações mais altas e por mais tempo para compensar o peso extra, o que acelera o desgaste térmico dos anéis e retentores ao longo dos anos.
 
 Carros usados como táxi de van ou transporte escolar acumulam esse tipo de exigência de forma exponencial, tornando o consumo de óleo mais frequente e precoce do que em carros de uso familiar moderado.
 
@@ -114,7 +114,7 @@ O custo do reparo depende diretamente da causa identificada pelo diagnóstico me
 
 A prevenção começa antes mesmo de o problema aparecer:
 
-Respeite o intervalo de troca de óleo de 10 mil km ou 1 ano, sempre com óleo na especificação correta (5W30 sintético ou semissintético API SN para o 1.8 E.torQ). Óleo vencido perde a capacidade de lubrificar adequadamente os anéis e os retentores, acelerando o desgaste.
+Respeite o intervalo de troca de óleo de 10 mil km ou 1 ano, sempre com óleo na especificação correta (5W30 sintético ou semissintético API SN para o 1.8 Ecotec SPE/4). Óleo vencido perde a capacidade de lubrificar adequadamente os anéis e os retentores, acelerando o desgaste.
 
 Verifique o nível de óleo a cada 1.000 km ou a cada abastecimento em carros com histórico de consumo. A vareta de nível leva menos de dois minutos, mas pode evitar a fundição de um motor.
 

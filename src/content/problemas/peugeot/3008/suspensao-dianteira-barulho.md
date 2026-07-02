@@ -1,10 +1,10 @@
-﻿---
+---
 title: "Peugeot 3008 Barulho na Suspensão Dianteira"
 description: "Barulho na suspensão dianteira do Peugeot 3008 2ª geração 1.6 THP? Identifique a causa entre bieleta, batente, bucha ou terminal e saiba o que trocar."
 entidade:
   marca: "Peugeot"
   modelo: "3008"
-  motor: "1.6 THP Prince EP6 (173 cv)"
+  motor: "1.6 THP Prince EP6 (165 cv)"
   geracao: "2ª geração (2022 em diante)"
 defeito: "barulho e folga na suspensão dianteira McPherson plataforma EMP2"
 kicker: "DEFEITO CRÔNICO"

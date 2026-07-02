@@ -1,10 +1,10 @@
-﻿---
+---
 title: "Motor 1.6 THP do Peugeot 2008 consome óleo"
 description: "O motor 1.6 THP PureTech do Peugeot 2008 tem histórico documentado de consumo excessivo de óleo. Entenda as causas, como identificar o problema no seu carro e o que esperar do reparo."
 entidade:
   marca: "Peugeot"
   modelo: "2008"
-  motor: "1.6 THP PureTech (EP6DT)"
+  motor: "1.6 THP (EP6DT)"
   geracao: "2ª geração (2019-atual)"
 defeito: "consumo excessivo de óleo"
 kicker: "DEFEITO CRÔNICO"

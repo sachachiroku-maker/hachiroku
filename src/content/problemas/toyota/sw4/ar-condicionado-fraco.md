@@ -1,10 +1,10 @@
-﻿---
+---
 title: "Ar-condicionado Fraco no Toyota SW4"
 description: "AC fraco ou que não gela no Toyota SW4 2016 em diante: 6 causas reais, como diagnosticar cada uma e quanto custa resolver. Guia técnico completo."
 entidade:
   marca: "Toyota"
   modelo: "SW4"
-  motor: "2.8 GD-FTV turbo diesel (204 cv)"
+  motor: "2.8 Turbo Diesel 1GD-FTV (204 cv)"
   geracao: "5ª geração (2016 em diante)"
 defeito: "ar-condicionado ineficiente, fraco ou que não gela no SW4"
 kicker: "DEFEITO CRÔNICO"
@@ -71,7 +71,7 @@ O Toyota SW4 da 5ª geração é um dos SUVs mais robustos disponíveis no Brasi
 
 Esse tamanho tem consequências diretas no ar-condicionado. A demanda térmica com sete pessoas, sol a pino e portas com vidros grandes é muito superior à de um sedan ou de um SUV de médio porte.
 
-Além disso, o motor 2.8 GD-FTV turbo diesel gera vibrações características que, ao longo do tempo, afetam conexões, O-rings e mangueiras do circuito de AC. Usuários que utilizam o veículo em fazendas ou estradas de terra acrescentam ao sistema a carga de condensadores entupidos e filtros secadores saturados mais rapidamente.
+Além disso, o motor 2.8 Turbo Diesel 1GD-FTV gera vibrações características que, ao longo do tempo, afetam conexões, O-rings e mangueiras do circuito de AC. Usuários que utilizam o veículo em fazendas ou estradas de terra acrescentam ao sistema a carga de condensadores entupidos e filtros secadores saturados mais rapidamente.
 
 <aside class="telltale info" role="note"><span aria-hidden="true">ℹ️</span><p><strong>Contexto.</strong> O SW4 importado do Japão chega ao Brasil na configuração SRX (topo de linha) com AC dianteiro e traseiro de série. Versões intermediárias podem ter apenas o dianteiro. Confirme a especificação do seu veículo antes de buscar o diagnóstico.</p></aside>
 

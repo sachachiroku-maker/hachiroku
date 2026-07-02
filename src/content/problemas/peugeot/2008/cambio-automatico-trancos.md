@@ -1,10 +1,10 @@
-﻿---
+---
 title: "Peugeot 2008 EAT8: solavancos no câmbio automático — causas"
 description: "Câmbio EAT8 do Peugeot 2008 dá trancos nas trocas 1ª→2ª e hesita ao arrancar? Veja as causas reais, custos e o que fazer antes de ir à concessionária."
 entidade:
   marca: "Peugeot"
   modelo: "2008"
-  motor: "1.6 THP (165 cv) e 1.2 PureTech (130 cv)"
+  motor: "1.6 THP (165 cv)"
   geracao: "2ª geração (2020 em diante)"
 defeito: "solavancos e hesitação no câmbio automático EAT8 de 8 marchas"
 kicker: "DEFEITO CRÔNICO"

@@ -1,10 +1,10 @@
-﻿---
-title: "Vela aquecedora da Toyota Hilux GD-6 com falha"
-description: "A vela aquecedora (glow plug) do motor 2.8 GD-6 da Toyota Hilux pode falhar, dificultando a partida a frio com barulho e soluço no motor. Entenda os sintomas, como diagnosticar e o custo de troca."
+---
+title: "Vela aquecedora da Toyota Hilux 2.8 Turbo Diesel com falha"
+description: "A vela aquecedora (glow plug) do motor 2.8 2.8 Turbo Diesel da Toyota Hilux pode falhar, dificultando a partida a frio com barulho e soluço no motor. Entenda os sintomas, como diagnosticar e o custo de troca."
 entidade:
   marca: "Toyota"
   modelo: "Hilux"
-  motor: "2.8 GD-6 (1GD-FTV)"
+  motor: "2.8 Turbo Diesel (1GD-FTV)"
   geracao: "8ª geração — facelift 2021-atual"
 defeito: "falha na vela aquecedora (glow plug)"
 kicker: "DEFEITO CRÔNICO"
@@ -14,7 +14,7 @@ entidadesEssenciais:
   - "glow plug"
   - "partida a frio diesel"
   - "relé de pré-aquecimento"
-  - "motor 2.8 GD-6"
+  - "motor 2.8 2.8 Turbo Diesel"
   - "barulho no motor frio"
   - "fumaça branca na partida"
   - "ciclo de pré-aquecimento"
@@ -24,17 +24,17 @@ pubDate: 2026-06-20
 updatedDate: 2026-06-20
 disclaimer: "Este conteúdo é informativo e diagnóstico. A troca de velas aquecedoras em motores diesel exige cuidado especial: velas presas pela corrosão podem quebrar dentro da câmara de combustão. Em motores com alta quilometragem, a remoção deve ser feita por mecânico experiente com o motor morno, nunca frio ou quente."
 imagem: "/logos/hachiroku-badge-86.png"
-imagemAlt: "Vela aquecedora glow plug do motor 2.8 GD-6 1GD-FTV da Toyota Hilux SRX"
+imagemAlt: "Vela aquecedora glow plug do motor 2.8 2.8 Turbo Diesel 1GD-FTV da Toyota Hilux SRX"
 faq:
   - pergunta: "O que é a vela aquecedora e para que serve na Hilux diesel?"
-    resposta: "A vela aquecedora (glow plug) é um elemento resistivo instalado em cada cilindro do motor diesel. Antes da partida, especialmente em temperaturas baixas, o motor elétrico não teria compressão suficiente para inflamar o diesel sem assistência de calor. As velas aquecedoras aquecem o ar dentro da câmara de combustão nos segundos que antecedem a partida, garantindo a inflamação do diesel mesmo com o motor frio. A Hilux GD-6 tem 4 velas aquecedoras, uma por cilindro."
+    resposta: "A vela aquecedora (glow plug) é um elemento resistivo instalado em cada cilindro do motor diesel. Antes da partida, especialmente em temperaturas baixas, o motor elétrico não teria compressão suficiente para inflamar o diesel sem assistência de calor. As velas aquecedoras aquecem o ar dentro da câmara de combustão nos segundos que antecedem a partida, garantindo a inflamação do diesel mesmo com o motor frio. A Hilux 2.8 Turbo Diesel tem 4 velas aquecedoras, uma por cilindro."
   - pergunta: "Quais os sintomas de vela aquecedora com defeito na Hilux?"
     resposta: "Os sintomas mais comuns são: dificuldade de partida com o motor frio (motor cranking por mais tempo antes de pegar), fumaça branca no escapamento nos primeiros minutos de funcionamento (diesel sem ignição completa), soluço ou instabilidade de marcha lenta com o motor frio que desaparece após aquecimento, e luz de espiral no painel (símbolo de vela aquecedora) que permanece acesa ou pisca. Com uma ou duas velas com defeito, o motor geralmente dá partida, mas com dificuldade. Com mais de duas, a partida pode falhar completamente."
   - pergunta: "Com que frequência trocar as velas aquecedoras da Hilux 2.8?"
-    resposta: "A Toyota não define um intervalo fixo de troca preventiva para as velas aquecedoras do GD-6. A vida útil depende do número de partidas a frio e da qualidade do diesel. Em uso normal com manutenção regular, as velas tendem a durar 100.000 a 150.000 km. A substituição é indicada quando há sintoma de falha ou quando o scanner detecta resistência elétrica fora do padrão em alguma vela. Não há necessidade de troca preventiva sem sintoma."
+    resposta: "A Toyota não define um intervalo fixo de troca preventiva para as velas aquecedoras do 2.8 Turbo Diesel. A vida útil depende do número de partidas a frio e da qualidade do diesel. Em uso normal com manutenção regular, as velas tendem a durar 100.000 a 150.000 km. A substituição é indicada quando há sintoma de falha ou quando o scanner detecta resistência elétrica fora do padrão em alguma vela. Não há necessidade de troca preventiva sem sintoma."
   - pergunta: "O relé de pré-aquecimento também pode falhar na Hilux?"
     resposta: "Sim. O relé de pré-aquecimento é o componente que recebe o comando da ECU e distribui a corrente elétrica para as velas aquecedoras. Um relé com defeito pode causar os mesmos sintomas de velas com defeito: ausência de ciclo de pré-aquecimento (a luz de espiral não acende antes da partida) ou ciclo incompleto. O diagnóstico com scanner diferencia entre falha no relé e falha em velas específicas, pois o scanner lê a resistência individual de cada vela."
-  - pergunta: "Quanto custa trocar as velas aquecedoras da Hilux GD-6?"
+  - pergunta: "Quanto custa trocar as velas aquecedoras da Hilux 2.8 Turbo Diesel?"
     resposta: "O custo de uma vela aquecedora original Toyota para o motor 1GD-FTV está entre R$ 150 e R$ 250 por unidade. O kit completo de 4 velas custa entre R$ 600 e R$ 1.000 em peças. A mão de obra de troca varia bastante: em motores com velas bem conservadas que soltam facilmente, a mão de obra fica entre R$ 200 e R$ 400. Em motores com velas presas pela corrosão (situação mais comum em alta quilometragem), a remoção cuidadosa pode levar 3 a 4 horas e custar entre R$ 500 e R$ 1.000 só de mão de obra. Total estimado: R$ 800 a R$ 2.000."
 passos:
   - nome: "Observe a luz de espiral no painel antes de dar partida"
@@ -48,7 +48,7 @@ passos:
   - nome: "Troca do relé de pré-aquecimento se as velas estão OK"
     texto: "Se o scanner indica que todas as velas têm resistência dentro do padrão, mas o ciclo de pré-aquecimento não ocorre corretamente, o relé de pré-aquecimento é o próximo a inspecionar. O relé fica no compartimento do motor, próximo à caixa de fusíveis. Sua substituição é simples, com custo de R$ 100 a R$ 300 em peça. Em alguns casos, a fiação de alimentação do relé ou das velas tem mau contato que se resolve com limpeza dos terminais."
 pontosChave:
-  - "As velas aquecedoras do motor GD-6 da Hilux garantem a partida a frio. Uma vela com defeito compromete a partida; duas ou mais podem impedi-la completamente."
+  - "As velas aquecedoras do motor 2.8 Turbo Diesel da Hilux garantem a partida a frio. Uma vela com defeito compromete a partida; duas ou mais podem impedi-la completamente."
   - "Sintomas: dificuldade de partida no frio, fumaça branca nos primeiros minutos, soluço em marcha lenta com motor frio, luz de espiral acesa no painel."
   - "O diagnóstico correto usa scanner Techstream (Toyota) para medir a resistência elétrica individual de cada vela."
   - "Na troca, o risco de quebrar a vela dentro do bloco é real em alta quilometragem. Motor morno e penetrante nas roscas são obrigatórios."
@@ -64,7 +64,7 @@ draft: false
 
 O motor diesel precisa de calor para inflamar o combustível. Em um motor a gasolina, a vela de ignição gera a faísca que infla a mistura. No diesel, a ignição é por compressão: o ar comprimido dentro do cilindro fica tão quente que inflama o diesel injetado. Mas em temperaturas baixas, essa temperatura de compressão pode não ser suficiente para garantir uma ignição limpa e confiável.
 
-É aí que entram as velas aquecedoras (glow plugs). A **Toyota Hilux 2.8 GD-6** tem quatro dessas velas, uma por cilindro, e quando uma delas começa a falhar, os sintomas aparecem de forma característica na partida a frio.
+É aí que entram as velas aquecedoras (glow plugs). A **Toyota Hilux 2.8 2.8 Turbo Diesel** tem quatro dessas velas, uma por cilindro, e quando uma delas começa a falhar, os sintomas aparecem de forma característica na partida a frio.
 
 ## O que a vela aquecedora faz
 
@@ -76,7 +76,7 @@ Em temperaturas acima de 20°C, o tempo de pré-aquecimento é mínimo (menos de
 
 ## Quando a Hilux tem esse problema
 
-O motor GD-6 é relativamente novo no mercado (introduzido na Hilux da 8ª geração), e as velas aquecedoras de alta qualidade instaladas de fábrica tendem a durar bem dentro dos primeiros 100.000 km em uso normal.
+O motor 2.8 Turbo Diesel é relativamente novo no mercado (introduzido na Hilux da 8ª geração), e as velas aquecedoras de alta qualidade instaladas de fábrica tendem a durar bem dentro dos primeiros 100.000 km em uso normal.
 
 Os problemas documentados acontecem em dois cenários:
 

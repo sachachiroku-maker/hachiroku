@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Nissan Kicks com Ar-Condicionado Fraco"
 description: "Kicks com ar-condicionado fraco ou que para de funcionar? Saiba as causas no 1.6 Flex e no e-Power, código P0565 e como resolver. (154 chars)"
 entidade:
@@ -63,7 +63,7 @@ fontes:
   - { titulo: "Nissan Kicks Service Manual 2022 — HVAC System", url: "https://www.nissan-techinfo.com" }
   - { titulo: "NHTSA Complaints Database — Nissan Kicks AC", url: "https://www.nhtsa.gov/vehicle/2021/NISSAN/KICKS/SUV/FWD" }
   - { titulo: "Fórum Clube do Kicks — Tópico Compressor A/C", url: "https://www.clubedokicks.com.br" }
-draft: false
+draft: true
 ---
 
 O ar-condicionado do Nissan Kicks é um dos pontos de reclamação mais frequentes entre donos do modelo no Brasil. O problema aparece de formas diferentes dependendo da versão, mas o resultado é o mesmo: calor dentro do carro quando mais se precisa de frescor.

@@ -1,10 +1,10 @@
-﻿---
-title: "Vela aquecedora do Toyota SW4 GD-6 com falha"
-description: "A vela aquecedora do motor 2.8 GD-6 do Toyota SW4 pode falhar, comprometendo a partida a frio do SUV de 7 lugares. Entenda os sintomas específicos no contexto do SW4, o diagnóstico e o custo de reparo."
+---
+title: "Vela aquecedora do Toyota SW4 2.8 Turbo Diesel com falha"
+description: "A vela aquecedora do motor 2.8 2.8 Turbo Diesel do Toyota SW4 pode falhar, comprometendo a partida a frio do SUV de 7 lugares. Entenda os sintomas específicos no contexto do SW4, o diagnóstico e o custo de reparo."
 entidade:
   marca: "Toyota"
   modelo: "SW4"
-  motor: "2.8 GD-6 (1GD-FTV)"
+  motor: "2.8 Turbo Diesel (1GD-FTV)"
   geracao: "5ª geração — facelift 2021-atual"
 defeito: "falha na vela aquecedora (glow plug)"
 kicker: "DEFEITO CRÔNICO"
@@ -13,7 +13,7 @@ entidadesEssenciais:
   - "vela aquecedora"
   - "glow plug"
   - "partida a frio diesel"
-  - "motor 2.8 GD-6"
+  - "motor 2.8 2.8 Turbo Diesel"
   - "Toyota SW4"
   - "relé de pré-aquecimento"
   - "fumaça branca diesel"
@@ -24,14 +24,14 @@ pubDate: 2026-06-20
 updatedDate: 2026-06-20
 disclaimer: "Este conteúdo é informativo e diagnóstico. A troca de velas aquecedoras em motores diesel exige cuidado especial: velas presas pela corrosão podem quebrar dentro da câmara de combustão. Em motores com alta quilometragem, a remoção deve ser feita por mecânico experiente com o motor morno, nunca frio ou quente."
 imagem: "/logos/hachiroku-badge-86.png"
-imagemAlt: "Motor 2.8 GD-6 do Toyota SW4 com vela aquecedora com falha na partida fria"
+imagemAlt: "Motor 2.8 2.8 Turbo Diesel do Toyota SW4 com vela aquecedora com falha na partida fria"
 faq:
   - pergunta: "O SW4 tem o mesmo sistema de velas aquecedoras da Hilux?"
-    resposta: "Sim. O Toyota SW4 usa o mesmo motor 1GD-FTV 2.8 GD-6 da Hilux SRX, incluindo o mesmo sistema de velas aquecedoras. O problema é idêntico tecnicamente, mas o contexto de uso do SW4 tem particularidades: como SUV de família com 7 lugares, o SW4 é frequentemente usado em viagens longas que combinam trechos de estrada com paradas repetidas. Cada ciclo de partida a frio solicitado ao sistema de pré-aquecimento é uma demanda adicional sobre as velas."
+    resposta: "Sim. O Toyota SW4 usa o mesmo motor 1GD-FTV 2.8 2.8 Turbo Diesel da Hilux SRX, incluindo o mesmo sistema de velas aquecedoras. O problema é idêntico tecnicamente, mas o contexto de uso do SW4 tem particularidades: como SUV de família com 7 lugares, o SW4 é frequentemente usado em viagens longas que combinam trechos de estrada com paradas repetidas. Cada ciclo de partida a frio solicitado ao sistema de pré-aquecimento é uma demanda adicional sobre as velas."
   - pergunta: "Qual a diferença prática do problema de vela aquecedora no SW4 vs. na Hilux?"
     resposta: "A diferença está no impacto do problema no usuário. Na Hilux de trabalho, o proprietário geralmente está só e pode administrar a dificuldade de partida com mais tolerância. No SW4, a família inteira está no veículo, incluindo crianças, em uma manhã fria antes da escola ou no início de uma viagem de fim de semana. A inconveniência é maior, a visibilidade do problema é maior e a pressão para resolução tende a ser imediata."
-  - pergunta: "Quanto custa a troca das velas aquecedoras do SW4 GD-6?"
-    resposta: "O custo é idêntico ao da Hilux GD-6 por usar o mesmo motor. Vela aquecedora original Toyota 1GD-FTV: R$ 150 a R$ 250 por unidade. Kit de 4 velas: R$ 600 a R$ 1.000. Mão de obra em motor com velas que soltam normalmente: R$ 200 a R$ 400. Mão de obra com velas presas (extração especial): R$ 500 a R$ 1.200. Total estimado: R$ 800 a R$ 2.200 dependendo da condição das velas."
+  - pergunta: "Quanto custa a troca das velas aquecedoras do SW4 2.8 Turbo Diesel?"
+    resposta: "O custo é idêntico ao da Hilux 2.8 Turbo Diesel por usar o mesmo motor. Vela aquecedora original Toyota 1GD-FTV: R$ 150 a R$ 250 por unidade. Kit de 4 velas: R$ 600 a R$ 1.000. Mão de obra em motor com velas que soltam normalmente: R$ 200 a R$ 400. Mão de obra com velas presas (extração especial): R$ 500 a R$ 1.200. Total estimado: R$ 800 a R$ 2.200 dependendo da condição das velas."
   - pergunta: "Como o SW4 avisa que há problema no sistema de pré-aquecimento?"
     resposta: "O SW4 sinaliza a falha no sistema de pré-aquecimento pela luz de espiral (símbolo de mola ou espiral aquecida) no painel de instrumentos. Em condição normal, essa luz acende por 1 a 5 segundos ao ligar a ignição e apaga quando o ciclo de pré-aquecimento termina. Se a luz não acende, fica acesa por mais de 10 segundos, pisca ou aparece como código de falha (check engine), há problema no sistema. Em versões com sistema de diagnóstico de bordo, o scanner Techstream da Toyota lê o código específico do sistema de pré-aquecimento."
   - pergunta: "O problema de vela aquecedora no SW4 está coberto pela garantia Toyota?"
@@ -46,9 +46,9 @@ passos:
   - nome: "Avalie o relé de pré-aquecimento antes da troca das velas"
     texto: "Se o scanner indica que as velas têm resistência dentro do padrão mas o ciclo de pré-aquecimento não ocorre corretamente, o relé de pré-aquecimento é o próximo ponto de inspeção. O relé distribui corrente elétrica para todas as velas simultâneamente. Um relé com defeito pode simular sintomas de múltiplas velas com falha. A troca do relé é simples e barata (R$ 100 a R$ 300 em peça) e deve ser descartada antes de optar pela troca das velas."
   - nome: "Troca das velas com motor morno e precauções de extração"
-    texto: "A troca das velas do GD-6 no SW4 segue o mesmo procedimento da Hilux: motor na temperatura morna (funcionou por 10 a 15 minutos e depois ficou parado por 30 minutos), penetrante nas roscas com aguardo de 20 minutos antes da tentativa de remoção, e torque de remoção controlado para evitar quebra dentro do bloco. Em motores com mais de 80.000 a 100.000 km, o risco de quebra de vela é significativo. Um mecânico com experiência em diesel Toyota é obrigatório nesse procedimento."
+    texto: "A troca das velas do 2.8 Turbo Diesel no SW4 segue o mesmo procedimento da Hilux: motor na temperatura morna (funcionou por 10 a 15 minutos e depois ficou parado por 30 minutos), penetrante nas roscas com aguardo de 20 minutos antes da tentativa de remoção, e torque de remoção controlado para evitar quebra dentro do bloco. Em motores com mais de 80.000 a 100.000 km, o risco de quebra de vela é significativo. Um mecânico com experiência em diesel Toyota é obrigatório nesse procedimento."
 pontosChave:
-  - "O SW4 usa o mesmo motor GD-6 e o mesmo sistema de velas aquecedoras da Hilux SRX. O problema é tecnicamente idêntico, mas o impacto no uso familiar é diferente."
+  - "O SW4 usa o mesmo motor 2.8 Turbo Diesel e o mesmo sistema de velas aquecedoras da Hilux SRX. O problema é tecnicamente idêntico, mas o impacto no uso familiar é diferente."
   - "No SW4 de família, a falha de vela aquecedora aparece nas partidas frias de manhã, antes da escola ou no início de viagens, tornando o problema mais visível e urgente."
   - "Sintomas: luz de espiral com comportamento anormal, cranking longo no frio, fumaça branca persistente, soluço com motor frio que melhora ao aquecer."
   - "Diagnóstico correto usa scanner Techstream Toyota para medir resistência individual de cada vela, evitando troca desnecessária de todas as quatro."
@@ -56,17 +56,17 @@ pontosChave:
   - "Garantia Toyota cobre 3 anos ou 100.000 km: verifique se seu SW4 está dentro do prazo antes de custear o reparo."
 fontes:
   - { titulo: "Toyota SW4: defeitos crônicos do SUV diesel (Vrum)", url: "https://www.vrum.com.br/aceleradas/2025/toyota-sw4-defeitos-cronicos.html" }
-  - { titulo: "Motor GD-6: problemas comuns Hilux e SW4 (Mecânica Offroad)", url: "https://mecanicaoffroad.com.br/toyota-gd6-problemas-cronicos/" }
-  - { titulo: "SW4 GD-6: relatos de vela aquecedora (4x4 Brasil fórum)", url: "https://www.4x4brasil.com.br/forum/toyota/sw4-gd6-vela-aquecedora" }
+  - { titulo: "Motor 2.8 Turbo Diesel: problemas comuns Hilux e SW4 (Mecânica Offroad)", url: "https://mecanicaoffroad.com.br/toyota-gd6-problemas-cronicos/" }
+  - { titulo: "SW4 2.8 Turbo Diesel: relatos de vela aquecedora (4x4 Brasil fórum)", url: "https://www.4x4brasil.com.br/forum/toyota/sw4-gd6-vela-aquecedora" }
   - { titulo: "Toyota SW4: os problemas mais comuns segundo os donos (Mobiauto)", url: "https://www.mobiauto.com.br/revista/toyota-sw4-problemas/2891" }
 draft: false
 ---
 
-O Toyota SW4 é um SUV de família com sete lugares e motor diesel. Essa combinação tem uma consequência prática importante: cada manhã fria, com todos os ocupantes esperando, começa com a ignição. Se o sistema de pré-aquecimento do motor GD-6 não está funcionando perfeitamente, a primeira experiência do dia com o veículo é um motor que demora para pegar.
+O Toyota SW4 é um SUV de família com sete lugares e motor diesel. Essa combinação tem uma consequência prática importante: cada manhã fria, com todos os ocupantes esperando, começa com a ignição. Se o sistema de pré-aquecimento do motor 2.8 Turbo Diesel não está funcionando perfeitamente, a primeira experiência do dia com o veículo é um motor que demora para pegar.
 
-A vela aquecedora do GD-6 no SW4 é o mesmo componente do mesmo motor instalado na Hilux SRX. O problema técnico é idêntico. Mas o contexto de uso do SW4 como veículo de família torna a falha mais perceptível e mais urgente de resolver.
+A vela aquecedora do 2.8 Turbo Diesel no SW4 é o mesmo componente do mesmo motor instalado na Hilux SRX. O problema técnico é idêntico. Mas o contexto de uso do SW4 como veículo de família torna a falha mais perceptível e mais urgente de resolver.
 
-## O motor GD-6 no SW4: diferenças de uso em relação à Hilux
+## O motor 2.8 Turbo Diesel no SW4: diferenças de uso em relação à Hilux
 
 O Toyota SW4 SRX 2023 e a Hilux SRX 2023 compartilham o motor 1GD-FTV de 2.8 litros. Mas o perfil de uso dos dois veículos é diferente em pontos relevantes para o sistema de pré-aquecimento:
 
@@ -88,9 +88,9 @@ Crianças nos bancos traseiros e no terceiro banco notam o tempo extra de cranki
 
 Essa visibilidade amplificada do problema faz com que proprietários de SW4 tendam a buscar solução mais rapidamente do que proprietários de picapes, que estão frequentemente sozinhos e com mais tolerância ao inconveniente.
 
-## Sistema de diagnóstico de pré-aquecimento do GD-6
+## Sistema de diagnóstico de pré-aquecimento do 2.8 Turbo Diesel
 
-O motor GD-6 tem monitoramento individual de cada vela aquecedora pela ECU. A ECU mede a resistência elétrica de cada vela durante o ciclo de pré-aquecimento e registra falhas individualmente.
+O motor 2.8 Turbo Diesel tem monitoramento individual de cada vela aquecedora pela ECU. A ECU mede a resistência elétrica de cada vela durante o ciclo de pré-aquecimento e registra falhas individualmente.
 
 O scanner Techstream Toyota (ferramenta específica da marca) acessa esses dados e exibe a resistência de cada vela numericamente. A referência de resistência para as velas do 1GD-FTV em temperatura ambiente está entre 0,4 e 0,8 Ohm. Uma vela com resistência acima de 2 Ohm está com falha de circuito (interrompida). Uma vela com resistência próxima de 0 Ohm está em curto.
 

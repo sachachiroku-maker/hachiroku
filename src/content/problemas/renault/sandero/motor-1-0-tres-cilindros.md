@@ -1,10 +1,10 @@
-﻿---
+---
 title: "Motor 1.0 três cilindros do Renault Sandero"
 description: "O motor 1.0 SCe de 3 cilindros do Renault Sandero vibra mais que um 4 cilindros por natureza, mas trepidação forte na marcha lenta costuma apontar coxim gasto, e há relatos de consumo de óleo e de tampa de válvulas que vaza sobre a bobina. Entenda o que é característica do 3 cilindros, o que é defeito, os sintomas e como inspecionar antes de comprar."
 entidade:
   marca: "Renault"
   modelo: "Sandero"
-  motor: "1.0 SCe (3 cilindros, família H4D)"
+  motor: "1.0 SCe (3 cilindros, família B4D)"
   geracao: "2ª geração"
 defeito: "vibração e consumo de óleo do motor 1.0 três cilindros"
 kicker: "DEFEITO CRÔNICO"
@@ -36,7 +36,7 @@ faq:
   - pergunta: "Vibração no Sandero 1.0 é defeito ou característica do motor?"
     resposta: "Depende da intensidade e de quando começou. Vibração suave e constante, mais sentida na marcha lenta, é característica do 3 cilindros e não indica problema. Trepidação forte, que sacode volante e câmbio, que apareceu do nada ou que piora ao engatar marcha, aponta para coxim gasto ou, com menos frequência, para falha de ignição (velas, bobina, óleo no poço da vela) ou corpo de borboleta sujo. O caminho é diagnosticar, não só conviver."
   - pergunta: "O motor 1.0 SCe do Sandero tem correia ou corrente de comando?"
-    resposta: "Corrente de comando. O 1.0 SCe de 3 cilindros (família H4D) usa corrente, não correia dentada, o que elimina a troca periódica de correia. Mesmo assim, a corrente e seus tensionadores dependem de óleo limpo e na especificação para durar: óleo velho ou de viscosidade errada pode gerar ruído de corrente com o tempo. Manter a troca de óleo em dia é o cuidado central desse motor."
+    resposta: "Corrente de comando. O 1.0 SCe de 3 cilindros (família B4D) usa corrente, não correia dentada, o que elimina a troca periódica de correia. Mesmo assim, a corrente e seus tensionadores dependem de óleo limpo e na especificação para durar: óleo velho ou de viscosidade errada pode gerar ruído de corrente com o tempo. Manter a troca de óleo em dia é o cuidado central desse motor."
   - pergunta: "Como inspecionar o motor 1.0 do Sandero antes de comprar?"
     resposta: "Ligue o carro frio e sinta a vibração na marcha lenta: deve haver alguma, mas não trepidação que sacode o carro. Cheque o nível e a cor do óleo na vareta, procure vazamentos na tampa de válvulas e óleo no poço das velas, observe se há fumaça azulada no escapamento ao acelerar e veja se a luz de injeção acende. Trancos, falhas e marcha lenta irregular pedem scanner. Coxins gastos e óleo escorrendo no cabeçote são achados comuns que abrem espaço para negociar ou recusar o carro."
   - pergunta: "Vale a pena o Sandero 1.0 três cilindros mesmo com a vibração?"
@@ -72,7 +72,7 @@ relacionados:
   - titulo: "Câmbio Easy'R do Sandero: trancos e embreagem que gasta cedo"
     url: "/problemas/renault/sandero/cambio-easy-r/"
 pontosChave:
-  - "Vibração leve na marcha lenta é característica do motor 1.0 SCe de 3 cilindros (família H4D), que por construção é menos equilibrado que um 4 cilindros: não é defeito por si só."
+  - "Vibração leve na marcha lenta é característica do motor 1.0 SCe de 3 cilindros (família B4D), que por construção é menos equilibrado que um 4 cilindros: não é defeito por si só."
   - "Trepidação forte, que sacode volante e câmbio ou aparece de repente, costuma apontar coxim do motor gasto, a peça que isola a vibração do 3 cilindros e que resseca ou perde o fluido com o tempo."
   - "Há relatos de consumo de óleo acima do esperado e de tampa de válvulas que vaza óleo sobre as velas e a bobina, causando falha de ignição, marcha lenta irregular e luz de injeção acesa."
   - "O motor usa corrente de comando, não correia: o cuidado central é manter o óleo na especificação e o intervalo de troca em dia, e separar o que é característica do 3 cilindros do que é manutenção pendente antes de comprar."

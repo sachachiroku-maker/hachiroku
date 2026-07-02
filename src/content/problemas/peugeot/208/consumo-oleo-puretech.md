@@ -77,7 +77,7 @@ fontes:
 relacionados:
   - { titulo: "Ficha técnica completa do Peugeot 208", url: "/ficha-tecnica/peugeot/208-allure-1-6/" }
   - { titulo: "Hub do motor 1.2 PureTech 3 cilindros", url: "/motor/puretech-thp/" }
-draft: false
+draft: true
 ---
 
 O **consumo excessivo de óleo no Peugeot 208 com motor 1.2 PureTech 3 cilindros turbo** é um problema documentado em fóruns de proprietários e em registros de órgãos de defesa do consumidor: anéis de pistão com folga acima do especificado e retentores de válvula desgastados permitem que o lubrificante entre na câmara de combustão e seja queimado junto com o combustível. A ação imediata é monitorar o nível de óleo a cada 2.000 km e solicitar teste de compressão e leak-down em oficina especializada em PSA antes que o problema avance para dano irreversível no motor.

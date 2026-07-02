@@ -1,4 +1,4 @@
-﻿---
+---
 title: "CVT Outlander V6 Superaquece em Subidas e Reboque"
 description: "O câmbio CVT do Mitsubishi Outlander V6 3.0 MIVEC entra em modo de proteção por superaquecimento em subidas longas e uso com reboque. Veja causas, diagnóstico e como resolver."
 entidade:
@@ -70,7 +70,7 @@ relacionados:
     url: "/problemas/mitsubishi/outlander/"
   - titulo: "Consumo de combustível acima do normal no Outlander V6"
     url: "/problemas/mitsubishi/outlander/consumo-combustivel-v6/"
-draft: false
+draft: true
 ---
 
 O superaquecimento do câmbio CVT no Mitsubishi Outlander V6 3.0 MIVEC ocorre quando o sistema de transmissão enfrenta carga térmica superior à capacidade do trocador de calor integrado, situação comum em subidas longas e uso com reboque, e a solução parte da troca do fluido Diamond ATF SP-III no prazo correto seguida, quando necessário, da instalação de um radiador CVT auxiliar externo.

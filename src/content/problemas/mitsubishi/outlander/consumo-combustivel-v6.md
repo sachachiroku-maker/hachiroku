@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Consumo Alto no Mitsubishi Outlander 3.0 V6 Flex"
 description: "Outlander 3.0 V6 flex abaixo de 6 km/l na cidade? Saiba as 5 causas do consumo excessivo e o que fazer para normalizar antes de levar à oficina. (153 chars)"
 entidade:
@@ -62,7 +62,7 @@ pontosChave:
 fontes:
   - { titulo: "Manual do Proprietário Mitsubishi Outlander 2015 (Mitsubishi Motors)", url: "https://www.mitsubishi-motors.com.br/servicos/manuais" }
   - { titulo: "Tabela INMETRO de Consumo de Combustíveis 2025", url: "https://www.gov.br/inmetro/pt-br/consumidor/produtos/automotivos/programa-brasileiro-de-etiquetagem-veicular" }
-draft: false
+draft: true
 ---
 
 ## O V6 3.0 do Outlander e a Conta que Não Fecha

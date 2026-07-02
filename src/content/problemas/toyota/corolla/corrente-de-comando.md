@@ -4,7 +4,7 @@ description: "A corrente de comando do Toyota Corolla 1.8 e 2.0 estica com o tem
 entidade:
   marca: "Toyota"
   modelo: "Corolla"
-  motor: "1.8 e 2.0 Dynamic Force"
+  motor: "2.0 Dynamic Force (M20A-FKS) e 1.8 (2ZR-FXE)"
   geracao: "11ª e 12ª geração (2014 em diante)"
 defeito: "corrente de comando com esticamento prematuro"
 kicker: "DEFEITO CRÔNICO"

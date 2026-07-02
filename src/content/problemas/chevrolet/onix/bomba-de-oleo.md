@@ -1,10 +1,10 @@
-﻿---
+---
 title: "Pescador entupido no Onix turbo: luz de óleo e o que fazer"
-description: "No Onix 1.0 e 1.2 turbo, quando a correia banhada a óleo se desfaz, os fragmentos entopem o pescador da bomba de óleo e cortam a lubrificação do motor. Veja os sintomas da luz de óleo, o risco real, o intervalo de troca certo (Dexos 1 Gen 3) e como prevenir."
+description: "No Onix 1.0 turbo, quando a correia banhada a óleo se desfaz, os fragmentos entopem o pescador da bomba de óleo e cortam a lubrificação do motor. Veja os sintomas da luz de óleo, o risco real, o intervalo de troca certo (Dexos 1 Gen 3) e como prevenir."
 entidade:
   marca: "Chevrolet"
   modelo: "Onix"
-  motor: "1.0 e 1.2 turbo (família CSS Prime)"
+  motor: "1.0 turbo (família CSS Prime)"
   geracao: "2ª geração (2020 em diante)"
 defeito: "pescador da bomba de óleo entupido"
 kicker: "DEFEITO CRÔNICO · CRÍTICO"
@@ -26,13 +26,13 @@ imagem: "/logos/hachiroku-badge-86.png"
 imagemAlt: "Pescador e bomba de óleo do motor turbo do Chevrolet Onix"
 faq:
   - pergunta: "O que entope o pescador da bomba de óleo no Onix turbo?"
-    resposta: "No Onix 1.0 e 1.2 turbo, a correia de distribuição é banhada a óleo, ou seja, trabalha imersa no óleo do motor. Quando ela começa a se desfazer (na maioria dos casos por uso de óleo fora da especificação), fragmentos do material se soltam e circulam pelo lubrificante. Esses pedaços param no pescador, a peça que capta o óleo do cárter para a bomba. Com o pescador obstruído, a pressão cai, a lubrificação despenca e o motor corre risco de falha grave."
+    resposta: "No Onix 1.0 turbo, a correia de distribuição é banhada a óleo, ou seja, trabalha imersa no óleo do motor. Quando ela começa a se desfazer (na maioria dos casos por uso de óleo fora da especificação), fragmentos do material se soltam e circulam pelo lubrificante. Esses pedaços param no pescador, a peça que capta o óleo do cárter para a bomba. Com o pescador obstruído, a pressão cai, a lubrificação despenca e o motor corre risco de falha grave."
   - pergunta: "Quais os sintomas de pescador entupido no Onix?"
     resposta: "O sinal mais importante é a luz de óleo acesa no painel. Pode vir acompanhada de ruído metálico no motor (tipo ferro velho) e perda de pressão de óleo. Em alguns casos o pedal de freio fica mais duro, porque o mesmo material da correia também entope a bomba de vácuo. Se a luz de óleo acender e for ignorada, o dano ao motor acontece em poucos quilômetros."
   - pergunta: "A luz de óleo do Onix é grave?"
     resposta: "Sim, é o alerta mais grave do painel. Diferente da luz de injeção, que muitas vezes permite rodar com cautela, a luz de óleo significa que a lubrificação pode estar comprometida agora. Rodar com ela acesa faz metal raspar em metal, e em poucos quilômetros bielas, pistões e mancais começam a se danificar. A orientação técnica é parar e desligar assim que for seguro."
   - pergunta: "Qual o óleo certo e de quanto em quanto tempo trocar no Onix turbo?"
-    resposta: "Para os motores 1.0 e 1.2 turbo (família CSS Prime), a Chevrolet especifica óleo 100% sintético 5W-30 com aprovação Dexos 1 Gen 3. O intervalo oficial da rede autorizada é 10.000 km ou 12 meses, condição para manter a garantia de até 240.000 km da correia. Para uso severo (trânsito pesado, trajetos curtos), o próprio manual manda reduzir o intervalo pela metade, e muitos mecânicos recomendam 5.000 km ou 6 meses para carros com correia banhada a óleo."
+    resposta: "Para os motores 1.0 turbo (família CSS Prime), a Chevrolet especifica óleo 100% sintético 5W-30 com aprovação Dexos 1 Gen 3. O intervalo oficial da rede autorizada é 10.000 km ou 12 meses, condição para manter a garantia de até 240.000 km da correia. Para uso severo (trânsito pesado, trajetos curtos), o próprio manual manda reduzir o intervalo pela metade, e muitos mecânicos recomendam 5.000 km ou 6 meses para carros com correia banhada a óleo."
   - pergunta: "Pescador entupido tem conserto?"
     resposta: "Tem, mas é caro e urgente. Envolve abrir o motor, limpar todo o sistema de lubrificação, trocar o pescador e, conforme o caso, a correia, o tensor, a bomba de vácuo e a bomba de óleo. Se o motor chegou a rodar sem lubrificação, o reparo pode incluir retífica. Por isso o foco é sempre a prevenção: óleo certo e troca em dia."
   - pergunta: "É verdade que o problema vem da correia, e não da bomba?"
@@ -80,7 +80,7 @@ fontes:
 draft: false
 ---
 
-No **Chevrolet Onix 1.0 e 1.2 turbo** (motores da família CSS Prime), o **pescador da bomba de óleo entupido** não é um defeito que nasce sozinho: é o desfecho mais caro da correia banhada a óleo. Quando a correia começa a se desfazer, <mark>fragmentos do material</mark> se soltam no óleo e obstruem o pescador, a peça que capta o óleo do cárter para a bomba.
+No **Chevrolet Onix 1.0 turbo** (motores da família CSS Prime), o **pescador da bomba de óleo entupido** não é um defeito que nasce sozinho: é o desfecho mais caro da correia banhada a óleo. Quando a correia começa a se desfazer, <mark>fragmentos do material</mark> se soltam no óleo e obstruem o pescador, a peça que capta o óleo do cárter para a bomba.
 
 Sem o óleo chegando à bomba, a pressão de lubrificação despenca e o motor corre risco de falha em poucos quilômetros. Este é um conteúdo de segurança crítica: lubrificação de motor não tem segunda chance.
 

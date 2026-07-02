@@ -1,10 +1,10 @@
-﻿---
+---
 title: "Barulho na Suspensão Dianteira do Toyota Yaris"
 description: "Batidas e estalos na suspensão dianteira do Yaris 2018+ têm causas conhecidas. Veja como diagnosticar bieleta e coxim e quanto custa o reparo."
 entidade:
   marca: "Toyota"
   modelo: "Yaris"
-  motor: "1.5 NR-FE"
+  motor: "1.5 2NR-FE"
   geracao: "2018+"
 defeito: "Barulho na suspensão dianteira"
 kicker: "DEFEITO CRÔNICO"
@@ -76,7 +76,7 @@ O sistema McPherson usa um único amortecedor que serve também como pivô da ro
 
 No Yaris, o amortecedor dianteiro fica alojado dentro de uma torre, com o coxim na parte superior fazendo a conexão com a carroceria. Na parte inferior, a bieleta conecta a barra estabilizadora à bandeja de suspensão. São exatamente esses dois pontos, coxim e bieleta, que costumam apresentar desgaste primeiro.
 
-O motor 1.5 NR-FE do Yaris tem 107 cavalos e é relativamente leve. Isso significa que o carro não sobrecarrega a suspensão de forma anormal. Quando o barulho aparece, a causa quase sempre é desgaste natural acelerado pelo estado das vias urbanas brasileiras, com buracos, lombadas e asfalto irregular.
+O motor 1.5 2NR-FE do Yaris tem 107 cavalos e é relativamente leve. Isso significa que o carro não sobrecarrega a suspensão de forma anormal. Quando o barulho aparece, a causa quase sempre é desgaste natural acelerado pelo estado das vias urbanas brasileiras, com buracos, lombadas e asfalto irregular.
 
 ## Sintomas: aprenda a escutar a suspensão
 

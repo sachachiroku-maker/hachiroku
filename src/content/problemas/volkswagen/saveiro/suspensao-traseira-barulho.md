@@ -4,7 +4,7 @@ description: "Saveiro G7 fazendo barulho atrás? Veja como diagnosticar feixe de
 entidade:
   marca: "Volkswagen"
   modelo: "Saveiro"
-  motor: "1.6 / 1.6 MSI / 1.6 Turbo"
+  motor: "1.6 / 1.6 MSI"
   geracao: "G7 (2016 em diante)"
 defeito: "Barulho na suspensão traseira — feixe de molas (folhão)"
 kicker: "DEFEITO CRÔNICO"

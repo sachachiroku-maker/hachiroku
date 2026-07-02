@@ -1,10 +1,10 @@
-﻿---
+---
 title: "Câmbio Manual Difícil de Engatar no Fiat Strada (2020 em"
 description: "Câmbio do Fiat Strada travando ou duro para engatar? Conheça as 5 causas mais comuns e o que fazer antes de gastar com retífica."
 entidade:
   marca: "Fiat"
   modelo: "Strada"
-  motor: "E.torQ 1.3 16V flex (109 cv)"
+  motor: "Firefly 1.3 8V flex"
   geracao: "3ª geração (2020 em diante)"
 defeito: "câmbio manual travado, difícil de engatar ou com troca de marcha dura"
 kicker: "DEFEITO CRÔNICO"
@@ -74,7 +74,7 @@ draft: false
 
 ## O câmbio da Strada que resiste às trocas de marcha
 
-O Fiat Strada 3ª geração chegou em 2020 como uma das picapes leves mais vendidas do Brasil. Motor E.torQ 1.3 de 109 cv, carroceria renovada, versões com câmbio manual de 5 ou 6 marchas dependendo do acabamento.
+O Fiat Strada 3ª geração chegou em 2020 como uma das picapes leves mais vendidas do Brasil. Motor Firefly 1.3 de 109 cv, carroceria renovada, versões com câmbio manual de 5 ou 6 marchas dependendo do acabamento.
 
 Na prática, o câmbio manual da Strada funciona bem em condições normais. O problema começa quando o carro entra em serviço pesado: carga frequente na caçamba, trabalho em terra, arrancadas constantes, quilometragem alta. Nesses casos, os relatos de câmbio duro, marcha difícil de engatar e alavanca com folga se multiplicam.
 

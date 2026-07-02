@@ -1,10 +1,10 @@
-﻿---
+---
 title: "Barulho no compressor do A/C da SW4 2.8 | Hachiroku"
 description: "Barulho ao engatar o compressor do ar-condicionado da Toyota SW4 2.8 diesel indica rolamento desgastado ou rele de acionamento com defeito. Veja sintomas, diagnostico e custo de reparo."
 entidade:
   marca: "Toyota"
   modelo: "SW4"
-  motor: "2.8 GD-6 (1GD-FTV)"
+  motor: "2.8 Turbo Diesel (1GD-FTV)"
   geracao: "3ª geração (AN140) — facelift 2021-atual"
 defeito: "barulho no compressor do ar-condicionado ao engatar, causado por rolamento desgastado ou rele de acionamento com defeito"
 kicker: "DEFEITO RECORRENTE"
@@ -15,7 +15,7 @@ entidadesEssenciais:
   - "embreagem do compressor"
   - "rele de acionamento do compressor"
   - "barulho ao engatar A/C"
-  - "motor 2.8 GD-6"
+  - "motor 2.8 2.8 Turbo Diesel"
   - "ar-condicionado Toyota SW4"
   - "compressor Denso"
 autor:
@@ -24,7 +24,7 @@ pubDate: 2026-06-21
 updatedDate: 2026-06-21
 disclaimer: "Este conteúdo é informativo e de diagnóstico. A substituição do compressor de ar-condicionado envolve descarga e recarga do fluido refrigerante (R-134a ou R-1234yf), procedimento que exige equipamento certificado e profissional habilitado. Não abra o sistema de A/C sem o equipamento adequado."
 imagem: "/logos/hachiroku-badge-86.png"
-imagemAlt: "Compressor de ar-condicionado Denso da Toyota SW4 2.8 GD-6 com barulho ao engatar"
+imagemAlt: "Compressor de ar-condicionado Denso da Toyota SW4 2.8 2.8 Turbo Diesel com barulho ao engatar"
 pontosChave:
   - "Sintoma: barulho metálico, rangido ou estralo ao acionar o ar-condicionado da Toyota SW4 2.8, que some ou muda de intensidade com o A/C desligado."
   - "Causa: rolamento de polia do compressor Denso desgastado ou rele de acionamento da embreagem eletromagnetica com defeito, impedindo engate suave."
@@ -72,7 +72,7 @@ fontes:
   - { titulo: "Compressor de A/C: sintomas de defeito e manutencao (iCarros)", url: "https://www.icarros.com.br/noticias/geral/compressor-de-ar-condicionado-do-carro-saiba-como-funciona-e-quando-trocar/22571.html" }
   - { titulo: "Toyota SW4: principais problemas relatados pelos donos (Mobiauto)", url: "https://www.mobiauto.com.br/revista/toyota-sw4-os-principais-problemas-segundo-os-donos/2892" }
 relacionados:
-  - { titulo: "Vela aquecedora com falha na Toyota Hilux GD-6: diagnóstico completo", url: "/problemas/toyota/hilux/vela-aquecedora-falha" }
+  - { titulo: "Vela aquecedora com falha na Toyota Hilux 2.8 Turbo Diesel: diagnóstico completo", url: "/problemas/toyota/hilux/vela-aquecedora-falha" }
   - { titulo: "Diferencial traseiro com barulho na Toyota Hilux: causas e reparo", url: "/problemas/toyota/hilux/diferencial-traseiro-barulho" }
 draft: false
 ---

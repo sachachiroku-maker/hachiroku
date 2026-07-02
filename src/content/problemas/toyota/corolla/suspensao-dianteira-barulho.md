@@ -1,10 +1,10 @@
-﻿---
+---
 title: "Barulho na Suspensão Dianteira do Toyota Corolla (2014 em"
 description: "Ploft, toc-toc ou traque na dianteira do Corolla? Diagnóstico dos 3 defeitos mais comuns: coxim, bucha de bandeja e bieleta — com custo de reparo 2025."
 entidade:
   marca: "Toyota"
   modelo: "Corolla"
-  motor: "1.8 2ZR-FE e 2.0 M20A-FKS"
+  motor: "1.8 2ZR-FXE (híbrido) e 2.0 M20A-FKS"
   geracao: "11ª e 12ª geração (2014 em diante)"
 defeito: "barulho e batidas na suspensão dianteira McPherson"
 kicker: "DEFEITO CRÔNICO"

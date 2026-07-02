@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Sensor de Pressão Common Rail Hilux 2.8 GD com Falha"
 description: "Sensor de pressão common rail com defeito na Hilux 2.8 GD diesel causa queda de potência, fumaça preta e luz do motor. Veja como diagnosticar e resolver."
 entidade:
@@ -61,7 +61,7 @@ afiliados:
     programa: amazon
     cta: "Ver filtro"
 fontes:
-  - titulo: "Toyota Hilux 2.8 GD-6 Engine Technical Manual"
+  - titulo: "Toyota Hilux 2.8 2.8 Turbo Diesel Engine Technical Manual"
     url: "https://www.toyota-tech.eu"
   - titulo: "Bosch Common Rail System: Pressure Sensor Function and Diagnostics"
     url: "https://www.bosch-mobility.com/en/solutions/powertrain/diesel-systems/common-rail/"

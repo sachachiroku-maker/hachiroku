@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Chevrolet Cruze com Ar-Condicionado Fraco"
 description: "Cruze 1.4 e 1.0 turbo com AC fraco ou quente? Veja causas, diagnóstico e custos: filtro de cabine, gás R134a, condensador e servo-motor Dual Zone."
 entidade:
@@ -62,7 +62,7 @@ pontosChave:
 fontes:
   - { titulo: "Manual do Proprietário Chevrolet Cruze 2023", url: "https://www.chevrolet.com.br/content/dam/chevrolet/south-america/brazil/portuguese/index/cars/cruze/2023-cruze/pdfs/manual-cruze-2023.pdf" }
   - { titulo: "Tabela de Pressões R134a — ABRAVA", url: "https://www.abrava.com.br" }
-draft: false
+draft: true
 ---
 
 O ar-condicionado é um dos itens mais exigidos no Cruze durante o verão brasileiro. Quando ele perde eficiência, a experiência dentro do carro piora rápido, especialmente em modelos sedan com mais de 80.000 km de uso.

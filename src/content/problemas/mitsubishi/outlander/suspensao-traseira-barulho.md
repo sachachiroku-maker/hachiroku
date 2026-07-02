@@ -1,10 +1,10 @@
-﻿---
+---
 title: "Barulho e Rangido na Suspensão Traseira do Mitsubishi"
 description: "Outlander fazendo coaxo, traque ou rangido atrás? Veja as 5 causas mais comuns, custos de reparo e como diagnosticar cada uma delas."
 entidade:
   marca: "Mitsubishi"
   modelo: "Outlander"
-  motor: "3.0 V6 MIVEC flex (220 cv)"
+  motor: "3.0 V6 MIVEC gasolina (240 cv)"
   geracao: "3ª geração (2015 em diante)"
 defeito: "barulho, rangido e folga na suspensão traseira multi-link"
 kicker: "DEFEITO CRÔNICO"

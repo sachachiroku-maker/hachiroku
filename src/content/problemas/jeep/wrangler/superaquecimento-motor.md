@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Jeep Wrangler Superaquecendo: Causas, Sintomas e Como"
 description: "Jeep Wrangler superaquecendo? Entenda as causas do problema no motor 1.3T e 2.0T: radiador entupido, termostato, EGR e correia auxiliar. Diagnóstico completo."
 entidade:
@@ -63,7 +63,7 @@ fontes:
   - { titulo: "Jeep Wrangler JL Owner's Manual — Coolant Specifications", url: "https://www.jeep.com/en/owners/manuals.html" }
   - { titulo: "FCA Service Information — EGR System Diagnosis (Motor 1.3T GME)", url: "https://www.mopar.com/en-us/care/service.html" }
   - { titulo: "NHTSA — Jeep Wrangler Cooling System Technical Service Bulletins", url: "https://www.nhtsa.gov/vehicle/2023/JEEP/WRANGLER/4%20DR/4WD" }
-draft: false
+draft: true
 ---
 
 ## Por que o Wrangler Superaquece Mais do que Outros SUVs

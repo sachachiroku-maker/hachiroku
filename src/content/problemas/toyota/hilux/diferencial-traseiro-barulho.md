@@ -1,10 +1,10 @@
-﻿---
+---
 title: "Diferencial traseiro da Toyota Hilux com barulho"
 description: "Barulho no diferencial traseiro da Toyota Hilux é um dos problemas mais relatados pelos proprietários e está diretamente ligado ao intervalo de troca do óleo de diferencial. Entenda os sintomas, o TBO correto e o custo de reparo."
 entidade:
   marca: "Toyota"
   modelo: "Hilux"
-  motor: "2.8 GD-6 (1GD-FTV)"
+  motor: "2.8 Turbo Diesel (1GD-FTV)"
   geracao: "8ª geração — facelift 2021-atual"
 defeito: "barulho no diferencial traseiro por desgaste de engrenagens ou degradação do óleo"
 kicker: "DEFEITO CRÔNICO"

@@ -1,4 +1,4 @@
-﻿---
+---
 title: "CVT do Hyundai Creta dá solavanco"
 description: "O câmbio CVT do Hyundai Creta pode apresentar solavancos, tranco ao sair do ponto e hesitação na aceleração. O problema costuma vir da correia ou do fluido do CVT degradado, mas também pode ser mau contato no módulo ou desgaste mecânico. Veja os sintomas, as causas, o diagnóstico e o custo estimado."
 entidade:
@@ -67,7 +67,7 @@ pontosChave:
 fontes:
   - { titulo: "Reclamações Hyundai Creta CVT (Reclame Aqui)", url: "https://www.reclameaqui.com.br/hyundai-motor-brasil-hb20/problemas-com-cambio-cvt-creta_/" }
   - { titulo: "Defeitos do Hyundai Creta primeira geração (Mundo do Automóvel para PCD)", url: "https://mundodoautomovelparapcd.com.br/principais-defeitos-do-hyundai-creta/" }
-draft: false
+draft: true
 ---
 
 O câmbio CVT do Hyundai Creta (1.6 aspirado, primeira geração) apresenta solavanco ao sair do ponto quando o fluido CVT está degradado ou incorreto, que é a causa mais comum segundo os relatos disponíveis. A transmissão do tipo variável contínua depende de um fluido específico para manter o atrito correto entre correia e polias; quando esse fluido envelhece ou é trocado pelo tipo errado, o deslizamento e o engajamento ficam irregulares, gerando o tranco. Se a troca de fluido com a especificação correta (NS-2 ou NS-3 conforme a ficha do carro) não resolver, o problema avança para desgaste mecânico interno da correia ou das polias, o que exige avaliacao em bancada. Antes de qualquer intervenção, leia os codigos de falha do modulo de transmissao com scanner e troque o fluido com a especificacao certa.

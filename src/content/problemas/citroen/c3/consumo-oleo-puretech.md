@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Consumo de óleo C3 1.2 PureTech"
 description: "O motor 1.2 PureTech 3 cilindros do Citroën C3 tem consumo de óleo documentado em toda a família. Entenda a causa técnica, como confirmar o defeito no seu carro e o que esperar do reparo."
 entidade:
@@ -81,7 +81,7 @@ pontosChave:
 fontes:
   - { titulo: "PSA Group: documentação técnica motor EB2 1.2 PureTech", url: "https://www.media.stellantis.com" }
   - { titulo: "Reclame Aqui: reclamações Citroën C3 consumo de óleo PureTech", url: "https://www.reclameaqui.com.br/empresa/citroen/" }
-draft: false
+draft: true
 ---
 
 O **consumo de óleo do Citroën C3 com motor 1.2 PureTech 3 cilindros** é um defeito documentado em toda a família de motores PureTech da PSA/Stellantis: o problema tem origem nos anéis de segmento com folga acima do projetado e nos retentores de haste de válvula que perdem vedação com o uso, e pode ser confirmado e tratado antes de causar dano permanente ao motor.

@@ -4,7 +4,7 @@ description: "Kwid consumindo mais gasolina ou etanol do que o normal? Veja as c
 entidade:
   marca: "Renault"
   modelo: "Kwid"
-  motor: "SCe 1.0 / SCe 1.0 Turbo"
+  motor: "SCe 1.0"
   geracao: "2017–2026"
 defeito: "Consumo alto de combustível"
 kicker: "DEFEITO CRÔNICO"

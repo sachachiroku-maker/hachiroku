@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Fiat Strada 1.3 Consome Óleo Demais? Entenda o Problema do"
 description: "Motor E.torQ 1.3 da Strada 2020 em diante consome óleo entre 0,5L e 1L a cada 1.000 km. Veja causas, sintomas e o que a Fiat cobre na garantia."
 entidade:
@@ -67,7 +67,7 @@ pontosChave:
 fontes:
   - { titulo: "Manual do Proprietário Fiat Strada 2022 — Especificações de Lubrificantes", url: "https://www.fiat.com.br/content/dam/fiat/br/manual-do-proprietario/strada-2022.pdf" }
   - { titulo: "Procon-SP — Reclamações Fiat Strada consumo de óleo (2021-2023)", url: "https://www.procon.sp.gov.br/" }
-draft: false
+draft: true
 ---
 
 ## O que está acontecendo com o motor da sua Strada

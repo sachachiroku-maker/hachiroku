@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Ar-condicionado fraco na Fiat Strada 1.3"
 description: "O ar-condicionado da Fiat Strada Firefly 1.3 que resfria mal quase sempre tem causa no compressor com problema de vedação ou no gás R-134a baixo por microvazamento. Veja como diagnosticar, o que verificar primeiro e quanto custa resolver."
 entidade:
@@ -72,8 +72,6 @@ afiliados:
     busca: "filtro secador ar condicionado fiat strada"
     programa: "amazon"
 relacionados:
-  - titulo: "Consumo de óleo no motor E.torQ da Fiat Strada"
-    url: "/problemas/fiat/strada/motor-etorq-consumo-oleo/"
   - titulo: "Câmbio manual difícil de engatar na Fiat Strada"
     url: "/problemas/fiat/strada/cambio-manual-dificil-engatar/"
 draft: false

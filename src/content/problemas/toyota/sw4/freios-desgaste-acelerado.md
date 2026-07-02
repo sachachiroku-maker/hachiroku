@@ -1,10 +1,10 @@
-﻿---
+---
 title: "Freios do Toyota SW4 com desgaste acelerado"
 description: "Os freios do Toyota SW4 sofrem desgaste mais rápido que a média por conta do peso elevado do SUV e do uso off-road. Entenda o intervalo real de troca, os sintomas de desgaste e o custo de manutenção dos freios do SW4."
 entidade:
   marca: "Toyota"
   modelo: "SW4"
-  motor: "2.8 GD-6 (1GD-FTV)"
+  motor: "2.8 Turbo Diesel (1GD-FTV)"
   geracao: "5ª geração — facelift 2021-atual"
 defeito: "desgaste acelerado de pastilhas e discos de freio"
 kicker: "DEFEITO CRÔNICO"
@@ -51,7 +51,7 @@ passos:
 pontosChave:
   - "O SW4 pesa 2.270 kg vazio, podendo chegar a mais de 3.000 kg com 7 ocupantes e bagagem. Esse peso é o principal fator do desgaste mais rápido dos freios."
   - "Intervalo típico de pastilhas dianteiras: 30.000 a 45.000 km em uso misto; 20.000 a 30.000 km em uso off-road intenso."
-  - "Freio motor do GD-6 em marcha reduzida é um aliado poderoso em descidas: preserva pastilhas e discos e é mais eficiente que frenagem contínua."
+  - "Freio motor do 2.8 Turbo Diesel em marcha reduzida é um aliado poderoso em descidas: preserva pastilhas e discos e é mais eficiente que frenagem contínua."
   - "Barulho de rangido agudo ao frear indica pastilha no limite de desgaste. Barulho constante sem frear indica pastilha ultrapassou o limite e pode estar danificando o disco."
   - "Fluido de freio: trocar a cada 2 anos ou 40.000 km, independentemente da aparência."
   - "Revisão completa dos 4 freios com peças originais: R$ 2.500 a R$ 4.500."
@@ -79,9 +79,9 @@ Em uso urbano com tráfego intenso, onde as frenagens são frequentes mas suaves
 
 Em percursos off-road, o SW4 é frequentemente usado em terrenos com inclinação significativa. Descidas em terreno irregular com o veículo carregado de família são os momentos de maior estresse para o sistema de freios.
 
-Um erro comum é manter o freio aplicado continuamente durante descidas longas, em vez de usar o freio motor do GD-6 associado a uma marcha baixa no câmbio. A frenagem contínua superaquece as pastilhas e os discos, reduzindo o coeficiente de atrito (fading de freio) e aumentando o desgaste.
+Um erro comum é manter o freio aplicado continuamente durante descidas longas, em vez de usar o freio motor do 2.8 Turbo Diesel associado a uma marcha baixa no câmbio. A frenagem contínua superaquece as pastilhas e os discos, reduzindo o coeficiente de atrito (fading de freio) e aumentando o desgaste.
 
-O modo correto para descidas em off-road é engajar L4 (tração integral com reduzida) e usar o freio motor do GD-6 para manter a velocidade baixa, usando o freio apenas para ajustes pontuais de velocidade. O SW4 SRX tem o sistema DAC (Downhill Assist Control) que automatiza esse processo em terrenos compatíveis.
+O modo correto para descidas em off-road é engajar L4 (tração integral com reduzida) e usar o freio motor do 2.8 Turbo Diesel para manter a velocidade baixa, usando o freio apenas para ajustes pontuais de velocidade. O SW4 SRX tem o sistema DAC (Downhill Assist Control) que automatiza esse processo em terrenos compatíveis.
 
 ## Os calipers e guias: o desgaste assimétrico
 

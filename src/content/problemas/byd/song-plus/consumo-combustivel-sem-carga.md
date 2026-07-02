@@ -1,10 +1,10 @@
-﻿---
+---
 title: "BYD Song Plus DM-i: consumo de combustível acima do"
 description: "Entenda por que o BYD Song Plus DM-i bebe mais gasolina do que o anunciado e como corrigir o problema sem gastar com mecânico. (157 chars)"
 entidade:
   marca: "BYD"
   modelo: "Song Plus"
-  motor: "DM-i 1.5L DOHC + motor elétrico (334 cv combinados)"
+  motor: "DM-i 1.5L DOHC + motor elétrico (235 cv combinados)"
   geracao: "DM-i 2ª geração (2023 em diante)"
 defeito: "consumo de gasolina acima do esperado no modo híbrido"
 kicker: "DEFEITO CRÔNICO"
@@ -19,7 +19,7 @@ imagem: "/logos/hachiroku-badge-86.png"
 imagemAlt: "Painel do BYD Song Plus DM-i exibindo indicador de bateria e consumo instantâneo no modo híbrido"
 faq:
   - pergunta: "Por que o BYD Song Plus DM-i consome mais gasolina do que o esperado?"
-    resposta: "Porque o DM-i foi projetado para funcionar predominantemente como veículo elétrico. Quando a bateria de 8,32 kWh está descarregada, o motor 1.5L Atkinson precisa propulsionar o carro E recarregar a bateria ao mesmo tempo, elevando o consumo para a faixa de 6 a 7 km/l na cidade."
+    resposta: "Porque o DM-i foi projetado para funcionar predominantemente como veículo elétrico. Quando a bateria de 18,3 kWh está descarregada, o motor 1.5L Atkinson precisa propulsionar o carro E recarregar a bateria ao mesmo tempo, elevando o consumo para a faixa de 6 a 7 km/l na cidade."
   - pergunta: "Qual o consumo real do Song Plus DM-i com a bateria carregada?"
     resposta: "Com a bateria cheia, o Song Plus DM-i roda em modo elétrico por até aproximadamente 80 km sem acionar o motor a gasolina. Nesse cenário, o consumo de combustível cai próximo de zero para trajetos curtos e o custo por quilômetro é muito inferior ao de um carro convencional."
   - pergunta: "O ar-condicionado realmente impacta tanto no consumo do DM-i?"
@@ -27,7 +27,7 @@ faq:
   - pergunta: "Posso usar o Song Plus DM-i sem carregador em casa?"
     resposta: "Tecnicamente sim, mas você perde a principal vantagem do sistema DM-i. Sem carregamento externo diário, o veículo opera como um HEV convencional com bateria pequena, e o custo por quilômetro se aproxima de um híbrido simples, sem o benefício do custo de energia elétrica."
   - pergunta: "Qual carregador instalar em casa para o Song Plus DM-i?"
-    resposta: "A BYD recomenda o carregador Wallbox de 7,4 kW (Tipo 2, monofásico 32A) para uso doméstico. Com ele, a bateria de 8,32 kWh é carregada em cerca de 1 hora e 15 minutos a partir do zero. Um carregador doméstico de 3,7 kW (tomada Tipo 2 de 16A) também funciona, mas leva aproximadamente 2 horas e 30 minutos."
+    resposta: "A BYD recomenda o carregador Wallbox de 7,4 kW (Tipo 2, monofásico 32A) para uso doméstico. Com ele, a bateria de 18,3 kWh é carregada em cerca de 1 hora e 15 minutos a partir do zero. Um carregador doméstico de 3,7 kW (tomada Tipo 2 de 16A) também funciona, mas leva aproximadamente 2 horas e 30 minutos."
 passos:
   - nome: "Verifique o padrão de uso e carregamento"
     texto: "Acesse o menu de telemetria do BYD Link no painel central e observe a proporção entre quilômetros rodados em modo EV e em modo HEV nos últimos 30 dias. Se mais de 50% dos quilômetros foram rodados com motor a gasolina, o problema é de hábito de carregamento, não de falha mecânica."
@@ -56,7 +56,7 @@ relacionados:
     url: "/ficha-tecnica/byd/song-plus-dmi/"
 pontosChave:
   - "Sintoma: consumo de gasolina de 6 a 7 km/l na cidade, muito abaixo dos 15+ km/l prometidos pela BYD"
-  - "Causa: uso predominante em modo HEV puro, sem carregamento externo da bateria de 8,32 kWh"
+  - "Causa: uso predominante em modo HEV puro, sem carregamento externo da bateria de 18,3 kWh"
   - "Ação: instalar Wallbox em casa e recarregar diariamente para manter a proporção EV acima de 70% dos km rodados"
   - "Atenção: ar-condicionado em dias quentes pode reduzir a autonomia elétrica em até 35%, acelerando a entrada do motor a gasolina"
 fontes:
@@ -102,7 +102,7 @@ O consumo elevado aparece acompanhado de outros sinais:
 
 ## A causa real: o DM-i sem carregamento é só um HEV comum
 
-A BYD Song Plus DM-i tem uma bateria de 8,32 kWh. Com ela cheia, o carro roda aproximadamente 80 km só no elétrico.
+A BYD Song Plus DM-i tem uma bateria de 18,3 kWh. Com ela cheia, o carro roda aproximadamente 80 km só no elétrico.
 
 Quando a bateria está descarregada, o sistema entra no que a BYD chama de modo HEV puro.
 
@@ -136,7 +136,7 @@ O compressor do ar-condicionado do Song Plus DM-i é elétrico. Ele consome ener
 
 Em uma tarde de 35°C, com o AC no máximo e tráfego urbano parado, o sistema de climatização pode consumir entre 1,5 e 2 kW de potência de forma contínua.
 
-Com uma bateria de 8,32 kWh disponíveis para uso real, isso significa que o AC sozinho pode consumir entre 20% e 25% da capacidade total em menos de uma hora.
+Com uma bateria de 18,3 kWh disponíveis para uso real, isso significa que o AC sozinho pode consumir entre 20% e 25% da capacidade total em menos de uma hora.
 
 <aside class="telltale danger" role="note"><span aria-hidden="true">⛔</span><p><strong>Cenário crítico.</strong> Se você sai de casa com a bateria cheia (80 km de autonomia elétrica estimada) e percorre 40 km com AC no máximo num dia muito quente, pode chegar ao destino com menos de 30% de bateria restante, contra o esperado de aproximadamente 50%. O motor a gasolina vai entrar em operação muito antes do que você planeja.</p></aside>
 

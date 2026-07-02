@@ -1,10 +1,10 @@
-﻿---
+---
 title: "Barulho e Folga na Suspensão Traseira do Hyundai Santa Fe"
 description: "Rangido, coaxo ou batida na suspensão traseira do Santa Fe TM? Guia técnico completo com causas, diagnóstico e custos de reparo para o multi-link."
 entidade:
   marca: "Hyundai"
   modelo: "Santa Fe"
-  motor: "3.5 V6 MPI flex (247 cv)"
+  motor: "3.5 V6 MPFI gasolina (285 cv)"
   geracao: "TM (2019 em diante)"
 defeito: "barulho, rangido e folga na suspensão traseira multi-link"
 kicker: "DEFEITO CRÔNICO"

@@ -4,7 +4,7 @@ description: "O câmbio CVT do Honda WR-V patina em subidas e ultrapassagens por
 entidade:
   marca: "Honda"
   modelo: "WR-V"
-  motor: "1.5 SOHC 16V"
+  motor: "1.5 DOHC i-VTEC (injeção direta)"
   geracao: "2ª geração (2023 em diante)"
 defeito: "patinação do câmbio CVT sob carga em subidas e ultrapassagens"
 kicker: "PROBLEMA COMUM · CÂMBIO"
@@ -87,7 +87,7 @@ A boa notícia é que, quando diagnosticado antes do desgaste mecânico, o probl
 
 ## Como o CVT do WR-V transmite força, e por que ele patina
 
-O CVT (Continuously Variable Transmission) do Honda WR-V 1.5 SOHC 16V não tem engrenagens fixas. Ele funciona com **duas polias de diâmetro variável** conectadas por uma **correia metálica de aço**. As polias abrem e fecham conforme a demanda, alterando a relação de transmissão de forma contínua.
+O CVT (Continuously Variable Transmission) do Honda WR-V 1.5 DOHC i-VTEC (injeção direta) não tem engrenagens fixas. Ele funciona com **duas polias de diâmetro variável** conectadas por uma **correia metálica de aço**. As polias abrem e fecham conforme a demanda, alterando a relação de transmissão de forma contínua.
 
 Essa variação é controlada hidraulicamente: a pressão do fluido HCF-2 determina o quanto cada polia aperta ou solta a correia. O fluido não é apenas lubrificante: ele é o que **transmite a pressão que mantém a correia presa nas polias** durante a aceleração.
 

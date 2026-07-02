@@ -73,8 +73,6 @@ fontes:
   - titulo: "Superaquecimento do Citroën C3: relatos e soluções (Reclame Aqui)"
     url: "https://www.reclameaqui.com.br/empresa/citroen/"
 relacionados:
-  - titulo: "Citroën C3: consumo de óleo excessivo no motor PureTech"
-    url: "/problemas/citroen/c3/consumo-oleo-puretech"
   - titulo: "Citroën C3 2019+: ficha técnica completa e especificações"
     url: "/ficha-tecnica/citroen/c3-shine-1-6/"
 draft: false

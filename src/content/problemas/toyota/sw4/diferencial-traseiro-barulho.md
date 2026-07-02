@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Barulho no Diferencial Traseiro SW4 | Hachiroku"
 pubDate: 2026-06-21
 updatedDate: 2026-06-21
@@ -61,7 +61,7 @@ fontes:
 relacionados:
   - titulo: "Freios com desgaste acelerado no Toyota SW4: diagnóstico e solução"
     url: "/problemas/toyota/sw4/freios-desgaste-acelerado"
-  - titulo: "Vela aquecedora do motor 2.8 GD-6 com falha no Toyota SW4"
+  - titulo: "Vela aquecedora do motor 2.8 2.8 Turbo Diesel com falha no Toyota SW4"
     url: "/problemas/toyota/sw4/motor-gd6-vela-aquecedora"
 asides:
   - tipo: telltale

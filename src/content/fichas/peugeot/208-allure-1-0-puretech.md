@@ -81,8 +81,6 @@ faq:
   - pergunta: "Qual o consumo real do Peugeot 208 1.0 no dia a dia?"
     resposta: "No uso urbano, a maioria dos proprietários relata 9,5-11,5 km/l com gasolina. Na estrada, 12,0-14,0 km/l. Com etanol, espere 65-70% dos valores com gasolina. São números competitivos para o segmento de hatchs compactos, mas o motor 3 cilindros exige mais rotação para acelerar do que um 1.0 biturbo mais moderno."
 relacionados:
-  - titulo: "Problemas comuns do motor PureTech 1.2 Turbo"
-    url: "/problemas/peugeot/208/consumo-oleo-puretech/"
   - titulo: "Vale a pena comprar hatch compacto usado?"
     url: "/guia-de-compra/checklist-vistoria-carro-usado/"
 draft: false

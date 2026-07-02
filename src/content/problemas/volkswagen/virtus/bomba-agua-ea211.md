@@ -1,10 +1,10 @@
-﻿---
+---
 title: "Bomba de Água com Impelidor Plástico no VW Virtus"
 description: "Impelidor plástico da bomba de água do Virtus racha ou solta do eixo e provoca superaquecimento súbito. Veja diagnóstico, custos e a solução definitiva com impelidor metálico."
 entidade:
   marca: "Volkswagen"
   modelo: "Virtus"
-  motor: "1.6 MSI (110 cv) e 1.0 MPI (84 cv)"
+  motor: "1.6 MSI (110 cv) e 1.0 TSI (EA211)"
   geracao: "1ª geração (2018 em diante)"
 defeito: "falha do impelidor plástico da bomba de água causando superaquecimento"
 kicker: "DEFEITO CRÔNICO"

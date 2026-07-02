@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Ar-condicionado Fraco no Mitsubishi Outlander 2.0 e 3.0 V6"
 description: "AC fraco no Outlander 2.0 CVT e 3.0 V6: condensador entupido, compressor sobrecarregado, gás baixo ou filtro de cabine saturado. Diagnóstico com custos 2026."
 entidade:
@@ -51,8 +51,6 @@ afiliados:
 relacionados:
   - titulo: "Todos os defeitos do Mitsubishi Outlander"
     url: "/problemas/mitsubishi/outlander/"
-  - titulo: "Câmbio CVT Superaquecendo no Mitsubishi Outlander"
-    url: "/problemas/mitsubishi/outlander/cambio-cvt-superaquecimento/"
 pontosChave:
   - "Sintoma: ar frio insuficiente mesmo com AC no máximo, agravado com lotação completa ou temperatura acima de 35°C"
   - "Causa: no 2.0 CVT o compressor é menor e mais esforçado; em ambos os motores o condensador entupido é a causa mais comum e mais barata de corrigir"

@@ -9,7 +9,7 @@ autor:
 entidade:
   marca: "Chevrolet"
   modelo: "Onix"
-  motor: "1.0 Turbo (L3B) Flex"
+  motor: "1.0 Turbo Flex"
 
 defeito: "Consumo de óleo acima de 500 ml a cada 5.000 km, causado por folga excessiva nos anéis de segmento, seja por variação de fabricação ou pela degradação acelerada provocada pelo uso contínuo com gasolina adulterada."
 
@@ -80,7 +80,7 @@ asides:
     texto: "Fumaça azulada ao ligar o motor pela manhã, que desaparece após aquecer, é um sinal precoce de anéis desgastados. Não ignore: o consumo tende a aumentar progressivamente."
 ---
 
-O Chevrolet Onix com motor 1.0 Turbo (L3B) flex ganhou o mercado brasileiro pela combinação de desempenho e economia, mas um problema recorrente tem frustrado proprietários: o consumo de óleo acima de 500 ml a cada 5.000 km, sem vazamento visível no chão da garagem. O óleo simplesmente some, e a causa principal está nos anéis de segmento com folga excessiva.
+O Chevrolet Onix com motor 1.0 Turbo flex ganhou o mercado brasileiro pela combinação de desempenho e economia, mas um problema recorrente tem frustrado proprietários: o consumo de óleo acima de 500 ml a cada 5.000 km, sem vazamento visível no chão da garagem. O óleo simplesmente some, e a causa principal está nos anéis de segmento com folga excessiva.
 
 ## Por que o Onix Turbo consome óleo
 

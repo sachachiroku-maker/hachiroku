@@ -4,7 +4,7 @@ description: "O câmbio CVT do Toyota Corolla é durável, mas a confusão sobre
 entidade:
   marca: "Toyota"
   modelo: "Corolla"
-  motor: "1.8 e 2.0 Dynamic Force / 1.8 Hybrid"
+  motor: "2.0 Dynamic Force (M20A-FKS) / 1.8 híbrido (2ZR-FXE)"
   geracao: "11ª e 12ª geração (2014 em diante)"
 defeito: "câmbio CVT e a confusão da troca de fluido ATF WS"
 kicker: "DEFEITO CRÔNICO"

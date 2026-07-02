@@ -425,6 +425,61 @@
       "source": "/problemas/ram/rampage/transmissao-automatica-solavanco/:path*",
       "destination": "/problemas/ram/rampage/",
       "permanent": true
+    },
+    {
+      "source": "/problemas/chevrolet/cruze/ar-condicionado-fraco/:path*",
+      "destination": "/problemas/chevrolet/cruze/",
+      "permanent": true
+    },
+    {
+      "source": "/problemas/jeep/wrangler/superaquecimento-motor/:path*",
+      "destination": "/problemas/jeep/wrangler/",
+      "permanent": true
+    },
+    {
+      "source": "/problemas/fiat/strada/motor-etorq-consumo-oleo/:path*",
+      "destination": "/problemas/fiat/strada/",
+      "permanent": true
+    },
+    {
+      "source": "/problemas/mitsubishi/outlander/consumo-combustivel-v6/:path*",
+      "destination": "/problemas/mitsubishi/outlander/",
+      "permanent": true
+    },
+    {
+      "source": "/problemas/mitsubishi/outlander/cambio-cvt-superaquecimento/:path*",
+      "destination": "/problemas/mitsubishi/outlander/",
+      "permanent": true
+    },
+    {
+      "source": "/problemas/peugeot/208/consumo-oleo-puretech/:path*",
+      "destination": "/problemas/peugeot/208/",
+      "permanent": true
+    },
+    {
+      "source": "/problemas/citroen/c3/consumo-oleo-puretech/:path*",
+      "destination": "/problemas/citroen/c3/",
+      "permanent": true
+    },
+    {
+      "source": "/problemas/chevrolet/spin/motor-etorq-consumo-oleo/:path*",
+      "destination": "/problemas/chevrolet/spin/motor-ecotec-consumo-oleo/",
+      "permanent": true
+    },
+    {
+      "source": "/problemas/chevrolet/spin/superaquecimento-etorq/:path*",
+      "destination": "/problemas/chevrolet/spin/superaquecimento-motor-1-8/",
+      "permanent": true
+    },
+    {
+      "source": "/problemas/nissan/kicks/ar-condicionado-fraco/:path*",
+      "destination": "/problemas/nissan/kicks/",
+      "permanent": true
+    },
+    {
+      "source": "/problemas/hyundai/creta/transmissao-cvt-solavanco/:path*",
+      "destination": "/problemas/hyundai/creta/",
+      "permanent": true
     }
   ],
   "headers": [

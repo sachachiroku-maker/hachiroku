@@ -1,10 +1,10 @@
-﻿---
+---
 title: "Ar-condicionado fraco no Hyundai Santa Fe 3.5 V6"
 description: "Santa Fe 3.5 V6 com A/C fraco? Veja as causas do ar frio insuficiente, como diagnosticar e o que trocar. Guia técnico completo para 7 lugares."
 entidade:
   marca: "Hyundai"
   modelo: "Santa Fe"
-  motor: "3.5 V6 GDI"
+  motor: "3.5 V6 MPFI"
   geracao: "3ª geração (DM, 2013-2018) e 4ª geração (TM, 2019-2024)"
 defeito: "Ar-condicionado fraco ou quente"
 kicker: "DEFEITO CRÔNICO"
