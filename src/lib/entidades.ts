@@ -113,6 +113,14 @@ export const ENTIDADES: Entidade[] = [
     sameAs: 'https://en.wikipedia.org/wiki/Renault_B-Type_engine',
   },
   {
+    slug: 'ap-volkswagen', tipo: 'motor', nome: 'Motor AP (Volkswagen)',
+    titulo: 'Motor AP da Volkswagen: versões, manutenção e preparação',
+    seoTitle: 'Motor AP: manutenção e preparação',
+    resumo: 'O motor AP, sigla de Alta Performance, é a família de quatro cilindros em linha que a Volkswagen produziu no Brasil entre 1984 e 2013, nas cilindradas 1.6, 1.8 e 2.0, com versões de oito e de dezesseis válvulas. Equipou Gol, Parati, Saveiro, Voyage, Santana e Quantum, e é um bloco de ferro fundido com comando no cabeçote acionado por correia dentada, cuja substituição a cada 60.000 km é obrigatória junto com bomba d\'água e tensor, sob risco de encontro entre válvulas e pistões. O ponto de atenção mais comum em exemplares rodados é a folga de tuchos hidráulicos e o desgaste da junta do cabeçote em motores que operaram superaquecidos. A robustez do bloco e a facilidade de acesso a peças fizeram do AP a base mais usada em preparação turbo no Brasil, o que criou um mercado paralelo de componentes de alta performance. Em versão original a álcool, o AP aceita pressão de sobrealimentação moderada com internos de fábrica, mas potências acima de 300 cavalos exigem pistão forjado, biela reforçada e gestão eletrônica programável.',
+    modelos: ['volkswagen/gol', 'volkswagen/saveiro', 'volkswagen/fox'],
+    sameAs: 'https://pt.wikipedia.org/wiki/Volkswagen_AP',
+  },
+  {
     slug: 'turbodiesel-picapes', tipo: 'tecnologia', nome: 'Turbodiesel de picape',
     titulo: 'Turbodiesel de picape: DPF, EGR, Arla 32 e os cuidados que evitam oficina',
     seoTitle: 'Turbodiesel de picape: DPF, EGR e Arla',

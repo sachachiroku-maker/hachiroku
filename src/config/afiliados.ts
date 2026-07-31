@@ -12,9 +12,15 @@ export const AFILIADOS = {
     tag: 'hachiroku-20', // TODO: trocar pela tag real
     base: 'https://www.amazon.com.br/s',
   },
-  // Mercado Livre — programa de afiliados (matt_tool/word ou link encurtado próprio)
+  // Mercado Livre — programa de afiliados.
+  // O mecanismo real do programa NÃO é parâmetro em link de busca: é link curto
+  // (meli.la/xxxx) gerado por produto no painel, associado a uma etiqueta.
+  // Etiqueta em uso: "blog". Preferir SEMPRE link direto de produto via `url`,
+  // porque a janela de atribuição é de 24 horas (fonte: ajuda ML 45554) e link
+  // de busca perde o clique em navegação intermediária.
   mercadoLivre: {
-    matt: 'HACHIROKU', // TODO: trocar pelo identificador real do programa
+    etiqueta: 'blog',
+    matt: 'HACHIROKU', // fallback de busca; não é o mecanismo oficial
     base: 'https://lista.mercadolivre.com.br',
   },
   // PneuStore — parceria direta (ticket alto, ~5%)

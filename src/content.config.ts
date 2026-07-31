@@ -22,14 +22,32 @@ const howtoStep = z.object({
 const afiliado = z.object({
   produto: z.string(),
   nota: z.string().optional(),                                  // por que recomendamos (contexto)
-  busca: z.string(),                                            // termo de busca afiliada
+  busca: z.string().optional(),                                 // termo de busca afiliada (fallback)
+  url: z.string().url().optional(),                             // link direto de afiliado (preferir sempre)
+  preco: z.string().optional(),                                 // preço observado + data da coleta
   programa: z.enum(['amazon', 'mercadoLivre', 'pneuStore']).default('amazon'),
   cta: z.string().default('Ver peça recomendada'),
+}).refine((a) => Boolean(a.url || a.busca), {
+  message: 'Bloco de afiliado precisa de `url` (link direto, preferido) ou `busca` (fallback).',
 });
 
 const link = z.object({
   titulo: z.string(),
   url: z.string(),
+});
+
+/**
+ * Referência do bloco "Referências" (fim do artigo).
+ * `url` é OPCIONAL de propósito: nem toda fonte precisa receber link.
+ * Citar canal, fórum ou levantamento próprio pelo nome já estabelece procedência
+ * e relação de entidade, que é o que motor de busca e motor generativo leem.
+ * O link é sinal de confiança, não requisito de atribuição.
+ */
+const referencia = z.object({
+  titulo: z.string(),
+  url: z.string().url().optional(),
+  autor: z.string().optional(),     // canal, fórum, veículo
+  data: z.string().optional(),      // ex: "mar/2026"
 });
 
 // SILO 1 — /problemas/{marca}/{modelo}/{defeito}/
@@ -265,4 +283,80 @@ const revisao = defineCollection({
     }),
 });
 
-export const collections = { problemas, fichas, guias, manutencao, eletricos, tecnico, revisao };
+// SILO 8 — /preparacao/ (performance: listas por meta de potência, receitas e peças)
+//
+// Regra de integridade do silo: "turbina para 300cv" NÃO é especificação.
+// Potência é função de deslocamento, combustível, pressão e internos. Páginas do
+// tipo `lista` e `receita` exigem essa qualificação, validada em tempo de build
+// pelo superRefine abaixo. Publicar meta de potência sem qualificar quebra o build
+// de propósito: é o erro que destrói a credibilidade do silo na primeira leitura.
+const preparacao = defineCollection({
+  loader: glob({ pattern: '**/*.md', base: './src/content/preparacao' }),
+  schema: () =>
+    z.object({
+      // --- Entity Lock-in ---
+      title: z.string(),
+      seoTitle: z.string().optional(),
+      h1: z.string().optional(),
+      description: z.string(),
+      kicker: z.string().default('PREPARAÇÃO · ALTA PERFORMANCE'),
+
+      // Tipo de página do silo:
+      //  lista   = "Turbinas para 300cv em AP 2.0 álcool"  (eixo A, fundo de funil)
+      //  receita = "Receita: Gol AP 2.0 turbo para 300cv"  (eixo B, projeto completo)
+      //  peca    = "Coletor de escape para AP: como escolher"
+      //  projeto = ficha de projeto real catalogado (banco de projetos)
+      tipo: z.enum(['lista', 'receita', 'peca', 'projeto']),
+
+      // --- Qualificação técnica (o que separa este silo de conteúdo genérico) ---
+      motor: z.string().optional(),                 // ex: "AP 2.0 8v"
+      plataforma: z.string().optional(),            // ex: "volkswagen/gol"
+      combustivel: z.enum(['gasolina', 'alcool', 'flex', 'e85', 'diesel']).optional(),
+      metaPotencia: z.number().int().positive().optional(),   // cv
+      pressaoMax: z.string().optional(),            // ex: "1,0 kg"
+      internos: z.enum(['original', 'forjado', 'misto']).optional(),
+
+      // --- Produtos (usa o sub-schema afiliado já existente) ---
+      afiliados: z.array(afiliado).default([]),
+      custoEstimado: z.string().optional(),         // ex: "R$ 38.400"
+
+      // --- GEO / E-E-A-T ---
+      entidadesEssenciais: z.array(z.string()).default([]),
+      pontosChave: z.array(z.string()).default([]),
+      // Bloco "Referências" no fim do artigo. URL é opcional (ver `referencia`).
+      fontes: z.array(referencia).default([]),
+
+      autor: z.object({
+        nome: z.string(),
+        credencial: z.string().optional(),
+        sameAs: z.string().url().optional(),
+      }),
+      pubDate: z.coerce.date(),
+      updatedDate: z.coerce.date().optional(),
+      faq: z.array(faqItem).default([]),
+      relacionados: z.array(link).default([]),
+      draft: z.boolean().default(false),
+    })
+    .superRefine((d, ctx) => {
+      if (d.tipo !== 'lista' && d.tipo !== 'receita') return;
+      const exigidos: Array<[keyof typeof d, string]> = [
+        ['motor', 'motor (ex: "AP 2.0 8v")'],
+        ['combustivel', 'combustivel'],
+        ['metaPotencia', 'metaPotencia (cv)'],
+        ['internos', 'internos (original | forjado | misto)'],
+      ];
+      for (const [campo, descricao] of exigidos) {
+        if (d[campo] === undefined || d[campo] === null || d[campo] === '') {
+          ctx.addIssue({
+            code: z.ZodIssueCode.custom,
+            path: [campo as string],
+            message:
+              `Página tipo "${d.tipo}" exige ${descricao}. ` +
+              'Meta de potência sem qualificar motor, combustível e internos não é especificação, é chute.',
+          });
+        }
+      }
+    }),
+});
+
+export const collections = { problemas, fichas, guias, manutencao, eletricos, tecnico, revisao, preparacao };

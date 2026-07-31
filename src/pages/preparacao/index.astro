@@ -1,0 +1,119 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+
+const site = 'https://hachiroku.com.br';
+const url = `${site}/preparacao/`;
+
+const entradas = await getCollection('preparacao', ({ data }) => !data.draft);
+
+const ROTULO_TIPO: Record<string, string> = {
+  lista: 'Qual comprar',
+  receita: 'Receitas de projeto',
+  peca: 'Guias de peça',
+  projeto: 'Projetos catalogados',
+};
+const ORDEM = ['lista', 'receita', 'peca', 'projeto'];
+
+const porTipo = ORDEM.map((tipo) => ({
+  tipo,
+  rotulo: ROTULO_TIPO[tipo],
+  itens: entradas
+    .filter((e) => e.data.tipo === tipo)
+    .sort((a, b) => (a.data.metaPotencia ?? 0) - (b.data.metaPotencia ?? 0)),
+})).filter((g) => g.itens.length > 0);
+
+const jsonld = {
+  '@context': 'https://schema.org',
+  '@graph': [
+    {
+      '@type': 'BreadcrumbList',
+      '@id': `${url}#breadcrumb`,
+      itemListElement: [
+        { '@type': 'ListItem', position: 1, name: 'Início', item: `${site}/` },
+        { '@type': 'ListItem', position: 2, name: 'Preparação', item: url },
+      ],
+    },
+    {
+      '@type': 'CollectionPage',
+      '@id': `${url}#webpage`,
+      name: 'Preparação e alta performance | Hachiroku',
+      description:
+        'Qual peça comprar para cada meta de potência, receitas de projeto com custo real e guias de escolha. Sempre com motor, combustível e internos declarados.',
+      inLanguage: 'pt-BR',
+      isPartOf: { '@id': `${site}/#website` },
+      breadcrumb: { '@id': `${url}#breadcrumb` },
+      publisher: { '@id': `${site}/#organization` },
+    },
+    {
+      '@type': 'ItemList',
+      itemListElement: entradas.map((e, i) => ({
+        '@type': 'ListItem',
+        position: i + 1,
+        name: e.data.title,
+        url: `${url}${e.id}/`,
+      })),
+    },
+  ],
+};
+---
+<BaseLayout
+  title="Preparação e alta performance | Hachiroku"
+  description="Qual peça comprar para cada meta de potência, receitas de projeto com custo real e guias de escolha. Sempre com motor, combustível e internos declarados."
+  canonical={url}
+  type="website"
+>
+  <script type="application/ld+json" set:html={JSON.stringify(jsonld)} />
+
+  <section class="hero" style="padding-block:var(--space-16)">
+    <p class="kicker" style="color:var(--asphalt-300)">PREPARAÇÃO · ALTA PERFORMANCE</p>
+    <h1>Preparação</h1>
+    <p class="tagline">Quanto custa, o que comprar e em que ordem</p>
+  </section>
+
+  <nav class="breadcrumb" aria-label="Você está em">
+    <a href="/">Início</a> · <span>Preparação</span>
+  </nav>
+
+  <section class="prose">
+    <p class="lead">
+      Aqui a potência é tratada como resultado de quatro variáveis, nunca como número
+      solto: deslocamento do motor, combustível, pressão de trabalho e internos. Toda
+      página de meta de potência declara as quatro logo no título. Turbina para 300
+      cavalos em AP 2.0 a álcool com motor original não é a mesma turbina de um 1.6 a
+      gasolina, e tratar as duas como equivalentes é o erro que faz projeto quebrar.
+    </p>
+  </section>
+
+  {porTipo.map((g) => (
+    <section class="silos" aria-label={g.rotulo} style="margin-top:var(--space-16)">
+      <h2>{g.rotulo}</h2>
+      {g.itens.map((e) => (
+        <a class="silo-card" href={`/preparacao/${e.id}/`}>
+          <h3>{e.data.h1 ?? e.data.title}</h3>
+          <p>{e.data.description}</p>
+        </a>
+      ))}
+    </section>
+  ))}
+
+  {entradas.length === 0 && (
+    <section class="prose" style="margin-top:var(--space-16)">
+      <p>Conteúdo em publicação.</p>
+    </section>
+  )}
+
+  <section class="prose" style="margin-top:var(--space-16)">
+    <h2>Por onde começar</h2>
+    <p>
+      Se você ainda não definiu a meta, comece pelo motor. A página do
+      <a href="/motor/ap-volkswagen/">motor AP</a> explica o que o bloco aguenta de
+      fábrica e onde começa a exigir pistão forjado e gestão programável.
+    </p>
+    <p>
+      Se o seu carro ainda apresenta defeito de origem, resolva antes de pressurizar.
+      Colocar pressão sobre problema existente antecipa a quebra:
+      <a href="/problemas/">ver diagnósticos por modelo →</a>
+    </p>
+  </section>
+</BaseLayout>

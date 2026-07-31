@@ -1,0 +1,185 @@
+---
+import { getCollection, render } from 'astro:content';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import Afiliado from '../../components/ui/Afiliado.astro';
+import Photo from '../../components/ui/Photo.astro';
+
+export async function getStaticPaths() {
+  const entries = await getCollection('preparacao', ({ data }) => !data.draft);
+  return entries.map((entry) => ({ params: { slug: entry.id }, props: { entry } }));
+}
+const { entry } = Astro.props;
+const { data } = entry;
+const { Content } = await render(entry);
+
+const site = 'https://hachiroku.com.br';
+const url = new URL(`/preparacao/${entry.id}/`, site).href;
+const fmt = (d: Date) => d.toLocaleDateString('pt-BR');
+
+const COMBUSTIVEL: Record<string, string> = {
+  gasolina: 'Gasolina', alcool: 'Álcool', flex: 'Flex', e85: 'E85', diesel: 'Diesel',
+};
+const INTERNOS: Record<string, string> = {
+  original: 'Internos originais', forjado: 'Internos forjados', misto: 'Internos mistos',
+};
+
+// Ficha de qualificação: é ela que separa este silo de conteúdo genérico.
+const ficha = [
+  data.motor && { k: 'Motor', v: data.motor },
+  data.combustivel && { k: 'Combustível', v: COMBUSTIVEL[data.combustivel] },
+  data.metaPotencia && { k: 'Meta de potência', v: `${data.metaPotencia} cv` },
+  data.pressaoMax && { k: 'Pressão de trabalho', v: data.pressaoMax },
+  data.internos && { k: 'Internos', v: INTERNOS[data.internos] },
+  data.custoEstimado && { k: 'Custo estimado', v: data.custoEstimado },
+].filter((m): m is { k: string; v: string } => Boolean(m));
+
+const graph: any[] = [
+  {
+    '@type': 'BreadcrumbList',
+    '@id': `${url}#breadcrumb`,
+    itemListElement: [
+      { '@type': 'ListItem', position: 1, name: 'Início', item: `${site}/` },
+      { '@type': 'ListItem', position: 2, name: 'Preparação', item: `${site}/preparacao/` },
+      { '@type': 'ListItem', position: 3, name: data.title },
+    ],
+  },
+  {
+    '@type': 'Article',
+    '@id': `${url}#article`,
+    headline: data.h1 ?? data.title,
+    description: data.description,
+    inLanguage: 'pt-BR',
+    datePublished: data.pubDate.toISOString(),
+    dateModified: (data.updatedDate ?? data.pubDate).toISOString(),
+    author: { '@type': 'Person', name: data.autor.nome },
+    publisher: { '@id': `${site}/#organization` },
+    isPartOf: { '@id': `${site}/#website` },
+    breadcrumb: { '@id': `${url}#breadcrumb` },
+    mainEntityOfPage: url,
+  },
+];
+
+if (data.afiliados.length > 0) {
+  graph.push({
+    '@type': 'ItemList',
+    '@id': `${url}#produtos`,
+    name: 'Peças avaliadas',
+    itemListElement: data.afiliados.map((a: any, i: number) => ({
+      '@type': 'ListItem',
+      position: i + 1,
+      name: a.produto,
+    })),
+  });
+}
+
+if (data.faq.length > 0) {
+  graph.push({
+    '@type': 'FAQPage',
+    '@id': `${url}#faq`,
+    mainEntity: data.faq.map((f: any, i: number) => ({
+      '@type': 'Question',
+      '@id': `${url}#faq-${i}`,
+      name: f.pergunta,
+      acceptedAnswer: { '@type': 'Answer', text: f.resposta },
+    })),
+  });
+}
+
+const jsonld = { '@context': 'https://schema.org', '@graph': graph };
+---
+<BaseLayout
+  title={`${data.seoTitle ?? data.title} | Hachiroku`}
+  description={data.description}
+  canonical={url}
+  type="article"
+  pubDate={data.pubDate}
+  updatedDate={data.updatedDate}
+  author={data.autor.nome}
+>
+  <script type="application/ld+json" set:html={JSON.stringify(jsonld)} />
+
+  <article class="prose">
+    <nav class="breadcrumb" aria-label="Você está em">
+      <a href="/preparacao/">Preparação</a> · <span>{data.motor ?? data.title}</span>
+    </nav>
+
+    <header>
+      <p class="kicker">{data.kicker}</p>
+      <h1 class="article-title">{data.h1 ?? data.title}</h1>
+      <div class="article-meta">
+        <span itemprop="author" itemscope itemtype="https://schema.org/Person">
+          <a href="/equipe/" itemprop="url"><span itemprop="name">{data.autor.nome}</span></a>
+        </span>
+        <time datetime={(data.updatedDate ?? data.pubDate).toISOString().slice(0, 10)}>
+          Atualizado em {fmt(data.updatedDate ?? data.pubDate)}
+        </time>
+      </div>
+    </header>
+
+    <p class="lead">{data.description}</p>
+
+    <Photo label={data.motor ?? data.title} h={240} src="/img/capas/guia.webp" class="artigo-capa" priority />
+
+    {ficha.length > 0 && (
+      <dl class="howto-meta" aria-label="Qualificação técnica">
+        {ficha.map((m) => (<div><dt>{m.k}</dt><dd>{m.v}</dd></div>))}
+      </dl>
+    )}
+
+    {data.pontosChave.length > 0 && (
+      <section aria-label="Em resumo" class="resumo">
+        <h2>Em resumo</h2>
+        <ul>{data.pontosChave.map((p: string) => <li>{p}</li>)}</ul>
+      </section>
+    )}
+
+    <Content />
+
+    {data.afiliados.length > 0 && (
+      <section aria-label="Peças avaliadas">
+        <h2>Peças avaliadas</h2>
+        {data.afiliados.map((a: any) => (
+          <Afiliado
+            produto={a.produto}
+            nota={a.nota}
+            busca={a.busca}
+            url={a.url}
+            preco={a.preco}
+            programa={a.programa}
+            cta={a.cta}
+          />
+        ))}
+        <p class="disclaimer" role="note">
+          Os links acima levam ao Mercado Livre. Se você comprar por eles, o Hachiroku
+          recebe uma comissão da plataforma, sem custo adicional para você. Isso não
+          altera a avaliação: a escolha das peças segue o critério técnico descrito no texto.
+        </p>
+      </section>
+    )}
+
+    {data.faq.length > 0 && (
+      <section aria-label="Perguntas frequentes">
+        <h2>Perguntas frequentes</h2>
+        <dl class="faq">{data.faq.map((f: any) => (<><dt>{f.pergunta}</dt><dd>{f.resposta}</dd></>))}</dl>
+      </section>
+    )}
+
+    {data.fontes.length > 0 && (
+      <section aria-label="Referências" class="referencias">
+        <h2>Referências</h2>
+        <ul>
+          {data.fontes.map((f: any) => (
+            <li>{f.url ? <a href={f.url} target="_blank" rel="noopener">{f.titulo}</a> : f.titulo}</li>
+          ))}
+        </ul>
+      </section>
+    )}
+
+    {data.relacionados.length > 0 && (
+      <nav class="relacionados" aria-label="Relacionado">
+        <p class="kicker">CONTINUE</p>
+        <ul>{data.relacionados.map((r: any) => (<li><a href={r.url}>{r.titulo}</a></li>))}</ul>
+      </nav>
+    )}
+  </article>
+</BaseLayout>

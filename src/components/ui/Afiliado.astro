@@ -4,15 +4,22 @@ import { linkAfiliado, rotuloPrograma, type Programa } from '../../config/afilia
 interface Props {
   produto: string;
   nota?: string;
-  busca: string;
+  busca?: string;
+  /** Link direto de afiliado (ex: meli.la/xxxx). Tem precedência sobre `busca`. */
+  url?: string;
+  preco?: string;
   programa?: Programa;
   cta?: string;
 }
-const { produto, nota, busca, programa = 'amazon', cta = 'Ver peça recomendada' } = Astro.props;
-const href = linkAfiliado(busca, programa);
+const { produto, nota, busca, url, preco, programa = 'amazon', cta = 'Ver peça recomendada' } = Astro.props;
+// Link direto de produto converte melhor que link de busca, e é decisivo no
+// Mercado Livre, cuja janela de atribuição é de 24 horas.
+const href = url ?? (busca ? linkAfiliado(busca, programa) : null);
 ---
-<aside class="afiliado">
-  <p class="eyebrow">PEÇA RECOMENDADA · {rotuloPrograma(programa)}</p>
-  <p><strong>{produto}.</strong>{nota ? ` ${nota}` : ''}</p>
-  <a class="cta" href={href} target="_blank" rel="sponsored nofollow noopener">{cta} ↗</a>
-</aside>
+{href && (
+  <aside class="afiliado">
+    <p class="eyebrow">PEÇA RECOMENDADA · {rotuloPrograma(programa)}</p>
+    <p><strong>{produto}.</strong>{nota ? ` ${nota}` : ''}{preco ? ` Preço observado: ${preco}.` : ''}</p>
+    <a class="cta" href={href} target="_blank" rel="sponsored nofollow noopener">{cta} ↗</a>
+  </aside>
+)}
