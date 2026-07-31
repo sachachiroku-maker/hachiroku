@@ -86,14 +86,16 @@ const jsonld = {
   </section>
 
   {porTipo.map((g) => (
-    <section class="silos" aria-label={g.rotulo} style="margin-top:var(--space-16)">
-      <h2>{g.rotulo}</h2>
-      {g.itens.map((e) => (
-        <a class="silo-card" href={`/preparacao/${e.id}/`}>
-          <h3>{e.data.h1 ?? e.data.title}</h3>
-          <p>{e.data.description}</p>
-        </a>
-      ))}
+    <section aria-label={g.rotulo} style="margin-top:var(--space-16)">
+      <div class="prose"><h2>{g.rotulo}</h2></div>
+      <div class="silos">
+        {g.itens.map((e) => (
+          <a class="silo-card" href={`/preparacao/${e.id}/`}>
+            <h3>{e.data.h1 ?? e.data.title}</h3>
+            <p>{e.data.description}</p>
+          </a>
+        ))}
+      </div>
     </section>
   ))}
 
