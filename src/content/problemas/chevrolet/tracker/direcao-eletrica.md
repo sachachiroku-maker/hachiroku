@@ -57,6 +57,7 @@ afiliados:
   - produto: "Suporte e organizador para documentos do veículo"
     nota: "Para guardar ordens de serviço e histórico de reparos, úteis em caso de acionamento de garantia."
     busca: "porta documentos veicular organizador"
+    url: "https://meli.la/2e3Pjui"
     programa: "mercadoLivre"
 relacionados:
   - titulo: "Correia banhada a óleo do Tracker"

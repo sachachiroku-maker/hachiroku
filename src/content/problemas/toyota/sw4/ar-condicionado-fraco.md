@@ -48,6 +48,7 @@ afiliados:
   - produto: "Película solar automotiva UV controle de calor"
     nota: "Reduz a carga térmica sobre o AC do SW4, especialmente nos vidros laterais e traseiro de grande área."
     busca: "película solar automotiva controle térmico UV"
+    url: "https://meli.la/2mCWuwD"
     programa: "mercadoLivre"
 relacionados:
   - titulo: "Todos os problemas conhecidos do Toyota SW4"

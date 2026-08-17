@@ -65,7 +65,7 @@ const fmt = (d: Date) => d.toLocaleDateString('pt-BR');
 
     {data.afiliados.length > 0 && (
       <section aria-label="Itens úteis na compra">
-        {data.afiliados.map((a) => (<Afiliado produto={a.produto} nota={a.nota} busca={a.busca} programa={a.programa} cta={a.cta} />))}
+        {data.afiliados.map((a) => (<Afiliado produto={a.produto} nota={a.nota} busca={a.busca} url={a.url} programa={a.programa} cta={a.cta} />))}
       </section>
     )}
 

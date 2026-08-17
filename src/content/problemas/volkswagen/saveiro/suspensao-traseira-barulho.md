@@ -48,6 +48,7 @@ afiliados:
   - produto: "Silent block traseiro Saveiro G7"
     nota: "Bucha de reposição para os braços de reboque. Confirme a versão do veículo antes de comprar."
     busca: "silent block traseiro Saveiro G7"
+    url: "https://meli.la/1W4ZUjf"
     programa: "mercadoLivre"
 pontosChave:
   - "Sintoma: rangido, estalo ou batida na traseira, piora com carga na caçamba ou em terreno irregular"

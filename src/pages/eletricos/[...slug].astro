@@ -38,7 +38,7 @@ const fmt = (d: Date) => d.toLocaleDateString('pt-BR');
         : `${data.entidade.marca} ${data.entidade.modelo}, ${data.entidade.tipo ?? 'carro elétrico'} — foto do veículo`} />
     <Toc headings={headings} />
     <Content />
-    {data.afiliados.length > 0 && (<section aria-label="Recomendados">{data.afiliados.map((a) => (<Afiliado produto={a.produto} nota={a.nota} busca={a.busca} programa={a.programa} cta={a.cta} />))}</section>)}
+    {data.afiliados.length > 0 && (<section aria-label="Recomendados">{data.afiliados.map((a) => (<Afiliado produto={a.produto} nota={a.nota} busca={a.busca} url={a.url} programa={a.programa} cta={a.cta} />))}</section>)}
     {data.faq.length > 0 && (<section aria-label="Perguntas frequentes"><h2>Perguntas frequentes</h2><dl class="faq">{data.faq.map((f) => (<><dt>{f.pergunta}</dt><dd>{f.resposta}</dd></>))}</dl></section>)}
     {data.disclaimer && <p class="disclaimer" role="note">{data.disclaimer}</p>}
     {data.relacionados.length > 0 && (<nav class="relacionados" aria-label="Relacionado"><p class="kicker">CONTINUE</p><ul>{data.relacionados.map((r) => (<li><a href={r.url}>{r.titulo}</a></li>))}</ul></nav>)}

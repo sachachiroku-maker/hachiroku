@@ -63,6 +63,7 @@ afiliados:
   - produto: "Teste de pressão do sistema de arrefecimento"
     nota: "Pressurizar o circuito ajuda a localizar o ponto exato do vazamento antes de trocar peças."
     busca: "kit teste pressao sistema arrefecimento radiador"
+    url: "https://meli.la/1dPSipW"
     programa: "mercadoLivre"
 relacionados:
   - titulo: "Ficha técnica do VW Nivus"

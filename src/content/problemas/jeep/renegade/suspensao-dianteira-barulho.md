@@ -53,6 +53,7 @@ afiliados:
   - produto: "Coxim superior do amortecedor Jeep Renegade"
     nota: "Suporte de borracha e metal que faz a interface entre o amortecedor e a carroceria. Quando desgastado, transmite impactos e rangidos diretamente para o habitáculo."
     busca: "coxim superior amortecedor jeep renegade"
+    url: "https://meli.la/2LtTGgr"
     programa: "mercadoLivre"
     cta: "Ver produto"
 relacionados:

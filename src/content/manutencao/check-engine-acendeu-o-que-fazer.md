@@ -47,7 +47,8 @@ afiliados:
   - produto: "Vela de ignição NGK para carros populares brasileiros"
     nota: "Velas desgastadas são uma das causas mais comuns da check engine em Onix e HB20. A NGK é a marca original em boa parte dos carros populares nacionais."
     busca: "vela ignicao NGK iridium carro popular brasileiro"
-    programa: amazon
+    url: "https://meli.la/2zjYVBk"
+    programa: mercadoLivre
     cta: "Ver velas de ignição NGK"
 relacionados:
   - titulo: "Guia completo: como usar o scanner OBD2"
