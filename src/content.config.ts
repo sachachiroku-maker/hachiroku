@@ -50,6 +50,39 @@ const referencia = z.object({
   data: z.string().optional(),      // ex: "mar/2026"
 });
 
+/**
+ * Vídeo incorporado (fachada leve, sem JS de terceiro até o clique).
+ * `youtubeId` é o único campo estritamente necessário para renderizar; os demais
+ * existem para a atribuição visível e para o VideoObject do Schema.org.
+ * Regra de integridade: só entra vídeo cuja existência foi conferida no oEmbed
+ * do YouTube — `canal` e `titulo` são o que a API devolveu, não o que se supõe.
+ */
+const video = z.object({
+  youtubeId: z.string().regex(/^[A-Za-z0-9_-]{11}$/, 'youtubeId precisa ser o ID de 11 caracteres.'),
+  titulo: z.string(),
+  canal: z.string(),
+  data: z.string().optional(),      // ex: "abr/2025"
+  nota: z.string().optional(),      // por que este vídeo está aqui (contexto editorial)
+});
+
+/**
+ * Imagem com crédito obrigatório.
+ * O site não publica foto sem procedência: `credito` é exigido pelo schema, e
+ * `licenca` + `fonteUrl` fecham a atribuição de material sob Creative Commons.
+ * Sem isso, a foto é passivo jurídico e ruído de E-E-A-T ao mesmo tempo.
+ */
+const imagemCreditada = z.object({
+  src: z.string(),                  // caminho local (ex: /img/preparacao/x.webp)
+  alt: z.string(),                  // texto alternativo descritivo
+  largura: z.number().int().positive(),
+  altura: z.number().int().positive(),
+  legenda: z.string().optional(),   // o que a foto mostra, na voz do artigo
+  credito: z.string(),              // autor da foto
+  fonteUrl: z.string().url().optional(),   // página do arquivo na origem
+  licenca: z.string().optional(),          // ex: "CC BY-SA 4.0"
+  licencaUrl: z.string().url().optional(),
+});
+
 // SILO 1 — /problemas/{marca}/{modelo}/{defeito}/
 const problemas = defineCollection({
   loader: glob({ pattern: '**/*.md', base: './src/content/problemas' }),
@@ -317,8 +350,15 @@ const preparacao = defineCollection({
       internos: z.enum(['original', 'forjado', 'misto']).optional(),
 
       // --- Produtos (usa o sub-schema afiliado já existente) ---
+      // Silo editorial: /preparacao/ não monetiza por afiliado. O array existe
+      // para compatibilidade de tipo com os outros silos e fica vazio aqui.
       afiliados: z.array(afiliado).default([]),
       custoEstimado: z.string().optional(),         // ex: "R$ 38.400"
+
+      // --- Mídia creditada ---
+      capa: imagemCreditada.optional(),             // abre o artigo (LCP)
+      imagens: z.array(imagemCreditada).default([]),// apoio, no fim do corpo
+      videos: z.array(video).default([]),           // fachada + VideoObject
 
       // --- GEO / E-E-A-T ---
       entidadesEssenciais: z.array(z.string()).default([]),

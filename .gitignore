@@ -27,3 +27,5 @@ _audit_*.mjs
 _audit_*.log
 _audit_*.json
 _audit_*.txt
+# artefatos de trabalho local (scripts de coleta, originais baixados)
+output/

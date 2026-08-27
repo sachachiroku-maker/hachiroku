@@ -1,8 +1,9 @@
 ---
 import { getCollection, render } from 'astro:content';
 import BaseLayout from '../../layouts/BaseLayout.astro';
-import Afiliado from '../../components/ui/Afiliado.astro';
 import Photo from '../../components/ui/Photo.astro';
+import Figura from '../../components/ui/Figura.astro';
+import Video from '../../components/ui/Video.astro';
 
 export async function getStaticPaths() {
   const entries = await getCollection('preparacao', ({ data }) => !data.draft);
@@ -56,19 +57,24 @@ const graph: any[] = [
     isPartOf: { '@id': `${site}/#website` },
     breadcrumb: { '@id': `${url}#breadcrumb` },
     mainEntityOfPage: url,
+    ...(data.capa ? { image: new URL(data.capa.src, site).href } : {}),
   },
 ];
 
-if (data.afiliados.length > 0) {
+// VideoObject por vídeo incorporado. `contentUrl` aponta para o YouTube porque
+// o vídeo é de terceiro: a página hospeda a fachada, não o arquivo.
+for (const [i, v] of data.videos.entries()) {
   graph.push({
-    '@type': 'ItemList',
-    '@id': `${url}#produtos`,
-    name: 'Peças avaliadas',
-    itemListElement: data.afiliados.map((a: any, i: number) => ({
-      '@type': 'ListItem',
-      position: i + 1,
-      name: a.produto,
-    })),
+    '@type': 'VideoObject',
+    '@id': `${url}#video-${i}`,
+    name: v.titulo,
+    description: v.nota ?? v.titulo,
+    thumbnailUrl: new URL(`/img/preparacao/video/${v.youtubeId}.webp`, site).href,
+    contentUrl: `https://www.youtube.com/watch?v=${v.youtubeId}`,
+    embedUrl: `https://www.youtube-nocookie.com/embed/${v.youtubeId}`,
+    uploadDate: data.pubDate.toISOString(),
+    creator: { '@type': 'Organization', name: v.canal },
+    isPartOf: { '@id': `${url}#article` },
   });
 }
 
@@ -118,7 +124,23 @@ const jsonld = { '@context': 'https://schema.org', '@graph': graph };
 
     <p class="lead">{data.description}</p>
 
-    <Photo label={data.motor ?? data.title} h={240} src="/img/capas/guia.webp" class="artigo-capa" priority />
+    {data.capa ? (
+      <Figura
+        src={data.capa.src}
+        alt={data.capa.alt}
+        largura={data.capa.largura}
+        altura={data.capa.altura}
+        legenda={data.capa.legenda}
+        credito={data.capa.credito}
+        fonteUrl={data.capa.fonteUrl}
+        licenca={data.capa.licenca}
+        licencaUrl={data.capa.licencaUrl}
+        class="artigo-capa"
+        priority
+      />
+    ) : (
+      <Photo label={data.motor ?? data.title} h={240} src="/img/capas/guia.webp" class="artigo-capa" priority />
+    )}
 
     {ficha.length > 0 && (
       <dl class="howto-meta" aria-label="Qualificação técnica">
@@ -135,25 +157,34 @@ const jsonld = { '@context': 'https://schema.org', '@graph': graph };
 
     <Content />
 
-    {data.afiliados.length > 0 && (
-      <section aria-label="Peças avaliadas">
-        <h2>Peças avaliadas</h2>
-        {data.afiliados.map((a: any) => (
-          <Afiliado
-            produto={a.produto}
-            nota={a.nota}
-            busca={a.busca}
-            url={a.url}
-            preco={a.preco}
-            programa={a.programa}
-            cta={a.cta}
+    {data.videos.length > 0 && (
+      <section aria-label="Em vídeo" class="videos">
+        <h2>Em vídeo</h2>
+        <p class="videos-intro">
+          Os projetos citados no texto, nas fontes originais. Nada do YouTube carrega
+          antes de você clicar.
+        </p>
+        {data.videos.map((v: any) => (
+          <Video id={v.youtubeId} titulo={v.titulo} canal={v.canal} data={v.data} nota={v.nota} />
+        ))}
+      </section>
+    )}
+
+    {data.imagens.length > 0 && (
+      <section aria-label="Imagens">
+        {data.imagens.map((im: any) => (
+          <Figura
+            src={im.src}
+            alt={im.alt}
+            largura={im.largura}
+            altura={im.altura}
+            legenda={im.legenda}
+            credito={im.credito}
+            fonteUrl={im.fonteUrl}
+            licenca={im.licenca}
+            licencaUrl={im.licencaUrl}
           />
         ))}
-        <p class="disclaimer" role="note">
-          Os links acima levam ao Mercado Livre. Se você comprar por eles, o Hachiroku
-          recebe uma comissão da plataforma, sem custo adicional para você. Isso não
-          altera a avaliação: a escolha das peças segue o critério técnico descrito no texto.
-        </p>
       </section>
     )}
 

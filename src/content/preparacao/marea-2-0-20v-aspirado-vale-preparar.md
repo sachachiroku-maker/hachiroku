@@ -21,6 +21,22 @@ pontosChave:
   - "Isso é informação, não ausência de informação: a cena resolveu que o caminho do 2.0 não é preparar o 2.0."
   - "As três saídas reais são manter original e cuidar bem, trocar para 2.4, ou turbinar."
   - "Antes de qualquer uma delas, resolver o que estiver pendente de manutenção. Motor com defeito de origem não vira projeto, vira prejuízo."
+capa:
+  src: "/img/preparacao/marea-2-0-20v-motor.webp"
+  alt: "Motor 2.0 20V de cinco cilindros no compartimento de um Fiat Marea Weekend"
+  largura: 1200
+  altura: 800
+  legenda: "O cinco cilindros 2.0 20V do Marea. A foto é de uma unidade europeia, com comando variável de admissão e 150 cv declarados; a versão brasileira saiu de fábrica com 142 cv."
+  credito: "Midnight Runner"
+  fonteUrl: "https://commons.wikimedia.org/wiki/File:2.0_20V_VIS_-_Fiat_Marea_Weekend.jpg"
+  licenca: "CC BY-SA 4.0"
+  licencaUrl: "https://creativecommons.org/licenses/by-sa/4.0"
+videos:
+  - youtubeId: "yZ3Fk_kDSTg"
+    titulo: "DIFERENÇAS DO MOTOR 2.0 PARA 2.4 DA MAREA 5 CILINDROS"
+    canal: "NITRO FORCE"
+    data: "ago/2023"
+    nota: "A comparação lado a lado dos dois motores, que é exatamente a decisão discutida aqui."
 autor:
   nome: "Redação Hachiroku"
 pubDate: 2026-08-01
@@ -46,6 +62,9 @@ fontes:
     url: "https://www.youtube.com/watch?v=ntjfZeyDwXc"
     autor: "Garagem do Bellote TV"
     data: "abr/2025"
+  - titulo: "Motor 2.0 20V VIS em Fiat Marea Weekend (fotografia)"
+    url: "https://commons.wikimedia.org/wiki/File:2.0_20V_VIS_-_Fiat_Marea_Weekend.jpg"
+    autor: "Midnight Runner, via Wikimedia Commons, CC BY-SA 4.0"
 relacionados:
   - titulo: "Marea 2.4 preparado: do aspirado de 160 cv aos 700 cv de arrancada"
     url: "/preparacao/marea-2-4-preparado/"

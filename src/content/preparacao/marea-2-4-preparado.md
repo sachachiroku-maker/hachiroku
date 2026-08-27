@@ -25,13 +25,31 @@ pontosChave:
   - "O 2.4 é a base dos dois projetos mais fortes que documentamos: um de mais de 400 cv e um de 700 cv."
   - "O projeto de 700 cv apresentado pela FuelTech é 2.4 forjado com FT550, montado para arrancada."
   - "A escalada tem dois degraus visíveis na cena: cerca de 400 cv com forjado e turbina maior, e 700 cv com a receita completa."
-afiliados:
-  - produto: "FuelTech FT550 com chicote de 3 metros e Wideband Nano Pro"
-    nota: "É a gestão do projeto de 700 cv documentado pela própria FuelTech e a mesma que aparece nos projetos de 400 cv. No cinco cilindros ela deixou de ser opção e virou padrão."
-    url: "https://meli.la/2yC5avW"
-    preco: "R$ 10.189,08 (coleta em 30/07/2026)"
-    programa: mercadoLivre
-    cta: "Ver FT550 no Mercado Livre"
+capa:
+  src: "/img/preparacao/marea-2-4-20v-2003.webp"
+  alt: "Fiat Marea 2.4 20V brasileiro, ano 2003"
+  largura: 668
+  altura: 389
+  legenda: "Fiat Marea 2.4 20V brasileiro, 2003. É esta a base que a cena de preparação escolheu para turbo pesado."
+  credito: "Guiz"
+  fonteUrl: "https://commons.wikimedia.org/wiki/File:Fiat_Marea_2420V_2003.jpg"
+  licenca: "Domínio público"
+videos:
+  - youtubeId: "EQw3k-VOcSY"
+    titulo: "Marea 2.4 Turbo chega nos 700cv e acelera forte no No Prep!"
+    canal: "FuelTech"
+    data: "out/2025"
+    nota: "O projeto de 700 cv documentado pela FuelTech, teto da escalada descrita no texto."
+  - youtubeId: "IlXrhV5JZbg"
+    titulo: "Marea Turbo com 2.4, turbo grande e FuelTech!"
+    canal: "FuelTech"
+    data: "dez/2022"
+    nota: "Um 2.4 com turbina grande e gestão programável, no degrau intermediário."
+  - youtubeId: "yZ3Fk_kDSTg"
+    titulo: "DIFERENÇAS DO MOTOR 2.0 PARA 2.4 DA MAREA 5 CILINDROS"
+    canal: "NITRO FORCE"
+    data: "ago/2023"
+    nota: "Por que o 2.4 vira a base preferida quando a meta de potência sobe."
 autor:
   nome: "Redação Hachiroku"
 pubDate: 2026-08-01
@@ -58,6 +76,9 @@ fontes:
     autor: "FuelTech"
     data: "dez/2022"
   - titulo: "Preços de peça observados no Mercado Livre em 31 de julho de 2026"
+  - titulo: "Fiat Marea 2.4 20V brasileiro, 2003 (fotografia)"
+    url: "https://commons.wikimedia.org/wiki/File:Fiat_Marea_2420V_2003.jpg"
+    autor: "Guiz, via Wikimedia Commons, domínio público"
 relacionados:
   - titulo: "Marea Turbo 2.0 20V preparado: a receita que chega aos 400 cv"
     url: "/preparacao/marea-turbo-2-0-20v-preparado/"

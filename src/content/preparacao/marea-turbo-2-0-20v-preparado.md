@@ -26,13 +26,27 @@ pontosChave:
   - "Turbina K24 aparece como a troca no projeto de 400 cv do Garagem do Bellote TV."
   - "O gargalo do orçamento não é a turbina, é o forjado: kit de pistão e biela para o cinco cilindros passa de R$ 7.000 só em peça."
   - "Quem tenta chegar perto disso com internos originais está apostando contra o próprio motor. Nenhum projeto acima de 400 cv que encontramos manteve interno de fábrica."
-afiliados:
-  - produto: "FuelTech FT550 com chicote de 3 metros e Wideband Nano Pro"
-    nota: "É a gestão que aparece nos projetos de 400 cv e de 700 cv do cinco cilindros. Sem gestão programável não há como acertar mistura e ponto na pressão de trabalho, e é aí que motor forjado vira motor aberto de novo."
-    url: "https://meli.la/2yC5avW"
-    preco: "R$ 10.189,08 (coleta em 30/07/2026)"
-    programa: mercadoLivre
-    cta: "Ver FT550 no Mercado Livre"
+capa:
+  src: "/img/preparacao/marea-weekend-2-0-20v-turbo.webp"
+  alt: "Fiat Marea Weekend 2.0 20V Turbo, versão brasileira"
+  largura: 1200
+  altura: 800
+  legenda: "O Marea Weekend 2.0 20V Turbo brasileiro. Os 182 cv de fábrica são o ponto de partida desta receita."
+  credito: "Midnight Runner"
+  fonteUrl: "https://commons.wikimedia.org/wiki/File:Fiat_Marea_Weekend_2.0_20V_Turbo_(Brazil).jpg"
+  licenca: "CC BY-SA 4.0"
+  licencaUrl: "https://creativecommons.org/licenses/by-sa/4.0"
+videos:
+  - youtubeId: "ntjfZeyDwXc"
+    titulo: "MAREA TURBO: com receita forjada e troca de turbina chega aos 400 cv"
+    canal: "Garagem do Bellote TV"
+    data: "abr/2025"
+    nota: "A receita de 400 cv que este texto destrincha, na ordem em que foi montada."
+  - youtubeId: "FTpMNEbcgsE"
+    titulo: "A SAGA DO MAREA TURBO: pressurização original aguenta 1,7 kg de pressão?"
+    canal: "Loucos por Carros Oficial"
+    data: "abr/2021"
+    nota: "O teste que mostra até onde a pressurização de fábrica vai antes de virar problema."
 autor:
   nome: "Redação Hachiroku"
 pubDate: 2026-08-01
@@ -59,6 +73,9 @@ fontes:
     autor: "Loucos por Carros Oficial"
     data: "abr/2021"
   - titulo: "Preços de peça observados no Mercado Livre em 30 e 31 de julho de 2026"
+  - titulo: "Fiat Marea Weekend 2.0 20V Turbo, Brasil (fotografia)"
+    url: "https://commons.wikimedia.org/wiki/File:Fiat_Marea_Weekend_2.0_20V_Turbo_(Brazil).jpg"
+    autor: "Midnight Runner, via Wikimedia Commons, CC BY-SA 4.0"
 relacionados:
   - titulo: "Marea 2.4 preparado: do aspirado de 160 cv aos 700 cv de arrancada"
     url: "/preparacao/marea-2-4-preparado/"

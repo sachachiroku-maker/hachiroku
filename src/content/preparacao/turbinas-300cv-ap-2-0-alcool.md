@@ -24,38 +24,38 @@ pontosChave:
   - "Álcool é o que torna esse patamar viável no Brasil. O mesmo conjunto a gasolina exige pressão menor pelo risco de detonação."
   - "Turbina pulsativa mantém resposta em rotação baixa, comportamento preferido em carro de rua."
   - "A conta não fecha só com a turbina: coletor, wastegate, prioridade, intercooler e gestão programável entram no orçamento."
-afiliados:
-  - produto: "Turbina Auto Avionics A50-1P 48 pulsativa, com refluxo"
-    nota: "Carcaça quente .48 é a mais conservadora do trio. Sobe pressão cedo, boa para rua, e é a escolha coerente com internos originais."
-    url: "https://meli.la/2Ehb5nD"
-    preco: "R$ 2.230,83 (coleta em 30/07/2026)"
-    programa: mercadoLivre
-    cta: "Ver turbina no Mercado Livre"
-  - produto: "Turbina Auto Avionics A50-3P 50/63 pulsativa com refluxo"
-    nota: "Carcaça 63 estende o topo, mas entrega pressão mais tarde. Só faz sentido se o projeto já prevê passar de 300 cv depois."
-    url: "https://meli.la/2B3pUG1"
-    preco: "R$ 2.230,00 (coleta em 30/07/2026)"
-    programa: mercadoLivre
-    cta: "Ver turbina no Mercado Livre"
-  - produto: "Turbina Auto Avionics 50/48 pulsativa"
-    nota: "Meio termo entre as duas acima. É a opção de quem quer margem sem perder resposta embaixo."
-    url: "https://meli.la/1V7qiUu"
-    preco: "R$ 2.349,00 (coleta em 30/07/2026)"
-    programa: mercadoLivre
-    cta: "Ver turbina no Mercado Livre"
-  - produto: "Kit turbo VW AP mono 1.6, 1.8 e 2.0, sem turbina"
-    nota: "Para quem já tem a turbina. Traz o restante do conjunto e evita comprar peça solta fora de medida."
-    url: "https://meli.la/1gsLafK"
-    preco: "R$ 2.499,83 (coleta em 30/07/2026)"
-    programa: mercadoLivre
-    cta: "Ver kit no Mercado Livre"
-  - produto: "Kit turbo VW AP pulsativo no farol, com turbina .50"
-    nota: "Conjunto fechado, com coletor Auto Avionics, dosador, válvula de alívio e de prioridade. Resolve o projeto inteiro numa compra."
-    url: "https://meli.la/2EnpaL6"
-    preco: "R$ 5.480,67 (coleta em 30/07/2026)"
-    programa: mercadoLivre
-    cta: "Ver kit completo no Mercado Livre"
 custoEstimado: "R$ 2.230 a R$ 5.480 só a turbina ou o kit"
+capa:
+  src: "/img/preparacao/motor-ap-gol-g2.webp"
+  alt: "Motor AP instalado inclinado no compartimento de um Volkswagen Gol de segunda geração"
+  largura: 640
+  altura: 480
+  legenda: "O AP montado inclinado, como vem no Gol. A foto é de um 1.6 Mi aspirado; este texto trata do 2.0 a álcool, que divide a mesma arquitetura de bloco."
+  credito: "Goautos Classificados, via Mr.choppers"
+  fonteUrl: "https://commons.wikimedia.org/wiki/File:VW_AP_1.6_Mi_engine_in_Gol_G2.jpg"
+  licenca: "CC BY 3.0"
+  licencaUrl: "https://creativecommons.org/licenses/by/3.0"
+imagens:
+  - src: "/img/preparacao/turbocompressor-em-corte.webp"
+    alt: "Turbocompressor Garrett seccionado, com o rotor da turbina e o do compressor visíveis"
+    largura: 1200
+    altura: 900
+    legenda: "Turbocompressor aberto: de um lado o rotor movido pelo gás de escape, do outro o que empurra ar para o motor. A unidade da foto é de um motor diesel industrial, usada aqui para mostrar a mecânica que a carcaça envolve."
+    credito: "Tommi Nummelin"
+    fonteUrl: "https://commons.wikimedia.org/wiki/File:Sectioned_Garrett_AiResearch_turbocharger.JPG"
+    licenca: "CC BY-SA 3.0"
+    licencaUrl: "https://creativecommons.org/licenses/by-sa/3.0"
+videos:
+  - youtubeId: "G5zippOUjDA"
+    titulo: "Receita completa ap 1.8 / 1.9 turbo de 300cv boa e barata."
+    canal: "Canal do Graxa"
+    data: "jul/2024"
+    nota: "Uma receita de 300 cv em AP, com a lista de peça e o custo declarado."
+  - youtubeId: "RQw461FCKVM"
+    titulo: "VW Gol 2.0 Turbo encara o dinamômetro do Ranking Preparados FULLPOWER"
+    canal: "FullpowerTV"
+    data: "out/2016"
+    nota: "Um AP 2.0 turbo medido em dinamômetro, que é o único número que vale nesta conversa."
 autor:
   nome: "Redação Hachiroku"
 pubDate: 2026-07-30
@@ -74,6 +74,20 @@ fontes:
   - titulo: "Fórum Preparados — tópico sobre escolha de turbina"
     url: "https://www.preparados.com.br/topic/3059/turbina"
   - titulo: "Preços observados no Mercado Livre em 30/07/2026"
+  - titulo: "Receita completa ap 1.8 / 1.9 turbo de 300cv boa e barata."
+    url: "https://www.youtube.com/watch?v=G5zippOUjDA"
+    autor: "Canal do Graxa"
+    data: "jul/2024"
+  - titulo: "VW Gol 2.0 Turbo encara o dinamômetro do Ranking Preparados FULLPOWER"
+    url: "https://www.youtube.com/watch?v=RQw461FCKVM"
+    autor: "FullpowerTV"
+    data: "out/2016"
+  - titulo: "Motor AP 1.6 Mi em Volkswagen Gol G2 (fotografia)"
+    url: "https://commons.wikimedia.org/wiki/File:VW_AP_1.6_Mi_engine_in_Gol_G2.jpg"
+    autor: "Goautos Classificados, via Wikimedia Commons, CC BY 3.0"
+  - titulo: "Turbocompressor Garrett AiResearch seccionado (fotografia)"
+    url: "https://commons.wikimedia.org/wiki/File:Sectioned_Garrett_AiResearch_turbocharger.JPG"
+    autor: "Tommi Nummelin, via Wikimedia Commons, CC BY-SA 3.0"
 relacionados:
   - titulo: "Motor AP: versões, manutenção e preparação"
     url: "/motor/ap-volkswagen/"
