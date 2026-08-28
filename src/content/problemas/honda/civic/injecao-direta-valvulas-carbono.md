@@ -53,7 +53,6 @@ afiliados:
   - produto: "Câmera endoscópica automotiva USB"
     nota: "Útil para inspecionar coletor e válvulas sem desmontagem; resolução mínima 720p"
     busca: "câmera endoscópica automotiva borescope USB"
-    url: "https://meli.la/31Fdy2E"
     programa: "mercadoLivre"
 relacionados:
   - titulo: "Todos os problemas do Honda Civic"

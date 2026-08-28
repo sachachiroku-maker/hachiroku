@@ -3,7 +3,6 @@ import { getCollection, render } from 'astro:content';
 import BaseLayout from '../../layouts/BaseLayout.astro';
 import Photo from '../../components/ui/Photo.astro';
 import Figura from '../../components/ui/Figura.astro';
-import Video from '../../components/ui/Video.astro';
 
 export async function getStaticPaths() {
   const entries = await getCollection('preparacao', ({ data }) => !data.draft);
@@ -61,22 +60,6 @@ const graph: any[] = [
   },
 ];
 
-// VideoObject por vídeo incorporado. `contentUrl` aponta para o YouTube porque
-// o vídeo é de terceiro: a página hospeda a fachada, não o arquivo.
-for (const [i, v] of data.videos.entries()) {
-  graph.push({
-    '@type': 'VideoObject',
-    '@id': `${url}#video-${i}`,
-    name: v.titulo,
-    description: v.nota ?? v.titulo,
-    thumbnailUrl: new URL(`/img/preparacao/video/${v.youtubeId}.webp`, site).href,
-    contentUrl: `https://www.youtube.com/watch?v=${v.youtubeId}`,
-    embedUrl: `https://www.youtube-nocookie.com/embed/${v.youtubeId}`,
-    uploadDate: data.pubDate.toISOString(),
-    creator: { '@type': 'Organization', name: v.canal },
-    isPartOf: { '@id': `${url}#article` },
-  });
-}
 
 if (data.faq.length > 0) {
   graph.push({
@@ -156,19 +139,6 @@ const jsonld = { '@context': 'https://schema.org', '@graph': graph };
     )}
 
     <Content />
-
-    {data.videos.length > 0 && (
-      <section aria-label="Em vídeo" class="videos">
-        <h2>Em vídeo</h2>
-        <p class="videos-intro">
-          Os projetos citados no texto, nas fontes originais. Nada do YouTube carrega
-          antes de você clicar.
-        </p>
-        {data.videos.map((v: any) => (
-          <Video id={v.youtubeId} titulo={v.titulo} canal={v.canal} data={v.data} nota={v.nota} />
-        ))}
-      </section>
-    )}
 
     {data.imagens.length > 0 && (
       <section aria-label="Imagens">

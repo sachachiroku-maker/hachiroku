@@ -31,12 +31,6 @@ capa:
   fonteUrl: "https://commons.wikimedia.org/wiki/File:2.0_20V_VIS_-_Fiat_Marea_Weekend.jpg"
   licenca: "CC BY-SA 4.0"
   licencaUrl: "https://creativecommons.org/licenses/by-sa/4.0"
-videos:
-  - youtubeId: "yZ3Fk_kDSTg"
-    titulo: "DIFERENÇAS DO MOTOR 2.0 PARA 2.4 DA MAREA 5 CILINDROS"
-    canal: "NITRO FORCE"
-    data: "ago/2023"
-    nota: "A comparação lado a lado dos dois motores, que é exatamente a decisão discutida aqui."
 autor:
   nome: "Redação Hachiroku"
 pubDate: 2026-08-01

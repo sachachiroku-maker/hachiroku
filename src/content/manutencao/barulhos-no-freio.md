@@ -41,14 +41,12 @@ afiliados:
   - produto: "Pastilha de freio Fremax para carros populares"
     nota: "Marca nacional com boa relação custo-benefício, aprovada para Onix, HB20 e Polo"
     busca: "pastilha de freio Fremax popular"
-    url: "https://meli.la/2DunRbV"
-    programa: mercadoLivre
+    programa: amazon
     cta: "Ver produto recomendado"
   - produto: "Fluido de freio DOT 4 Bosch"
     nota: "Fluido de freio DOT 4 de marca confiável, compatível com a maioria dos veículos nacionais"
     busca: "fluido de freio DOT 4 Bosch"
-    url: "https://meli.la/1SJa9E3"
-    programa: mercadoLivre
+    programa: amazon
     cta: "Ver produto recomendado"
 relacionados:
   - titulo: "Como substituir pastilhas de freio"

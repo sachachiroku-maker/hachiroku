@@ -59,7 +59,6 @@ afiliados:
   - produto: "Válvula anti-chama / respiro para Firefly"
     nota: "A peça do sistema de respiro que mais entope. Substituir na hora certa alivia a pressão interna que empurra o óleo pelas juntas."
     busca: "valvula respiro anti chama fiat firefly"
-    url: "https://meli.la/1GRW7DA"
     programa: "mercadoLivre"
   - produto: "Scanner OBD2 Bluetooth"
     nota: "Ajuda a flagrar luzes de injeção e parâmetros do motor que costumam acompanhar problemas de respiro e consumo de óleo."

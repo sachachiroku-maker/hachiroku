@@ -36,17 +36,6 @@ capa:
   fonteUrl: "https://commons.wikimedia.org/wiki/File:Fiat_Marea_Weekend_2.0_20V_Turbo_(Brazil).jpg"
   licenca: "CC BY-SA 4.0"
   licencaUrl: "https://creativecommons.org/licenses/by-sa/4.0"
-videos:
-  - youtubeId: "ntjfZeyDwXc"
-    titulo: "MAREA TURBO: com receita forjada e troca de turbina chega aos 400 cv"
-    canal: "Garagem do Bellote TV"
-    data: "abr/2025"
-    nota: "A receita de 400 cv que este texto destrincha, na ordem em que foi montada."
-  - youtubeId: "FTpMNEbcgsE"
-    titulo: "A SAGA DO MAREA TURBO: pressurização original aguenta 1,7 kg de pressão?"
-    canal: "Loucos por Carros Oficial"
-    data: "abr/2021"
-    nota: "O teste que mostra até onde a pressurização de fábrica vai antes de virar problema."
 autor:
   nome: "Redação Hachiroku"
 pubDate: 2026-08-01

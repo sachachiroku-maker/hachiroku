@@ -51,21 +51,6 @@ const referencia = z.object({
 });
 
 /**
- * Vídeo incorporado (fachada leve, sem JS de terceiro até o clique).
- * `youtubeId` é o único campo estritamente necessário para renderizar; os demais
- * existem para a atribuição visível e para o VideoObject do Schema.org.
- * Regra de integridade: só entra vídeo cuja existência foi conferida no oEmbed
- * do YouTube — `canal` e `titulo` são o que a API devolveu, não o que se supõe.
- */
-const video = z.object({
-  youtubeId: z.string().regex(/^[A-Za-z0-9_-]{11}$/, 'youtubeId precisa ser o ID de 11 caracteres.'),
-  titulo: z.string(),
-  canal: z.string(),
-  data: z.string().optional(),      // ex: "abr/2025"
-  nota: z.string().optional(),      // por que este vídeo está aqui (contexto editorial)
-});
-
-/**
  * Imagem com crédito obrigatório.
  * O site não publica foto sem procedência: `credito` é exigido pelo schema, e
  * `licenca` + `fonteUrl` fecham a atribuição de material sob Creative Commons.
@@ -358,7 +343,6 @@ const preparacao = defineCollection({
       // --- Mídia creditada ---
       capa: imagemCreditada.optional(),             // abre o artigo (LCP)
       imagens: z.array(imagemCreditada).default([]),// apoio, no fim do corpo
-      videos: z.array(video).default([]),           // fachada + VideoObject
 
       // --- GEO / E-E-A-T ---
       entidadesEssenciais: z.array(z.string()).default([]),

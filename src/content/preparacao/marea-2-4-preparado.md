@@ -34,22 +34,6 @@ capa:
   credito: "Guiz"
   fonteUrl: "https://commons.wikimedia.org/wiki/File:Fiat_Marea_2420V_2003.jpg"
   licenca: "Domínio público"
-videos:
-  - youtubeId: "EQw3k-VOcSY"
-    titulo: "Marea 2.4 Turbo chega nos 700cv e acelera forte no No Prep!"
-    canal: "FuelTech"
-    data: "out/2025"
-    nota: "O projeto de 700 cv documentado pela FuelTech, teto da escalada descrita no texto."
-  - youtubeId: "IlXrhV5JZbg"
-    titulo: "Marea Turbo com 2.4, turbo grande e FuelTech!"
-    canal: "FuelTech"
-    data: "dez/2022"
-    nota: "Um 2.4 com turbina grande e gestão programável, no degrau intermediário."
-  - youtubeId: "yZ3Fk_kDSTg"
-    titulo: "DIFERENÇAS DO MOTOR 2.0 PARA 2.4 DA MAREA 5 CILINDROS"
-    canal: "NITRO FORCE"
-    data: "ago/2023"
-    nota: "Por que o 2.4 vira a base preferida quando a meta de potência sobe."
 autor:
   nome: "Redação Hachiroku"
 pubDate: 2026-08-01

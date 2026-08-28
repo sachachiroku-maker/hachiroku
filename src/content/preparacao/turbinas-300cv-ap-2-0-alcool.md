@@ -45,17 +45,6 @@ imagens:
     fonteUrl: "https://commons.wikimedia.org/wiki/File:Sectioned_Garrett_AiResearch_turbocharger.JPG"
     licenca: "CC BY-SA 3.0"
     licencaUrl: "https://creativecommons.org/licenses/by-sa/3.0"
-videos:
-  - youtubeId: "G5zippOUjDA"
-    titulo: "Receita completa ap 1.8 / 1.9 turbo de 300cv boa e barata."
-    canal: "Canal do Graxa"
-    data: "jul/2024"
-    nota: "Uma receita de 300 cv em AP, com a lista de peça e o custo declarado."
-  - youtubeId: "RQw461FCKVM"
-    titulo: "VW Gol 2.0 Turbo encara o dinamômetro do Ranking Preparados FULLPOWER"
-    canal: "FullpowerTV"
-    data: "out/2016"
-    nota: "Um AP 2.0 turbo medido em dinamômetro, que é o único número que vale nesta conversa."
 autor:
   nome: "Redação Hachiroku"
 pubDate: 2026-07-30
