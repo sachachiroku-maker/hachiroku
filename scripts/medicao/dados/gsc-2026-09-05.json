@@ -1,0 +1,11182 @@
+{
+ "coletado_em": "2026-09-08",
+ "fim_janela": "2026-09-05",
+ "inicio_serie": "2026-06-24",
+ "site": "sc-domain:hachiroku.com.br",
+ "total_90d": [
+  {
+   "chaves": [],
+   "cliques": 330,
+   "impressoes": 44986,
+   "ctr": 0.00734,
+   "posicao": 7.34
+  }
+ ],
+ "total_28d": [
+  {
+   "chaves": [],
+   "cliques": 248,
+   "impressoes": 31969,
+   "ctr": 0.00776,
+   "posicao": 6.98
+  }
+ ],
+ "serie_diaria": [
+  {
+   "chaves": [
+    "2026-06-24"
+   ],
+   "cliques": 0,
+   "impressoes": 0,
+   "ctr": 0,
+   "posicao": 0
+  },
+  {
+   "chaves": [
+    "2026-06-25"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 1
+  },
+  {
+   "chaves": [
+    "2026-06-26"
+   ],
+   "cliques": 1,
+   "impressoes": 7,
+   "ctr": 0.14286,
+   "posicao": 3.71
+  },
+  {
+   "chaves": [
+    "2026-06-27"
+   ],
+   "cliques": 1,
+   "impressoes": 20,
+   "ctr": 0.05,
+   "posicao": 11.65
+  },
+  {
+   "chaves": [
+    "2026-06-28"
+   ],
+   "cliques": 0,
+   "impressoes": 36,
+   "ctr": 0,
+   "posicao": 9.89
+  },
+  {
+   "chaves": [
+    "2026-06-29"
+   ],
+   "cliques": 1,
+   "impressoes": 46,
+   "ctr": 0.02174,
+   "posicao": 16.11
+  },
+  {
+   "chaves": [
+    "2026-06-30"
+   ],
+   "cliques": 0,
+   "impressoes": 70,
+   "ctr": 0,
+   "posicao": 14.24
+  },
+  {
+   "chaves": [
+    "2026-07-01"
+   ],
+   "cliques": 1,
+   "impressoes": 150,
+   "ctr": 0.00667,
+   "posicao": 9.36
+  },
+  {
+   "chaves": [
+    "2026-07-02"
+   ],
+   "cliques": 0,
+   "impressoes": 157,
+   "ctr": 0,
+   "posicao": 8.71
+  },
+  {
+   "chaves": [
+    "2026-07-03"
+   ],
+   "cliques": 0,
+   "impressoes": 181,
+   "ctr": 0,
+   "posicao": 8.56
+  },
+  {
+   "chaves": [
+    "2026-07-04"
+   ],
+   "cliques": 1,
+   "impressoes": 203,
+   "ctr": 0.00493,
+   "posicao": 9.81
+  },
+  {
+   "chaves": [
+    "2026-07-05"
+   ],
+   "cliques": 3,
+   "impressoes": 194,
+   "ctr": 0.01546,
+   "posicao": 9.61
+  },
+  {
+   "chaves": [
+    "2026-07-06"
+   ],
+   "cliques": 0,
+   "impressoes": 279,
+   "ctr": 0,
+   "posicao": 9.05
+  },
+  {
+   "chaves": [
+    "2026-07-07"
+   ],
+   "cliques": 0,
+   "impressoes": 248,
+   "ctr": 0,
+   "posicao": 8.67
+  },
+  {
+   "chaves": [
+    "2026-07-08"
+   ],
+   "cliques": 0,
+   "impressoes": 262,
+   "ctr": 0,
+   "posicao": 8.15
+  },
+  {
+   "chaves": [
+    "2026-07-09"
+   ],
+   "cliques": 1,
+   "impressoes": 325,
+   "ctr": 0.00308,
+   "posicao": 8.82
+  },
+  {
+   "chaves": [
+    "2026-07-10"
+   ],
+   "cliques": 3,
+   "impressoes": 297,
+   "ctr": 0.0101,
+   "posicao": 8.69
+  },
+  {
+   "chaves": [
+    "2026-07-11"
+   ],
+   "cliques": 3,
+   "impressoes": 248,
+   "ctr": 0.0121,
+   "posicao": 8.44
+  },
+  {
+   "chaves": [
+    "2026-07-12"
+   ],
+   "cliques": 1,
+   "impressoes": 304,
+   "ctr": 0.00329,
+   "posicao": 8.9
+  },
+  {
+   "chaves": [
+    "2026-07-13"
+   ],
+   "cliques": 2,
+   "impressoes": 359,
+   "ctr": 0.00557,
+   "posicao": 7.81
+  },
+  {
+   "chaves": [
+    "2026-07-14"
+   ],
+   "cliques": 2,
+   "impressoes": 344,
+   "ctr": 0.00581,
+   "posicao": 8.35
+  },
+  {
+   "chaves": [
+    "2026-07-15"
+   ],
+   "cliques": 1,
+   "impressoes": 302,
+   "ctr": 0.00331,
+   "posicao": 8.12
+  },
+  {
+   "chaves": [
+    "2026-07-16"
+   ],
+   "cliques": 1,
+   "impressoes": 297,
+   "ctr": 0.00337,
+   "posicao": 7.79
+  },
+  {
+   "chaves": [
+    "2026-07-17"
+   ],
+   "cliques": 1,
+   "impressoes": 335,
+   "ctr": 0.00299,
+   "posicao": 8.54
+  },
+  {
+   "chaves": [
+    "2026-07-18"
+   ],
+   "cliques": 3,
+   "impressoes": 257,
+   "ctr": 0.01167,
+   "posicao": 8.22
+  },
+  {
+   "chaves": [
+    "2026-07-19"
+   ],
+   "cliques": 0,
+   "impressoes": 262,
+   "ctr": 0,
+   "posicao": 10.33
+  },
+  {
+   "chaves": [
+    "2026-07-20"
+   ],
+   "cliques": 1,
+   "impressoes": 346,
+   "ctr": 0.00289,
+   "posicao": 8.26
+  },
+  {
+   "chaves": [
+    "2026-07-21"
+   ],
+   "cliques": 3,
+   "impressoes": 313,
+   "ctr": 0.00958,
+   "posicao": 7.98
+  },
+  {
+   "chaves": [
+    "2026-07-22"
+   ],
+   "cliques": 3,
+   "impressoes": 320,
+   "ctr": 0.00937,
+   "posicao": 8.16
+  },
+  {
+   "chaves": [
+    "2026-07-23"
+   ],
+   "cliques": 2,
+   "impressoes": 283,
+   "ctr": 0.00707,
+   "posicao": 7.96
+  },
+  {
+   "chaves": [
+    "2026-07-24"
+   ],
+   "cliques": 2,
+   "impressoes": 332,
+   "ctr": 0.00602,
+   "posicao": 7.8
+  },
+  {
+   "chaves": [
+    "2026-07-25"
+   ],
+   "cliques": 3,
+   "impressoes": 270,
+   "ctr": 0.01111,
+   "posicao": 9.02
+  },
+  {
+   "chaves": [
+    "2026-07-26"
+   ],
+   "cliques": 2,
+   "impressoes": 314,
+   "ctr": 0.00637,
+   "posicao": 7.88
+  },
+  {
+   "chaves": [
+    "2026-07-27"
+   ],
+   "cliques": 4,
+   "impressoes": 386,
+   "ctr": 0.01036,
+   "posicao": 7.94
+  },
+  {
+   "chaves": [
+    "2026-07-28"
+   ],
+   "cliques": 9,
+   "impressoes": 375,
+   "ctr": 0.024,
+   "posicao": 7.94
+  },
+  {
+   "chaves": [
+    "2026-07-29"
+   ],
+   "cliques": 3,
+   "impressoes": 374,
+   "ctr": 0.00802,
+   "posicao": 7.35
+  },
+  {
+   "chaves": [
+    "2026-07-30"
+   ],
+   "cliques": 2,
+   "impressoes": 422,
+   "ctr": 0.00474,
+   "posicao": 7.95
+  },
+  {
+   "chaves": [
+    "2026-07-31"
+   ],
+   "cliques": 2,
+   "impressoes": 334,
+   "ctr": 0.00599,
+   "posicao": 7.9
+  },
+  {
+   "chaves": [
+    "2026-08-01"
+   ],
+   "cliques": 2,
+   "impressoes": 370,
+   "ctr": 0.00541,
+   "posicao": 8.38
+  },
+  {
+   "chaves": [
+    "2026-08-02"
+   ],
+   "cliques": 3,
+   "impressoes": 399,
+   "ctr": 0.00752,
+   "posicao": 7.8
+  },
+  {
+   "chaves": [
+    "2026-08-03"
+   ],
+   "cliques": 1,
+   "impressoes": 707,
+   "ctr": 0.00141,
+   "posicao": 7.31
+  },
+  {
+   "chaves": [
+    "2026-08-04"
+   ],
+   "cliques": 9,
+   "impressoes": 803,
+   "ctr": 0.01121,
+   "posicao": 7.28
+  },
+  {
+   "chaves": [
+    "2026-08-05"
+   ],
+   "cliques": 0,
+   "impressoes": 515,
+   "ctr": 0,
+   "posicao": 7.61
+  },
+  {
+   "chaves": [
+    "2026-08-06"
+   ],
+   "cliques": 2,
+   "impressoes": 470,
+   "ctr": 0.00426,
+   "posicao": 7.94
+  },
+  {
+   "chaves": [
+    "2026-08-07"
+   ],
+   "cliques": 3,
+   "impressoes": 500,
+   "ctr": 0.006,
+   "posicao": 7.66
+  },
+  {
+   "chaves": [
+    "2026-08-08"
+   ],
+   "cliques": 5,
+   "impressoes": 460,
+   "ctr": 0.01087,
+   "posicao": 7.96
+  },
+  {
+   "chaves": [
+    "2026-08-09"
+   ],
+   "cliques": 1,
+   "impressoes": 430,
+   "ctr": 0.00233,
+   "posicao": 8.04
+  },
+  {
+   "chaves": [
+    "2026-08-10"
+   ],
+   "cliques": 5,
+   "impressoes": 639,
+   "ctr": 0.00782,
+   "posicao": 7.67
+  },
+  {
+   "chaves": [
+    "2026-08-11"
+   ],
+   "cliques": 5,
+   "impressoes": 634,
+   "ctr": 0.00789,
+   "posicao": 7.81
+  },
+  {
+   "chaves": [
+    "2026-08-12"
+   ],
+   "cliques": 4,
+   "impressoes": 657,
+   "ctr": 0.00609,
+   "posicao": 7.7
+  },
+  {
+   "chaves": [
+    "2026-08-13"
+   ],
+   "cliques": 5,
+   "impressoes": 699,
+   "ctr": 0.00715,
+   "posicao": 7.79
+  },
+  {
+   "chaves": [
+    "2026-08-14"
+   ],
+   "cliques": 5,
+   "impressoes": 650,
+   "ctr": 0.00769,
+   "posicao": 7.88
+  },
+  {
+   "chaves": [
+    "2026-08-15"
+   ],
+   "cliques": 1,
+   "impressoes": 598,
+   "ctr": 0.00167,
+   "posicao": 7.99
+  },
+  {
+   "chaves": [
+    "2026-08-16"
+   ],
+   "cliques": 5,
+   "impressoes": 518,
+   "ctr": 0.00965,
+   "posicao": 8.61
+  },
+  {
+   "chaves": [
+    "2026-08-17"
+   ],
+   "cliques": 2,
+   "impressoes": 782,
+   "ctr": 0.00256,
+   "posicao": 7.63
+  },
+  {
+   "chaves": [
+    "2026-08-18"
+   ],
+   "cliques": 4,
+   "impressoes": 948,
+   "ctr": 0.00422,
+   "posicao": 7.26
+  },
+  {
+   "chaves": [
+    "2026-08-19"
+   ],
+   "cliques": 6,
+   "impressoes": 771,
+   "ctr": 0.00778,
+   "posicao": 7.2
+  },
+  {
+   "chaves": [
+    "2026-08-20"
+   ],
+   "cliques": 7,
+   "impressoes": 764,
+   "ctr": 0.00916,
+   "posicao": 7.04
+  },
+  {
+   "chaves": [
+    "2026-08-21"
+   ],
+   "cliques": 6,
+   "impressoes": 846,
+   "ctr": 0.00709,
+   "posicao": 6.81
+  },
+  {
+   "chaves": [
+    "2026-08-22"
+   ],
+   "cliques": 9,
+   "impressoes": 760,
+   "ctr": 0.01184,
+   "posicao": 6.71
+  },
+  {
+   "chaves": [
+    "2026-08-23"
+   ],
+   "cliques": 5,
+   "impressoes": 750,
+   "ctr": 0.00667,
+   "posicao": 6.46
+  },
+  {
+   "chaves": [
+    "2026-08-24"
+   ],
+   "cliques": 7,
+   "impressoes": 1046,
+   "ctr": 0.00669,
+   "posicao": 6.75
+  },
+  {
+   "chaves": [
+    "2026-08-25"
+   ],
+   "cliques": 17,
+   "impressoes": 1066,
+   "ctr": 0.01595,
+   "posicao": 7.27
+  },
+  {
+   "chaves": [
+    "2026-08-26"
+   ],
+   "cliques": 9,
+   "impressoes": 1111,
+   "ctr": 0.0081,
+   "posicao": 6.59
+  },
+  {
+   "chaves": [
+    "2026-08-27"
+   ],
+   "cliques": 12,
+   "impressoes": 1189,
+   "ctr": 0.01009,
+   "posicao": 6.7
+  },
+  {
+   "chaves": [
+    "2026-08-28"
+   ],
+   "cliques": 4,
+   "impressoes": 1149,
+   "ctr": 0.00348,
+   "posicao": 6.67
+  },
+  {
+   "chaves": [
+    "2026-08-29"
+   ],
+   "cliques": 7,
+   "impressoes": 1139,
+   "ctr": 0.00615,
+   "posicao": 6.7
+  },
+  {
+   "chaves": [
+    "2026-08-30"
+   ],
+   "cliques": 14,
+   "impressoes": 1181,
+   "ctr": 0.01185,
+   "posicao": 6.63
+  },
+  {
+   "chaves": [
+    "2026-08-31"
+   ],
+   "cliques": 15,
+   "impressoes": 2041,
+   "ctr": 0.00735,
+   "posicao": 6.8
+  },
+  {
+   "chaves": [
+    "2026-09-01"
+   ],
+   "cliques": 19,
+   "impressoes": 2018,
+   "ctr": 0.00942,
+   "posicao": 6.77
+  },
+  {
+   "chaves": [
+    "2026-09-02"
+   ],
+   "cliques": 15,
+   "impressoes": 1975,
+   "ctr": 0.00759,
+   "posicao": 6.87
+  },
+  {
+   "chaves": [
+    "2026-09-03"
+   ],
+   "cliques": 14,
+   "impressoes": 2106,
+   "ctr": 0.00665,
+   "posicao": 6.81
+  },
+  {
+   "chaves": [
+    "2026-09-04"
+   ],
+   "cliques": 19,
+   "impressoes": 2483,
+   "ctr": 0.00765,
+   "posicao": 6.51
+  },
+  {
+   "chaves": [
+    "2026-09-05"
+   ],
+   "cliques": 21,
+   "impressoes": 2559,
+   "ctr": 0.00821,
+   "posicao": 6.62
+  }
+ ],
+ "paginas_90d": [
+  {
+   "chaves": [
+    "https://hachiroku.com.br/problemas/volkswagen/t-cross/cambio-aq250-trancos/"
+   ],
+   "cliques": 52,
+   "impressoes": 1682,
+   "ctr": 0.03092,
+   "posicao": 4.96
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/problemas/fiat/palio/superaquecimento/"
+   ],
+   "cliques": 51,
+   "impressoes": 8399,
+   "ctr": 0.00607,
+   "posicao": 5.78
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/revisao/chevrolet-onix-turbo/"
+   ],
+   "cliques": 19,
+   "impressoes": 3426,
+   "ctr": 0.00555,
+   "posicao": 7.18
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/problemas/chevrolet/tracker/direcao-eletrica/"
+   ],
+   "cliques": 18,
+   "impressoes": 1071,
+   "ctr": 0.01681,
+   "posicao": 5.8
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/guia-de-compra/yaris-vs-hb20/"
+   ],
+   "cliques": 15,
+   "impressoes": 734,
+   "ctr": 0.02044,
+   "posicao": 5.59
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/eletricos/byd/dolphin-mini/"
+   ],
+   "cliques": 13,
+   "impressoes": 2145,
+   "ctr": 0.00606,
+   "posicao": 9.75
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/motor/t270/"
+   ],
+   "cliques": 12,
+   "impressoes": 814,
+   "ctr": 0.01474,
+   "posicao": 8.15
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/problemas/volkswagen/saveiro/suspensao-traseira-barulho/"
+   ],
+   "cliques": 10,
+   "impressoes": 656,
+   "ctr": 0.01524,
+   "posicao": 6.49
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/problemas/volkswagen/polo-tsi/cambio-aisin-trancos/"
+   ],
+   "cliques": 8,
+   "impressoes": 280,
+   "ctr": 0.02857,
+   "posicao": 4.93
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/problemas/chevrolet/onix/motor-turbo-consumo-oleo/"
+   ],
+   "cliques": 5,
+   "impressoes": 221,
+   "ctr": 0.02262,
+   "posicao": 6.78
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/problemas/chevrolet/s10/dpf-regeneracao-diesel/"
+   ],
+   "cliques": 5,
+   "impressoes": 230,
+   "ctr": 0.02174,
+   "posicao": 3.83
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/revisao/volkswagen-polo-tsi/"
+   ],
+   "cliques": 4,
+   "impressoes": 239,
+   "ctr": 0.01674,
+   "posicao": 6.72
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/preparacao/marea-turbo-2-0-20v-preparado/"
+   ],
+   "cliques": 3,
+   "impressoes": 22,
+   "ctr": 0.13636,
+   "posicao": 6.55
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/problemas/fiat/mobi/motor-superaquece-transito/"
+   ],
+   "cliques": 3,
+   "impressoes": 143,
+   "ctr": 0.02098,
+   "posicao": 4.24
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/problemas/fiat/uno/correia-dentada-motor-fire/"
+   ],
+   "cliques": 3,
+   "impressoes": 139,
+   "ctr": 0.02158,
+   "posicao": 5.14
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/problemas/hyundai/hb20/freios-abs-sensor/"
+   ],
+   "cliques": 3,
+   "impressoes": 325,
+   "ctr": 0.00923,
+   "posicao": 6.03
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/problemas/jeep/renegade/suspensao-dianteira-barulho/"
+   ],
+   "cliques": 3,
+   "impressoes": 227,
+   "ctr": 0.01322,
+   "posicao": 6.03
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/problemas/toyota/corolla/corrente-de-comando/"
+   ],
+   "cliques": 3,
+   "impressoes": 1118,
+   "ctr": 0.00268,
+   "posicao": 6.58
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/problemas/toyota/sw4/ar-condicionado-fraco/"
+   ],
+   "cliques": 3,
+   "impressoes": 173,
+   "ctr": 0.01734,
+   "posicao": 5.29
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/ficha-tecnica/byd/yuan-plus-ev/"
+   ],
+   "cliques": 2,
+   "impressoes": 199,
+   "ctr": 0.01005,
+   "posicao": 10.29
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/ficha-tecnica/chevrolet/onix-turbo/"
+   ],
+   "cliques": 2,
+   "impressoes": 1052,
+   "ctr": 0.0019,
+   "posicao": 8.19
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/guia-de-compra/usados/hb20-usado-vale-a-pena/"
+   ],
+   "cliques": 2,
+   "impressoes": 93,
+   "ctr": 0.02151,
+   "posicao": 6.75
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/manutencao/check-engine-acendeu-o-que-fazer/"
+   ],
+   "cliques": 2,
+   "impressoes": 67,
+   "ctr": 0.02985,
+   "posicao": 6.3
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/manutencao/como-limpar-corpo-de-borboleta/"
+   ],
+   "cliques": 2,
+   "impressoes": 1449,
+   "ctr": 0.00138,
+   "posicao": 7.9
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/manutencao/correia-dentada-quando-trocar/"
+   ],
+   "cliques": 2,
+   "impressoes": 287,
+   "ctr": 0.00697,
+   "posicao": 8.32
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/manutencao/motor-1-0-turbo-manutencao/"
+   ],
+   "cliques": 2,
+   "impressoes": 69,
+   "ctr": 0.02899,
+   "posicao": 7.58
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/motor/ea211-tsi/"
+   ],
+   "cliques": 2,
+   "impressoes": 634,
+   "ctr": 0.00315,
+   "posicao": 11.55
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/motor/firefly/"
+   ],
+   "cliques": 2,
+   "impressoes": 424,
+   "ctr": 0.00472,
+   "posicao": 10.89
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/preparacao/marea-2-4-preparado/"
+   ],
+   "cliques": 2,
+   "impressoes": 36,
+   "ctr": 0.05556,
+   "posicao": 6.39
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/problemas/chevrolet/onix/consumo-alto-combustivel-automatico/"
+   ],
+   "cliques": 2,
+   "impressoes": 321,
+   "ctr": 0.00623,
+   "posicao": 7.5
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/problemas/fiat/cronos/vazamento-de-oleo-respiro/"
+   ],
+   "cliques": 2,
+   "impressoes": 338,
+   "ctr": 0.00592,
+   "posicao": 6.13
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/problemas/fiat/strada/cambio-manual-dificil-engatar/"
+   ],
+   "cliques": 2,
+   "impressoes": 121,
+   "ctr": 0.01653,
+   "posicao": 4.93
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/problemas/honda/civic/injecao-direta-valvulas-carbono/"
+   ],
+   "cliques": 2,
+   "impressoes": 8,
+   "ctr": 0.25,
+   "posicao": 5.38
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/problemas/honda/hr-v/motor-barulho-corrente/"
+   ],
+   "cliques": 2,
+   "impressoes": 71,
+   "ctr": 0.02817,
+   "posicao": 6.54
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/problemas/hyundai/hb20s/consumo-alto-combustivel/"
+   ],
+   "cliques": 2,
+   "impressoes": 64,
+   "ctr": 0.03125,
+   "posicao": 6.02
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/problemas/mitsubishi/eclipse-cross/"
+   ],
+   "cliques": 2,
+   "impressoes": 66,
+   "ctr": 0.0303,
+   "posicao": 8.06
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/problemas/mitsubishi/outlander/consumo-combustivel-v6/"
+   ],
+   "cliques": 2,
+   "impressoes": 193,
+   "ctr": 0.01036,
+   "posicao": 7.85
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/problemas/renault/duster/motor-tce-consumo-oleo/"
+   ],
+   "cliques": 2,
+   "impressoes": 45,
+   "ctr": 0.04444,
+   "posicao": 5.84
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/problemas/renault/sandero/motor-1-0-tres-cilindros/"
+   ],
+   "cliques": 2,
+   "impressoes": 268,
+   "ctr": 0.00746,
+   "posicao": 6.74
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/problemas/volkswagen/polo-tsi/consumo-alto-combustivel/"
+   ],
+   "cliques": 2,
+   "impressoes": 143,
+   "ctr": 0.01399,
+   "posicao": 6.41
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/revisao/fiat-argo-firefly/"
+   ],
+   "cliques": 2,
+   "impressoes": 219,
+   "ctr": 0.00913,
+   "posicao": 6.67
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/tecnologia/cambio-aisin-aq250/"
+   ],
+   "cliques": 2,
+   "impressoes": 116,
+   "ctr": 0.01724,
+   "posicao": 4.15
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/"
+   ],
+   "cliques": 1,
+   "impressoes": 84,
+   "ctr": 0.0119,
+   "posicao": 10.46
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/ficha-tecnica/"
+   ],
+   "cliques": 1,
+   "impressoes": 19,
+   "ctr": 0.05263,
+   "posicao": 5.63
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/ficha-tecnica/fiat/argo/"
+   ],
+   "cliques": 1,
+   "impressoes": 492,
+   "ctr": 0.00203,
+   "posicao": 8.42
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/ficha-tecnica/renault/duster/"
+   ],
+   "cliques": 1,
+   "impressoes": 4,
+   "ctr": 0.25,
+   "posicao": 25.5
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/ficha-tecnica/volkswagen/polo-tsi/"
+   ],
+   "cliques": 1,
+   "impressoes": 152,
+   "ctr": 0.00658,
+   "posicao": 8.36
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/guia-de-compra/comparativos/hilux-vs-ranger/"
+   ],
+   "cliques": 1,
+   "impressoes": 295,
+   "ctr": 0.00339,
+   "posicao": 8.15
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/guia-de-compra/comparativos/l200-triton-vs-frontier/"
+   ],
+   "cliques": 1,
+   "impressoes": 1,
+   "ctr": 1,
+   "posicao": 7
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/guia-de-compra/comparativos/polo-vs-virtus/"
+   ],
+   "cliques": 1,
+   "impressoes": 592,
+   "ctr": 0.00169,
+   "posicao": 7.45
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/guia-de-compra/honda-fit-usado-vale-a-pena/"
+   ],
+   "cliques": 1,
+   "impressoes": 106,
+   "ctr": 0.00943,
+   "posicao": 8.41
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/guia-de-compra/usados/corolla-cross-usado-vale-a-pena/"
+   ],
+   "cliques": 1,
+   "impressoes": 22,
+   "ctr": 0.04545,
+   "posicao": 8.73
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/manutencao/"
+   ],
+   "cliques": 1,
+   "impressoes": 9,
+   "ctr": 0.11111,
+   "posicao": 3.67
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/manutencao/barulhos-no-freio/"
+   ],
+   "cliques": 1,
+   "impressoes": 108,
+   "ctr": 0.00926,
+   "posicao": 9.79
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/manutencao/scanner-obd2/"
+   ],
+   "cliques": 1,
+   "impressoes": 278,
+   "ctr": 0.0036,
+   "posicao": 8.49
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/manutencao/vazamento-cambio-automatico/"
+   ],
+   "cliques": 1,
+   "impressoes": 142,
+   "ctr": 0.00704,
+   "posicao": 8.04
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/motor/puretech-thp/"
+   ],
+   "cliques": 1,
+   "impressoes": 214,
+   "ctr": 0.00467,
+   "posicao": 21.43
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/problemas/"
+   ],
+   "cliques": 1,
+   "impressoes": 8,
+   "ctr": 0.125,
+   "posicao": 5.5
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/problemas/byd/dolphin/"
+   ],
+   "cliques": 1,
+   "impressoes": 23,
+   "ctr": 0.04348,
+   "posicao": 8.3
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/problemas/caoa-chery/tiggo-5x/sistema-eletrico-falha/"
+   ],
+   "cliques": 1,
+   "impressoes": 7,
+   "ctr": 0.14286,
+   "posicao": 6.43
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/problemas/chevrolet/onix/turbo-perde-potencia/"
+   ],
+   "cliques": 1,
+   "impressoes": 150,
+   "ctr": 0.00667,
+   "posicao": 6.9
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/problemas/fiat/argo/start-stop/"
+   ],
+   "cliques": 1,
+   "impressoes": 471,
+   "ctr": 0.00212,
+   "posicao": 7.62
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/problemas/fiat/fastback/vazamento-oleo-retentor/"
+   ],
+   "cliques": 1,
+   "impressoes": 45,
+   "ctr": 0.02222,
+   "posicao": 5.51
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/problemas/fiat/mobi/"
+   ],
+   "cliques": 1,
+   "impressoes": 40,
+   "ctr": 0.025,
+   "posicao": 6.35
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/problemas/fiat/pulse/"
+   ],
+   "cliques": 1,
+   "impressoes": 365,
+   "ctr": 0.00274,
+   "posicao": 8.9
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/problemas/fiat/pulse/bomba-de-oleo-t200/"
+   ],
+   "cliques": 1,
+   "impressoes": 33,
+   "ctr": 0.0303,
+   "posicao": 6.36
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/problemas/fiat/strada/ar-condicionado-fraco/"
+   ],
+   "cliques": 1,
+   "impressoes": 78,
+   "ctr": 0.01282,
+   "posicao": 4.9
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/problemas/fiat/strada/barulho-suspensao-dianteira/"
+   ],
+   "cliques": 1,
+   "impressoes": 7,
+   "ctr": 0.14286,
+   "posicao": 4.29
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/problemas/fiat/strada/motor-firefly-consumo-oleo/"
+   ],
+   "cliques": 1,
+   "impressoes": 105,
+   "ctr": 0.00952,
+   "posicao": 6.57
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/problemas/fiat/uno/ar-condicionado-fraco/"
+   ],
+   "cliques": 1,
+   "impressoes": 104,
+   "ctr": 0.00962,
+   "posicao": 5.35
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/problemas/fiat/uno/vela-ignicao-fire/"
+   ],
+   "cliques": 1,
+   "impressoes": 17,
+   "ctr": 0.05882,
+   "posicao": 5.41
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/problemas/gwm/haval-h6/"
+   ],
+   "cliques": 1,
+   "impressoes": 81,
+   "ctr": 0.01235,
+   "posicao": 8.41
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/problemas/hyundai/hb20/vazamento-de-oleo/"
+   ],
+   "cliques": 1,
+   "impressoes": 557,
+   "ctr": 0.0018,
+   "posicao": 6.5
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/problemas/hyundai/hb20s/cambio-manual-dificil-engatar/"
+   ],
+   "cliques": 1,
+   "impressoes": 71,
+   "ctr": 0.01408,
+   "posicao": 4.28
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/problemas/jeep/commander/ar-condicionado-fraco/"
+   ],
+   "cliques": 1,
+   "impressoes": 32,
+   "ctr": 0.03125,
+   "posicao": 4.19
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/problemas/nissan/frontier/diferencial-traseiro-desgaste/"
+   ],
+   "cliques": 1,
+   "impressoes": 32,
+   "ctr": 0.03125,
+   "posicao": 4.81
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/problemas/nissan/frontier/injetores-diesel-falha/"
+   ],
+   "cliques": 1,
+   "impressoes": 49,
+   "ctr": 0.02041,
+   "posicao": 8.94
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/problemas/peugeot/208/consumo-oleo-puretech/"
+   ],
+   "cliques": 1,
+   "impressoes": 56,
+   "ctr": 0.01786,
+   "posicao": 5.45
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/problemas/renault/logan/cambio-cvt-solavanco-utilitario/"
+   ],
+   "cliques": 1,
+   "impressoes": 13,
+   "ctr": 0.07692,
+   "posicao": 6.31
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/problemas/volkswagen/fox/"
+   ],
+   "cliques": 1,
+   "impressoes": 27,
+   "ctr": 0.03704,
+   "posicao": 6.67
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/problemas/volkswagen/jetta/consumo-oleo-ea211/"
+   ],
+   "cliques": 1,
+   "impressoes": 46,
+   "ctr": 0.02174,
+   "posicao": 6.98
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/problemas/volkswagen/nivus/bomba-de-agua/"
+   ],
+   "cliques": 1,
+   "impressoes": 89,
+   "ctr": 0.01124,
+   "posicao": 6.44
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/problemas/volkswagen/polo-tsi/"
+   ],
+   "cliques": 1,
+   "impressoes": 196,
+   "ctr": 0.0051,
+   "posicao": 7.12
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/problemas/volkswagen/saveiro/suspensao-dianteira-barulho/"
+   ],
+   "cliques": 1,
+   "impressoes": 22,
+   "ctr": 0.04545,
+   "posicao": 5.18
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/problemas/volkswagen/virtus/"
+   ],
+   "cliques": 1,
+   "impressoes": 114,
+   "ctr": 0.00877,
+   "posicao": 9.61
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/problemas/volkswagen/virtus/consumo-de-oleo-tsi/"
+   ],
+   "cliques": 1,
+   "impressoes": 185,
+   "ctr": 0.00541,
+   "posicao": 7.58
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/problemas/volkswagen/virtus/tranco-ao-acelerar/"
+   ],
+   "cliques": 1,
+   "impressoes": 11,
+   "ctr": 0.09091,
+   "posicao": 6
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/revisao/"
+   ],
+   "cliques": 1,
+   "impressoes": 14,
+   "ctr": 0.07143,
+   "posicao": 7.86
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/revisao/hyundai-hb20/"
+   ],
+   "cliques": 1,
+   "impressoes": 83,
+   "ctr": 0.01205,
+   "posicao": 6.95
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/sistema/cambio-e-transmissao/"
+   ],
+   "cliques": 1,
+   "impressoes": 212,
+   "ctr": 0.00472,
+   "posicao": 14.27
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/sistema/motor-e-lubrificacao/"
+   ],
+   "cliques": 1,
+   "impressoes": 22,
+   "ctr": 0.04545,
+   "posicao": 12.45
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/tecnologia/correia-banhada-a-oleo/"
+   ],
+   "cliques": 1,
+   "impressoes": 82,
+   "ctr": 0.0122,
+   "posicao": 33.02
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/tecnologia/turbocompressor/"
+   ],
+   "cliques": 1,
+   "impressoes": 2,
+   "ctr": 0.5,
+   "posicao": 1.5
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/tecnologia/turbodiesel-picapes/"
+   ],
+   "cliques": 1,
+   "impressoes": 43,
+   "ctr": 0.02326,
+   "posicao": 8.84
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/eletricos/"
+   ],
+   "cliques": 0,
+   "impressoes": 14,
+   "ctr": 0,
+   "posicao": 7.93
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/eletricos/autonomia-real-carro-eletrico/"
+   ],
+   "cliques": 0,
+   "impressoes": 11,
+   "ctr": 0,
+   "posicao": 28.09
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/eletricos/byd/dolphin/"
+   ],
+   "cliques": 0,
+   "impressoes": 46,
+   "ctr": 0,
+   "posicao": 12.15
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/eletricos/byd/song-plus-ev-bateria-autonomia/"
+   ],
+   "cliques": 0,
+   "impressoes": 157,
+   "ctr": 0,
+   "posicao": 10.67
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/eletricos/custo-manutencao-eletrico-vs-flex/"
+   ],
+   "cliques": 0,
+   "impressoes": 3,
+   "ctr": 0,
+   "posicao": 5.67
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/eletricos/mapa-postos-recarga-brasil/"
+   ],
+   "cliques": 0,
+   "impressoes": 22,
+   "ctr": 0,
+   "posicao": 8.82
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/eletricos/recarga-carro-eletrico-brasil/"
+   ],
+   "cliques": 0,
+   "impressoes": 20,
+   "ctr": 0,
+   "posicao": 8.05
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/eletricos/volvo/c40-recharge-consumo-real/"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 5
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/equipe/"
+   ],
+   "cliques": 0,
+   "impressoes": 28,
+   "ctr": 0,
+   "posicao": 6.71
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/ficha-tecnica/byd/song-plus-premium-ev/"
+   ],
+   "cliques": 0,
+   "impressoes": 42,
+   "ctr": 0,
+   "posicao": 8.26
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/ficha-tecnica/chevrolet/cruze-ltz-1-4-turbo/"
+   ],
+   "cliques": 0,
+   "impressoes": 12,
+   "ctr": 0,
+   "posicao": 12.08
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/ficha-tecnica/chevrolet/montana-premier-1-2-turbo/"
+   ],
+   "cliques": 0,
+   "impressoes": 164,
+   "ctr": 0,
+   "posicao": 8.26
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/ficha-tecnica/chevrolet/onix/"
+   ],
+   "cliques": 0,
+   "impressoes": 6,
+   "ctr": 0,
+   "posicao": 6.5
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/ficha-tecnica/chevrolet/s10-ltz-2-8-diesel/"
+   ],
+   "cliques": 0,
+   "impressoes": 11,
+   "ctr": 0,
+   "posicao": 6.36
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/ficha-tecnica/citroen/c4-shine-1-6/"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 10
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/ficha-tecnica/fiat/mobi/"
+   ],
+   "cliques": 0,
+   "impressoes": 120,
+   "ctr": 0,
+   "posicao": 9.28
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/ficha-tecnica/fiat/strada/"
+   ],
+   "cliques": 0,
+   "impressoes": 122,
+   "ctr": 0,
+   "posicao": 7.46
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/ficha-tecnica/fiat/uno-way-1-0/"
+   ],
+   "cliques": 0,
+   "impressoes": 3,
+   "ctr": 0,
+   "posicao": 39
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/ficha-tecnica/ford/territory-titanium-1-5/"
+   ],
+   "cliques": 0,
+   "impressoes": 12,
+   "ctr": 0,
+   "posicao": 22.83
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/ficha-tecnica/honda/city-touring-1-5/"
+   ],
+   "cliques": 0,
+   "impressoes": 2,
+   "ctr": 0,
+   "posicao": 6.5
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/ficha-tecnica/honda/city/"
+   ],
+   "cliques": 0,
+   "impressoes": 3,
+   "ctr": 0,
+   "posicao": 8
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/ficha-tecnica/honda/civic-ex-1-5-turbo/"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 7
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/ficha-tecnica/honda/hr-v/"
+   ],
+   "cliques": 0,
+   "impressoes": 5,
+   "ctr": 0,
+   "posicao": 10
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/ficha-tecnica/hyundai/hb20/"
+   ],
+   "cliques": 0,
+   "impressoes": 84,
+   "ctr": 0,
+   "posicao": 10.67
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/ficha-tecnica/hyundai/ix35-gls-2-0/"
+   ],
+   "cliques": 0,
+   "impressoes": 93,
+   "ctr": 0,
+   "posicao": 7.31
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/ficha-tecnica/mitsubishi/outlander-v6-3-0/"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 6
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/ficha-tecnica/nissan/kicks/"
+   ],
+   "cliques": 0,
+   "impressoes": 441,
+   "ctr": 0,
+   "posicao": 8.29
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/ficha-tecnica/nissan/versa-advance-1-6/"
+   ],
+   "cliques": 0,
+   "impressoes": 2,
+   "ctr": 0,
+   "posicao": 5
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/ficha-tecnica/peugeot/3008-griffe-1-6-thp/"
+   ],
+   "cliques": 0,
+   "impressoes": 18,
+   "ctr": 0,
+   "posicao": 16.67
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/ficha-tecnica/ram/rampage-rebel-2-2-turbodiesel/"
+   ],
+   "cliques": 0,
+   "impressoes": 5,
+   "ctr": 0,
+   "posicao": 7.6
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/ficha-tecnica/renault/logan-intense-1-0-turbo/"
+   ],
+   "cliques": 0,
+   "impressoes": 9,
+   "ctr": 0,
+   "posicao": 4.33
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/ficha-tecnica/toyota/corolla-cross-xrx-2-0/"
+   ],
+   "cliques": 0,
+   "impressoes": 18,
+   "ctr": 0,
+   "posicao": 8.22
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/ficha-tecnica/toyota/corolla/"
+   ],
+   "cliques": 0,
+   "impressoes": 14,
+   "ctr": 0,
+   "posicao": 5.79
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/ficha-tecnica/toyota/hilux-srx-2-8-diesel/"
+   ],
+   "cliques": 0,
+   "impressoes": 5,
+   "ctr": 0,
+   "posicao": 8.2
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/ficha-tecnica/toyota/yaris-xls-1-5/"
+   ],
+   "cliques": 0,
+   "impressoes": 17,
+   "ctr": 0,
+   "posicao": 7
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/ficha-tecnica/volkswagen/jetta-comfortline-1-4-tsi/"
+   ],
+   "cliques": 0,
+   "impressoes": 14,
+   "ctr": 0,
+   "posicao": 6.36
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/ficha-tecnica/volkswagen/nivus/"
+   ],
+   "cliques": 0,
+   "impressoes": 7,
+   "ctr": 0,
+   "posicao": 7.57
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/ficha-tecnica/volkswagen/saveiro-cross-1-6-msi/"
+   ],
+   "cliques": 0,
+   "impressoes": 7,
+   "ctr": 0,
+   "posicao": 6.14
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/ficha-tecnica/volkswagen/t-cross/"
+   ],
+   "cliques": 0,
+   "impressoes": 39,
+   "ctr": 0,
+   "posicao": 13.38
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/ficha-tecnica/volkswagen/taos-comfortline-1-4-tsi/"
+   ],
+   "cliques": 0,
+   "impressoes": 215,
+   "ctr": 0,
+   "posicao": 8.3
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/ficha-tecnica/volkswagen/virtus-highline-1-0-tsi/"
+   ],
+   "cliques": 0,
+   "impressoes": 274,
+   "ctr": 0,
+   "posicao": 9.1
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/guia-de-compra/"
+   ],
+   "cliques": 0,
+   "impressoes": 68,
+   "ctr": 0,
+   "posicao": 9.06
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/guia-de-compra/comparativos/captur-vs-renegade/"
+   ],
+   "cliques": 0,
+   "impressoes": 95,
+   "ctr": 0,
+   "posicao": 6.43
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/guia-de-compra/comparativos/compass-vs-tucson/"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 1
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/guia-de-compra/comparativos/ford-ranger-vs-hilux/"
+   ],
+   "cliques": 0,
+   "impressoes": 35,
+   "ctr": 0,
+   "posicao": 8.26
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/guia-de-compra/comparativos/hilux-vs-l200-triton/"
+   ],
+   "cliques": 0,
+   "impressoes": 2,
+   "ctr": 0,
+   "posicao": 3.5
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/guia-de-compra/comparativos/hr-v-vs-t-cross/"
+   ],
+   "cliques": 0,
+   "impressoes": 95,
+   "ctr": 0,
+   "posicao": 9.13
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/guia-de-compra/comparativos/onix-plus-vs-hb20s/"
+   ],
+   "cliques": 0,
+   "impressoes": 18,
+   "ctr": 0,
+   "posicao": 8.44
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/guia-de-compra/consertar-ou-trocar-vale-a-pena/"
+   ],
+   "cliques": 0,
+   "impressoes": 10,
+   "ctr": 0,
+   "posicao": 6.3
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/guia-de-compra/cronos-vs-virtus/"
+   ],
+   "cliques": 0,
+   "impressoes": 36,
+   "ctr": 0,
+   "posicao": 5
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/guia-de-compra/melhor-carro-popular-custo-beneficio-2026/"
+   ],
+   "cliques": 0,
+   "impressoes": 7,
+   "ctr": 0,
+   "posicao": 9
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/guia-de-compra/mobi-vs-kwid/"
+   ],
+   "cliques": 0,
+   "impressoes": 78,
+   "ctr": 0,
+   "posicao": 6.91
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/guia-de-compra/renault-captur-2025/"
+   ],
+   "cliques": 0,
+   "impressoes": 23,
+   "ctr": 0,
+   "posicao": 6.74
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/guia-de-compra/sandero-vs-argo/"
+   ],
+   "cliques": 0,
+   "impressoes": 26,
+   "ctr": 0,
+   "posicao": 6.65
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/guia-de-compra/usados/captur-usado-vale-a-pena/"
+   ],
+   "cliques": 0,
+   "impressoes": 2,
+   "ctr": 0,
+   "posicao": 7
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/guia-de-compra/usados/gol-usado-vale-a-pena/"
+   ],
+   "cliques": 0,
+   "impressoes": 20,
+   "ctr": 0,
+   "posicao": 6.4
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/guia-de-compra/usados/honda-hrv-usado-vale-a-pena/"
+   ],
+   "cliques": 0,
+   "impressoes": 11,
+   "ctr": 0,
+   "posicao": 8.18
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/guia-de-compra/usados/kwid-usado-vale-a-pena/"
+   ],
+   "cliques": 0,
+   "impressoes": 105,
+   "ctr": 0,
+   "posicao": 7.8
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/guia-de-compra/usados/ranger-usada-vale-a-pena/"
+   ],
+   "cliques": 0,
+   "impressoes": 16,
+   "ctr": 0,
+   "posicao": 7.25
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/guia-de-compra/usados/toyota-corolla-cross-usado-vale-a-pena/"
+   ],
+   "cliques": 0,
+   "impressoes": 178,
+   "ctr": 0,
+   "posicao": 8.12
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/manutencao/alinhamento-e-balanceamento/"
+   ],
+   "cliques": 0,
+   "impressoes": 12,
+   "ctr": 0,
+   "posicao": 8.33
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/manutencao/calibragem-de-pneus/"
+   ],
+   "cliques": 0,
+   "impressoes": 14,
+   "ctr": 0,
+   "posicao": 27.57
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/manutencao/cambio-cvt-revisao/"
+   ],
+   "cliques": 0,
+   "impressoes": 165,
+   "ctr": 0,
+   "posicao": 6.52
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/manutencao/chevrolet/onix/troca-de-oleo-turbo/"
+   ],
+   "cliques": 0,
+   "impressoes": 483,
+   "ctr": 0,
+   "posicao": 8.16
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/manutencao/como-desembacar-vidros/"
+   ],
+   "cliques": 0,
+   "impressoes": 3,
+   "ctr": 0,
+   "posicao": 8.33
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/manutencao/como-identificar-falha-bomba-combustivel/"
+   ],
+   "cliques": 0,
+   "impressoes": 400,
+   "ctr": 0,
+   "posicao": 9.16
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/manutencao/como-limpar-bicos-injetores/"
+   ],
+   "cliques": 0,
+   "impressoes": 188,
+   "ctr": 0,
+   "posicao": 7.44
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/manutencao/como-limpar-terminais-bateria/"
+   ],
+   "cliques": 0,
+   "impressoes": 11,
+   "ctr": 0,
+   "posicao": 6.91
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/manutencao/como-trocar-amortecedores/"
+   ],
+   "cliques": 0,
+   "impressoes": 94,
+   "ctr": 0,
+   "posicao": 8.62
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/manutencao/como-trocar-bobina-ignicao/"
+   ],
+   "cliques": 0,
+   "impressoes": 125,
+   "ctr": 0,
+   "posicao": 8.06
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/manutencao/como-trocar-bucha-estabilizadora/"
+   ],
+   "cliques": 0,
+   "impressoes": 613,
+   "ctr": 0,
+   "posicao": 7.05
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/manutencao/como-trocar-correia-auxiliar/"
+   ],
+   "cliques": 0,
+   "impressoes": 179,
+   "ctr": 0,
+   "posicao": 8.49
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/manutencao/como-trocar-filtro-de-ar/"
+   ],
+   "cliques": 0,
+   "impressoes": 23,
+   "ctr": 0,
+   "posicao": 7
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/manutencao/como-trocar-filtro-de-combustivel/"
+   ],
+   "cliques": 0,
+   "impressoes": 17,
+   "ctr": 0,
+   "posicao": 12.24
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/manutencao/como-trocar-fluido-de-freio/"
+   ],
+   "cliques": 0,
+   "impressoes": 177,
+   "ctr": 0,
+   "posicao": 8.53
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/manutencao/como-trocar-oleo-motor-turbo/"
+   ],
+   "cliques": 0,
+   "impressoes": 4,
+   "ctr": 0,
+   "posicao": 6.75
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/manutencao/como-trocar-oleo-motor/"
+   ],
+   "cliques": 0,
+   "impressoes": 16,
+   "ctr": 0,
+   "posicao": 6.81
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/manutencao/como-trocar-pastilhas-freio/"
+   ],
+   "cliques": 0,
+   "impressoes": 99,
+   "ctr": 0,
+   "posicao": 7.99
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/manutencao/como-verificar-bateria-carro/"
+   ],
+   "cliques": 0,
+   "impressoes": 4,
+   "ctr": 0,
+   "posicao": 19.5
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/manutencao/como-verificar-fluido-freio/"
+   ],
+   "cliques": 0,
+   "impressoes": 27,
+   "ctr": 0,
+   "posicao": 9.15
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/manutencao/como-verificar-nivel-oleo-motor/"
+   ],
+   "cliques": 0,
+   "impressoes": 13,
+   "ctr": 0,
+   "posicao": 10.46
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/manutencao/como-verificar-oleo-do-motor/"
+   ],
+   "cliques": 0,
+   "impressoes": 2,
+   "ctr": 0,
+   "posicao": 6
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/manutencao/filtro-combustivel-quando-trocar/"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 8
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/manutencao/filtro-de-ar-motor/"
+   ],
+   "cliques": 0,
+   "impressoes": 3,
+   "ctr": 0,
+   "posicao": 6.33
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/manutencao/higienizacao-ar-condicionado-automotivo/"
+   ],
+   "cliques": 0,
+   "impressoes": 19,
+   "ctr": 0,
+   "posicao": 11.79
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/manutencao/luzes-do-painel-o-que-significam/"
+   ],
+   "cliques": 0,
+   "impressoes": 11,
+   "ctr": 0,
+   "posicao": 8.73
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/manutencao/manutencao-ar-condicionado-carro/"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 64
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/manutencao/melhor-oleo-motor-flex/"
+   ],
+   "cliques": 0,
+   "impressoes": 5,
+   "ctr": 0,
+   "posicao": 6
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/manutencao/oleo-motor-turbo-como-escolher/"
+   ],
+   "cliques": 0,
+   "impressoes": 11,
+   "ctr": 0,
+   "posicao": 8
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/manutencao/oleo-sintetico-vale-a-pena/"
+   ],
+   "cliques": 0,
+   "impressoes": 4,
+   "ctr": 0,
+   "posicao": 8.75
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/manutencao/quando-trocar-amortecedor/"
+   ],
+   "cliques": 0,
+   "impressoes": 40,
+   "ctr": 0,
+   "posicao": 12.93
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/manutencao/quanto-tempo-dura-oleo-motor/"
+   ],
+   "cliques": 0,
+   "impressoes": 6,
+   "ctr": 0,
+   "posicao": 8
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/manutencao/revisao-freios-completa/"
+   ],
+   "cliques": 0,
+   "impressoes": 56,
+   "ctr": 0,
+   "posicao": 7.14
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/manutencao/revisao-preventiva-10000km/"
+   ],
+   "cliques": 0,
+   "impressoes": 47,
+   "ctr": 0,
+   "posicao": 8.55
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/manutencao/sinais-alternador-com-problema/"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 4
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/manutencao/sinais-pastilha-freio-desgastada/"
+   ],
+   "cliques": 0,
+   "impressoes": 116,
+   "ctr": 0,
+   "posicao": 7.61
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/manutencao/troca-de-velas/"
+   ],
+   "cliques": 0,
+   "impressoes": 23,
+   "ctr": 0,
+   "posicao": 6.52
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/manutencao/troca-filtro-cabine-carro/"
+   ],
+   "cliques": 0,
+   "impressoes": 3,
+   "ctr": 0,
+   "posicao": 7
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/manutencao/vazamento-oleo-motor/"
+   ],
+   "cliques": 0,
+   "impressoes": 107,
+   "ctr": 0,
+   "posicao": 7.56
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/manutencao/verificar-nivel-oleo-motor/"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 8
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/manutencao/verificar-pastilhas-de-freio/"
+   ],
+   "cliques": 0,
+   "impressoes": 68,
+   "ctr": 0,
+   "posicao": 7.43
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/marca/"
+   ],
+   "cliques": 0,
+   "impressoes": 8,
+   "ctr": 0,
+   "posicao": 5.5
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/marca/caoa-chery/"
+   ],
+   "cliques": 0,
+   "impressoes": 11,
+   "ctr": 0,
+   "posicao": 16.27
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/marca/fiat/"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 7
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/marca/ram/"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 7
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/motor/etorq/"
+   ],
+   "cliques": 0,
+   "impressoes": 58,
+   "ctr": 0,
+   "posicao": 9.33
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/motor/fire/"
+   ],
+   "cliques": 0,
+   "impressoes": 32,
+   "ctr": 0,
+   "posicao": 6.91
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/motor/honda-15/"
+   ],
+   "cliques": 0,
+   "impressoes": 27,
+   "ctr": 0,
+   "posicao": 5.96
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/motor/sce-renault/"
+   ],
+   "cliques": 0,
+   "impressoes": 145,
+   "ctr": 0,
+   "posicao": 7.19
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/motor/tce-13/"
+   ],
+   "cliques": 0,
+   "impressoes": 11,
+   "ctr": 0,
+   "posicao": 6.55
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/politicas/"
+   ],
+   "cliques": 0,
+   "impressoes": 7,
+   "ctr": 0,
+   "posicao": 5.71
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/preparacao/marea-2-0-20v-aspirado-vale-preparar/"
+   ],
+   "cliques": 0,
+   "impressoes": 21,
+   "ctr": 0,
+   "posicao": 9.1
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/problemas/byd/song-plus/"
+   ],
+   "cliques": 0,
+   "impressoes": 31,
+   "ctr": 0,
+   "posicao": 6.48
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/problemas/byd/yuan-plus/"
+   ],
+   "cliques": 0,
+   "impressoes": 9,
+   "ctr": 0,
+   "posicao": 6.44
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/problemas/byd/yuan-plus/multimidia-central-falha/"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 6
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/problemas/caoa-chery/tiggo-5x/"
+   ],
+   "cliques": 0,
+   "impressoes": 8,
+   "ctr": 0,
+   "posicao": 9.62
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/problemas/caoa-chery/tiggo-8-pro/ar-condicionado-cheiro-fungo/"
+   ],
+   "cliques": 0,
+   "impressoes": 2,
+   "ctr": 0,
+   "posicao": 2.5
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/problemas/chevrolet/cruze/"
+   ],
+   "cliques": 0,
+   "impressoes": 20,
+   "ctr": 0,
+   "posicao": 10.3
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/problemas/chevrolet/onix/barulho-suspensao-dianteira/"
+   ],
+   "cliques": 0,
+   "impressoes": 8,
+   "ctr": 0,
+   "posicao": 3.62
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/problemas/chevrolet/onix/bomba-de-oleo/"
+   ],
+   "cliques": 0,
+   "impressoes": 283,
+   "ctr": 0,
+   "posicao": 5.4
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/problemas/chevrolet/onix/consumo-alto/"
+   ],
+   "cliques": 0,
+   "impressoes": 22,
+   "ctr": 0,
+   "posicao": 4.68
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/problemas/chevrolet/onix/ruido-cambio-automatico/"
+   ],
+   "cliques": 0,
+   "impressoes": 12,
+   "ctr": 0,
+   "posicao": 5.17
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/problemas/chevrolet/s10/turbina-boost-pressao/"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 8
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/problemas/chevrolet/spin/motor-ecotec-consumo-oleo/"
+   ],
+   "cliques": 0,
+   "impressoes": 52,
+   "ctr": 0,
+   "posicao": 6.65
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/problemas/chevrolet/spin/superaquecimento-motor-1-8/"
+   ],
+   "cliques": 0,
+   "impressoes": 6,
+   "ctr": 0,
+   "posicao": 6.67
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/problemas/chevrolet/spin/transmissao-automatica-tranco/"
+   ],
+   "cliques": 0,
+   "impressoes": 73,
+   "ctr": 0,
+   "posicao": 5.97
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/problemas/chevrolet/tracker/"
+   ],
+   "cliques": 0,
+   "impressoes": 78,
+   "ctr": 0,
+   "posicao": 7.6
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/problemas/citroen/c3/"
+   ],
+   "cliques": 0,
+   "impressoes": 15,
+   "ctr": 0,
+   "posicao": 9.73
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/problemas/citroen/c3/superaquecimento-termostato/"
+   ],
+   "cliques": 0,
+   "impressoes": 3,
+   "ctr": 0,
+   "posicao": 9.33
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/problemas/citroen/c4/cambio-eat6-solavanco/"
+   ],
+   "cliques": 0,
+   "impressoes": 2,
+   "ctr": 0,
+   "posicao": 7.5
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/problemas/citroen/c4/motor-thp-consumo-oleo/"
+   ],
+   "cliques": 0,
+   "impressoes": 20,
+   "ctr": 0,
+   "posicao": 5.8
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/problemas/fiat/cronos/"
+   ],
+   "cliques": 0,
+   "impressoes": 41,
+   "ctr": 0,
+   "posicao": 9
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/problemas/fiat/cronos/sensor-lambda-sonda/"
+   ],
+   "cliques": 0,
+   "impressoes": 62,
+   "ctr": 0,
+   "posicao": 5.55
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/problemas/fiat/doblo/"
+   ],
+   "cliques": 0,
+   "impressoes": 29,
+   "ctr": 0,
+   "posicao": 8.31
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/problemas/fiat/doblo/ar-condicionado-fraco/"
+   ],
+   "cliques": 0,
+   "impressoes": 4,
+   "ctr": 0,
+   "posicao": 8.5
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/problemas/fiat/doblo/superaquecimento-motor-etorq/"
+   ],
+   "cliques": 0,
+   "impressoes": 3,
+   "ctr": 0,
+   "posicao": 5.67
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/problemas/fiat/fastback/corrente-distribuicao-t270/"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 4
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/problemas/fiat/fastback/suspensao-traseira-barulho/"
+   ],
+   "cliques": 0,
+   "impressoes": 64,
+   "ctr": 0,
+   "posicao": 5.92
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/problemas/fiat/fiorino/"
+   ],
+   "cliques": 0,
+   "impressoes": 5,
+   "ctr": 0,
+   "posicao": 6.6
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/problemas/fiat/fiorino/embreagem-desgaste-prematuro/"
+   ],
+   "cliques": 0,
+   "impressoes": 2,
+   "ctr": 0,
+   "posicao": 4
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/problemas/fiat/mobi/correia-acessoria-barulho/"
+   ],
+   "cliques": 0,
+   "impressoes": 9,
+   "ctr": 0,
+   "posicao": 3.89
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/problemas/fiat/mobi/corrente-de-comando/"
+   ],
+   "cliques": 0,
+   "impressoes": 114,
+   "ctr": 0,
+   "posicao": 4.04
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/problemas/fiat/palio/"
+   ],
+   "cliques": 0,
+   "impressoes": 19,
+   "ctr": 0,
+   "posicao": 7.68
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/problemas/fiat/palio/cambio-dualogic/"
+   ],
+   "cliques": 0,
+   "impressoes": 182,
+   "ctr": 0,
+   "posicao": 6.3
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/problemas/fiat/palio/fiat-palio-superaquecendo-causas-junta-de-cabecote-e-o/"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 1
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/problemas/fiat/strada/"
+   ],
+   "cliques": 0,
+   "impressoes": 5,
+   "ctr": 0,
+   "posicao": 8.6
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/problemas/fiat/toro/"
+   ],
+   "cliques": 0,
+   "impressoes": 17,
+   "ctr": 0,
+   "posicao": 10
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/problemas/fiat/uno/"
+   ],
+   "cliques": 0,
+   "impressoes": 13,
+   "ctr": 0,
+   "posicao": 7
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/problemas/ford/ecosport/"
+   ],
+   "cliques": 0,
+   "impressoes": 31,
+   "ctr": 0,
+   "posicao": 6.81
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/problemas/ford/ka/"
+   ],
+   "cliques": 0,
+   "impressoes": 4,
+   "ctr": 0,
+   "posicao": 5.75
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/problemas/ford/ranger/dpf-filtro-particulas-entupimento/"
+   ],
+   "cliques": 0,
+   "impressoes": 3,
+   "ctr": 0,
+   "posicao": 7
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/problemas/ford/ranger/suspensao-traseira-barulho/"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 8
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/problemas/ford/territory/consumo-combustivel-alto/"
+   ],
+   "cliques": 0,
+   "impressoes": 13,
+   "ctr": 0,
+   "posicao": 7
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/problemas/ford/territory/suspensao-dianteira-barulho/"
+   ],
+   "cliques": 0,
+   "impressoes": 9,
+   "ctr": 0,
+   "posicao": 6.22
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/problemas/gwm/haval-h6/ar-condicionado-cheiro-fungo/"
+   ],
+   "cliques": 0,
+   "impressoes": 13,
+   "ctr": 0,
+   "posicao": 5.69
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/problemas/gwm/haval-h6/ruido-suspensao-dianteira/"
+   ],
+   "cliques": 0,
+   "impressoes": 2,
+   "ctr": 0,
+   "posicao": 12
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/problemas/honda/city/"
+   ],
+   "cliques": 0,
+   "impressoes": 69,
+   "ctr": 0,
+   "posicao": 8.57
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/problemas/honda/city/ar-condicionado-evaporador-cheiro/"
+   ],
+   "cliques": 0,
+   "impressoes": 10,
+   "ctr": 0,
+   "posicao": 14.9
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/problemas/honda/city/bomba-alta-pressao/"
+   ],
+   "cliques": 0,
+   "impressoes": 66,
+   "ctr": 0,
+   "posicao": 7.39
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/problemas/honda/hr-v/"
+   ],
+   "cliques": 0,
+   "impressoes": 41,
+   "ctr": 0,
+   "posicao": 8.76
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/problemas/honda/hr-v/cambio-cvt-solavanco/"
+   ],
+   "cliques": 0,
+   "impressoes": 83,
+   "ctr": 0,
+   "posicao": 7.51
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/problemas/honda/wr-v/"
+   ],
+   "cliques": 0,
+   "impressoes": 107,
+   "ctr": 0,
+   "posicao": 8.89
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/problemas/honda/wr-v/cambio-cvt-patinando/"
+   ],
+   "cliques": 0,
+   "impressoes": 6,
+   "ctr": 0,
+   "posicao": 5.33
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/problemas/hyundai/creta/"
+   ],
+   "cliques": 0,
+   "impressoes": 90,
+   "ctr": 0,
+   "posicao": 7.82
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/problemas/hyundai/creta/cambio-7dct-trepidacao/"
+   ],
+   "cliques": 0,
+   "impressoes": 6,
+   "ctr": 0,
+   "posicao": 6.67
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/problemas/hyundai/hb20/"
+   ],
+   "cliques": 0,
+   "impressoes": 48,
+   "ctr": 0,
+   "posicao": 9.15
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/problemas/hyundai/hb20/ar-condicionado-fraco/"
+   ],
+   "cliques": 0,
+   "impressoes": 102,
+   "ctr": 0,
+   "posicao": 6.64
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/problemas/hyundai/hb20/cambio-automatico-trancos/"
+   ],
+   "cliques": 0,
+   "impressoes": 3,
+   "ctr": 0,
+   "posicao": 8.67
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/problemas/hyundai/hb20s/ar-condicionado-fraco/"
+   ],
+   "cliques": 0,
+   "impressoes": 80,
+   "ctr": 0,
+   "posicao": 6.99
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/problemas/hyundai/hb20s/cambio-dificil-engatar/"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 1
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/problemas/hyundai/hb20s/compressor-ac-travado/"
+   ],
+   "cliques": 0,
+   "impressoes": 5,
+   "ctr": 0,
+   "posicao": 8.8
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/problemas/hyundai/hb20s/embreagem-patinando/"
+   ],
+   "cliques": 0,
+   "impressoes": 3,
+   "ctr": 0,
+   "posicao": 5
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/problemas/hyundai/ix35/consumo-de-oleo-theta/"
+   ],
+   "cliques": 0,
+   "impressoes": 30,
+   "ctr": 0,
+   "posicao": 3.67
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/problemas/hyundai/ix35/suspensao-dianteira-rolamento/"
+   ],
+   "cliques": 0,
+   "impressoes": 2,
+   "ctr": 0,
+   "posicao": 7.5
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/problemas/hyundai/santa-fe/consumo-combustivel-v6/"
+   ],
+   "cliques": 0,
+   "impressoes": 3,
+   "ctr": 0,
+   "posicao": 7.33
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/problemas/hyundai/tucson/ar-condicionado-fraco/"
+   ],
+   "cliques": 0,
+   "impressoes": 18,
+   "ctr": 0,
+   "posicao": 6.39
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/problemas/hyundai/tucson/motor-turbo-consumo-oleo/"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 10
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/problemas/hyundai/tucson/sistema-eletrico-falha-display/"
+   ],
+   "cliques": 0,
+   "impressoes": 17,
+   "ctr": 0,
+   "posicao": 7.06
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/problemas/jeep/commander/"
+   ],
+   "cliques": 0,
+   "impressoes": 71,
+   "ctr": 0,
+   "posicao": 8.17
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/problemas/jeep/commander/cambio-9-marchas-solavanco/"
+   ],
+   "cliques": 0,
+   "impressoes": 24,
+   "ctr": 0,
+   "posicao": 5.88
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/problemas/jeep/commander/corrente-distribuicao-t270/"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 4
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/problemas/jeep/compass/"
+   ],
+   "cliques": 0,
+   "impressoes": 47,
+   "ctr": 0,
+   "posicao": 10.06
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/problemas/jeep/compass/cambio-9-marchas/"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 9
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/problemas/jeep/renegade/"
+   ],
+   "cliques": 0,
+   "impressoes": 27,
+   "ctr": 0,
+   "posicao": 8.52
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/problemas/jeep/renegade/consumo-de-oleo-1-8-etorq/"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 1
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/problemas/jeep/renegade/corrente-de-comando-t270/"
+   ],
+   "cliques": 0,
+   "impressoes": 10,
+   "ctr": 0,
+   "posicao": 5.3
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/problemas/jeep/renegade/trocador-de-calor-cambio-automatico/"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 1
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/problemas/jeep/wrangler/ar-condicionado-fraco/"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 5
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/problemas/mitsubishi/l200-triton/"
+   ],
+   "cliques": 0,
+   "impressoes": 47,
+   "ctr": 0,
+   "posicao": 7.11
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/problemas/mitsubishi/l200-triton/ar-condicionado-fraco/"
+   ],
+   "cliques": 0,
+   "impressoes": 3,
+   "ctr": 0,
+   "posicao": 2
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/problemas/mitsubishi/l200-triton/corrente-timing-4n15/"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 5
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/problemas/mitsubishi/l200-triton/filtro-particulas-dpf/"
+   ],
+   "cliques": 0,
+   "impressoes": 2,
+   "ctr": 0,
+   "posicao": 5.5
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/problemas/mitsubishi/outlander/"
+   ],
+   "cliques": 0,
+   "impressoes": 25,
+   "ctr": 0,
+   "posicao": 10
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/problemas/nissan/frontier/ar-condicionado-fraco/"
+   ],
+   "cliques": 0,
+   "impressoes": 68,
+   "ctr": 0,
+   "posicao": 7.06
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/problemas/nissan/kicks/"
+   ],
+   "cliques": 0,
+   "impressoes": 2,
+   "ctr": 0,
+   "posicao": 9.5
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/problemas/nissan/kicks/transmissao-cvt-superaquecimento/"
+   ],
+   "cliques": 0,
+   "impressoes": 4,
+   "ctr": 0,
+   "posicao": 3.5
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/problemas/nissan/versa/"
+   ],
+   "cliques": 0,
+   "impressoes": 20,
+   "ctr": 0,
+   "posicao": 7.05
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/problemas/nissan/versa/ar-condicionado-evaporador/"
+   ],
+   "cliques": 0,
+   "impressoes": 19,
+   "ctr": 0,
+   "posicao": 5.42
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/problemas/peugeot/2008/"
+   ],
+   "cliques": 0,
+   "impressoes": 17,
+   "ctr": 0,
+   "posicao": 17.35
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/problemas/peugeot/2008/corrente-distribuicao-thp/"
+   ],
+   "cliques": 0,
+   "impressoes": 2,
+   "ctr": 0,
+   "posicao": 9.5
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/problemas/peugeot/208/"
+   ],
+   "cliques": 0,
+   "impressoes": 48,
+   "ctr": 0,
+   "posicao": 10.42
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/problemas/peugeot/208/cambio-automatico-solavanco/"
+   ],
+   "cliques": 0,
+   "impressoes": 6,
+   "ctr": 0,
+   "posicao": 8.67
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/problemas/peugeot/3008/suspensao-dianteira-barulho/"
+   ],
+   "cliques": 0,
+   "impressoes": 14,
+   "ctr": 0,
+   "posicao": 4.21
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/problemas/ram/rampage/perda-potencia-turbo/"
+   ],
+   "cliques": 0,
+   "impressoes": 6,
+   "ctr": 0,
+   "posicao": 5.33
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/problemas/ram/rampage/superaquecimento-motor/"
+   ],
+   "cliques": 0,
+   "impressoes": 9,
+   "ctr": 0,
+   "posicao": 4.33
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/problemas/renault/captur/"
+   ],
+   "cliques": 0,
+   "impressoes": 36,
+   "ctr": 0,
+   "posicao": 8.08
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/problemas/renault/duster/"
+   ],
+   "cliques": 0,
+   "impressoes": 44,
+   "ctr": 0,
+   "posicao": 8.25
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/problemas/renault/kwid/"
+   ],
+   "cliques": 0,
+   "impressoes": 333,
+   "ctr": 0,
+   "posicao": 9.12
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/problemas/renault/kwid/ar-condicionado-fraco/"
+   ],
+   "cliques": 0,
+   "impressoes": 69,
+   "ctr": 0,
+   "posicao": 5.19
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/problemas/renault/kwid/barulho-na-suspensao-dianteira/"
+   ],
+   "cliques": 0,
+   "impressoes": 2,
+   "ctr": 0,
+   "posicao": 4
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/problemas/renault/kwid/bateria-fraca-descarrega/"
+   ],
+   "cliques": 0,
+   "impressoes": 3,
+   "ctr": 0,
+   "posicao": 6.33
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/problemas/renault/logan/"
+   ],
+   "cliques": 0,
+   "impressoes": 36,
+   "ctr": 0,
+   "posicao": 8.06
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/problemas/renault/logan/motor-sce-barulho-frio/"
+   ],
+   "cliques": 0,
+   "impressoes": 2,
+   "ctr": 0,
+   "posicao": 9.5
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/problemas/renault/logan/motor-sce-consumo-oleo/"
+   ],
+   "cliques": 0,
+   "impressoes": 47,
+   "ctr": 0,
+   "posicao": 7.09
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/problemas/renault/sandero/"
+   ],
+   "cliques": 0,
+   "impressoes": 42,
+   "ctr": 0,
+   "posicao": 8.4
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/problemas/renault/sandero/motor-sce-batendo-valvula/"
+   ],
+   "cliques": 0,
+   "impressoes": 16,
+   "ctr": 0,
+   "posicao": 7.5
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/problemas/suzuki/jimny/barulho-caixa-transferencia/"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 8
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/problemas/toyota/corolla-cross/"
+   ],
+   "cliques": 0,
+   "impressoes": 20,
+   "ctr": 0,
+   "posicao": 8.7
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/problemas/toyota/corolla-cross/ar-condicionado-fraco/"
+   ],
+   "cliques": 0,
+   "impressoes": 2,
+   "ctr": 0,
+   "posicao": 3.5
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/problemas/toyota/corolla-cross/cambio-cvt-ruido/"
+   ],
+   "cliques": 0,
+   "impressoes": 18,
+   "ctr": 0,
+   "posicao": 3.5
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/problemas/toyota/corolla-cross/sensor-blindspot-falha/"
+   ],
+   "cliques": 0,
+   "impressoes": 44,
+   "ctr": 0,
+   "posicao": 5.36
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/problemas/toyota/corolla/"
+   ],
+   "cliques": 0,
+   "impressoes": 2,
+   "ctr": 0,
+   "posicao": 10
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/problemas/toyota/corolla/ar-condicionado-cheiro-evaporador/"
+   ],
+   "cliques": 0,
+   "impressoes": 32,
+   "ctr": 0,
+   "posicao": 8.53
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/problemas/toyota/hilux/"
+   ],
+   "cliques": 0,
+   "impressoes": 22,
+   "ctr": 0,
+   "posicao": 7.55
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/problemas/toyota/hilux/dpf-entupido/"
+   ],
+   "cliques": 0,
+   "impressoes": 9,
+   "ctr": 0,
+   "posicao": 7.44
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/problemas/toyota/hilux/vela-aquecedora-falha/"
+   ],
+   "cliques": 0,
+   "impressoes": 25,
+   "ctr": 0,
+   "posicao": 4.52
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/problemas/toyota/sw4/"
+   ],
+   "cliques": 0,
+   "impressoes": 27,
+   "ctr": 0,
+   "posicao": 6.07
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/problemas/volkswagen/gol/"
+   ],
+   "cliques": 0,
+   "impressoes": 21,
+   "ctr": 0,
+   "posicao": 8.62
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/problemas/volkswagen/gol/ar-condicionado-capacitor/"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 1
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/problemas/volkswagen/gol/cambio-manual-dificil-engatar/"
+   ],
+   "cliques": 0,
+   "impressoes": 101,
+   "ctr": 0,
+   "posicao": 6.34
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/problemas/volkswagen/gol/freios-desgaste-pastilha-disco/"
+   ],
+   "cliques": 0,
+   "impressoes": 56,
+   "ctr": 0,
+   "posicao": 5.84
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/problemas/volkswagen/gol/tucho-a-frio/"
+   ],
+   "cliques": 0,
+   "impressoes": 14,
+   "ctr": 0,
+   "posicao": 6.71
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/problemas/volkswagen/jetta/bomba-agua-ea211/"
+   ],
+   "cliques": 0,
+   "impressoes": 10,
+   "ctr": 0,
+   "posicao": 4.5
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/problemas/volkswagen/jetta/cambio-dsg-dq250-solavanco/"
+   ],
+   "cliques": 0,
+   "impressoes": 13,
+   "ctr": 0,
+   "posicao": 8.08
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/problemas/volkswagen/nivus/"
+   ],
+   "cliques": 0,
+   "impressoes": 43,
+   "ctr": 0,
+   "posicao": 7.81
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/problemas/volkswagen/nivus/motor-3-cilindros-vibracao/"
+   ],
+   "cliques": 0,
+   "impressoes": 35,
+   "ctr": 0,
+   "posicao": 5.69
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/problemas/volkswagen/saveiro/ar-condicionado-fraco/"
+   ],
+   "cliques": 0,
+   "impressoes": 2,
+   "ctr": 0,
+   "posicao": 2
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/problemas/volkswagen/saveiro/rolamento-traseiro/"
+   ],
+   "cliques": 0,
+   "impressoes": 6,
+   "ctr": 0,
+   "posicao": 4.5
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/problemas/volkswagen/t-cross/"
+   ],
+   "cliques": 0,
+   "impressoes": 69,
+   "ctr": 0,
+   "posicao": 9.2
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/problemas/volkswagen/taos/bomba-agua-ea211/"
+   ],
+   "cliques": 0,
+   "impressoes": 42,
+   "ctr": 0,
+   "posicao": 6
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/problemas/volkswagen/taos/cambio-dsg-solavanco/"
+   ],
+   "cliques": 0,
+   "impressoes": 4,
+   "ctr": 0,
+   "posicao": 4.5
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/problemas/volkswagen/taos/consumo-de-oleo-tsi/"
+   ],
+   "cliques": 0,
+   "impressoes": 19,
+   "ctr": 0,
+   "posicao": 5.21
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/problemas/volkswagen/taos/superaquecimento-motor/"
+   ],
+   "cliques": 0,
+   "impressoes": 8,
+   "ctr": 0,
+   "posicao": 6.75
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/problemas/volkswagen/tiguan-allspace/"
+   ],
+   "cliques": 0,
+   "impressoes": 21,
+   "ctr": 0,
+   "posicao": 6.71
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/problemas/volkswagen/tiguan-allspace/bomba-agua-ea211/"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 4
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/problemas/volkswagen/virtus/bomba-agua-ea211/"
+   ],
+   "cliques": 0,
+   "impressoes": 20,
+   "ctr": 0,
+   "posicao": 5.7
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/problemas/volkswagen/virtus/cambio-aisin-trancos/"
+   ],
+   "cliques": 0,
+   "impressoes": 6,
+   "ctr": 0,
+   "posicao": 4.33
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/problemas/volkswagen/virtus/sensor-oxigenio-check/"
+   ],
+   "cliques": 0,
+   "impressoes": 25,
+   "ctr": 0,
+   "posicao": 5.84
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/sistema/"
+   ],
+   "cliques": 0,
+   "impressoes": 2,
+   "ctr": 0,
+   "posicao": 4
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/sistema/arrefecimento/"
+   ],
+   "cliques": 0,
+   "impressoes": 25,
+   "ctr": 0,
+   "posicao": 11.08
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/sistema/eletrica-e-eletronica/"
+   ],
+   "cliques": 0,
+   "impressoes": 11,
+   "ctr": 0,
+   "posicao": 20.73
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/sistema/freios/"
+   ],
+   "cliques": 0,
+   "impressoes": 3,
+   "ctr": 0,
+   "posicao": 5.67
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/sistema/suspensao/"
+   ],
+   "cliques": 0,
+   "impressoes": 22,
+   "ctr": 0,
+   "posicao": 11.91
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/sobre/"
+   ],
+   "cliques": 0,
+   "impressoes": 26,
+   "ctr": 0,
+   "posicao": 10.5
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/tecnico/bateria-como-funciona/"
+   ],
+   "cliques": 0,
+   "impressoes": 9,
+   "ctr": 0,
+   "posicao": 14.33
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/tecnico/bomba-de-combustivel-como-funciona"
+   ],
+   "cliques": 0,
+   "impressoes": 63,
+   "ctr": 0,
+   "posicao": 8.59
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/tecnico/bomba-de-combustivel-como-funciona/"
+   ],
+   "cliques": 0,
+   "impressoes": 42,
+   "ctr": 0,
+   "posicao": 8.38
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/tecnico/cambio-automatico-torque-converter/"
+   ],
+   "cliques": 0,
+   "impressoes": 26,
+   "ctr": 0,
+   "posicao": 10.65
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/tecnico/cambio-cvt-como-funciona/"
+   ],
+   "cliques": 0,
+   "impressoes": 51,
+   "ctr": 0,
+   "posicao": 10.69
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/tecnico/correia-dentada-banhada-a-oleo-funciona/"
+   ],
+   "cliques": 0,
+   "impressoes": 206,
+   "ctr": 0,
+   "posicao": 7.58
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/tecnico/corrente-distribuicao-vantagens-riscos/"
+   ],
+   "cliques": 0,
+   "impressoes": 6,
+   "ctr": 0,
+   "posicao": 8.67
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/tecnico/motor-superaquecendo-causas-e-solucoes/"
+   ],
+   "cliques": 0,
+   "impressoes": 4,
+   "ctr": 0,
+   "posicao": 11.75
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/tecnico/turbocompressor-falha-vida-util/"
+   ],
+   "cliques": 0,
+   "impressoes": 3,
+   "ctr": 0,
+   "posicao": 7.67
+  }
+ ],
+ "queries_90d": [
+  {
+   "chaves": [
+    "ficha técnica polo highline 2023"
+   ],
+   "cliques": 1,
+   "impressoes": 1,
+   "ctr": 1,
+   "posicao": 12
+  },
+  {
+   "chaves": [
+    "firefly motor"
+   ],
+   "cliques": 1,
+   "impressoes": 3,
+   "ctr": 0.33333,
+   "posicao": 24.67
+  },
+  {
+   "chaves": [
+    "motor 1.3 turbo t270"
+   ],
+   "cliques": 1,
+   "impressoes": 2,
+   "ctr": 0.5,
+   "posicao": 3.5
+  },
+  {
+   "chaves": [
+    "motor t270"
+   ],
+   "cliques": 1,
+   "impressoes": 31,
+   "ctr": 0.03226,
+   "posicao": 14.16
+  },
+  {
+   "chaves": [
+    "t270"
+   ],
+   "cliques": 1,
+   "impressoes": 141,
+   "ctr": 0.00709,
+   "posicao": 8.67
+  },
+  {
+   "chaves": [
+    "tabela revisão chevrolet onix turbo"
+   ],
+   "cliques": 1,
+   "impressoes": 14,
+   "ctr": 0.07143,
+   "posicao": 5.79
+  },
+  {
+   "chaves": [
+    "turbo"
+   ],
+   "cliques": 1,
+   "impressoes": 3,
+   "ctr": 0.33333,
+   "posicao": 5.33
+  },
+  {
+   "chaves": [
+    "valor"
+   ],
+   "cliques": 1,
+   "impressoes": 2,
+   "ctr": 0.5,
+   "posicao": 4.5
+  },
+  {
+   "chaves": [
+    "\"gustavo henrique ardito\""
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 27
+  },
+  {
+   "chaves": [
+    "\"honda fit\" usado brasil confiável preço"
+   ],
+   "cliques": 0,
+   "impressoes": 2,
+   "ctr": 0,
+   "posicao": 11
+  },
+  {
+   "chaves": [
+    "\"honda fit\" usado confiável brasil"
+   ],
+   "cliques": 0,
+   "impressoes": 2,
+   "ctr": 0,
+   "posicao": 11
+  },
+  {
+   "chaves": [
+    "\"honda fit\" usado vale a pena brasil"
+   ],
+   "cliques": 0,
+   "impressoes": 4,
+   "ctr": 0,
+   "posicao": 8.5
+  },
+  {
+   "chaves": [
+    "$p071-fy accesocompleto_compartido"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 50
+  },
+  {
+   "chaves": [
+    "1 so"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 4
+  },
+  {
+   "chaves": [
+    "1.0"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 8
+  },
+  {
+   "chaves": [
+    "1.0 aspirado"
+   ],
+   "cliques": 0,
+   "impressoes": 2,
+   "ctr": 0,
+   "posicao": 5
+  },
+  {
+   "chaves": [
+    "1.0 firefly"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 23
+  },
+  {
+   "chaves": [
+    "1.0 tsi"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 1
+  },
+  {
+   "chaves": [
+    "1.0 tsi ea211"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 11
+  },
+  {
+   "chaves": [
+    "1.2 puretech turbo"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 8
+  },
+  {
+   "chaves": [
+    "1.2 thp"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 2
+  },
+  {
+   "chaves": [
+    "1.2 turbo puretech"
+   ],
+   "cliques": 0,
+   "impressoes": 2,
+   "ctr": 0,
+   "posicao": 8.5
+  },
+  {
+   "chaves": [
+    "1.3 turbo t270"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 23
+  },
+  {
+   "chaves": [
+    "1.4"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 4
+  },
+  {
+   "chaves": [
+    "1.6 thp"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 22
+  },
+  {
+   "chaves": [
+    "1.6 thp engine"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 47
+  },
+  {
+   "chaves": [
+    "1.6 thp motor"
+   ],
+   "cliques": 0,
+   "impressoes": 2,
+   "ctr": 0,
+   "posicao": 28.5
+  },
+  {
+   "chaves": [
+    "1.o turbo"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 4
+  },
+  {
+   "chaves": [
+    "100000km"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 4
+  },
+  {
+   "chaves": [
+    "2"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 1
+  },
+  {
+   "chaves": [
+    "2018"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 1
+  },
+  {
+   "chaves": [
+    "2019/2020"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 2
+  },
+  {
+   "chaves": [
+    "2020"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 1
+  },
+  {
+   "chaves": [
+    "2022"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 1
+  },
+  {
+   "chaves": [
+    "2025"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 8
+  },
+  {
+   "chaves": [
+    "50000 km"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 4
+  },
+  {
+   "chaves": [
+    "5100 km"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 15
+  },
+  {
+   "chaves": [
+    "57.000 km"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 9
+  },
+  {
+   "chaves": [
+    "59 km"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 2
+  },
+  {
+   "chaves": [
+    "78.000"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 11
+  },
+  {
+   "chaves": [
+    "80.000km"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 4
+  },
+  {
+   "chaves": [
+    "90 mil km"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 5
+  },
+  {
+   "chaves": [
+    "a correia é banhada a óleo?"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 2
+  },
+  {
+   "chaves": [
+    "a manutenção é barata"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 1
+  },
+  {
+   "chaves": [
+    "a partir de que ano ?"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 2
+  },
+  {
+   "chaves": [
+    "a partir de que ano o prisma tem correia banhada a óleo"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 26
+  },
+  {
+   "chaves": [
+    "abs do hb20 acendeu"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 9
+  },
+  {
+   "chaves": [
+    "ano 2012 modelo 2013"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 1
+  },
+  {
+   "chaves": [
+    "ano 2024"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 13
+  },
+  {
+   "chaves": [
+    "aparece do nada"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 3
+  },
+  {
+   "chaves": [
+    "aq250 aisin"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 5
+  },
+  {
+   "chaves": [
+    "aq250 cambio"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 10
+  },
+  {
+   "chaves": [
+    "arakaki piraju"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 56
+  },
+  {
+   "chaves": [
+    "argo 2021 tabela fipe"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 3
+  },
+  {
+   "chaves": [
+    "atraso"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 6
+  },
+  {
+   "chaves": [
+    "autonomia byd dolphin mini"
+   ],
+   "cliques": 0,
+   "impressoes": 11,
+   "ctr": 0,
+   "posicao": 44.82
+  },
+  {
+   "chaves": [
+    "autonomia byd dolphin mini pbev"
+   ],
+   "cliques": 0,
+   "impressoes": 16,
+   "ctr": 0,
+   "posicao": 10.06
+  },
+  {
+   "chaves": [
+    "autonomia byd mini"
+   ],
+   "cliques": 0,
+   "impressoes": 3,
+   "ctr": 0,
+   "posicao": 42
+  },
+  {
+   "chaves": [
+    "autonomia byd mini dolphin"
+   ],
+   "cliques": 0,
+   "impressoes": 4,
+   "ctr": 0,
+   "posicao": 44.75
+  },
+  {
+   "chaves": [
+    "autonomia byd song"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 46
+  },
+  {
+   "chaves": [
+    "autonomia byd yuan plus 2024"
+   ],
+   "cliques": 0,
+   "impressoes": 2,
+   "ctr": 0,
+   "posicao": 9.5
+  },
+  {
+   "chaves": [
+    "autonomia do"
+   ],
+   "cliques": 0,
+   "impressoes": 2,
+   "ctr": 0,
+   "posicao": 69.5
+  },
+  {
+   "chaves": [
+    "autonomia do byd dolphin mini"
+   ],
+   "cliques": 0,
+   "impressoes": 4,
+   "ctr": 0,
+   "posicao": 25.5
+  },
+  {
+   "chaves": [
+    "autonomia do byd song plus"
+   ],
+   "cliques": 0,
+   "impressoes": 2,
+   "ctr": 0,
+   "posicao": 47
+  },
+  {
+   "chaves": [
+    "autonomia do dolphin mini"
+   ],
+   "cliques": 0,
+   "impressoes": 4,
+   "ctr": 0,
+   "posicao": 19
+  },
+  {
+   "chaves": [
+    "autonomia do mini dolphin"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 26
+  },
+  {
+   "chaves": [
+    "autonomia dolphin mini"
+   ],
+   "cliques": 0,
+   "impressoes": 14,
+   "ctr": 0,
+   "posicao": 24.64
+  },
+  {
+   "chaves": [
+    "autonomia dolphin mini estrada"
+   ],
+   "cliques": 0,
+   "impressoes": 2,
+   "ctr": 0,
+   "posicao": 24
+  },
+  {
+   "chaves": [
+    "autonomia inmetro dolphin mini"
+   ],
+   "cliques": 0,
+   "impressoes": 2,
+   "ctr": 0,
+   "posicao": 18
+  },
+  {
+   "chaves": [
+    "autonomia mini dolphin"
+   ],
+   "cliques": 0,
+   "impressoes": 88,
+   "ctr": 0,
+   "posicao": 24.82
+  },
+  {
+   "chaves": [
+    "autonomia real"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 2
+  },
+  {
+   "chaves": [
+    "autonomia real byd dolphin mini"
+   ],
+   "cliques": 0,
+   "impressoes": 2,
+   "ctr": 0,
+   "posicao": 29
+  },
+  {
+   "chaves": [
+    "autonomia real dolphin mini"
+   ],
+   "cliques": 0,
+   "impressoes": 2,
+   "ctr": 0,
+   "posicao": 10
+  },
+  {
+   "chaves": [
+    "autonomia song plus"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 46
+  },
+  {
+   "chaves": [
+    "autonomia yuan plus 2024"
+   ],
+   "cliques": 0,
+   "impressoes": 7,
+   "ctr": 0,
+   "posicao": 9.43
+  },
+  {
+   "chaves": [
+    "autonomía byd dolphin mini"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 24
+  },
+  {
+   "chaves": [
+    "autonomía dolphin mini"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 25
+  },
+  {
+   "chaves": [
+    "avaria"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 2
+  },
+  {
+   "chaves": [
+    "balanceamento é encher o pneu"
+   ],
+   "cliques": 0,
+   "impressoes": 3,
+   "ctr": 0,
+   "posicao": 5
+  },
+  {
+   "chaves": [
+    "barulho metálico suspensão dianteira"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 20
+  },
+  {
+   "chaves": [
+    "barulho na suspensão traseira"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 10
+  },
+  {
+   "chaves": [
+    "bateria cheia"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 3
+  },
+  {
+   "chaves": [
+    "bateria de tração byd dolphin mini"
+   ],
+   "cliques": 0,
+   "impressoes": 2,
+   "ctr": 0,
+   "posicao": 12
+  },
+  {
+   "chaves": [
+    "bsm corolla cross"
+   ],
+   "cliques": 0,
+   "impressoes": 6,
+   "ctr": 0,
+   "posicao": 1.83
+  },
+  {
+   "chaves": [
+    "bsm significado toyota"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 7
+  },
+  {
+   "chaves": [
+    "byd dolphin autonomia"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 63
+  },
+  {
+   "chaves": [
+    "byd dolphin consumo kwh por 100 km brasil"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 7
+  },
+  {
+   "chaves": [
+    "byd dolphin mini autonomia"
+   ],
+   "cliques": 0,
+   "impressoes": 9,
+   "ctr": 0,
+   "posicao": 33.11
+  },
+  {
+   "chaves": [
+    "byd dolphin mini autonomia pbev"
+   ],
+   "cliques": 0,
+   "impressoes": 8,
+   "ctr": 0,
+   "posicao": 10.38
+  },
+  {
+   "chaves": [
+    "byd dolphin mini autonomia real"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 19
+  },
+  {
+   "chaves": [
+    "byd dolphin mini bateria"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 27
+  },
+  {
+   "chaves": [
+    "byd dolphin mini ficha técnica"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 59
+  },
+  {
+   "chaves": [
+    "byd dolphin mini tempo de carregamento"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 38
+  },
+  {
+   "chaves": [
+    "byd mini autonomia"
+   ],
+   "cliques": 0,
+   "impressoes": 4,
+   "ctr": 0,
+   "posicao": 35.25
+  },
+  {
+   "chaves": [
+    "byd mini dolphin autonomia"
+   ],
+   "cliques": 0,
+   "impressoes": 2,
+   "ctr": 0,
+   "posicao": 26
+  },
+  {
+   "chaves": [
+    "byd song plus autonomia"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 44
+  },
+  {
+   "chaves": [
+    "byd song plus autonomia eletrico"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 42
+  },
+  {
+   "chaves": [
+    "byd song plus premium ficha técnica"
+   ],
+   "cliques": 0,
+   "impressoes": 2,
+   "ctr": 0,
+   "posicao": 11
+  },
+  {
+   "chaves": [
+    "byd song plus preço autonomia"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 44
+  },
+  {
+   "chaves": [
+    "byd song plus problemas"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 11
+  },
+  {
+   "chaves": [
+    "byd tartaruga no painel"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 10
+  },
+  {
+   "chaves": [
+    "byd yuan plus 2024 autonomia"
+   ],
+   "cliques": 0,
+   "impressoes": 4,
+   "ctr": 0,
+   "posicao": 9.75
+  },
+  {
+   "chaves": [
+    "byd yuan plus 2024 ficha técnica"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 11
+  },
+  {
+   "chaves": [
+    "byd yuan plus características"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 11
+  },
+  {
+   "chaves": [
+    "byd yuan plus elétrico 2024"
+   ],
+   "cliques": 0,
+   "impressoes": 2,
+   "ctr": 0,
+   "posicao": 10
+  },
+  {
+   "chaves": [
+    "calibragem"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 82
+  },
+  {
+   "chaves": [
+    "cambio aq 250"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 12
+  },
+  {
+   "chaves": [
+    "cambio aq250 é problematico"
+   ],
+   "cliques": 0,
+   "impressoes": 32,
+   "ctr": 0,
+   "posicao": 6.25
+  },
+  {
+   "chaves": [
+    "cambio automatico com problema"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 27
+  },
+  {
+   "chaves": [
+    "cambio cvt"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 32
+  },
+  {
+   "chaves": [
+    "cambio cvt funcionamento"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 7
+  },
+  {
+   "chaves": [
+    "cambio cvt tem embreagem"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 30
+  },
+  {
+   "chaves": [
+    "cambio cvt é ruim"
+   ],
+   "cliques": 0,
+   "impressoes": 2,
+   "ctr": 0,
+   "posicao": 30
+  },
+  {
+   "chaves": [
+    "cambio hb20 manual travado"
+   ],
+   "cliques": 0,
+   "impressoes": 4,
+   "ctr": 0,
+   "posicao": 9.75
+  },
+  {
+   "chaves": [
+    "caoa chery revisao"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 54
+  },
+  {
+   "chaves": [
+    "capacidade bateria byd dolphin"
+   ],
+   "cliques": 0,
+   "impressoes": 2,
+   "ctr": 0,
+   "posicao": 33
+  },
+  {
+   "chaves": [
+    "capacidade bateria byd dolphin mini"
+   ],
+   "cliques": 0,
+   "impressoes": 3,
+   "ctr": 0,
+   "posicao": 35.67
+  },
+  {
+   "chaves": [
+    "capacidade bateria dolphin mini"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 55
+  },
+  {
+   "chaves": [
+    "capacidade da bateria"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 8
+  },
+  {
+   "chaves": [
+    "capacidade de reboque s10 2.8 diesel"
+   ],
+   "cliques": 0,
+   "impressoes": 2,
+   "ctr": 0,
+   "posicao": 6.5
+  },
+  {
+   "chaves": [
+    "capacidade tanque mobi"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 37
+  },
+  {
+   "chaves": [
+    "captur carro 2025"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 10
+  },
+  {
+   "chaves": [
+    "carro com correia banhada a oleo"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 26
+  },
+  {
+   "chaves": [
+    "carro com correia banhada a óleo"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 27
+  },
+  {
+   "chaves": [
+    "carro com correia banhada a óleo é bom"
+   ],
+   "cliques": 0,
+   "impressoes": 2,
+   "ctr": 0,
+   "posicao": 44
+  },
+  {
+   "chaves": [
+    "carros com correia banhada a óleo"
+   ],
+   "cliques": 0,
+   "impressoes": 16,
+   "ctr": 0,
+   "posicao": 48.44
+  },
+  {
+   "chaves": [
+    "carros com correia banhado a óleo"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 25
+  },
+  {
+   "chaves": [
+    "check engine o que significa"
+   ],
+   "cliques": 0,
+   "impressoes": 4,
+   "ctr": 0,
+   "posicao": 9.5
+  },
+  {
+   "chaves": [
+    "chevrolet onix turbo"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 10
+  },
+  {
+   "chaves": [
+    "chevrolet tracker"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 7
+  },
+  {
+   "chaves": [
+    "city 2013"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 16
+  },
+  {
+   "chaves": [
+    "como apagar luz abs hb20"
+   ],
+   "cliques": 0,
+   "impressoes": 2,
+   "ctr": 0,
+   "posicao": 10.5
+  },
+  {
+   "chaves": [
+    "como limpar bico injetor"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 16
+  },
+  {
+   "chaves": [
+    "como limpar bico injetor entupido"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 7
+  },
+  {
+   "chaves": [
+    "como resolver"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 6
+  },
+  {
+   "chaves": [
+    "como tirar filtro de combustível"
+   ],
+   "cliques": 0,
+   "impressoes": 2,
+   "ctr": 0,
+   "posicao": 26.5
+  },
+  {
+   "chaves": [
+    "como trocar as buchas da barra estabilizadora"
+   ],
+   "cliques": 0,
+   "impressoes": 2,
+   "ctr": 0,
+   "posicao": 10
+  },
+  {
+   "chaves": [
+    "comprimento do hb20 hatch"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 48
+  },
+  {
+   "chaves": [
+    "comprimento do nivus 2023"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 10
+  },
+  {
+   "chaves": [
+    "concessionaria"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 9
+  },
+  {
+   "chaves": [
+    "consumo byd dolphin"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 36
+  },
+  {
+   "chaves": [
+    "consumo byd dolphin mini"
+   ],
+   "cliques": 0,
+   "impressoes": 2,
+   "ctr": 0,
+   "posicao": 28.5
+  },
+  {
+   "chaves": [
+    "consumo dolphin mini"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 26
+  },
+  {
+   "chaves": [
+    "consumo polo tsi"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 27
+  },
+  {
+   "chaves": [
+    "consumo territory 1.5"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 11
+  },
+  {
+   "chaves": [
+    "conversor de torque funcionamento"
+   ],
+   "cliques": 0,
+   "impressoes": 2,
+   "ctr": 0,
+   "posicao": 35
+  },
+  {
+   "chaves": [
+    "conversor torque cambio automatico"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 46
+  },
+  {
+   "chaves": [
+    "corolla cross é um bom carro"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 49
+  },
+  {
+   "chaves": [
+    "corolla xei 2023 faz quantos km por litro"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 6
+  },
+  {
+   "chaves": [
+    "correia banhada a oleo"
+   ],
+   "cliques": 0,
+   "impressoes": 11,
+   "ctr": 0,
+   "posicao": 36.82
+  },
+  {
+   "chaves": [
+    "correia banhada a oleo problemas"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 58
+  },
+  {
+   "chaves": [
+    "correia banhada a oleo é ruim"
+   ],
+   "cliques": 0,
+   "impressoes": 6,
+   "ctr": 0,
+   "posicao": 43.33
+  },
+  {
+   "chaves": [
+    "correia banhada a oleo?"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 8
+  },
+  {
+   "chaves": [
+    "correia banhada a óleo"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 44
+  },
+  {
+   "chaves": [
+    "correia dentada banhada a oleo"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 38
+  },
+  {
+   "chaves": [
+    "correia dentada banhada a óleo"
+   ],
+   "cliques": 0,
+   "impressoes": 2,
+   "ctr": 0,
+   "posicao": 39.5
+  },
+  {
+   "chaves": [
+    "correia dentada mobi 1.0 4 cilindros"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 3
+  },
+  {
+   "chaves": [
+    "correia dentada troca com quantos km"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 57
+  },
+  {
+   "chaves": [
+    "correia dentada troca de quanto em quanto tempo"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 84
+  },
+  {
+   "chaves": [
+    "corrente banhada a oleo"
+   ],
+   "cliques": 0,
+   "impressoes": 2,
+   "ctr": 0,
+   "posicao": 44.5
+  },
+  {
+   "chaves": [
+    "corrente de distribuição"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 23
+  },
+  {
+   "chaves": [
+    "creta problemas crônicos"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 44
+  },
+  {
+   "chaves": [
+    "creta tem correia banhada a oleo"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 46
+  },
+  {
+   "chaves": [
+    "cruze 1.4 turbo tem correia dentada banhada a óleo"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 45
+  },
+  {
+   "chaves": [
+    "cruze 1.4 turbo é correia banhada a óleo"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 48
+  },
+  {
+   "chaves": [
+    "cruze tem correia banhada a oleo"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 51
+  },
+  {
+   "chaves": [
+    "cruze é correia banhada a oleo"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 48
+  },
+  {
+   "chaves": [
+    "custo de manutenção"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 7
+  },
+  {
+   "chaves": [
+    "custo e manutenção"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 8
+  },
+  {
+   "chaves": [
+    "custo medio"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 4
+  },
+  {
+   "chaves": [
+    "custos de manutenção"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 2
+  },
+  {
+   "chaves": [
+    "cv polo tsi"
+   ],
+   "cliques": 0,
+   "impressoes": 2,
+   "ctr": 0,
+   "posicao": 10
+  },
+  {
+   "chaves": [
+    "cvt transmissão"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 54
+  },
+  {
+   "chaves": [
+    "câmbio aq250"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 8
+  },
+  {
+   "chaves": [
+    "câmbio aq250 é bom"
+   ],
+   "cliques": 0,
+   "impressoes": 2,
+   "ctr": 0,
+   "posicao": 6
+  },
+  {
+   "chaves": [
+    "câmbio automático do t-cross é bom"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 18
+  },
+  {
+   "chaves": [
+    "câmbio automático patinando"
+   ],
+   "cliques": 0,
+   "impressoes": 9,
+   "ctr": 0,
+   "posicao": 53.11
+  },
+  {
+   "chaves": [
+    "câmbio automático patinando o que pode ser"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 63
+  },
+  {
+   "chaves": [
+    "câmbio cvt"
+   ],
+   "cliques": 0,
+   "impressoes": 2,
+   "ctr": 0,
+   "posicao": 28
+  },
+  {
+   "chaves": [
+    "câmbio cvt problemas"
+   ],
+   "cliques": 0,
+   "impressoes": 3,
+   "ctr": 0,
+   "posicao": 24
+  },
+  {
+   "chaves": [
+    "câmbio cvt tem embreagem"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 27
+  },
+  {
+   "chaves": [
+    "câmbio dsg jetta tsi problemas"
+   ],
+   "cliques": 0,
+   "impressoes": 3,
+   "ctr": 0,
+   "posicao": 10.67
+  },
+  {
+   "chaves": [
+    "dacia sandero problemas"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 59
+  },
+  {
+   "chaves": [
+    "defeito crônico"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 7
+  },
+  {
+   "chaves": [
+    "defeito crônico do t-cross"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 11
+  },
+  {
+   "chaves": [
+    "defeito da tracker"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 10
+  },
+  {
+   "chaves": [
+    "defeito no motor peugeot 208"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 8
+  },
+  {
+   "chaves": [
+    "defeitos cronicos"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 7
+  },
+  {
+   "chaves": [
+    "defeitos do honda city"
+   ],
+   "cliques": 0,
+   "impressoes": 4,
+   "ctr": 0,
+   "posicao": 8.75
+  },
+  {
+   "chaves": [
+    "dias quentes"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 3
+  },
+  {
+   "chaves": [
+    "dimensões t cross 2023"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 10
+  },
+  {
+   "chaves": [
+    "do gol g7"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 3
+  },
+  {
+   "chaves": [
+    "dolphin mini"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 3
+  },
+  {
+   "chaves": [
+    "dolphin mini 2024"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 2
+  },
+  {
+   "chaves": [
+    "dolphin mini autonomia"
+   ],
+   "cliques": 0,
+   "impressoes": 7,
+   "ctr": 0,
+   "posicao": 30.29
+  },
+  {
+   "chaves": [
+    "dolphin mini autonomia real"
+   ],
+   "cliques": 0,
+   "impressoes": 4,
+   "ctr": 0,
+   "posicao": 8.5
+  },
+  {
+   "chaves": [
+    "dolphin mini bateria kwh"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 7
+  },
+  {
+   "chaves": [
+    "dolphin mini gs 5l / 280km"
+   ],
+   "cliques": 0,
+   "impressoes": 2,
+   "ctr": 0,
+   "posicao": 19
+  },
+  {
+   "chaves": [
+    "dolphy mini"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 4
+  },
+  {
+   "chaves": [
+    "dpf da s10"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 9
+  },
+  {
+   "chaves": [
+    "duster ficha tecnica"
+   ],
+   "cliques": 0,
+   "impressoes": 3,
+   "ctr": 0,
+   "posicao": 33.67
+  },
+  {
+   "chaves": [
+    "e do dolphin mini?"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 9
+  },
+  {
+   "chaves": [
+    "e durabilidade?"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 4
+  },
+  {
+   "chaves": [
+    "e o cambio"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 3
+  },
+  {
+   "chaves": [
+    "e o ventilador"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 2
+  },
+  {
+   "chaves": [
+    "e torq"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 12
+  },
+  {
+   "chaves": [
+    "e-torq"
+   ],
+   "cliques": 0,
+   "impressoes": 2,
+   "ctr": 0,
+   "posicao": 9.5
+  },
+  {
+   "chaves": [
+    "ea 211"
+   ],
+   "cliques": 0,
+   "impressoes": 2,
+   "ctr": 0,
+   "posicao": 41
+  },
+  {
+   "chaves": [
+    "ea211"
+   ],
+   "cliques": 0,
+   "impressoes": 11,
+   "ctr": 0,
+   "posicao": 26.64
+  },
+  {
+   "chaves": [
+    "ea211 1.0 tsi"
+   ],
+   "cliques": 0,
+   "impressoes": 13,
+   "ctr": 0,
+   "posicao": 8.15
+  },
+  {
+   "chaves": [
+    "ea211 motor"
+   ],
+   "cliques": 0,
+   "impressoes": 3,
+   "ctr": 0,
+   "posicao": 36
+  },
+  {
+   "chaves": [
+    "ea211 problemas cronicos"
+   ],
+   "cliques": 0,
+   "impressoes": 2,
+   "ctr": 0,
+   "posicao": 4.5
+  },
+  {
+   "chaves": [
+    "ea211 quais carros"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 11
+  },
+  {
+   "chaves": [
+    "ea211 tsi"
+   ],
+   "cliques": 0,
+   "impressoes": 13,
+   "ctr": 0,
+   "posicao": 9.46
+  },
+  {
+   "chaves": [
+    "eat6 cambio automatico"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 9
+  },
+  {
+   "chaves": [
+    "ele é manual"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 2
+  },
+  {
+   "chaves": [
+    "eletrocar kinoshita"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 66
+  },
+  {
+   "chaves": [
+    "em ponto morto"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 1
+  },
+  {
+   "chaves": [
+    "etorq"
+   ],
+   "cliques": 0,
+   "impressoes": 3,
+   "ctr": 0,
+   "posicao": 6.67
+  },
+  {
+   "chaves": [
+    "eu mesmo fazer"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 6
+  },
+  {
+   "chaves": [
+    "excessiva temperatura do liquido do radiador"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 54
+  },
+  {
+   "chaves": [
+    "excessiva temperatura do líquido do radiador"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 52
+  },
+  {
+   "chaves": [
+    "explique"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 6
+  },
+  {
+   "chaves": [
+    "fastback crash test"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 4
+  },
+  {
+   "chaves": [
+    "fiabilidade"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 8
+  },
+  {
+   "chaves": [
+    "fiat doblo problemas"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 29
+  },
+  {
+   "chaves": [
+    "fiat mobi correia banhada a óleo"
+   ],
+   "cliques": 0,
+   "impressoes": 2,
+   "ctr": 0,
+   "posicao": 5
+  },
+  {
+   "chaves": [
+    "fiat mobi dimensões"
+   ],
+   "cliques": 0,
+   "impressoes": 3,
+   "ctr": 0,
+   "posicao": 28.67
+  },
+  {
+   "chaves": [
+    "fiat mobi e correia dentada ou corrente"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 4
+  },
+  {
+   "chaves": [
+    "fiat mobi é correia banhada a óleo"
+   ],
+   "cliques": 0,
+   "impressoes": 2,
+   "ctr": 0,
+   "posicao": 1
+  },
+  {
+   "chaves": [
+    "fiat mobi é corrente de comando ou correia dentada"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 1
+  },
+  {
+   "chaves": [
+    "fiat palio fire 1.0 2006"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 2
+  },
+  {
+   "chaves": [
+    "fiat toro 2.0 diesel automática problemas"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 27
+  },
+  {
+   "chaves": [
+    "fiat uno atractive 2021"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 1
+  },
+  {
+   "chaves": [
+    "ficha tecnica completa notícias de carro velocidade máxima"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 77
+  },
+  {
+   "chaves": [
+    "ficha tecnica cruze 1.4 turbo"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 33
+  },
+  {
+   "chaves": [
+    "ficha tecnica hb20"
+   ],
+   "cliques": 0,
+   "impressoes": 2,
+   "ctr": 0,
+   "posicao": 41
+  },
+  {
+   "chaves": [
+    "ficha tecnica mobi 2023"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 38
+  },
+  {
+   "chaves": [
+    "ficha tecnica territory 2026"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 70
+  },
+  {
+   "chaves": [
+    "ficha técnica do hb20"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 30
+  },
+  {
+   "chaves": [
+    "ficha técnica dolphin mini"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 56
+  },
+  {
+   "chaves": [
+    "ficha técnica taos highline 2023"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 45
+  },
+  {
+   "chaves": [
+    "filtro de combustivel troca"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 28
+  },
+  {
+   "chaves": [
+    "firefly fiat"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 23
+  },
+  {
+   "chaves": [
+    "firefly forum"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 36
+  },
+  {
+   "chaves": [
+    "fit mobi"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 1
+  },
+  {
+   "chaves": [
+    "foi aqui no google"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 22
+  },
+  {
+   "chaves": [
+    "ford territory comprimento"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 11
+  },
+  {
+   "chaves": [
+    "hachi roku"
+   ],
+   "cliques": 0,
+   "impressoes": 49,
+   "ctr": 0,
+   "posicao": 8.47
+  },
+  {
+   "chaves": [
+    "hachi-roku"
+   ],
+   "cliques": 0,
+   "impressoes": 8,
+   "ctr": 0,
+   "posicao": 14.88
+  },
+  {
+   "chaves": [
+    "hachiroku"
+   ],
+   "cliques": 0,
+   "impressoes": 16,
+   "ctr": 0,
+   "posicao": 7.25
+  },
+  {
+   "chaves": [
+    "haruki car service"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 55
+  },
+  {
+   "chaves": [
+    "haval h6 problemas"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 11
+  },
+  {
+   "chaves": [
+    "hb20"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 3
+  },
+  {
+   "chaves": [
+    "hb20 ficha técnica"
+   ],
+   "cliques": 0,
+   "impressoes": 2,
+   "ctr": 0,
+   "posicao": 40.5
+  },
+  {
+   "chaves": [
+    "hb20 problemas"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 37
+  },
+  {
+   "chaves": [
+    "hb20s consumo"
+   ],
+   "cliques": 0,
+   "impressoes": 2,
+   "ctr": 0,
+   "posicao": 6.5
+  },
+  {
+   "chaves": [
+    "hb20s faz quantos km por litro"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 34
+  },
+  {
+   "chaves": [
+    "higienização automotiva ar condicionado"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 50
+  },
+  {
+   "chaves": [
+    "higienização de ar condicionado automotivo"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 43
+  },
+  {
+   "chaves": [
+    "hilux com dificuldade na partida"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 10
+  },
+  {
+   "chaves": [
+    "hilux e ranger"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 18
+  },
+  {
+   "chaves": [
+    "hilux ou ranger"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 36
+  },
+  {
+   "chaves": [
+    "honda fit geração 3"
+   ],
+   "cliques": 0,
+   "impressoes": 6,
+   "ctr": 0,
+   "posicao": 7.67
+  },
+  {
+   "chaves": [
+    "honda fit usado vale a pena"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 14
+  },
+  {
+   "chaves": [
+    "honda fit é injeção direta ou indireta"
+   ],
+   "cliques": 0,
+   "impressoes": 4,
+   "ctr": 0,
+   "posicao": 6.25
+  },
+  {
+   "chaves": [
+    "imagem"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 1
+  },
+  {
+   "chaves": [
+    "intervalo de quilometragem"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 1
+  },
+  {
+   "chaves": [
+    "isso"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 15
+  },
+  {
+   "chaves": [
+    "ix35"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 3
+  },
+  {
+   "chaves": [
+    "ix35 2020 consumo"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 2
+  },
+  {
+   "chaves": [
+    "jeep renegade 1.8 problemas"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 23
+  },
+  {
+   "chaves": [
+    "jetta 1.4 2023"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 7
+  },
+  {
+   "chaves": [
+    "jetta 2023 1.4 turbo"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 5
+  },
+  {
+   "chaves": [
+    "jetta comfortline 2023"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 3
+  },
+  {
+   "chaves": [
+    "kazuki cursos automotivos"
+   ],
+   "cliques": 0,
+   "impressoes": 3,
+   "ctr": 0,
+   "posicao": 65
+  },
+  {
+   "chaves": [
+    "king"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 1
+  },
+  {
+   "chaves": [
+    "kwid ac gas capacity"
+   ],
+   "cliques": 0,
+   "impressoes": 2,
+   "ctr": 0,
+   "posicao": 1
+  },
+  {
+   "chaves": [
+    "kwid defeitos"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 24
+  },
+  {
+   "chaves": [
+    "kwid problemas"
+   ],
+   "cliques": 0,
+   "impressoes": 5,
+   "ctr": 0,
+   "posicao": 18.2
+  },
+  {
+   "chaves": [
+    "largura tcross"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 34
+  },
+  {
+   "chaves": [
+    "limpar ar condicionado do carro"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 48
+  },
+  {
+   "chaves": [
+    "limpeza corpo borboleta valvula ralenti"
+   ],
+   "cliques": 0,
+   "impressoes": 2,
+   "ctr": 0,
+   "posicao": 27
+  },
+  {
+   "chaves": [
+    "limpeza de bico injetor"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 21
+  },
+  {
+   "chaves": [
+    "limpeza de bico injeção direta"
+   ],
+   "cliques": 0,
+   "impressoes": 2,
+   "ctr": 0,
+   "posicao": 3.5
+  },
+  {
+   "chaves": [
+    "limpeza dos bicos injetores"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 20
+  },
+  {
+   "chaves": [
+    "lka desativado"
+   ],
+   "cliques": 0,
+   "impressoes": 2,
+   "ctr": 0,
+   "posicao": 38
+  },
+  {
+   "chaves": [
+    "luz abs acesa hb20"
+   ],
+   "cliques": 0,
+   "impressoes": 8,
+   "ctr": 0,
+   "posicao": 10.5
+  },
+  {
+   "chaves": [
+    "luz do abs acesa hb20"
+   ],
+   "cliques": 0,
+   "impressoes": 2,
+   "ctr": 0,
+   "posicao": 16
+  },
+  {
+   "chaves": [
+    "luz do abs acesa no hb20"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 9
+  },
+  {
+   "chaves": [
+    "luz do abs do hb20 acesa"
+   ],
+   "cliques": 0,
+   "impressoes": 3,
+   "ctr": 0,
+   "posicao": 13.67
+  },
+  {
+   "chaves": [
+    "luz do abs do hb20 acesa o que pode ser"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 8
+  },
+  {
+   "chaves": [
+    "luz do abs hb20 acendeu"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 10
+  },
+  {
+   "chaves": [
+    "manutencao"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 4
+  },
+  {
+   "chaves": [
+    "manutenção"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 2
+  },
+  {
+   "chaves": [
+    "manutenção em ar condicionado veicular"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 64
+  },
+  {
+   "chaves": [
+    "marcador de temperatura"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 5
+  },
+  {
+   "chaves": [
+    "mini"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 8
+  },
+  {
+   "chaves": [
+    "mini byd"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 4
+  },
+  {
+   "chaves": [
+    "mini byd autonomia"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 35
+  },
+  {
+   "chaves": [
+    "mini dolphin autonomia"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 27
+  },
+  {
+   "chaves": [
+    "mini dolphin byd autonomia"
+   ],
+   "cliques": 0,
+   "impressoes": 3,
+   "ctr": 0,
+   "posicao": 25.33
+  },
+  {
+   "chaves": [
+    "mitsubishi eclipse cross problemas"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 18
+  },
+  {
+   "chaves": [
+    "mobi 2019"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 11
+  },
+  {
+   "chaves": [
+    "mobi 2023 é 3 ou 4 cilindros"
+   ],
+   "cliques": 0,
+   "impressoes": 2,
+   "ctr": 0,
+   "posicao": 7
+  },
+  {
+   "chaves": [
+    "mobi cv"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 11
+  },
+  {
+   "chaves": [
+    "mobi tem correia banhada a oleo"
+   ],
+   "cliques": 0,
+   "impressoes": 3,
+   "ctr": 0,
+   "posicao": 1
+  },
+  {
+   "chaves": [
+    "mobi é correia banhada a oleo"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 1
+  },
+  {
+   "chaves": [
+    "mobi é correia dentada ou corrente"
+   ],
+   "cliques": 0,
+   "impressoes": 2,
+   "ctr": 0,
+   "posicao": 3.5
+  },
+  {
+   "chaves": [
+    "modo tartaruga"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 2
+  },
+  {
+   "chaves": [
+    "modo tartaruga byd"
+   ],
+   "cliques": 0,
+   "impressoes": 5,
+   "ctr": 0,
+   "posicao": 9.4
+  },
+  {
+   "chaves": [
+    "modo tartaruga byd dolphin mini"
+   ],
+   "cliques": 0,
+   "impressoes": 18,
+   "ctr": 0,
+   "posicao": 5.56
+  },
+  {
+   "chaves": [
+    "montana premier 2023"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 22
+  },
+  {
+   "chaves": [
+    "motor 1.0 firefly"
+   ],
+   "cliques": 0,
+   "impressoes": 3,
+   "ctr": 0,
+   "posicao": 26.33
+  },
+  {
+   "chaves": [
+    "motor 1.0 tsi ea211"
+   ],
+   "cliques": 0,
+   "impressoes": 2,
+   "ctr": 0,
+   "posicao": 11
+  },
+  {
+   "chaves": [
+    "motor 1.0 tsi problemas"
+   ],
+   "cliques": 0,
+   "impressoes": 8,
+   "ctr": 0,
+   "posicao": 9.12
+  },
+  {
+   "chaves": [
+    "motor 1.0 turbo chevrolet problemas"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 8
+  },
+  {
+   "chaves": [
+    "motor 1.0 turbo fiat strada problemas"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 9
+  },
+  {
+   "chaves": [
+    "motor 1.2 puretech"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 20
+  },
+  {
+   "chaves": [
+    "motor 1.2 puretech turbo"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 8
+  },
+  {
+   "chaves": [
+    "motor 1.3 firefly"
+   ],
+   "cliques": 0,
+   "impressoes": 6,
+   "ctr": 0,
+   "posicao": 23.67
+  },
+  {
+   "chaves": [
+    "motor 1.3 firefly 4 cilindros"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 26
+  },
+  {
+   "chaves": [
+    "motor 1.3 firefly é bom"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 27
+  },
+  {
+   "chaves": [
+    "motor 1.3 tce"
+   ],
+   "cliques": 0,
+   "impressoes": 2,
+   "ctr": 0,
+   "posicao": 5.5
+  },
+  {
+   "chaves": [
+    "motor 1.3 tce renault"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 6
+  },
+  {
+   "chaves": [
+    "motor 1.3 tce renault problemas"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 18
+  },
+  {
+   "chaves": [
+    "motor 1.3 turbo duster problemas"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 8
+  },
+  {
+   "chaves": [
+    "motor 1.5 vtec"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 8
+  },
+  {
+   "chaves": [
+    "motor 1.6 thp"
+   ],
+   "cliques": 0,
+   "impressoes": 3,
+   "ctr": 0,
+   "posicao": 28
+  },
+  {
+   "chaves": [
+    "motor 200 tsi problemas"
+   ],
+   "cliques": 0,
+   "impressoes": 4,
+   "ctr": 0,
+   "posicao": 28.75
+  },
+  {
+   "chaves": [
+    "motor ae211"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 22
+  },
+  {
+   "chaves": [
+    "motor correia banhada a oleo"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 18
+  },
+  {
+   "chaves": [
+    "motor do gol fazendo tec tec tec"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 10
+  },
+  {
+   "chaves": [
+    "motor e torq 1.8 é correia dentada ou corrente"
+   ],
+   "cliques": 0,
+   "impressoes": 3,
+   "ctr": 0,
+   "posicao": 9
+  },
+  {
+   "chaves": [
+    "motor e-torq 1.8 16v problemas"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 33
+  },
+  {
+   "chaves": [
+    "motor ea 211"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 47
+  },
+  {
+   "chaves": [
+    "motor ea211"
+   ],
+   "cliques": 0,
+   "impressoes": 18,
+   "ctr": 0,
+   "posicao": 24.22
+  },
+  {
+   "chaves": [
+    "motor ea211 1.0"
+   ],
+   "cliques": 0,
+   "impressoes": 3,
+   "ctr": 0,
+   "posicao": 27.67
+  },
+  {
+   "chaves": [
+    "motor ea211 1.0 problemas"
+   ],
+   "cliques": 0,
+   "impressoes": 10,
+   "ctr": 0,
+   "posicao": 10.7
+  },
+  {
+   "chaves": [
+    "motor ea211 1.0 tsi"
+   ],
+   "cliques": 0,
+   "impressoes": 15,
+   "ctr": 0,
+   "posicao": 11.8
+  },
+  {
+   "chaves": [
+    "motor ea211 problemas"
+   ],
+   "cliques": 0,
+   "impressoes": 8,
+   "ctr": 0,
+   "posicao": 22
+  },
+  {
+   "chaves": [
+    "motor ea211 tsi"
+   ],
+   "cliques": 0,
+   "impressoes": 8,
+   "ctr": 0,
+   "posicao": 10.5
+  },
+  {
+   "chaves": [
+    "motor ea211 é bom"
+   ],
+   "cliques": 0,
+   "impressoes": 6,
+   "ctr": 0,
+   "posicao": 27.33
+  },
+  {
+   "chaves": [
+    "motor etorq"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 12
+  },
+  {
+   "chaves": [
+    "motor fire fly"
+   ],
+   "cliques": 0,
+   "impressoes": 3,
+   "ctr": 0,
+   "posicao": 19.67
+  },
+  {
+   "chaves": [
+    "motor fire fly 1.3"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 23
+  },
+  {
+   "chaves": [
+    "motor firefly"
+   ],
+   "cliques": 0,
+   "impressoes": 15,
+   "ctr": 0,
+   "posicao": 16.07
+  },
+  {
+   "chaves": [
+    "motor firefly 1.0"
+   ],
+   "cliques": 0,
+   "impressoes": 3,
+   "ctr": 0,
+   "posicao": 22.33
+  },
+  {
+   "chaves": [
+    "motor firefly 1.0 4 cilindros"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 8
+  },
+  {
+   "chaves": [
+    "motor firefly 1.0 é bom"
+   ],
+   "cliques": 0,
+   "impressoes": 2,
+   "ctr": 0,
+   "posicao": 34.5
+  },
+  {
+   "chaves": [
+    "motor firefly 1.3"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 27
+  },
+  {
+   "chaves": [
+    "motor firefly 1.3 4 cilindros"
+   ],
+   "cliques": 0,
+   "impressoes": 2,
+   "ctr": 0,
+   "posicao": 25.5
+  },
+  {
+   "chaves": [
+    "motor firefly 1.3 ficha técnica"
+   ],
+   "cliques": 0,
+   "impressoes": 5,
+   "ctr": 0,
+   "posicao": 16.4
+  },
+  {
+   "chaves": [
+    "motor firefly 1.3 problemas"
+   ],
+   "cliques": 0,
+   "impressoes": 5,
+   "ctr": 0,
+   "posicao": 21.6
+  },
+  {
+   "chaves": [
+    "motor firefly 1.3 tem correia dentada"
+   ],
+   "cliques": 0,
+   "impressoes": 2,
+   "ctr": 0,
+   "posicao": 27
+  },
+  {
+   "chaves": [
+    "motor firefly 1.3 é bom"
+   ],
+   "cliques": 0,
+   "impressoes": 2,
+   "ctr": 0,
+   "posicao": 39.5
+  },
+  {
+   "chaves": [
+    "motor firefly 3 cilindros tem correia dentada"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 29
+  },
+  {
+   "chaves": [
+    "motor firefly equipa quais carros"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 11
+  },
+  {
+   "chaves": [
+    "motor firefly quais carros"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 11
+  },
+  {
+   "chaves": [
+    "motor firefly é bom"
+   ],
+   "cliques": 0,
+   "impressoes": 3,
+   "ctr": 0,
+   "posicao": 31.67
+  },
+  {
+   "chaves": [
+    "motor firefly é correia banhada a óleo"
+   ],
+   "cliques": 0,
+   "impressoes": 6,
+   "ctr": 0,
+   "posicao": 10.83
+  },
+  {
+   "chaves": [
+    "motor peugeot 1.2 puretech"
+   ],
+   "cliques": 0,
+   "impressoes": 29,
+   "ctr": 0,
+   "posicao": 25.17
+  },
+  {
+   "chaves": [
+    "motor puretech"
+   ],
+   "cliques": 0,
+   "impressoes": 31,
+   "ctr": 0,
+   "posicao": 22
+  },
+  {
+   "chaves": [
+    "motor puretech 1.2"
+   ],
+   "cliques": 0,
+   "impressoes": 28,
+   "ctr": 0,
+   "posicao": 22.71
+  },
+  {
+   "chaves": [
+    "motor puretech 1.2 turbo"
+   ],
+   "cliques": 0,
+   "impressoes": 3,
+   "ctr": 0,
+   "posicao": 6.67
+  },
+  {
+   "chaves": [
+    "motor puretech 1.6"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 10
+  },
+  {
+   "chaves": [
+    "motor puretech problemas"
+   ],
+   "cliques": 0,
+   "impressoes": 2,
+   "ctr": 0,
+   "posicao": 28
+  },
+  {
+   "chaves": [
+    "motor rajando o que pode ser"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 54
+  },
+  {
+   "chaves": [
+    "motor superaquecendo"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 7
+  },
+  {
+   "chaves": [
+    "motor t270 equipa quais carros"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 9
+  },
+  {
+   "chaves": [
+    "motor t270 jeep"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 18
+  },
+  {
+   "chaves": [
+    "motor t270 problemas resolvidos"
+   ],
+   "cliques": 0,
+   "impressoes": 4,
+   "ctr": 0,
+   "posicao": 30.25
+  },
+  {
+   "chaves": [
+    "motor t270 quais carros"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 7
+  },
+  {
+   "chaves": [
+    "motor t270 quantos cilindros"
+   ],
+   "cliques": 0,
+   "impressoes": 10,
+   "ctr": 0,
+   "posicao": 7
+  },
+  {
+   "chaves": [
+    "motor t270 turbo flex"
+   ],
+   "cliques": 0,
+   "impressoes": 7,
+   "ctr": 0,
+   "posicao": 13.71
+  },
+  {
+   "chaves": [
+    "motor t270 turbo flex problemas"
+   ],
+   "cliques": 0,
+   "impressoes": 4,
+   "ctr": 0,
+   "posicao": 19.25
+  },
+  {
+   "chaves": [
+    "motor t270 é 3 ou 4 cilindros"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 8
+  },
+  {
+   "chaves": [
+    "motor t270 é bom"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 25
+  },
+  {
+   "chaves": [
+    "motor t270 é correia ou corrente"
+   ],
+   "cliques": 0,
+   "impressoes": 39,
+   "ctr": 0,
+   "posicao": 6.03
+  },
+  {
+   "chaves": [
+    "motor thp"
+   ],
+   "cliques": 0,
+   "impressoes": 3,
+   "ctr": 0,
+   "posicao": 32.33
+  },
+  {
+   "chaves": [
+    "motor thp 1.6"
+   ],
+   "cliques": 0,
+   "impressoes": 2,
+   "ctr": 0,
+   "posicao": 35
+  },
+  {
+   "chaves": [
+    "motor thp 1.6 turbo"
+   ],
+   "cliques": 0,
+   "impressoes": 3,
+   "ctr": 0,
+   "posicao": 36
+  },
+  {
+   "chaves": [
+    "motor thp 1.6 turbo problemas"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 39
+  },
+  {
+   "chaves": [
+    "motor thp peugeot"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 28
+  },
+  {
+   "chaves": [
+    "motor thp é bom"
+   ],
+   "cliques": 0,
+   "impressoes": 2,
+   "ctr": 0,
+   "posicao": 40
+  },
+  {
+   "chaves": [
+    "motor tracker 1.0 turbo problemas"
+   ],
+   "cliques": 0,
+   "impressoes": 2,
+   "ctr": 0,
+   "posicao": 9.5
+  },
+  {
+   "chaves": [
+    "motor tsi vida ultil"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 9
+  },
+  {
+   "chaves": [
+    "motor tsi vida útil"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 11
+  },
+  {
+   "chaves": [
+    "motores com correia dentada banhada a óleo"
+   ],
+   "cliques": 0,
+   "impressoes": 4,
+   "ctr": 0,
+   "posicao": 41.75
+  },
+  {
+   "chaves": [
+    "motores ea211"
+   ],
+   "cliques": 0,
+   "impressoes": 2,
+   "ctr": 0,
+   "posicao": 32
+  },
+  {
+   "chaves": [
+    "motores puretech"
+   ],
+   "cliques": 0,
+   "impressoes": 32,
+   "ctr": 0,
+   "posicao": 26.06
+  },
+  {
+   "chaves": [
+    "motores puretech 1.2"
+   ],
+   "cliques": 0,
+   "impressoes": 17,
+   "ctr": 0,
+   "posicao": 29.35
+  },
+  {
+   "chaves": [
+    "motores thp"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 37
+  },
+  {
+   "chaves": [
+    "motori firefly problemi"
+   ],
+   "cliques": 0,
+   "impressoes": 4,
+   "ctr": 0,
+   "posicao": 59.25
+  },
+  {
+   "chaves": [
+    "motorização t cross"
+   ],
+   "cliques": 0,
+   "impressoes": 2,
+   "ctr": 0,
+   "posicao": 45.5
+  },
+  {
+   "chaves": [
+    "o mobi tem correia banhada a óleo"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 1
+  },
+  {
+   "chaves": [
+    "o palio 1.0"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 2
+  },
+  {
+   "chaves": [
+    "o que carrega a bateria do carro"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 52
+  },
+  {
+   "chaves": [
+    "o que significa bsm no painel do corolla cross"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 7
+  },
+  {
+   "chaves": [
+    "o que significa ctdi na s10"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 10
+  },
+  {
+   "chaves": [
+    "o que é cvt na conta de luz"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 9
+  },
+  {
+   "chaves": [
+    "o que é modo de segurança"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 2
+  },
+  {
+   "chaves": [
+    "o que é motor e-torq"
+   ],
+   "cliques": 0,
+   "impressoes": 2,
+   "ctr": 0,
+   "posicao": 11
+  },
+  {
+   "chaves": [
+    "o t-cross tem correia banhada a óleo"
+   ],
+   "cliques": 0,
+   "impressoes": 3,
+   "ctr": 0,
+   "posicao": 7.67
+  },
+  {
+   "chaves": [
+    "o t-cross é correia banhada a óleo"
+   ],
+   "cliques": 0,
+   "impressoes": 4,
+   "ctr": 0,
+   "posicao": 9.75
+  },
+  {
+   "chaves": [
+    "o virtus é correia banhada a óleo"
+   ],
+   "cliques": 0,
+   "impressoes": 9,
+   "ctr": 0,
+   "posicao": 6.33
+  },
+  {
+   "chaves": [
+    "o'que é stabilitrak chevrolet"
+   ],
+   "cliques": 0,
+   "impressoes": 3,
+   "ctr": 0,
+   "posicao": 9
+  },
+  {
+   "chaves": [
+    "oleo onix turbo"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 20
+  },
+  {
+   "chaves": [
+    "oleo onix turbo 2020"
+   ],
+   "cliques": 0,
+   "impressoes": 2,
+   "ctr": 0,
+   "posicao": 12
+  },
+  {
+   "chaves": [
+    "onde fica"
+   ],
+   "cliques": 0,
+   "impressoes": 2,
+   "ctr": 0,
+   "posicao": 5
+  },
+  {
+   "chaves": [
+    "onde fica o sensor?"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 4
+  },
+  {
+   "chaves": [
+    "onix 2020"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 6
+  },
+  {
+   "chaves": [
+    "onix quantos litros de oleo"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 11
+  },
+  {
+   "chaves": [
+    "onix turbo quantos litros de oleo"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 10
+  },
+  {
+   "chaves": [
+    "onix turbo é injeção direta"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 18
+  },
+  {
+   "chaves": [
+    "oscilando"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 3
+  },
+  {
+   "chaves": [
+    "p0087 honda city"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 7
+  },
+  {
+   "chaves": [
+    "palho quente"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 4
+  },
+  {
+   "chaves": [
+    "palio 2001"
+   ],
+   "cliques": 0,
+   "impressoes": 2,
+   "ctr": 0,
+   "posicao": 2
+  },
+  {
+   "chaves": [
+    "palio 2002"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 3
+  },
+  {
+   "chaves": [
+    "palio 2010"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 2
+  },
+  {
+   "chaves": [
+    "palio atractive 2014"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 1
+  },
+  {
+   "chaves": [
+    "palio attractive"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 2
+  },
+  {
+   "chaves": [
+    "palio desliga quando esquenta"
+   ],
+   "cliques": 0,
+   "impressoes": 8,
+   "ctr": 0,
+   "posicao": 9.38
+  },
+  {
+   "chaves": [
+    "palio economy"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 2
+  },
+  {
+   "chaves": [
+    "palio elx 2008"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 11
+  },
+  {
+   "chaves": [
+    "palio esquentando o que pode ser"
+   ],
+   "cliques": 0,
+   "impressoes": 12,
+   "ctr": 0,
+   "posicao": 4.83
+  },
+  {
+   "chaves": [
+    "palio fire 1.0"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 1
+  },
+  {
+   "chaves": [
+    "palio quente"
+   ],
+   "cliques": 0,
+   "impressoes": 14,
+   "ctr": 0,
+   "posicao": 6.57
+  },
+  {
+   "chaves": [
+    "palio quente 2002"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 2
+  },
+  {
+   "chaves": [
+    "palio quente 2008"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 2
+  },
+  {
+   "chaves": [
+    "palio quente carro"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 5
+  },
+  {
+   "chaves": [
+    "palio sporting"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 3
+  },
+  {
+   "chaves": [
+    "palio superaquecendo o que fazer"
+   ],
+   "cliques": 0,
+   "impressoes": 19,
+   "ctr": 0,
+   "posicao": 4.11
+  },
+  {
+   "chaves": [
+    "palio weekend 2001"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 2
+  },
+  {
+   "chaves": [
+    "peso de um hb20 hatch"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 8
+  },
+  {
+   "chaves": [
+    "peso fiat mobi"
+   ],
+   "cliques": 0,
+   "impressoes": 2,
+   "ctr": 0,
+   "posicao": 34
+  },
+  {
+   "chaves": [
+    "peugeot 2008 1.2 gasolina problemas"
+   ],
+   "cliques": 0,
+   "impressoes": 3,
+   "ctr": 0,
+   "posicao": 22
+  },
+  {
+   "chaves": [
+    "peugeot 2008 1.5 bluehdi problemas"
+   ],
+   "cliques": 0,
+   "impressoes": 5,
+   "ctr": 0,
+   "posicao": 19.6
+  },
+  {
+   "chaves": [
+    "peugeot 2008 problemas"
+   ],
+   "cliques": 0,
+   "impressoes": 3,
+   "ctr": 0,
+   "posicao": 23.67
+  },
+  {
+   "chaves": [
+    "peugeot 2008 problemas comuns"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 24
+  },
+  {
+   "chaves": [
+    "peugeot 208 1.5 bluehdi problemas"
+   ],
+   "cliques": 0,
+   "impressoes": 9,
+   "ctr": 0,
+   "posicao": 18.11
+  },
+  {
+   "chaves": [
+    "peugeot 208 problemas"
+   ],
+   "cliques": 0,
+   "impressoes": 2,
+   "ctr": 0,
+   "posicao": 11
+  },
+  {
+   "chaves": [
+    "peugeot 3008 ficha tecnica"
+   ],
+   "cliques": 0,
+   "impressoes": 5,
+   "ctr": 0,
+   "posicao": 39.2
+  },
+  {
+   "chaves": [
+    "pode ser"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 12
+  },
+  {
+   "chaves": [
+    "polo 200 tsi ficha técnica"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 34
+  },
+  {
+   "chaves": [
+    "polo 2018"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 2
+  },
+  {
+   "chaves": [
+    "polo 2018 msi 1.6"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 2
+  },
+  {
+   "chaves": [
+    "polo correia banhada a oleo"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 52
+  },
+  {
+   "chaves": [
+    "polo highline 2023 ficha técnica"
+   ],
+   "cliques": 0,
+   "impressoes": 3,
+   "ctr": 0,
+   "posicao": 8.67
+  },
+  {
+   "chaves": [
+    "polo tsi 2025 ficha técnica"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 42
+  },
+  {
+   "chaves": [
+    "polo tsi cavalos"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 10
+  },
+  {
+   "chaves": [
+    "polo tsi cv"
+   ],
+   "cliques": 0,
+   "impressoes": 4,
+   "ctr": 0,
+   "posicao": 10.25
+  },
+  {
+   "chaves": [
+    "polo tsi potencia"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 9
+  },
+  {
+   "chaves": [
+    "polo tsi quantos cv"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 11
+  },
+  {
+   "chaves": [
+    "posição da correia auxiliar"
+   ],
+   "cliques": 0,
+   "impressoes": 3,
+   "ctr": 0,
+   "posicao": 8
+  },
+  {
+   "chaves": [
+    "posso trocar as velas do carro com motor quente"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 1
+  },
+  {
+   "chaves": [
+    "potencia ev limitada byd"
+   ],
+   "cliques": 0,
+   "impressoes": 10,
+   "ctr": 0,
+   "posicao": 9.3
+  },
+  {
+   "chaves": [
+    "potencia polo 1.0 tsi"
+   ],
+   "cliques": 0,
+   "impressoes": 9,
+   "ctr": 0,
+   "posicao": 8.11
+  },
+  {
+   "chaves": [
+    "potencia taos 1.4 turbo"
+   ],
+   "cliques": 0,
+   "impressoes": 2,
+   "ctr": 0,
+   "posicao": 11.5
+  },
+  {
+   "chaves": [
+    "pressão dos pneus correta"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 69
+  },
+  {
+   "chaves": [
+    "preço"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 3
+  },
+  {
+   "chaves": [
+    "preço revisões"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 12
+  },
+  {
+   "chaves": [
+    "principais defeitos crônicos"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 2
+  },
+  {
+   "chaves": [
+    "problema cambio cvt"
+   ],
+   "cliques": 0,
+   "impressoes": 2,
+   "ctr": 0,
+   "posicao": 22.5
+  },
+  {
+   "chaves": [
+    "problema cronico"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 7
+  },
+  {
+   "chaves": [
+    "problemas"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 4
+  },
+  {
+   "chaves": [
+    "problemas captur 1.3 turbo"
+   ],
+   "cliques": 0,
+   "impressoes": 3,
+   "ctr": 0,
+   "posicao": 6.33
+  },
+  {
+   "chaves": [
+    "problemas cronicos kwid"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 10
+  },
+  {
+   "chaves": [
+    "problemas crônicos do jeep renegade"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 11
+  },
+  {
+   "chaves": [
+    "problemas câmbio cvt fiat"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 28
+  },
+  {
+   "chaves": [
+    "problemas da fiat toro"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 11
+  },
+  {
+   "chaves": [
+    "problemas da toro"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 11
+  },
+  {
+   "chaves": [
+    "problemas do byd song plus"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 8
+  },
+  {
+   "chaves": [
+    "problemas do câmbio cvt"
+   ],
+   "cliques": 0,
+   "impressoes": 2,
+   "ctr": 0,
+   "posicao": 13.5
+  },
+  {
+   "chaves": [
+    "problemas do honda city"
+   ],
+   "cliques": 0,
+   "impressoes": 2,
+   "ctr": 0,
+   "posicao": 9
+  },
+  {
+   "chaves": [
+    "problemas do jeep renegade"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 46
+  },
+  {
+   "chaves": [
+    "problemas do kwid"
+   ],
+   "cliques": 0,
+   "impressoes": 2,
+   "ctr": 0,
+   "posicao": 24.5
+  },
+  {
+   "chaves": [
+    "problemas do motor"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 1
+  },
+  {
+   "chaves": [
+    "problemas do peugeot 208"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 11
+  },
+  {
+   "chaves": [
+    "problemas eclipse cross"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 8
+  },
+  {
+   "chaves": [
+    "problemas fiat toro"
+   ],
+   "cliques": 0,
+   "impressoes": 2,
+   "ctr": 0,
+   "posicao": 8
+  },
+  {
+   "chaves": [
+    "problemas hb20"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 34
+  },
+  {
+   "chaves": [
+    "problemas honda city"
+   ],
+   "cliques": 0,
+   "impressoes": 2,
+   "ctr": 0,
+   "posicao": 9
+  },
+  {
+   "chaves": [
+    "problemas jeep commander"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 10
+  },
+  {
+   "chaves": [
+    "problemas jeep commander diesel"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 10
+  },
+  {
+   "chaves": [
+    "problemas mitsubishi eclipse cross"
+   ],
+   "cliques": 0,
+   "impressoes": 3,
+   "ctr": 0,
+   "posicao": 7
+  },
+  {
+   "chaves": [
+    "problemas no motor"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 22
+  },
+  {
+   "chaves": [
+    "problemas peugeot 208"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 26
+  },
+  {
+   "chaves": [
+    "puretech motor"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 12
+  },
+  {
+   "chaves": [
+    "quais carros tem correia dentada banhada a óleo"
+   ],
+   "cliques": 0,
+   "impressoes": 2,
+   "ctr": 0,
+   "posicao": 51.5
+  },
+  {
+   "chaves": [
+    "quais os problemas da fiat toro"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 9
+  },
+  {
+   "chaves": [
+    "quais problemas"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 5
+  },
+  {
+   "chaves": [
+    "quais versões"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 7
+  },
+  {
+   "chaves": [
+    "qual a autonomia do"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 52
+  },
+  {
+   "chaves": [
+    "qual a autonomia do byd dolphin mini"
+   ],
+   "cliques": 0,
+   "impressoes": 3,
+   "ctr": 0,
+   "posicao": 42.33
+  },
+  {
+   "chaves": [
+    "qual a autonomia do byd song plus"
+   ],
+   "cliques": 0,
+   "impressoes": 2,
+   "ctr": 0,
+   "posicao": 46.5
+  },
+  {
+   "chaves": [
+    "qual a autonomia do dolphin mini"
+   ],
+   "cliques": 0,
+   "impressoes": 2,
+   "ctr": 0,
+   "posicao": 24
+  },
+  {
+   "chaves": [
+    "qual a autonomia do mini dolphin"
+   ],
+   "cliques": 0,
+   "impressoes": 4,
+   "ctr": 0,
+   "posicao": 27.5
+  },
+  {
+   "chaves": [
+    "qual a autonomia?"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 3
+  },
+  {
+   "chaves": [
+    "qual a calibragem"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 75
+  },
+  {
+   "chaves": [
+    "qual a capacidade da bateria do dolphin mini"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 8
+  },
+  {
+   "chaves": [
+    "qual autonomia dele"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 2
+  },
+  {
+   "chaves": [
+    "qual autonomia do byd dolphin mini"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 27
+  },
+  {
+   "chaves": [
+    "qual carro da fiat tem correia banhada a óleo"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 1
+  },
+  {
+   "chaves": [
+    "qual o comprimento do hb20 hatch"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 31
+  },
+  {
+   "chaves": [
+    "qual o peso de um hb20 hatch"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 9
+  },
+  {
+   "chaves": [
+    "qual o problema crônico do creta"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 9
+  },
+  {
+   "chaves": [
+    "qual o tamanho do tanque do mobi"
+   ],
+   "cliques": 0,
+   "impressoes": 5,
+   "ctr": 0,
+   "posicao": 9.8
+  },
+  {
+   "chaves": [
+    "qual o valor?"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 6
+  },
+  {
+   "chaves": [
+    "qual oleo correto para onix 1.0 turbo"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 11
+  },
+  {
+   "chaves": [
+    "qual oleo usar no onix turbo 2020"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 12
+  },
+  {
+   "chaves": [
+    "qual é a autonomia de um carro elétrico"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 67
+  },
+  {
+   "chaves": [
+    "qual é a autonomia do byd yuan plus segundo o ciclo pbev?"
+   ],
+   "cliques": 0,
+   "impressoes": 3,
+   "ctr": 0,
+   "posicao": 9
+  },
+  {
+   "chaves": [
+    "qual é melhor ranger ou hilux"
+   ],
+   "cliques": 0,
+   "impressoes": 3,
+   "ctr": 0,
+   "posicao": 10
+  },
+  {
+   "chaves": [
+    "quando trocar amortecedores do ônibus"
+   ],
+   "cliques": 0,
+   "impressoes": 3,
+   "ctr": 0,
+   "posicao": 49
+  },
+  {
+   "chaves": [
+    "quantas libras coloca no pneu do carro"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 74
+  },
+  {
+   "chaves": [
+    "quantidade de oleo onix turbo"
+   ],
+   "cliques": 0,
+   "impressoes": 2,
+   "ctr": 0,
+   "posicao": 8
+  },
+  {
+   "chaves": [
+    "quantidade oleo onix turbo"
+   ],
+   "cliques": 0,
+   "impressoes": 2,
+   "ctr": 0,
+   "posicao": 4
+  },
+  {
+   "chaves": [
+    "quanto custa a troca de óleo do onix na concessionária"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 9
+  },
+  {
+   "chaves": [
+    "quanto kw tem a bateria do dolphin mini"
+   ],
+   "cliques": 0,
+   "impressoes": 2,
+   "ctr": 0,
+   "posicao": 10.5
+  },
+  {
+   "chaves": [
+    "quanto tempo dura a bateria do byd dolphin mini"
+   ],
+   "cliques": 0,
+   "impressoes": 4,
+   "ctr": 0,
+   "posicao": 34.75
+  },
+  {
+   "chaves": [
+    "quanto tempo dura um amortecedor"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 64
+  },
+  {
+   "chaves": [
+    "quantos cavalos tem a strada volcano 1.3"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 10
+  },
+  {
+   "chaves": [
+    "quantos cavalos tem o byd dolphin mini"
+   ],
+   "cliques": 0,
+   "impressoes": 3,
+   "ctr": 0,
+   "posicao": 22.33
+  },
+  {
+   "chaves": [
+    "quantos cavalos tem o hb20 1.0 aspirado"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 12
+  },
+  {
+   "chaves": [
+    "quantos cavalos tem o polo tsi 1.0"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 9
+  },
+  {
+   "chaves": [
+    "quantos cavalos tem o taos 1.4 turbo"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 11
+  },
+  {
+   "chaves": [
+    "quantos ciclos tem a bateria do byd dolphin mini"
+   ],
+   "cliques": 0,
+   "impressoes": 4,
+   "ctr": 0,
+   "posicao": 10.25
+  },
+  {
+   "chaves": [
+    "quantos ciclos tem a bateria do dolphin mini"
+   ],
+   "cliques": 0,
+   "impressoes": 8,
+   "ctr": 0,
+   "posicao": 11.38
+  },
+  {
+   "chaves": [
+    "quantos cilindros tem o mobi like 2023"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 8
+  },
+  {
+   "chaves": [
+    "quantos cilindros tem o motor t270"
+   ],
+   "cliques": 0,
+   "impressoes": 6,
+   "ctr": 0,
+   "posicao": 9.33
+  },
+  {
+   "chaves": [
+    "quantos cv tem o hb20 1.0 aspirado"
+   ],
+   "cliques": 0,
+   "impressoes": 2,
+   "ctr": 0,
+   "posicao": 10
+  },
+  {
+   "chaves": [
+    "quantos cv tem o polo 1.0 turbo"
+   ],
+   "cliques": 0,
+   "impressoes": 3,
+   "ctr": 0,
+   "posicao": 9.67
+  },
+  {
+   "chaves": [
+    "quantos km da"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 2
+  },
+  {
+   "chaves": [
+    "quantos km roda byd dolphin mini"
+   ],
+   "cliques": 0,
+   "impressoes": 2,
+   "ctr": 0,
+   "posicao": 20.5
+  },
+  {
+   "chaves": [
+    "quantos km roda o byd dolphin"
+   ],
+   "cliques": 0,
+   "impressoes": 2,
+   "ctr": 0,
+   "posicao": 48.5
+  },
+  {
+   "chaves": [
+    "quantos km trocar correia dentada"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 61
+  },
+  {
+   "chaves": [
+    "quantos kw tem a bateria do dolphin"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 42
+  },
+  {
+   "chaves": [
+    "quantos kw tem a bateria do dolphin mini"
+   ],
+   "cliques": 0,
+   "impressoes": 38,
+   "ctr": 0,
+   "posicao": 10.63
+  },
+  {
+   "chaves": [
+    "quantos kwh para carregar um byd dolphin mini"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 35
+  },
+  {
+   "chaves": [
+    "quantos kwh tem a bateria do dolphin mini"
+   ],
+   "cliques": 0,
+   "impressoes": 2,
+   "ctr": 0,
+   "posicao": 21
+  },
+  {
+   "chaves": [
+    "quantos litros de oleo onix turbo"
+   ],
+   "cliques": 0,
+   "impressoes": 3,
+   "ctr": 0,
+   "posicao": 10.67
+  },
+  {
+   "chaves": [
+    "quantos litros de oleo vai no onix 1.0 turbo"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 6
+  },
+  {
+   "chaves": [
+    "quantos litros de oleo vai no onix plus 1.0 turbo"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 7
+  },
+  {
+   "chaves": [
+    "quantos litros de oleo vai no onix turbo"
+   ],
+   "cliques": 0,
+   "impressoes": 2,
+   "ctr": 0,
+   "posicao": 7.5
+  },
+  {
+   "chaves": [
+    "quantos litros de óleo pega no onix turbo"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 11
+  },
+  {
+   "chaves": [
+    "quantos litros de óleo pega o onix 3 cilindros"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 10
+  },
+  {
+   "chaves": [
+    "quantos litros de óleo vai no onix"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 7
+  },
+  {
+   "chaves": [
+    "quantos litros de óleo vai no onix 2020"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 6
+  },
+  {
+   "chaves": [
+    "quantos litros de óleo vai no onix turbo"
+   ],
+   "cliques": 0,
+   "impressoes": 2,
+   "ctr": 0,
+   "posicao": 9.5
+  },
+  {
+   "chaves": [
+    "quantos litros de óleo vai no onix turbo 2023"
+   ],
+   "cliques": 0,
+   "impressoes": 2,
+   "ctr": 0,
+   "posicao": 9.5
+  },
+  {
+   "chaves": [
+    "quantos litros tem o t cross"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 11
+  },
+  {
+   "chaves": [
+    "quantos litros tem o tanque do mobi like"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 39
+  },
+  {
+   "chaves": [
+    "quantos quilowatts é a bateria do dolphin mini"
+   ],
+   "cliques": 0,
+   "impressoes": 11,
+   "ctr": 0,
+   "posicao": 10.82
+  },
+  {
+   "chaves": [
+    "queimando óleo"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 3
+  },
+  {
+   "chaves": [
+    "quero as duas coisas."
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 2
+  },
+  {
+   "chaves": [
+    "ranger ou hilux"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 11
+  },
+  {
+   "chaves": [
+    "ranger ou hilux qual a melhor"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 10
+  },
+  {
+   "chaves": [
+    "rangido na suspensão dianteira"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 93
+  },
+  {
+   "chaves": [
+    "recall volkswagen"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 5
+  },
+  {
+   "chaves": [
+    "rede oficial"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 4
+  },
+  {
+   "chaves": [
+    "renault 2025 captur"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 13
+  },
+  {
+   "chaves": [
+    "renault captur 1.3 tce problemas"
+   ],
+   "cliques": 0,
+   "impressoes": 2,
+   "ctr": 0,
+   "posicao": 10
+  },
+  {
+   "chaves": [
+    "renault captur 1.5 dci problemas"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 49
+  },
+  {
+   "chaves": [
+    "renault captur 2025"
+   ],
+   "cliques": 0,
+   "impressoes": 2,
+   "ctr": 0,
+   "posicao": 10.5
+  },
+  {
+   "chaves": [
+    "renault captur problemas"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 11
+  },
+  {
+   "chaves": [
+    "renault duster problemas"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 22
+  },
+  {
+   "chaves": [
+    "renault kwid ac gas capacity"
+   ],
+   "cliques": 0,
+   "impressoes": 4,
+   "ctr": 0,
+   "posicao": 1
+  },
+  {
+   "chaves": [
+    "renault logan turbo"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 12
+  },
+  {
+   "chaves": [
+    "revisão chevrolet onix"
+   ],
+   "cliques": 0,
+   "impressoes": 4,
+   "ctr": 0,
+   "posicao": 9.25
+  },
+  {
+   "chaves": [
+    "revisão fiat argo 60.000 km"
+   ],
+   "cliques": 0,
+   "impressoes": 3,
+   "ctr": 0,
+   "posicao": 9.33
+  },
+  {
+   "chaves": [
+    "revisão hyundai hb20"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 28
+  },
+  {
+   "chaves": [
+    "revisão hyundai tabela de preços"
+   ],
+   "cliques": 0,
+   "impressoes": 2,
+   "ctr": 0,
+   "posicao": 9
+  },
+  {
+   "chaves": [
+    "roku automotive"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 12
+  },
+  {
+   "chaves": [
+    "sandero da muito problema"
+   ],
+   "cliques": 0,
+   "impressoes": 2,
+   "ctr": 0,
+   "posicao": 10
+  },
+  {
+   "chaves": [
+    "saveiro cross 2022 cabine estendida"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 10
+  },
+  {
+   "chaves": [
+    "saveiro robust 2025"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 1
+  },
+  {
+   "chaves": [
+    "sim"
+   ],
+   "cliques": 0,
+   "impressoes": 11,
+   "ctr": 0,
+   "posicao": 9.27
+  },
+  {
+   "chaves": [
+    "strada 1.3 firefly quantos cilindros"
+   ],
+   "cliques": 0,
+   "impressoes": 2,
+   "ctr": 0,
+   "posicao": 7
+  },
+  {
+   "chaves": [
+    "strada com problema na caixa de marcha"
+   ],
+   "cliques": 0,
+   "impressoes": 2,
+   "ctr": 0,
+   "posicao": 5.5
+  },
+  {
+   "chaves": [
+    "superaquecendo"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 1
+  },
+  {
+   "chaves": [
+    "superaquecimento"
+   ],
+   "cliques": 0,
+   "impressoes": 3,
+   "ctr": 0,
+   "posicao": 2.67
+  },
+  {
+   "chaves": [
+    "símbolo da tartaruga no byd dolphin mini"
+   ],
+   "cliques": 0,
+   "impressoes": 5,
+   "ctr": 0,
+   "posicao": 2.8
+  },
+  {
+   "chaves": [
+    "t 270"
+   ],
+   "cliques": 0,
+   "impressoes": 2,
+   "ctr": 0,
+   "posicao": 16.5
+  },
+  {
+   "chaves": [
+    "t cross 2023"
+   ],
+   "cliques": 0,
+   "impressoes": 2,
+   "ctr": 0,
+   "posicao": 28.5
+  },
+  {
+   "chaves": [
+    "t cross correia banhada a oleo"
+   ],
+   "cliques": 0,
+   "impressoes": 6,
+   "ctr": 0,
+   "posicao": 6.33
+  },
+  {
+   "chaves": [
+    "t cross dimensões"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 60
+  },
+  {
+   "chaves": [
+    "t cross e correia banhada a oleo"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 7
+  },
+  {
+   "chaves": [
+    "t cross tem correia banhada a oleo"
+   ],
+   "cliques": 0,
+   "impressoes": 18,
+   "ctr": 0,
+   "posicao": 6.44
+  },
+  {
+   "chaves": [
+    "t cross usa correia banhada a oleo"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 7
+  },
+  {
+   "chaves": [
+    "t cross é correia banhada a oleo"
+   ],
+   "cliques": 0,
+   "impressoes": 17,
+   "ctr": 0,
+   "posicao": 7.29
+  },
+  {
+   "chaves": [
+    "t-cross"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 3
+  },
+  {
+   "chaves": [
+    "t-cross 2021"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 2
+  },
+  {
+   "chaves": [
+    "t-cross é correia banhada a óleo"
+   ],
+   "cliques": 0,
+   "impressoes": 5,
+   "ctr": 0,
+   "posicao": 7
+  },
+  {
+   "chaves": [
+    "t270 motor"
+   ],
+   "cliques": 0,
+   "impressoes": 8,
+   "ctr": 0,
+   "posicao": 16.62
+  },
+  {
+   "chaves": [
+    "tabela revisão chevrolet onix"
+   ],
+   "cliques": 0,
+   "impressoes": 11,
+   "ctr": 0,
+   "posicao": 10.18
+  },
+  {
+   "chaves": [
+    "tabela revisão fiat argo"
+   ],
+   "cliques": 0,
+   "impressoes": 3,
+   "ctr": 0,
+   "posicao": 6.67
+  },
+  {
+   "chaves": [
+    "tabela revisão hyundai hb20 2025"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 11
+  },
+  {
+   "chaves": [
+    "taos ficha técnica"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 32
+  },
+  {
+   "chaves": [
+    "tartaruga byd"
+   ],
+   "cliques": 0,
+   "impressoes": 3,
+   "ctr": 0,
+   "posicao": 5.67
+  },
+  {
+   "chaves": [
+    "tartaruga carro eletrico"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 8
+  },
+  {
+   "chaves": [
+    "tartaruga painel byd"
+   ],
+   "cliques": 0,
+   "impressoes": 2,
+   "ctr": 0,
+   "posicao": 10.5
+  },
+  {
+   "chaves": [
+    "tcross"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 1
+  },
+  {
+   "chaves": [
+    "tem corrente de comando?"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 6
+  },
+  {
+   "chaves": [
+    "tera ficha técnica"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 1
+  },
+  {
+   "chaves": [
+    "territory 2026 ficha tecnica"
+   ],
+   "cliques": 0,
+   "impressoes": 2,
+   "ctr": 0,
+   "posicao": 63.5
+  },
+  {
+   "chaves": [
+    "tiggo 5x pro problemas"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 11
+  },
+  {
+   "chaves": [
+    "torque automatico"
+   ],
+   "cliques": 0,
+   "impressoes": 2,
+   "ctr": 0,
+   "posicao": 9.5
+  },
+  {
+   "chaves": [
+    "toyota corolla cross bsm"
+   ],
+   "cliques": 0,
+   "impressoes": 2,
+   "ctr": 0,
+   "posicao": 6
+  },
+  {
+   "chaves": [
+    "tracker"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 2
+  },
+  {
+   "chaves": [
+    "tracker 2015 problemas"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 23
+  },
+  {
+   "chaves": [
+    "tracker 2018 problemas"
+   ],
+   "cliques": 0,
+   "impressoes": 2,
+   "ctr": 0,
+   "posicao": 24.5
+  },
+  {
+   "chaves": [
+    "traker 2021"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 3
+  },
+  {
+   "chaves": [
+    "transmissão cvt"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 52
+  },
+  {
+   "chaves": [
+    "traseira"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 4
+  },
+  {
+   "chaves": [
+    "troca de oleo do onix turbo 2020"
+   ],
+   "cliques": 0,
+   "impressoes": 2,
+   "ctr": 0,
+   "posicao": 10.5
+  },
+  {
+   "chaves": [
+    "troca de oleo onix turbo"
+   ],
+   "cliques": 0,
+   "impressoes": 10,
+   "ctr": 0,
+   "posicao": 11.9
+  },
+  {
+   "chaves": [
+    "troca de oleo onix turbo 2020"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 11
+  },
+  {
+   "chaves": [
+    "troca de velas do carro"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 38
+  },
+  {
+   "chaves": [
+    "troca de óleo onix turbo"
+   ],
+   "cliques": 0,
+   "impressoes": 3,
+   "ctr": 0,
+   "posicao": 10.67
+  },
+  {
+   "chaves": [
+    "troca oleo onix turbo"
+   ],
+   "cliques": 0,
+   "impressoes": 4,
+   "ctr": 0,
+   "posicao": 10.25
+  },
+  {
+   "chaves": [
+    "trocar bucha da barra estabilizadora"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 10
+  },
+  {
+   "chaves": [
+    "turbo t270"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 7
+  },
+  {
+   "chaves": [
+    "um rangido"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 10
+  },
+  {
+   "chaves": [
+    "valor na concessionária"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 7
+  },
+  {
+   "chaves": [
+    "ventoinha ligada direto"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 1
+  },
+  {
+   "chaves": [
+    "virtus é correia banhada a óleo"
+   ],
+   "cliques": 0,
+   "impressoes": 3,
+   "ctr": 0,
+   "posicao": 10.33
+  },
+  {
+   "chaves": [
+    "volkswagen t cross problemas"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 42
+  },
+  {
+   "chaves": [
+    "volkswagen t-cross problemas"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 41
+  },
+  {
+   "chaves": [
+    "vw ea211 probleme"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 67
+  },
+  {
+   "chaves": [
+    "vw polo 1.2 gasolina problemas"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 15
+  },
+  {
+   "chaves": [
+    "vw polo 1.2 tsi 90cv problemas"
+   ],
+   "cliques": 0,
+   "impressoes": 2,
+   "ctr": 0,
+   "posicao": 9
+  },
+  {
+   "chaves": [
+    "vw t cross problemas"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 49
+  },
+  {
+   "chaves": [
+    "vw t-cross 2023"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 32
+  },
+  {
+   "chaves": [
+    "yaris ou hb20"
+   ],
+   "cliques": 0,
+   "impressoes": 2,
+   "ctr": 0,
+   "posicao": 5.5
+  },
+  {
+   "chaves": [
+    "yaris ou hb20 qual o melhor"
+   ],
+   "cliques": 0,
+   "impressoes": 3,
+   "ctr": 0,
+   "posicao": 5.33
+  },
+  {
+   "chaves": [
+    "yaris vs hb20"
+   ],
+   "cliques": 0,
+   "impressoes": 2,
+   "ctr": 0,
+   "posicao": 6.5
+  },
+  {
+   "chaves": [
+    "yuan plus 2024 autonomia"
+   ],
+   "cliques": 0,
+   "impressoes": 18,
+   "ctr": 0,
+   "posicao": 9.72
+  },
+  {
+   "chaves": [
+    "yuan plus ev"
+   ],
+   "cliques": 0,
+   "impressoes": 5,
+   "ctr": 0,
+   "posicao": 38.4
+  },
+  {
+   "chaves": [
+    "yuan plus é hibrido ou eletrico"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 22
+  },
+  {
+   "chaves": [
+    "é a cabo"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 2
+  },
+  {
+   "chaves": [
+    "óleo fiat cronos 1.3"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 3
+  },
+  {
+   "chaves": [
+    "óleo onix turbo quantos litros"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 10
+  }
+ ],
+ "marca_180d": [
+  {
+   "chaves": [
+    "hachiroku"
+   ],
+   "cliques": 0,
+   "impressoes": 16,
+   "ctr": 0,
+   "posicao": 7.25
+  }
+ ],
+ "marca_hachi_180d": [
+  {
+   "chaves": [
+    "hachi roku"
+   ],
+   "cliques": 0,
+   "impressoes": 49,
+   "ctr": 0,
+   "posicao": 8.47
+  },
+  {
+   "chaves": [
+    "hachi-roku"
+   ],
+   "cliques": 0,
+   "impressoes": 8,
+   "ctr": 0,
+   "posicao": 14.88
+  },
+  {
+   "chaves": [
+    "hachiroku"
+   ],
+   "cliques": 0,
+   "impressoes": 16,
+   "ctr": 0,
+   "posicao": 7.25
+  }
+ ],
+ "device_90d": [
+  {
+   "chaves": [
+    "MOBILE"
+   ],
+   "cliques": 263,
+   "impressoes": 37258,
+   "ctr": 0.00706,
+   "posicao": 6.88
+  },
+  {
+   "chaves": [
+    "DESKTOP"
+   ],
+   "cliques": 65,
+   "impressoes": 7638,
+   "ctr": 0.00851,
+   "posicao": 9.56
+  },
+  {
+   "chaves": [
+    "TABLET"
+   ],
+   "cliques": 2,
+   "impressoes": 90,
+   "ctr": 0.02222,
+   "posicao": 6.81
+  }
+ ],
+ "pais_90d": [
+  {
+   "chaves": [
+    "bra"
+   ],
+   "cliques": 317,
+   "impressoes": 42684,
+   "ctr": 0.00743,
+   "posicao": 7.2
+  },
+  {
+   "chaves": [
+    "prt"
+   ],
+   "cliques": 5,
+   "impressoes": 476,
+   "ctr": 0.0105,
+   "posicao": 13.88
+  },
+  {
+   "chaves": [
+    "ago"
+   ],
+   "cliques": 2,
+   "impressoes": 75,
+   "ctr": 0.02667,
+   "posicao": 6.87
+  },
+  {
+   "chaves": [
+    "che"
+   ],
+   "cliques": 1,
+   "impressoes": 11,
+   "ctr": 0.09091,
+   "posicao": 5.73
+  },
+  {
+   "chaves": [
+    "esp"
+   ],
+   "cliques": 1,
+   "impressoes": 15,
+   "ctr": 0.06667,
+   "posicao": 23.53
+  },
+  {
+   "chaves": [
+    "ita"
+   ],
+   "cliques": 1,
+   "impressoes": 18,
+   "ctr": 0.05556,
+   "posicao": 21.11
+  },
+  {
+   "chaves": [
+    "moz"
+   ],
+   "cliques": 1,
+   "impressoes": 74,
+   "ctr": 0.01351,
+   "posicao": 7.49
+  },
+  {
+   "chaves": [
+    "ukr"
+   ],
+   "cliques": 1,
+   "impressoes": 2,
+   "ctr": 0.5,
+   "posicao": 6.5
+  },
+  {
+   "chaves": [
+    "usa"
+   ],
+   "cliques": 1,
+   "impressoes": 1129,
+   "ctr": 0.00089,
+   "posicao": 7.92
+  },
+  {
+   "chaves": [
+    "are"
+   ],
+   "cliques": 0,
+   "impressoes": 39,
+   "ctr": 0,
+   "posicao": 6.26
+  },
+  {
+   "chaves": [
+    "arg"
+   ],
+   "cliques": 0,
+   "impressoes": 25,
+   "ctr": 0,
+   "posicao": 9.2
+  },
+  {
+   "chaves": [
+    "aus"
+   ],
+   "cliques": 0,
+   "impressoes": 10,
+   "ctr": 0,
+   "posicao": 6.1
+  },
+  {
+   "chaves": [
+    "aut"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 5
+  },
+  {
+   "chaves": [
+    "bel"
+   ],
+   "cliques": 0,
+   "impressoes": 4,
+   "ctr": 0,
+   "posicao": 8.75
+  },
+  {
+   "chaves": [
+    "bgd"
+   ],
+   "cliques": 0,
+   "impressoes": 3,
+   "ctr": 0,
+   "posicao": 13.67
+  },
+  {
+   "chaves": [
+    "bhr"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 1
+  },
+  {
+   "chaves": [
+    "bhs"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 10
+  },
+  {
+   "chaves": [
+    "bol"
+   ],
+   "cliques": 0,
+   "impressoes": 6,
+   "ctr": 0,
+   "posicao": 5.33
+  },
+  {
+   "chaves": [
+    "can"
+   ],
+   "cliques": 0,
+   "impressoes": 13,
+   "ctr": 0,
+   "posicao": 6.85
+  },
+  {
+   "chaves": [
+    "chl"
+   ],
+   "cliques": 0,
+   "impressoes": 7,
+   "ctr": 0,
+   "posicao": 10.43
+  },
+  {
+   "chaves": [
+    "chn"
+   ],
+   "cliques": 0,
+   "impressoes": 5,
+   "ctr": 0,
+   "posicao": 11
+  },
+  {
+   "chaves": [
+    "cod"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 4
+  },
+  {
+   "chaves": [
+    "col"
+   ],
+   "cliques": 0,
+   "impressoes": 4,
+   "ctr": 0,
+   "posicao": 16.5
+  },
+  {
+   "chaves": [
+    "cpv"
+   ],
+   "cliques": 0,
+   "impressoes": 10,
+   "ctr": 0,
+   "posicao": 9.9
+  },
+  {
+   "chaves": [
+    "cri"
+   ],
+   "cliques": 0,
+   "impressoes": 2,
+   "ctr": 0,
+   "posicao": 8.5
+  },
+  {
+   "chaves": [
+    "cuw"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 5
+  },
+  {
+   "chaves": [
+    "deu"
+   ],
+   "cliques": 0,
+   "impressoes": 12,
+   "ctr": 0,
+   "posicao": 14
+  },
+  {
+   "chaves": [
+    "dnk"
+   ],
+   "cliques": 0,
+   "impressoes": 4,
+   "ctr": 0,
+   "posicao": 9.5
+  },
+  {
+   "chaves": [
+    "dom"
+   ],
+   "cliques": 0,
+   "impressoes": 2,
+   "ctr": 0,
+   "posicao": 13.5
+  },
+  {
+   "chaves": [
+    "dza"
+   ],
+   "cliques": 0,
+   "impressoes": 3,
+   "ctr": 0,
+   "posicao": 38
+  },
+  {
+   "chaves": [
+    "ecu"
+   ],
+   "cliques": 0,
+   "impressoes": 6,
+   "ctr": 0,
+   "posicao": 14.5
+  },
+  {
+   "chaves": [
+    "egy"
+   ],
+   "cliques": 0,
+   "impressoes": 3,
+   "ctr": 0,
+   "posicao": 8.67
+  },
+  {
+   "chaves": [
+    "fin"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 2
+  },
+  {
+   "chaves": [
+    "fra"
+   ],
+   "cliques": 0,
+   "impressoes": 10,
+   "ctr": 0,
+   "posicao": 8.2
+  },
+  {
+   "chaves": [
+    "gbr"
+   ],
+   "cliques": 0,
+   "impressoes": 18,
+   "ctr": 0,
+   "posicao": 5.78
+  },
+  {
+   "chaves": [
+    "geo"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 38
+  },
+  {
+   "chaves": [
+    "gnb"
+   ],
+   "cliques": 0,
+   "impressoes": 2,
+   "ctr": 0,
+   "posicao": 5
+  },
+  {
+   "chaves": [
+    "grc"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 6
+  },
+  {
+   "chaves": [
+    "gtm"
+   ],
+   "cliques": 0,
+   "impressoes": 2,
+   "ctr": 0,
+   "posicao": 10
+  },
+  {
+   "chaves": [
+    "guy"
+   ],
+   "cliques": 0,
+   "impressoes": 3,
+   "ctr": 0,
+   "posicao": 5
+  },
+  {
+   "chaves": [
+    "hkg"
+   ],
+   "cliques": 0,
+   "impressoes": 11,
+   "ctr": 0,
+   "posicao": 7.18
+  },
+  {
+   "chaves": [
+    "hun"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 5
+  },
+  {
+   "chaves": [
+    "idn"
+   ],
+   "cliques": 0,
+   "impressoes": 7,
+   "ctr": 0,
+   "posicao": 14.43
+  },
+  {
+   "chaves": [
+    "ind"
+   ],
+   "cliques": 0,
+   "impressoes": 23,
+   "ctr": 0,
+   "posicao": 16
+  },
+  {
+   "chaves": [
+    "irl"
+   ],
+   "cliques": 0,
+   "impressoes": 10,
+   "ctr": 0,
+   "posicao": 8.4
+  },
+  {
+   "chaves": [
+    "irn"
+   ],
+   "cliques": 0,
+   "impressoes": 2,
+   "ctr": 0,
+   "posicao": 10
+  },
+  {
+   "chaves": [
+    "isr"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 10
+  },
+  {
+   "chaves": [
+    "jor"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 37
+  },
+  {
+   "chaves": [
+    "jpn"
+   ],
+   "cliques": 0,
+   "impressoes": 28,
+   "ctr": 0,
+   "posicao": 7.61
+  },
+  {
+   "chaves": [
+    "kgz"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 5
+  },
+  {
+   "chaves": [
+    "kor"
+   ],
+   "cliques": 0,
+   "impressoes": 4,
+   "ctr": 0,
+   "posicao": 7.5
+  },
+  {
+   "chaves": [
+    "kwt"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 13
+  },
+  {
+   "chaves": [
+    "lux"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 8
+  },
+  {
+   "chaves": [
+    "mar"
+   ],
+   "cliques": 0,
+   "impressoes": 5,
+   "ctr": 0,
+   "posicao": 20
+  },
+  {
+   "chaves": [
+    "mex"
+   ],
+   "cliques": 0,
+   "impressoes": 19,
+   "ctr": 0,
+   "posicao": 13.79
+  },
+  {
+   "chaves": [
+    "mys"
+   ],
+   "cliques": 0,
+   "impressoes": 3,
+   "ctr": 0,
+   "posicao": 36.67
+  },
+  {
+   "chaves": [
+    "nic"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 5
+  },
+  {
+   "chaves": [
+    "nld"
+   ],
+   "cliques": 0,
+   "impressoes": 9,
+   "ctr": 0,
+   "posicao": 7.11
+  },
+  {
+   "chaves": [
+    "nor"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 2
+  },
+  {
+   "chaves": [
+    "nzl"
+   ],
+   "cliques": 0,
+   "impressoes": 3,
+   "ctr": 0,
+   "posicao": 7.67
+  },
+  {
+   "chaves": [
+    "pak"
+   ],
+   "cliques": 0,
+   "impressoes": 5,
+   "ctr": 0,
+   "posicao": 20.6
+  },
+  {
+   "chaves": [
+    "pan"
+   ],
+   "cliques": 0,
+   "impressoes": 6,
+   "ctr": 0,
+   "posicao": 8.33
+  },
+  {
+   "chaves": [
+    "per"
+   ],
+   "cliques": 0,
+   "impressoes": 5,
+   "ctr": 0,
+   "posicao": 7.6
+  },
+  {
+   "chaves": [
+    "phl"
+   ],
+   "cliques": 0,
+   "impressoes": 9,
+   "ctr": 0,
+   "posicao": 30.67
+  },
+  {
+   "chaves": [
+    "pol"
+   ],
+   "cliques": 0,
+   "impressoes": 4,
+   "ctr": 0,
+   "posicao": 9.75
+  },
+  {
+   "chaves": [
+    "pri"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 11
+  },
+  {
+   "chaves": [
+    "pry"
+   ],
+   "cliques": 0,
+   "impressoes": 43,
+   "ctr": 0,
+   "posicao": 6.77
+  },
+  {
+   "chaves": [
+    "rou"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 28
+  },
+  {
+   "chaves": [
+    "rus"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 15
+  },
+  {
+   "chaves": [
+    "sau"
+   ],
+   "cliques": 0,
+   "impressoes": 2,
+   "ctr": 0,
+   "posicao": 18.5
+  },
+  {
+   "chaves": [
+    "sgp"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 5
+  },
+  {
+   "chaves": [
+    "swe"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 6
+  },
+  {
+   "chaves": [
+    "tha"
+   ],
+   "cliques": 0,
+   "impressoes": 3,
+   "ctr": 0,
+   "posicao": 14.67
+  },
+  {
+   "chaves": [
+    "tto"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 37
+  },
+  {
+   "chaves": [
+    "tun"
+   ],
+   "cliques": 0,
+   "impressoes": 2,
+   "ctr": 0,
+   "posicao": 5.5
+  },
+  {
+   "chaves": [
+    "tur"
+   ],
+   "cliques": 0,
+   "impressoes": 8,
+   "ctr": 0,
+   "posicao": 17.5
+  },
+  {
+   "chaves": [
+    "twn"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 11
+  },
+  {
+   "chaves": [
+    "tza"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 7
+  },
+  {
+   "chaves": [
+    "ury"
+   ],
+   "cliques": 0,
+   "impressoes": 46,
+   "ctr": 0,
+   "posicao": 6.65
+  },
+  {
+   "chaves": [
+    "ven"
+   ],
+   "cliques": 0,
+   "impressoes": 5,
+   "ctr": 0,
+   "posicao": 4.6
+  },
+  {
+   "chaves": [
+    "vnm"
+   ],
+   "cliques": 0,
+   "impressoes": 19,
+   "ctr": 0,
+   "posicao": 12.47
+  },
+  {
+   "chaves": [
+    "zaf"
+   ],
+   "cliques": 0,
+   "impressoes": 4,
+   "ctr": 0,
+   "posicao": 3.75
+  }
+ ],
+ "imagem_90d": [
+  {
+   "chaves": [
+    "https://hachiroku.com.br/"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 39
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/eletricos/autonomia-real-carro-eletrico/"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 73
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/eletricos/byd/dolphin-mini/"
+   ],
+   "cliques": 0,
+   "impressoes": 634,
+   "ctr": 0,
+   "posicao": 54.57
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/eletricos/byd/dolphin/"
+   ],
+   "cliques": 0,
+   "impressoes": 7,
+   "ctr": 0,
+   "posicao": 55.14
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/eletricos/byd/song-plus-ev-bateria-autonomia/"
+   ],
+   "cliques": 0,
+   "impressoes": 7,
+   "ctr": 0,
+   "posicao": 61
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/eletricos/recarga-carro-eletrico-brasil/"
+   ],
+   "cliques": 0,
+   "impressoes": 3,
+   "ctr": 0,
+   "posicao": 75.67
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/ficha-tecnica/chevrolet/montana-premier-1-2-turbo/"
+   ],
+   "cliques": 0,
+   "impressoes": 2,
+   "ctr": 0,
+   "posicao": 8.5
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/ficha-tecnica/chevrolet/onix/"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 45
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/ficha-tecnica/chevrolet/s10-ltz-2-8-diesel/"
+   ],
+   "cliques": 0,
+   "impressoes": 2,
+   "ctr": 0,
+   "posicao": 47.5
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/ficha-tecnica/ford/territory-titanium-1-5/"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 26
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/ficha-tecnica/hyundai/hb20/"
+   ],
+   "cliques": 0,
+   "impressoes": 6,
+   "ctr": 0,
+   "posicao": 82.17
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/ficha-tecnica/mitsubishi/outlander-v6-3-0/"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 68
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/ficha-tecnica/peugeot/3008-griffe-1-6-thp/"
+   ],
+   "cliques": 0,
+   "impressoes": 2,
+   "ctr": 0,
+   "posicao": 42.5
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/ficha-tecnica/volkswagen/nivus/"
+   ],
+   "cliques": 0,
+   "impressoes": 2,
+   "ctr": 0,
+   "posicao": 71
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/ficha-tecnica/volkswagen/polo-tsi/"
+   ],
+   "cliques": 0,
+   "impressoes": 20,
+   "ctr": 0,
+   "posicao": 69.2
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/ficha-tecnica/volkswagen/t-cross/"
+   ],
+   "cliques": 0,
+   "impressoes": 13,
+   "ctr": 0,
+   "posicao": 47.15
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/guia-de-compra/usados/gol-usado-vale-a-pena/"
+   ],
+   "cliques": 0,
+   "impressoes": 3,
+   "ctr": 0,
+   "posicao": 53.33
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/guia-de-compra/yaris-vs-hb20/"
+   ],
+   "cliques": 0,
+   "impressoes": 5,
+   "ctr": 0,
+   "posicao": 49.6
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/motor/ea211-tsi/"
+   ],
+   "cliques": 0,
+   "impressoes": 3,
+   "ctr": 0,
+   "posicao": 96.67
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/motor/firefly/"
+   ],
+   "cliques": 0,
+   "impressoes": 4,
+   "ctr": 0,
+   "posicao": 74
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/motor/sce-renault/"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 31
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/motor/t270/"
+   ],
+   "cliques": 0,
+   "impressoes": 6,
+   "ctr": 0,
+   "posicao": 63.67
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/problemas/chevrolet/onix/motor-turbo-consumo-oleo/"
+   ],
+   "cliques": 0,
+   "impressoes": 2,
+   "ctr": 0,
+   "posicao": 34
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/problemas/chevrolet/onix/turbo-perde-potencia/"
+   ],
+   "cliques": 0,
+   "impressoes": 15,
+   "ctr": 0,
+   "posicao": 38.47
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/problemas/chevrolet/s10/dpf-regeneracao-diesel/"
+   ],
+   "cliques": 0,
+   "impressoes": 2,
+   "ctr": 0,
+   "posicao": 55
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/problemas/chevrolet/spin/motor-ecotec-consumo-oleo/"
+   ],
+   "cliques": 0,
+   "impressoes": 2,
+   "ctr": 0,
+   "posicao": 60
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/problemas/chevrolet/tracker/"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 19
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/problemas/chevrolet/tracker/direcao-eletrica/"
+   ],
+   "cliques": 0,
+   "impressoes": 15,
+   "ctr": 0,
+   "posicao": 37.2
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/problemas/fiat/cronos/sensor-lambda-sonda/"
+   ],
+   "cliques": 0,
+   "impressoes": 2,
+   "ctr": 0,
+   "posicao": 45
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/problemas/fiat/palio/"
+   ],
+   "cliques": 0,
+   "impressoes": 7,
+   "ctr": 0,
+   "posicao": 24.71
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/problemas/fiat/palio/superaquecimento/"
+   ],
+   "cliques": 0,
+   "impressoes": 45,
+   "ctr": 0,
+   "posicao": 28.8
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/problemas/fiat/uno/ar-condicionado-fraco/"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 50
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/problemas/ford/territory/consumo-combustivel-alto/"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 8
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/problemas/ford/territory/suspensao-dianteira-barulho/"
+   ],
+   "cliques": 0,
+   "impressoes": 2,
+   "ctr": 0,
+   "posicao": 25.5
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/problemas/gwm/haval-h6/"
+   ],
+   "cliques": 0,
+   "impressoes": 3,
+   "ctr": 0,
+   "posicao": 26.67
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/problemas/hyundai/creta/"
+   ],
+   "cliques": 0,
+   "impressoes": 2,
+   "ctr": 0,
+   "posicao": 13
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/problemas/hyundai/hb20/"
+   ],
+   "cliques": 0,
+   "impressoes": 3,
+   "ctr": 0,
+   "posicao": 64.33
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/problemas/hyundai/hb20/freios-abs-sensor/"
+   ],
+   "cliques": 0,
+   "impressoes": 8,
+   "ctr": 0,
+   "posicao": 41.25
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/problemas/hyundai/hb20/vazamento-de-oleo/"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 29
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/problemas/hyundai/hb20s/cambio-manual-dificil-engatar/"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 22
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/problemas/hyundai/hb20s/consumo-alto-combustivel/"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 42
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/problemas/hyundai/ix35/consumo-de-oleo-theta/"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 11
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/problemas/jeep/commander/"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 15
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/problemas/jeep/commander/cambio-9-marchas-solavanco/"
+   ],
+   "cliques": 0,
+   "impressoes": 2,
+   "ctr": 0,
+   "posicao": 28
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/problemas/jeep/renegade/"
+   ],
+   "cliques": 0,
+   "impressoes": 2,
+   "ctr": 0,
+   "posicao": 28
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/problemas/jeep/renegade/corrente-de-comando-t270/"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 29
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/problemas/jeep/renegade/suspensao-dianteira-barulho/"
+   ],
+   "cliques": 0,
+   "impressoes": 2,
+   "ctr": 0,
+   "posicao": 55.5
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/problemas/nissan/kicks/sensor-oxigenio-luz-check/"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 85
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/problemas/nissan/kicks/transmissao-cvt-superaquecimento/"
+   ],
+   "cliques": 0,
+   "impressoes": 3,
+   "ctr": 0,
+   "posicao": 25.33
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/problemas/nissan/versa/ar-condicionado-evaporador/"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 91
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/problemas/peugeot/3008/suspensao-dianteira-barulho/"
+   ],
+   "cliques": 0,
+   "impressoes": 2,
+   "ctr": 0,
+   "posicao": 39.5
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/problemas/renault/duster/motor-tce-consumo-oleo/"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 73
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/problemas/renault/kwid/"
+   ],
+   "cliques": 0,
+   "impressoes": 20,
+   "ctr": 0,
+   "posicao": 58.3
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/problemas/renault/logan/motor-sce-consumo-oleo/"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 16
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/problemas/renault/sandero/"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 59
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/problemas/renault/sandero/motor-sce-batendo-valvula/"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 29
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/problemas/volkswagen/fox/"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 82
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/problemas/volkswagen/gol/cambio-manual-dificil-engatar/"
+   ],
+   "cliques": 0,
+   "impressoes": 3,
+   "ctr": 0,
+   "posicao": 21
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/problemas/volkswagen/gol/freios-desgaste-pastilha-disco/"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 32
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/problemas/volkswagen/gol/tucho-a-frio/"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 5
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/problemas/volkswagen/jetta/cambio-dsg-dq250-solavanco/"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 24
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/problemas/volkswagen/jetta/consumo-oleo-ea211/"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 66
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/problemas/volkswagen/nivus/motor-3-cilindros-vibracao/"
+   ],
+   "cliques": 0,
+   "impressoes": 6,
+   "ctr": 0,
+   "posicao": 34.67
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/problemas/volkswagen/polo-tsi/"
+   ],
+   "cliques": 0,
+   "impressoes": 13,
+   "ctr": 0,
+   "posicao": 29.38
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/problemas/volkswagen/polo-tsi/cambio-aisin-trancos/"
+   ],
+   "cliques": 0,
+   "impressoes": 4,
+   "ctr": 0,
+   "posicao": 50.75
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/problemas/volkswagen/polo-tsi/consumo-alto-combustivel/"
+   ],
+   "cliques": 0,
+   "impressoes": 7,
+   "ctr": 0,
+   "posicao": 51.29
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/problemas/volkswagen/saveiro/suspensao-dianteira-barulho/"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 31
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/problemas/volkswagen/t-cross/"
+   ],
+   "cliques": 0,
+   "impressoes": 2,
+   "ctr": 0,
+   "posicao": 32.5
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/problemas/volkswagen/t-cross/cambio-aq250-trancos/"
+   ],
+   "cliques": 0,
+   "impressoes": 12,
+   "ctr": 0,
+   "posicao": 29.42
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/problemas/volkswagen/virtus/"
+   ],
+   "cliques": 0,
+   "impressoes": 6,
+   "ctr": 0,
+   "posicao": 38.33
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/problemas/volkswagen/virtus/consumo-de-oleo-tsi/"
+   ],
+   "cliques": 0,
+   "impressoes": 7,
+   "ctr": 0,
+   "posicao": 40.29
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/tecnologia/cambio-aisin-aq250/"
+   ],
+   "cliques": 0,
+   "impressoes": 4,
+   "ctr": 0,
+   "posicao": 39.5
+  },
+  {
+   "chaves": [
+    "https://hachiroku.com.br/tecnologia/correia-banhada-a-oleo/"
+   ],
+   "cliques": 0,
+   "impressoes": 1,
+   "ctr": 0,
+   "posicao": 67
+  }
+ ],
+ "cobertura_dimensao_query": {
+  "cliques_atribuidos": 8,
+  "cliques_totais": 330,
+  "impressoes_atribuidas": 2002,
+  "impressoes_totais": 44986,
+  "pct_cliques": 2.42,
+  "pct_impressoes": 4.45,
+  "queries_distintas": 644
+ }
+}
