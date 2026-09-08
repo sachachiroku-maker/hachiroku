@@ -57,9 +57,9 @@ faq:
     resposta: "Sim, é um dos pontos fortes da Ranger. O trem de força 4x4 real com reduzida e bloqueio de diferencial é robusto. O cuidado extra é com a limpeza do intercooler e do filtro de ar em ambientes com muita poeira fina, que são os principais vilões do motor diesel em uso rural."
 relacionados:
   - titulo: "Toyota Hilux usada: vale a pena?"
-    url: "/guia-de-compra/usados/hilux-usada-vale-a-pena"
+    url: "/guia-de-compra/usados/hilux-usada-vale-a-pena/"
   - titulo: "Fiat Strada usada: vale a pena?"
-    url: "/guia-de-compra/usados/strada-usada-vale-a-pena"
+    url: "/guia-de-compra/usados/strada-usada-vale-a-pena/"
 draft: false
 ---
 

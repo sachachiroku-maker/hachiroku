@@ -50,9 +50,9 @@ afiliados:
     programa: "mercadoLivre"
 relacionados:
   - titulo: "L200 Triton: Diferencial Traseiro com Barulho ao Curvar"
-    url: "/problemas/mitsubishi/l200-triton/diferencial-traseiro-barulho"
+    url: "/problemas/mitsubishi/l200-triton/diferencial-traseiro-barulho/"
   - titulo: "L200 Triton: Filtro de Partículas DPF entupido"
-    url: "/problemas/mitsubishi/l200-triton/filtro-particulas-dpf"
+    url: "/problemas/mitsubishi/l200-triton/filtro-particulas-dpf/"
 pontosChave:
   - "Sintoma: solavanco e tranco ao engatar marcha no câmbio AISIN de 6 velocidades"
   - "Sintoma: falha ou demora ao engatar os modos 4H e 4L no Super Select II 4WD"

@@ -51,11 +51,11 @@ faq:
     resposta: "O Renegade tem vantagem pela garantia de 5 anos, que pode ainda cobrir veículos 2022-2023 no mercado de seminovos. Use um scanner OBD2 antes de fechar qualquer negócio nos dois modelos."
 relacionados:
   - titulo: "Jeep Compass vs Toyota RAV4: qual SUV médio comprar em 2025?"
-    url: "/guia-de-compra/comparativos/compass-vs-rav4"
+    url: "/guia-de-compra/comparativos/compass-vs-rav4/"
   - titulo: "Renault Captur 2025: revisão completa e custos reais"
-    url: "/guia-de-compra/renault-captur-2025"
+    url: "/guia-de-compra/renault-captur-2025/"
   - titulo: "Jeep Renegade 2025: ficha técnica e opiniões do dono"
-    url: "/guia-de-compra/jeep-renegade-2025"
+    url: "/guia-de-compra/jeep-renegade-2025/"
 draft: false
 ---
 

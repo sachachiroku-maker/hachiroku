@@ -74,8 +74,8 @@ fontes:
   - { titulo: "Problemas comuns da VW Amarok (AutoDoc Blog PT)", url: "https://www.auto-doc.pt/info/problemas-com-o-vw-amarok" }
   - { titulo: "Problemas crônicos da VW Amarok (ClubMotor)", url: "https://www.clubmotor.com.br/vw-amarok-problemas-cronicos-defeitos-e-o-que-falam-da-picape/" }
 relacionados:
-  - { titulo: "Motor V6 TDI da Amarok com consumo de óleo: EA898 e o que monitorar", url: "/problemas/volkswagen/amarok/motor-v6-consumo-oleo" }
-  - { titulo: "Vazamento no radiador da Amarok V6: causas e diagnóstico", url: "/problemas/volkswagen/amarok/vazamento-radiador" }
+  - { titulo: "Motor V6 TDI da Amarok com consumo de óleo: EA898 e o que monitorar", url: "/problemas/volkswagen/amarok/motor-v6-consumo-oleo/" }
+  - { titulo: "Vazamento no radiador da Amarok V6: causas e diagnóstico", url: "/problemas/volkswagen/amarok/vazamento-radiador/" }
 draft: false
 ---
 

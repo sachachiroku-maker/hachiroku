@@ -65,7 +65,7 @@ relacionados:
   - { titulo: "Freios do SW4 com desgaste acelerado: diagnóstico e custo", url: "/problemas/toyota/sw4/freios-desgaste-acelerado/" }
   - { titulo: "Ficha técnica da Toyota Hilux SRX 2.8 Diesel 2023", url: "/ficha-tecnica/toyota/hilux-srx-2-8-diesel/" }
 autor:
-  nome: "Redacao Hachiroku"
+  nome: "Redação Hachiroku"
 draft: false
 ---
 

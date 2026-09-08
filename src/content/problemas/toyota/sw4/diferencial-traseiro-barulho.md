@@ -60,9 +60,9 @@ fontes:
     url: "https://mecanicaoffroad.com.br/diferencial-hipoide-lubrificacao/"
 relacionados:
   - titulo: "Freios com desgaste acelerado no Toyota SW4: diagnóstico e solução"
-    url: "/problemas/toyota/sw4/freios-desgaste-acelerado"
+    url: "/problemas/toyota/sw4/freios-desgaste-acelerado/"
   - titulo: "Vela aquecedora do motor 2.8 2.8 Turbo Diesel com falha no Toyota SW4"
-    url: "/problemas/toyota/sw4/motor-gd6-vela-aquecedora"
+    url: "/problemas/toyota/sw4/motor-gd6-vela-aquecedora/"
 asides:
   - tipo: telltale
     icone: "warning"

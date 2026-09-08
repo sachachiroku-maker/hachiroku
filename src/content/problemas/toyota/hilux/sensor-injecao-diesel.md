@@ -67,9 +67,9 @@ fontes:
     url: "https://www.bosch-mobility.com/en/solutions/powertrain/diesel-systems/common-rail/"
 relacionados:
   - titulo: "Toyota Hilux: Filtro de Combustível Entupido e Perda de Potência"
-    url: "/problemas/toyota/hilux/filtro-combustivel-entupido"
+    url: "/problemas/toyota/hilux/filtro-combustivel-entupido/"
   - titulo: "Toyota Hilux: Vela Aquecedora com Falha e Partida Difícil"
-    url: "/problemas/toyota/hilux/vela-aquecedora-falha"
+    url: "/problemas/toyota/hilux/vela-aquecedora-falha/"
 draft: false
 ---
 

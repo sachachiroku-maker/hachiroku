@@ -33,9 +33,9 @@ fontes:
     url: "https://www.nhtsa.gov/sites/nhtsa.gov/files/fmvss/FMVSS116.pdf"
 relacionados:
   - titulo: "Como trocar pastilhas de freio em casa"
-    url: "/manutencao/como-trocar-pastilhas-freio"
+    url: "/manutencao/como-trocar-pastilhas-freio/"
   - titulo: "Revisão de freios: o que é verificado e quando fazer"
-    url: "/manutencao/revisao-freios-completa"
+    url: "/manutencao/revisao-freios-completa/"
 faq:
   - pergunta: "Qual a diferença entre DOT 3, DOT 4 e DOT 5.1?"
     resposta: >

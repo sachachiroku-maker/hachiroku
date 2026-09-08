@@ -51,11 +51,11 @@ faq:
     resposta: "Para uso urbano com até 2 adultos e bagagem leve, o 1.0 Firefly entrega. Para estrada, família de 4 pessoas ou quem quer câmbio automático, o 1.3 justifica o custo extra. A diferença de preço entre as versões costuma ficar entre R$ 8.000 e R$ 12.000."
 relacionados:
   - titulo: "Onix vs HB20: qual hatch popular tem o melhor custo-benefício?"
-    url: "/guia-de-compra/comparativos/onix-vs-hb20"
+    url: "/guia-de-compra/comparativos/onix-vs-hb20/"
   - titulo: "Polo vs Virtus: o VW compacto certo para cada perfil"
-    url: "/guia-de-compra/comparativos/polo-vs-virtus"
+    url: "/guia-de-compra/comparativos/polo-vs-virtus/"
   - titulo: "Argo vs HB20: qual compacto moderno leva?"
-    url: "/guia-de-compra/comparativos/argo-vs-hb20"
+    url: "/guia-de-compra/comparativos/argo-vs-hb20/"
 draft: false
 ---
 

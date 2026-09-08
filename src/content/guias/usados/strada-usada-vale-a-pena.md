@@ -59,11 +59,11 @@ faq:
     resposta: "Sim, sempre. A vistoria cautelar revela recuperação de batida que não aparece na inspeção visual simples, verifica o número do chassi e confere o histórico do veículo nos sistemas oficiais. O custo gira em torno de R$ 150 a R$ 300 e pode evitar um prejuízo muito maior."
 relacionados:
   - titulo: "Fiat Argo Usado: Vale a Pena? Guia por Geração"
-    url: "/guia-de-compra/usados/argo-usado-vale-a-pena"
+    url: "/guia-de-compra/usados/argo-usado-vale-a-pena/"
   - titulo: "Volkswagen Gol Usado: Guia de Compra Completo"
-    url: "/guia-de-compra/usados/gol-usado-vale-a-pena"
+    url: "/guia-de-compra/usados/gol-usado-vale-a-pena/"
   - titulo: "Hyundai HB20 Usado: Vale a Pena?"
-    url: "/guia-de-compra/usados/hb20-usado-vale-a-pena"
+    url: "/guia-de-compra/usados/hb20-usado-vale-a-pena/"
 draft: false
 ---
 

@@ -51,9 +51,9 @@ faq:
     resposta: "Depende do uso. Se você prioriza porta-malas grande, acabamento superior e motor com histórico longo, sim. Se quer mais dinamismo por menos dinheiro, o T-Cross 1.4 TSI entrega mais performance pelo mesmo preço ou menos."
 relacionados:
   - titulo: "Toyota Corolla Cross vs Honda HR-V: qual SUV compacto tem mais a oferecer?"
-    url: "/guia-de-compra/comparativos/corolla-cross-vs-hr-v"
+    url: "/guia-de-compra/comparativos/corolla-cross-vs-hr-v/"
   - titulo: "Jeep Renegade vs Volkswagen T-Cross: batalha de SUVs acessíveis"
-    url: "/guia-de-compra/comparativos/renegade-vs-t-cross"
+    url: "/guia-de-compra/comparativos/renegade-vs-t-cross/"
   - titulo: "Quanto custa manter um SUV compacto? Revisão, peças e seguro"
     url: "/guia-de-compra/consertar-ou-trocar-vale-a-pena/"
 draft: false

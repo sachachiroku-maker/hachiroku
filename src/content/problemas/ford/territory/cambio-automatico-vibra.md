@@ -74,9 +74,9 @@ afiliados:
     cta: "Ver produto"
 relacionados:
   - titulo: "Ford Territory: barulho na suspensão dianteira (1.5 EcoBoost)"
-    url: "/problemas/ford/territory/suspensao-dianteira-barulho"
+    url: "/problemas/ford/territory/suspensao-dianteira-barulho/"
   - titulo: "Ford Territory: SYNC 4 travando e reiniciando sozinho"
-    url: "/problemas/ford/territory/multimidia-sync-travando"
+    url: "/problemas/ford/territory/multimidia-sync-travando/"
 draft: false
 ---
 

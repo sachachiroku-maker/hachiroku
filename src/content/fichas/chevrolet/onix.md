@@ -64,7 +64,7 @@ relacionados:
   - { titulo: "Correia dentada do Onix turbo: quando trocar", url: "/problemas/chevrolet/onix/correia-dentada/" }
   - { titulo: "Onix usado vale a pena? O que verificar antes de comprar", url: "/guia-de-compra/usados/onix-usado-vale-a-pena/" }
 autor:
-  nome: "Redacao Hachiroku"
+  nome: "Redação Hachiroku"
 draft: false
 ---
 

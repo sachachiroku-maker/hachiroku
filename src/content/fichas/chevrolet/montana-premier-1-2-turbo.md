@@ -67,7 +67,7 @@ relacionados:
   - { titulo: "Tração 4x4 da Montana com falha no engate: diagnóstico", url: "/problemas/chevrolet/montana/tracao-4x4-falha-transferencia/" }
   - { titulo: "Ficha técnica da Chevrolet S10 LTZ 2.8 Diesel", url: "/ficha-tecnica/chevrolet/s10-ltz-2-8-diesel/" }
 autor:
-  nome: "Redacao Hachiroku"
+  nome: "Redação Hachiroku"
 draft: false
 ---
 

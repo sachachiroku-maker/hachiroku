@@ -65,7 +65,7 @@ relacionados:
   - { titulo: "Diferencial traseiro da Hilux com barulho: diagnóstico e custo", url: "/problemas/toyota/hilux/diferencial-traseiro-barulho/" }
   - { titulo: "Ficha técnica da Chevrolet S10 LTZ 2.8 Diesel", url: "/ficha-tecnica/chevrolet/s10-ltz-2-8-diesel/" }
 autor:
-  nome: "Redacao Hachiroku"
+  nome: "Redação Hachiroku"
 draft: false
 ---
 

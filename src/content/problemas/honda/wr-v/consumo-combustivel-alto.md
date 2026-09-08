@@ -85,11 +85,11 @@ afiliados:
     cta: "Ver no Amazon"
 relacionados:
   - titulo: "Honda WR-V CVT com solavanco: fluido HCF-2 e como resolver"
-    url: "/problemas/honda/wr-v/cambio-cvt-solavanco"
+    url: "/problemas/honda/wr-v/cambio-cvt-patinando/"
   - titulo: "Motor 1.5 do Honda WR-V com consumo de óleo: causas e o que fazer"
-    url: "/problemas/honda/wr-v/motor-1-5-consumo-oleo"
+    url: "/problemas/honda/wr-v/motor-1-5-consumo-oleo/"
   - titulo: "Ar-condicionado do Honda WR-V com cheiro de fungo"
-    url: "/problemas/honda/wr-v/ar-condicionado-cheiro-fungo"
+    url: "/problemas/honda/wr-v/ar-condicionado-cheiro-fungo/"
 fontes:
   - { titulo: "Inmetro - Programa Brasileiro de Etiquetagem Veicular (Honda WR-V 2024)", url: "https://www.inmetro.gov.br/consumidor/pbe/veiculos_leves_2024.pdf" }
   - { titulo: "U.S. Department of Energy - Fuel Economy Guide: Air Filters", url: "https://www.fueleconomy.gov/feg/maintips.shtml" }

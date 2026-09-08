@@ -59,7 +59,7 @@ faq:
     resposta: "O DPF (Diesel Particulate Filter) é o filtro de partículas presente nos modelos diesel mais recentes da 8ª geração. Ele precisa de ciclos de regeneração, que acontecem automaticamente em rodagem de estrada. Hilux usada em ciclo urbano constante sem rodar em estrada pode ter o DPF entupido. O sinal de alerta é a luz de aviso no painel e perda de potência. Limpeza ou troca do DPF é um reparo significativo."
 relacionados:
   - titulo: "Ranger usada vale a pena? O que checar antes de comprar"
-    url: "/guia-de-compra/usados/ranger-usada-vale-a-pena"
+    url: "/guia-de-compra/usados/ranger-usada-vale-a-pena/"
   - titulo: "S10 usada vale a pena? Guia por geração"
     url: "/guia-de-compra/usados/hilux-usada-vale-a-pena/"
   - titulo: "Como fazer vistoria cautelar: o que é e por que é obrigatório"

@@ -69,7 +69,7 @@ relacionados:
   - { titulo: "Bateria do Yaris descarregando: causas e solução", url: "/problemas/toyota/yaris/bateria-fraca-descarrega/" }
   - { titulo: "Problemas do Toyota Corolla CVT", url: "/problemas/toyota/corolla/cambio-cvt/" }
 autor:
-  nome: "Redacao Hachiroku"
+  nome: "Redação Hachiroku"
 draft: false
 ---
 

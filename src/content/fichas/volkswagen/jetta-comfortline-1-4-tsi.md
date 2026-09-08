@@ -65,7 +65,7 @@ relacionados:
   - { titulo: "Consumo de óleo no motor EA211 do Jetta: causas, diagnóstico e custo", url: "/problemas/volkswagen/jetta/consumo-oleo-ea211/" }
   - { titulo: "Câmbio DSG DQ250 do Jetta com solavanco: fluido, custo de flush e diagnóstico", url: "/problemas/volkswagen/jetta/cambio-dsg-dq250-solavanco/" }
 autor:
-  nome: "Redacao Hachiroku"
+  nome: "Redação Hachiroku"
 draft: false
 ---
 

@@ -22,7 +22,7 @@ passos:
   - { nome: "Remova a pinça e comprima o pistão", texto: "Retire os parafusos de guia da pinça (geralmente 10mm ou 12mm) e deslize a pinça para fora do disco. Não deixe a pinça pendurada na mangueira de freio: apoie-a com um arame ou descanse sobre a bandeja. Posicione o grampo de pistão (ou alicate de pressão com um protetor) sobre o pistão e comprima-o suavemente até que fique raso dentro da pinça." }
   - { nome: "Instale as pastilhas novas e remonte a pinça", texto: "Retire as pastilhas velhas do suporte. Aplique graxa específica para freios (anti-ranger) nos pinos de guia e nas extremidades metálicas das pastilhas novas, mas nunca na superfície de atrito. Encaixe as pastilhas novas no suporte, recoloque a pinça sobre o disco e aperte os parafusos de guia no torque especificado pelo fabricante (geralmente entre 25 e 35 Nm)." }
   - { nome: "Recoloque a roda e assente as pastilhas", texto: "Monte a roda, aperte os parafusos em cruz e baixe o carro. Antes de sair, com o carro parado, pise no pedal de freio várias vezes até sentir resistência firme. Isso reaproxima o pistão do disco e assenta as pastilhas. Faça de 5 a 10 frenagens suaves entre 60 e 30 km/h antes de exigir frenagem forte." }
-autor: { nome: "Equipe Técnica Hachiroku", credencial: "" }
+autor: { nome: "Redação Hachiroku", credencial: "" }
 pubDate: 2026-06-20
 updatedDate: 2026-06-20
 disclaimer: "Este guia tem caráter informativo. O sistema de freios é item de segurança crítico. Se você não tiver experiência prévia com mecânica ou não se sentir seguro em qualquer etapa, leve o veículo a uma oficina de confiança. Erros no sistema de freios podem causar acidentes graves."
@@ -35,8 +35,8 @@ afiliados:
   - { produto: "Jogo de Pastilhas Fremax para Carros Populares", nota: "Boa relação custo-benefício para uso urbano diário.", busca: "pastilha de freio Fremax dianteira", programa: "amazon" }
   - { produto: "Grampo de Pistão de Freio Universal", nota: "Ferramenta indispensável para comprimir o pistão sem danificar a borracha.", busca: "grampo pistão freio calibrador", programa: "amazon" }
 relacionados:
-  - { titulo: "Como Verificar e Completar o Fluido de Freio", url: "/manutencao/fluido-de-freio" }
-  - { titulo: "Como Identificar Barulhos Estranhos no Freio", url: "/manutencao/barulhos-no-freio" }
+  - { titulo: "Como Verificar e Completar o Fluido de Freio", url: "/manutencao/fluido-de-freio/" }
+  - { titulo: "Como Identificar Barulhos Estranhos no Freio", url: "/manutencao/barulhos-no-freio/" }
 draft: false
 ---
 

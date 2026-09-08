@@ -17,7 +17,7 @@ passos:
   - { nome: "Rosqueie a vela nova com a mão primeiro", texto: "Coloque a vela nova e rosqueie vários fios de rosca SÓ COM A MÃO, sem ferramenta. Se ela travar logo no início, está cruzada: volte e recomece. Rosquear na mão é o que protege a rosca do cabeçote de alumínio contra espanamento. Não ajuste a folga de velas de irídio/platina pré-calibradas." }
   - { nome: "Aperte com torquímetro no valor do manual", texto: "Só depois de a vela descer toda na mão, use o torquímetro para dar o aperto final no valor especificado para aquela vela e cabeçote. Não aperte 'no braço' nem use catraca de impacto. Confira o torque correto no manual do carro ou na embalagem/tabela do fabricante da vela." }
   - { nome: "Recoloque bobinas/cabos e teste", texto: "Reinstale cada bobina ou cabo no cilindro certo, reconecte os conectores elétricos e remonte tampas e dutos que você tirou. Religue a bateria, dê a partida e observe a marcha lenta: deve ficar regular, sem falhas nem luz de injeção acesa." }
-autor: { nome: "Equipe Técnica Hachiroku", credencial: "" }
+autor: { nome: "Redação Hachiroku", credencial: "" }
 pubDate: 2026-06-18
 updatedDate: 2026-06-18
 disclaimer: "Os intervalos e valores de torque citados são faixas gerais de mercado. O número correto para o seu carro está no manual do proprietário ou na tabela do fabricante da vela. Em caso de dúvida sobre o aperto ou suspeita de rosca danificada, procure um profissional."

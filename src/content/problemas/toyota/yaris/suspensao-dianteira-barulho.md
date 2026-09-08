@@ -51,9 +51,9 @@ afiliados:
     programa: "mercadoLivre"
 relacionados:
   - titulo: "Toyota Yaris: problemas com o câmbio CVT e como identificar"
-    url: "/problemas/toyota/yaris/cambio-cvt-anomalia"
+    url: "/problemas/toyota/yaris/cambio-cvt-anomalia/"
   - titulo: "Toyota Yaris: bateria fraca e descarregamento precoce"
-    url: "/problemas/toyota/yaris/bateria-fraca-descarrega"
+    url: "/problemas/toyota/yaris/bateria-fraca-descarrega/"
 pontosChave:
   - "Sintoma: estalido seco em curvas e manobras, com ou sem carga no veículo"
   - "Causa principal: bieleta da barra estabilizadora com bucha desgastada"

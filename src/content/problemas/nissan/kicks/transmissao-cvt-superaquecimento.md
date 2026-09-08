@@ -75,9 +75,9 @@ fontes:
     url: "https://www.mobiauto.com.br/revista/nissan-kicks-os-principais-problemas-segundo-os-donos/1915"
 relacionados:
   - titulo: "Câmbio CVT do Nissan Kicks: sintomas, manutenção e o erro que custa caro"
-    url: "/problemas/nissan/kicks/cambio-cvt"
+    url: "/problemas/nissan/kicks/cambio-cvt/"
   - titulo: "Suspensão e coxins do Nissan Kicks: barulhos, desgaste e o que verificar"
-    url: "/problemas/nissan/kicks/suspensao-coxins"
+    url: "/problemas/nissan/kicks/suspensao-coxins/"
 draft: false
 ---
 

@@ -56,11 +56,11 @@ afiliados:
     programa: "amazon"
 relacionados:
   - titulo: "Como trocar o filtro de ar do motor"
-    url: "/manutencao/como-trocar-filtro-de-ar"
+    url: "/manutencao/como-trocar-filtro-de-ar/"
   - titulo: "Como limpar os bicos injetores em casa"
-    url: "/manutencao/como-limpar-bicos-injetores"
+    url: "/manutencao/como-limpar-bicos-injetores/"
   - titulo: "O que é e como funciona a bomba de combustível"
-    url: "/tecnico/bomba-de-combustivel-como-funciona"
+    url: "/tecnico/bomba-de-combustivel-como-funciona/"
 draft: false
 ---
 

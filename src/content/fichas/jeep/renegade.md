@@ -60,7 +60,7 @@ faq:
 relacionados:
   - { titulo: "Problemas do Jeep Renegade", url: "/problemas/jeep/renegade/" }
 autor:
-  nome: "Redacao Hachiroku"
+  nome: "Redação Hachiroku"
 draft: false
 ---
 

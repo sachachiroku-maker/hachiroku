@@ -68,9 +68,9 @@ fontes:
 
 relacionados:
   - titulo: "Como trocar a bieleta da barra estabilizadora"
-    url: "/manutencao/como-trocar-bieleta-estabilizadora"
+    url: "/manutencao/como-trocar-bieleta-estabilizadora/"
   - titulo: "Amortecedor: sinais de desgaste e quando substituir"
-    url: "/manutencao/quando-trocar-amortecedor"
+    url: "/manutencao/quando-trocar-amortecedor/"
 ---
 
 ## Por que a bucha da barra estabilizadora importa

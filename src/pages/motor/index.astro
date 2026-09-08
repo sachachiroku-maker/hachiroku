@@ -1,0 +1,101 @@
+---
+/**
+ * Hub do silo /motor/. Item 2.4 do diagnóstico de entidade de 2026-09-08.
+ *
+ * As 13 páginas de motor existiam penduradas num nível que devolvia 404: havia
+ * /motor/t270/ e não havia /motor/. É o silo com a melhor razão de impressão por
+ * URL do site (2.359 impressões em 13 URLs, contra 54 por URL em /problemas/),
+ * e o único sem nó de agregação. O molde é sistema/index.astro, que já existe e
+ * lista a coleção inteira sem truncar.
+ */
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { motores } from '../../lib/entidades';
+
+const site = 'https://hachiroku.com.br';
+const url  = `${site}/motor/`;
+const lista = motores();
+
+/** Primeira frase do resumo, para o card não carregar o parágrafo inteiro. */
+const primeiraFrase = (t: string) => {
+  const m = t.match(/^.*?[.!?](?=\s|$)/);
+  return m ? m[0] : t;
+};
+
+const jsonld = {
+  '@context': 'https://schema.org',
+  '@graph': [
+    {
+      '@type': 'BreadcrumbList',
+      '@id': `${url}#breadcrumb`,
+      itemListElement: [
+        { '@type': 'ListItem', position: 1, name: 'Início', item: `${site}/` },
+        { '@type': 'ListItem', position: 2, name: 'Motores', item: url },
+      ],
+    },
+    {
+      '@type': 'CollectionPage',
+      '@id': `${url}#webpage`,
+      name: 'Motores | Hachiroku',
+      description:
+        'Os motores que equipam os carros vendidos no Brasil, um a um: o que cada projeto tem de bom, onde ele falha e o que a manutenção exige.',
+      inLanguage: 'pt-BR',
+      isPartOf: { '@id': `${site}/#website` },
+      breadcrumb: { '@id': `${url}#breadcrumb` },
+      publisher: { '@id': `${site}/#organization` },
+    },
+    {
+      '@type': 'ItemList',
+      '@id': `${url}#lista`,
+      name: 'Motores cobertos pelo Hachiroku',
+      numberOfItems: lista.length,
+      itemListElement: lista.map((e, i) => ({
+        '@type': 'ListItem',
+        position: i + 1,
+        name: e.nome,
+        url: `${url}${e.slug}/`,
+      })),
+    },
+  ],
+};
+---
+<BaseLayout
+  title="Motores | Hachiroku"
+  description="Os motores que equipam os carros vendidos no Brasil, um a um: o que cada projeto tem de bom, onde ele falha e o que a manutenção exige."
+  canonical={url}
+  type="website"
+>
+  <script type="application/ld+json" set:html={JSON.stringify(jsonld)} />
+
+  <section class="hero" style="padding-block:var(--space-16)">
+    <p class="kicker" style="color:var(--asphalt-300)">DIAGNÓSTICO POR MOTOR</p>
+    <h1>Motores</h1>
+    <p class="tagline">O mesmo motor aparece em carros de nomes diferentes</p>
+  </section>
+
+  <nav class="breadcrumb" aria-label="Você está em">
+    <a href="/">Início</a> · <span>Motores</span>
+  </nav>
+
+  <section class="silos" aria-label="Motores disponíveis">
+    {lista.map((e) => (
+      <a class="silo-card" href={`/motor/${e.slug}/`}>
+        <h2>{e.nome}</h2>
+        <p>{primeiraFrase(e.resumo)}</p>
+      </a>
+    ))}
+  </section>
+
+  <section class="prose" style="margin-top:var(--space-16)">
+    <h2>Por que procurar pelo motor</h2>
+    <p>
+      Uma mesma família de motor equipa carros de marcas e nomes diferentes, e o
+      defeito crônico costuma vir do projeto do motor, não do modelo. Quem descobre
+      qual propulsor está debaixo do capô encontra de uma vez o intervalo de troca
+      correto, a especificação de óleo e a lista de falhas conhecidas.
+    </p>
+    <p>
+      Procurando pelo carro em vez do motor?
+      <a href="/problemas/">Ver todos os diagnósticos por modelo →</a>
+    </p>
+  </section>
+</BaseLayout>

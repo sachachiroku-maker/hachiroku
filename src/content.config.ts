@@ -68,6 +68,26 @@ const imagemCreditada = z.object({
   licencaUrl: z.string().url().optional(),
 });
 
+/**
+ * Assinatura editorial. `nome` é `z.enum` de propósito, e não `z.string()`.
+ *
+ * O corpus chegou a ter quatro grafias em circulação (547 "Redação Hachiroku",
+ * 69 sem acento, 8 "Equipe Técnica Hachiroku" e 1 com mojibake servido ao vivo),
+ * o que produzia quatro autores distintos no JSON-LD de 624 páginas. Atribuição
+ * dividida fecha o portão 4 da citação: a máquina não sabe quem afirma.
+ *
+ * Travar aqui torna a divergência impossível de voltar por descuido: grafia fora
+ * da lista não compila. Autor nomeado no futuro entra somando à lista, numa
+ * decisão explícita, nunca por digitação em frontmatter.
+ */
+const AUTORES = ['Redação Hachiroku'] as const;
+
+const autorEditorial = z.object({
+  nome: z.enum(AUTORES),
+  credencial: z.string().optional(),      // ex: "Engenheiro mecânico"
+  sameAs: z.string().url().optional(),    // perfil próprio, quando existir
+});
+
 // SILO 1 — /problemas/{marca}/{modelo}/{defeito}/
 const problemas = defineCollection({
   loader: glob({ pattern: '**/*.md', base: './src/content/problemas' }),
@@ -98,11 +118,7 @@ const problemas = defineCollection({
       fontes: z.array(link).default([]),              // → bloco "Referências" (E-E-A-T)
 
       // --- E-E-A-T (YMYL) ---
-      autor: z.object({
-        nome: z.string(),
-        credencial: z.string().optional(),      // ex: "Engenheiro mecânico"
-        sameAs: z.string().url().optional(),    // LinkedIn
-      }),
+      autor: autorEditorial,
       pubDate: z.coerce.date(),
       updatedDate: z.coerce.date().optional(),
       disclaimer: z.string().optional(),        // YMYL — tutoriais críticos
@@ -152,10 +168,7 @@ const fichas = defineCollection({
       combustivel: z.string().default('Flex (etanol/gasolina)'),
 
       fonteDados: z.string(),                    // citação da fonte dos números
-      autor: z.object({
-        nome: z.string(),
-        credencial: z.string().optional(),
-      }).optional(),
+      autor: autorEditorial.optional(),
       pubDate: z.coerce.date(),
       updatedDate: z.coerce.date().optional(),
       faq: z.array(faqItem).default([]),
@@ -183,11 +196,7 @@ const guias = defineCollection({
         detalhe: z.string(),
         critico: z.boolean().default(false),
       })).default([]),                                       // → ItemList
-      autor: z.object({
-        nome: z.string(),
-        credencial: z.string().optional(),
-        sameAs: z.string().url().optional(),
-      }),
+      autor: autorEditorial,
       pubDate: z.coerce.date(),
       updatedDate: z.coerce.date().optional(),
       disclaimer: z.string().optional(),
@@ -215,7 +224,7 @@ const manutencao = defineCollection({
       ferramentas: z.array(z.string()).default([]),
       materiais: z.array(z.string()).default([]),
       passos: z.array(howtoStep).default([]),
-      autor: z.object({ nome: z.string(), credencial: z.string().optional(), sameAs: z.string().url().optional() }),
+      autor: autorEditorial,
       pubDate: z.coerce.date(),
       updatedDate: z.coerce.date().optional(),
       disclaimer: z.string().optional(),
@@ -239,7 +248,7 @@ const eletricos = defineCollection({
       kicker: z.string().default('VERTICAL EV · ALTA DEMANDA'),
       intencao: z.string().optional(),
       entidadesEssenciais: z.array(z.string()).default([]),
-      autor: z.object({ nome: z.string(), credencial: z.string().optional(), sameAs: z.string().url().optional() }),
+      autor: autorEditorial,
       pubDate: z.coerce.date(),
       updatedDate: z.coerce.date().optional(),
       disclaimer: z.string().optional(),
@@ -265,7 +274,7 @@ const tecnico = defineCollection({
       kicker: z.string().default('TÉCNICO · APROFUNDADO'),
       categoria: z.enum(['motor', 'transmissao', 'eletrica', 'combustivel', 'suspensao', 'outro']).default('motor'),
       entidadesEssenciais: z.array(z.string()).default([]),
-      autor: z.object({ nome: z.string(), credencial: z.string().optional(), sameAs: z.string().url().optional() }),
+      autor: autorEditorial,
       pubDate: z.coerce.date(),
       updatedDate: z.coerce.date().optional(),
       faq: z.array(faqItem).default([]),
@@ -292,7 +301,7 @@ const revisao = defineCollection({
         itens: z.array(z.string()),
       })).default([]),
       custoEstimado: z.string().optional(),
-      autor: z.object({ nome: z.string(), credencial: z.string().optional(), sameAs: z.string().url().optional() }),
+      autor: autorEditorial,
       pubDate: z.coerce.date(),
       updatedDate: z.coerce.date().optional(),
       faq: z.array(faqItem).default([]),
@@ -350,11 +359,7 @@ const preparacao = defineCollection({
       // Bloco "Referências" no fim do artigo. URL é opcional (ver `referencia`).
       fontes: z.array(referencia).default([]),
 
-      autor: z.object({
-        nome: z.string(),
-        credencial: z.string().optional(),
-        sameAs: z.string().url().optional(),
-      }),
+      autor: autorEditorial,
       pubDate: z.coerce.date(),
       updatedDate: z.coerce.date().optional(),
       faq: z.array(faqItem).default([]),

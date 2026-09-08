@@ -63,7 +63,7 @@ faq:
 relacionados:
   - { titulo: "Problemas do Honda City", url: "/problemas/honda/city/" }
 autor:
-  nome: "Redacao Hachiroku"
+  nome: "Redação Hachiroku"
 draft: false
 ---
 

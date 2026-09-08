@@ -60,9 +60,9 @@ fontes:
     url: "https://oficinabrasil.com.br/noticia/tecnicas/cambio-cvt-tudo-o-que-voce-precisa-saber"
 relacionados:
   - titulo: "CVT do Nissan Kicks com solavanco: diagnóstico e fluido correto"
-    url: "/problemas/nissan/kicks/cambio-cvt"
+    url: "/problemas/nissan/kicks/cambio-cvt/"
   - titulo: "Câmbio CVT do Honda HR-V com solavanco: causa e fluido"
-    url: "/problemas/honda/hr-v/cambio-cvt"
+    url: "/problemas/honda/hr-v/cambio-cvt/"
 afiliados:
   - produto: "Fluido câmbio CVT universal premium"
     nota: "Confirme a especificação Chery no manual antes de usar"

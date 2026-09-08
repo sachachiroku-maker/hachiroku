@@ -59,7 +59,7 @@ fontes:
     url: "https://www.abve.org.br/"
 relacionados:
   - titulo: "Ficha técnica: Volvo C40 Recharge no Brasil"
-    url: "/ficha-tecnica/volvo/c40-recharge"
+    url: "/ficha-tecnica/volvo/c40-recharge/"
   - titulo: "Problemas comuns em SUVs elétricos premium no Brasil"
     url: "/eletricos/"
 ---

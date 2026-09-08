@@ -56,7 +56,7 @@ faq:
 relacionados:
   - { titulo: "Problemas do Santa Fe", url: "/problemas/hyundai/santa-fe/" }
 autor:
-  nome: "Redacao Hachiroku"
+  nome: "Redação Hachiroku"
 draft: false
 ---
 

@@ -57,7 +57,7 @@ faq:
 relacionados:
   - { titulo: "Problemas do Haval H6", url: "/problemas/gwm/haval-h6/" }
 autor:
-  nome: "Redacao Hachiroku"
+  nome: "Redação Hachiroku"
 draft: false
 ---
 

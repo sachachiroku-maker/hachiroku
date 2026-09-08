@@ -13,7 +13,9 @@
     "check": "astro check",
     "check:wikis": "node scripts/check-wikis.mjs",
     "indexnow": "node scripts/indexnow-submit.mjs",
-    "google-index": "node scripts/google-index.mjs"
+    "google-index": "node scripts/google-index.mjs",
+    "check:links": "node scripts/check-links.mjs",
+    "check:redirects": "node scripts/check-redirects.mjs"
   },
   "dependencies": {
     "@astrojs/check": "0.9.9",

@@ -6,7 +6,7 @@ defeito: "vazamento de óleo"
 kicker: "DEFEITO CRÔNICO"
 intencao: "Diagnóstico"
 entidadesEssenciais: ["retentor do virabrequim","tampa de válvulas","cárter","vazamento de óleo","junta"]
-autor: { nome: "Equipe Técnica Hachiroku", credencial: "" }
+autor: { nome: "Redação Hachiroku", credencial: "" }
 pubDate: 2026-06-18
 updatedDate: 2026-06-18
 disclaimer: "Vazamento de óleo é assunto de segurança: óleo escorrendo sobre o escapamento quente é risco de incêndio, e motor rodando com nível baixo pode fundir. Este conteúdo é informativo. A localização exata do vazamento e o reparo devem ficar com um profissional qualificado, que limpa o motor e identifica a origem real antes de trocar qualquer peça. Faixas de preço são referências de mercado de 2025, não cotação para o seu carro."

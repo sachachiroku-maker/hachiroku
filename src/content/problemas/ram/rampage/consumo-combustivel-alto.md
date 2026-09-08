@@ -83,8 +83,8 @@ afiliados:
 relacionados:
   - titulo: "Como economizar combustível em picapes"
     url: "/manutencao/"
-  - titulo: "RAM Rampage: ficha técnica completa"
-    url: "/ficha-tecnica/ram/rampage/"
+  - titulo: "RAM Rampage Rebel 2.2 turbodiesel: ficha técnica"
+    url: "/ficha-tecnica/ram/rampage-rebel-2-2-turbodiesel/"
 
 fontes:
   - { titulo: "Qual o consumo da RAM Rampage (2024-2026)? Hurricane 4, 2.0 e 2.2 Diesel (Turbo Notícias)", url: "https://turbonoticias.com.br/consumo-da-ram-rampage/" }

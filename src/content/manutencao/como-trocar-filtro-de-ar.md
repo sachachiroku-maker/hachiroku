@@ -17,7 +17,7 @@ passos:
   - { nome: "Retire o filtro antigo e limpe a carcaça", texto: "Puxe o filtro com cuidado para não derrubar sujeira no interior da caixa. Passe um pano seco ou pincel macio na parte interna da carcaça para remover poeira solta." }
   - { nome: "Encaixe o filtro novo", texto: "Posicione o filtro novo na mesma orientação do antigo. Ele deve assentar sem forçar. Se precisar forçar, verifique se é o filtro correto para o seu modelo." }
   - { nome: "Feche a carcaça e confira a fixação", texto: "Reencaixe a tampa e trave os grampos ou reaperte os parafusos. Puxe levemente a tampa para confirmar que está bem fechada. Dê a partida e ouça se há ruído de sucção de ar por fora da caixa." }
-autor: { nome: "Equipe Técnica Hachiroku", credencial: "" }
+autor: { nome: "Redação Hachiroku", credencial: "" }
 pubDate: 2026-06-20
 updatedDate: 2026-06-20
 disclaimer: "As informações deste guia são de caráter educativo. Para modelos com caixas de filtro integradas ao sistema turbo ou com sensores de fluxo de massa de ar delicados, consulte um mecânico antes de realizar o procedimento."
@@ -30,8 +30,8 @@ afiliados:
   - { produto: "Filtro de Ar Mahle LX 2094 (Onix 1.0 Turbo)", nota: "Original Mahle, encaixe direto sem adaptação", busca: "Filtro Ar Mahle LX 2094 Onix Turbo", programa: "amazon" }
   - { produto: "Filtro de Ar Mann-Filter C 28 (HB20 1.0 / 1.6)", nota: "Alta retenção de partículas, durabilidade comprovada", busca: "Filtro Ar Mann Filter C28 HB20", programa: "amazon" }
 relacionados:
-  - { titulo: "Como trocar o filtro de combustível em carros flex", url: "/manutencao/como-trocar-filtro-de-combustivel" }
-  - { titulo: "Como verificar o nível de óleo do motor", url: "/manutencao/como-verificar-nivel-oleo-motor" }
+  - { titulo: "Como trocar o filtro de combustível em carros flex", url: "/manutencao/como-trocar-filtro-de-combustivel/" }
+  - { titulo: "Como verificar o nível de óleo do motor", url: "/manutencao/como-verificar-nivel-oleo-motor/" }
 draft: false
 ---
 

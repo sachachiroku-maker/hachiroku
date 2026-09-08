@@ -51,7 +51,7 @@ faq:
     resposta: "O Mobi tem vantagem pela carroceria menor, raio de giro reduzido e menor potência, o que facilita o aprendizado nas manobras. O HB20 também é acessível, mas é levemente maior e tem mais potência, o que pode intimidar iniciantes."
 relacionados:
   - titulo: "Melhor popular até R$ 80 mil em 2025"
-    url: "/guia-de-compra/comparativos/melhores-populares-2025"
+    url: "/guia-de-compra/comparativos/melhores-populares-2025/"
   - titulo: "HB20 1.0 Turbo: vale a pena?"
     url: "/guia-de-compra/usados/hb20-usado-vale-a-pena/"
   - titulo: "Fiat Mobi: pontos fortes e fracos"

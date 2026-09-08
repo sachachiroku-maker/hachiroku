@@ -51,9 +51,9 @@ afiliados:
     programa: "mercadoLivre"
 relacionados:
   - titulo: "T-Cross: Consumo de Óleo no 1.0 TSI — Diagnóstico e Limites"
-    url: "/problemas/volkswagen/t-cross/consumo-de-oleo"
+    url: "/problemas/volkswagen/t-cross/consumo-de-oleo/"
   - titulo: "T-Cross: Trancos e Solavancos no Câmbio AQ250 — O Que Fazer"
-    url: "/problemas/volkswagen/t-cross/cambio-aq250-trancos"
+    url: "/problemas/volkswagen/t-cross/cambio-aq250-trancos/"
 pontosChave:
   - "Sintoma: ar-condicionado que resfria mal ou para de gelar progressivamente, especialmente com calor intenso"
   - "Causa principal: O-rings das mangueiras ressecados pelas vibrações do motor 1.0 TSI de três cilindros, causando vazamento lento de gás R-134a"

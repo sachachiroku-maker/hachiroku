@@ -71,11 +71,11 @@ faq:
     resposta: "As revisões de rotina (óleo sintético, filtro de ar, filtro de cabine) ficam entre R$ 600 e R$ 1.100 na rede Toyota, dependendo do intervalo. Pastilhas dianteiras custam entre R$ 250 e R$ 450 o jogo em peças originais. O custo extra do GR Sport em relação ao XR se limita aos itens estéticos: os componentes mecânicos são os mesmos. Evite atrasar a troca do fluido do CVT, que deve ser feita a cada 40.000 a 60.000 km."
 relacionados:
   - titulo: "Toyota Hilux usada vale a pena? Guia completo de compra"
-    url: "/guia-de-compra/usados/hilux-usada-vale-a-pena"
+    url: "/guia-de-compra/usados/hilux-usada-vale-a-pena/"
   - titulo: "Jeep Compass usado vale a pena? O que verificar antes de comprar"
-    url: "/guia-de-compra/usados/compass-usado-vale-a-pena"
+    url: "/guia-de-compra/usados/compass-usado-vale-a-pena/"
   - titulo: "Honda HR-V usado vale a pena? Guia de compra por versão"
-    url: "/guia-de-compra/usados/honda-hrv-usado-vale-a-pena"
+    url: "/guia-de-compra/usados/honda-hrv-usado-vale-a-pena/"
 draft: false
 ---
 

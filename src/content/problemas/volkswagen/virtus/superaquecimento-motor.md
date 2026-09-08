@@ -71,8 +71,8 @@ afiliados:
     programa: amazon
     cta: "Ver termostato no site"
 relacionados:
-  - { titulo: "Volkswagen Virtus: consumo de óleo no motor 1.0 TSI", url: "/problemas/volkswagen/virtus/consumo-de-oleo-tsi" }
-  - { titulo: "Volkswagen Virtus: falha da bomba d'água EA211", url: "/problemas/volkswagen/virtus/bomba-agua-ea211" }
+  - { titulo: "Volkswagen Virtus: consumo de óleo no motor 1.0 TSI", url: "/problemas/volkswagen/virtus/consumo-de-oleo-tsi/" }
+  - { titulo: "Volkswagen Virtus: falha da bomba d'água EA211", url: "/problemas/volkswagen/virtus/bomba-agua-ea211/" }
 draft: false
 ---
 

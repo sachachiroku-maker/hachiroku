@@ -55,9 +55,9 @@ afiliados:
     programa: "amazon"
 relacionados:
   - titulo: "Como limpar para-brisa por dentro sem deixar marcas"
-    url: "/manutencao/como-limpar-parabrisa-por-dentro"
+    url: "/manutencao/como-limpar-parabrisa-por-dentro/"
   - titulo: "Ar-condicionado do carro: quando higienizar e como fazer"
-    url: "/manutencao/higienizacao-ar-condicionado-automotivo"
+    url: "/manutencao/higienizacao-ar-condicionado-automotivo/"
 draft: false
 ---
 

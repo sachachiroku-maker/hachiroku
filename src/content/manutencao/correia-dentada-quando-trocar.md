@@ -17,7 +17,7 @@ passos:
   - { nome: "Cheque presença de óleo ou graxa na correia", texto: "Passe o dedo na parte interna da correia (com o motor desligado). Se houver óleo, é sinal de vazamento no retentor do virabrequim ou no retentor do comando de válvulas. Óleo corrói a borracha e acelera o desgaste de forma drástica. Nesse caso, o retentor precisa ser trocado junto com o kit." }
   - { nome: "Avalie a tensão e o aspecto geral", texto: "Tente mover a correia levemente com o dedo (apenas pressionar, sem puxar com força). Uma correia extremamente flácida ou visivelmente estufada indica problema no tensor. Olhe também se ela está desalinhada em relação às polias, o que sugere desgaste ou falha no tensor hidráulico." }
   - { nome: "Compare o quilometragem com o intervalo do seu motor", texto: "Consulte a tabela de intervalos neste artigo. Se estiver no limite ou passou dele, agende a troca mesmo que a correia pareça em bom estado visualmente. A borracha degrada por dentro antes de mostrar sinais externos. Não espere o sinal de desgaste aparecer: nesse ponto, o risco já é alto." }
-autor: { nome: "Equipe Técnica Hachiroku", credencial: "" }
+autor: { nome: "Redação Hachiroku", credencial: "" }
 pubDate: 2026-06-20
 updatedDate: 2026-06-20
 disclaimer: "Este artigo orienta a inspeção visual da correia dentada por conta própria. A troca do componente exige mecânico especializado com ferramentas específicas de travamento do motor. Nunca tente trocar a correia sem o equipamento adequado: um erro de posicionamento destrói o motor."
@@ -30,8 +30,8 @@ afiliados:
   - { produto: "Kit Correia Dentada Fiat Fire 1.0/1.4 (correia + tensor + roldana + bomba)", nota: "Kit completo com impelidor metálico, padrão recomendado para Palio, Uno, Siena e Strada", busca: "kit correia dentada fiat fire 1.0 1.4 com bomba dagua", programa: "amazon" }
   - { produto: "Lanterna LED automotiva dobrável", nota: "Ideal para inspeção embaixo do capô com pouca luz natural", busca: "lanterna led dobravel inspeção automotiva", programa: "amazon" }
 relacionados:
-  - { titulo: "Como identificar vazamento de óleo no motor antes que vire problema", url: "/manutencao/vazamento-oleo-motor" }
-  - { titulo: "Filtro de óleo: quando trocar e qual marca escolher para carros populares", url: "/manutencao/filtro-oleo-quando-trocar" }
+  - { titulo: "Como identificar vazamento de óleo no motor antes que vire problema", url: "/manutencao/vazamento-oleo-motor/" }
+  - { titulo: "Filtro de óleo: quando trocar e qual marca escolher para carros populares", url: "/manutencao/filtro-oleo-quando-trocar/" }
 draft: false
 ---
 

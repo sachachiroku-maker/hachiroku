@@ -61,9 +61,9 @@ afiliados:
     cta: "Ver produto"
 relacionados:
   - titulo: "Ford Territory: Câmbio Automático Vibra ao Engrenar D ou R"
-    url: "/problemas/ford/territory/cambio-automatico-vibra"
+    url: "/problemas/ford/territory/cambio-automatico-vibra/"
   - titulo: "Ford Territory: Consumo de Combustível Alto"
-    url: "/problemas/ford/territory/consumo-combustivel-alto"
+    url: "/problemas/ford/territory/consumo-combustivel-alto/"
 pontosChave:
   - "Sintoma: tela do SYNC 4 trava, reinicia sozinha e perde conexão Bluetooth e CarPlay durante o uso"
   - "Causa: firmware desatualizado, superaquecimento do processador da central ou cabo de dados inadequado para CarPlay"

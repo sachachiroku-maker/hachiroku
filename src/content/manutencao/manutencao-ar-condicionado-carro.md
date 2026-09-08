@@ -54,11 +54,11 @@ afiliados:
     programa: "amazon"
 relacionados:
   - titulo: "Como trocar o óleo do carro: guia passo a passo"
-    url: "/manutencao/troca-de-oleo-carro"
+    url: "/manutencao/troca-de-oleo-carro/"
   - titulo: "Filtro de ar do motor: quando trocar e como fazer"
-    url: "/manutencao/filtro-de-ar-motor"
+    url: "/manutencao/filtro-de-ar-motor/"
   - titulo: "Revisão preventiva: o que verificar a cada 10.000 km"
-    url: "/manutencao/revisao-preventiva-10000km"
+    url: "/manutencao/revisao-preventiva-10000km/"
 draft: false
 ---
 

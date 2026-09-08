@@ -55,11 +55,11 @@ afiliados:
     programa: "amazon"
 relacionados:
   - titulo: "Como verificar e trocar a correia dentada: guia completo"
-    url: "/manutencao/como-trocar-correia-dentada"
+    url: "/manutencao/correia-dentada-quando-trocar/"
   - titulo: "Sinais de que o alternador está falhando"
-    url: "/manutencao/alternador-falhando-sinais"
+    url: "/manutencao/alternador-falhando-sinais/"
   - titulo: "Como checar o nível e a qualidade do fluido de arrefecimento"
-    url: "/manutencao/fluido-arrefecimento-como-checar"
+    url: "/manutencao/fluido-arrefecimento-como-checar/"
 draft: false
 ---
 

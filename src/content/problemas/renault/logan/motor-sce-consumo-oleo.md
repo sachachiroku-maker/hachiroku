@@ -68,8 +68,6 @@ relacionados:
     url: "/problemas/renault/kwid/consumo-de-oleo/"
   - titulo: "Câmbio CVT do Logan com solavanco: causas e cuidados"
     url: "/problemas/renault/logan/cambio-cvt-solavanco-utilitario/"
-  - titulo: "Ficha técnica do Renault Logan"
-    url: "/ficha-tecnica/renault/logan/"
 pontosChave:
   - "Sintoma: queda visível de nível na vareta entre revisões, luz de óleo acendendo cedo e fumaça azulada em retomadas, sem vazamento externo no chão."
   - "Causa: no motor 1.0 SCe de 3 cilindros (família B4D), o consumo costuma vir de válvula PCV entupida, retentores de válvula ressecados ou anéis de segmento desgastados deixando óleo chegar à câmara de combustão."

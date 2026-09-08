@@ -51,9 +51,9 @@ afiliados:
     programa: "mercadoLivre"
 relacionados:
   - titulo: "Jeep Commander: ar-condicionado não gela — causas e solução"
-    url: "/problemas/jeep/commander/ar-condicionado-nao-gela"
+    url: "/problemas/jeep/commander/ar-condicionado-nao-gela/"
   - titulo: "Jeep Commander: corrente de distribuição — riscos do motor 1.3 T270"
-    url: "/problemas/jeep/commander/corrente-distribuicao-t270"
+    url: "/problemas/jeep/commander/corrente-distribuicao-t270/"
 pontosChave:
   - "Sintoma: ar frio na frente e quente ou morno na terceira fileira, mesmo com ventilação no máximo"
   - "Causa: válvula de expansão traseira com defeito é o principal ponto de falha no sistema duplo do Commander"

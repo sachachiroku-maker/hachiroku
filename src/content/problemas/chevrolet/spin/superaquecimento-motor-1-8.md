@@ -77,9 +77,9 @@ fontes:
     url: "https://autoesporte.globo.com/carros/noticia/2022/08/sistema-de-arrefecimento-como-funciona-e-quando-trocar-o-fluido.ghtml"
 relacionados:
   - titulo: "Motor 1.8 E.torQ da Spin com consumo de óleo: diagnóstico completo"
-    url: "/problemas/chevrolet/spin/motor-etorq-consumo-oleo"
+    url: "/problemas/chevrolet/spin/motor-ecotec-consumo-oleo/"
   - titulo: "Transmissão automática da Spin com tranco ao trocar marcha"
-    url: "/problemas/chevrolet/spin/transmissao-automatica-tranco"
+    url: "/problemas/chevrolet/spin/transmissao-automatica-tranco/"
 draft: false
 ---
 

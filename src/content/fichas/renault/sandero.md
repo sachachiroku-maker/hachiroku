@@ -63,7 +63,7 @@ faq:
 relacionados:
   - { titulo: "Problemas do Renault Sandero", url: "/problemas/renault/sandero/" }
 autor:
-  nome: "Redacao Hachiroku"
+  nome: "Redação Hachiroku"
 draft: false
 ---
 

@@ -74,9 +74,9 @@ fontes:
     url: "https://www.autoinfotv.com.br/falhas-can-bus-modulo-central"
 relacionados:
   - titulo: "Hyundai Tucson NX4: falha e travamento da tela central AVN"
-    url: "/problemas/hyundai/tucson/sistema-eletrico-falha-display"
+    url: "/problemas/hyundai/tucson/sistema-eletrico-falha-display/"
   - titulo: "Volkswagen Taos: solavanco no câmbio DSG e falha elétrica"
-    url: "/problemas/volkswagen/taos/cambio-dsg-solavanco"
+    url: "/problemas/volkswagen/taos/cambio-dsg-solavanco/"
 ---
 
 O **Tiggo 5X Pro 1.5 TGDI** chegou ao Brasil como a aposta da Caoa Chery no segmento de SUVs compactos premium acessíveis, com a tela Caoa Smart+ como ponto central da experiência de bordo. A mesma tecnologia que diferencia o modelo no showroom é também a fonte de uma reclamação crescente entre donos: o módulo central reinicia a tela durante a condução, sem aviso e sem causa aparente.

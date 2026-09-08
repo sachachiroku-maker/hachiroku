@@ -61,7 +61,7 @@ faq:
 relacionados:
   - { titulo: "Problemas do Jeep Compass", url: "/problemas/jeep/compass/" }
 autor:
-  nome: "Redacao Hachiroku"
+  nome: "Redação Hachiroku"
 draft: false
 ---
 

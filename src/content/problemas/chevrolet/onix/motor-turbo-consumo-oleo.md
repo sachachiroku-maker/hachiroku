@@ -71,7 +71,7 @@ fontes:
 
 relacionados:
   - titulo: "Troca de óleo no Onix 1.0 Turbo: passo a passo"
-    url: "/manutencao/chevrolet/onix/troca-de-oleo-turbo"
+    url: "/manutencao/chevrolet/onix/troca-de-oleo-turbo/"
 
 asides:
   - tipo: telltale

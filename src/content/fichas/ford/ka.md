@@ -61,7 +61,7 @@ faq:
 relacionados:
   - { titulo: "Problemas do Ford Ka", url: "/problemas/ford/ka/" }
 autor:
-  nome: "Redacao Hachiroku"
+  nome: "Redação Hachiroku"
 draft: false
 ---
 

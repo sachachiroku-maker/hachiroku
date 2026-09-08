@@ -57,7 +57,7 @@ faq:
 relacionados:
   - { titulo: "Problemas do Territory", url: "/problemas/ford/territory/" }
 autor:
-  nome: "Redacao Hachiroku"
+  nome: "Redação Hachiroku"
 draft: false
 ---
 

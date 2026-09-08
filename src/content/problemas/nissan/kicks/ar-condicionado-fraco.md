@@ -63,9 +63,9 @@ afiliados:
     programa: "amazon"
 relacionados:
   - titulo: "Nissan Kicks: Problemas no Sistema Elétrico e NissanConnect"
-    url: "/problemas/nissan/kicks/sistema-eletrico-nissan-connect"
+    url: "/problemas/nissan/kicks/sistema-eletrico-nissan-connect/"
   - titulo: "Nissan Kicks: Barulho na Suspensão e Coxins"
-    url: "/problemas/nissan/kicks/suspensao-coxins"
+    url: "/problemas/nissan/kicks/suspensao-coxins/"
 pontosChave:
   - "Sintoma: ar-condicionado fraco, que sopra pouco ar ou sopra ar morno, gela bem andando e falha parado, ou perde eficiência ao longo dos meses."
   - "Causa: filtro de cabine saturado e ventilador (pouco ar), vazamento de gás pela caixa evaporadora, condensador sujo, falta de gás refrigerante ou embreagem do compressor desgastada (temperatura)."

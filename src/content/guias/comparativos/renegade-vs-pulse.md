@@ -73,9 +73,9 @@ faq:
     resposta: "O motor e o câmbio são idênticos, então o custo de revisão da mecânica é similar. A diferença aparece em peças de carroceria e eletrônicos, onde o Renegade pode sair mais caro por ter mais componentes importados. Para quem quer o menor custo de propriedade possível, o Pulse tem ligeira vantagem."
 relacionados:
   - titulo: "Chevrolet Tracker vs Jeep Renegade: qual SUV compacto faz mais sentido?"
-    url: "/guia-de-compra/comparativos/tracker-vs-renegade"
+    url: "/guia-de-compra/comparativos/tracker-vs-renegade/"
   - titulo: "Fiat Pulse usado: vale a pena comprar?"
-    url: "/guia-de-compra/usados/fiat-pulse-usado-vale-a-pena"
+    url: "/guia-de-compra/usados/fiat-pulse-usado-vale-a-pena/"
 draft: false
 ---
 

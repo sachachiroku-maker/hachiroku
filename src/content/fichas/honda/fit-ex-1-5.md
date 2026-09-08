@@ -68,7 +68,7 @@ relacionados:
   - { titulo: "Embreagem do CVT do Fit: desgaste e diagnóstico", url: "/problemas/honda/fit/embreagem-cvt-desgaste/" }
   - { titulo: "Problemas do Honda City CVT", url: "/problemas/honda/city/cambio-cvt/" }
 autor:
-  nome: "Redacao Hachiroku"
+  nome: "Redação Hachiroku"
 draft: false
 ---
 

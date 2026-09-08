@@ -74,7 +74,7 @@ relacionados:
   - { titulo: "Suspensão traseira do Oroch com barulho em estrada ruim", url: "/problemas/renault/oroch/suspensao-traseira-barulho/" }
   - { titulo: "Motor 1.6 SCe do Oroch com tendência a superaquecimento", url: "/problemas/renault/oroch/motor-superaquecimento/" }
 autor:
-  nome: "Redacao Hachiroku"
+  nome: "Redação Hachiroku"
 draft: false
 ---
 

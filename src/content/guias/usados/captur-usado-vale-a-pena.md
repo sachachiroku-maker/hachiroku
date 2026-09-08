@@ -57,9 +57,9 @@ faq:
     resposta: "Para a 1ª geração, prefira unidades com até 80.000 km e histórico de revisões em dia. Para a 2ª geração, a faixa até 50.000 km oferece mais tranquilidade. Acima disso, exija laudo de mecânico independente antes de fechar negócio."
 relacionados:
   - titulo: "Jeep Compass Usado Vale a Pena?"
-    url: "/guia-de-compra/usados/compass-usado-vale-a-pena"
+    url: "/guia-de-compra/usados/compass-usado-vale-a-pena/"
   - titulo: "Hyundai Creta Usado Vale a Pena?"
-    url: "/guia-de-compra/usados/creta-usado-vale-a-pena"
+    url: "/guia-de-compra/usados/creta-usado-vale-a-pena/"
   - titulo: "Volkswagen T-Cross Usado Vale a Pena?"
     url: "/guia-de-compra/comparativos/t-cross-vs-creta/"
 draft: false

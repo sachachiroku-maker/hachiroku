@@ -51,7 +51,7 @@ faq:
     resposta: "Historicamente o L200 Triton mantém valor de revenda competitivo por ter maior base de compradores e custo de manutenção menor. A Frontier Nova Geração ainda está consolidando histórico no mercado de usados desde o lançamento em 2022."
 relacionados:
   - titulo: "Toyota Hilux vs L200 Triton: Qual Picape Resiste Mais?"
-    url: "/guia-de-compra/comparativos/hilux-vs-l200-triton"
+    url: "/guia-de-compra/comparativos/hilux-vs-l200-triton/"
   - titulo: "Nissan Frontier: Guia Completo de Revisão e Manutenção"
     url: "/revisao/"
   - titulo: "Melhor Picape Diesel Média de 2025: Ranking Completo"

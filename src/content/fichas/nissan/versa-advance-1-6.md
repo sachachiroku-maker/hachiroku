@@ -67,7 +67,7 @@ relacionados:
   - { titulo: "Evaporador do ar-condicionado do Versa com cheiro e vazamento", url: "/problemas/nissan/versa/ar-condicionado-evaporador/" }
   - { titulo: "Ficha técnica do Nissan Kicks 1.6 CVT", url: "/ficha-tecnica/nissan/kicks/" }
 autor:
-  nome: "Redacao Hachiroku"
+  nome: "Redação Hachiroku"
 draft: false
 ---
 

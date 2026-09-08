@@ -60,7 +60,7 @@ faq:
 relacionados:
   - { titulo: "Problemas do Fiat Pulse", url: "/problemas/fiat/pulse/" }
 autor:
-  nome: "Redacao Hachiroku"
+  nome: "Redação Hachiroku"
 draft: false
 ---
 

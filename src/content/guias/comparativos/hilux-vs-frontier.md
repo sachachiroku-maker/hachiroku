@@ -75,11 +75,11 @@ faq:
     resposta: "A Toyota Hilux historicamente apresenta maior valor de revenda no mercado brasileiro de seminovos. A demanda por Hilux usada é consistente em todo o território nacional, inclusive no interior, o que sustenta os preços na tabela Fipe. A Frontier tem revenda menor, com depreciação mais acentuada nas versões de entrada. Para quem planeja vender em 3 a 5 anos, a diferença de valor residual pode ser considerável a favor da Hilux."
 relacionados:
   - titulo: "Toyota Hilux vs Ford Ranger: qual picape líder comprar"
-    url: "/guia-de-compra/comparativos/hilux-vs-ranger"
+    url: "/guia-de-compra/comparativos/hilux-vs-ranger/"
   - titulo: "L200 Triton vs Frontier: comparativo completo"
-    url: "/guia-de-compra/comparativos/l200-triton-vs-frontier"
+    url: "/guia-de-compra/comparativos/l200-triton-vs-frontier/"
   - titulo: "Ford Ranger vs Hilux: análise técnica detalhada"
-    url: "/guia-de-compra/comparativos/ford-ranger-vs-hilux"
+    url: "/guia-de-compra/comparativos/ford-ranger-vs-hilux/"
 draft: false
 ---
 

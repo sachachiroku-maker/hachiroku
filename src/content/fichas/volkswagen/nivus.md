@@ -63,7 +63,7 @@ faq:
 relacionados:
   - { titulo: "Problemas do VW Nivus", url: "/problemas/volkswagen/nivus/" }
 autor:
-  nome: "Redacao Hachiroku"
+  nome: "Redação Hachiroku"
 draft: false
 ---
 

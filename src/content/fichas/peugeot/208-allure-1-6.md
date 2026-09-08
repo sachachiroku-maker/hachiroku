@@ -65,7 +65,7 @@ relacionados:
   - { titulo: "Motor do Peugeot 208 com farfalhado na tampa de balancins", url: "/problemas/peugeot/208/motor-farfalhado-calota-balancim/" }
   - { titulo: "Câmbio automático do Peugeot 208 com solavanco", url: "/problemas/peugeot/208/cambio-automatico-solavanco/" }
 autor:
-  nome: "Redacao Hachiroku"
+  nome: "Redação Hachiroku"
 draft: false
 ---
 

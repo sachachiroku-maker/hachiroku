@@ -51,9 +51,9 @@ afiliados:
     programa: "mercadoLivre"
 relacionados:
   - titulo: "Hyundai Tucson: Câmbio 7DCT com Trancos — Diagnóstico Completo"
-    url: "/problemas/hyundai/tucson/cambio-7dct-trancos"
+    url: "/problemas/hyundai/tucson/cambio-7dct-trancos/"
   - titulo: "Hyundai Tucson: Motor Turbo com Consumo Excessivo de Óleo"
-    url: "/problemas/hyundai/tucson/motor-turbo-consumo-oleo"
+    url: "/problemas/hyundai/tucson/motor-turbo-consumo-oleo/"
 pontosChave:
   - "Sintoma: A/C sopra quente ou morno mesmo no modo automático com temperatura na menor posição"
   - "Causa: Sensor de temperatura de cabine com defeito enganando a central climática"

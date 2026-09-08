@@ -78,11 +78,11 @@ faq:
     resposta: "O HR-V tem histórico de revenda mais consolidado no Brasil. O WR-V na configuração atual é mais recente, e seu valor de revenda ainda não tem série histórica longa. Em termos de marca e percepção de mercado, o HR-V tende a reter valor com mais previsibilidade no curto prazo."
 relacionados:
   - titulo: "Honda HR-V vs Volkswagen T-Cross: qual SUV compacto vale mais?"
-    url: "/guia-de-compra/comparativos/hr-v-vs-t-cross"
+    url: "/guia-de-compra/comparativos/hr-v-vs-t-cross/"
   - titulo: "Nissan Kicks vs Hyundai Creta: comparativo completo"
-    url: "/guia-de-compra/comparativos/kicks-vs-creta"
+    url: "/guia-de-compra/comparativos/kicks-vs-creta/"
   - titulo: "Toyota Corolla Cross vs Honda HR-V"
-    url: "/guia-de-compra/comparativos/corolla-cross-vs-hr-v"
+    url: "/guia-de-compra/comparativos/corolla-cross-vs-hr-v/"
 draft: false
 ---
 

@@ -63,7 +63,7 @@ faq:
 relacionados:
   - { titulo: "Problemas do Fiat Mobi", url: "/problemas/fiat/mobi/" }
 autor:
-  nome: "Redacao Hachiroku"
+  nome: "Redação Hachiroku"
 draft: false
 ---
 

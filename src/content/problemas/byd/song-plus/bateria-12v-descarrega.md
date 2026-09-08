@@ -51,9 +51,9 @@ afiliados:
     programa: "mercadoLivre"
 relacionados:
   - titulo: "Toyota Yaris: Bateria Fraca Descarrega — Diagnóstico"
-    url: "/problemas/toyota/yaris/bateria-fraca-descarrega"
+    url: "/problemas/toyota/yaris/bateria-fraca-descarrega/"
   - titulo: "Renault Sandero: Bateria Descarrega — Corrente de Fuga"
-    url: "/problemas/renault/sandero/bateria-fraca-descarrega"
+    url: "/problemas/renault/sandero/bateria-fraca-descarrega/"
 pontosChave:
   - "Sintoma: BYD Song Plus DM-i não dá partida após ficar parado por 2 a 5 dias, central multimídia não inicializa ou aparece mensagem de sistema elétrico fraco"
   - "Causa: corrente de fuga de módulos eletrônicos acima de 50 mA, falha no DC-DC converter ou bateria de 12V envelhecida com capacidade abaixo de 70%"

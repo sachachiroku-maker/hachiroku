@@ -3,6 +3,7 @@ import { defineConfig } from 'astro/config';
 import sitemap from '@astrojs/sitemap';
 import fs from 'node:fs';
 import path from 'node:path';
+import { execFileSync } from 'node:child_process';
 
 const SITE = 'https://hachiroku.com.br';
 
@@ -26,6 +27,9 @@ function buildLastmodMap() {
     { dir: 'guias',      prefix: '/guia-de-compra/' },
     { dir: 'manutencao', prefix: '/manutencao/' },
     { dir: 'eletricos',  prefix: '/eletricos/' },
+    { dir: 'tecnico',    prefix: '/tecnico/' },
+    { dir: 'revisao',    prefix: '/revisao/' },
+    { dir: 'preparacao', prefix: '/preparacao/' },
   ];
   for (const { dir, prefix } of cols) {
     walkDir(path.join(base, dir), (file) => {
@@ -37,13 +41,88 @@ function buildLastmodMap() {
       const slug = path.relative(path.join(base, dir), file)
         .replace(/\\/g, '/')
         .replace(/\.mdx?$/, '');
-      map.set(`${SITE}${prefix}${slug}/`, d);
+      // Astro minúsculiza o slug (há arquivo consumo-oleo-L15B.md servindo
+      // /consumo-oleo-l15b/), então a chave do mapa acompanha.
+      map.set(`${SITE}${prefix}${slug}/`.toLowerCase(), d);
     });
   }
+  // Hubs de modelo (/problemas/{marca}/{modelo}/) não têm arquivo próprio: a página
+  // agrega os diagnósticos daquele carro. A data honesta é a do diagnóstico mais
+  // recente que ela lista, e não a do build.
+  const porModelo = new Map();
+  walkDir(path.join(base, 'problemas'), (file) => {
+    if (!/\.mdx?$/.test(file)) return;
+    const txt = fs.readFileSync(file, 'utf8');
+    const d = (txt.match(/^updatedDate:\s*(\d{4}-\d{2}-\d{2})/m)
+           ?? txt.match(/^pubDate:\s*(\d{4}-\d{2}-\d{2})/m))?.[1];
+    if (!d) return;
+    const partes = path.relative(path.join(base, 'problemas'), file).split(path.sep);
+
+    if (partes.length < 3) return;                 // precisa de marca/modelo/arquivo
+    const hub = `${SITE}/problemas/${partes[0]}/${partes[1]}/`;
+    const atual = porModelo.get(hub);
+    if (!atual || d > atual) porModelo.set(hub, d);
+  });
+  for (const [hub, d] of porModelo) if (!map.has(hub)) map.set(hub, d);
+
   return map;
 }
 
 const lastmodMap = buildLastmodMap();
+
+/**
+ * lastmod das páginas que não vêm de content collection.
+ *
+ * O fallback anterior era `new Date()`, o que carimbava a data do build em 163 das
+ * 760 URLs, incluindo a home, /sobre/, /equipe/ e todos os hubs de entidade. O
+ * sitemap afirmava que a página tinha mudado naquele dia sempre que o site subia,
+ * enquanto o Google não voltava a /sobre/ desde 2026-08-02. Pedir recrawl com um
+ * sinal de frescor que o site vinha emitindo falsamente é o oposto do trabalho de
+ * identidade que o resto deste repositório está fazendo.
+ *
+ * Agora a data vem do git, do arquivo que de fato gera a página. Onde o git não
+ * responde (clone raso de CI, por exemplo), a propriedade é OMITIDA: sitemap sem
+ * lastmod é honesto, sitemap com data inventada não é.
+ */
+/** @type {Map<string, string|null>} */
+const gitDateCache = new Map();
+/** @param {string} file @returns {string|null} */
+function gitDate(file) {
+  if (gitDateCache.has(file)) return gitDateCache.get(file) ?? null;
+  let out = null;
+  try {
+    if (fs.existsSync(file)) {
+      const r = execFileSync('git', ['log', '-1', '--format=%cs', '--', file], {
+        encoding: 'utf8', stdio: ['ignore', 'pipe', 'ignore'],
+      }).trim();
+      if (/^\d{4}-\d{2}-\d{2}$/.test(r)) out = r;
+    }
+  } catch {
+    out = null;   // git indisponível: omite, nunca inventa
+  }
+  gitDateCache.set(file, out);
+  return out;
+}
+
+/**
+ * Arquivo-fonte de uma URL que não é de content collection. Página estática mora
+ * em src/pages/<caminho>/index.astro; hub de entidade é gerado a partir da lib que
+ * declara a entidade, então é a lib que datar.
+ * @param {string} url @returns {string|null}
+ */
+function fonteDaUrl(url) {
+  const rota = url.replace(SITE, '').replace(/^\/|\/$/g, '');
+  if (rota === '') return 'src/pages/index.astro';
+  if (/^motor\/.+/.test(rota) || /^tecnologia\/.+/.test(rota)) return 'src/lib/entidades.ts';
+  if (/^marca\/.+/.test(rota))   return 'src/lib/marcas.ts';
+  if (/^sistema\/.+/.test(rota)) return 'src/lib/sistemas.ts';
+  const candidatos = [
+    `src/pages/${rota}/index.astro`,
+    `src/pages/${rota}.astro`,
+  ];
+  return candidatos.find((c) => fs.existsSync(c)) ?? null;
+}
+
 
 export default defineConfig({
   site: SITE,
@@ -55,7 +134,15 @@ export default defineConfig({
     sitemap({
       filter: (page) => !page.includes('/busca/'),
       serialize(item) {
-        item.lastmod = lastmodMap.get(item.url) ?? new Date().toISOString().slice(0, 10);
+        const doFrontmatter = lastmodMap.get(item.url.toLowerCase());
+        if (doFrontmatter) {
+          item.lastmod = doFrontmatter;
+        } else {
+          const fonte = fonteDaUrl(item.url);
+          const d = fonte ? gitDate(fonte) : null;
+          if (d) item.lastmod = d;
+          else delete item.lastmod;
+        }
         if (item.url.includes('/problemas/')) item.priority = 0.9;
         else if (item.url.includes('/guia-de-compra/')) item.priority = 0.8;
         else if (item.url.includes('/eletricos/')) item.priority = 0.8;

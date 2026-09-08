@@ -72,9 +72,9 @@ fontes:
     url: "https://www.obd-codes.com/p0141"
 relacionados:
   - titulo: "Câmbio CVT do Nissan Kicks: sintomas, manutenção e o erro que custa caro"
-    url: "/problemas/nissan/kicks/cambio-cvt"
+    url: "/problemas/nissan/kicks/cambio-cvt/"
   - titulo: "Suspensão e coxins do Nissan Kicks: barulhos, desgaste e o que verificar"
-    url: "/problemas/nissan/kicks/suspensao-coxins"
+    url: "/problemas/nissan/kicks/suspensao-coxins/"
 draft: false
 ---
 

@@ -78,11 +78,11 @@ faq:
     resposta: "A Rampage é uma picape de uso misto, mais adequada para trabalho leve e uso urbano do que para cargas pesadas constantes. Para uso intenso em fazenda, reboque frequente acima de uma tonelada ou trilha off-road severa, picapes com motor diesel e tração 4x4 real, como Hilux ou Ranger, são mais indicadas. A Rampage se destaca no equilíbrio entre praticidade de picape e conforto de SUV urbano."
 relacionados:
   - titulo: "Fiat Strada usada: vale a pena?"
-    url: "/guia-de-compra/usados/strada-usada-vale-a-pena"
+    url: "/guia-de-compra/usados/strada-usada-vale-a-pena/"
   - titulo: "Toyota Hilux usada: vale a pena?"
-    url: "/guia-de-compra/usados/hilux-usada-vale-a-pena"
+    url: "/guia-de-compra/usados/hilux-usada-vale-a-pena/"
   - titulo: "Ford Ranger usada: vale a pena?"
-    url: "/guia-de-compra/usados/ranger-usada-vale-a-pena"
+    url: "/guia-de-compra/usados/ranger-usada-vale-a-pena/"
 draft: false
 ---
 

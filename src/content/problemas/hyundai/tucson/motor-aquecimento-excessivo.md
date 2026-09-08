@@ -75,11 +75,11 @@ faq:
     resposta: "Não há um recall oficial da Hyundai Brasil sobre a bomba d'água do 1.6 T-GDi até a data de publicação deste artigo. Porém, relatos em fóruns e comunidades de proprietários indicam que vazamentos mínimos na bomba começam a aparecer a partir dos 80.000 km em veículos com histórico de uso urbano intenso e trocas de arrefecimento atrasadas. A manutenção preventiva no prazo correto é o principal fator de prevenção."
 relacionados:
   - titulo: "Hyundai Tucson: Câmbio 7DCT com Trancos — Diagnóstico Completo"
-    url: "/problemas/hyundai/tucson/cambio-7dct-trancos"
+    url: "/problemas/hyundai/tucson/cambio-7dct-trancos/"
   - titulo: "Hyundai Tucson: Motor Turbo com Consumo Excessivo de Óleo"
-    url: "/problemas/hyundai/tucson/motor-turbo-consumo-oleo"
+    url: "/problemas/hyundai/tucson/motor-turbo-consumo-oleo/"
   - titulo: "Hyundai Tucson: Falha no Display e Sistema Elétrico"
-    url: "/problemas/hyundai/tucson/sistema-eletrico-falha-display"
+    url: "/problemas/hyundai/tucson/sistema-eletrico-falha-display/"
 fontes:
   - { titulo: "Hyundai Tucson NX4 — Manual do Proprietário 2022-2025", url: "https://www.hyundai.com.br/servicos/manuais" }
   - { titulo: "SAE International — Cooling System Design for Turbocharged GDI Engines", url: "https://www.sae.org" }

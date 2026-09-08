@@ -74,9 +74,9 @@ fontes:
     url: "https://www.carroclub.com.br/carros/honda/civic/forum/?categ=Ar+Condicionado"
 relacionados:
   - titulo: "Consumo de óleo alto no Civic 1.5 Turbo: diagnóstico e causas"
-    url: "/problemas/honda/civic/consumo-de-oleo-turbo"
+    url: "/problemas/honda/civic/consumo-de-oleo-turbo/"
   - titulo: "Solavanco no câmbio CVT do Civic: fluido ATF-DW1 e diagnóstico"
-    url: "/problemas/honda/civic/cambio-cvt-solavanco"
+    url: "/problemas/honda/civic/cambio-cvt-solavanco/"
 draft: false
 ---
 

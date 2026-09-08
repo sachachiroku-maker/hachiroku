@@ -57,9 +57,9 @@ afiliados:
     programa: "mercadoLivre"
 relacionados:
   - titulo: "Chevrolet Cruze 1.4 Turbo Consome Óleo Demais: O Que Fazer"
-    url: "/problemas/chevrolet/cruze/consumo-oleo-1-4-turbo"
+    url: "/problemas/chevrolet/cruze/consumo-oleo-1-4-turbo/"
   - titulo: "Câmbio Automático do Cruze com Trancos: Diagnóstico e Solução"
-    url: "/problemas/chevrolet/cruze/cambio-automatico-trancos"
+    url: "/problemas/chevrolet/cruze/cambio-automatico-trancos/"
 pontosChave:
   - "Sintoma: ar sopra morno ou quente mesmo no máximo, ou gela parado e corta no trânsito."
   - "Causa: filtro de cabine saturado, condensador sujo, eletroventilador ou sensor de temperatura, vazamento de R134a, embreagem do compressor ou servo-motor do Dual Zone."

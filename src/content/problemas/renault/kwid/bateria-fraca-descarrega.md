@@ -50,9 +50,9 @@ afiliados:
     programa: "mercadoLivre"
 relacionados:
   - titulo: "Kwid com Ar-condicionado que Não Gela: Diagnóstico"
-    url: "/problemas/renault/kwid/ar-condicionado-nao-gela"
+    url: "/problemas/renault/kwid/ar-condicionado-nao-gela/"
   - titulo: "Kwid com Consumo de Óleo Excessivo: Como Diagnosticar"
-    url: "/problemas/renault/kwid/consumo-de-oleo"
+    url: "/problemas/renault/kwid/consumo-de-oleo/"
 pontosChave:
   - "Sintoma: motor não pega após o carro ficar parado por horas ou dias, ou bateria descarrega frequentemente sem causa aparente"
   - "Causa: corrente de fuga (parasita elétrico) acima de 20 mA com carro desligado, agravada pelo banco de bateria pequeno de 36Ah e pelo alternador de baixa capacidade"

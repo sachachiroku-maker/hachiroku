@@ -57,7 +57,7 @@ faq:
 relacionados:
   - { titulo: "Problemas da Saveiro", url: "/problemas/volkswagen/saveiro/" }
 autor:
-  nome: "Redacao Hachiroku"
+  nome: "Redação Hachiroku"
 draft: false
 ---
 

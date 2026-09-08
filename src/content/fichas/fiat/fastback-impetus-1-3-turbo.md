@@ -67,7 +67,7 @@ relacionados:
   - { titulo: "Suspensão traseira do Fastback com barulho: causas e custo", url: "/problemas/fiat/fastback/suspensao-traseira-barulho/" }
   - { titulo: "Ficha técnica do Fiat Pulse Abarth 1.3 Turbo", url: "/ficha-tecnica/fiat/pulse-audace-1-0-turbo/" }
 autor:
-  nome: "Redacao Hachiroku"
+  nome: "Redação Hachiroku"
 draft: false
 ---
 

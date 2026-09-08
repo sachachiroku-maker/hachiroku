@@ -62,7 +62,7 @@ faq:
   - pergunta: "Quando trocar o fluido do CVT do Logan?"
     resposta: "A Renault recomenda inspeção do fluido CVT a cada 60 mil km, mas mecânicos especializados indicam troca a cada 40 mil km para uso intenso e 60 mil km para uso particular. O fluido correto é o Renault CVT JWS 3320, e usar fluido genérico pode danificar as polias metálicas e a correia interna do Jatco X-Tronic."
 autor:
-  nome: "Redacao Hachiroku"
+  nome: "Redação Hachiroku"
 draft: false
 ---
 

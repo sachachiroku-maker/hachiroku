@@ -26,9 +26,9 @@ faq:
     resposta: "Não existe troca periódica programada. A bateria LFP (lítio-ferro-fosfato) é mais resistente a ciclos do que as baterias NMC convencionais. A BYD garante o conjunto por 8 anos ou 160.000 km para manutenção de pelo menos 70% da capacidade original."
 relacionados:
   - titulo: "BYD Song Plus: o SUV híbrido plug-in da BYD no Brasil"
-    url: "/eletricos/byd/song-plus"
+    url: "/eletricos/byd/song-plus/"
   - titulo: "Como instalar wallbox em casa: guia completo para carregamento doméstico"
-    url: "/eletricos/wallbox-instalacao-em-casa"
+    url: "/eletricos/wallbox-instalacao-em-casa/"
 draft: false
 ---
 

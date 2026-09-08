@@ -51,9 +51,9 @@ afiliados:
     programa: "mercadoLivre"
 relacionados:
   - titulo: "Consumo alto no Santa Fe 3.5 V6: por que o V6 bebe mais que o esperado"
-    url: "/problemas/hyundai/santa-fe/consumo-combustivel-v6"
+    url: "/problemas/hyundai/santa-fe/consumo-combustivel-v6/"
   - titulo: "Barulho na suspensão traseira do Santa Fe: diagnóstico dos braços e buchas"
-    url: "/problemas/hyundai/santa-fe/suspensao-traseira-barulho"
+    url: "/problemas/hyundai/santa-fe/suspensao-traseira-barulho/"
 pontosChave:
   - "Sintoma: ar gelado insuficiente mesmo com A/C no máximo, especialmente com 5 a 7 passageiros ou em dias de muito sol"
   - "Causa: condensador entupido por detritos, queda de carga de R134a por microvazamento, filtro de cabine saturado ou embreagem do compressor com folga"

@@ -51,9 +51,9 @@ afiliados:
     programa: "mercadoLivre"
 relacionados:
   - titulo: "Volkswagen Nivus: Cheiro de Fungo no Ar-Condicionado"
-    url: "/problemas/volkswagen/nivus/ar-condicionado-cheiro-fungo"
+    url: "/problemas/volkswagen/nivus/ar-condicionado-cheiro-fungo/"
   - titulo: "Volkswagen Nivus: Vibração Excessiva do Motor 3 Cilindros"
-    url: "/problemas/volkswagen/nivus/motor-3-cilindros-vibracao"
+    url: "/problemas/volkswagen/nivus/motor-3-cilindros-vibracao/"
 pontosChave:
   - "Sintoma: Ar-condicionado que não resfria ou resfria muito pouco, mesmo no máximo"
   - "Causa: Filtro de cabine entupido, fuga de gás R134a, embreagem do compressor com defeito ou condensador sujo"

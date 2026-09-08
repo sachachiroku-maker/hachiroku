@@ -21,7 +21,7 @@ passos:
   - { nome: "Sangre o fluido em cada roda", texto: "Localize o parafuso de purga no cilindro de roda (traseiro) ou na pinça (dianteiro). Encaixe a mangueira transparente na ponta do parafuso e mergulhe a outra ponta no recipiente com um pouco de fluido velho no fundo (isso evita que entre ar). Com um ajudante, afrouxe o parafuso 1/4 de volta, peça para pressionar o pedal até o fundo e manter pressionado. Aperte o parafuso. Peça para soltar o pedal. Repita 4 a 6 vezes por roda, até ver fluido limpo e sem bolhas saindo pela mangueira. Complete o reservatório com DOT 4 novo após cada roda." }
   - { nome: "Repita nas demais rodas e acompanhe o nível", texto: "Após a traseira direita, siga para traseira esquerda, dianteiro direito e dianteiro esquerdo. A cada troca de roda, verifique o nível do reservatório antes de continuar. Se o nível cair demais e entrar ar no sistema, você terá que recomeçar. Nunca deixe o reservatório esvaziar completamente durante a sangria." }
   - { nome: "Finalize, teste o pedal e descarte o fluido velho", texto: "Com as quatro rodas sangradas, complete o reservatório até a marca MAX. Feche bem a tampa. Dentro do carro, pressione o pedal várias vezes: ele deve ficar firme, sem ceder ou afundar lentamente. Se ainda estiver esponjoso, há ar no sistema e a sangria precisa ser repetida. O fluido velho é resíduo tóxico. Leve ao posto de coleta ou à própria oficina para descarte correto." }
-autor: { nome: "Equipe Técnica Hachiroku", credencial: "" }
+autor: { nome: "Redação Hachiroku", credencial: "" }
 pubDate: 2026-06-20
 updatedDate: 2026-06-20
 disclaimer: "Este guia é informativo. A troca do fluido de freio envolve segurança crítica do veículo. Se tiver dúvida em qualquer etapa, leve o carro a uma oficina de confiança. O Hachiroku não se responsabiliza por danos decorrentes da aplicação incorreta deste procedimento."
@@ -34,8 +34,8 @@ afiliados:
   - { produto: "Fluido de Freio DOT 4 Bosch (500mL)", nota: "Padrão recomendado para Onix, HB20, Argo e similares. Ponto de ebulição seco 260°C.", busca: "fluido de freio DOT 4 Bosch 500ml", programa: "amazon" }
   - { produto: "Kit de Sangria de Freio por Vácuo", nota: "Permite fazer a sangria sozinho, sem ajudante. Inclui mangueira, recipiente e adaptadores.", busca: "kit sangria freio vacuo manual", programa: "amazon" }
 relacionados:
-  - { titulo: "Como verificar pastilhas de freio sem tirar a roda", url: "/manutencao/verificar-pastilhas-de-freio" }
-  - { titulo: "Freio traseiro a tambor: quando substituir o fluido interno", url: "/manutencao/freio-tambor-manutencao" }
+  - { titulo: "Como verificar pastilhas de freio sem tirar a roda", url: "/manutencao/verificar-pastilhas-de-freio/" }
+  - { titulo: "Freio traseiro a tambor: quando substituir o fluido interno", url: "/manutencao/freio-tambor-manutencao/" }
 draft: false
 ---
 

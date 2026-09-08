@@ -63,12 +63,8 @@ fontes:
   - { titulo: "Manutenção do motor B4D LS 1.0 3-cilindros do Renault Kwid (Revista O Mecânico)", url: "https://omecanico.com.br/manutencao-do-motor-b4d-ls-1-0-3-renault-kwid-parte2/" }
   - { titulo: "Corrente de comando do Renault Kwid: precisa trocar? Quanto custa? (Turbo Notícias)", url: "https://turbonoticias.com.br/corrente-de-comando-renault-kwid-precisa-trocar-custo/" }
 relacionados:
-  - titulo: "Ficha técnica do Renault Logan"
-    url: "/ficha-tecnica/renault/logan/"
-  - titulo: "Renault Logan usado vale a pena? O que verificar antes de comprar"
-    url: "/guia-de-compra/usados/logan-usado-vale-a-pena/"
-  - titulo: "Como trocar o óleo do Logan SCe na especificação certa"
-    url: "/manutencao/troca-de-oleo-logan-sce/"
+  - titulo: "Como trocar o óleo do motor na especificação certa"
+    url: "/manutencao/como-trocar-oleo-motor/"
 draft: false
 ---
 

@@ -68,7 +68,7 @@ faq:
 relacionados:
   - { titulo: "Problemas do Fiat Fastback", url: "/problemas/fiat/fastback/" }
 autor:
-  nome: "Redacao Hachiroku"
+  nome: "Redação Hachiroku"
 draft: false
 ---
 

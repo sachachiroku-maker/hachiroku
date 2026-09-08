@@ -65,7 +65,7 @@ relacionados:
   - { titulo: "Problemas do Fiat Argo", url: "/problemas/fiat/argo/" }
   - { titulo: "Guia de compra de carros usados", url: "/guia-de-compra/" }
 autor:
-  nome: "Redacao Hachiroku"
+  nome: "Redação Hachiroku"
 draft: false
 ---
 

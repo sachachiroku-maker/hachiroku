@@ -57,7 +57,7 @@ faq:
 relacionados:
   - { titulo: "Problemas do Fox", url: "/problemas/volkswagen/fox/" }
 autor:
-  nome: "Redacao Hachiroku"
+  nome: "Redação Hachiroku"
 draft: false
 ---
 

@@ -56,9 +56,9 @@ faq:
     resposta: "Os dois sustentam bem o valor. O T-Cross tem leve vantagem histórica pela força da marca VW no mercado de usados. O Creta 2.0 também revende bem, mas os 1.0T costumam ter descontos maiores por conta das ressalvas de consumo de óleo."
 relacionados:
   - titulo: "Tracker vs Creta: qual SUV da GM briga de igual com a Hyundai?"
-    url: "/guia-de-compra/comparativos/tracker-vs-creta"
+    url: "/guia-de-compra/comparativos/tracker-vs-creta/"
   - titulo: "Jeep Renegade vs VW T-Cross: SUV americano ou alemão?"
-    url: "/guia-de-compra/comparativos/renegade-vs-compass"
+    url: "/guia-de-compra/comparativos/renegade-vs-compass/"
 draft: false
 ---
 

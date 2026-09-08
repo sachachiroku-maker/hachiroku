@@ -51,9 +51,9 @@ faq:
     resposta: "Use um scanner OBD2 em ambos antes de fechar negócio. No Argo, verifique o câmbio automático em versões pré-2021 (câmbio GSR com histórico de problemas). No HB20 automático, teste trancos em manobras lentas e peça histórico de software do câmbio."
 relacionados:
   - titulo: "Onix vs HB20: Qual Popular Vence no Custo-Benefício?"
-    url: "/guia-de-compra/comparativos/onix-vs-hb20"
+    url: "/guia-de-compra/comparativos/onix-vs-hb20/"
   - titulo: "Polo vs Virtus: Qual Volkswagen Popular Escolher?"
-    url: "/guia-de-compra/comparativos/polo-vs-virtus"
+    url: "/guia-de-compra/comparativos/polo-vs-virtus/"
 draft: false
 ---
 

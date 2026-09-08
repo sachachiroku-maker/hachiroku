@@ -74,9 +74,9 @@ fontes:
     url: "https://www.reclameaqui.com.br/empresa/ford/"
 relacionados:
   - titulo: "Ford Ranger NextGen: DPF entupido no diesel"
-    url: "/problemas/ford/ranger/dpf-filtro-particulas-entupimento"
+    url: "/problemas/ford/ranger/dpf-filtro-particulas-entupimento/"
   - titulo: "Ford Ranger NextGen: trepidação no motor diesel"
-    url: "/problemas/ford/ranger/motor-diesel-trepidacao"
+    url: "/problemas/ford/ranger/motor-diesel-trepidacao/"
 draft: false
 ---
 

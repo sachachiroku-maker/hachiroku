@@ -51,9 +51,9 @@ afiliados:
     programa: "mercadoLivre"
 relacionados:
   - titulo: "Fiat Cronos: Vazamento de Óleo pelo Respiro do Motor"
-    url: "/problemas/fiat/cronos/vazamento-de-oleo-respiro"
+    url: "/problemas/fiat/cronos/vazamento-de-oleo-respiro/"
   - titulo: "Fiat Cronos: Sensor Lambda e Falha de Combustível"
-    url: "/problemas/fiat/cronos/sensor-lambda-sonda"
+    url: "/problemas/fiat/cronos/sensor-lambda-sonda/"
 pontosChave:
   - "Sintoma: estralo ou batida na dianteira ao virar o volante ou passar em lombadas"
   - "Causa: bieleta estabilizadora desgastada, coxim amortecedor trincado ou bucha de bandeja ressecada"

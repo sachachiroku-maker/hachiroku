@@ -57,11 +57,11 @@ faq:
     resposta: "Depende da prioridade. O Taos entrega acabamento interno superior e dinâmica mais refinada. O Compass tem mais espaço de carga e opções de motor (incluindo turbodiesel em versões mais antigas). Ambos exigem inspeção criteriosa, mas o DSG do Taos pede mais atenção que o câmbio do Compass."
 relacionados:
   - titulo: "Volkswagen Polo usado: vale a pena?"
-    url: "/guia-de-compra/usados/polo-usado-vale-a-pena"
+    url: "/guia-de-compra/usados/polo-usado-vale-a-pena/"
   - titulo: "Jeep Compass usado: vale a pena?"
-    url: "/guia-de-compra/usados/compass-usado-vale-a-pena"
+    url: "/guia-de-compra/usados/compass-usado-vale-a-pena/"
   - titulo: "Jeep Renegade usado: vale a pena?"
-    url: "/guia-de-compra/usados/argo-usado-vale-a-pena"
+    url: "/guia-de-compra/usados/argo-usado-vale-a-pena/"
 draft: false
 ---
 

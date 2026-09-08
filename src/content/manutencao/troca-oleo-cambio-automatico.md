@@ -21,7 +21,7 @@ passos:
   - { nome: "Substitua a arruela e reinstale o plug", texto: "Troque sempre a arruela de vedação do plug. Uma arruela reutilizada pode gotejar depois. Aperte o plug com torquímetro conforme especificação do fabricante (normalmente 20 a 35 Nm). Aperto excessivo deforma a rosca do cárter, e o reparo é caro." }
   - { nome: "Abasteça com fluido novo pela tubulação de nível ou pela vareta", texto: "Localize a vareta do câmbio (nem todos os modelos têm vareta acessível; no Onix AT e no HB20 AT ela fica no compartimento do motor). Use o funil e adicione o fluido aos poucos. Para câmbios com 5 a 6 litros de capacidade total, a troca parcial (só o que drena) costuma trocar 3 a 4 litros. Adicione a mesma quantidade que saiu." }
   - { nome: "Verifique o nível com o motor ligado em temperatura", texto: "Ligue o motor e, com o freio de mão acionado, percorra todas as posições do seletor (P-R-N-D-2-1) lentamente. Aguarde o câmbio atingir a temperatura de operação e verifique o nível pela vareta ou pelo plug de nível (dependendo do modelo). Corrija se necessário. Faça um test drive curto e verifique por vazamentos." }
-autor: { nome: "Equipe Técnica Hachiroku", credencial: "" }
+autor: { nome: "Redação Hachiroku", credencial: "" }
 pubDate: 2026-06-20
 updatedDate: 2026-06-20
 disclaimer: "As informações deste guia têm caráter educativo. Câmbios automáticos modernos variam muito entre modelos e fabricantes. Consulte sempre o manual do proprietário e, em caso de dúvida, leve o veículo a uma oficina especializada. Procedimentos incorretos podem causar danos permanentes à transmissão."
@@ -34,8 +34,8 @@ afiliados:
   - { produto: "Fluido ATF Dexron VI 1 litro", nota: "Para GM Onix AT, Tracker AT e derivados. Confirme a especificação no manual.", busca: "fluido ATF Dexron VI câmbio automático", programa: "amazon" }
   - { produto: "Fluido ATF SP-III 1 litro", nota: "Compatível com câmbios Hyundai HB20 AT e modelos Kia. Cheque sempre a especificação.", busca: "fluido ATF SP-III Hyundai câmbio automático", programa: "amazon" }
 relacionados:
-  - { titulo: "Como identificar vazamento no câmbio automático", url: "/manutencao/vazamento-cambio-automatico" }
-  - { titulo: "Câmbio CVT: como funciona e quando revisar", url: "/manutencao/cambio-cvt-revisao" }
+  - { titulo: "Como identificar vazamento no câmbio automático", url: "/manutencao/vazamento-cambio-automatico/" }
+  - { titulo: "Câmbio CVT: como funciona e quando revisar", url: "/manutencao/cambio-cvt-revisao/" }
 draft: false
 ---
 

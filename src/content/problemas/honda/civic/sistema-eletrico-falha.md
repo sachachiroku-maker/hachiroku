@@ -70,9 +70,9 @@ fontes:
     url: "https://www.honda.com.br/automoveis/honda-sensing"
 relacionados:
   - titulo: "Injeção direta e acúmulo de carbono nas válvulas do Civic 1.5 Turbo"
-    url: "/problemas/honda/civic/injecao-direta-valvulas-carbono"
+    url: "/problemas/honda/civic/injecao-direta-valvulas-carbono/"
   - titulo: "Consumo de óleo no motor 1.5 VTEC Turbo do Civic"
-    url: "/problemas/honda/civic/consumo-de-oleo-turbo"
+    url: "/problemas/honda/civic/consumo-de-oleo-turbo/"
 draft: false
 ---
 

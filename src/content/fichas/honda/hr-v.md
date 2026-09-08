@@ -67,7 +67,7 @@ faq:
 relacionados:
   - { titulo: "Problemas do Honda HR-V", url: "/problemas/honda/hr-v/" }
 autor:
-  nome: "Redacao Hachiroku"
+  nome: "Redação Hachiroku"
 draft: false
 ---
 

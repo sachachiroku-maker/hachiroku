@@ -76,8 +76,8 @@ fontes:
   - { titulo: "Reclame Aqui: Peugeot câmbio automático", url: "https://www.reclameaqui.com.br/empresa/peugeot/" }
 
 relacionados:
-  - { titulo: "Câmbio automático do Peugeot 208 sola: AT6 e o solavanco em tráfego urbano", url: "/problemas/peugeot/208/cambio-automatico-solavanco" }
-  - { titulo: "Peugeot 2008: consumo de óleo no motor THP", url: "/problemas/peugeot/2008/motor-thp-consumo-oleo" }
+  - { titulo: "Câmbio automático do Peugeot 208 sola: AT6 e o solavanco em tráfego urbano", url: "/problemas/peugeot/208/cambio-automatico-solavanco/" }
+  - { titulo: "Peugeot 2008: consumo de óleo no motor THP", url: "/problemas/peugeot/2008/motor-thp-consumo-oleo/" }
 
 draft: false
 ---

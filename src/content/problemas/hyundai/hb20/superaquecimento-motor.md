@@ -50,9 +50,9 @@ afiliados:
     programa: "mercadoLivre"
 relacionados:
   - titulo: "HB20 Vazando Óleo: Diagnóstico Completo do Motor 1.0"
-    url: "/problemas/hyundai/hb20/vazamento-de-oleo"
+    url: "/problemas/hyundai/hb20/vazamento-de-oleo/"
   - titulo: "HB20 Embreagem: Sintomas de Desgaste e Quando Trocar"
-    url: "/problemas/hyundai/hb20/embreagem"
+    url: "/problemas/hyundai/hb20/embreagem/"
 pontosChave:
   - "Sintoma: ponteiro de temperatura no vermelho, cheiro de borracha queimada ou vapor saindo do cofre"
   - "Causa: mangueira partida, termostato travado, bomba d'água com falha ou radiador entupido"

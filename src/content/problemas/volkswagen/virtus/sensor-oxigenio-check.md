@@ -79,11 +79,11 @@ faq:
     resposta: "O sensor pós-catalisador (sensor 2) fica rosqueado na parte traseira do catalisador, já na saída dos gases tratados, antes do silencioso intermediário. No Virtus 1.0 TSI, o acesso é feito por baixo do carro, com o veículo levantado em elevador ou rampa. O sensor tem uma ficha elétrica que se desconecta antes de rosqueá-lo. A remoção exige a ferramenta específica (soquete de sensor lambda, 22 mm com fenda), pois o chicote impede o uso de um soquete convencional."
 relacionados:
   - titulo: "Motor 1.0 TSI do Virtus consome óleo: causa, sintomas e o que fazer"
-    url: "/problemas/volkswagen/virtus/consumo-de-oleo-tsi"
+    url: "/problemas/volkswagen/virtus/consumo-de-oleo-tsi/"
   - titulo: "Virtus com trancos no câmbio automático Aisin: diagnóstico"
-    url: "/problemas/volkswagen/virtus/cambio-aisin-trancos"
+    url: "/problemas/volkswagen/virtus/cambio-aisin-trancos/"
   - titulo: "Bomba d'água do Virtus 1.0 TSI: falha precoce no EA211"
-    url: "/problemas/volkswagen/virtus/bomba-agua-ea211"
+    url: "/problemas/volkswagen/virtus/bomba-agua-ea211/"
 fontes:
   - { titulo: "OBD Codes P0136 — O2 Sensor Circuit Low Voltage (Bank 1, Sensor 2)", url: "https://www.obd-codes.com/p0136" }
   - { titulo: "OBD Codes P0141 — O2 Sensor Heater Circuit Malfunction (Bank 1, Sensor 2)", url: "https://www.obd-codes.com/p0141" }

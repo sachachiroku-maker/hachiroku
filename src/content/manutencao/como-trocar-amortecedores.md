@@ -64,11 +64,11 @@ afiliados:
     programa: "amazon"
 relacionados:
   - titulo: "Como trocar pastilhas de freio: passo a passo"
-    url: "/manutencao/como-trocar-pastilhas-freio"
+    url: "/manutencao/como-trocar-pastilhas-freio/"
   - titulo: "Alinhamento e balanceamento: quando fazer e quanto custa"
-    url: "/manutencao/alinhamento-e-balanceamento"
+    url: "/manutencao/alinhamento-e-balanceamento/"
   - titulo: "Como verificar o óleo do motor em 2 minutos"
-    url: "/manutencao/como-verificar-oleo-do-motor"
+    url: "/manutencao/como-verificar-nivel-oleo-motor/"
 draft: false
 ---
 

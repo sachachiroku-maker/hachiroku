@@ -73,7 +73,7 @@ relacionados:
   - { titulo: "Corrente de distribuição do T270 no Commander", url: "/problemas/jeep/commander/corrente-distribuicao-t270/" }
   - { titulo: "Câmbio de 9 marchas do Commander com solavanco", url: "/problemas/jeep/commander/cambio-9-marchas-solavanco/" }
 autor:
-  nome: "Redacao Hachiroku"
+  nome: "Redação Hachiroku"
 draft: false
 ---
 

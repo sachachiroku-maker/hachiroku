@@ -57,9 +57,9 @@ faq:
     resposta: "As revisões de rotina (óleo, filtro de ar, filtro de cabine e fluidos) ficam na faixa de R$ 600 a R$ 1.200 por revisão na rede Toyota, dependendo do intervalo. O freio regenerativo reduz o consumo de pastilhas, o que equilibra parte do custo extra. O risco está nas peças do sistema de alta tensão: compressor de A/C elétrico (R$ 4.000 a R$ 8.000), bateria de propulsão (R$ 8.000 a R$ 15.000 ou mais). Por isso, um exemplar com histórico completo e sem falhas no painel é muito mais importante no Hybrid do que em qualquer versão convencional."
 relacionados:
   - titulo: "Toyota Hilux usada vale a pena? Guia completo de compra"
-    url: "/guia-de-compra/usados/hilux-usada-vale-a-pena"
+    url: "/guia-de-compra/usados/hilux-usada-vale-a-pena/"
   - titulo: "Jeep Compass usado vale a pena? O que verificar antes de comprar"
-    url: "/guia-de-compra/usados/compass-usado-vale-a-pena"
+    url: "/guia-de-compra/usados/compass-usado-vale-a-pena/"
 draft: false
 ---
 

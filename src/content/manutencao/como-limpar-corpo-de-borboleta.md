@@ -55,11 +55,11 @@ afiliados:
     programa: "amazon"
 relacionados:
   - titulo: "Como Trocar o Filtro de Ar do Motor"
-    url: "/manutencao/como-trocar-filtro-de-ar"
+    url: "/manutencao/como-trocar-filtro-de-ar/"
   - titulo: "Como Usar o Scanner OBD2 para Diagnosticar Falhas"
-    url: "/manutencao/guia-scanner-obd2-como-usar"
+    url: "/manutencao/scanner-obd2/"
   - titulo: "O Que Significam as Luzes do Painel"
-    url: "/manutencao/luzes-do-painel-o-que-significam"
+    url: "/manutencao/luzes-do-painel-o-que-significam/"
 draft: false
 ---
 

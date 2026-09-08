@@ -72,8 +72,8 @@ fontes:
   - { titulo: "Compressor de A/C: sintomas de defeito e manutencao (iCarros)", url: "https://www.icarros.com.br/noticias/geral/compressor-de-ar-condicionado-do-carro-saiba-como-funciona-e-quando-trocar/22571.html" }
   - { titulo: "Toyota SW4: principais problemas relatados pelos donos (Mobiauto)", url: "https://www.mobiauto.com.br/revista/toyota-sw4-os-principais-problemas-segundo-os-donos/2892" }
 relacionados:
-  - { titulo: "Vela aquecedora com falha na Toyota Hilux 2.8 Turbo Diesel: diagnóstico completo", url: "/problemas/toyota/hilux/vela-aquecedora-falha" }
-  - { titulo: "Diferencial traseiro com barulho na Toyota Hilux: causas e reparo", url: "/problemas/toyota/hilux/diferencial-traseiro-barulho" }
+  - { titulo: "Vela aquecedora com falha na Toyota Hilux 2.8 Turbo Diesel: diagnóstico completo", url: "/problemas/toyota/hilux/vela-aquecedora-falha/" }
+  - { titulo: "Diferencial traseiro com barulho na Toyota Hilux: causas e reparo", url: "/problemas/toyota/hilux/diferencial-traseiro-barulho/" }
 draft: false
 ---
 

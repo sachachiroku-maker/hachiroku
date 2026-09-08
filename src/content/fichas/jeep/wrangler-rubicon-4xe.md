@@ -57,7 +57,7 @@ faq:
 relacionados:
   - { titulo: "Problemas do Jeep Wrangler", url: "/problemas/jeep/wrangler/" }
 autor:
-  nome: "Redacao Hachiroku"
+  nome: "Redação Hachiroku"
 draft: false
 ---
 

@@ -57,7 +57,7 @@ faq:
 relacionados:
   - { titulo: "Problemas do Fiat Doblo", url: "/problemas/fiat/doblo/" }
 autor:
-  nome: "Redacao Hachiroku"
+  nome: "Redação Hachiroku"
 draft: false
 ---
 

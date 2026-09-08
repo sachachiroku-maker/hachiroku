@@ -18,7 +18,7 @@ passos:
   - { nome: "Desconecte a bateria velha com segurança", texto: "Desligue o motor e a chave. Remova sempre o cabo negativo (preto, marcado com sinal de menos) primeiro. Depois remova o positivo (vermelho). Solte a trava mecânica que prende a bateria na bandeja e retire-a com cuidado." }
   - { nome: "Limpe os terminais e instale a bateria nova", texto: "Use terminal cleaner ou lixa grossa para remover a corrosão dos bornes. Posicione a bateria nova, fixe a trava. Conecte o cabo positivo primeiro, depois o negativo. Nunca inverta essa ordem." }
   - { nome: "Reinicialize os sistemas do veículo", texto: "Em carros modernos, após a troca da bateria recalibre as janelas elétricas (abra e feche cada uma até o fim), deixe o câmbio automático aprender os pontos de troca rodando suavemente por alguns quilômetros e verifique se o rádio pede código de segurança." }
-autor: { nome: "Equipe Técnica Hachiroku", credencial: "" }
+autor: { nome: "Redação Hachiroku", credencial: "" }
 pubDate: 2026-06-20
 updatedDate: 2026-06-20
 disclaimer: "Este guia é informativo. Em caso de dúvida, consulte um eletricista automotivo credenciado. A troca de bateria em veículos híbridos ou elétricos exige procedimentos específicos e não está coberta por este artigo."
@@ -31,8 +31,8 @@ afiliados:
   - { produto: "Multímetro digital ET-1002 Minipa", nota: "Suficiente para medir tensão de bateria e diagnosticar falhas básicas no sistema elétrico.", busca: "multimetro digital automotivo", programa: "amazon" }
   - { produto: "Bateria Moura Free MF60LD 60Ah", nota: "Livre de manutenção, boa relação custo-benefício para veículos populares de até 1.6.", busca: "bateria moura 60ah livre manutencao", programa: "amazon" }
 relacionados:
-  - { titulo: "Como ler as luzes do painel do carro", url: "/manutencao/luzes-do-painel-o-que-significam" }
-  - { titulo: "Como verificar o nível de óleo do motor", url: "/manutencao/como-verificar-oleo-do-motor" }
+  - { titulo: "Como ler as luzes do painel do carro", url: "/manutencao/luzes-do-painel-o-que-significam/" }
+  - { titulo: "Como verificar o nível de óleo do motor", url: "/manutencao/como-verificar-nivel-oleo-motor/" }
 draft: false
 ---
 

@@ -51,11 +51,11 @@ faq:
     resposta: "O Polo leva vantagem em espaço interno. O porta-malas do Polo tem 300 litros contra 267 litros do Yaris. O banco traseiro do Polo também oferece mais espaço para joelhos. Para famílias, o Polo é a melhor escolha nesse critério."
 relacionados:
   - titulo: "Revisão Toyota Yaris: quanto custa e o que inclui"
-    url: "/revisao/toyota-yaris"
+    url: "/revisao/toyota-yaris/"
   - titulo: "Volkswagen Polo TSI: guia de manutenção preventiva"
-    url: "/revisao/volkswagen-polo-tsi"
+    url: "/revisao/volkswagen-polo-tsi/"
   - titulo: "Motor 1.0 turbo: mitos e verdades sobre durabilidade"
-    url: "/tecnico/motor-1-0-turbo-durabilidade"
+    url: "/tecnico/motor-1-0-turbo-durabilidade/"
 draft: false
 ---
 

@@ -69,7 +69,7 @@ relacionados:
   - { titulo: "Barulho na suspensão dianteira do EcoSport", url: "/problemas/ford/ecosport/suspensao-dianteira-barulho/" }
   - { titulo: "Problemas do Ford Ka", url: "/problemas/ford/ka/" }
 autor:
-  nome: "Redacao Hachiroku"
+  nome: "Redação Hachiroku"
 draft: false
 ---
 

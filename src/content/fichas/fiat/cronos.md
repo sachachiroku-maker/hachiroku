@@ -61,7 +61,7 @@ faq:
 relacionados:
   - { titulo: "Problemas do Fiat Cronos", url: "/problemas/fiat/cronos/" }
 autor:
-  nome: "Redacao Hachiroku"
+  nome: "Redação Hachiroku"
 draft: false
 ---
 

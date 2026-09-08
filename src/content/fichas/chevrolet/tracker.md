@@ -64,7 +64,7 @@ relacionados:
   - { titulo: "Correia banhada a óleo do Tracker: quando trocar", url: "/problemas/chevrolet/tracker/correia-dentada/" }
   - { titulo: "Problemas do Chevrolet Tracker", url: "/problemas/chevrolet/tracker/" }
 autor:
-  nome: "Redacao Hachiroku"
+  nome: "Redação Hachiroku"
 draft: false
 ---
 

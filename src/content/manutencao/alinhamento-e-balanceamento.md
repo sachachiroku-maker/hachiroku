@@ -53,11 +53,11 @@ afiliados:
     programa: "amazon"
 relacionados:
   - titulo: "Como verificar a calibragem dos pneus corretamente"
-    url: "/manutencao/calibragem-de-pneus"
+    url: "/manutencao/calibragem-de-pneus/"
   - titulo: "Scanner OBD2: para que serve e como usar"
-    url: "/manutencao/scanner-obd2"
+    url: "/manutencao/scanner-obd2/"
   - titulo: "Luzes do painel: o que cada símbolo significa"
-    url: "/manutencao/luzes-do-painel-o-que-significam"
+    url: "/manutencao/luzes-do-painel-o-que-significam/"
 draft: false
 ---
 

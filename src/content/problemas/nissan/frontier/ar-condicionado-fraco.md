@@ -51,9 +51,9 @@ afiliados:
     programa: "mercadoLivre"
 relacionados:
   - titulo: "Nissan Frontier: Falha nos Injetores Diesel YD25DDTi"
-    url: "/problemas/nissan/frontier/injetores-diesel-falha"
+    url: "/problemas/nissan/frontier/injetores-diesel-falha/"
   - titulo: "Nissan Frontier: Desgaste Prematuro do Diferencial Traseiro"
-    url: "/problemas/nissan/frontier/diferencial-traseiro-desgaste"
+    url: "/problemas/nissan/frontier/diferencial-traseiro-desgaste/"
 pontosChave:
   - "Sintoma: AC sopra ar morno ou levemente fresco mesmo no máximo, piorando no trânsito parado"
   - "Causa: Condensador entupido por uso rural, compressor variável com solenóide com defeito ou válvula de expansão emperrada"

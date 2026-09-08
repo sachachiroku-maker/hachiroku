@@ -66,7 +66,7 @@ fontes:
 
 relacionados:
   - titulo: "Problemas de Câmbio Automático no Peugeot 208"
-    url: "/problemas/peugeot/208/cambio-automatico-solavanco"
+    url: "/problemas/peugeot/208/cambio-automatico-solavanco/"
   - titulo: "Ficha Técnica Peugeot 208"
     url: "/ficha-tecnica/peugeot/208-allure-1-6/"
 

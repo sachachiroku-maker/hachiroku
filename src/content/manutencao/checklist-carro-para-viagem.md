@@ -58,11 +58,11 @@ afiliados:
     programa: "amazon"
 relacionados:
   - titulo: "Como calibrar os pneus do carro corretamente"
-    url: "/manutencao/como-calibrar-pneus"
+    url: "/manutencao/calibragem-de-pneus/"
   - titulo: "Quanto tempo dura o óleo do motor? Intervalos de troca por tipo"
-    url: "/manutencao/intervalo-troca-oleo-motor"
+    url: "/manutencao/intervalo-troca-oleo-motor/"
   - titulo: "Sinais de que as pastilhas de freio precisam ser trocadas"
-    url: "/manutencao/sinais-pastilha-freio-desgastada"
+    url: "/manutencao/sinais-pastilha-freio-desgastada/"
 draft: false
 ---
 

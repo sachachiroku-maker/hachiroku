@@ -63,7 +63,7 @@ faq:
 relacionados:
   - { titulo: "Problemas do Renault Kwid", url: "/problemas/renault/kwid/" }
 autor:
-  nome: "Redacao Hachiroku"
+  nome: "Redação Hachiroku"
 draft: false
 ---
 

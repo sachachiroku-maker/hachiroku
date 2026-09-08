@@ -65,7 +65,7 @@ relacionados:
   - { titulo: "Motor 1.6 THP do Peugeot 2008 com consumo excessivo de óleo", url: "/problemas/peugeot/2008/motor-thp-consumo-oleo/" }
   - { titulo: "Barulho na suspensão dianteira do Peugeot 2008", url: "/problemas/peugeot/2008/suspensao-dianteira-barulho/" }
 autor:
-  nome: "Redacao Hachiroku"
+  nome: "Redação Hachiroku"
 draft: false
 ---
 

@@ -67,7 +67,7 @@ relacionados:
   - { titulo: "Ar-condicionado do City com cheiro de mofo: evaporador e solução", url: "/problemas/honda/city/ar-condicionado-evaporador-cheiro/" }
   - { titulo: "Ficha técnica do Honda HR-V EX 1.5 Turbo CVT", url: "/ficha-tecnica/honda/hr-v/" }
 autor:
-  nome: "Redacao Hachiroku"
+  nome: "Redação Hachiroku"
 draft: false
 ---
 

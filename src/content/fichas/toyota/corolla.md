@@ -63,7 +63,7 @@ faq:
 relacionados:
   - { titulo: "Problemas do Toyota Corolla", url: "/problemas/toyota/corolla/" }
 autor:
-  nome: "Redacao Hachiroku"
+  nome: "Redação Hachiroku"
 draft: false
 ---
 

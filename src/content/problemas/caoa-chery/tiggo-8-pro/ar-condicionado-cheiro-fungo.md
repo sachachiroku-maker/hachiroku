@@ -51,9 +51,9 @@ fontes:
     url: "https://www.reclameaqui.com.br/empresa/caoa-chery/"
 relacionados:
   - titulo: "Ar-condicionado do Citroën C3 com cheiro de mofo"
-    url: "/problemas/citroen/c3/ar-condicionado-cheiro-fungo"
+    url: "/problemas/citroen/c3/ar-condicionado-cheiro-fungo/"
   - titulo: "Ar-condicionado do Nissan Versa com cheiro e vazamento"
-    url: "/problemas/nissan/versa/ar-condicionado-evaporador"
+    url: "/problemas/nissan/versa/ar-condicionado-evaporador/"
 faq:
   - pergunta: "Por que o ar-condicionado do Tiggo 8 Pro cheira a mofo ao ligar?"
     resposta: "O cheiro de mofo no ar-condicionado do Tiggo 8 Pro vem de fungos e bactérias que se instalam nas aletas do evaporador. O evaporador resfria o ar antes de distribuí-lo pela cabine: durante o funcionamento, ele fica coberto de condensação. Quando o sistema é desligado e o carro permanece fechado e quente, a temperatura do evaporador sobe rapidamente e a umidade residual cria o ambiente ideal para o crescimento de microrganismos. Ao religar o sistema, o ventilador sopra os esporos diretamente para a cabine, gerando o odor característico."

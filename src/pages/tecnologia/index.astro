@@ -1,0 +1,99 @@
+---
+/**
+ * Hub do silo /tecnologia/. Item 2.4 do diagnóstico de entidade de 2026-09-08.
+ *
+ * As 8 páginas de tecnologia também penduravam num nível inexistente. Uma delas,
+ * /tecnologia/injecao-direta/, recebe 99 links internos de corpo e teve zero
+ * impressão em 90 dias. Molde: sistema/index.astro.
+ */
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { tecnologias } from '../../lib/entidades';
+
+const site = 'https://hachiroku.com.br';
+const url  = `${site}/tecnologia/`;
+const lista = tecnologias();
+
+/** Primeira frase do resumo, para o card não carregar o parágrafo inteiro. */
+const primeiraFrase = (t: string) => {
+  const m = t.match(/^.*?[.!?](?=\s|$)/);
+  return m ? m[0] : t;
+};
+
+const jsonld = {
+  '@context': 'https://schema.org',
+  '@graph': [
+    {
+      '@type': 'BreadcrumbList',
+      '@id': `${url}#breadcrumb`,
+      itemListElement: [
+        { '@type': 'ListItem', position: 1, name: 'Início', item: `${site}/` },
+        { '@type': 'ListItem', position: 2, name: 'Tecnologias', item: url },
+      ],
+    },
+    {
+      '@type': 'CollectionPage',
+      '@id': `${url}#webpage`,
+      name: 'Tecnologias | Hachiroku',
+      description:
+        'Turbo, injeção direta, correia banhada a óleo, câmbio de dupla embreagem e CVT: como cada tecnologia funciona e o que ela cobra na manutenção.',
+      inLanguage: 'pt-BR',
+      isPartOf: { '@id': `${site}/#website` },
+      breadcrumb: { '@id': `${url}#breadcrumb` },
+      publisher: { '@id': `${site}/#organization` },
+    },
+    {
+      '@type': 'ItemList',
+      '@id': `${url}#lista`,
+      name: 'Tecnologias cobertas pelo Hachiroku',
+      numberOfItems: lista.length,
+      itemListElement: lista.map((e, i) => ({
+        '@type': 'ListItem',
+        position: i + 1,
+        name: e.nome,
+        url: `${url}${e.slug}/`,
+      })),
+    },
+  ],
+};
+---
+<BaseLayout
+  title="Tecnologias | Hachiroku"
+  description="Turbo, injeção direta, correia banhada a óleo, câmbio de dupla embreagem e CVT: como cada tecnologia funciona e o que ela cobra na manutenção."
+  canonical={url}
+  type="website"
+>
+  <script type="application/ld+json" set:html={JSON.stringify(jsonld)} />
+
+  <section class="hero" style="padding-block:var(--space-16)">
+    <p class="kicker" style="color:var(--asphalt-300)">DIAGNÓSTICO POR TECNOLOGIA</p>
+    <h1>Tecnologias</h1>
+    <p class="tagline">A peça que falha costuma ser a mesma em marcas diferentes</p>
+  </section>
+
+  <nav class="breadcrumb" aria-label="Você está em">
+    <a href="/">Início</a> · <span>Tecnologias</span>
+  </nav>
+
+  <section class="silos" aria-label="Tecnologias disponíveis">
+    {lista.map((e) => (
+      <a class="silo-card" href={`/tecnologia/${e.slug}/`}>
+        <h2>{e.nome}</h2>
+        <p>{primeiraFrase(e.resumo)}</p>
+      </a>
+    ))}
+  </section>
+
+  <section class="prose" style="margin-top:var(--space-16)">
+    <h2>Por que procurar pela tecnologia</h2>
+    <p>
+      Correia banhada a óleo, injeção direta e câmbio de dupla embreagem chegaram ao
+      Brasil em carros de marcas diferentes e trouxeram junto o mesmo conjunto de
+      exigências. Entender a tecnologia responde de uma vez a pergunta que aparece em
+      dezenas de modelos: o que essa peça cobra para durar.
+    </p>
+    <p>
+      Quer ver por motor?
+      <a href="/motor/">Ver os motores cobertos →</a>
+    </p>
+  </section>
+</BaseLayout>

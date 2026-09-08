@@ -64,7 +64,7 @@ relacionados:
   - { titulo: "Câmbio de 10 marchas da Ranger NextGen com solavanco", url: "/problemas/ford/ranger/cambio-10-marchas-solavanco/" }
   - { titulo: "Ficha técnica do Ford EcoSport Titanium 1.5", url: "/ficha-tecnica/ford/ecosport-titanium-1-5/" }
 autor:
-  nome: "Redacao Hachiroku"
+  nome: "Redação Hachiroku"
 draft: false
 ---
 

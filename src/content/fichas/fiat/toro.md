@@ -64,7 +64,7 @@ faq:
 relacionados:
   - { titulo: "Problemas da Fiat Toro", url: "/problemas/fiat/toro/" }
 autor:
-  nome: "Redacao Hachiroku"
+  nome: "Redação Hachiroku"
 draft: false
 ---
 

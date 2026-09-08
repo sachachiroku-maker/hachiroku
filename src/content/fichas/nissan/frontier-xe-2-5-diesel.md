@@ -64,7 +64,7 @@ relacionados:
   - { titulo: "Diferencial traseiro da Frontier com desgaste: causas e reparo", url: "/problemas/nissan/frontier/diferencial-traseiro-desgaste/" }
   - { titulo: "Ficha técnica da Toyota Hilux SRX 2.8 Diesel 2023", url: "/ficha-tecnica/toyota/hilux-srx-2-8-diesel/" }
 autor:
-  nome: "Redacao Hachiroku"
+  nome: "Redação Hachiroku"
 draft: false
 ---
 

@@ -69,7 +69,7 @@ relacionados:
   - { titulo: "Rolamento de roda dianteira no ix35: barulho e diagnóstico", url: "/problemas/hyundai/ix35/suspensao-dianteira-rolamento/" }
   - { titulo: "Problemas do Hyundai HB20", url: "/problemas/hyundai/hb20/" }
 autor:
-  nome: "Redacao Hachiroku"
+  nome: "Redação Hachiroku"
 draft: false
 ---
 

@@ -51,7 +51,7 @@ afiliados:
     programa: "mercadoLivre"
 relacionados:
   - titulo: "HB20: Câmbio automático com trancos — o que causa"
-    url: "/problemas/hyundai/hb20/cambio-automatico-trancos"
+    url: "/problemas/hyundai/hb20/cambio-automatico-trancos/"
 pontosChave:
   - "Sintoma: Câmbio duro, resistência ao engate, ruído metálico (crunch) ao trocar marchas"
   - "Causa: Sincronizador desgastado, cabo de câmbio desregulado ou óleo GL-4 vencido/errado"

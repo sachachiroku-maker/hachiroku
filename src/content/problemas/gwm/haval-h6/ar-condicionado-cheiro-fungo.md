@@ -63,7 +63,7 @@ afiliados:
     cta: "Ver produto na Amazon"
 relacionados:
   - titulo: "Consumo de combustível alto no GWM Haval H6: causas e soluções"
-    url: "/problemas/gwm/haval-h6/consumo-combustivel-alto"
+    url: "/problemas/gwm/haval-h6/consumo-combustivel-alto/"
   - titulo: "Ficha técnica completa: GWM Haval H6 1.5 Turbo HEV"
     url: "/ficha-tecnica/gwm/haval-h6-supreme-1-5/"
 pontosChave:

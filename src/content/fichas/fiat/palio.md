@@ -62,7 +62,7 @@ relacionados:
   - { titulo: "Problemas do Fiat Palio", url: "/problemas/fiat/palio/" }
   - { titulo: "Problemas do Fiat Palio", url: "/problemas/fiat/palio/" }
 autor:
-  nome: "Redacao Hachiroku"
+  nome: "Redação Hachiroku"
 draft: false
 ---
 

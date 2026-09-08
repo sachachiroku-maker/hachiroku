@@ -57,7 +57,7 @@ faq:
 relacionados:
   - { titulo: "Problemas do Peugeot 3008", url: "/problemas/peugeot/3008/" }
 autor:
-  nome: "Redacao Hachiroku"
+  nome: "Redação Hachiroku"
 draft: false
 ---
 

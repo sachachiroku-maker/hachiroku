@@ -74,8 +74,8 @@ fontes:
   - { titulo: "Chevrolet Spin: problemas e defeitos mais comuns relatados por proprietários (Grupo Sentinela)", url: "https://www.gruposentinela.com.br/chevrolet-spin-os-problemas-e-defeitos-mais-comuns-da-minivan/" }
   - { titulo: "Transmissão automática: como funciona e principais defeitos (Oficina Brasil)", url: "https://www.oficinabrasilmag.com.br/transmissao-automatica-como-funciona-e-principais-defeitos/" }
 relacionados:
-  - { titulo: "Porta deslizante da Spin trava e não abre por dentro", url: "/problemas/chevrolet/spin/porta-deslizante-trava" }
-  - { titulo: "Motor 1.8 da Spin com consumo excessivo de óleo", url: "/problemas/chevrolet/spin/motor-etorq-consumo-oleo" }
+  - { titulo: "Porta deslizante da Spin trava e não abre por dentro", url: "/problemas/chevrolet/spin/porta-deslizante-trava/" }
+  - { titulo: "Motor 1.8 da Spin com consumo excessivo de óleo", url: "/problemas/chevrolet/spin/motor-ecotec-consumo-oleo/" }
 draft: false
 ---
 

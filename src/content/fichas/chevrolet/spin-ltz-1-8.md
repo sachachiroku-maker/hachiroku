@@ -67,7 +67,7 @@ relacionados:
   - { titulo: "Motor 1.8 E.torQ da Spin com consumo de óleo: diagnóstico completo", url: "/problemas/chevrolet/spin/motor-ecotec-consumo-oleo/" }
   - { titulo: "Porta deslizante da Spin com problema de trava: causas e custo", url: "/problemas/chevrolet/spin/porta-deslizante-trava/" }
 autor:
-  nome: "Redacao Hachiroku"
+  nome: "Redação Hachiroku"
 draft: false
 ---
 

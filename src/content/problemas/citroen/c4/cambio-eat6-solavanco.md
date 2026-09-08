@@ -21,9 +21,9 @@ fontes:
     url: "https://www.lubricants.totalenergies.com/fr/nos-solutions/automobile/votre-vehicule/peugeot-citroen-ds"
 relacionados:
   - titulo: "Falha no motor 1.6 THP: perda de potência e consumo alto"
-    url: "/problemas/citroen/c4/motor-thp-consumo-oleo"
+    url: "/problemas/citroen/c4/motor-thp-consumo-oleo/"
   - titulo: "Barulho na suspensão dianteira do Citroën C4"
-    url: "/problemas/citroen/c4/suspensao-dianteira-barulho"
+    url: "/problemas/citroen/c4/suspensao-dianteira-barulho/"
 afiliados:
   - produto: "Fluido câmbio automático Aisin AW-1 Citroën"
     busca: "fluido cambio automatico aisin aw-1 citroen c4"

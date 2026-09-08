@@ -51,9 +51,9 @@ afiliados:
     programa: "mercadoLivre"
 relacionados:
   - titulo: "Toyota Corolla: Cheiro Ruim no Ar-condicionado pelo Evaporador"
-    url: "/problemas/toyota/corolla/ar-condicionado-cheiro-evaporador"
+    url: "/problemas/toyota/corolla/ar-condicionado-cheiro-evaporador/"
   - titulo: "Toyota Corolla: Barulho na Suspensão Dianteira"
-    url: "/problemas/toyota/corolla/suspensao-dianteira-barulho"
+    url: "/problemas/toyota/corolla/suspensao-dianteira-barulho/"
 pontosChave:
   - "Sintoma: ar-condicionado fraco, resfriamento lento mesmo com o sistema no máximo"
   - "Causa principal: sensor NTC de temperatura de cabine com leitura incorreta faz a ECU limitar o compressor prematuramente"

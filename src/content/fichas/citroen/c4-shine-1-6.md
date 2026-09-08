@@ -57,7 +57,7 @@ faq:
 relacionados:
   - { titulo: "Problemas do Citroën C4", url: "/problemas/citroen/c4/" }
 autor:
-  nome: "Redacao Hachiroku"
+  nome: "Redação Hachiroku"
 draft: false
 ---
 

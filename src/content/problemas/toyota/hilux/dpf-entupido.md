@@ -82,11 +82,11 @@ afiliados:
     cta: "Ver na Amazon"
 relacionados:
   - titulo: "Sensor de injeção diesel com defeito na Hilux 2.8"
-    url: "/problemas/toyota/hilux/sensor-injecao-diesel"
+    url: "/problemas/toyota/hilux/sensor-injecao-diesel/"
   - titulo: "Vela aquecedora com falha na Hilux diesel"
-    url: "/problemas/toyota/hilux/vela-aquecedora-falha"
+    url: "/problemas/toyota/hilux/vela-aquecedora-falha/"
   - titulo: "Filtro de combustível entupido na Hilux 1GD-FTV"
-    url: "/problemas/toyota/hilux/filtro-combustivel-entupido"
+    url: "/problemas/toyota/hilux/filtro-combustivel-entupido/"
 ---
 
 O filtro de partículas diesel (DPF) da Toyota Hilux 2.8 com motor 1GD-FTV é um dos componentes que mais gera reclamações em veículos usados majoritariamente em ambiente urbano. O problema central é simples: o motor precisa de percursos rodoviários para completar a regeneração ativa do filtro, e quem usa a Hilux quase exclusivamente na cidade raramente oferece essas condições ao sistema.

@@ -56,9 +56,9 @@ afiliados:
     programa: "mercadoLivre"
 relacionados:
   - titulo: "Renault Oroch superaquecendo: causas e diagnóstico"
-    url: "/problemas/renault/oroch/motor-superaquecimento"
+    url: "/problemas/renault/oroch/motor-superaquecimento/"
   - titulo: "Barulho na suspensão traseira do Oroch: o que pode ser"
-    url: "/problemas/renault/oroch/suspensao-traseira-barulho"
+    url: "/problemas/renault/oroch/suspensao-traseira-barulho/"
 pontosChave:
   - "Sintoma: câmbio duro, engates travados ou rangido em uma marcha específica"
   - "Causa principal: sincronizador desgastado, óleo degradado ou fora do prazo, cabo de câmbio com folga"

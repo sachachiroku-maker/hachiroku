@@ -58,7 +58,7 @@ faq:
 relacionados:
   - { titulo: "Problemas da L200 Triton", url: "/problemas/mitsubishi/l200-triton/" }
 autor:
-  nome: "Redacao Hachiroku"
+  nome: "Redação Hachiroku"
 draft: false
 ---
 

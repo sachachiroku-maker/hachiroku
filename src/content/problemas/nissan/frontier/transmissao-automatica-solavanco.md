@@ -79,11 +79,11 @@ faq:
     resposta: "O custo depende da causa raiz. Atualização de software do TCM: R$ 0 (garantia) a R$ 300 (fora da garantia). Troca completa do fluido ATF Matic D (flush dinâmico): R$ 400 a R$ 700 incluindo fluido e mão de obra. Combinação das duas soluções: R$ 500 a R$ 900. Reparo mecânico interno (se as etapas anteriores não resolverem): R$ 3.500 a R$ 8.000. O caminho correto é sempre começar pelas soluções mais simples e baratas antes de considerar o reparo mecânico."
 relacionados:
   - titulo: "Falha nos injetores diesel YD25DDTi da Nissan Frontier"
-    url: "/problemas/nissan/frontier/injetores-diesel-falha"
+    url: "/problemas/nissan/frontier/injetores-diesel-falha/"
   - titulo: "Desgaste no diferencial traseiro da Nissan Frontier"
-    url: "/problemas/nissan/frontier/diferencial-traseiro-desgaste"
+    url: "/problemas/nissan/frontier/diferencial-traseiro-desgaste/"
   - titulo: "Ar-condicionado fraco na Nissan Frontier diesel"
-    url: "/problemas/nissan/frontier/ar-condicionado-fraco"
+    url: "/problemas/nissan/frontier/ar-condicionado-fraco/"
 fontes:
   - { titulo: "Nissan Frontier: transmissão automática e problemas de solavanco (4x4 Brasil)", url: "https://www.4x4brasil.com.br/forum/nissan/frontier-cambio-automatico-solavanco" }
   - { titulo: "TSB NTB15-103: câmbio automático RE7R01A calibração TCM (Nissan)", url: "https://www.nissantechinfo.com/tsb/ntb15-103" }

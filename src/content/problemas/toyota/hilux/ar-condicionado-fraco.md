@@ -74,11 +74,11 @@ afiliados:
     cta: "Ver no site da Amazon"
 relacionados:
   - titulo: "Ar-condicionado da Hilux não gela: compressor e carga de R-134a"
-    url: "/problemas/toyota/hilux/ar-condicionado-nao-gela"
+    url: "/problemas/toyota/hilux/ar-condicionado-nao-gela/"
   - titulo: "Filtro de combustível entupido na Hilux 2.8 diesel: sintomas e troca"
-    url: "/problemas/toyota/hilux/filtro-combustivel-entupido"
+    url: "/problemas/toyota/hilux/filtro-combustivel-entupido/"
   - titulo: "Sensor de injeção diesel com falha na Hilux: diagnóstico e reparo"
-    url: "/problemas/toyota/hilux/sensor-injecao-diesel"
+    url: "/problemas/toyota/hilux/sensor-injecao-diesel/"
 draft: false
 ---
 

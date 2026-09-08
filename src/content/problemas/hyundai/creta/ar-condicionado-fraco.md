@@ -54,9 +54,9 @@ afiliados:
     programa: "mercadoLivre"
 relacionados:
   - titulo: "Hyundai Creta: Ar-Condicionado Não Gela — Diagnóstico"
-    url: "/problemas/hyundai/creta/ar-condicionado-nao-gela"
+    url: "/problemas/hyundai/creta/ar-condicionado-nao-gela/"
   - titulo: "Hyundai Creta 1.0 T-GDI: Falha na Injeção — Diagnóstico"
-    url: "/problemas/hyundai/creta/falha-injecao-1-0-turbo"
+    url: "/problemas/hyundai/creta/falha-injecao-1-0-turbo/"
 pontosChave:
   - "Sintoma: ar-condicionado sopra ar morno ou com refrigeração insuficiente, mesmo com o sistema no máximo."
   - "Causa: filtro de cabine saturado, condensador obstruído, sensor NTC com leitura errada, falta de gás ou compressor subdimensionado (1.0 T-GDI) sob carga extrema."
