@@ -8,9 +8,23 @@ interface Props {
   url: string;
   breadcrumb: { name: string; item?: string }[];
 }
+import { getMarcaPorNome } from '../../lib/marcas';
+
 const { data, url, breadcrumb } = Astro.props;
 const site = 'https://hachiroku.com.br';
 const nome = `${data.entidade.marca} ${data.entidade.modelo}`;
+
+/**
+ * O nó Vehicle só sai quando a marca do frontmatter resolve contra marcas.ts.
+ *
+ * Rótulos editoriais como "Geral", "Genérico" e "Comparativo" não são fabricantes:
+ * emitir Vehicle a partir deles fazia o grafo afirmar a existência de uma montadora
+ * chamada "Geral". Quando não resolve, o Vehicle e o `about` que aponta para ele
+ * saem juntos — deixar o `about` sozinho apenas trocaria o defeito por uma
+ * referência pendurada em nó inexistente.
+ */
+const marcaResolvida = getMarcaPorNome(data.entidade.marca);
+const temVeiculo = Boolean(marcaResolvida);
 
 const graph: any[] = [
   {
@@ -29,7 +43,7 @@ const graph: any[] = [
     headline: data.title,
     description: data.description,
     proficiencyLevel: 'Expert',
-    about: { '@id': `${url}#vehicle` },
+    ...(temVeiculo ? { about: { '@id': `${url}#vehicle` } } : {}),
     mentions: data.entidadesEssenciais.map((e: string) => ({ '@type': 'Thing', name: e })),
     datePublished: data.pubDate.toISOString().slice(0, 10),
     dateModified: (data.updatedDate ?? data.pubDate).toISOString().slice(0, 10),
@@ -38,22 +52,29 @@ const graph: any[] = [
     publisher: { '@id': `${site}/#organization` },
     isPartOf: { '@id': `${site}/#website` },
     mainEntityOfPage: { '@type': 'WebPage', '@id': url },
-    ...(data.imagem ? { image: { '@type': 'ImageObject', url: `${site}${data.imagem}`, width: 1200, height: 640 } } : {}),
+    ...(data.imagem ? { image: { '@type': 'ImageObject', url: `${site}${data.imagem}` } } : {}),
     speakable: { '@type': 'SpeakableSpecification', cssSelector: ['.faq'] },
     hasPart: [
       ...(data.passos?.length ? [{ '@id': `${url}#howto` }] : []),
       ...(data.faq?.length ? [{ '@id': `${url}#faq` }] : []),
     ],
   },
-  {
+];
+
+if (temVeiculo) {
+  graph.push({
     '@type': 'Vehicle',
     '@id': `${url}#vehicle`,
     name: nome,
-    manufacturer: { '@type': 'Organization', name: data.entidade.marca },
+    manufacturer: {
+      '@type': 'Organization',
+      name: marcaResolvida!.nome,
+      ...(marcaResolvida!.sameAs?.length ? { sameAs: marcaResolvida!.sameAs } : {}),
+    },
     model: data.entidade.modelo,
     fuelType: data.entidade.tipo,
-  },
-];
+  });
+}
 
 if (data.passos?.length) {
   graph.push({

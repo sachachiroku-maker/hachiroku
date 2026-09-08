@@ -11,6 +11,7 @@
     "preview": "astro preview",
     "astro": "astro",
     "check": "astro check",
+    "check:wikis": "node scripts/check-wikis.mjs",
     "indexnow": "node scripts/indexnow-submit.mjs",
     "google-index": "node scripts/google-index.mjs"
   },

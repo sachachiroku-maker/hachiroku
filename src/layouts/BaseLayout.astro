@@ -100,17 +100,18 @@ const getAriaCurrent = (href: string) => {
     <link rel="alternate" type="application/rss+xml" title="Hachiroku" href="/rss.xml" />
     <meta name="theme-color" content="#161510" />
     <meta property="og:image" content={ogImage} />
-    <meta property="og:image:alt" content={imageAlt ?? 'Hachiroku — O Seu Mecânico Digital'} />
+    <meta property="og:image:alt" content={imageAlt ?? 'Hachiroku, portal automotivo'} />
     <meta name="twitter:image" content={ogImage} />
-    <meta name="twitter:image:alt" content={imageAlt ?? 'Hachiroku — O Seu Mecânico Digital'} />
-    <meta property="og:image:width" content="1200" />
-    <meta property="og:image:height" content="630" />
+    <meta name="twitter:image:alt" content={imageAlt ?? 'Hachiroku, portal automotivo'} />
+    {/* og:image:width/height omitidos: o valor fixo 1200x630 nao correspondia a imagem
+        servida, e o fallback (lockup) mede 2068x400. Dimensao ausente e melhor que errada. */}
     <meta property="og:image:type" content={ogImageType} />
     {type === 'article' && pubDate && <meta property="article:published_time" content={pubDate.toISOString()} />}
     {type === 'article' && (updatedDate ?? pubDate) && <meta property="article:modified_time" content={(updatedDate ?? pubDate)!.toISOString()} />}
     {type === 'article' && author && <meta property="article:author" content={author} />}
-    <meta name="twitter:site" content="@hachiroku" />
-    <meta name="twitter:creator" content="@hachiroku" />
+    {/* twitter:site e twitter:creator removidos: @hachiroku no X e conta pessoal de
+        terceiro, e as duas meta afirmam titularidade. O repositorio nao tem nenhum
+        perfil proprio. So voltam quando existir conta verificada do portal. */}
     <meta name="twitter:title" content={title} />
     <meta name="twitter:description" content={metaDesc} />
     <SchemaSite />
@@ -200,7 +201,7 @@ const getAriaCurrent = (href: string) => {
           </div>
         </nav>
       </div>
-      <p class="footer-copy wrap">八六 · AE86 · © 2026 HACHIROKU · O SEU MECÂNICO DIGITAL · <a href="/politicas/#privacidade">Privacidade</a> · <a href="/politicas/#termos">Termos</a> · <a href="/politicas/#afiliados">Afiliados</a></p>
+      <p class="footer-copy wrap">© 2026 HACHIROKU · O SEU MECÂNICO DIGITAL · <a href="/politicas/#privacidade">Privacidade</a> · <a href="/politicas/#termos">Termos</a> · <a href="/politicas/#cookies">Cookies</a> · <a href="/politicas/#afiliados">Afiliados</a></p>
     </footer>
   </body>
 </html>

@@ -57,7 +57,7 @@ const graph: any[] = [
     publisher: { '@id': `${site}/#organization` },
     isPartOf: { '@id': `${site}/#website` },
     mainEntityOfPage: { '@type': 'WebPage', '@id': url },
-    ...(_articleImage ? { image: { '@type': 'ImageObject', url: `${site}${_articleImage}`, width: 1200, height: 640 } } : {}),
+    ...(_articleImage ? { image: { '@type': 'ImageObject', url: `${site}${_articleImage}` } } : {}),
     speakable: { '@type': 'SpeakableSpecification', cssSelector: ['.resumo-rapido', '.faq'] },
     hasPart: [
       ...(data.passos?.length ? [{ '@id': `${url}#howto` }] : []),

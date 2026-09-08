@@ -62,8 +62,6 @@ const graph: any[] = [
     image: {
       '@type': 'ImageObject',
       url: fichaImagem,
-      width: 1200,
-      height: 640,
     },
     ...(data.faq?.length ? { hasPart: [{ '@id': `${url}#faq` }] } : {}),
   },

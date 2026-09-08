@@ -30,8 +30,10 @@ const graph = {
         '@type': 'ImageObject',
         '@id': `${site}/#logo`,
         url: `${site}/logos/hachiroku-lockup.png`,
-        width: 300,
-        height: 68,
+        // Dimensão real do arquivo, lida no IHDR do PNG. Declarar valor diferente
+        // do arquivo servido é o único atributo verificável da Organization saindo errado.
+        width: 2068,
+        height: 400,
       },
       contactPoint: {
         '@type': 'ContactPoint',
@@ -39,10 +41,11 @@ const graph = {
         availableLanguage: 'Portuguese',
         areaServed: 'BR',
       },
-      sameAs: [
-        'https://www.instagram.com/hachiroku/',
-        'https://www.youtube.com/@hachiroku',
-      ],
+      // sameAs vazio de propósito. As duas contas que estavam aqui pertencem a
+      // terceiros (Instagram "jollee", YouTube de outro canal), e sameAs afirma
+      // identidade, não menção. Array vazio é estritamente melhor que array errado.
+      // Só repopular com perfil próprio verificado, e sempre nos dois sentidos.
+      sameAs: [],
       knowsAbout: ['Automóveis', 'Manutenção automotiva', 'Compra de veículos usados', 'Mecânica automotiva', 'Carros elétricos', 'Diagnóstico automotivo'],
     },
     {

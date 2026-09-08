@@ -219,3 +219,14 @@ export const MARCAS: Marca[] = [
 ];
 
 export const getMarca = (slug: string) => MARCAS.find((m) => m.slug === slug);
+
+/**
+ * Resolve a marca pelo NOME exibido no frontmatter (ex.: "Citroën", "BYD").
+ *
+ * Lookup, nunca derivação de slug: derivar quebra em Citroën (slug real `citroen`)
+ * e não distingue marca real de rótulo editorial. Devolve `undefined` para valores
+ * como "Geral", "Genérico" ou "Comparativo", que não são fabricantes — é esse
+ * `undefined` que impede o schema de afirmar a existência de um fabricante inventado.
+ */
+export const getMarcaPorNome = (nome?: string): Marca | undefined =>
+  nome ? MARCAS.find((m) => m.nome.toLowerCase() === nome.trim().toLowerCase()) : undefined;

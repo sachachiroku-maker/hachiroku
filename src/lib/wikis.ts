@@ -55,7 +55,9 @@ export const MODELO_SAME_AS: Record<string, string> = {
   'toyota/hilux': 'https://pt.wikipedia.org/wiki/Toyota_Hilux',
   'nissan/versa': 'https://pt.wikipedia.org/wiki/Nissan_Versa',
   'honda/wr-v': 'https://pt.wikipedia.org/wiki/Honda_WR-V',
-  'jeep/commander': 'https://pt.wikipedia.org/wiki/Jeep_Commander',
+  // "Jeep_Commander" redireciona para "Jeep Commander (XK)", o SUV norte-americano
+  // de 2006-2010. O Commander vendido no Brasil e outro veiculo: verbete de 2021.
+  'jeep/commander': 'https://pt.wikipedia.org/wiki/Jeep_Commander_(2021)',
   'byd/yuan-plus': 'https://pt.wikipedia.org/wiki/BYD_Yuan',
   'volkswagen/amarok': 'https://pt.wikipedia.org/wiki/Volkswagen_Amarok',
   // Onda 5

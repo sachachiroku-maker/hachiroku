@@ -34,7 +34,7 @@ const graph: any[] = [
     publisher: { '@id': `${site}/#organization` },
     isPartOf: { '@id': `${site}/#website` },
     mainEntityOfPage: { '@type': 'WebPage', '@id': url },
-    ...(data.imagem ? { image: { '@type': 'ImageObject', url: `${site}${data.imagem}`, width: 1200, height: 640 } } : {}),
+    ...(data.imagem ? { image: { '@type': 'ImageObject', url: `${site}${data.imagem}` } } : {}),
     speakable: { '@type': 'SpeakableSpecification', cssSelector: ['.passos', '.faq'] },
     hasPart: [{ '@id': `${url}#howto` }, ...(data.faq?.length ? [{ '@id': `${url}#faq` }] : [])],
   },
