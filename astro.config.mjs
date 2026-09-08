@@ -84,10 +84,33 @@ const lastmodMap = buildLastmodMap();
  * responde (clone raso de CI, por exemplo), a propriedade é OMITIDA: sitemap sem
  * lastmod é honesto, sitemap com data inventada não é.
  */
+/**
+ * Clone raso não serve para datar arquivo. Com profundidade 1 existe um único
+ * commit contendo a árvore inteira, e `git log -1 -- arquivo` devolve a data desse
+ * commit para QUALQUER arquivo. Na Vercel, que clona raso, isso carimbaria a data
+ * do deploy em todas as páginas de novo, e desta vez com aparência de dado real.
+ * Detectado aqui, a origem é declarada inutilizável e o lastmod é omitido.
+ */
+const gitUtilizavel = (() => {
+  try {
+    const r = execFileSync('git', ['rev-parse', '--is-shallow-repository'], {
+      encoding: 'utf8', stdio: ['ignore', 'pipe', 'ignore'],
+    }).trim();
+    if (r === 'true') {
+      console.warn('[sitemap] repositório raso: lastmod por git desativado, propriedade omitida');
+      return false;
+    }
+    return true;
+  } catch {
+    return false;
+  }
+})();
+
 /** @type {Map<string, string|null>} */
 const gitDateCache = new Map();
 /** @param {string} file @returns {string|null} */
 function gitDate(file) {
+  if (!gitUtilizavel) return null;
   if (gitDateCache.has(file)) return gitDateCache.get(file) ?? null;
   let out = null;
   try {
