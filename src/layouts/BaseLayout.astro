@@ -8,6 +8,7 @@ import '../styles/tokens/base.css';
 import '../styles/site.css';
 import SchemaSite from '../components/schema/SchemaSite.astro';
 import Icon from '../components/ui/Icon.astro';
+import Cookies from '../components/ui/Cookies.astro';
 
 interface Props {
   title: string;
@@ -65,14 +66,11 @@ const getAriaCurrent = (href: string) => {
       })();
     </script>
 
-    <!-- Google tag (gtag.js) — GA4 -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=G-QM1MYBRVD7" is:inline></script>
-    <script is:inline>
-      window.dataLayer = window.dataLayer || [];
-      function gtag(){dataLayer.push(arguments);}
-      gtag('js', new Date());
-      gtag('config', 'G-QM1MYBRVD7');
-    </script>
+    {/* O GA4 NAO carrega aqui. Cookie analitico e nao necessario, e o guia da ANPD
+        (p. 20) trata o consentimento como a hipotese apropriada para nao necessarios.
+        O gtag so e injetado depois do aceite, pelo componente <Cookies />, que tambem
+        guarda o registro da decisao e apaga os cookies _ga na revogacao. Sem escolha
+        do visitante, nenhuma requisicao sai para o googletagmanager.com. */}
 
     <title>{title}</title>
     <meta name="description" content={metaDesc} />
@@ -201,7 +199,8 @@ const getAriaCurrent = (href: string) => {
           </div>
         </nav>
       </div>
-      <p class="footer-copy wrap">© 2026 HACHIROKU · O SEU MECÂNICO DIGITAL · <a href="/politicas/#privacidade">Privacidade</a> · <a href="/politicas/#termos">Termos</a> · <a href="/politicas/#cookies">Cookies</a> · <a href="/politicas/#afiliados">Afiliados</a></p>
+      <p class="footer-copy wrap">© 2026 HACHIROKU · O SEU MECÂNICO DIGITAL · <a href="/politicas/#privacidade">Privacidade</a> · <a href="/politicas/#termos">Termos</a> · <a href="/politicas/#cookies">Cookies</a> · <a href="/politicas/#afiliados">Afiliados</a> · <a href="/politicas/#cookies" data-hk-abrir>Preferências de cookies</a></p>
     </footer>
+    <Cookies />
   </body>
 </html>

@@ -1,0 +1,339 @@
+---
+/**
+ * Banner de cookies em dois níveis, conforme o Guia Orientativo "Cookies e proteção
+ * de dados pessoais" da ANPD (versão 1.0, outubro de 2022).
+ *
+ * Requisitos do guia que este componente implementa, um a um:
+ *
+ * Banner de primeiro nível (p. 30-31)
+ *  - botão que permite REJEITAR todos os cookies não necessários, de fácil
+ *    visualização, presente no primeiro E no segundo nível
+ *  - link de fácil acesso para o titular exercer os seus direitos
+ *  - os três botões têm o mesmo formato e o mesmo destaque, porque conferir maior
+ *    destaque apenas ao aceite é prática desaconselhada (p. 33)
+ *
+ * Banner de segundo nível (p. 31-32)
+ *  - cookies classificados em categorias
+ *  - categorias descritas por uso e finalidade específica, com período de retenção
+ *  - consentimento obtido por finalidade específica
+ *  - cookies baseados em consentimento DESATIVADOS POR PADRÃO
+ *  - informação sobre como bloquear cookies pelas configurações do navegador
+ *
+ * O que o guia manda evitar e aqui não existe (p. 33)
+ *  - botão único no primeiro nível
+ *  - opção pré-selecionada, ou consentimento tácito por continuar navegando
+ *  - ausência de banner de segundo nível
+ *  - ausência de mecanismo direto e próprio de revogação e oposição
+ *
+ * Base legal, e por que ela mudou: os cookies analíticos são NÃO NECESSÁRIOS pela
+ * própria classificação do guia (p. 10), e para não necessários o consentimento é a
+ * hipótese apropriada (p. 20). O legítimo interesse até admite medição de audiência
+ * (p. 24), mas só quando o tratamento se limita a dados agregados, sem combinação com
+ * outros mecanismos de rastreamento e sem formação de perfis. Nenhuma credencial
+ * disponível hoje alcança a property do GA4 para verificar essa configuração, e
+ * afirmar a condição sem poder conferi-la seria afirmação sem lastro. Por isso:
+ * consentimento, negado por padrão, e o gtag só é carregado depois do aceite.
+ *
+ * Nada é gravado e nenhuma requisição sai para o Google antes da escolha. O único
+ * armazenamento anterior à decisão é o registro da própria decisão, que a LGPD exige
+ * que o controlador consiga comprovar (p. 19).
+ */
+// O ID do GA4 e publico e vive no script abaixo, que o Astro empacota num
+// bundle unico e cacheado, em vez de repetir 6 KB inline nas 764 paginas.
+---
+
+<div id="hk-cookies" class="hk-cookies" hidden role="region" aria-label="Aviso de cookies">
+  <div class="hk-cookies__caixa">
+
+    <!-- ---------- primeiro nível ---------- -->
+    <div id="hk-nivel1" class="hk-cookies__nivel">
+      <h2 class="hk-cookies__titulo">Cookies neste site</h2>
+      <p class="hk-cookies__texto">
+        O Hachiroku usa armazenamento <strong>necessário</strong> para lembrar o tema que você escolheu e para
+        guardar esta sua decisão. Se você consentir, usaremos também cookies <strong>analíticos</strong>, do
+        Google Analytics, com a finalidade específica de medir quantas pessoas leem cada página. Não usamos
+        cookies de publicidade, não construímos perfil de comportamento e não rastreamos você em outros sites.
+      </p>
+      {/* Ordem espelhada do exemplo do próprio guia da ANPD (p. 31): o rejeitar vem
+          primeiro, e os três botões têm formato e destaque idênticos. */}
+      <div class="hk-cookies__botoes">
+        <button type="button" class="hk-cookies__btn" data-hk="rejeitar">Rejeitar cookies não necessários</button>
+        <button type="button" class="hk-cookies__btn" data-hk="aceitar">Aceitar todos os cookies</button>
+        <button type="button" class="hk-cookies__btn" data-hk="gerenciar">Gerenciar cookies</button>
+      </div>
+      <p class="hk-cookies__link">
+        <a href="/politicas/#cookies">Política de cookies e como exercer os seus direitos</a>
+      </p>
+    </div>
+
+    <!-- ---------- segundo nível ---------- -->
+    <div id="hk-nivel2" class="hk-cookies__nivel" hidden>
+      <h2 class="hk-cookies__titulo">Configuração de cookies</h2>
+
+      <div class="hk-cookies__cat">
+        <div class="hk-cookies__catcab">
+          <label class="hk-cookies__sw hk-cookies__sw--fixo">
+            <input type="checkbox" checked disabled aria-label="Cookies necessários, sempre ativos" />
+            <span></span>
+          </label>
+          <div>
+            <h3>Necessários</h3>
+            <p class="hk-cookies__marca">Sempre ativos</p>
+          </div>
+        </div>
+        <p class="hk-cookies__desc">
+          Armazenamento próprio, guardado só no seu navegador e nunca enviado a servidor nenhum. São dois:
+          a sua preferência de tema claro ou escuro, e o registro desta escolha de cookies, que existe para
+          que a decisão seja respeitada nas próximas visitas e para que possamos comprová-la.
+          <strong>Retenção:</strong> até você limpar os dados do navegador.
+        </p>
+      </div>
+
+      <div class="hk-cookies__cat">
+        <div class="hk-cookies__catcab">
+          <label class="hk-cookies__sw">
+            <input type="checkbox" id="hk-analytics" aria-label="Cookies analíticos" />
+            <span></span>
+          </label>
+          <div>
+            <h3>Analíticos</h3>
+            <p class="hk-cookies__marca">Desativados por padrão</p>
+          </div>
+        </div>
+        <p class="hk-cookies__desc">
+          Cookies <code>_ga</code> e <code>_ga_QM1MYBRVD7</code>, do Google Analytics 4.
+          <strong>Finalidade específica:</strong> distinguir um visitante de outro e identificar se o acesso é novo
+          ou continuação, para medir a audiência de cada página de forma agregada.
+          <strong>Retenção:</strong> 2 anos. <strong>Quem trata:</strong> Google LLC, na condição de operador, o que
+          envolve armazenamento em servidores fora do Brasil. Recusar não desativa nada do site.
+        </p>
+      </div>
+
+      <p class="hk-cookies__desc hk-cookies__nota">
+        <strong>Não utilizamos cookies de publicidade</strong>, e por isso não existe essa categoria aqui.
+        Você também pode bloquear ou apagar cookies nas configurações de privacidade do seu navegador, mas essa
+        via é complementar: ela vale para aquele navegador e aquele aparelho, e precisa ser refeita se você trocar
+        de dispositivo ou limpar o perfil. Por isso este painel continua disponível a qualquer momento, no rodapé
+        do site, em <em>Preferências de cookies</em>.
+      </p>
+
+      <div class="hk-cookies__botoes">
+        <button type="button" class="hk-cookies__btn" data-hk="rejeitar">Rejeitar cookies não necessários</button>
+        <button type="button" class="hk-cookies__btn" data-hk="salvar">Salvar escolhas</button>
+        <button type="button" class="hk-cookies__btn" data-hk="aceitar">Aceitar todos os cookies</button>
+      </div>
+      <p class="hk-cookies__link">
+        <a href="/politicas/#cookies">Política de cookies e como exercer os seus direitos</a>
+      </p>
+    </div>
+
+  </div>
+</div>
+
+<style>
+  .hk-cookies {
+    position: fixed;
+    inset-inline: 0;
+    bottom: 0;
+    z-index: 9999;
+    background: var(--bg-elevated, #fff);
+    border-top: var(--border-strong-w, 2px) solid var(--border-strong, #222);
+    box-shadow: 0 -8px 32px -16px rgb(0 0 0 / 35%);
+    font-family: var(--font-sans, system-ui, sans-serif);
+  }
+  .hk-cookies__caixa {
+    max-width: 1100px;
+    margin-inline: auto;
+    padding: var(--space-5, 1.25rem) var(--space-4, 1rem);
+    max-height: 78vh;
+    overflow-y: auto;
+  }
+  .hk-cookies__titulo {
+    font-family: var(--font-display, inherit);
+    font-size: var(--text-lg, 1.125rem);
+    margin: 0 0 var(--space-2, .5rem);
+    color: var(--text-strong, #111);
+  }
+  .hk-cookies__texto,
+  .hk-cookies__desc {
+    font-size: var(--text-sm, .875rem);
+    line-height: 1.55;
+    color: var(--text-body, #333);
+    margin: 0 0 var(--space-3, .75rem);
+    max-width: 78ch;
+  }
+  .hk-cookies__botoes {
+    display: flex;
+    flex-wrap: wrap;
+    gap: var(--space-2, .5rem);
+    margin-bottom: var(--space-2, .5rem);
+  }
+  /* Mesmo formato e mesmo destaque para todos os botões: o guia da ANPD (p. 33)
+     desaconselha conferir maior destaque apenas ao botão de aceite. */
+  .hk-cookies__btn {
+    flex: 1 1 auto;
+    min-width: 15rem;
+    font: inherit;
+    font-size: var(--text-sm, .875rem);
+    font-weight: 600;
+    padding: .7rem 1rem;
+    cursor: pointer;
+    color: var(--text-strong, #111);
+    background: var(--bg-surface, #f5f5f5);
+    border: var(--border-strong-w, 2px) solid var(--border-strong, #222);
+    border-radius: var(--radius-sm, 4px);
+  }
+  .hk-cookies__btn:hover { background: var(--bg-sunken, #ececec); }
+  .hk-cookies__btn:focus-visible { outline: 3px solid var(--accent, #b4321e); outline-offset: 2px; }
+  .hk-cookies__link { font-size: var(--text-xs, .8rem); margin: 0; }
+  .hk-cookies__cat {
+    border-top: var(--border-hairline-w, 1px) solid var(--border-hairline, #ddd);
+    padding-top: var(--space-3, .75rem);
+    margin-top: var(--space-3, .75rem);
+  }
+  .hk-cookies__catcab { display: flex; align-items: flex-start; gap: var(--space-3, .75rem); margin-bottom: var(--space-2, .5rem); }
+  .hk-cookies__catcab h3 { font-size: var(--text-base, 1rem); margin: 0; color: var(--text-strong, #111); }
+  .hk-cookies__marca { font-size: var(--text-xs, .8rem); color: var(--text-muted, #666); margin: 2px 0 0; }
+  .hk-cookies__nota { border-top: var(--border-hairline-w, 1px) solid var(--border-hairline, #ddd); padding-top: var(--space-3, .75rem); margin-top: var(--space-3, .75rem); }
+  /* Interruptor acessível: o input real continua no DOM, só é apresentado como chave. */
+  .hk-cookies__sw { position: relative; flex: none; width: 46px; height: 26px; display: inline-block; }
+  .hk-cookies__sw input { position: absolute; inset: 0; width: 100%; height: 100%; margin: 0; opacity: 0; cursor: pointer; }
+  .hk-cookies__sw span {
+    position: absolute; inset: 0; pointer-events: none;
+    background: var(--bg-sunken, #ddd);
+    border: var(--border-hairline-w, 1px) solid var(--border-strong, #888);
+    border-radius: var(--radius-pill, 999px);
+    transition: background .15s ease;
+  }
+  .hk-cookies__sw span::after {
+    content: ""; position: absolute; top: 3px; left: 3px; width: 18px; height: 18px;
+    background: var(--bg-elevated, #fff); border-radius: 50%;
+    border: 1px solid var(--border-strong, #888);
+    transition: transform .15s ease;
+  }
+  .hk-cookies__sw input:checked + span { background: var(--accent, #b4321e); }
+  .hk-cookies__sw input:checked + span::after { transform: translateX(20px); }
+  .hk-cookies__sw input:focus-visible + span { outline: 3px solid var(--accent, #b4321e); outline-offset: 2px; }
+  .hk-cookies__sw--fixo input { cursor: default; }
+  .hk-cookies__sw--fixo span { opacity: .65; }
+  @media (prefers-reduced-motion: reduce) {
+    .hk-cookies__sw span, .hk-cookies__sw span::after { transition: none; }
+  }
+  @media (max-width: 640px) {
+    .hk-cookies__btn { min-width: 100%; }
+  }
+</style>
+
+<script>
+  (function () {
+    var GA_ID = 'G-QM1MYBRVD7';
+    var CHAVE = 'hk-consent';
+    var VERSAO = 1;
+    var raiz = document.getElementById('hk-cookies');
+    if (!raiz) return;
+    var n1 = document.getElementById('hk-nivel1');
+    var n2 = document.getElementById('hk-nivel2');
+    var swAnalytics = document.getElementById('hk-analytics');
+
+    function ler() {
+      try {
+        var bruto = localStorage.getItem(CHAVE);
+        if (!bruto) return null;
+        var d = JSON.parse(bruto);
+        // Decisão de versão anterior não vale: mudança nas premissas exige nova
+        // manifestação do titular (guia da ANPD, p. 18).
+        return d && d.v === VERSAO ? d : null;
+      } catch (e) { return null; }
+    }
+
+    function gravar(analytics) {
+      try {
+        localStorage.setItem(CHAVE, JSON.stringify({
+          v: VERSAO,
+          analytics: !!analytics,
+          data: new Date().toISOString(),
+        }));
+      } catch (e) {}
+    }
+
+    var gaCarregado = false;
+    function carregarGA() {
+      if (gaCarregado || !GA_ID) return;
+      gaCarregado = true;
+      window.dataLayer = window.dataLayer || [];
+      function gtag() { window.dataLayer.push(arguments); }
+      window.gtag = gtag;
+      // Consent Mode: só a medição é liberada. Publicidade e personalização
+      // permanecem negadas, porque o site não as utiliza e não as pediu.
+      gtag('consent', 'default', {
+        ad_storage: 'denied',
+        ad_user_data: 'denied',
+        ad_personalization: 'denied',
+        analytics_storage: 'granted',
+      });
+      var s = document.createElement('script');
+      s.async = true;
+      s.src = 'https://www.googletagmanager.com/gtag/js?id=' + GA_ID;
+      document.head.appendChild(s);
+      gtag('js', new Date());
+      gtag('config', GA_ID, { anonymize_ip: true });
+    }
+
+    function apagarCookiesGA() {
+      // Revogação tem de ter o mesmo custo da concessão: além de parar de carregar
+      // o gtag, os cookies já gravados saem agora.
+      try {
+        var host = location.hostname;
+        var dominios = ['', host, '.' + host, host.replace(/^www\./, ''), '.' + host.replace(/^www\./, '')];
+        document.cookie.split(';').forEach(function (par) {
+          var nome = par.split('=')[0].trim();
+          if (nome.indexOf('_ga') !== 0) return;
+          dominios.forEach(function (d) {
+            document.cookie = nome + '=; expires=Thu, 01 Jan 1970 00:00:00 GMT; path=/' + (d ? '; domain=' + d : '');
+          });
+        });
+      } catch (e) {}
+    }
+
+    function fechar() { raiz.hidden = true; }
+
+    function abrir(nivel) {
+      var d = ler();
+      if (swAnalytics) swAnalytics.checked = !!(d && d.analytics);
+      n1.hidden = nivel === 2;
+      n2.hidden = nivel !== 2;
+      raiz.hidden = false;
+    }
+
+    function aplicar(analytics) {
+      gravar(analytics);
+      if (analytics) carregarGA();
+      else apagarCookiesGA();
+      fechar();
+    }
+
+    raiz.addEventListener('click', function (ev) {
+      var alvo = ev.target.closest('[data-hk]');
+      if (!alvo) return;
+      var acao = alvo.getAttribute('data-hk');
+      if (acao === 'aceitar') aplicar(true);
+      else if (acao === 'rejeitar') aplicar(false);
+      else if (acao === 'gerenciar') abrir(2);
+      else if (acao === 'salvar') aplicar(!!(swAnalytics && swAnalytics.checked));
+    });
+
+    // Reabertura pelo rodapé: revogar tem de ser tão simples quanto consentir
+    // (art. 8º, § 5º, da LGPD; guia da ANPD, p. 19).
+    window.hkCookies = { abrir: function () { abrir(1); } };
+    document.addEventListener('click', function (ev) {
+      var g = ev.target.closest('[data-hk-abrir]');
+      if (!g) return;
+      ev.preventDefault();
+      abrir(1);
+    });
+
+    var decisao = ler();
+    if (!decisao) abrir(1);          // sem decisão: banner, e nada carregado
+    else if (decisao.analytics) carregarGA();
+  })();
+</script>

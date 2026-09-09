@@ -69,6 +69,13 @@ import BaseLayout from '../../layouts/BaseLayout.astro';
           <td>Lembrar se você escolheu o tema claro ou escuro. Fica apenas no seu navegador e não é enviado a servidor nenhum.</td>
           <td>Até você limpar os dados do navegador</td>
         </tr>
+        <tr>
+          <td><code>hk-consent</code></td>
+          <td>Necessário — é armazenamento local, não cookie</td>
+          <td>Próprio — Hachiroku</td>
+          <td>Guardar a sua decisão sobre cookies, para respeitá-la nas próximas visitas e para que possamos comprovar que ela foi dada. Fica apenas no seu navegador.</td>
+          <td>Até você limpar os dados do navegador</td>
+        </tr>
       </tbody>
     </table>
     <p>
@@ -79,15 +86,21 @@ import BaseLayout from '../../layouts/BaseLayout.astro';
 
     <h3>Com que base legal tratamos esses dados</h3>
     <p>
-      Os cookies analíticos são tratados com fundamento no <strong>legítimo interesse</strong> (art. 7º, IX, e
-      art. 10 da LGPD), na finalidade específica e exclusiva de medir a audiência do portal. A coleta se limita
-      ao necessário para essa medição, os resultados são lidos de forma agregada e estatística, e não servem para
-      identificar você individualmente nem para exibir anúncios. Como a base legal é o legítimo interesse, e não
-      o consentimento, você tem direito de se opor ao tratamento a qualquer momento — veja abaixo como.
+      Os cookies analíticos são tratados com fundamento no <strong>consentimento</strong> (art. 7º, I, da LGPD),
+      na finalidade específica e exclusiva de medir a audiência do portal. Eles são cookies não necessários, e o
+      Guia Orientativo da ANPD indica o consentimento como a hipótese apropriada nesses casos. Por isso:
     </p>
+    <ul>
+      <li>eles vêm <strong>desativados por padrão</strong>, e nada é carregado antes da sua escolha;</li>
+      <li>enquanto você não decidir, <strong>nenhuma requisição sai deste site para o Google</strong>;</li>
+      <li>recusar é tão fácil quanto aceitar, e está no mesmo lugar, com o mesmo destaque;</li>
+      <li>ao revogar, os cookies <code>_ga</code> já gravados são <strong>apagados na hora</strong>.</li>
+    </ul>
     <p>
-      O armazenamento do tema é necessário para entregar a interface que você mesmo escolheu e não envolve envio
-      de dado algum para fora do seu navegador.
+      O armazenamento do tema e o registro da sua decisão sobre cookies são <strong>necessários</strong> e se
+      apoiam no legítimo interesse (art. 7º, IX, da LGPD): sem o primeiro, a interface que você escolheu não
+      persiste; sem o segundo, a sua recusa seria perguntada de novo a cada página. Nenhum dos dois sai do seu
+      navegador.
     </p>
 
     <h3>Compartilhamento e transferência internacional</h3>
@@ -106,8 +119,16 @@ import BaseLayout from '../../layouts/BaseLayout.astro';
       esta política. Respondemos dentro do prazo legal.
     </p>
 
-    <h3>Como recusar os cookies analíticos</h3>
-    <p>São dois caminhos, e nenhum deles prejudica a leitura do site:</p>
+    <h3>Como aceitar, recusar ou mudar de ideia</h3>
+    <p>
+      O caminho principal é o painel do próprio site, e ele fica sempre disponível:
+      <button type="button" class="btn btn-outline" data-hk-abrir>Abrir preferências de cookies</button>
+      Esse mesmo painel está no rodapé de todas as páginas, em <em>Preferências de cookies</em>. Nele você aceita
+      tudo, recusa todos os não necessários ou escolhe categoria por categoria, e a decisão pode ser trocada
+      quantas vezes quiser, de graça e sem precisar justificar. É o mecanismo direto e próprio que a LGPD exige
+      para revogação e oposição, e ele não depende de nenhuma configuração do seu navegador.
+    </p>
+    <p>Existem ainda dois caminhos complementares, e nenhum deles prejudica a leitura do site:</p>
     <ul>
       <li>
         <strong>Complemento oficial de exclusão:</strong> instalar o
