@@ -202,5 +202,25 @@ const getAriaCurrent = (href: string) => {
       <p class="footer-copy wrap">© 2026 HACHIROKU · O SEU MECÂNICO DIGITAL · <a href="/politicas/#privacidade">Privacidade</a> · <a href="/politicas/#termos">Termos</a> · <a href="/politicas/#cookies">Cookies</a> · <a href="/politicas/#afiliados">Afiliados</a> · <a href="/politicas/#cookies" data-hk-abrir>Preferências de cookies</a></p>
     </footer>
     <Cookies />
+
+    {/* Evento de clique dos banners de produto (BannerProduto/BannerProduto
+        Mobile). Delegado em document porque o banner pode ser injetado tanto
+        por componente Astro quanto pelo rehype-banner-meio (raw HTML no
+        markdown) — um listener só, cobre os dois. Só dispara se o gtag já
+        existe, ou seja, só depois do consentimento de analytics (ver
+        Cookies.astro); sem consentimento, o clique acontece normalmente,
+        só não é medido. */}
+    <script is:inline>
+      document.addEventListener('click', function (ev) {
+        var el = ev.target.closest && ev.target.closest('.js-banner-produto');
+        if (!el || typeof window.gtag !== 'function') return;
+        window.gtag('event', 'banner_produto_click', {
+          produto: el.getAttribute('data-bp-produto') || '(desconhecido)',
+          variante: el.getAttribute('data-bp-variante') || '(desconhecida)',
+          destino: el.href,
+          pagina: location.pathname,
+        });
+      }, true);
+    </script>
   </body>
 </html>

@@ -4,8 +4,42 @@ import sitemap from '@astrojs/sitemap';
 import fs from 'node:fs';
 import path from 'node:path';
 import { execFileSync } from 'node:child_process';
+import { BANNERS } from './src/config/banners.ts';
+import { bannerHtmlResponsive } from './src/lib/banner-html.ts';
 
 const SITE = 'https://hachiroku.com.br';
+
+/**
+ * Injeta o banner de produto (BANNERS[produto], mesma fonte que
+ * BannerProduto.astro usa) antes do N-ésimo heading de nível `nivel`, lido
+ * do frontmatter `bannerMeio: { produto, nivel, indice }` de cada entrada de
+ * conteúdo. Roda no pipeline de markdown (hast), antes do Astro montar a
+ * página — por isso é raw HTML, não um componente Astro.
+ *
+ * `file.data.astro.frontmatter` aqui é o frontmatter CRU (pré-zod): os
+ * defaults do schema (`nivel: 'h2'`, `indice: 1`) são replicados abaixo
+ * porque o zod ainda não rodou nesta fase.
+ */
+function rehypeBannerMeio() {
+  return (tree, file) => {
+    const cfg = file.data?.astro?.frontmatter?.bannerMeio;
+    if (!cfg?.produto) return;
+    const props = BANNERS[cfg.produto];
+    if (!props) return; // produto inexistente em banners.ts — não quebra o build, só não injeta
+    const nivel = cfg.nivel ?? 'h2';
+    const alvo = cfg.indice ?? 1;
+    let vistos = 0;
+    const idx = tree.children.findIndex((node) => {
+      if (node.type === 'element' && node.tagName === nivel) {
+        vistos += 1;
+        return vistos === alvo;
+      }
+      return false;
+    });
+    if (idx === -1) return; // artigo não tem headings suficientes nesse nível — não injeta
+    tree.children.splice(idx, 0, { type: 'raw', value: bannerHtmlResponsive(props, cfg.produto) });
+  };
+}
 
 /** @param {string} dir @param {(file: string) => void} cb */
 function walkDir(dir, cb) {
@@ -153,6 +187,9 @@ export default defineConfig({
   // Astro 7 mudou o default p/ 'jsx' (colapsa espaço entre elementos irmãos).
   // Mantém o comportamento v6 — site de conteúdo com muito inline HTML no markdown.
   compressHTML: true,
+  markdown: {
+    rehypePlugins: [rehypeBannerMeio],
+  },
   integrations: [
     sitemap({
       filter: (page) => !page.includes('/busca/'),

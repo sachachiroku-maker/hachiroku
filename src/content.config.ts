@@ -37,6 +37,19 @@ const link = z.object({
 });
 
 /**
+ * Banner de produto injetado no meio do corpo do artigo, antes do N-ésimo
+ * heading de um nível (ver src/lib/rehype-banner-meio.mjs). `produto` é a
+ * chave em src/config/banners.ts — trocar o produto exibido é editar o
+ * registro lá, nunca hardcode aqui. `indice` é 1-based ("2" = antes do
+ * segundo H2 do corpo).
+ */
+const bannerMeio = z.object({
+  produto: z.string(),
+  nivel: z.enum(['h2', 'h3', 'h4']).default('h2'),
+  indice: z.number().int().min(1).default(1),
+});
+
+/**
  * Referência do bloco "Referências" (fim do artigo).
  * `url` é OPCIONAL de propósito: nem toda fonte precisa receber link.
  * Citar canal, fórum ou levantamento próprio pelo nome já estabelece procedência
@@ -231,6 +244,7 @@ const manutencao = defineCollection({
       faq: z.array(faqItem).default([]),
       afiliados: z.array(afiliado).default([]),
       relacionados: z.array(link).default([]),
+      bannerMeio: bannerMeio.optional(),
       draft: z.boolean().default(false),
     }),
 });

@@ -278,6 +278,65 @@ main { flex: 1; width: 100%; }
 }
 .afiliado .cta:hover { background: var(--accent); color: #fff; }
 
+/*
+ * ---- Banner de produto no meio do conteúdo (BannerProduto) ----
+ * Global (não escopado ao componente) de propósito: rehype-banner-meio.mjs
+ * injeta este mesmo markup como HTML bruto dentro do corpo do markdown,
+ * fora do sistema de estilos por componente do Astro. Uma só folha de
+ * estilo para os dois pontos de entrada (componente manual + injeção).
+ */
+.bp-wrap { container-type: inline-size; display: block; width: 100%; margin: var(--space-8) 0; font-family: Arial, Helvetica, sans-serif; text-decoration: none; color: inherit; }
+.bp-wrap:focus-visible { outline: 3px solid #005fcc; outline-offset: 4px; border-radius: 22px; }
+.bp, .bp * { box-sizing: border-box; }
+/*
+ * Grid de 2 colunas fixo em qualquer largura — no celular só ENCOLHE (via
+ * clamp/cqi), nunca empilha. Formato de banner (paisagem) é o pedido: não
+ * virar um cartão vertical quando o container fica estreito.
+ */
+.bp { display: grid; grid-template-columns: 1.5fr 1fr; align-items: center; gap: clamp(6px, 2.5cqi, 10px); position: relative; isolation: isolate; background: #ffe500; border-radius: clamp(14px, 4cqi, 20px); padding: clamp(14px, 4.5cqi, 22px) clamp(12px, 4cqi, 20px) clamp(14px, 4.5cqi, 22px) clamp(16px, 5cqi, 26px); color: #080808; transition: background .15s; }
+.bp-copy { position: relative; z-index: 2; min-width: 0; }
+.bp-discount { display: inline-flex; align-items: center; gap: 6px; background: #c61920; color: #fff; border-radius: 9px; padding: clamp(4px, 1.5cqi, 6px) clamp(8px, 2.5cqi, 12px); margin: 0 0 clamp(6px, 2cqi, 12px); font-size: clamp(12px, 3cqi, 18px); font-weight: 900; line-height: 1; box-shadow: 0 3px 0 #970e14; }
+.bp-discount strong { font-size: clamp(16px, 4cqi, 26px); }
+.bp-title { display: block; font-size: clamp(16px, 4.6cqi, 32px); font-weight: 900; line-height: 1.06; letter-spacing: -.03em; margin: 0 0 clamp(4px, 2cqi, 10px); }
+.bp-title span { display: block; }
+.bp-desc { display: block; font-size: clamp(11px, 2.6cqi, 16px); line-height: 1.3; margin: 0 0 clamp(5px, 2cqi, 12px); }
+.bp-spec { display: table; background: #fff; border: 1px solid #999; border-radius: 99px; padding: clamp(3px, 1.2cqi, 6px) clamp(8px, 2.5cqi, 14px); font-size: clamp(10px, 2.4cqi, 14px); font-weight: 800; line-height: 1.2; margin: 0 0 clamp(6px, 2cqi, 14px); }
+.bp-cta { display: inline-flex; align-items: center; justify-content: center; min-height: clamp(28px, 8cqi, 44px); background: #090909; color: #fff; border-radius: 99px; padding: clamp(6px, 2.5cqi, 12px) clamp(10px, 3.5cqi, 22px); font-size: clamp(11px, 2.8cqi, 18px); font-weight: 800; line-height: 1.1; text-transform: uppercase; }
+.bp-wrap:hover .bp-cta, .bp-wrap:focus-visible .bp-cta { background: #292929; }
+.bp-media { align-self: stretch; display: flex; align-items: center; justify-content: center; min-width: 0; }
+.bp-image { display: block; width: 100%; height: auto; max-height: clamp(70px, 26cqi, 280px); object-fit: contain; background: transparent; }
+
+/*
+ * ---- Variante mobile do banner (empilhada, com selo) ----
+ * Layout de banner-astroai-mobile.zip. Alterna com .bp-wrap (paisagem) só
+ * por media query — as duas variantes são sempre emitidas no HTML; o
+ * breakpoint decide qual fica visível, nunca as duas ao mesmo tempo.
+ */
+.bpm-wrap { container-type: inline-size; display: block; width: 100%; max-width: 440px; margin: var(--space-8) auto; font-family: Arial, Helvetica, sans-serif; text-decoration: none; color: inherit; }
+.bpm-wrap:focus-visible { outline: 3px solid #005fcc; outline-offset: 4px; border-radius: 24px; }
+.bpm, .bpm * { box-sizing: border-box; }
+.bpm { background: #ffe500; color: #080808; border-radius: 22px; padding: 22px; display: grid; gap: 16px; text-align: center; transition: background .15s; }
+.bpm-copy { min-width: 0; }
+.bpm-discount { display: inline-flex; align-items: center; gap: 7px; padding: 8px 15px; margin: 0 0 17px; border-radius: 9px; background: #c61920; color: #fff; font-weight: 900; font-size: 20px; line-height: 1; box-shadow: 0 3px 0 #970e14; }
+.bpm-discount strong { font-size: 34px; }
+.bpm-title { margin: 0 0 10px; font-size: clamp(22px, 7.3cqi, 32px); font-weight: 900; line-height: 1.06; letter-spacing: -.04em; overflow-wrap: anywhere; }
+.bpm-title span { display: block; }
+.bpm-desc { margin: 0 auto 12px; max-width: 290px; font-size: 16px; line-height: 1.35; }
+.bpm-spec { display: inline-block; margin: 0; background: #fff; border: 1px solid #aaa; border-radius: 99px; padding: 6px 16px; font-size: 16px; font-weight: 800; line-height: 1.2; }
+.bpm-media { min-width: 0; display: flex; justify-content: center; align-items: center; }
+.bpm-image { display: block; width: 100%; height: auto; max-height: 245px; object-fit: contain; background: transparent; }
+.bpm-cta { display: flex; align-items: center; justify-content: center; width: 100%; min-height: 52px; padding: 14px 12px; background: #090909; color: #fff; border-radius: 99px; font-weight: 800; font-size: 18px; line-height: 1.2; text-transform: uppercase; }
+.bpm-wrap:hover .bpm-cta, .bpm-wrap:focus-visible .bpm-cta { background: #292929; }
+@container (max-width: 300px) { .bpm { padding: 16px; gap: 12px; } .bpm-title { font-size: 22px; } .bpm-image { max-height: 210px; } .bpm-desc { font-size: 15px; } }
+
+/*
+ * Troca desktop/mobile — por último de propósito: precisa vencer o próprio
+ * `display:block` de `.bp-wrap`/`.bpm-wrap` acima (mesma especificidade,
+ * uma classe só; em empate o CSS aplica a regra que vem depois no arquivo).
+ */
+@media (max-width: 600px) { .bp-desktop-only { display: none; } }
+@media (min-width: 601px) { .bp-mobile-only { display: none; } }
+
 /* ---- FAQ ---- */
 .faq dt { font-weight: var(--weight-semibold); color: var(--text-strong); margin-top: var(--space-5); }
 .faq dd { margin: var(--space-1) 0 0; color: var(--text-body); }

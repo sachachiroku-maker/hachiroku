@@ -1,0 +1,24 @@
+---
+/**
+ * Banner de produto afiliado — card inteiro é o link (whole-card click),
+ * texto/selo/CTA em HTML real, só a imagem é arte. O markup vem de
+ * bannerHtml() (src/lib/banner-html.ts), a mesma função que
+ * rehype-banner-meio.mjs usa pra injetar isso dentro do corpo do markdown —
+ * uma só fonte pros dois pontos de entrada. Estilos em src/styles/site.css
+ * (globais, `.bp*`), não escopados aqui, pelo mesmo motivo.
+ *
+ * Uso manual: <BannerProduto produto="astroai-s8" />
+ * Uso automático (acima do N-ésimo H2/H3/H4 de um artigo): frontmatter
+ * `bannerMeio: { produto: astroai-s8, nivel: h2, indice: 2 }`.
+ */
+import { BANNERS } from '../../config/banners';
+import { bannerHtmlResponsive } from '../../lib/banner-html';
+
+interface Props {
+  produto: keyof typeof BANNERS;
+}
+const { produto } = Astro.props;
+const props = BANNERS[produto];
+if (!props) throw new Error(`BannerProduto: produto "${produto}" não existe em src/config/banners.ts`);
+---
+<Fragment set:html={bannerHtmlResponsive(props, produto)} />
