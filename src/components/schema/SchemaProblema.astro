@@ -1,4 +1,5 @@
 ---
+import { autorNode } from '../../lib/autor';
 /**
  * Schema de página de problema — @graph com BreadcrumbList + Article + HowTo + FAQPage.
  * Gerado a partir do frontmatter da collection `problemas` (Template A do plano de schema).
@@ -53,10 +54,10 @@ const graph: any[] = [
     datePublished: data.pubDate.toISOString().slice(0, 10),
     dateModified: (data.updatedDate ?? data.pubDate).toISOString().slice(0, 10),
     inLanguage: 'pt-BR',
-    author: data.autor ? { '@type': 'Person', name: data.autor.nome, url: data.autor.sameAs ?? `${site}/equipe/`, ...(data.autor.credencial ? { jobTitle: data.autor.credencial } : {}), ...(data.autor.sameAs ? { sameAs: data.autor.sameAs } : {}) } : { '@id': `${site}/#organization` },
+    author: autorNode(data.autor, site),
     publisher: { '@id': `${site}/#organization` },
     isPartOf: { '@id': `${site}/#website` },
-    mainEntityOfPage: { '@type': 'WebPage', '@id': url },
+    mainEntityOfPage: url,
     ...(_articleImage ? { image: { '@type': 'ImageObject', url: `${site}${_articleImage}` } } : {}),
     speakable: { '@type': 'SpeakableSpecification', cssSelector: ['.resumo-rapido', '.faq'] },
     hasPart: [

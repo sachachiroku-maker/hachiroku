@@ -1,4 +1,5 @@
 ---
+import { autorNode } from '../../lib/autor';
 /**
  * Schema de tutorial — @graph com BreadcrumbList + HowTo + Article + FAQPage.
  * Template C do plano de schema.
@@ -30,10 +31,10 @@ const graph: any[] = [
     datePublished: data.pubDate?.toISOString().slice(0, 10),
     dateModified: (data.updatedDate ?? data.pubDate)?.toISOString().slice(0, 10),
     inLanguage: 'pt-BR',
-    author: data.autor ? { '@type': 'Person', name: data.autor.nome, url: data.autor.sameAs ?? `${site}/equipe/`, ...(data.autor.credencial ? { jobTitle: data.autor.credencial } : {}), ...(data.autor.sameAs ? { sameAs: data.autor.sameAs } : {}) } : { '@id': `${site}/#organization` },
+    author: autorNode(data.autor, site),
     publisher: { '@id': `${site}/#organization` },
     isPartOf: { '@id': `${site}/#website` },
-    mainEntityOfPage: { '@type': 'WebPage', '@id': url },
+    mainEntityOfPage: url,
     ...(data.imagem ? { image: { '@type': 'ImageObject', url: `${site}${data.imagem}` } } : {}),
     speakable: { '@type': 'SpeakableSpecification', cssSelector: ['.passos', '.faq'] },
     hasPart: [{ '@id': `${url}#howto` }, ...(data.faq?.length ? [{ '@id': `${url}#faq` }] : [])],
@@ -50,7 +51,7 @@ const graph: any[] = [
     ...(data.ferramentas?.length ? { tool: data.ferramentas.map((t: string) => ({ '@type': 'HowToTool', name: t })) } : {}),
     ...(data.materiais?.length ? { supply: data.materiais.map((s: string) => ({ '@type': 'HowToSupply', name: s })) } : {}),
     step: (data.passos ?? []).map((s: any, i: number) => ({
-      '@type': 'HowToStep', position: i + 1, name: s.nome, text: s.texto,
+      '@type': 'HowToStep', '@id': `${url}#howto-step-${i + 1}`, position: i + 1, name: s.nome, text: s.texto,
     })),
   },
 ];

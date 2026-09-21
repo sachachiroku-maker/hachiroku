@@ -1,6 +1,13 @@
 ---
+import { autorNode } from '../../lib/autor';
 /**
- * Schema de ficha técnica — @graph com BreadcrumbList + Product + Vehicle + FAQPage.
+ * Schema de ficha técnica — @graph com BreadcrumbList + TechArticle + Thing(Vehicle) + FAQPage.
+ *
+ * O nó da entidade NÃO usa @type Vehicle. Vehicle é subtipo de Product, e o parser de
+ * Product do Google reprova todo nó da família sem offers/review/aggregateRating — o
+ * portal é editorial e não vende carro, então não há oferta legítima a declarar.
+ * A identidade fica em Thing + additionalType, que preserva sameAs/Wikidata sem
+ * entrar no radar do rich result de produto. As specs seguem nas tabelas HTML.
  * Gerado do frontmatter da collection `fichas` (Template B do plano de schema).
  */
 import { modeloSameAs } from '../../lib/wikis';
@@ -17,23 +24,15 @@ const nome = `${data.marca} ${data.modelo} ${data.ano} ${data.versao}`;
 const fichaImagem = `${site}${fotoPorModelo(data.marca, data.modelo, 'ficha')}`;
 const _fichaModeloKey = `${data.marca.toLowerCase()}/${data.modelo.toLowerCase().replace(/\s+/g, '-')}`;
 
-// Specs dos grupos k/v do frontmatter → PropertyValue (Vehicle herda additionalProperty de Product)
-const specGroups: [string, { k: string; v: string }[]][] = [
-  ['Motor', data.motor ?? []],
-  ['Transmissão', data.transmissao ?? []],
-  ['Desempenho', data.desempenho ?? []],
-  ['Consumo', data.consumo ?? []],
-  ['Dimensões', data.dimensoes ?? []],
-  ['Chassi', data.chassi ?? []],
-];
-const additionalProperty = specGroups.flatMap(([grupo, specs]) =>
-  specs.map((s) => ({
-    '@type': 'PropertyValue',
-    name: s.k,
-    value: s.v,
-    propertyID: grupo,
-  }))
-);
+// Descritor de desambiguação montado só com campos reais do frontmatter.
+// Substitui as propriedades tipadas de Vehicle (brand/model/fuelType/bodyType), que
+// não têm domínio válido em Thing. Nada aqui é inferido: campo ausente não entra.
+const descritor = [
+  data.carroceria,
+  data.combustivel,
+  data.cilindrada,
+  data.versao,
+].filter(Boolean).join(', ');
 
 const graph: any[] = [
   {
@@ -54,11 +53,11 @@ const graph: any[] = [
     proficiencyLevel: 'Expert',
     inLanguage: 'pt-BR',
     about: { '@id': `${url}#vehicle` },
-    author: data.autor ? { '@type': 'Person', name: data.autor.nome, url: data.autor.sameAs ?? `${site}/equipe/`, ...(data.autor.credencial ? { jobTitle: data.autor.credencial } : {}), ...(data.autor.sameAs ? { sameAs: data.autor.sameAs } : {}) } : { '@id': `${site}/#organization` },
+    author: autorNode(data.autor, site),
     publisher: { '@id': `${site}/#organization` },
     datePublished: data.pubDate?.toISOString().slice(0, 10),
     dateModified: (data.updatedDate ?? data.pubDate)?.toISOString().slice(0, 10),
-    mainEntityOfPage: { '@type': 'WebPage', '@id': url },
+    mainEntityOfPage: url,
     image: {
       '@type': 'ImageObject',
       url: fichaImagem,
@@ -66,22 +65,16 @@ const graph: any[] = [
     ...(data.faq?.length ? { hasPart: [{ '@id': `${url}#faq` }] } : {}),
   },
   {
-    '@type': 'Vehicle',
+    '@type': 'Thing',
+    additionalType: 'https://schema.org/Vehicle',
     '@id': `${url}#vehicle`,
     name: nome,
+    alternateName: `${data.marca} ${data.modelo}`,
     description: data.description,
+    ...(descritor ? { disambiguatingDescription: `${data.marca} ${data.modelo} ${data.ano}: ${descritor}.` } : {}),
     image: fichaImagem,
-    brand: { '@type': 'Brand', name: data.marca },
-    manufacturer: { '@type': 'Organization', name: data.marca },
-    model: data.modelo,
-    modelDate: String(data.ano),
-    vehicleConfiguration: data.versao,
-    bodyType: data.carroceria ?? undefined,
-    fuelType: data.combustivel,
-    ...(additionalProperty.length ? { additionalProperty } : {}),
-    ...(data.cilindrada
-      ? { vehicleEngine: { '@type': 'EngineSpecification', engineDisplacement: data.cilindrada } }
-      : {}),
+    url,
+    subjectOf: { '@id': `${url}#article` },
     ...(modeloSameAs(_fichaModeloKey) ? { sameAs: modeloSameAs(_fichaModeloKey) } : {}),
   },
 ];

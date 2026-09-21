@@ -45,7 +45,11 @@ const jsonld = {
       description: entidade.resumo, datePublished: _datePublished, dateModified: _dateModified,
       image: { '@type': 'ImageObject', url: `${site}/img/capas/problemas.webp`, width: 1200, height: 620 },
       isPartOf: { '@id': `${site}/#website` }, publisher: { '@id': `${site}/#organization` },
-      breadcrumb: { '@id': `${url}#breadcrumb` }, mainEntityOfPage: { '@id': url },
+      // A própria CollectionPage é a página. `mainEntityOfPage: { '@id': url }`
+      // apontava para um nó sem `@type`, que nada no grafo declarava — referência
+      // pendurada em 21 páginas (13 de /motor/, 8 de /tecnologia/). `url` diz a
+      // mesma coisa sem inventar um nó.
+      breadcrumb: { '@id': `${url}#breadcrumb` }, url,
       about: { '@type': 'Thing', name: entidade.nome, ...(entidade.sameAs ? { sameAs: entidade.sameAs } : {}) },
       hasPart: [{ '@id': `${url}#itemlist` }] },
     { '@type': 'ItemList', '@id': `${url}#itemlist`, itemListElement: diagnosticos.map((d, i) => ({

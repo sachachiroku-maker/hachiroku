@@ -1,4 +1,5 @@
 ---
+import { autorNode } from '../../lib/autor';
 import { getCollection, render } from 'astro:content';
 import BaseLayout from '../../layouts/BaseLayout.astro';
 
@@ -32,13 +33,7 @@ const jsonld: Record<string, unknown>[] = [
     url,
     datePublished: pubDate.toISOString(),
     dateModified: (updatedDate ?? pubDate).toISOString(),
-    author: {
-      '@type': 'Person',
-      name: autor.nome,
-      url: autor.sameAs ?? `${site}/equipe/`,
-      ...(autor.credencial && { jobTitle: autor.credencial }),
-      ...(autor.sameAs     && { sameAs: autor.sameAs }),
-    },
+    author: autorNode(autor, site),
     publisher: { '@id': `${site}/#organization` },
     isPartOf: { '@id': `${site}/#website` },
     breadcrumb: { '@id': `${url}#breadcrumb` },
@@ -49,8 +44,9 @@ if (faq.length > 0) {
   jsonld.push({
     '@type': 'FAQPage',
     '@id': `${url}#faq`,
-    mainEntity: faq.map((f) => ({
+    mainEntity: faq.map((f, i) => ({
       '@type': 'Question',
+      '@id': `${url}#faq-${i}`,
       name: f.pergunta,
       acceptedAnswer: { '@type': 'Answer', text: f.resposta },
     })),

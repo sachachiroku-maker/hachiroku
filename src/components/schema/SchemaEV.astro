@@ -1,6 +1,11 @@
 ---
+import { autorNode } from '../../lib/autor';
 /**
- * Schema de página EV — @graph com BreadcrumbList + Article + Vehicle (Electric) + HowTo? + FAQPage.
+ * Schema de página EV — @graph com BreadcrumbList + Article + Thing(Vehicle) + HowTo? + FAQPage.
+ *
+ * Mesma regra da ficha técnica: o nó da entidade não declara @type Vehicle, porque
+ * Vehicle é subtipo de Product e o Google reprova a família inteira sem
+ * offers/review/aggregateRating. Identidade vai em Thing + additionalType.
  * Template F do plano de schema.
  */
 interface Props {
@@ -48,10 +53,10 @@ const graph: any[] = [
     datePublished: data.pubDate.toISOString().slice(0, 10),
     dateModified: (data.updatedDate ?? data.pubDate).toISOString().slice(0, 10),
     inLanguage: 'pt-BR',
-    author: data.autor ? { '@type': 'Person', name: data.autor.nome, url: data.autor.sameAs ?? `${site}/equipe/`, ...(data.autor.credencial ? { jobTitle: data.autor.credencial } : {}), ...(data.autor.sameAs ? { sameAs: data.autor.sameAs } : {}) } : { '@id': `${site}/#organization` },
+    author: autorNode(data.autor, site),
     publisher: { '@id': `${site}/#organization` },
     isPartOf: { '@id': `${site}/#website` },
-    mainEntityOfPage: { '@type': 'WebPage', '@id': url },
+    mainEntityOfPage: url,
     ...(data.imagem ? { image: { '@type': 'ImageObject', url: `${site}${data.imagem}` } } : {}),
     speakable: { '@type': 'SpeakableSpecification', cssSelector: ['.faq'] },
     hasPart: [
@@ -63,16 +68,23 @@ const graph: any[] = [
 
 if (temVeiculo) {
   graph.push({
-    '@type': 'Vehicle',
+    '@type': 'Thing',
+    additionalType: 'https://schema.org/Vehicle',
     '@id': `${url}#vehicle`,
     name: nome,
-    manufacturer: {
-      '@type': 'Organization',
-      name: marcaResolvida!.nome,
-      ...(marcaResolvida!.sameAs?.length ? { sameAs: marcaResolvida!.sameAs } : {}),
-    },
-    model: data.entidade.modelo,
-    fuelType: data.entidade.tipo,
+    ...(data.entidade.tipo
+      ? { disambiguatingDescription: `${nome}: ${data.entidade.tipo}, fabricado por ${marcaResolvida!.nome}.` }
+      : {}),
+    url,
+    subjectOf: { '@id': `${url}#article` },
+  });
+  // A montadora é entidade própria. O sameAs dela é da MARCA, nunca do modelo:
+  // pendurá-lo no nó do veículo faria o grafo afirmar que o carro é a montadora.
+  graph.push({
+    '@type': 'Organization',
+    '@id': `${url}#marca`,
+    name: marcaResolvida!.nome,
+    ...(marcaResolvida!.sameAs?.length ? { sameAs: marcaResolvida!.sameAs } : {}),
   });
 }
 
