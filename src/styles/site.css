@@ -337,6 +337,35 @@ main { flex: 1; width: 100%; }
 @media (max-width: 600px) { .bp-desktop-only { display: none; } }
 @media (min-width: 601px) { .bp-mobile-only { display: none; } }
 
+/*
+ * ---- Banner Vonixx (2ª família, layout próprio) ----
+ * Um markup só, responsivo por container query (não alterna por viewport
+ * como .bp-wrap/.bpm-wrap) — empilha quando o ESPAÇO do banner (não a
+ * tela) fica ≤580px, útil pra artigo com coluna estreita mesmo em desktop.
+ * Origem: banner-vonixx-responsivo.zip.
+ */
+.vx-wrap { container-type: inline-size; display: block; width: 100%; margin: var(--space-8) 0; font-family: Arial, Helvetica, sans-serif; text-decoration: none; color: inherit; }
+.vx-wrap:focus-visible { outline: 3px solid #005fcc; outline-offset: 4px; border-radius: 26px; }
+.vx-banner, .vx-banner * { box-sizing: border-box; }
+.vx-banner { display: grid; grid-template-columns: minmax(0, 1.2fr) minmax(0, 1fr); grid-template-areas: "copy media" "action media"; gap: 18px 24px; background: #ffe500; color: #111; border-radius: 24px; padding: 30px; align-items: center; }
+.vx-copy { grid-area: copy; min-width: 0; }
+.vx-top { display: flex; align-items: center; flex-wrap: wrap; gap: 12px; margin-bottom: 18px; }
+.vx-label { font-size: 13px; letter-spacing: .12em; font-weight: 800; }
+.vx-off { display: inline-flex; gap: 5px; align-items: baseline; background: #bc1320; color: #fff; border-radius: 8px; padding: 8px 12px; font-size: 17px; line-height: 1; font-weight: 800; box-shadow: 0 3px 0 #8b0d17; }
+.vx-off strong { font-size: 29px; }
+.vx-title { display: block; margin: 0 0 14px; font-size: clamp(25px, 4.3cqi, 48px); line-height: 1.04; letter-spacing: -.045em; font-weight: 900; overflow-wrap: anywhere; }
+.vx-title span { display: block; }
+.vx-description { display: block; margin: 0 0 14px; font-size: clamp(16px, 1.9cqi, 20px); line-height: 1.45; color: #222; }
+.vx-benefits { display: block; font-size: 13px; font-weight: 700; line-height: 1.5; margin: 0; color: #333; }
+.vx-media { grid-area: media; min-width: 0; display: flex; align-items: center; justify-content: center; }
+.vx-media img { display: block; width: 100%; height: auto; max-height: 390px; object-fit: contain; background: transparent; }
+.vx-action { grid-area: action; min-width: 0; }
+.vx-button { display: inline-flex; align-items: center; justify-content: center; min-height: 52px; padding: 15px 30px; border-radius: 99px; background: #101010; color: #fff; font-size: 18px; font-weight: 800; line-height: 1.2; text-transform: uppercase; }
+.vx-wrap:hover .vx-button, .vx-wrap:focus-visible .vx-button { background: #303030; }
+.vx-action small { display: block; font-size: 11px; line-height: 1.4; margin-top: 8px; color: #444; }
+@container (max-width: 580px) { .vx-banner { grid-template-columns: minmax(0, 1fr); grid-template-areas: "copy" "media" "action"; padding: 22px; gap: 18px; border-radius: 20px; text-align: center; } .vx-top { justify-content: center; margin-bottom: 16px; } .vx-title { font-size: clamp(25px, 7.5cqi, 39px); } .vx-description { font-size: 16px; } .vx-media img { max-height: 260px; width: 90%; } .vx-button { width: 100%; } .vx-benefits { font-size: 12px; } }
+@container (max-width: 300px) { .vx-banner { padding: 16px; } .vx-title { font-size: 24px; } .vx-media img { max-height: 220px; } }
+
 /* ---- FAQ ---- */
 .faq dt { font-weight: var(--weight-semibold); color: var(--text-strong); margin-top: var(--space-5); }
 .faq dd { margin: var(--space-1) 0 0; color: var(--text-body); }

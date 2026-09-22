@@ -30,7 +30,6 @@ faq:
 afiliados:
   - { produto: "Multímetro digital ET-1002 Minipa", nota: "Suficiente para medir tensão de bateria e diagnosticar falhas básicas no sistema elétrico.", busca: "multimetro digital automotivo", programa: "amazon" }
   - { produto: "Bateria Moura Free MF60LD 60Ah", nota: "Livre de manutenção, boa relação custo-benefício para veículos populares de até 1.6.", busca: "bateria moura 60ah livre manutencao", programa: "amazon" }
-bannerMeio: { produto: "astroai-s8", nivel: "h2", indice: 2 }
 relacionados:
   - { titulo: "Como ler as luzes do painel do carro", url: "/manutencao/luzes-do-painel-o-que-significam/" }
   - { titulo: "Como verificar o nível de óleo do motor", url: "/manutencao/como-verificar-nivel-oleo-motor/" }

@@ -37,24 +37,25 @@ const link = z.object({
 });
 
 /**
- * Banner de produto injetado no meio do corpo do artigo, antes do N-ésimo
- * heading de um nível (ver rehypeBannerMeio em astro.config.mjs). `produto`
- * é a chave em src/config/banners.ts — trocar o produto exibido é editar o
- * registro lá, nunca hardcode aqui. `indice` é 1-based ("2" = antes do
- * segundo H2 do corpo).
+ * Banners de produto injetados no meio do corpo do artigo, antes do
+ * N-ésimo heading de um nível (ver rehypeBannerMeio em astro.config.mjs).
+ * `familia` escolhe o layout/registro ('padrao' = src/config/banners.ts
+ * BANNERS, 'vonixx' = BANNERS_VONIXX); `produto` é a chave dentro do
+ * registro da família. `indice` é 1-based ("4" = antes do quarto heading
+ * daquele nível no corpo).
  *
- * Todo silo tem um banner por padrão (produto/posição definidos em
- * DEFAULT_BANNER_MEIO, astro.config.mjs) SEM precisar declarar nada aqui —
- * omitir o campo usa o default. Declarar este objeto sobrescreve produto
- * e/ou posição só para este artigo. `bannerMeio: false` desativa o banner
- * neste artigo.
+ * Todo silo tem os banners de DEFAULT_BANNER_SLOTS (astro.config.mjs) SEM
+ * precisar declarar nada aqui — omitir o campo usa o default. Declarar um
+ * array aqui SUBSTITUI a lista inteira só para este artigo (não soma).
+ * `bannerMeio: false` desativa todos os banners neste artigo.
  */
 const bannerMeio = z.union([
-  z.object({
+  z.array(z.object({
+    familia: z.enum(['padrao', 'vonixx']).default('padrao'),
     produto: z.string(),
     nivel: z.enum(['h2', 'h3', 'h4']).default('h2'),
     indice: z.number().int().min(1).default(1),
-  }),
+  })),
   z.literal(false),
 ]);
 

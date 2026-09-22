@@ -38,3 +38,25 @@ export const BANNERS: Record<string, BannerProdutoProps> = {
     cta: 'Conferir preço',
   },
 };
+
+/**
+ * Segunda família de banner — ver src/lib/banner-vonixx-html.ts. `href`
+ * fica vazio de propósito: banner-vonixx-responsivo.zip não trouxe o link
+ * do anúncio ("Não foi recebido um link deste kit"), e o gerador de HTML
+ * falha o build com erro claro em vez de publicar CTA sem destino.
+ * NÃO ATIVO em DEFAULT_BANNER_SLOTS (astro.config.mjs) até o href real
+ * entrar aqui.
+ */
+export const BANNERS_VONIXX: Record<string, import('../lib/banner-vonixx-html').VonixxBannerProps> = {
+  'kit-vonixx': {
+    href: '', // TODO: colar o link real do anúncio do kit Vonixx
+    headline: 'SEU CARRO LIMPO.',
+    subheadline: 'O BRILHO QUE DÁ GOSTO.',
+    description: 'Da lavagem ao acabamento: cuide da pintura, do interior e dos plásticos com o kit Vonixx.',
+    benefits: 'Limpeza · Brilho · Cuidado com os plásticos',
+    imageSrc: '/img/banners/kit-vonixx.webp',
+    imageAlt: 'Kit Vonixx com Sintra Fast, Tok Final, Restaurax e V-Floc, acompanhado de acessórios',
+    discount: 30,
+    cta: 'Conferir preço',
+  },
+};

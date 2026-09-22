@@ -4,50 +4,82 @@ import sitemap from '@astrojs/sitemap';
 import fs from 'node:fs';
 import path from 'node:path';
 import { execFileSync } from 'node:child_process';
-import { BANNERS } from './src/config/banners.ts';
+import { BANNERS, BANNERS_VONIXX } from './src/config/banners.ts';
 import { bannerHtmlResponsive } from './src/lib/banner-html.ts';
+import { bannerHtmlVonixx } from './src/lib/banner-vonixx-html.ts';
 
 const SITE = 'https://hachiroku.com.br';
 
 /**
- * Todo silo leva o banner por padrão, nesta posição — declarar `bannerMeio`
- * no frontmatter de um artigo sobrescreve produto/posição só para ele;
- * `bannerMeio: false` desativa.
+ * Cada família de banner tem seu próprio registro de produtos e gerador de
+ * HTML (layouts diferentes — ver src/lib/banner-html.ts e
+ * banner-vonixx-html.ts). `familia` num slot escolhe qual das duas usar.
  */
-const DEFAULT_BANNER_MEIO = { produto: 'astroai-s8', nivel: 'h2', indice: 2 };
+const FAMILIAS_BANNER = {
+  padrao: { registro: BANNERS, render: bannerHtmlResponsive },
+  vonixx: { registro: BANNERS_VONIXX, render: bannerHtmlVonixx },
+};
 
 /**
- * Injeta o banner de produto (BANNERS[produto], mesma fonte que
- * BannerProduto.astro usa) antes do N-ésimo heading de nível `nivel`, lido
- * do frontmatter `bannerMeio: { produto, nivel, indice }` de cada entrada de
- * conteúdo — ou de DEFAULT_BANNER_MEIO quando o artigo não declara nada.
- * Roda no pipeline de markdown (hast), antes do Astro montar a página — por
- * isso é raw HTML, não um componente Astro.
+ * Todo silo leva estes banners por padrão, nas posições abaixo — declarar
+ * `bannerMeio` (array) no frontmatter de um artigo sobrescreve a lista
+ * inteira só para ele; `bannerMeio: false` desativa todos.
+ *
+ * kit-vonixx (4º H2) ainda NÃO está aqui: banner-vonixx-responsivo.zip não
+ * trouxe o link do anúncio, e BANNERS_VONIXX['kit-vonixx'].href está vazio
+ * de propósito (ver src/config/banners.ts) — ligar este slot antes do href
+ * real quebraria bannerHtmlVonixx() no build inteiro do site.
+ */
+const DEFAULT_BANNER_SLOTS = [
+  { familia: 'padrao', produto: 'astroai-s8', nivel: 'h2', indice: 2 },
+  // { familia: 'vonixx', produto: 'kit-vonixx', nivel: 'h2', indice: 4 },
+];
+
+/**
+ * Injeta um ou mais banners de produto antes do N-ésimo heading de nível
+ * `nivel` de cada slot, lidos do frontmatter `bannerMeio` (array) de cada
+ * entrada de conteúdo — ou de DEFAULT_BANNER_SLOTS quando o artigo não
+ * declara nada. Roda no pipeline de markdown (hast), antes do Astro montar
+ * a página — por isso é raw HTML, não um componente Astro.
  *
  * `file.data.astro.frontmatter` aqui é o frontmatter CRU (pré-zod): os
  * defaults do schema (`nivel: 'h2'`, `indice: 1`) são replicados abaixo
  * porque o zod ainda não rodou nesta fase.
+ *
+ * Todos os slots são localizados no tree ORIGINAL antes de qualquer
+ * inserção, depois inseridos em ordem decrescente de índice — inserir indo
+ * pra frente deslocaria os índices já calculados dos slots seguintes.
  */
 function rehypeBannerMeio() {
   return (tree, file) => {
     const raw = file.data?.astro?.frontmatter?.bannerMeio;
     if (raw === false) return; // opt-out explícito deste artigo
-    const cfg = raw ?? DEFAULT_BANNER_MEIO;
-    if (!cfg?.produto) return;
-    const props = BANNERS[cfg.produto];
-    if (!props) return; // produto inexistente em banners.ts — não quebra o build, só não injeta
-    const nivel = cfg.nivel ?? 'h2';
-    const alvo = cfg.indice ?? 1;
-    let vistos = 0;
-    const idx = tree.children.findIndex((node) => {
-      if (node.type === 'element' && node.tagName === nivel) {
-        vistos += 1;
-        return vistos === alvo;
-      }
-      return false;
-    });
-    if (idx === -1) return; // artigo não tem headings suficientes nesse nível — não injeta
-    tree.children.splice(idx, 0, { type: 'raw', value: bannerHtmlResponsive(props, cfg.produto) });
+    const slots = raw ?? DEFAULT_BANNER_SLOTS;
+
+    const insercoes = [];
+    for (const cfg of slots) {
+      const familia = FAMILIAS_BANNER[cfg.familia ?? 'padrao'];
+      if (!familia) continue; // família inexistente — não quebra o build, só ignora o slot
+      const props = familia.registro[cfg.produto];
+      if (!props) continue; // produto inexistente no registro da família — idem
+      const nivel = cfg.nivel ?? 'h2';
+      const alvo = cfg.indice ?? 1;
+      let vistos = 0;
+      const idx = tree.children.findIndex((node) => {
+        if (node.type === 'element' && node.tagName === nivel) {
+          vistos += 1;
+          return vistos === alvo;
+        }
+        return false;
+      });
+      if (idx === -1) continue; // artigo não tem headings suficientes nesse nível — não injeta
+      insercoes.push({ idx, html: familia.render(props, cfg.produto) });
+    }
+
+    insercoes.sort((a, b) => b.idx - a.idx);
+    for (const { idx, html } of insercoes) {
+      tree.children.splice(idx, 0, { type: 'raw', value: html });
+    }
   };
 }
 
