@@ -44,12 +44,12 @@ export const BANNERS: Record<string, BannerProdutoProps> = {
  * fica vazio de propósito: banner-vonixx-responsivo.zip não trouxe o link
  * do anúncio ("Não foi recebido um link deste kit"), e o gerador de HTML
  * falha o build com erro claro em vez de publicar CTA sem destino.
- * NÃO ATIVO em DEFAULT_BANNER_SLOTS (astro.config.mjs) até o href real
- * entrar aqui.
+ * Ativo em DEFAULT_BANNER_SLOTS (astro.config.mjs) desde que o href
+ * real entrou aqui.
  */
 export const BANNERS_VONIXX: Record<string, import('../lib/banner-vonixx-html').VonixxBannerProps> = {
   'kit-vonixx': {
-    href: '', // TODO: colar o link real do anúncio do kit Vonixx
+    href: 'https://meli.la/1KdkzPV',
     headline: 'SEU CARRO LIMPO.',
     subheadline: 'O BRILHO QUE DÁ GOSTO.',
     description: 'Da lavagem ao acabamento: cuide da pintura, do interior e dos plásticos com o kit Vonixx.',

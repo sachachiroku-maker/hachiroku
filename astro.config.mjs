@@ -25,14 +25,11 @@ const FAMILIAS_BANNER = {
  * `bannerMeio` (array) no frontmatter de um artigo sobrescreve a lista
  * inteira só para ele; `bannerMeio: false` desativa todos.
  *
- * kit-vonixx (4º H2) ainda NÃO está aqui: banner-vonixx-responsivo.zip não
- * trouxe o link do anúncio, e BANNERS_VONIXX['kit-vonixx'].href está vazio
- * de propósito (ver src/config/banners.ts) — ligar este slot antes do href
- * real quebraria bannerHtmlVonixx() no build inteiro do site.
+ * kit-vonixx (4º H2) ativado em 2026-09-22 com o link real do anúncio.
  */
 const DEFAULT_BANNER_SLOTS = [
   { familia: 'padrao', produto: 'astroai-s8', nivel: 'h2', indice: 2 },
-  // { familia: 'vonixx', produto: 'kit-vonixx', nivel: 'h2', indice: 4 },
+  { familia: 'vonixx', produto: 'kit-vonixx', nivel: 'h2', indice: 4 },
 ];
 
 /**
