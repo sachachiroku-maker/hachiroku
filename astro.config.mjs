@@ -10,11 +10,19 @@ import { bannerHtmlResponsive } from './src/lib/banner-html.ts';
 const SITE = 'https://hachiroku.com.br';
 
 /**
+ * Todo silo leva o banner por padrão, nesta posição — declarar `bannerMeio`
+ * no frontmatter de um artigo sobrescreve produto/posição só para ele;
+ * `bannerMeio: false` desativa.
+ */
+const DEFAULT_BANNER_MEIO = { produto: 'astroai-s8', nivel: 'h2', indice: 2 };
+
+/**
  * Injeta o banner de produto (BANNERS[produto], mesma fonte que
  * BannerProduto.astro usa) antes do N-ésimo heading de nível `nivel`, lido
  * do frontmatter `bannerMeio: { produto, nivel, indice }` de cada entrada de
- * conteúdo. Roda no pipeline de markdown (hast), antes do Astro montar a
- * página — por isso é raw HTML, não um componente Astro.
+ * conteúdo — ou de DEFAULT_BANNER_MEIO quando o artigo não declara nada.
+ * Roda no pipeline de markdown (hast), antes do Astro montar a página — por
+ * isso é raw HTML, não um componente Astro.
  *
  * `file.data.astro.frontmatter` aqui é o frontmatter CRU (pré-zod): os
  * defaults do schema (`nivel: 'h2'`, `indice: 1`) são replicados abaixo
@@ -22,7 +30,9 @@ const SITE = 'https://hachiroku.com.br';
  */
 function rehypeBannerMeio() {
   return (tree, file) => {
-    const cfg = file.data?.astro?.frontmatter?.bannerMeio;
+    const raw = file.data?.astro?.frontmatter?.bannerMeio;
+    if (raw === false) return; // opt-out explícito deste artigo
+    const cfg = raw ?? DEFAULT_BANNER_MEIO;
     if (!cfg?.produto) return;
     const props = BANNERS[cfg.produto];
     if (!props) return; // produto inexistente em banners.ts — não quebra o build, só não injeta

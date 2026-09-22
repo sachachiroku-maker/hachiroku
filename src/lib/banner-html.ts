@@ -37,7 +37,7 @@ export function bannerHtml(p: BannerProdutoProps, produtoKey: string): string {
       <span class="bp-cta">${esc(p.cta)}</span>
     </span>
     <span class="bp-media">
-      <img class="bp-image" src="${esc(p.imageSrc)}" alt="${esc(p.imageAlt)}" width="1374" height="1145" loading="lazy" decoding="async" />
+      <img class="bp-image" src="${esc(p.imageSrc)}" alt="${esc(p.imageAlt)}" width="700" height="583" decoding="async" />
     </span>
   </span>
 </a>`;
@@ -57,7 +57,7 @@ export function bannerHtmlVertical(p: BannerProdutoProps, produtoKey: string): s
       <span class="bpm-spec">${esc(p.specs)}</span>
     </span>
     <span class="bpm-media">
-      <img class="bpm-image" src="${esc(p.imageSrc)}" alt="${esc(p.imageAlt)}" width="1374" height="1145" loading="lazy" decoding="async" />
+      <img class="bpm-image" src="${esc(p.imageSrc)}" alt="${esc(p.imageAlt)}" width="700" height="583" decoding="async" />
     </span>
     <span class="bpm-cta">${esc(p.cta)}</span>
   </span>

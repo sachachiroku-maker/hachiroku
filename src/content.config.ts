@@ -38,16 +38,25 @@ const link = z.object({
 
 /**
  * Banner de produto injetado no meio do corpo do artigo, antes do N-ésimo
- * heading de um nível (ver src/lib/rehype-banner-meio.mjs). `produto` é a
- * chave em src/config/banners.ts — trocar o produto exibido é editar o
+ * heading de um nível (ver rehypeBannerMeio em astro.config.mjs). `produto`
+ * é a chave em src/config/banners.ts — trocar o produto exibido é editar o
  * registro lá, nunca hardcode aqui. `indice` é 1-based ("2" = antes do
  * segundo H2 do corpo).
+ *
+ * Todo silo tem um banner por padrão (produto/posição definidos em
+ * DEFAULT_BANNER_MEIO, astro.config.mjs) SEM precisar declarar nada aqui —
+ * omitir o campo usa o default. Declarar este objeto sobrescreve produto
+ * e/ou posição só para este artigo. `bannerMeio: false` desativa o banner
+ * neste artigo.
  */
-const bannerMeio = z.object({
-  produto: z.string(),
-  nivel: z.enum(['h2', 'h3', 'h4']).default('h2'),
-  indice: z.number().int().min(1).default(1),
-});
+const bannerMeio = z.union([
+  z.object({
+    produto: z.string(),
+    nivel: z.enum(['h2', 'h3', 'h4']).default('h2'),
+    indice: z.number().int().min(1).default(1),
+  }),
+  z.literal(false),
+]);
 
 /**
  * Referência do bloco "Referências" (fim do artigo).
@@ -147,6 +156,7 @@ const problemas = defineCollection({
       relacionados: z.array(link).default([]),  // links internos (cross-silo)
 
       // --- controle ---
+      bannerMeio: bannerMeio.optional(),
       draft: z.boolean().default(false),
     }),
 });
@@ -187,6 +197,7 @@ const fichas = defineCollection({
       faq: z.array(faqItem).default([]),
       relacionados: z.array(link).default([]),
       problemaHref: z.string().optional(),
+      bannerMeio: bannerMeio.optional(),
       draft: z.boolean().default(false),
     }),
 });
@@ -216,6 +227,7 @@ const guias = defineCollection({
       faq: z.array(faqItem).default([]),
       afiliados: z.array(afiliado).default([]),
       relacionados: z.array(link).default([]),
+      bannerMeio: bannerMeio.optional(),
       draft: z.boolean().default(false),
     }),
 });
@@ -272,6 +284,7 @@ const eletricos = defineCollection({
       passos: z.array(howtoStep).default([]),
       afiliados: z.array(afiliado).default([]),
       relacionados: z.array(link).default([]),
+      bannerMeio: bannerMeio.optional(),
       draft: z.boolean().default(false),
     }),
 });
@@ -293,6 +306,7 @@ const tecnico = defineCollection({
       updatedDate: z.coerce.date().optional(),
       faq: z.array(faqItem).default([]),
       relacionados: z.array(link).default([]),
+      bannerMeio: bannerMeio.optional(),
       draft: z.boolean().default(false),
     }),
 });
@@ -320,6 +334,7 @@ const revisao = defineCollection({
       updatedDate: z.coerce.date().optional(),
       faq: z.array(faqItem).default([]),
       relacionados: z.array(link).default([]),
+      bannerMeio: bannerMeio.optional(),
       draft: z.boolean().default(false),
     }),
 });
@@ -378,6 +393,7 @@ const preparacao = defineCollection({
       updatedDate: z.coerce.date().optional(),
       faq: z.array(faqItem).default([]),
       relacionados: z.array(link).default([]),
+      bannerMeio: bannerMeio.optional(),
       draft: z.boolean().default(false),
     })
     .superRefine((d, ctx) => {
