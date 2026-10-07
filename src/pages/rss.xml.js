@@ -1,5 +1,6 @@
 import rss from '@astrojs/rss';
 import { getCollection } from 'astro:content';
+import { publicado } from '../lib/publicacao';
 
 const SITE = 'https://hachiroku.com.br';
 
@@ -14,7 +15,7 @@ export async function GET(context) {
 
   const itens = [];
   for (const [nome, base] of colecoes) {
-    const entries = await getCollection(nome, ({ data }) => !data.draft);
+    const entries = await getCollection(nome, ({ data }) => publicado(data));
     for (const e of entries) {
       itens.push({
         title: e.data.title,

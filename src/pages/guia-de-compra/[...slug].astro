@@ -5,9 +5,10 @@ import SchemaGuia from '../../components/schema/SchemaGuia.astro';
 import Toc from '../../components/ui/Toc.astro';
 import Photo from '../../components/ui/Photo.astro';
 import { fotoPorModelo, fotoPorId } from '../../lib/fotos';
+import { publicado } from '../../lib/publicacao';
 
 export async function getStaticPaths() {
-  const entries = await getCollection('guias', ({ data }) => !data.draft);
+  const entries = await getCollection('guias', ({ data }) => publicado(data));
   return entries.map((entry) => ({ params: { slug: entry.id }, props: { entry } }));
 }
 
@@ -22,6 +23,9 @@ const breadcrumb = [
   { name: data.title },
 ];
 const fmt = (d: Date) => d.toLocaleDateString('pt-BR');
+// Relacionado que aponta para guia ainda não publicado sai da lista até a data dele.
+const agendados = new Set((await getCollection('guias', ({ data: d }) => !publicado(d))).map((e) => `/guia-de-compra/${e.id}/`));
+const relacionados = data.relacionados.filter((r) => !agendados.has(r.url));
 ---
 <BaseLayout title={`${data.seoTitle ?? data.title} | Hachiroku`} description={data.description} canonical={url} type="article" image={fotoPorId(entry.id)} pubDate={data.pubDate} updatedDate={data.updatedDate} author={data.autor.nome}>
   <SchemaGuia data={data} url={url} breadcrumb={breadcrumb} />
@@ -40,7 +44,9 @@ const fmt = (d: Date) => d.toLocaleDateString('pt-BR');
       </div>
     </header>
 
-    <p class="lead">{data.veredito}</p>
+    {data.resumo
+      ? <p class="lead summarization" set:html={data.resumo} />
+      : <p class="lead">{data.veredito}</p>}
 
     <Photo label={(data.marca && data.modelo) ? `${data.marca} ${data.modelo}` : data.title} h={260} src={data.marca && data.modelo ? fotoPorModelo(data.marca, data.modelo, 'guia') : '/img/capas/guia.webp'} class="artigo-capa" priority />
 
@@ -71,10 +77,10 @@ const fmt = (d: Date) => d.toLocaleDateString('pt-BR');
 
     {data.disclaimer && <p class="disclaimer" role="note">{data.disclaimer}</p>}
 
-    {data.relacionados.length > 0 && (
+    {relacionados.length > 0 && (
       <nav class="relacionados" aria-label="Conteúdo relacionado">
         <p class="kicker">CONTINUE A DECISÃO</p>
-        <ul>{data.relacionados.map((r) => (<li><a href={r.url}>{r.titulo}</a></li>))}</ul>
+        <ul>{relacionados.map((r) => (<li><a href={r.url}>{r.titulo}</a></li>))}</ul>
       </nav>
     )}
   </article>

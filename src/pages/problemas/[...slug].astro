@@ -8,6 +8,7 @@ import { fotoPorId } from '../../lib/fotos';
 import { entidadesDoModelo } from '../../lib/entidades';
 import { sistemaDoDefeito } from '../../lib/sistemas';
 import { getMarca } from '../../lib/marcas';
+import { publicado } from '../../lib/publicacao';
 
 export async function getStaticPaths() {
   const entries = await getCollection('problemas', ({ data }) => !data.draft);
@@ -94,7 +95,7 @@ const howTos = (sistema ? HOWTOS_POR_SISTEMA[sistema.slug] ?? [] : [])
   .slice(0, 3);
 
 // Guia de usado do modelo (fecha o funil problema→guia quando existe)
-const guiasAll = await getCollection('guias', ({ data: d }) => !d.draft);
+const guiasAll = await getCollection('guias', ({ data: d }) => publicado(d));
 const guiaModelo = guiasAll.find(
   (g) => g.id.includes('usado') && g.data.modelo?.toLowerCase() === data.entidade.modelo.toLowerCase()
 ) ?? null;

@@ -6,6 +6,7 @@ import Badge from '../../../../components/ui/Badge.astro';
 import { fotoPorModelo } from '../../../../lib/fotos';
 import { modeloSameAs } from '../../../../lib/wikis';
 import { MODELO_DESCRICAO } from '../../../../lib/modelos-desc';
+import { publicado } from '../../../../lib/publicacao';
 
 // Gera um pilar (hub) para cada modelo que tem ao menos uma folha de problema.
 export async function getStaticPaths() {
@@ -39,7 +40,7 @@ const _modeloDatePublished = itens.reduce((earliest: string, e: any) => {
 // Cross-links: ficha técnica e guia de compra do mesmo modelo, se existirem
 const fichas = await getCollection('fichas', ({ data }) => !data.draft);
 const ficha = fichas.find((f) => f.id.split('/').slice(0, 2).join('/') === `${marca}/${modelo}`);
-const guias = await getCollection('guias', ({ data }) => !data.draft);
+const guias = await getCollection('guias', ({ data }) => publicado(data));
 const guia = guias.find((g) => g.data.marca && g.data.modelo &&
   `${g.data.marca}/${g.data.modelo}`.toLowerCase().replace(/\s+/g, '-') === `${marca}/${modelo}`);
 const capa = fotoPorModelo(nomeMarca, nomeModelo);

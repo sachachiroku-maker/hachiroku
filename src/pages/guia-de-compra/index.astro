@@ -2,8 +2,9 @@
 import { getCollection } from 'astro:content';
 import BaseLayout from '../../layouts/BaseLayout.astro';
 import SiloCta from '../../components/ui/SiloCta.astro';
+import { publicado } from '../../lib/publicacao';
 
-const guias = await getCollection('guias', ({ data }) => !data.draft);
+const guias = await getCollection('guias', ({ data }) => publicado(data));
 const lista = guias.map((g) => ({ id: g.id, ...g.data }));
 
 const site = 'https://hachiroku.com.br';

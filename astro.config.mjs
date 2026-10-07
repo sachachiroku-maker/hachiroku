@@ -123,6 +123,57 @@ function rehypeBannerMeio() {
   };
 }
 
+/**
+ * URLs de guia que ainda não estão no ar: rascunho ou pubDate futura (publicação
+ * agendada, ver src/lib/publicacao.ts). Calculado uma vez por build.
+ * @returns {Set<string>}
+ */
+function guiasAgendados() {
+  const agendados = new Set();
+  const base = path.resolve('./src/content/guias');
+  walkDir(base, (file) => {
+    if (!/\.mdx?$/.test(file)) return;
+    const fm = fs.readFileSync(file, 'utf8').match(/^\uFEFF?---\r?\n([\s\S]*?)\r?\n---/)?.[1] ?? '';
+    const rascunho = /^draft:\s*true\b/m.test(fm);
+    const pub = fm.match(/^pubDate:\s*["']?([^"'\r\n]+)/m)?.[1]?.trim();
+    const futura = pub ? new Date(pub).getTime() > Date.now() : false;
+    if (!rascunho && !futura) return;
+    const slug = path.relative(base, file).split(path.sep).join('/').replace(/\.mdx?$/, '').toLowerCase();
+    agendados.add(`/guia-de-compra/${slug}/`);
+  });
+  return agendados;
+}
+
+/** @type {Set<string> | null} */
+let guiasAgendadosCache = null;
+
+/**
+ * Desfaz (mantém o texto, tira o <a>) link do corpo que aponta para guia ainda não
+ * publicado. Um lote escrito de uma vez já traz a linkagem final; cada link "acende"
+ * no build em que a página de destino entra no ar, e até lá nenhuma peça aponta
+ * para um 404. No `astro dev` nada é desfeito, para revisão.
+ */
+function rehypeLinkAgendado() {
+  /** @param {any} tree */
+  return (tree) => {
+    if (modoDev) return;
+    const agendados = (guiasAgendadosCache ??= guiasAgendados());
+    if (agendados.size === 0) return;
+    /** @param {any} node */
+    const visitar = (node) => {
+      if (!Array.isArray(node.children)) return;
+      node.children = node.children.flatMap((/** @type {any} */ filho) => {
+        visitar(filho);
+        if (filho.type !== 'element' || filho.tagName !== 'a') return [filho];
+        const href = String(filho.properties?.href ?? '').replace(SITE, '').split(/[?#]/)[0];
+        const alvo = (href.endsWith('/') ? href : `${href}/`).toLowerCase();
+        return agendados.has(alvo) ? filho.children : [filho];
+      });
+    };
+    visitar(tree);
+  };
+}
+
 /** @param {string} dir @param {(file: string) => void} cb */
 function walkDir(dir, cb) {
   if (!fs.existsSync(dir)) return;
@@ -270,7 +321,7 @@ export default defineConfig({
   // Mantém o comportamento v6 — site de conteúdo com muito inline HTML no markdown.
   compressHTML: true,
   markdown: {
-    rehypePlugins: [rehypeBannerMeio],
+    rehypePlugins: [rehypeBannerMeio, rehypeLinkAgendado],
   },
   integrations: [
     sitemap({

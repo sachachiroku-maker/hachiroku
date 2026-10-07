@@ -219,6 +219,9 @@ const guias = defineCollection({
       modelo: z.string().optional(),
       kicker: z.string().default('GUIA DE COMPRA · DECISÃO'),
       veredito: z.string(),                                  // resposta direta "vale a pena?"
+      // Bloco-resumo para IA (GEO), 40-60 palavras, só <strong> como HTML. Quando existe,
+      // a página o mostra no lugar do veredito (cluster de seguro auto, out/2026).
+      resumo: z.string().optional(),
       checklist: z.array(z.object({
         item: z.string(),
         detalhe: z.string(),
