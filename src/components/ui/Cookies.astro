@@ -235,6 +235,10 @@
     var CHAVE = 'hk-consent';
     var CLARITY_ID = 'yt217wnbxe';
     var VERSAO = 2; // v2 (05/10/2026): entrou o Microsoft Clarity, premissa nova pede nova escolha
+    // Marca que o aviso já abriu sozinho uma vez neste navegador (07/10/2026, a
+    // pedido: aparece uma única vez por pessoa). Não é decisão: sem escolha,
+    // nada analítico carrega; o rodapé continua reabrindo o aviso.
+    var CHAVE_VISTO = 'hk-consent-visto';
     var raiz = document.getElementById('hk-cookies');
     if (!raiz) return;
     var n1 = document.getElementById('hk-nivel1');
@@ -356,8 +360,18 @@
       abrir(1);
     });
 
+    function jaViu() {
+      try { return localStorage.getItem(CHAVE_VISTO) === '1'; } catch (e) { return false; }
+    }
+
+    function marcarVisto() {
+      try { localStorage.setItem(CHAVE_VISTO, '1'); } catch (e) {}
+    }
+
     var decisao = ler();
-    if (!decisao) abrir(1);          // sem decisão: banner, e nada carregado
-    else if (decisao.analytics) carregarAnalytics();
+    if (!decisao) {
+      // Sem decisão, nada carrega; o banner abre sozinho só na primeira visita.
+      if (!jaViu()) { abrir(1); marcarVisto(); }
+    } else if (decisao.analytics) carregarAnalytics();
   })();
 </script>

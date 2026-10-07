@@ -78,7 +78,7 @@ if (!m) {
   process.exit(1);
 }
 
-function ambiente(consentGravado) {
+function ambiente(consentGravado, jaViu = false) {
   const anexados = [];
   const cookiesApagados = [];
   const ouvintes = [];
@@ -90,6 +90,7 @@ function ambiente(consentGravado) {
   els['hk-nivel2'].hidden = true;
   const loja = new Map();
   if (consentGravado) loja.set('hk-consent', JSON.stringify(consentGravado));
+  if (jaViu) loja.set('hk-consent-visto', '1');
   const doc = {
     getElementById: (id) => els[id] ?? null,
     createElement: () => {
@@ -108,8 +109,8 @@ function ambiente(consentGravado) {
     location: { hostname: 'hachiroku.com.br' } };
 }
 
-function rodar(consentGravado) {
-  const ctx = ambiente(consentGravado);
+function rodar(consentGravado, jaViu = false) {
+  const ctx = ambiente(consentGravado, jaViu);
   new Function('window', 'document', 'localStorage', 'location', m)(
     ctx.win, ctx.doc, ctx.win.localStorage, ctx.location,
   );
@@ -131,6 +132,18 @@ console.log('\nFUNCIONAL · visitante novo, sem decisao');
   checar('banner aberto', c.els['hk-cookies'].hidden === false);
   checar('analitico desmarcado', c.els['hk-analytics'].checked === false);
   checar('nada gravado antes da escolha', !c.loja.has('hk-consent'));
+  checar('aviso marcado como ja exibido', c.loja.get('hk-consent-visto') === '1');
+}
+
+console.log('\nFUNCIONAL · ja viu o aviso e nao escolheu');
+{
+  const c = rodar(null, true);
+  checar('banner nao reabre sozinho', c.els['hk-cookies'].hidden === true);
+  checar('silencio nao e consentimento: zero Google', aoGoogle(c) === 0, `(${aoGoogle(c)})`);
+  checar('silencio nao e consentimento: zero Clarity', aoClarity(c) === 0, `(${aoClarity(c)})`);
+  checar('nenhuma decisao gravada', !c.loja.has('hk-consent'));
+  c.win.hkCookies.abrir();
+  checar('rodape ainda reabre o aviso', c.els['hk-cookies'].hidden === false);
 }
 
 console.log('\nFUNCIONAL · rejeita');
@@ -165,6 +178,8 @@ console.log('\nFUNCIONAL · retorno');
   const antigo = rodar({ v: 1, analytics: true, data: '2026-01-01T00:00:00.000Z' });
   checar('consentimento de versao antiga nao vale', aoGoogle(antigo) + aoClarity(antigo) === 0, `(${aoGoogle(antigo) + aoClarity(antigo)})`);
   checar('e a escolha e pedida de novo', antigo.els['hk-cookies'].hidden === false);
+  const antigoJaViu = rodar({ v: 1, analytics: true, data: '2026-01-01T00:00:00.000Z' }, true);
+  checar('pedido de novo so uma vez', antigoJaViu.els['hk-cookies'].hidden === true);
 }
 
 console.log('\n' + (falhas === 0
