@@ -2,7 +2,6 @@
 import { getCollection, render } from 'astro:content';
 import BaseLayout from '../../layouts/BaseLayout.astro';
 import SchemaHowTo from '../../components/schema/SchemaHowTo.astro';
-import Afiliado from '../../components/ui/Afiliado.astro';
 import Photo from '../../components/ui/Photo.astro';
 
 export async function getStaticPaths() {
@@ -54,12 +53,6 @@ const meta = [
       <section aria-label="Passo a passo">
         <h2>Passo a passo</h2>
         <ol class="passos">{data.passos.map((p) => (<li><strong>{p.nome}</strong><span>{p.texto}</span></li>))}</ol>
-      </section>
-    )}
-
-    {data.afiliados.length > 0 && (
-      <section aria-label="Peças e ferramentas recomendadas">
-        {data.afiliados.map((a) => (<Afiliado produto={a.produto} nota={a.nota} busca={a.busca} url={a.url} programa={a.programa} cta={a.cta} />))}
       </section>
     )}
 

@@ -1,5 +1,10 @@
 ---
 import BaseLayout from '../../layouts/BaseLayout.astro';
+import { COTACAO_SEGURO, cotacaoNoAr, quemAtende } from '../../config/cotacao-seguro';
+
+// A seção de cotação só existe enquanto o formulário existe (dev, ou build com o atendimento definido).
+const comCotacao = import.meta.env.DEV || cotacaoNoAr();
+const atendimento = quemAtende();
 ---
 <BaseLayout
   title="Políticas e termos | Hachiroku"
@@ -27,6 +32,26 @@ import BaseLayout from '../../layouts/BaseLayout.astro';
       <li>Usamos cookies para medir a audiência do portal. O detalhamento de quais são, para quê servem, por quanto tempo ficam e como recusá-los está na <a href="#cookies">política de cookies</a>, logo abaixo.</li>
     </ul>
 
+    {comCotacao && (
+      <Fragment>
+        <h3 id="cotacao-seguro">Pedido de cotação de seguro auto</h3>
+        <p>
+          Quando você pede uma cotação de seguro pelo formulário do site, recebemos o nome, o WhatsApp, o e-mail
+          (se informado), o CEP onde o carro dorme, a marca, o modelo e o ano do carro, se você já tem seguro, a
+          página em que fez o pedido e a data e hora do envio. São os dados que a cotação usa, e nada além disso.
+        </p>
+        <ul>
+          <li><strong>Finalidade:</strong> fazer a cotação de seguro auto que você pediu e entrar em contato com o resultado.</li>
+          <li><strong>Base legal:</strong> procedimentos preliminares de um contrato, a pedido do titular (art. 7º, V, da LGPD).</li>
+          <li><strong>Quem recebe o pedido:</strong> {atendimento}, que faz a cotação e entra em contato com você pelo WhatsApp ou pelo e-mail informados.</li>
+          <li><strong>Quem trata os dados por nós (operadores):</strong> a Supabase, onde fica o sistema de atendimento (CRM) em que a equipe recebe e acompanha os pedidos; a Vercel, que processa o envio do formulário; e o Google, que guarda uma planilha de reserva, usada só quando o sistema de atendimento não confirma o recebimento do pedido.</li>
+          <li><strong>Transferência internacional:</strong> Supabase, Vercel e Google são empresas com sede no exterior, e o tratamento feito por elas pode envolver servidores fora do Brasil (art. 33 da LGPD).</li>
+          <li><strong>Por quanto tempo:</strong> até {COTACAO_SEGURO.retencaoMeses} meses depois do pedido, tanto no sistema de atendimento quanto na planilha de reserva. Passado esse prazo, os seus dados de contato são apagados; se você pedir a eliminação, isso acontece antes.</li>
+          <li><strong>O que não fazemos:</strong> não usamos esses dados para newsletter, publicidade ou qualquer outra finalidade, e eles não são gravados pelas ferramentas de medição do site.</li>
+        </ul>
+      </Fragment>
+    )}
+
     <h2 id="cookies">Política de cookies</h2>
     <p>
       Cookies são pequenos arquivos que uma página grava no seu navegador. Esta seção é parte integrante da
@@ -51,50 +76,65 @@ import BaseLayout from '../../layouts/BaseLayout.astro';
         <tr>
           <td><code>_ga</code></td>
           <td>Analítico, não necessário</td>
-          <td>Terceiro — Google Analytics 4</td>
+          <td>Terceiro (Google Analytics 4)</td>
           <td>Distinguir um visitante de outro, para contar quantas pessoas diferentes leem cada página.</td>
           <td>2 anos</td>
         </tr>
         <tr>
           <td><code>_ga_QM1MYBRVD7</code></td>
           <td>Analítico, não necessário</td>
-          <td>Terceiro — Google Analytics 4</td>
+          <td>Terceiro (Google Analytics 4)</td>
           <td>Guardar o estado da sessão de leitura, para identificar se um acesso é novo ou continuação do anterior.</td>
           <td>2 anos</td>
         </tr>
         <tr>
+          <td><code>_clck</code></td>
+          <td>Analítico, não necessário</td>
+          <td>Terceiro (Microsoft Clarity)</td>
+          <td>Reconhecer o mesmo visitante entre visitas, para medir como as páginas são usadas (rolagem, cliques e mapas de calor).</td>
+          <td>1 ano</td>
+        </tr>
+        <tr>
+          <td><code>_clsk</code></td>
+          <td>Analítico, não necessário</td>
+          <td>Terceiro (Microsoft Clarity)</td>
+          <td>Juntar as páginas vistas numa mesma sessão de navegação, que pode ser gravada com os campos de formulário mascarados.</td>
+          <td>1 dia</td>
+        </tr>
+        <tr>
           <td><code>hk-theme</code></td>
-          <td>Necessário — é armazenamento local, não cookie</td>
-          <td>Próprio — Hachiroku</td>
+          <td>Necessário (é armazenamento local, não cookie)</td>
+          <td>Próprio (Hachiroku)</td>
           <td>Lembrar se você escolheu o tema claro ou escuro. Fica apenas no seu navegador e não é enviado a servidor nenhum.</td>
           <td>Até você limpar os dados do navegador</td>
         </tr>
         <tr>
           <td><code>hk-consent</code></td>
-          <td>Necessário — é armazenamento local, não cookie</td>
-          <td>Próprio — Hachiroku</td>
+          <td>Necessário (é armazenamento local, não cookie)</td>
+          <td>Próprio (Hachiroku)</td>
           <td>Guardar a sua decisão sobre cookies, para respeitá-la nas próximas visitas e para que possamos comprovar que ela foi dada. Fica apenas no seu navegador.</td>
           <td>Até você limpar os dados do navegador</td>
         </tr>
       </tbody>
     </table>
     <p>
-      Essa é a lista completa. O Hachiroku <strong>não utiliza cookies de publicidade</strong>, não constrói perfil
-      comportamental, não faz rastreamento entre sites e não cruza esses dados com nenhuma outra base para
-      segmentar anúncios.
+      Essa é a lista de cookies gravados neste site. Depois do aceite, o Microsoft Clarity pode também gravar
+      cookies no domínio dele (<code>clarity.ms</code>), regidos pela política de privacidade da Microsoft.
+      O Hachiroku <strong>não utiliza cookies de publicidade</strong>, não faz rastreamento entre sites e não cruza
+      esses dados com nenhuma outra base para segmentar anúncios.
     </p>
 
     <h3>Com que base legal tratamos esses dados</h3>
     <p>
       Os cookies analíticos são tratados com fundamento no <strong>consentimento</strong> (art. 7º, I, da LGPD),
-      na finalidade específica e exclusiva de medir a audiência do portal. Eles são cookies não necessários, e o
+      na finalidade específica e exclusiva de medir a audiência do portal e entender como as páginas são usadas. Eles são cookies não necessários, e o
       Guia Orientativo da ANPD indica o consentimento como a hipótese apropriada nesses casos. Por isso:
     </p>
     <ul>
       <li>eles vêm <strong>desativados por padrão</strong>, e nada é carregado antes da sua escolha;</li>
-      <li>enquanto você não decidir, <strong>nenhuma requisição sai deste site para o Google</strong>;</li>
+      <li>enquanto você não decidir, <strong>nenhuma requisição sai deste site para o Google nem para a Microsoft</strong>;</li>
       <li>recusar é tão fácil quanto aceitar, e está no mesmo lugar, com o mesmo destaque;</li>
-      <li>ao revogar, os cookies <code>_ga</code> já gravados são <strong>apagados na hora</strong>.</li>
+      <li>ao revogar, os cookies <code>_ga</code>, <code>_clck</code> e <code>_clsk</code> já gravados são <strong>apagados na hora</strong>.</li>
     </ul>
     <p>
       O armazenamento do tema e o registro da sua decisão sobre cookies são <strong>necessários</strong> e se
@@ -105,9 +145,10 @@ import BaseLayout from '../../layouts/BaseLayout.astro';
 
     <h3>Compartilhamento e transferência internacional</h3>
     <p>
-      Os dados de audiência são coletados e processados pelo <strong>Google LLC</strong>, que atua como operador do
-      tratamento e opera a infraestrutura do Google Analytics, o que envolve armazenamento em servidores fora do
-      Brasil. Fora isso, os dados não são vendidos, cedidos nem compartilhados com nenhum outro terceiro.
+      Os dados de audiência são coletados e processados pelo <strong>Google LLC</strong> (Google Analytics) e pela
+      <strong>Microsoft Corporation</strong> (Microsoft Clarity), que atuam como operadores do tratamento, o que
+      envolve armazenamento em servidores fora do Brasil. Fora isso, os dados não são vendidos, cedidos nem
+      compartilhados com nenhum outro terceiro.
     </p>
 
     <h3>Seus direitos e como exercê-los</h3>
@@ -150,7 +191,7 @@ import BaseLayout from '../../layouts/BaseLayout.astro';
     <h3>Cookies das lojas parceiras</h3>
     <p>
       Os links de afiliado descritos mais adiante levam você para fora do Hachiroku. A partir do clique, quem grava
-      cookies é a loja de destino — Amazon, Mercado Livre ou PneuStore — segundo a política de privacidade dela.
+      cookies é a loja de destino (Amazon, Mercado Livre ou PneuStore), segundo a política de privacidade dela.
       Enquanto você permanece neste site, nenhum cookie dessas lojas é gravado.
     </p>
 
@@ -166,7 +207,7 @@ import BaseLayout from '../../layouts/BaseLayout.astro';
       Parte das peças e produtos que recomendamos vem com links de afiliado de programas como
       <strong>Amazon Associados</strong>, <strong>Mercado Livre</strong> e <strong>PneuStore</strong> (parceria direta).
       Se você compra por um desses links, o Hachiroku pode receber uma comissão, <strong>sem nenhum custo adicional para você</strong>.
-      É assim que mantemos o portal de pé sem depender de verba de montadora — o que nos deixa livres para falar a verdade sobre cada carro e cada peça.
+      É assim que mantemos o portal de pé sem depender de verba de montadora, o que nos deixa livres para falar a verdade sobre cada carro e cada peça.
     </p>
 
     <h3>Como escolhemos os produtos</h3>
@@ -181,22 +222,22 @@ import BaseLayout from '../../layouts/BaseLayout.astro';
     </ul>
     <p>
       Os links não levam a um produto único e fechado: são <strong>buscas pelo termo da peça</strong> na loja (por exemplo, "scanner OBD2 bluetooth").
-      Você cai na lista de opções e decide com calma — a escolha final é sempre sua.
+      Você cai na lista de opções e decide com calma: a escolha final é sempre sua.
     </p>
 
     <h3>Mercado Livre</h3>
     <p>
       No Mercado Livre, nossas recomendações funcionam do mesmo jeito: o link abre uma busca pelo termo da peça, com a identificação do Hachiroku.
-      Como a plataforma reúne muitos vendedores, vale um cuidado a mais — e a nossa orientação é olhar a <strong>reputação do vendedor</strong>
+      Como a plataforma reúne muitos vendedores, vale um cuidado a mais, e a nossa orientação é olhar a <strong>reputação do vendedor</strong>
       (o termômetro de cor verde), o volume de vendas e as avaliações reais antes de fechar. Priorize anúncios de marcas conhecidas e
       vendedores bem avaliados. O que ganhamos em comissão não muda em nada essa orientação.
     </p>
 
     <h3>Transparência e a lei</h3>
     <p>
-      Publicidade tem que ser identificável — é o que diz o Código de Defesa do Consumidor (art. 36). Por isso, todo link de afiliado é marcado
+      Publicidade tem que ser identificável: é o que diz o Código de Defesa do Consumidor (art. 36). Por isso, todo link de afiliado é marcado
       tecnicamente como <code>rel="sponsored nofollow noopener"</code> e cada indicação patrocinada fica sinalizada de forma clara.
-      A comissão nunca distorce a recomendação técnica: se uma peça não presta, a gente diz que não presta — independentemente de quem paga melhor.
+      A comissão nunca distorce a recomendação técnica: se uma peça não presta, a gente diz que não presta, independentemente de quem paga melhor.
     </p>
 
     <h2 id="isencao">Isenção de responsabilidade</h2>
@@ -208,7 +249,7 @@ import BaseLayout from '../../layouts/BaseLayout.astro';
     </p>
 
     <p class="disclaimer" role="note">
-      Documento em vigor desde junho de 2026, com a política de cookies atualizada em setembro de 2026.
+      Documento em vigor desde junho de 2026, com a política de cookies atualizada em outubro de 2026.
       Para um portal em operação comercial, recomenda-se revisão por advogado e inclusão dos dados completos
       do responsável legal.
     </p>

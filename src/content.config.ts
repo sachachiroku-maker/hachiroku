@@ -40,7 +40,8 @@ const link = z.object({
  * Banners de produto injetados no meio do corpo do artigo, antes do
  * N-ésimo heading de um nível (ver rehypeBannerMeio em astro.config.mjs).
  * `familia` escolhe o layout/registro ('padrao' = src/config/banners.ts
- * BANNERS, 'vonixx' = BANNERS_VONIXX); `produto` é a chave dentro do
+ * BANNERS, 'vonixx' = BANNERS_VONIXX, 'seguro' = cotação de seguro auto,
+ * src/config/cotacao-seguro.ts); `produto` é a chave dentro do
  * registro da família. `indice` é 1-based ("4" = antes do quarto heading
  * daquele nível no corpo).
  *
@@ -51,10 +52,12 @@ const link = z.object({
  */
 const bannerMeio = z.union([
   z.array(z.object({
-    familia: z.enum(['padrao', 'vonixx']).default('padrao'),
+    familia: z.enum(['padrao', 'vonixx', 'seguro']).default('padrao'),
     produto: z.string(),
     nivel: z.enum(['h2', 'h3', 'h4']).default('h2'),
     indice: z.number().int().min(1).default(1),
+    /** 'fim' = depois do último bloco do corpo (ignora nivel/indice). */
+    posicao: z.literal('fim').optional(),
   })),
   z.literal(false),
 ]);

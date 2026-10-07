@@ -11,6 +11,8 @@
  *   2. Funcional: extrai o script real do build e o executa contra um DOM mínimo,
  *      observando se algum <script> do Google é anexado em cada cenário.
  *
+ * Vale igual para o Microsoft Clarity (mesma categoria, analíticos), desde 05/10/2026.
+ *
  * Uso: node scripts/check-consent.mjs   (depois de `npm run build`)
  * Sai com código 1 em qualquer falha.
  */
@@ -38,6 +40,7 @@ function walk(dir, cb) {
 console.log('ESTATICO · sobre as paginas geradas');
 
 const comTagGoogle = [];
+const comTagClarity = [];
 const semBanner = [];
 const comCheckedIndevido = [];
 let paginas = 0;
@@ -53,12 +56,14 @@ walk(DIST, (f) => {
   if (ehStub || !html.includes('</body>')) return;
   paginas += 1;
   if (/<script[^>]+src=["']https:\/\/www\.googletagmanager\.com/.test(html)) comTagGoogle.push(f);
+  if (/<script[^>]+src=["']https:\/\/www\.clarity\.ms/.test(html)) comTagClarity.push(f);
   if (!html.includes('id="hk-cookies"')) semBanner.push(f);
   if (/id="hk-analytics"[^>]*\schecked/.test(html)) comCheckedIndevido.push(f);
 });
 
 checar('paginas analisadas', paginas > 0, `(${paginas})`);
 checar('nenhuma tag de script do Google no parse inicial', comTagGoogle.length === 0, `(${comTagGoogle.length})`);
+checar('nenhuma tag de script do Clarity no parse inicial', comTagClarity.length === 0, `(${comTagClarity.length})`);
 checar('banner presente em todas as paginas', semBanner.length === 0, `(${semBanner.length} sem)`);
 checar('cookie nao necessario nunca pre-marcado', comCheckedIndevido.length === 0, `(${comCheckedIndevido.length})`);
 
@@ -94,7 +99,7 @@ function ambiente(consentGravado) {
     },
     head: { appendChild() {} },
     addEventListener() {},
-    get cookie() { return '_ga=GA1.1.1; _ga_QM1MYBRVD7=GS1.1.2; outro=x'; },
+    get cookie() { return '_ga=GA1.1.1; _ga_QM1MYBRVD7=GS1.1.2; _clck=a; _clsk=b; outro=x'; },
     set cookie(v) { cookiesApagados.push(v); },
   };
   const win = { document: doc, localStorage: { getItem: (k) => loja.get(k) ?? null, setItem: (k, v) => loja.set(k, v) } };
@@ -116,11 +121,13 @@ const clicar = (ctx, acao) => {
   ctx.ouvintes.forEach((fn) => fn({ target: { closest: (s) => (s === '[data-hk]' ? alvo : null) } }));
 };
 const aoGoogle = (ctx) => ctx.anexados.filter((u) => u.includes('googletagmanager')).length;
+const aoClarity = (ctx) => ctx.anexados.filter((u) => u.includes('clarity.ms')).length;
 
 console.log('\nFUNCIONAL · visitante novo, sem decisao');
 {
   const c = rodar(null);
   checar('zero requisicao ao Google', aoGoogle(c) === 0, `(${aoGoogle(c)})`);
+  checar('zero requisicao ao Clarity', aoClarity(c) === 0, `(${aoClarity(c)})`);
   checar('banner aberto', c.els['hk-cookies'].hidden === false);
   checar('analitico desmarcado', c.els['hk-analytics'].checked === false);
   checar('nada gravado antes da escolha', !c.loja.has('hk-consent'));
@@ -131,6 +138,8 @@ console.log('\nFUNCIONAL · rejeita');
   const c = rodar(null);
   clicar(c, 'rejeitar');
   checar('zero requisicao ao Google', aoGoogle(c) === 0, `(${aoGoogle(c)})`);
+  checar('zero requisicao ao Clarity', aoClarity(c) === 0, `(${aoClarity(c)})`);
+  checar('cookies _clck/_clsk apagados', ['_clck=', '_clsk='].every((p) => c.cookiesApagados.some((x) => x.startsWith(p))));
   checar('decisao gravada como negada', JSON.parse(c.loja.get('hk-consent')).analytics === false);
   checar('cookies _ga apagados', c.cookiesApagados.some((x) => x.startsWith('_ga')));
 }
@@ -140,18 +149,21 @@ console.log('\nFUNCIONAL · aceita');
   const c = rodar(null);
   clicar(c, 'aceitar');
   checar('gtag carregado uma vez', aoGoogle(c) === 1, `(${aoGoogle(c)})`);
+  checar('Clarity carregado uma vez', aoClarity(c) === 1, `(${aoClarity(c)})`);
   checar('decisao gravada com data', !!JSON.parse(c.loja.get('hk-consent')).data);
 }
 
 console.log('\nFUNCIONAL · retorno');
 {
-  const rejeitou = rodar({ v: 1, analytics: false, data: '2026-01-01T00:00:00.000Z' });
+  const rejeitou = rodar({ v: 2, analytics: false, data: '2026-01-01T00:00:00.000Z' });
   checar('quem rejeitou continua sem Google', aoGoogle(rejeitou) === 0, `(${aoGoogle(rejeitou)})`);
   checar('banner nao reaparece para quem decidiu', rejeitou.els['hk-cookies'].hidden === true);
-  const aceitou = rodar({ v: 1, analytics: true, data: '2026-01-01T00:00:00.000Z' });
+  const aceitou = rodar({ v: 2, analytics: true, data: '2026-01-01T00:00:00.000Z' });
   checar('quem aceitou carrega o gtag', aoGoogle(aceitou) === 1, `(${aoGoogle(aceitou)})`);
-  const antigo = rodar({ v: 0, analytics: true, data: '2026-01-01T00:00:00.000Z' });
-  checar('consentimento de versao antiga nao vale', aoGoogle(antigo) === 0, `(${aoGoogle(antigo)})`);
+  checar('quem aceitou carrega o Clarity', aoClarity(aceitou) === 1, `(${aoClarity(aceitou)})`);
+  // v1 = aceite dado antes de o Clarity existir: nao vale para o Clarity, pede de novo.
+  const antigo = rodar({ v: 1, analytics: true, data: '2026-01-01T00:00:00.000Z' });
+  checar('consentimento de versao antiga nao vale', aoGoogle(antigo) + aoClarity(antigo) === 0, `(${aoGoogle(antigo) + aoClarity(antigo)})`);
   checar('e a escolha e pedida de novo', antigo.els['hk-cookies'].hidden === false);
 }
 

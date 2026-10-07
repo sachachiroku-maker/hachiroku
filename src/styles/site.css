@@ -338,6 +338,50 @@ main { flex: 1; width: 100%; }
 @media (min-width: 601px) { .bp-mobile-only { display: none; } }
 
 /*
+ * ---- Banner de cotação de seguro auto (família 'seguro') ----
+ * É um <button> (abre o pop-up de CotacaoSeguro.astro), não link: zera a
+ * aparência nativa de botão. Acima de 880px mostra a arte do designer
+ * (.seg-arte); até 880px (tablet e celular, coluna única) mostra .seg-card,
+ * o mesmo visual em HTML. O card decide o próprio layout pela largura dele
+ * (container query): lado a lado a partir de 520px, empilhado abaixo disso.
+ */
+.seg-banner-wrap { margin: var(--space-8) 0; container-type: inline-size; }
+.seg-banner { display: block; width: 100%; padding: 0; margin: 0; border: 0; background: none; cursor: pointer; border-radius: 22px; line-height: 0; font: inherit; color: inherit; text-align: left; -webkit-tap-highlight-color: transparent; transition: filter .15s ease, transform .15s ease; }
+.seg-arte, .seg-banner-img { display: block; width: 100%; height: auto; }
+.seg-banner:hover { filter: brightness(1.07); }
+.seg-banner:active { transform: scale(.99); }
+.seg-banner:focus-visible { outline: 3px solid #005fcc; outline-offset: 4px; }
+
+.seg-card { display: none; position: relative; overflow: hidden; isolation: isolate; border-radius: 20px; background: #0b0b0b; color: #fff; line-height: 1.2; }
+.seg-card-foto { display: block; position: relative; height: clamp(190px, 58cqi, 280px); }
+.seg-card-foto picture, .seg-card-foto img { display: block; width: 100%; height: 100%; }
+.seg-card-foto img { object-fit: cover; object-position: 30% 18%; }
+/* Funde a foto no preto do card, como na arte original. */
+.seg-card-foto::after { content: ""; position: absolute; inset: 0; background: linear-gradient(to bottom, rgb(11 11 11 / 0) 45%, #0b0b0b 100%); }
+.seg-card-copy { display: flex; flex-direction: column; align-items: flex-start; gap: 10px; padding: 4px 20px 22px; position: relative; z-index: 1; margin-top: -28px; }
+.seg-card-titulo { display: block; font-family: var(--font-display, sans-serif); font-weight: 800; font-size: clamp(26px, 8.4cqi, 34px); line-height: 1.04; letter-spacing: -.02em; text-wrap: balance; }
+.seg-card-sub { display: block; font-family: var(--font-sans, sans-serif); font-size: 16px; line-height: 1.4; color: #ececec; max-width: 32ch; }
+.seg-card-cta { display: flex; align-items: center; justify-content: center; align-self: stretch; min-height: 52px; margin-top: 6px; padding: 12px 22px; border-radius: 999px; background: #d71920; color: #fff; font-family: var(--font-display, sans-serif); font-weight: 800; font-size: 18px; line-height: 1.1; box-shadow: 0 4px 0 #8e0f13; }
+.seg-banner:hover .seg-card-cta { background: #c2161c; }
+
+/* Tablet e celular largo: texto à esquerda, foto à direita, igual à arte. */
+@container (min-width: 520px) {
+  .seg-card { grid-template-columns: minmax(0, 1.1fr) minmax(0, 1fr); align-items: center; min-height: 300px; }
+  .seg-card-foto { order: 2; align-self: stretch; height: auto; min-height: 300px; }
+  .seg-card-foto::after { background: linear-gradient(to right, #0b0b0b 0%, rgb(11 11 11 / 0) 38%); }
+  .seg-card-copy { order: 1; margin-top: 0; padding: 28px 8px 28px 28px; gap: 12px; }
+  .seg-card-titulo { font-size: clamp(28px, 5.6cqi, 40px); }
+  .seg-card-cta { align-self: flex-start; min-height: 50px; padding-inline: 28px; }
+}
+
+@media (max-width: 880px) {
+  .seg-arte { display: none; }
+  .seg-card { display: block; }
+  @container (min-width: 520px) { .seg-card { display: grid; } }
+}
+@media (prefers-reduced-motion: reduce) { .seg-banner { transition: none; } .seg-banner:active { transform: none; } }
+
+/*
  * ---- Banner Vonixx (2ª família, layout próprio) ----
  * Um markup só, responsivo por container query (não alterna por viewport
  * como .bp-wrap/.bpm-wrap) — empilha quando o ESPAÇO do banner (não a

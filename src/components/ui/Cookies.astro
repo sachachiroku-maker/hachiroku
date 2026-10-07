@@ -51,7 +51,8 @@
       <p class="hk-cookies__texto">
         O Hachiroku usa armazenamento <strong>necessário</strong> para lembrar o tema que você escolheu e para
         guardar esta sua decisão. Se você consentir, usaremos também cookies <strong>analíticos</strong>, do
-        Google Analytics, com a finalidade específica de medir quantas pessoas leem cada página. Não usamos
+        Google Analytics e do Microsoft Clarity, com a finalidade específica de medir quantas pessoas leem cada
+        página e como elas usam a página (rolagem, cliques e mapas de calor). Não usamos
         cookies de publicidade, não construímos perfil de comportamento e não rastreamos você em outros sites.
       </p>
       {/* Ordem espelhada do exemplo do próprio guia da ANPD (p. 31): o rejeitar vem
@@ -104,8 +105,12 @@
           Cookies <code>_ga</code> e <code>_ga_QM1MYBRVD7</code>, do Google Analytics 4.
           <strong>Finalidade específica:</strong> distinguir um visitante de outro e identificar se o acesso é novo
           ou continuação, para medir a audiência de cada página de forma agregada.
-          <strong>Retenção:</strong> 2 anos. <strong>Quem trata:</strong> Google LLC, na condição de operador, o que
-          envolve armazenamento em servidores fora do Brasil. Recusar não desativa nada do site.
+          <strong>Retenção:</strong> 2 anos. Cookies <code>_clck</code> e <code>_clsk</code>, do Microsoft Clarity.
+          <strong>Finalidade específica:</strong> entender como as páginas são usadas (rolagem, cliques, mapas de
+          calor e gravação da sessão de navegação, com campos de formulário mascarados).
+          <strong>Retenção:</strong> 1 ano e 1 dia. <strong>Quem trata:</strong> Google LLC e Microsoft Corporation,
+          na condição de operadores, o que envolve armazenamento em servidores fora do Brasil. Recusar não desativa
+          nada do site.
         </p>
       </div>
 
@@ -228,7 +233,8 @@
   (function () {
     var GA_ID = 'G-QM1MYBRVD7';
     var CHAVE = 'hk-consent';
-    var VERSAO = 1;
+    var CLARITY_ID = 'yt217wnbxe';
+    var VERSAO = 2; // v2 (05/10/2026): entrou o Microsoft Clarity, premissa nova pede nova escolha
     var raiz = document.getElementById('hk-cookies');
     if (!raiz) return;
     var n1 = document.getElementById('hk-nivel1');
@@ -279,6 +285,24 @@
       gtag('config', GA_ID, { anonymize_ip: true });
     }
 
+    // Mesma categoria do GA4 (analíticos): só carrega depois do aceite.
+    var clarityCarregado = false;
+    function carregarClarity() {
+      if (clarityCarregado || !CLARITY_ID) return;
+      clarityCarregado = true;
+      // Snippet oficial do Clarity, com o append no <head> igual ao do gtag acima.
+      window.clarity = window.clarity || function () { (window.clarity.q = window.clarity.q || []).push(arguments); };
+      var s = document.createElement('script');
+      s.async = true;
+      s.src = 'https://www.clarity.ms/tag/' + CLARITY_ID;
+      document.head.appendChild(s);
+    }
+
+    function carregarAnalytics() {
+      carregarGA();
+      carregarClarity();
+    }
+
     function apagarCookiesGA() {
       // Revogação tem de ter o mesmo custo da concessão: além de parar de carregar
       // o gtag, os cookies já gravados saem agora.
@@ -287,7 +311,7 @@
         var dominios = ['', host, '.' + host, host.replace(/^www\./, ''), '.' + host.replace(/^www\./, '')];
         document.cookie.split(';').forEach(function (par) {
           var nome = par.split('=')[0].trim();
-          if (nome.indexOf('_ga') !== 0) return;
+          if (nome.indexOf('_ga') !== 0 && nome !== '_clck' && nome !== '_clsk') return;
           dominios.forEach(function (d) {
             document.cookie = nome + '=; expires=Thu, 01 Jan 1970 00:00:00 GMT; path=/' + (d ? '; domain=' + d : '');
           });
@@ -307,7 +331,7 @@
 
     function aplicar(analytics) {
       gravar(analytics);
-      if (analytics) carregarGA();
+      if (analytics) carregarAnalytics();
       else apagarCookiesGA();
       fechar();
     }
@@ -334,6 +358,6 @@
 
     var decisao = ler();
     if (!decisao) abrir(1);          // sem decisão: banner, e nada carregado
-    else if (decisao.analytics) carregarGA();
+    else if (decisao.analytics) carregarAnalytics();
   })();
 </script>

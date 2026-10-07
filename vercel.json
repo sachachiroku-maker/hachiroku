@@ -5,6 +5,12 @@
   "outputDirectory": "dist",
   "trailingSlash": true,
   "cleanUrls": false,
+  "crons": [
+    {
+      "path": "/api/retencao-planilha/",
+      "schedule": "17 9 * * *"
+    }
+  ],
   "redirects": [
     {
       "source": "/problemas/citro%C3%ABn/c3/:path*",

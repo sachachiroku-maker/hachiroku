@@ -9,6 +9,8 @@ import '../styles/site.css';
 import SchemaSite from '../components/schema/SchemaSite.astro';
 import Icon from '../components/ui/Icon.astro';
 import Cookies from '../components/ui/Cookies.astro';
+import CotacaoSeguro from '../components/ui/CotacaoSeguro.astro';
+import { cotacaoNoAr } from '../config/cotacao-seguro';
 
 interface Props {
   title: string;
@@ -59,8 +61,9 @@ const getAriaCurrent = (href: string) => {
     <script is:inline>
       (function () {
         try {
-          var t = localStorage.getItem('hk-theme') ||
-            (window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light');
+          // Padrão é o tema claro, mesmo com o sistema em modo escuro (pedido de 05/10/2026);
+          // o escuro só entra quando o visitante escolhe no botão de tema.
+          var t = localStorage.getItem('hk-theme') || 'light';
           document.documentElement.setAttribute('data-theme', t);
         } catch (e) {}
       })();
@@ -202,6 +205,8 @@ const getAriaCurrent = (href: string) => {
       <p class="footer-copy wrap">© 2026 HACHIROKU · O SEU MECÂNICO DIGITAL · <a href="/politicas/#privacidade">Privacidade</a> · <a href="/politicas/#termos">Termos</a> · <a href="/politicas/#cookies">Cookies</a> · <a href="/politicas/#afiliados">Afiliados</a> · <a href="/politicas/#cookies" data-hk-abrir>Preferências de cookies</a></p>
     </footer>
     <Cookies />
+    {/* Pop-up do banner de seguro: no dev sempre; no build só com a corretora definida. */}
+    {(import.meta.env.DEV || cotacaoNoAr()) && <CotacaoSeguro />}
 
     {/* Evento de clique dos banners de produto (BannerProduto/BannerProduto
         Mobile). Delegado em document porque o banner pode ser injetado tanto

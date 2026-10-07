@@ -2,7 +2,6 @@
 import { getCollection, render } from 'astro:content';
 import BaseLayout from '../../layouts/BaseLayout.astro';
 import SchemaProblema from '../../components/schema/SchemaProblema.astro';
-import Afiliado from '../../components/ui/Afiliado.astro';
 import Toc from '../../components/ui/Toc.astro';
 import Photo from '../../components/ui/Photo.astro';
 import { fotoPorId } from '../../lib/fotos';
@@ -141,14 +140,6 @@ const fmt = (d: Date) => d.toLocaleDateString('pt-BR');
     <Toc headings={headings} />
 
     <Content />
-
-    {data.afiliados.length > 0 && (
-      <section aria-label="Peças recomendadas para este diagnóstico">
-        {data.afiliados.map((a) => (
-          <Afiliado produto={a.produto} nota={a.nota} busca={a.busca} url={a.url} programa={a.programa} cta={a.cta} />
-        ))}
-      </section>
-    )}
 
     {data.faq.length > 0 && (
       <section aria-label="Perguntas frequentes">

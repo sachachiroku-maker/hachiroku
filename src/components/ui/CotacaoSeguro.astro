@@ -1,0 +1,300 @@
+---
+/**
+ * Pop-up de cotação de seguro auto, aberto pelos banners `.js-cotacao`
+ * (família 'seguro' do rehypeBannerMeio, src/lib/banner-seguro-html.ts).
+ * Envia para api/cotacao.js, que entrega o pedido ao CRM da equipe comercial do
+ * Hachiroku (e, se o CRM não confirmar, a uma planilha do Google de reserva).
+ *
+ * Só é renderizado quando o banner pode aparecer (ver BaseLayout.astro):
+ * no `astro dev` sempre, no build só com o atendimento definido em
+ * src/config/cotacao-seguro.ts.
+ *
+ * Anti-robô: ao abrir o pop-up (e só então), o script pede um token a
+ * GET /api/cotacao/ (mesma origem, sem cookie) e o manda junto no envio. O servidor
+ * recusa token ausente, forjado, com menos de 2,5 s ou mais de 2 h; por isso o envio
+ * renova um token perto de vencer e espera os 2,5 s de um token recém-pedido.
+ *
+ * Dados pessoais: o formulário pede só o que a cotação usa (contato, CEP de
+ * pernoite, carro e ano). `data-clarity-mask` impede que o Microsoft Clarity
+ * grave o que é digitado, e os eventos GA4 não levam nenhum campo do
+ * formulário, só a posição do banner e a página.
+ */
+import { COTACAO_SEGURO, quemAtende } from '../../config/cotacao-seguro';
+
+const atendimento = quemAtende();
+const anoMax = new Date().getFullYear() + 1;
+const anos = Array.from({ length: anoMax - 1990 + 1 }, (_, i) => anoMax - i);
+---
+
+<dialog id="hk-cotacao" class="cot" aria-labelledby="hk-cotacao-titulo">
+  <div class="cot__caixa">
+    <button type="button" class="cot__fechar" data-cot-fechar aria-label="Fechar">×</button>
+
+    <div class="cot__etapa" data-cot-etapa="form">
+      <p class="cot__eyebrow">SEGURO AUTO</p>
+      <h2 id="hk-cotacao-titulo" class="cot__titulo">Quanto custa proteger seu carro?</h2>
+      <p class="cot__sub">Preencha em menos de um minuto. A cotação é feita para o seu perfil, e o retorno vem pelo WhatsApp ou e-mail que você informar.</p>
+
+      <form class="cot__form" novalidate data-clarity-mask="True">
+        <div class="cot__campo">
+          <label for="cot-nome">Nome</label>
+          <input id="cot-nome" name="nome" type="text" autocomplete="name" required maxlength="80" />
+        </div>
+        <div class="cot__linha">
+          <div class="cot__campo">
+            <label for="cot-whatsapp">WhatsApp</label>
+            <input id="cot-whatsapp" name="whatsapp" type="tel" inputmode="tel" autocomplete="tel-national" placeholder="(11) 91234-5678" required maxlength="16" />
+          </div>
+          <div class="cot__campo">
+            <label for="cot-email">E-mail <span class="cot__opc">(opcional)</span></label>
+            <input id="cot-email" name="email" type="email" autocomplete="email" maxlength="120" />
+          </div>
+        </div>
+        <div class="cot__linha">
+          <div class="cot__campo cot__campo--grande">
+            <label for="cot-carro">Carro (marca e modelo)</label>
+            <input id="cot-carro" name="carro" type="text" placeholder="Ex.: Hyundai HB20S" required maxlength="80" />
+          </div>
+          <div class="cot__campo">
+            <label for="cot-ano">Ano do modelo</label>
+            <select id="cot-ano" name="ano" required>
+              <option value="" selected disabled>Escolha</option>
+              {anos.map((a) => <option value={String(a)}>{a}</option>)}
+              <option value="anterior a 1990">Anterior a 1990</option>
+            </select>
+          </div>
+        </div>
+        <div class="cot__linha">
+          <div class="cot__campo">
+            <label for="cot-cep">CEP onde o carro dorme</label>
+            <input id="cot-cep" name="cep" type="text" inputmode="numeric" autocomplete="postal-code" placeholder="00000-000" required maxlength="9" />
+          </div>
+          <div class="cot__campo">
+            <label for="cot-seguro">Já tem seguro?</label>
+            <select id="cot-seguro" name="seguroAtual">
+              <option value="nao informado" selected>Prefiro não dizer</option>
+              <option value="nao tenho">Não tenho</option>
+              <option value="tenho, quero comparar">Tenho, quero comparar</option>
+            </select>
+          </div>
+        </div>
+
+        {/* Armadilha para robô: invisível para pessoas, fora da ordem de tabulação. */}
+        <div class="cot__hp" aria-hidden="true">
+          <label for="cot-empresa">Empresa</label>
+          <input id="cot-empresa" name="empresa" type="text" tabindex="-1" autocomplete="off" />
+        </div>
+
+        <label class="cot__ciencia">
+          <input name="ciencia" type="checkbox" required />
+          <span>
+            Quero receber a cotação. Sei que estes dados vão para <strong>{atendimento}</strong>, que faz a
+            cotação e entra em contato pelo WhatsApp ou e-mail informados, e que eles ficam guardados por até
+            {COTACAO_SEGURO.retencaoMeses} meses. <a href="/politicas/#cotacao-seguro" target="_blank" rel="noopener">Como tratamos esses dados</a>.
+          </span>
+        </label>
+
+        <p class="cot__erro" role="alert" hidden></p>
+        <button type="submit" class="cot__enviar">Cotar seguro auto</button>
+      </form>
+    </div>
+
+    <div class="cot__etapa" data-cot-etapa="ok" hidden>
+      <p class="cot__eyebrow">PEDIDO RECEBIDO</p>
+      <h2 class="cot__titulo" tabindex="-1">Pronto, agora é com a gente.</h2>
+      <p class="cot__sub">O retorno da cotação vem pelo WhatsApp ou e-mail que você informou.</p>
+      <button type="button" class="cot__enviar" data-cot-fechar>Voltar ao artigo</button>
+    </div>
+  </div>
+</dialog>
+
+<style>
+  .cot {
+    width: min(560px, calc(100vw - 24px));
+    max-height: calc(100dvh - 24px);
+    padding: 0;
+    border: var(--border-strong-w, 2px) solid var(--border-strong, #222);
+    border-radius: 18px;
+    background: var(--bg-elevated, #fff);
+    color: var(--text-body, #222);
+    font-family: var(--font-sans, system-ui, sans-serif);
+    box-shadow: 0 24px 64px -24px rgb(0 0 0 / 55%);
+  }
+  .cot::backdrop { background: rgb(0 0 0 / 62%); }
+  .cot__caixa { position: relative; padding: 28px 24px 22px; overflow-y: auto; max-height: calc(100dvh - 28px); }
+  .cot__fechar {
+    position: absolute; top: 10px; right: 10px; width: 40px; height: 40px;
+    border: 0; border-radius: 50%; background: transparent; color: inherit;
+    font-size: 28px; line-height: 1; cursor: pointer;
+  }
+  .cot__fechar:hover { background: var(--bg-sunken, #eee); }
+  .cot__eyebrow { margin: 0 0 6px; font-size: 12px; font-weight: 800; letter-spacing: .08em; color: #d71920; }
+  .cot__titulo { margin: 0 0 6px; font-family: var(--font-display, inherit); font-size: clamp(22px, 5vw, 28px); line-height: 1.12; color: var(--text-strong, #111); }
+  .cot__sub { margin: 0 0 18px; font-size: 15px; line-height: 1.45; }
+  .cot__form { display: grid; gap: 12px; }
+  .cot__linha { display: grid; grid-template-columns: 1fr 1fr; gap: 12px; }
+  .cot__linha .cot__campo--grande { grid-column: span 1; }
+  .cot__campo { display: grid; gap: 5px; min-width: 0; }
+  .cot__campo label { font-size: 14px; font-weight: 700; color: var(--text-strong, #111); }
+  .cot__opc { font-weight: 400; color: var(--text-muted, #666); }
+  .cot__campo input, .cot__campo select {
+    width: 100%; min-height: 46px; padding: 10px 12px; font: inherit; font-size: 16px;
+    color: var(--text-strong, #111); background: var(--bg-surface, #fff);
+    border: 1.5px solid var(--border-strong, #888); border-radius: 10px;
+  }
+  .cot__campo input:focus-visible, .cot__campo select:focus-visible,
+  .cot__ciencia input:focus-visible, .cot__enviar:focus-visible, .cot__fechar:focus-visible {
+    outline: 3px solid #005fcc; outline-offset: 2px;
+  }
+  .cot__campo [aria-invalid="true"] { border-color: #d71920; }
+  .cot__hp { position: absolute; left: -9999px; width: 1px; height: 1px; overflow: hidden; }
+  .cot__ciencia { display: flex; gap: 10px; align-items: flex-start; font-size: 13px; line-height: 1.45; }
+  .cot__ciencia input { flex: none; width: 20px; height: 20px; margin: 1px 0 0; accent-color: #d71920; }
+  .cot__erro { margin: 0; padding: 10px 12px; border-radius: 10px; background: #fde8e8; color: #8a1016; font-size: 14px; }
+  .cot__enviar {
+    min-height: 52px; padding: 12px 20px; border: 0; border-radius: 999px; cursor: pointer;
+    background: #d71920; color: #fff; font: inherit; font-size: 18px; font-weight: 800;
+  }
+  .cot__enviar:hover { background: #b9141a; }
+  .cot__enviar[disabled] { opacity: .65; cursor: progress; }
+  .cot__etapa[data-cot-etapa="ok"] { display: grid; gap: 4px; }
+  .cot__etapa[hidden] { display: none; }
+  @media (max-width: 520px) {
+    .cot__linha { grid-template-columns: 1fr; }
+    .cot__caixa { padding: 24px 16px 18px; }
+  }
+</style>
+
+<script>
+  const dialog = document.getElementById('hk-cotacao') as HTMLDialogElement | null;
+  if (dialog) {
+    const form = dialog.querySelector('form') as HTMLFormElement;
+    const erro = dialog.querySelector('.cot__erro') as HTMLParagraphElement;
+    const enviar = form.querySelector('.cot__enviar') as HTMLButtonElement;
+    const etapaForm = dialog.querySelector('[data-cot-etapa="form"]') as HTMLElement;
+    const etapaOk = dialog.querySelector('[data-cot-etapa="ok"]') as HTMLElement;
+    const campo = (n: string) => form.elements.namedItem(n) as HTMLInputElement;
+    let slot = '';
+    let abertoEm = 0;
+
+    // Token do servidor (ver api/cotacao.js): pedido ao abrir o pop-up, nunca antes.
+    const ENDPOINT = '/api/cotacao/'; // com barra: vercel.json tem trailingSlash true
+    const TOKEN_MINIMO_MS = 2600; // o servidor exige 2,5 s; a folga cobre a diferença de relógio
+    const TOKEN_RENOVAR_MS = 110 * 60 * 1000; // o servidor aceita até 2 h
+    let token: Promise<{ valor: string; em: number } | null> | null = null;
+    const pedirToken = () => {
+      token = fetch(ENDPOINT, { cache: 'no-store', credentials: 'same-origin' })
+        .then((r) => (r.ok ? r.json() : null))
+        .then((c) => (c && typeof c.token === 'string' ? { valor: c.token, em: Date.now() } : null))
+        .catch(() => null);
+      return token;
+    };
+    const tokenParaEnvio = async (): Promise<string | null> => {
+      let t = await (token ?? pedirToken());
+      if (!t || Date.now() - t.em > TOKEN_RENOVAR_MS) t = await pedirToken();
+      if (!t) return null;
+      const espera = TOKEN_MINIMO_MS - (Date.now() - t.em);
+      if (espera > 0) await new Promise((ok) => setTimeout(ok, espera));
+      return t.valor;
+    };
+
+    const medir = (evento: string, extra: Record<string, string> = {}) => {
+      // Só mede com o gtag carregado, isto é, depois do consentimento (Cookies.astro).
+      const g = (window as unknown as { gtag?: (...a: unknown[]) => void }).gtag;
+      if (typeof g === 'function') g('event', evento, { posicao: slot, pagina: location.pathname, ...extra });
+    };
+
+    const abrir = (origem: HTMLElement) => {
+      slot = origem.getAttribute('data-cotacao-slot') || '';
+      const carro = origem.getAttribute('data-carro');
+      if (carro && !campo('carro').value) campo('carro').value = carro;
+      etapaForm.hidden = false;
+      etapaOk.hidden = true;
+      erro.hidden = true;
+      abertoEm = Date.now();
+      pedirToken();
+      dialog.showModal();
+      medir('cotacao_seguro_abrir');
+    };
+
+    document.addEventListener('click', (ev) => {
+      const alvo = (ev.target as HTMLElement).closest?.('.js-cotacao') as HTMLElement | null;
+      if (alvo) { ev.preventDefault(); abrir(alvo); }
+    });
+    dialog.addEventListener('click', (ev) => {
+      const t = ev.target as HTMLElement;
+      // Clique fora da caixa (no backdrop) ou num botão de fechar.
+      if (t === dialog || t.closest('[data-cot-fechar]')) dialog.close();
+    });
+
+    // Máscaras leves: só formatam o que foi digitado, não bloqueiam teclas.
+    const soDigitos = (v: string) => v.replace(/\D/g, '');
+    campo('whatsapp').addEventListener('input', (e) => {
+      const el = e.target as HTMLInputElement;
+      const d = soDigitos(el.value).slice(0, 11);
+      el.value = d.length <= 2 ? d
+        : d.length <= 6 ? `(${d.slice(0, 2)}) ${d.slice(2)}`
+        : d.length <= 10 ? `(${d.slice(0, 2)}) ${d.slice(2, 6)}-${d.slice(6)}`
+        : `(${d.slice(0, 2)}) ${d.slice(2, 7)}-${d.slice(7)}`;
+    });
+    campo('cep').addEventListener('input', (e) => {
+      const el = e.target as HTMLInputElement;
+      const d = soDigitos(el.value).slice(0, 8);
+      el.value = d.length > 5 ? `${d.slice(0, 5)}-${d.slice(5)}` : d;
+    });
+
+    const mostrarErro = (msg: string, foco?: HTMLElement) => {
+      erro.textContent = msg;
+      erro.hidden = false;
+      if (foco) { foco.setAttribute('aria-invalid', 'true'); foco.focus(); }
+    };
+
+    const validar = (): boolean => {
+      form.querySelectorAll('[aria-invalid]').forEach((el) => el.removeAttribute('aria-invalid'));
+      if (campo('nome').value.trim().length < 2) return mostrarErro('Informe o seu nome.', campo('nome')), false;
+      const tel = soDigitos(campo('whatsapp').value);
+      if (tel.length < 10 || tel.length > 11) return mostrarErro('Confira o WhatsApp, com DDD.', campo('whatsapp')), false;
+      const email = campo('email');
+      if (email.value && !email.checkValidity()) return mostrarErro('Confira o e-mail, ou deixe em branco.', email), false;
+      if (campo('carro').value.trim().length < 2) return mostrarErro('Informe a marca e o modelo do carro.', campo('carro')), false;
+      if (!campo('ano').value) return mostrarErro('Escolha o ano do modelo.', campo('ano')), false;
+      if (soDigitos(campo('cep').value).length !== 8) return mostrarErro('O CEP tem 8 números.', campo('cep')), false;
+      if (!campo('ciencia').checked) return mostrarErro('Marque a caixa de ciência para pedir a cotação.', campo('ciencia')), false;
+      return true;
+    };
+
+    form.addEventListener('submit', async (ev) => {
+      ev.preventDefault();
+      erro.hidden = true;
+      if (!validar()) return;
+      enviar.disabled = true;
+      enviar.textContent = 'Enviando...';
+      try {
+        const dados = Object.fromEntries(new FormData(form).entries());
+        const valorToken = await tokenParaEnvio();
+        if (!valorToken) throw new Error('HTTP token'); // sem token o servidor descartaria o pedido calado
+        const resp = await fetch(ENDPOINT, {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/json' },
+          body: JSON.stringify({ ...dados, ciencia: true, posicao: slot, pagina: location.pathname, tempoMs: Date.now() - abertoEm, token: valorToken }),
+        });
+        // Token gasto: um novo envio (outra pessoa no mesmo aparelho, por exemplo) pede outro.
+        if (resp.ok) token = null;
+        const corpo = await resp.json().catch(() => ({}));
+        if (!resp.ok || !corpo.ok) throw new Error(corpo.erro || `HTTP ${resp.status}`);
+        medir('cotacao_seguro_enviada');
+        form.reset();
+        etapaForm.hidden = true;
+        etapaOk.hidden = false;
+        (etapaOk.querySelector('h2') as HTMLElement).focus();
+      } catch (e) {
+        mostrarErro(e instanceof Error && e.message && !e.message.startsWith('HTTP')
+          ? e.message
+          : 'Não deu para enviar agora. Tente de novo em instantes.');
+      } finally {
+        enviar.disabled = false;
+        enviar.textContent = 'Cotar seguro auto';
+      }
+    });
+  }
+</script>

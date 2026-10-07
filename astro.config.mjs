@@ -7,30 +7,65 @@ import { execFileSync } from 'node:child_process';
 import { BANNERS, BANNERS_VONIXX } from './src/config/banners.ts';
 import { bannerHtmlResponsive } from './src/lib/banner-html.ts';
 import { bannerHtmlVonixx } from './src/lib/banner-vonixx-html.ts';
+import { cotacaoNoAr } from './src/config/cotacao-seguro.ts';
+import { bannerSeguroHtml } from './src/lib/banner-seguro-html.ts';
 
 const SITE = 'https://hachiroku.com.br';
 
+/** Marca + modelo do artigo, para pré-preencher o formulário de cotação. @param {any} fm */
+function carroDoArtigo(fm) {
+  const marca = fm?.entidade?.marca ?? fm?.marca;
+  const modelo = fm?.entidade?.modelo ?? fm?.modelo;
+  if (typeof marca !== 'string' || typeof modelo !== 'string') return undefined;
+  return `${marca} ${modelo}`.trim();
+}
+
 /**
  * Cada família de banner tem seu próprio registro de produtos e gerador de
- * HTML (layouts diferentes — ver src/lib/banner-html.ts e
- * banner-vonixx-html.ts). `familia` num slot escolhe qual das duas usar.
+ * HTML (layouts diferentes — ver src/lib/banner-html.ts,
+ * banner-vonixx-html.ts e banner-seguro-html.ts). `familia` num slot escolhe
+ * qual usar. `render(props, produto, ctx)`: ctx traz o slot e o frontmatter.
  */
+/** @type {Record<string, { registro: Record<string, any>, render: (props: any, produto: string, ctx: { slot: string, frontmatter: any, primeiro: boolean }) => string }>} */
 const FAMILIAS_BANNER = {
   padrao: { registro: BANNERS, render: bannerHtmlResponsive },
   vonixx: { registro: BANNERS_VONIXX, render: bannerHtmlVonixx },
+  seguro: {
+    registro: { 'seguro-auto': {} },
+    /** @param {unknown} _props @param {string} _produto @param {{ slot: string, frontmatter: any, primeiro: boolean }} ctx */
+    render: (_props, _produto, ctx) => bannerSeguroHtml({
+      slot: ctx.slot,
+      carro: carroDoArtigo(ctx.frontmatter),
+      eager: ctx.primeiro,
+    }),
+  },
 };
+
+/** Ligado pela integração hachiroku:modo no `astro dev` (ver integrations). */
+let modoDev = false;
 
 /**
  * Todo silo leva estes banners por padrão, nas posições abaixo — declarar
  * `bannerMeio` (array) no frontmatter de um artigo sobrescreve a lista
  * inteira só para ele; `bannerMeio: false` desativa todos.
  *
- * kit-vonixx (4º H2) ativado em 2026-09-22 com o link real do anúncio.
+ * Banners de afiliado no meio do artigo REMOVIDOS em 2026-10-05, a pedido:
+ * eram astroai-s8 (antes do 2º H2) e kit-vonixx (antes do 4º H2). Lista vazia
+ * = nenhum artigo leva banner; registro e geradores seguem no código.
  */
-const DEFAULT_BANNER_SLOTS = [
-  { familia: 'padrao', produto: 'astroai-s8', nivel: 'h2', indice: 2 },
-  { familia: 'vonixx', produto: 'kit-vonixx', nivel: 'h2', indice: 4 },
+const SLOTS_SEGURO = [
+  { familia: 'seguro', produto: 'seguro-auto', nivel: 'h2', indice: 1 },
+  { familia: 'seguro', produto: 'seguro-auto', nivel: 'h2', indice: 3 },
+  { familia: 'seguro', produto: 'seguro-auto', posicao: 'fim' },
 ];
+
+/**
+ * Banner de cotação de seguro auto (05/10/2026): antes do 1º e do 3º H2 e no
+ * fim do corpo. Fica fora do build de produção enquanto a corretora não for
+ * definida em src/config/cotacao-seguro.ts; no `astro dev` aparece sempre,
+ * para revisão.
+ */
+const defaultBannerSlots = () => (cotacaoNoAr() || modoDev ? SLOTS_SEGURO : []);
 
 /**
  * Injeta um ou mais banners de produto antes do N-ésimo heading de nível
@@ -48,10 +83,12 @@ const DEFAULT_BANNER_SLOTS = [
  * pra frente deslocaria os índices já calculados dos slots seguintes.
  */
 function rehypeBannerMeio() {
+  /** @param {any} tree @param {any} file */
   return (tree, file) => {
     const raw = file.data?.astro?.frontmatter?.bannerMeio;
     if (raw === false) return; // opt-out explícito deste artigo
-    const slots = raw ?? DEFAULT_BANNER_SLOTS;
+    const slots = raw ?? defaultBannerSlots();
+    const frontmatter = file.data?.astro?.frontmatter;
 
     const insercoes = [];
     for (const cfg of slots) {
@@ -61,16 +98,22 @@ function rehypeBannerMeio() {
       if (!props) continue; // produto inexistente no registro da família — idem
       const nivel = cfg.nivel ?? 'h2';
       const alvo = cfg.indice ?? 1;
-      let vistos = 0;
-      const idx = tree.children.findIndex((node) => {
-        if (node.type === 'element' && node.tagName === nivel) {
-          vistos += 1;
-          return vistos === alvo;
-        }
-        return false;
-      });
+      let idx;
+      if (cfg.posicao === 'fim') {
+        idx = tree.children.length; // depois do último bloco do corpo
+      } else {
+        let vistos = 0;
+        idx = tree.children.findIndex((/** @type {any} */ node) => {
+          if (node.type === 'element' && node.tagName === nivel) {
+            vistos += 1;
+            return vistos === alvo;
+          }
+          return false;
+        });
+      }
       if (idx === -1) continue; // artigo não tem headings suficientes nesse nível — não injeta
-      insercoes.push({ idx, html: familia.render(props, cfg.produto) });
+      const slot = cfg.posicao === 'fim' ? 'fim' : `${nivel}-${alvo}`;
+      insercoes.push({ idx, html: familia.render(props, cfg.produto, { slot, frontmatter, primeiro: insercoes.length === 0 }) });
     }
 
     insercoes.sort((a, b) => b.idx - a.idx);
@@ -265,6 +308,25 @@ export default defineConfig({
           } else {
             logger.warn('sitemap-index.xml não encontrado — /sitemap.xml não gerado');
           }
+        },
+      },
+    },
+    // Avisa o rehypeBannerMeio se é `astro dev` (banner de seguro em revisão).
+    {
+      name: 'hachiroku:modo',
+      hooks: {
+        'astro:config:setup': ({ command }) => { modoDev = command === 'dev'; },
+      },
+    },
+    // Mapa de camadas de página (src/dev/camadas.astro) em /dev/camadas/.
+    // Só existe no `astro dev`: no build a rota não é injetada, então não vira
+    // HTML, não entra no sitemap e não chega à Vercel.
+    {
+      name: 'hachiroku:dev-camadas',
+      hooks: {
+        'astro:config:setup': ({ command, injectRoute }) => {
+          if (command !== 'dev') return;
+          injectRoute({ pattern: '/dev/camadas', entrypoint: './src/dev/camadas.astro' });
         },
       },
     },

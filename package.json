@@ -17,7 +17,8 @@
     "google-index": "node scripts/google-index.mjs",
     "check:links": "node scripts/check-links.mjs",
     "check:redirects": "node scripts/check-redirects.mjs",
-    "check:consent": "node scripts/check-consent.mjs"
+    "check:consent": "node scripts/check-consent.mjs",
+    "check:cotacao": "node scripts/check-cotacao.mjs"
   },
   "dependencies": {
     "@astrojs/check": "0.9.9",
