@@ -4,12 +4,12 @@
  * site uma peça por semana: o build de cada segunda (disparado por
  * .github/workflows/publicacao-agendada.yml) passa a incluir a peça cuja data venceu.
  *
- * No `astro dev` tudo aparece, para revisão antes da data.
+ * No `astro dev` tudo aparece, inclusive rascunho, para revisão antes da data.
  * Links do corpo para uma página ainda não publicada são desfeitos no build pelo
  * rehypeLinkAgendado (astro.config.mjs), então nenhuma peça aponta para um 404.
  */
 export function publicado(data: { draft?: boolean; pubDate?: Date }, agora: number = Date.now()): boolean {
-  if (data.draft) return false;
   if (import.meta.env.DEV) return true;
+  if (data.draft) return false;
   return !data.pubDate || data.pubDate.getTime() <= agora;
 }
