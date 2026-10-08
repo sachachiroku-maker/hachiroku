@@ -47,7 +47,7 @@ relacionados:
     url: "/guia-de-compra/seguro/seguro-auto-mensal/"
   - titulo: "Seguro cobre motor? Quando paga o conserto e quando nega"
     url: "/guia-de-compra/seguro/seguro-cobre-motor/"
-draft: true
+draft: false
 ---
 
 A renovação chega por e-mail, o valor subiu e o corretor sugere trocar de seguradora. Você pesquisa "melhores seguradoras de carro" e encontra um ranking com a Porto Seguro na frente, nota 7,88, e a Allianz logo atrás, com 7,84. O ranking existe. Saiu na Revista Apólice em abril de 2013, com opiniões coletadas entre 2011 e 2012.

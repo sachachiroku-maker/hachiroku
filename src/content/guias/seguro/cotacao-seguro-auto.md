@@ -50,7 +50,7 @@ relacionados:
     url: "/guia-de-compra/seguro/seguro-ou-protecao-veicular/"
   - titulo: "Seguro cobre motor? Quando paga o conserto e quando nega"
     url: "/guia-de-compra/seguro/seguro-cobre-motor/"
-draft: true
+draft: false
 ---
 
 Três abas abertas, o mesmo carro, três preços que não conversam entre si. Um simulador pediu CEP e idade. O outro quis saber se o carro dorme em garagem e quem dirige. O terceiro devolveu um número quase sem perguntar nada. Qual deles está certo?

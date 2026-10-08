@@ -47,7 +47,7 @@ relacionados:
     url: "/guia-de-compra/seguro/melhores-seguradoras-de-carro/"
   - titulo: "Checklist para vistoria de carro usado"
     url: "/guia-de-compra/checklist-vistoria-carro-usado/"
-draft: true
+draft: false
 ---
 
 A concessionária fecha o preço do carro, você pede a cotação do seguro e o número que volta não bate com a lista de "carro com seguro mais barato" que leu na semana. O erro raramente está na seguradora. Toda lista desse tipo foi calculada para algum perfil, algum CEP e alguma data, e a primeira coisa a checar é se ela diz quais.

@@ -44,7 +44,7 @@ relacionados:
     url: "/guia-de-compra/seguro/seguro-ou-protecao-veicular/"
   - titulo: "Seguro de carro elétrico é mais caro? Quanto custa e o que conferir na apólice"
     url: "/guia-de-compra/seguro/seguro-carro-eletrico/"
-draft: true
+draft: false
 ---
 
 Você abre duas abas. Numa, a cotação do seguro do carro mostra o preço anual e, embaixo, "em até 12x". Na outra, um anúncio promete seguro auto mensal, sem fidelidade, cancelável pelo aplicativo.

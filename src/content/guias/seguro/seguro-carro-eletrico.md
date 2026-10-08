@@ -47,7 +47,7 @@ relacionados:
     url: "/eletricos/vale-a-pena-comprar-carro-eletrico-brasil/"
   - titulo: "Melhores seguradoras de carro em 2026: o ranking que sai do dado público, com data e fonte"
     url: "/guia-de-compra/seguro/melhores-seguradoras-de-carro/"
-draft: true
+draft: false
 ---
 
 A concessionária fechou o preço do Dolphin Mini, a parcela cabe no mês e aí chega a cotação do seguro, maior do que a do hatch flex que estava na garagem. A tentação é concluir que seguro de carro elétrico é caro por natureza.

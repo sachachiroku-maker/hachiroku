@@ -47,7 +47,7 @@ relacionados:
     url: "/guia-de-compra/jornada/posso-continuar-dirigindo/"
   - titulo: "Quanto custa seguro de carro em 2026: o que pesa no preço e os carros mais baratos de segurar"
     url: "/guia-de-compra/seguro/quanto-custa-seguro-de-carro/"
-draft: true
+draft: false
 ---
 
 Um exemplo: o motor apaga no meio da avenida, o painel acende inteiro e o guincho leva o carro para a oficina. O mecânico quer abrir o cabeçote para dar o diagnóstico. Antes de autorizar, o dono liga para a seguradora com uma pergunta simples: o seguro cobre motor? A ordem certa é essa, e a última seção explica por quê.

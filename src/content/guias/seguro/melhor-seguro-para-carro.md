@@ -50,7 +50,7 @@ relacionados:
     url: "/guia-de-compra/seguro/seguro-ou-protecao-veicular/"
   - titulo: "Seguro de carro elétrico é mais caro? Quanto custa e o que conferir na apólice"
     url: "/guia-de-compra/seguro/seguro-carro-eletrico/"
-draft: true
+draft: false
 ---
 
 A proposta de seguro chega por e-mail com o preço em destaque e uma lista de siglas: casco, RCF-V, APP, LMI, franquia 50%. Cada sigla é uma escolha de cobertura, e o preço só faz sentido depois de entender cada uma.
