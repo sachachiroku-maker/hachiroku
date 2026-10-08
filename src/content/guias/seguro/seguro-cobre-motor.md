@@ -25,8 +25,8 @@ checklist:
     critico: false
 autor:
   nome: "Redação Hachiroku"
-pubDate: 2026-10-26T09:00:00-03:00
-updatedDate: 2026-10-26T09:00:00-03:00
+pubDate: 2026-10-08T09:00:00-03:00
+updatedDate: 2026-10-08T09:00:00-03:00
 disclaimer: "Conteúdo informativo, sem recomendação de apólice ou de seguradora. O Hachiroku não é seguradora. Condições, coberturas e preços variam por seguradora e perfil: confira a apólice e as condições gerais antes de contratar."
 faq:
   - pergunta: "Seguro total cobre motor fundido?"

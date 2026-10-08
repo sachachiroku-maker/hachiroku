@@ -28,8 +28,8 @@ checklist:
     critico: true
 autor:
   nome: "Redação Hachiroku"
-pubDate: 2026-11-23T09:00:00-03:00
-updatedDate: 2026-11-23T09:00:00-03:00
+pubDate: 2026-10-08T09:00:00-03:00
+updatedDate: 2026-10-08T09:00:00-03:00
 disclaimer: "Conteúdo informativo, sem recomendação de apólice ou de seguradora. O Hachiroku não é seguradora. Condições, coberturas e preços variam por seguradora e perfil: confira a apólice e as condições gerais antes de contratar."
 faq:
   - pergunta: "Proteção veicular agora é regulamentada pela Susep?"
@@ -140,7 +140,7 @@ O segundo é o calendário. A Resolução CNSP 491/2026 deu 24 meses para a adeq
 4. O patrimônio de cada grupo é separado, com CNPJ próprio, e a quebra da administradora não o atinge. A administradora responde com todo o patrimônio dela por falha operacional, negligência ou administração temerária.
 5. Grupo com poucos carros precisa avisar, em destaque, que o rateio pode oscilar bastante.
 
-A 491 também abriu uma saída para a associação cadastrada: optar por encerrar a atividade em até 180 dias contados da publicação da norma, com comunicação formal à Susep. Contada da publicação, em maio de 2026, essa janela terminou no início de novembro de 2026.
+A 491 também abriu uma saída para a associação cadastrada: optar por encerrar a atividade em até 180 dias contados da publicação da norma, com comunicação formal à Susep. Contada da publicação, em maio de 2026, essa janela termina no início de novembro de 2026.
 
 Em outubro de 2026, nenhuma associação podia ter o status "Regular", porque não havia administradora autorizada.
 
