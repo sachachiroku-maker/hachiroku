@@ -8,7 +8,7 @@
     "dev": "astro dev",
     "start": "astro dev",
     "prebuild": "node scripts/clear-content-cache.mjs",
-    "build": "astro build && pagefind --site dist",
+    "build": "astro build && pagefind --site dist && node scripts/check-sitemap.mjs",
     "preview": "astro preview",
     "astro": "astro",
     "check": "astro check",
@@ -18,7 +18,8 @@
     "check:links": "node scripts/check-links.mjs",
     "check:redirects": "node scripts/check-redirects.mjs",
     "check:consent": "node scripts/check-consent.mjs",
-    "check:cotacao": "node scripts/check-cotacao.mjs"
+    "check:cotacao": "node scripts/check-cotacao.mjs",
+    "check:sitemap": "node scripts/check-sitemap.mjs"
   },
   "dependencies": {
     "@astrojs/check": "0.9.9",

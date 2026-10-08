@@ -344,21 +344,35 @@ export default defineConfig({
         return item;
       },
     }),
-    // Expõe o índice de sitemap também em /sitemap.xml (URL canônica esperada
-    // pelo Search Console e pelo robots.txt). Roda após o @astrojs/sitemap,
-    // quando sitemap-index.xml já foi escrito no diretório de saída.
+    // /sitemap.xml (o endereço do robots.txt e do Search Console) traz as URLs
+    // direto, num <urlset>, e não um índice que manda para sitemap-0.xml (decisão
+    // de 08/10/2026). Junta todos os sitemap-N.xml do @astrojs/sitemap; o protocolo
+    // aceita até 50.000 URLs num arquivo, e acima disso o build falha em vez de
+    // gerar sitemap inválido. sitemap-index.xml e sitemap-0.xml continuam no ar
+    // para quem já os tem cadastrados. Página nova entra sozinha: o que não é
+    // noindex está no sitemap, e scripts/check-sitemap.mjs reprova o build se não.
     {
-      name: 'hachiroku:sitemap-alias',
+      name: 'hachiroku:sitemap-unico',
       hooks: {
-        'astro:build:done': ({ dir, logger }) => {
-          const indexFile = new URL('sitemap-index.xml', dir);
-          const aliasFile = new URL('sitemap.xml', dir);
-          if (fs.existsSync(indexFile)) {
-            fs.copyFileSync(indexFile, aliasFile);
-            logger.info('sitemap.xml criado (alias de sitemap-index.xml)');
-          } else {
-            logger.warn('sitemap-index.xml não encontrado — /sitemap.xml não gerado');
+        'astro:build:done': ({ dir }) => {
+          const partes = fs.readdirSync(dir)
+            .filter((f) => /^sitemap-\d+\.xml$/.test(f))
+            .sort((a, b) => Number(a.match(/\d+/)[0]) - Number(b.match(/\d+/)[0]));
+          if (!partes.length) throw new Error('[sitemap] nenhum sitemap-N.xml gerado; /sitemap.xml ficaria vazio');
+          let abertura = '';
+          const urls = [];
+          for (const f of partes) {
+            const xml = fs.readFileSync(new URL(f, dir), 'utf8');
+            abertura ||= xml.match(/<urlset[^>]*>/)?.[0] ?? '';
+            urls.push(...(xml.match(/<url>[\s\S]*?<\/url>/g) ?? []));
           }
+          if (!abertura) throw new Error('[sitemap] sitemap-0.xml sem <urlset>');
+          if (urls.length > 50000) throw new Error(`[sitemap] ${urls.length} URLs passam do limite de 50.000 por arquivo`);
+          fs.writeFileSync(
+            new URL('sitemap.xml', dir),
+            `<?xml version="1.0" encoding="UTF-8"?>${abertura}${urls.join('')}</urlset>`,
+          );
+          console.log(`[sitemap] sitemap.xml com ${urls.length} URLs`);
         },
       },
     },
